@@ -1,7 +1,7 @@
 ---
 title: "Boosting Linux Protection: 6 Essential Strategies for Secure Computing"
-date: 2024-12-11T01:00:42.610Z
-updated: 2024-12-13T19:29:50.566Z
+date: 2024-12-17T00:51:12.710Z
+updated: 2024-12-22T18:03:33.607Z
 tags:
   - desktop
 categories:
@@ -21,6 +21,10 @@ Cybersecurity can be confusing. Here are six easy things you can do, and habits 
 
  Some of these are settings you can apply, but some of them are habits you need to adopt, or actions that need to be repeated periodically. As you’ve likely heard, cybersecurity isn’t a destination, it’s an ongoing journey.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1  Keep Your System Updated 
 
  All non-trivial software has bugs. Some bugs can lead to vulnerabilities. Vulnerabilities are weak spots in your armor. These vulnerabilities are exploited by cybercriminals. A common attack type uses malicious software, known as malware.
@@ -36,16 +40,12 @@ Cybersecurity can be confusing. Here are six easy things you can do, and habits 
  Some of these devices will get automatic updates. For example, Amazon Echo and Google Nest smart speakers receive automatic updates for four and five years from purchase, respectively.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2  Secure User Accounts 
 
 ![The login screen on a laptop running Ubuntu Linux.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/52848723811_08b4c56473_o.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek  
   
@@ -58,7 +58,7 @@ Hannah Stryker / How-To Geek
  You can add two-factor authentication to your own computers too. this is especially valuable if you connect to them remotely, using SSH.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3  Control User Access 
@@ -67,15 +67,15 @@ Hannah Stryker / How-To Geek
 
  Most Linux systems disable the root account by default. To access root-level functionality you need to use sudo or run0\. This gives you short-term superuser status then demotes you to a normal user when you’ve completed that specific task.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4  Improve Your Network Security 
 
 [Turn on the firewall](https://extra-support.techidaily.com/new-mastering-video-playback-rate-adjustments-in-snapchat/) in your Linux distribution, and turn on the one in your broadband router too. Use WPA2 or WPA3 encryption for your wireless network, and change the Wi-Fi password from the default, if you can.
 
  Many modern Wi-Fi routers allow you to configure a [guest Wi-Fi network](https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-itel-p55-by-drfone-android/). This allows them to get to the internet, but isolates them from your main network.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5  Check Your Software Management 
 
@@ -88,7 +88,7 @@ Hannah Stryker / How-To Geek
  If you download an application and find it doesn’t suit your needs, uninstall it. Don’t just leave it on your machine. If a project is abandoned, and no longer in development, find a replacement. Using an old version of software that no longer receives security patches increases your exposure to risks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6  Make Backups and Stay Educated 
@@ -118,17 +118,24 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-mobile-magic-no-cost-image-transformation-tool/"><u>[New] Mobile Magic No-Cost Image Transformation Tool</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-microsoft-azure-transcription-capabilities/"><u>[New] Unlocking Microsoft Azure Transcription Capabilities</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-techniques-for-enlarging-content-on-youtube-platform/"><u>[Updated] Techniques for Enlarging Content on YouTube Platform</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-blueprint-for-stellar-unboxing-videos-on-tiktok/"><u>2024 Approved The Blueprint for Stellar Unboxing Videos on TikTok</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ustream-live-and-comparable-platforms/"><u>2024 Approved Ustream Live & Comparable Platforms</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Google Pixel 8? | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-premium-photographic-archives/"><u>In 2024, Premium Photographic Archives</u></a></li>
-<li><a href="https://program-issues.techidaily.com/maximizing-performance-unlocking-the-best-fps-settings-for-modern-warfare/"><u>Maximizing Performance: Unlocking the Best FPS Settings for Modern Warfare</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726227559904-obs2024/"><u>OBSの導入ガイド：2024年度更新版 - 最高の録画設定について学ぶ！</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimizing-cash-flow-for-steam-gaming-purchases/"><u>Optimizing Cash Flow for Steam Gaming Purchases</u></a></li>
-<li><a href="https://some-skills.techidaily.com/strategies-for-dampening-aerial-drone-vibration-artifacts-for-2024/"><u>Strategies for Dampening Aerial Drone Vibration Artifacts for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tainted-grail-conquest-optimization-tips-for-enhanced-frame-per-seconds-fps/"><u>'Tainted Grail: Conquest' Optimization Tips for Enhanced Frame Per Seconds (FPS)</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-budget-friendly-backdrops-a-journey-through-tiktoks-visual-wonderland/"><u>[New] Budget-Friendly Backdrops A Journey Through TikTok's Visual Wonderland</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-nights-reign-black-vs-the-dawns-duty-silver/"><u>[New] The Night's Reign (Black) VS The Dawn’s Duty (Silver)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-10-no-cost-software-for-professional-capture-at-home-for-2024/"><u>[New] Top 10 No-Cost Software for Professional Capture at Home for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagrams-video-content-regulations-simplified-for-2024/"><u>[Updated] Instagram's Video Content Regulations Simplified for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-meme-gurus-list-of-the-best-designs-10/"><u>[Updated] The Meme Guru's List of the Best Designs #10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-drone-racings-secrets-and-surpassing-fpv-drones/"><u>[Updated] Unveiling Drone Racing's Secrets & Surpassing FPV Drones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-facial-movements-using-blur-effects-in-picsart/"><u>2024 Approved The Art of Facial Movements Using Blur Effects in Picsart</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-15-plus-5-ways-to-get-into-a-locked-apple-iphone-15-plus-drfone-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 15 Plus? 5 Ways to get into a Locked Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pixel-playbook-transform-your-images/"><u>In 2024, Pixel Playbook Transform Your Images</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-cd-manipulation-with-wmp/"><u>In 2024, Streamlining Cd Manipulation with WMP</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-f15-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy F15 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-tier-hdr-camera-selection-made-easy/"><u>In 2024, Top-Tier HDR Camera Selection Made Easy</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-funimate-on-android-step-by-step-apk-tutorial/"><u>In 2024, Unleashing Funimate on Android - Step-by-Step APK Tutorial</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/secure-download-of-canon-printer-mg3620-drivers-quick-guide/"><u>Secure Download of Canon Printer MG3620 Drivers - Quick Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tricks-to-simulate-quantum-leap-phenomena-for-2024/"><u>Tricks to Simulate Quantum Leap Phenomena for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-editing-playbook-for-breaking-into-viral-spots-on-tiktok-for-2024/"><u>Ultimate Editing Playbook for Breaking Into Viral Spots on TikTok for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/vdg-screen-snatcher-synopsis-full-breakdown-for-2024/"><u>VDG Screen Snatcher Synopsis Full Breakdown for 2024</u></a></li>
 </ul></div>
 

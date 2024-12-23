@@ -1,7 +1,7 @@
 ---
 title: Mandatory Survey Prompt Launched by Microsoft When Exiting OneDrive
-date: 2024-12-08T17:23:32.597Z
-updated: 2024-12-13T20:24:37.546Z
+date: 2024-12-21T19:00:27.608Z
+updated: 2024-12-23T01:29:13.243Z
 tags:
   - deals
 categories:
@@ -18,7 +18,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Microsoft's clingy behavior continues to annoy Windows users. Last month, the company introduced an optional [pop-up survey](https://article-files.techidaily.com/2024-approved-the-ultimate-guide-for-implementing-look-up-tables-in-creative-suite/) that's triggered when installing Chrome from Edge. Now, Windows users are being hit with a _mandatory_ survey when they try to _close_ OneDrive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  UPDATE: 2023/11/10 10:11 EST BY ANDREW HEINZMAN
@@ -32,7 +32,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![The "quit OneDrive" popup prompting a user to complete a survey.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/11-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Neowin](https://www.neowin.net/news/microsoft-wont-let-you-close-onedrive-in-windows-without-you-explaining-it-first/)
@@ -68,14 +68,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-streamline-your-information-with-mematics-app/"><u>[Updated] Streamline Your Information with Mematic's App</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-novice-writers-guide-to-boosting-brand-visibility-through-content-creation/"><u>[Updated] The Novice' Writers' Guide to Boosting Brand Visibility Through Content Creation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transform-your-photos-into-masterpieces-with-top-pixlr-techniques/"><u>[Updated] Transform Your Photos Into Masterpieces with Top Pixlr Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-6-platforms-revolutionizing-business-social-interaction/"><u>2024 Approved Top 6 Platforms Revolutionizing Business-Social Interaction</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/cross-language-communication-with-chatgpt-tips-and-tricks-for-a-global-experience/"><u>Cross-Language Communication with ChatGPT: Tips and Tricks for a Global Experience</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/how-to-effortlessly-recover-deleted-data-from-your-hard-disk-using-windows-versions-11-10-8-and-7-techniques/"><u>How to Effortlessly Recover Deleted Data From Your Hard Disk Using Windows Versions 11, 10, 8, and 7 Techniques</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/mapping-out-the-next-wave-of-social-media-graphs/"><u>Mapping Out the Next Wave of Social Media Graphs</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/top-10-fastest-flip-screen-games-on-desktops-and-phones/"><u>Top 10 Fastest Flip-Screen Games on Desktops & Phones</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-voice-mail-management-apps/"><u>Top Rated Voice Mail Management Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-techniques-for-downloading-converting-and-saving-vids-on-twitter-as-mp3s/"><u>[Updated] Techniques for Downloading, Converting, and Saving Vids on Twitter as MP3s</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-faster-facebook-videos/"><u>[Updated] The Ultimate Guide to Faster Facebook Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-money-potential-a-beginners-guide-on-periscope/"><u>[Updated] Unlocking Money Potential A Beginner's Guide on Periscope</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unshakable-imagery-techniques/"><u>[Updated] Unshakable Imagery Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-discounts-on-economical-gopro-cameras/"><u>2024 Approved Exclusive Discounts on Economical GoPro Cameras</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-lava-storm-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Lava Storm 5G PC | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/augmenting-data-analysis-in-excel-through-chatgpt-methods/"><u>Augmenting Data Analysis in Excel Through ChatGPT Methods</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/charting-a-new-course-for-creative-vr-content/"><u>Charting a New Course for Creative VR Content</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-examination-of-the-dell-inspiron-edesktop-3671-a-solid-middle-ground-option/"><u>Comprehensive Examination of the Dell Inspiron eDesktop 3671: A Solid Middle Ground Option</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-zte-blade-a73-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring ZTE Blade A73 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-playlist-creation-on-youtube-easily/"><u>In 2024, Navigating Playlist Creation on YouTube Easily</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unwind-and-learn-your-guide-to-podcasting-multitasking-for-2024/"><u>Unwind and Learn Your Guide to Podcasting Multitasking for 2024</u></a></li>
 </ul></div>
 

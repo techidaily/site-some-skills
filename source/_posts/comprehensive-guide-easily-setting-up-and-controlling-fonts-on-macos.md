@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Easily Setting Up & Controlling Fonts on macOS"
-date: 2024-12-10T17:01:13.117Z
-updated: 2024-12-13T21:32:01.479Z
+date: 2024-12-21T05:30:14.453Z
+updated: 2024-12-22T23:23:33.660Z
 tags:
   - desktop
 categories:
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
  macOS Sonoma can handle many font types, like OpenType, Mac TrueType, Windows TrueType, bitmap, and dfont. As of macOS Catalina, Mac doesn't support PostScript fonts.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to View Your Fonts in Font Book
 
  The Font Book app is your go-to tool for checking out the fonts you have, adding new ones, organizing them into collections, and turning them on or off. Open it through your Applications folder, or select the Launchpad icon in your Dock and find the Font Book icon there.
@@ -55,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
  To check out a font or font family in more detail, double click it. The font pops up in the main part of the window. To change the size of your fonts when previewing them in Font Book, use the slider at the top (with the minus and plus symbol on either side.)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Install a Font
 
  If a default system font within Font Book is colored gray instead of black, it means the font isn't downloaded to your local machine. To fix that, right-click it and select "Download." The font is automatically activated, so you don't need to worry about that.
@@ -63,9 +63,17 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 ![The installation screen of a new font on Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2cc-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you prefer installing a font from Font Book, go to File > Add Fonts (or press ⌘+O). A window opens where you can choose the font(s) you want to install. Once ready, click "Open."
 
  Avoid going overboard with font installations. Installing more fonts than you actually use can lead to sluggish performance in certain apps and create an overwhelming font menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  How to Install Fonts for All Users
 
@@ -74,7 +82,11 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 ![Selecting All Users from Font Book's Installation menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-12-at-2-55-14-pm.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Deactivate or Remove a Font
@@ -83,17 +95,9 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 ![The deactivate option in Font Book.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-12-at-2-57-58-pm.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Alternatively, to delete it entirely, select "Remove." However, note that Font Book won't let you deactivate or delete any fonts that macOS needs to operate, like Arial, Times New Roman, and Avenir.
 
  If any font starts misbehaving, like displaying incorrect characters, you can [validate your fonts in Font Book](https://on-screen-recording.techidaily.com/in-2024-speaking-like-a-pro-tips-to-upgrade-your-google-meet-skills/). Just select "Validate" from the context menu.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Organize Your Fonts Into Collections
 
@@ -104,16 +108,12 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 ![Creating a new font collection.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-24-at-1-07-32-am.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Select the fonts you want to include in your collection (you can choose them from an existing collection, if needed.) To do that, click and drag to highlight multiple fonts, or use the Command key to select non-contiguous fonts. Then, drag the fonts to the collection, or right-click and use the "Add to" menu.
 
 ![Selecting fonts to be included in a new font collection.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-24-at-1-11-20-am.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Finally, double-click the collection name to retitle it and make it easy for you to identify later.
 
@@ -140,22 +140,14 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-youtube-artwork-hacks-snag-high-res-thumbnails-now/"><u>[New] 2024 Approved Free YouTube Artwork Hacks - Snag High-Res Thumbnails Now</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-a-comprehensive-look-celebrating-15-outstanding-unboxing-vloggers/"><u>[New] A Comprehensive Look Celebrating 15 Outstanding Unboxing Vloggers</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-what-to-expect-from-your-instagram-experience-now/"><u>[New] In 2024, What to Expect From Your Instagram Experience Now</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-perfect-your-youtube-experience-add-timestamps-efficiently/"><u>[New] Perfect Your YouTube Experience Add Timestamps Efficiently</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-unbreakable-approach-to-tiktok-bio-hyperlinks/"><u>[New] The Unbreakable Approach to TikTok Bio Hyperlinks</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-swift-video-editing-made-easy-with-top-iosdesktop-apps-8/"><u>[Updated] In 2024, Swift Video Editing Made Easy with Top iOS/Desktop Apps #8</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-strategic-unveiling-the-box-of-opportunity/"><u>[Updated] Strategic Unveiling The Box of Opportunity</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-essential-errors-to-dodge-beginner-youtubers-guide/"><u>2024 Approved Essential Errors to Dodge Beginner YouTuber's Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-composition-crafting-memorable-podcast-covers/"><u>2024 Approved The Ultimate Composition Crafting Memorable Podcast Covers</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-honor-magic-6-lite-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Honor Magic 6 Lite</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-superior-way-of-stitching-gopro-recordings-in-extended-spherical-videos/"><u>In 2024, Superior Way of Stitching GoPro Recordings in Extended Spherical Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-thorough-investigation-dji-inspire-1-reviewed/"><u>In 2024, Thorough Investigation DJI Inspire 1 Reviewed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-10-overlooked-yet-best-free-speech-transcribers-for-mac/"><u>In 2024, Top 10 Overlooked, Yet Best Free Speech Transcribers for Mac</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/inside-look-the-complete-breakdown-of-apples-new-ai-innovations-from-wwdc/"><u>Inside Look: The Complete Breakdown of Apple's New AI Innovations From WWDC</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/livestream-champions-weighing-up-winners-between-obs-studio-and-bandicam/"><u>Livestream Champions Weighing Up Winners Between OBS Studio and Bandicam</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Vivo S17? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-15-tips-for-accessing-nba-games-online-for-2024/"><u>Top 15 Tips for Accessing NBA Games Online for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-aesthetic-edge-crafting-podcast-logos-with-panache/"><u>[Updated] The Aesthetic Edge Crafting Podcast Logos with Panache</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-beginners-blueprint-for-winning-animation-in-windows/"><u>[Updated] The Beginner’s Blueprint for Winning Animation in Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-software-dell-optiplex-7010-drivers/"><u>Download and Update Software: Dell OptiPlex 7010 Drivers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/easy-video-conversion-mov-to-gif-on-movavi-for-free-transform-your-clips-today/"><u>Easy Video Conversion: MOV to GIF on Movavi for FREE! Transform Your Clips Today</u></a></li>
+<li><a href="https://driver-error.techidaily.com/failed-driver-setup-absence-of-intel-interface/"><u>Failed Driver Setup - Absence of Intel Interface</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-obs-stability-problems-a-detailed-walkthrough-for-windows-1110-users/"><u>Overcoming OBS Stability Problems: A Detailed Walkthrough for Windows 11/10 Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-to-updating-your-brother-mfc-7360n-printer-drivers-on-windows-1087/"><u>Step-by-Step Guide to Updating Your Brother MFC-7360N Printer Drivers on Windows 10/8/7</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-experts-playbook-top-techniques-for-youtube-to-mpeg-for-2024/"><u>The Expert's Playbook Top Techniques for YouTube-to-MPEG for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-haul-content-production-and-post-production-techniques-for-2024/"><u>Understanding Haul Content Production & Post-Production Techniques for 2024</u></a></li>
 </ul></div>
 

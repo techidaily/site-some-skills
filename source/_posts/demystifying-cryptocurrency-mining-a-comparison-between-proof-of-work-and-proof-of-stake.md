@@ -1,7 +1,7 @@
 ---
 title: "Demystifying Cryptocurrency Mining: A Comparison Between Proof of Work and Proof of Stake"
-date: 2024-12-10T01:16:53.072Z
-updated: 2024-12-14T00:40:47.333Z
+date: 2024-12-19T04:46:52.300Z
+updated: 2024-12-22T21:04:19.701Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/dc4cacbc8b493fc632f86712912ebd59bbc9ecbef
 ## Demystifying Cryptocurrency Mining: A Comparison Between Proof of Work and Proof of Stake
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/dc4cacbc8b493fc632f86712912ebd59bbc9ecbef
  Despite being such a new technology, there is a long-standing debate about the best method blockchains use to verify transactions and add them to the blockchain. The debate is between proof of work and proof of stake, and there are cryptocurrencies that use each.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Proof of What?
@@ -39,7 +39,7 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  An understanding of proof of work and proof of stake helps establish foundational knowledge on the value of blockchain technology, the pros and cons of different consensus methods, and the current state of affairs in cryptocurrencies.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Miners at Work
@@ -51,7 +51,7 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
  In order to mine the next block and earn their reward, miners must solve extremely complex math problems. These problems are solved quickest with the help of powerful computers that run 24/7 to solve the problem associated with the next block. One of the benefits of proof of work is that less powerful computers can pool resources together to compete with the stronger computers for these rewards. This feature ensures an individual with a large amount of computing power cannot centralize block creation or act maliciously.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Validators and Staking
@@ -61,7 +61,7 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
  The proof of stake consensus mechanism selects validators at random, but those validators with the most money that has been staked the longest increase their chances of creating the next block. Similar to how miners with less powerful computers can group together on proof of work, validators on proof of stake can pool their money together to compete with other validators that might have more block-creating power. This is known as a staking pool.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Big Picture
@@ -91,19 +91,16 @@ Related: [What Is "Ethereum 2.0" and Will It Solve Crypto's Problems?](https://u
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-podcasters-playground-unleashing-full-potential-in-video-and-audio-recording-on-zoom/"><u>[New] Podcaster's Playground Unleashing Full Potential in Video and Audio Recording on Zoom</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-top-5-drones-experts-choice-revealed/"><u>[New] Ultimate Top 5 Drones - Expert's Choice Revealed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-turning-chaos-into-clarity-in-your-burdened-tiktok-archive/"><u>[Updated] Turning Chaos Into Clarity in Your Burdened TikTok Archive</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-boost-your-movie-magic-free-text-animation-basics/"><u>2024 Approved Boost Your Movie Magic Free Text Animation Basics</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-8-metaverse-headsets-and-glasses-to-dive-into-metaverse/"><u>2024 Approved Top 8 Metaverse Headsets and Glasses to Dive Into Metaverse</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unparalleled-harmony-collector-android-based/"><u>2024 Approved Unparalleled Harmony Collector, Android-Based</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/elevate-your-sims-gaming-with-recording-expertise/"><u>Elevate Your Sims Gaming with Recording Expertise</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-is-av1-really-outdo-cooking-vp9/"><u>In 2024, Is AV1 Really Outdo Cooking VP9?</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-monetization-magic-geek-channels/"><u>In 2024, Monetization Magic Geek Channels</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-secrets-to-effective-video-tagging-revealed-here/"><u>In 2024, Secrets to Effective Video Tagging Revealed Here!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-filmora-its-10-most-attractive-features/"><u>In 2024, Unveiling Filmora Its 10 Most Attractive Features</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/invest-in-top-tier-coders-for-optimal-results-unlocking-microsofts-secrets-revealed-by-zdnet/"><u>Invest in Top-Tier Coders for Optimal Results: Unlocking Microsoft’s Secrets Revealed by ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-inside-scoop-on-chatgpt-revolutionizing-natural-language-interaction/"><u>The Inside Scoop on ChatGPT: Revolutionizing Natural Language Interaction</u></a></li>
-<li><a href="https://some-skills.techidaily.com/time-travelers-treasure-a-look-at-goofy-movie-for-2024/"><u>Time Traveler’s Treasure A Look at 'Goofy Movie' For 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-boost-production-value-with-free-sfx-libraries/"><u>[New] In 2024, Boost Production Value with Free SFX Libraries!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-resource-guide-for-refining-on-screen-text-in-videos/"><u>[New] The Ultimate Resource Guide for Refining On-Screen Text in Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-persuasive-visuals-uncover-the-power-in-6-video-types/"><u>[Updated] In 2024, Persuasive Visuals Uncover the Power in 6 Video Types</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-secure-periscope-streaming-techniques-and-strategies/"><u>[Updated] Unlocking Secure Periscope Streaming Techniques & Strategies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-comprehensive-guide-to-crafting-impeccable-srt-files/"><u>2024 Approved The Comprehensive Guide to Crafting Impeccable SRT Files</u></a></li>
+<li><a href="https://win-info.techidaily.com/dealing-with-sextortion-scams-from-your-email-expert-tips-on-what-to-do-next/"><u>Dealing with Sextortion Scams From Your Email: Expert Tips on What to Do Next</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-apple-iphone-se-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On Apple iPhone SE?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-the-full-potential-of-snapshots-on-iphones/"><u>In 2024, Unlock the Full Potential of Snapshots on iPhones</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-infinix-hot-40-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Infinix Hot 40 Black and White | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplify-audio-hardware-maintenance-now/"><u>Simplify Audio Hardware Maintenance Now</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-the-magic-creating-breathtaking-gopro-time-lapse-videos-for-2024/"><u>Unlock the Magic Creating Breathtaking GoPro Time-Lapse Videos for 2024</u></a></li>
 </ul></div>
 

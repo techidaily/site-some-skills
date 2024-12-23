@@ -1,7 +1,7 @@
 ---
 title: Uncover the Best-Kept Tricks of Windows 11 to Enhance Your Experience
-date: 2024-12-12T21:19:38.121Z
-updated: 2024-12-13T16:04:10.256Z
+date: 2024-12-18T21:56:41.004Z
+updated: 2024-12-23T03:48:48.560Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Uncover the Best-Kept Tricks of Windows 11 to Enhance Your Experience
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -42,16 +42,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![General privacy settings on Windows displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/general-privacy-settings-on-windows.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Next, return to the "Privacy & Security" menu and go to "Activity History" under Windows Permissions.
 
 ![Activity history settings on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-activity-history.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This setting tracks the websites you browse and the apps you use on your system. Use the toggle button to turn it off. Then click the "Clear History" button to delete previously collected activity history.
@@ -62,22 +58,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Different privacy and security settings on Windows being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/diagnostics-and-feedback-settings-on-windows.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Toggle the buttons to turn off sending all types of diagnostic data. Then press the "Delete" button to clear any previously collected data.
 
 ![Diagnostics data collection settigns on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/turn-off-diagnostics-data-collection-on-windows.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  There are more [privacy settings on Windows 11](https://win-able.techidaily.com/reviving-game-playthroughs-solve-xbox-headset-problems-with-these-proven-steps/) that you can change for a [better Windows user experience](https://instagram-video-files.techidaily.com/new-in-2024-essential-app-picks-best-10-editors-to-transform-reels/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Live Captions Anywhere
@@ -89,6 +77,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Turn on "Live Captions." You should see a prompt about permitting Microsoft to process your voice data locally. Press "Download" to agree.
 
 ![Windows Live Captions settings being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-live-captions.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now attend a meeting or play a video on a media player or on a browser to see live captions being generated for that.
 
@@ -103,7 +95,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Accessbility settings on Windows being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/accessbility-settings-on-windows.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Turn on "Voice Access." Then press "I Agree" when the popup appears.
@@ -112,25 +104,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  You'll be guided through a tutorial on using Voice Access. You can say different commands to perform actions or type using your voice when the mouse cursor is active on a typing box. Try using it on the Notepad.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Focus Sessions
 
  I use [Focus Mode on Android](https://extra-approaches.techidaily.com/in-2024-premier-podplay-writing-treasures/) a lot. When you need to get some work done free of distractions, it comes in handy. Windows has its own focus mode called Focus Sessions. To start a Focus Session, go to Settings > System > Focus.
 
 ![Different system settings on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/different-system-settings-on-windows.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Set a duration for your session and select or deselect any of the options depending on your preferences. Then press the "Start Focus Session" button.
 
 ![Windows Focus Sessions settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-focus-sessions-1.png) 
 
  Once you start a session, you'll see a new window with a clock, timer, task list, and other options. You can also integrate Spotify with Focus Sessions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  End Tasks From the Task Bar
 
@@ -158,11 +146,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Be cautious though, because sometimes this can become a problem when you're just trying to move a window, but it's registered as a shake.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Scrolling Over the Volume Icon to Change the Volume
 
  A lot of apps and software already have this feature, so Windows might be a little late for the party. But yes, now you can simply go to the volume option on the taskbar and scroll your mouse wheel to increase or decrease the volume. If you use your touchpad quite often, this should be even more useful. You don't need to hold the scroll bar and drag it.
 
 ![Scrolling to change volume on Windows-anim](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/scroll-to-change-volume-on-windows-anim.gif) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Instant Photo Transfer From Android
 
@@ -177,10 +173,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A notification being displayed on Windows 11 after taking a photo on Android](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/android-photo-notification-on-windows-11-1.png) 
 
  You can tap the notification to open the photo on the Snipping Tool and start editing. This also works if you're on mobile data on your Android. Check out the full tutorial on [instantly transferring your Android photos to your Windows PC](https://video-capture.techidaily.com/new-in-2024-unveiling-the-secrets-of-live-broadcasting-on-instagram-through-obs/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Start Button Shortcuts
 
@@ -204,7 +196,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Editing an image on the Windows Photos app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-photos-app.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To get access to the editing options, open any image in the app and then press Ctrl+E. You can crop the image, make light and color adjustments, add filters, erase objects, and remove the background from the image.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  No More Hiding Behind the Windows
 
@@ -225,20 +225,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-in-depth-analysis-unveiling-the-best-5-racer-simulations/"><u>[New] In 2024, In-Depth Analysis Unveiling the Best 5 Racer Simulations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-resource-for-advanced-periscope-techniques/"><u>[New] The Ultimate Resource for Advanced Periscope Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-samsung-gear-360-camera-picks/"><u>[New] The Ultimate Samsung Gear 360 Camera Picks</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-android-audio-alchemy-selecting-the-top-free-downloader-apps-from-youtube/"><u>[Updated] 2024 Approved Android Audio Alchemy Selecting the Top Free Downloader Apps From YouTube</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-overcome-distorted-voice-in-virtual-meetings/"><u>[Updated] Overcome Distorted Voice in Virtual Meetings</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-strategies-to-integrate-b-roll-footage-seamlessly/"><u>[Updated] Strategies to Integrate B-Roll Footage Seamlessly</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-future-of-photo-shooting-smart-hdr-technology-insights/"><u>[Updated] The Future of Photo Shooting Smart HDR Technology Insights</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-truth-about-magix-video-pro-xs-performance/"><u>2024 Approved The Truth About Magix Video Pro X's Performance</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-vivo-y36-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Vivo Y36 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-cannot-reach-windows-installer-service-steps-and-solutions/"><u>Fixing 'Cannot Reach Windows Installer Service': Steps and Solutions</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>How to Use Pokémon Emerald Master Ball Cheat On Apple iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-step-by-step-guide-to-joining-and-initiating-zoom-meetings-on-android/"><u>In 2024, Step-By-Step Guide to Joining & Initiating Zoom Meetings on Android</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-best-spots-for-free-downloadable-got-ringtones/"><u>In 2024, The Best Spots for Free Downloadable GoT Ringtones</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-next-tech-wave-the-role-of-artificial-intelligence-in-shaping-software-development-practices/"><u>Navigating the Next Tech Wave: The Role of Artificial Intelligence in Shaping Software Development Practices</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/versnellend-konverteren-van-aac-naar-3gp-vanaf-toepassingen-online-gratis-movavi/"><u>Versnellend Konverteren Van AAC Naar 3GP Vanaf Toepassingen Online, Gratis - Movavi</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-toolwiz-photosapp-overview-a-complete-analysis-and-future-prospects/"><u>[New] Toolwiz PhotosApp Overview - A Complete Analysis and Future Prospects</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-step-by-step-guide-to-scripting-engaging-youtube-videos/"><u>[Updated] In 2024, Step-by-Step Guide to Scripting Engaging YouTube Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-ultimate-guide-to-video-dimensions-on-the-yt-platform/"><u>[Updated] In 2024, The Ultimate Guide to Video Dimensions on the YT Platform</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/breaking-barriers-masterful-techniques-for-photosvideos-in-win11/"><u>Breaking Barriers Masterful Techniques for Photos/Videos in Win11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/hdr-review-luminances-creation-capability/"><u>HDR Review Luminance's Creation Capability</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-mastering-green-screen-filming-essential-techniques/"><u>In 2024, Mastering Green Screen Filming Essential Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-your-voice-memos-a-comprehensive-guide-to-using-and-troubleshooting-the-windows-10-recording-tool/"><u>Mastering Your Voice Memos: A Comprehensive Guide to Using and Troubleshooting the Windows 10 Recording Tool</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pinnacle-ai-editmaster-for-stunning-images/"><u>Pinnacle AI EditMaster for Stunning Images</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-of-excessive-disk-space-consumed-by-microsoft-telemetry-in-windows-10/"><u>Resolving the Issue of Excessive Disk Space Consumed by Microsoft Telemetry in Windows 10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/superior-5-iphones-for-podcasting-pleasure-for-2024/"><u>Superior 5 iPhones for Podcasting Pleasure for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-your-macs-capabilities-in-big-sur-for-2024/"><u>Understanding Your Mac's Capabilities in Big Sur for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-power-of-fb-giveaways-in-your-business-plan-for-2024/"><u>Unlocking the Power of FB Giveaways in Your Business Plan for 2024</u></a></li>
 </ul></div>
 

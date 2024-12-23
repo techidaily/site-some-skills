@@ -1,7 +1,7 @@
 ---
 title: "Transitioning to Augmented Reality: My Journey Swapping a Standard Monitor for AR Glasses"
-date: 2024-12-11T23:02:55.710Z
-updated: 2024-12-14T02:32:12.807Z
+date: 2024-12-15T19:00:09.474Z
+updated: 2024-12-22T18:33:25.743Z
 tags:
   - cutting-edge
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
  I have what could politely be called an unconventional work setup. Instead of a PC, I use Samsung DeX. I do much of my work from the inside screen on my Samsung Galaxy Z Fold 5, and I connect to a larger screen when I need more space. When I saw the XReal Air 2 Pro glasses work seamlessly with DeX, I figured I was the ideal candidate to give it a try. So I bought a pair, and here's what I've experienced.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  My Eyes Adjusted Quicker Than I Expected
@@ -32,13 +32,13 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 ![XREAL Air 2 Pro AR glasses resting on the bridge of a nose.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/1000060992.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Bertel King / How-To Geek
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  I Sit With Better Posture
@@ -46,6 +46,10 @@ Bertel King / How-To Geek
  The biggest impact has been the benefit to my posture. I've spent most of my career hunched over a laptop. I ended my days feeling drained, not aware that the angle of my neck had as much to do with that as the strain on my eyes. I was making one of the [posture mistakes you want to avoid](https://fox-cloud.techidaily.com/new-composing-an-alluring-cinematic-teaser-track/) when sitting at a desk. If you work from home, it's worth getting a computer monitor with a height set at eye level.
 
  With AR glasses, my display is always at eye level. This means I can rest my neck in a natural position. I can also stretch or look side to side without actually turning away from whatever I'm reading. This allows me to move a bit more throughout the day without shifting my focus away from what I'm working on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  My Desk Has More Space
 
@@ -77,10 +81,6 @@ Bertel King / How-To Geek
 
  Wearing AR glasses is a bit like making a switch from Bluetooth speakers to Bluetooth earbuds. The former tunes people in to what you're listening to, while the latter is completely private. The thing is, while we've had decades to get used to this with audio, it's pretty new for video. When I'm alone, AR glasses are awesome, but I feel weird when I'm wearing them around others.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Great for Working Around Kids
 
  Little kids are in some ways an exception. They don't really know what's normal. They're learning that from us. When I tell them my glasses have screens, and I'm watching a video, they kind of shrug that off. They find that easier to understand than the fact that the video on their tablet comes from something called the internet which stops working if the Wi-Fi is down. I invite you to try to explain buffering to a kid (and if they buy it, please tell me how you did it!).
@@ -98,7 +98,7 @@ Bertel King / How-To Geek
  Playing video games is arguably even better. Games that don't play nice with my foldable's aspect ratio look just fine on the standard 16:9 ratio of the glasses. With just a game controller, I can feel like I'm sitting in front of a console wherever I am.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  All Isn't Perfect
@@ -126,20 +126,21 @@ Bertel King / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-effortless-capture-iphones-dual-task-technique/"><u>[New] 2024 Approved Effortless Capture IPhone's Dual-Task Technique</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-how-to-vanish-obscuring-elements-and-sharpen-your-images-in-affinity-photo/"><u>[New] In 2024, How to Vanish Obscuring Elements and Sharpen Your Images in Affinity Photo</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-mastering-video-posts-twitter-no-retweets-needed-for-2024/"><u>[New] Mastering Video Posts Twitter, No Retweets Needed for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-spotting-gone-from-your-friend-list/"><u>[New] Spotting Gone From Your Friend List</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-8-srt-conversion-websites-without-a-cost/"><u>[New] Top 8 SRT Conversion Websites Without a Cost</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-guide-to-high-quality-cost-free-webm-viewers/"><u>[New] Ultimate Guide to High-Quality, Cost-Free WebM Viewers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-energetic-speaker-review-iteration-viii-for-2024/"><u>[Updated] Energetic Speaker Review - Iteration VIII for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-subtitle-converters-no-cost-for-srt-files/"><u>2024 Approved Top 10 Subtitle Converters, No Cost for SRT Files</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-total-gb-for-24-hour-movie-size/"><u>2024 Approved Total GB for 24-Hour Movie Size</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722992481669-beat-the-lag-advanced-fixes-for-improving-fallout-nuked-earths-quality-how-to-optimize-your-fps-now/"><u>Beat the Lag: Advanced Fixes for Improving Fallout Nuked Earth's Quality - How to Optimize Your FPS Now</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-2016-file-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel 2016 File</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-toontech-full-evaluation-and-how-to-guide-24/"><u>In 2024, ToonTech Full Evaluation & How-To Guide '24</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-10-high-quality-blu-ray-software-variants-pcmac/"><u>In 2024, Top 10 High-Quality Blu-Ray Software Variants (PC/Mac)</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210124120-9781475857238-teach-like-a-human/"><u>Teach Like a Human | Free Book</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-360-live-streaming-cameras-for-youtube-and-facebook-you-should-know-for-2024/"><u>Top 360 Live Streaming Cameras for Youtube and Facebook You Should Know for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-android-ios-and-pc-friendly-youtube-downloader-apps-reviewed/"><u>[New] 2024 Approved Android, iOS & PC-Friendly YouTube Downloader Apps Reviewed</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-transforming-footage-a-guide-to-gopro-color-tweaks/"><u>[New] 2024 Approved Transforming Footage A Guide to GoPro Color Tweaks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-trending-memes-galore-unique-themes-for-any-event/"><u>[New] Trending Memes Galore Unique Themes for Any Event</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-innovative-ai-based-podcast-name-generators/"><u>[Updated] Top 10 Innovative AI-Based Podcast Name Generators</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-top-fifa-players-visualized-data-infographics-for-2024/"><u>[Updated] Top FIFA Players Visualized Data Infographics for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-guide-to-2023s-top-value-zero-cost-live-broadcasting-tools/"><u>2024 Approved Ultimate Guide to 2023'S Top Value, Zero-Cost Live Broadcasting Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-elite-sites-for-high-res-vectors/"><u>In 2024, Top 10 Elite Sites For High-Res Vectors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-6-networks-transforming-how-firms-connect-and-engage/"><u>In 2024, Top 6 Networks Transforming How Firms Connect and Engage</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-av1-encoding-insights/"><u>In 2024, Unlocking AV1 Encoding Insights</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-youtube-channels-for-filmmakers-to-learn-filmmaking-tips/"><u>In 2024, YouTube Channels for Filmmakers to Learn Filmmaking Tips</u></a></li>
+<li><a href="https://facebook.techidaily.com/seamless-sports-viewing-via-facebook-twitter-for-nbafans/"><u>Seamless Sports Viewing via Facebook, Twitter for NBAFans</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-realme-c67-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-apple-airpods-pro-gear-and-supplies/"><u>Top-Rated Apple AirPods Pro Gear & Supplies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unexplained-tilted-images-on-instagrams-video-section-for-2024/"><u>Unexplained Tilted Images on Instagram's Video Section for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-audio-elimination-mastery-a-step-by-step-guide-on-trimming-sounds-from-apple-videos/"><u>Updated In 2024, Audio Elimination Mastery A Step-by-Step Guide on Trimming Sounds From Apple Videos</u></a></li>
+<li><a href="https://os-tips.techidaily.com/weekly-digest-of-iphone-software-enhancements-and-product-recalls/"><u>Weekly Digest of iPhone Software Enhancements & Product Recalls</u></a></li>
 </ul></div>
 

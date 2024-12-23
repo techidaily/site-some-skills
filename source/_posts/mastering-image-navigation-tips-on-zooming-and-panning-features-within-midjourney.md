@@ -1,7 +1,7 @@
 ---
 title: "Mastering Image Navigation: Tips on Zooming & Panning Features Within MidJourney"
-date: 2024-12-07T17:29:37.280Z
-updated: 2024-12-13T20:20:17.113Z
+date: 2024-12-21T00:47:14.218Z
+updated: 2024-12-22T17:57:57.770Z
 tags:
   - cutting-edge
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/3299531766a0d348d78dd04349d2683155a00d71b
 ---
 
 ## Mastering Image Navigation: Tips on Zooming & Panning Features Within MidJourney
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -40,6 +36,10 @@ knight in shining armor art deco --ar 9:21
 
 ![Screenshot 2023-07-27 at 14.56.36](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2023-07-27-at-14-56-36.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Panning Your MidJourney Image
 
  While this would be a great wallpaper for a phone's home screen, it has a common problem when looking for lock screen images - there's no room for the clock! So we'll use the pan-up button (the upwards-facing arrow) to create some space above the knight's head.
@@ -47,7 +47,7 @@ knight in shining armor art deco --ar 9:21
 ![Selecting the pan-up button in a upscaled MidJourney Image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2023-07-27-at-14-56-36-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  MidJourney now tries to "imagine" what might be above the knight's head. In this case, image three has the negative space we wanted, so we'll upscale that one.
@@ -63,7 +63,7 @@ knight in shining armor art deco --ar 9:21
 ![Pop art of woman sitting on a couch generated with MidJourney](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/pop-art-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 MidJourney / How-To Geek / Sydney Butler
@@ -72,11 +72,11 @@ MidJourney / How-To Geek / Sydney Butler
 
 ![Pop art of two women sitting on a couch generated in MidJourney](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/pop-art-2.png) 
 
-MidJourney / How-To Geek / Sydney Butler
-
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+MidJourney / How-To Geek / Sydney Butler
 
 ##  Zooming Out
 
@@ -85,6 +85,10 @@ MidJourney / How-To Geek / Sydney Butler
 Prompt: Woman Sitting on Couch 50 Pop Art
 
 ![MidJourney 2x Zoom Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2023-07-27-at-15-12-06.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As with a normal image prompt, you get four different variations and can upscale whichever ones you like best.
 
@@ -95,10 +99,6 @@ Prompt: Woman Sitting on Couch 50 Pop Art
 Prompt: woman sitting on couch 50 pop art surrounded by clowns --v5.1 --ar 16:9 --zoom 2
 
 ![The Custom Zoom Prompt Window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2023-07-27-at-15-17-41.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Here you can change the original prompt, add to it, change the zoom level, and set the aspect ratio. I've set the aspect ratio to 16:9, left the zoom level at 2x, and modified the prompt to ask that our couch lady be surrounded by pop art clowns, because I'm very evil.
 
@@ -121,18 +121,21 @@ Prompt: woman sitting on couch 50 pop art surrounded by clowns --v5.1 --ar 16:9 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-tech-triad-analysis-unraveling-the-vr-ar-mr-tapestry/"><u>[New] Tech Triad Analysis Unraveling the VR-AR-MR Tapestry</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transforming-flat-text-into-sculptable-3d-characters/"><u>[New] Transforming Flat Text Into Sculptable 3D Characters</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-diy-lol-gameplay-tapes-mastering-three-methods-for-2024/"><u>[Updated] DIY LOL Gameplay Tapes Mastering Three Methods for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-open-access-to-the-masters-oeuvre/"><u>[Updated] Open Access to the Masters' Oeuvre</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-explore-template-treasures-to-craft-unique-corporate-emblems/"><u>2024 Approved Explore Template Treasures to Craft Unique Corporate Emblems</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/astro-bio-revolution-crafting-signature-whatsapp-identities/"><u>Astro-Bio Revolution Crafting Signature WhatsApp Identities</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/comparing-huawei-p10-with-industry-standards-of-smartphones-for-2024/"><u>Comparing Huawei P10 with Industry Standards of Smartphones for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-uncomplicated-technique-changing-vocal-pattern-in-winos/"><u>In 2024, Uncomplicated Technique Changing Vocal Pattern in WinOS</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/navigating-complexity-the-most-tricky-global-languages/"><u>Navigating Complexity: The Most Tricky Global Languages</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/quick-ways-to-randomize-youtube-playlist-on-pcphonestvs-for-2024/"><u>Quick Ways to Randomize YouTube Playlist On PC/Phones/TVs for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-battle-of-streaming-devices-differences-between-roku-express-and-roku-stick-revealed/"><u>The Battle of Streaming Devices: Differences Between Roku Express and Roku Stick Revealed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-facetunes-potential-photo-editing-like-never-before-for-2024/"><u>Unveiling Facetune's Potential Photo Editing Like Never Before for 2024</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/yl-computings-ultimate-trick-customizing-display-zoom-features-in-windows-11-a-comprehensive-walkthrough/"><u>YL Computing's Ultimate Trick: Customizing Display Zoom Features in Windows 11 – A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-comprehensive-guide-to-ultimate-video-editing-vivacut-24-edition/"><u>[New] The Comprehensive Guide to Ultimate Video Editing VivaCut '24 Edition</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-drive-engagement-crafting-an-animated-subscribe-button-in-filmoras-step-by-step-guide/"><u>[Updated] In 2024, Drive Engagement Crafting an Animated Subscribe Button in Filmora's Step-by-Step Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-your-content-simple-steps-to-change-numbers-on-tiktok/"><u>[Updated] Transform Your Content Simple Steps to Change Numbers on TikTok</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ten-steps-to-keeping-vr-healthy/"><u>2024 Approved Ten Steps to Keeping VR Healthy</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transferring-photos-and-videos-from-one-idevice-to-another/"><u>2024 Approved Transferring Photos & Videos From One iDevice to Another</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/daily-digest-downloader/"><u>Daily Digest Downloader</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-on-non-lenovo-non-dell-office-2-in-1-laptops-recommended-models-from-zdnet/"><u>Expert Advice on Non-Lenovo, Non-Dell Office 2-in-1 Laptops | Recommended Models From ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Infinix Smart 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-amplify-audience-response-with-innovative-instagram-questions/"><u>In 2024, Amplify Audience Response with Innovative Instagram Questions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-photo-finesse-leading-edits-for-social-media-savvy/"><u>In 2024, Photo Finesse Leading Edits for Social Media Savvy</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-tips-for-engaging-video-blog-storytelling/"><u>In 2024, Tips for Engaging Video Blog Storytelling</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-performance-issues-tips-for-a-smooth-playthrough-of-forza-horizon-5-on-pc/"><u>Resolving Performance Issues: Tips for a Smooth Playthrough of Forza Horizon 5 on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-the-silenced-wastebin-image-in-windows-11/"><u>Reviving the Silenced Wastebin Image in Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-professional-livestreamers-vmix-or-wirecast-in-2024/"><u>The Ultimate Guide to Professional Livestreamers VMix or Wirecast, In 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-colors-top-11-grading-and-correction-techniques-for-2024/"><u>Unveiling Colors Top 11 Grading & Correction Techniques for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/venture-into-virtual-laughs-top-20plus-funny-metaverse-creations-for-2024/"><u>Venture Into Virtual Laughs Top 20+ Funny Metaverse Creations for 2024</u></a></li>
 </ul></div>
 

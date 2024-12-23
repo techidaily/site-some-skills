@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Crafting Effective Book Reviews
-date: 2024-12-11T17:00:54.786Z
-updated: 2024-12-13T21:09:27.349Z
+date: 2024-12-22T00:22:13.075Z
+updated: 2024-12-23T06:02:22.335Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/57fc80a0532998e9a3fa34c3a10aaf11a38c8a2570d6f12d0969979c5207b72c.jpg
@@ -17,12 +17,16 @@ Posted by [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) on 1
 
 ![follow](http://www.epubor.com/images/follow.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Seems that writing a book review is a nova in this industry, I am seeing more and more newly born blogs are focusing on book reviews and recommendations, and all kinds of book reviews and questions about how to start a book review are flooding my twitter.
 
 ![questions about how to write a book review on twitter](http://www.epubor.com/images/tweet-about-book-review.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 I believe if you are touched by a breathtaking book, you will hear a voice from the deepest corner of your heart murmuring:"Hey, now that you have so many feelings about it, why not writing something down?" Then you may think:"Come on, I even can't finish a passable blog, how can I write a good book review that people and author will love?"
@@ -32,7 +36,7 @@ Write a book review is not that difficult as you thought. It is just a plot desc
 ![write a book review in 10 steps](http://www.epubor.com/images/write-book-review.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Here I've summed up **10 steps about how to write a book review**, and in my opinion, it will be more feasible when you are required to do so. Let's be more straight, if you need to write a review for someone's new book on KDP (Kindle Direct Publishing) to cooperate with his ebook promotion campaign, this is exactly what you need.
@@ -59,10 +63,6 @@ Here I've summed up **10 steps about how to write a book review**, and in my opi
 
 **Step 10.** Now you have almost finished your book review, time to look back and test your points. Have you covered all the important elements of the book? Who are your target reader? Are you writing this review to serve someone? Is your review outstanding among all the reviews of this book? If not, then you need to check the previous 9 steps and enhance your book review; if yes, your book review is finished!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Now let's take a NY Times book review as example
 
 I randomly pick a book review from the New York Times, it's a review on the book _The Insurgents: David Petraeus and the Plot to Change the American Way of War._
@@ -70,7 +70,7 @@ I randomly pick a book review from the New York Times, it's a review on the book
 ![book information](http://www.epubor.com/images/book-information.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 From the first glance on this book's information, we can know it's a book about war in Iraq, and it's written by Fred Kaplan. This book ranks #151 in all the Amazon Best-Sellers, and its book review appears on many authority sites. Upon the information above, we can figure out some clues about this book. Obviously, if you are writing for a book review blog, and its target readers are teenage women, then you definitely can't choose this book.
@@ -140,7 +140,7 @@ Pretty simple. Click the buttons below to help us spread the world.
 ![author](http://www.epubor.com/images/uppic/jonny.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
@@ -184,21 +184,14 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-bringing-bytes-home-4-ways-to-transfer-data-pc/"><u>[New] Bringing Bytes Home 4 Ways to Transfer Data PC</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-uncover-top-affordable-video-enhancement-platforms-a-comprehensive-guide/"><u>[New] Uncover Top Affordable Video Enhancement Platforms - A Comprehensive Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unmatched-fast-picture-viewer-experience/"><u>[New] Unmatched Fast Picture Viewer Experience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unpacking-the-essence-of-digital-tales/"><u>[New] Unpacking the Essence of Digital Tales</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-professional-editing-edge-discover-the-leading-15-gopro-color-grads/"><u>[Updated] Professional Editing Edge Discover the Leading 15 GOPRO Color Grads</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-superior-systems-best-of-the-desk-lineup/"><u>[Updated] Superior Systems Best of the Desk Lineup</u></a></li>
-<li><a href="https://games-able.techidaily.com/200-discounted-offer-on-truegolf-simulators-level-up-your-game-with-this-unbeatable-price-from-zdnet/"><u>$200 Discounted Offer on TrueGolf Simulators! Level Up Your Game with This Unbeatable Price From ZDNET.</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-breaking-the-streak-code-proven-techniques/"><u>2024 Approved Breaking the Streak Code Proven Techniques</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-maximizing-visual-variety-with-b-roll-elements/"><u>2024 Approved Maximizing Visual Variety with B Roll Elements</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-techniques-for-smoothly-fading-audio-within-lumafusion/"><u>2024 Approved Techniques for Smoothly Fading Audio Within Lumafusion</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/global-gifts-of-love-a-valentines-international-guide/"><u>Global Gifts of Love: A Valentine’s International Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-smart-8-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Smart 8</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-supercharge-your-facebook-video-speed/"><u>In 2024, The Ultimate Guide to Supercharge Your Facebook Video Speed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/stock-photography-hits-and-heartfelt-tales-for-2024/"><u>Stock Photography Hits & Heartfelt Tales for 2024</u></a></li>
-<li><a href="https://discover-great.techidaily.com/windows-11-partitions-reparatur-identifizierung-von-problemen-und-effektive-behebung/"><u>Windows 11 Partitions Reparatur: Identifizierung Von Problemen Und Effektive Behebung</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-childhood-to-cash-flow-young-kajis-youtube-economic-surge/"><u>[New] From Childhood to Cash Flow Young Kaji’s YouTube Economic Surge</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-mememix-download-now/"><u>[New] Ultimate Mememix Download Now</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleash-the-power-of-windows-11s-media-importer-tools/"><u>[New] Unleash the Power of Windows 11'S Media Importer Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-humor-in-gif-form-mastering-the-most-important-8-creation-methods/"><u>2024 Approved The Art of Humor in GIF Form Mastering the Most Important 8 Creation Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-windows-update-failure-error-0x8e00c/"><u>Correcting Windows Update Failure (Error 0X8e00c)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/obtain-high-quality-sound-control-software-for-windows-pressure-7-computers/"><u>Obtain High-Quality Sound Control Software for Windows Pressure 7 Computers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essentials-of-structuring-your-podcasts-rss-feed-for-2024/"><u>The Essentials of Structuring Your Podcast's RSS Feed for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-5-sd-cards-for-gopro-hero-series-including-model-8-and-7/"><u>Top 5 SD Cards for GoPro Hero Series - Including Model 8 & 7</u></a></li>
+<li><a href="https://some-skills.techidaily.com/uncover-the-ultimate-directory-of-no-cost-vector-art-sites-for-2024/"><u>Uncover the Ultimate Directory of No-Cost Vector Art Sites for 2024</u></a></li>
 </ul></div>
 

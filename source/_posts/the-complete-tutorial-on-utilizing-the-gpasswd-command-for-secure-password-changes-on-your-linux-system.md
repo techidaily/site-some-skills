@@ -1,7 +1,7 @@
 ---
 title: The Complete Tutorial on Utilizing the Gpasswd Command for Secure Password Changes on Your Linux System
-date: 2024-12-12T20:35:53.411Z
-updated: 2024-12-14T00:26:47.752Z
+date: 2024-12-19T22:45:09.514Z
+updated: 2024-12-22T21:32:59.904Z
 tags:
   - desktop
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## The Complete Tutorial on Utilizing the Gpasswd Command for Secure Password Changes on Your Linux System
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Use gpasswd to manage group members & passwords, avoiding security risks & controlling group access efficiently.
@@ -23,15 +19,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Want an easy solution to managing group members and passwords on Linux? The gpasswd command will help you do that. It's used for managing and administering the "/etc/group" and "/etc/gshadow" passwords, members, and administrators. Let's get started.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  What Makes the gpasswd Command Useful
 
  The gpasswd command lets you administer groups on Linux. Group passwords don't get used a lot in part because of the security risk they pose: multiple people sharing a password increases the opportunity for accidental or malicious exposure. Any member of the group can add or remove members, controlling the group access, which could easily get out of hand.
 
  There are a few ways to overcome this problem. You can avoid using group passwords when possible and use alternative mechanisms such as sudoers or access control lists. You can also limit access to the group passwords using privilege control so that only authorized members can do any operations.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  gpasswd Command Basic Syntax and Options
 
@@ -52,6 +48,10 @@ gpasswd [option] group
 
  We'll see how to use these options in the upcoming sections of the guide.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Setting Password for a Group
 
  The most common use of the gpasswd command is to [set a password](https://unlock-android.techidaily.com/in-2024-best-honor-100-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/) for specific groups. I'll first create a group we can test it upon. Feel free to skip this if you already have a group. To create a new group on your Linux system, run:
@@ -66,6 +66,10 @@ cat /etc/group
 
 ![The Linux terminal showing a list of all groups in the system](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-7.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can see the new group on the list. Now let's create a password for the group. To do that, use:
 
 sudo gpasswd demogroup
@@ -79,6 +83,10 @@ sudo gpasswd demogroup
 newgrp demogroup
 
 ![The Linux terminal showing the process of logging into a group in Linux using the newgrp command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-4.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Removing Password from Group
 
@@ -102,15 +110,15 @@ sudo gpasswd -a zunaid demogroup
 
 ![The Linux terminal showing how to use the gpasswd command to add a member to a group](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-2.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can confirm whether the member was added or not. For that, use the below command:
 
 getent group demogroup
 
 ![The Linux terminal shows the current members of the group named demogroup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/6-7.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As you can see, I've successfully added myself to the group using gpasswd. For adding multiple users, you'll need to issue separate commands for each, like this:
 
@@ -119,10 +127,6 @@ sudo gpasswd -a user1 group
     
                     sudo gpasswd -a user2 group
                     
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Removing a User From a Group
 
@@ -135,10 +139,6 @@ sudo gpasswd -d user group
 sudo gpasswd -d zunaid demogroup
 
 ![The Linux terminal showing how to remove a user from a group using the gpasswd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/7-6.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Again, you can confirm if the user was removed successfully by [listing the group members](https://hardware-updates.techidaily.com/comprehensive-guide-downloading-and-installing-canon-ip1-10-drivers-on-windows-windows-111087/) with this command:
 
@@ -161,7 +161,7 @@ sudo gpasswd -M user2,user3 demogroup
 ![The Linux terminal showing the process of setting the list of members of a group using the gpasswd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/11-3.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now if you check the members list of the group, you should see that the previous members are not there. Instead, you'll find the new members.
@@ -169,6 +169,10 @@ sudo gpasswd -M user2,user3 demogroup
 getent group demogroup
 
 ![The Linux terminal displaying the current the members of a group in Linux after setting the members list using gpasswd](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/12-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Promoting a User as the Group Administrator
 
@@ -187,11 +191,7 @@ sudo cat /etc/gshadow
 ![The Linux terminal displaying the the administrators of every group in Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/9-3.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  gpasswd Makes Group Management Easy
@@ -213,14 +213,22 @@ sudo cat /etc/gshadow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-syma-x5c-an-in-depth-beginners-guide-for-future-pilots/"><u>[Updated] Syma X5C An In-Depth Beginner’s Guide for Future Pilots</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-list-seamless-no-download-gif-to-video-converters/"><u>[Updated] Ultimate List Seamless No-Download GIF to Video Converters</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-digital-mastery-of-vhs-visuals/"><u>2024 Approved The Ultimate Guide to Digital Mastery of VHS Visuals</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-creative-potential-utilizing-luts-to-enhance-video-quality/"><u>2024 Approved Unlock Creative Potential Utilizing LUTs to Enhance Video Quality</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/book-format-showdown-the-timeless-appeal-of-physical-books-versus-the-convenience-of-ebooks/"><u>Book Format Showdown: The Timeless Appeal of Physical Books Versus the Convenience of eBooks</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-fix-the-steam-service-error-on-windows-11/"><u>How to Fix the Steam Service Error on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/propel-power-5-best-windows-optimization-strategies/"><u>Propel Power: 5 Best Windows Optimization Strategies</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revamp-your-iphones-chatgpt-experience-9-strategies-to-resolve-common-glitches/"><u>Revamp Your iPhone's ChatGPT Experience: 9 Strategies to Resolve Common Glitches</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-10-subtitle-converters-no-cost-for-srt-files-for-2024/"><u>Top 10 Subtitle Converters, No Cost for SRT Files for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-aspect-ratio-checklist-for-editors-and-directors/"><u>[New] The Ultimate Aspect Ratio Checklist for Editors and Directors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tutorial-windows-movie-maker-for-effective-animation-designs/"><u>[New] Tutorial Windows Movie Maker for Effective Animation Designs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-premium-video-capturing-for-digital-screens/"><u>[Updated] In 2024, Premium Video Capturing for Digital Screens</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-collection-of-elite-cost-free-vfx-and-editing-websites/"><u>[Updated] The Ultimate Collection of Elite, Cost-Free VFX & Editing Websites</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-new-era-of-mac-os-embracing-big-sur/"><u>2024 Approved The New Era of Mac OS Embracing Big Sur</u></a></li>
+<li><a href="https://win-answers.techidaily.com/common-solutions-for-when-your-windows-10-start-menu-wont-open/"><u>Common Solutions for When Your Windows 10 Start Menu Won't Open</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-optimal-4-strategies-to-fix-faded-iphone-hdr-in-editing/"><u>In 2024, [Optimal] 4 Strategies to Fix Faded iPhone HDR in Editing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-inside-the-drone-world-detailed-look-at-dji-phantom-4/"><u>In 2024, Inside the Drone World Detailed Look at DJI Phantom 4</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-the-art-of-warmth-in-winter-top-5-video-backdrop-choices/"><u>In 2024, The Art of Warmth in Winter Top 5 Video Backdrop Choices</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/premier-listing-sierras-best-video-maker-apps-for-2024/"><u>Premier Listing Sierra's Best Video Maker Apps for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-reactivating-your-keyboard-before-user-authentication/"><u>Step-by-Step Fixes: Reactivating Your Keyboard Before User Authentication</u></a></li>
+<li><a href="https://some-skills.techidaily.com/subtle-screen-entry-sequence-for-2024/"><u>Subtle Screen Entry Sequence for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/time-lapse-mastery-the-best-mobile-apps-for-creating-breathtaking-videos/"><u>Time-Lapse Mastery The Best Mobile Apps for Creating Breathtaking Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-resource-audio-recommendations-for-unboxing-content-creators-for-2024/"><u>Ultimate Resource Audio Recommendations for Unboxing Content Creators for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-tutorial-for-downloading-wm6-for-2024/"><u>Ultimate Tutorial for Downloading WM6 for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-deal-alert-grab-your-top-pick-apple-magsafe-charger-at-a-stunning-60-discount-exclusive-offer/"><u>Unbeatable Deal Alert: Grab Your Top Pick Apple MagSafe Charger at a Stunning $60 Discount - Exclusive Offer !</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-watchlist-7-tasks-to-inspect-for-hidden-viruses/"><u>Windows Watchlist: 7 Tasks to Inspect for Hidden Viruses</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Disabling Microsoft Defender Antivirus in Windows 11: A Step-by-Step Guide"
-date: 2024-12-10T03:46:09.840Z
-updated: 2024-12-13T22:58:19.842Z
+date: 2024-12-19T19:40:46.042Z
+updated: 2024-12-23T06:24:54.501Z
 tags:
   - desktop
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
 
 ## Disabling Microsoft Defender Antivirus in Windows 11: A Step-by-Step Guide
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [When Should You Permanently Disable Microsoft Defender Antivirus](https://article-knowledge.techidaily.com/2024-approved-ultimate-guide-newest-lg-bp550-specs/)
@@ -22,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
 * [Disable Microsoft Defender Using the Registry Editor](https://screen-sharing-recording.techidaily.com/new-remote-recording-mastery-a-comprehensive-approach/)
 * [Disable Microsoft Defender Using the Local Group Policy Editor](https://fox-access.techidaily.com/a-compreenas-guide-to-producing-slow-motion-content-with-photos-and-internet-for-2024/)
 * [How to Check the State of Microsoft Defender on Windows 11](https://screen-mirroring-recording.techidaily.com/new-broadcast-software-beyond-standard-obs/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
 
  Windows built-in security app, Microsoft Defender, protects your computer from malicious agents and viruses. However, there may be situations when you want to disable it, such as when testing a third-party security app. We'll show you how to permanently disable Microsoft Defender on Windows 11.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  When Should You Permanently Disable Microsoft Defender Antivirus 
 
  Microsoft Defender Antivirus provides various protection features, including real-time protection, cloud-delivered protection, network protection, and more. When you disable Microsoft Defender, you lose access to all these protections, leaving your computer at risk.
@@ -42,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
  Generally, you should avoid disabling Microsoft Defender Antivirus. However, if the need arises—for example, when you need to install an application that Defender is blocking—you can [temporarily turn it off](https://tech-renaissance.techidaily.com/what-is-the-difference-between-an-ipad-and-a-tablet/). To do so, [turn off Real-time protection](https://desktop-recording.techidaily.com/new-record-gameplay-in-samsung-galaxy-phones-for-2024/) in the Windows Security app, install the application, and then re-enable Real-time protection.
 
 ![Real-time Protection toggle disabled in the Windows Security app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/real-time-protection-toggle-disabled-in-the-windows-security-app.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Additionally, if you intend to permanently disable Defender Antivirus to install a third-party security application, you must reconsider your choice. This is because when you install a compatible [non-Microsoft antivirus program](https://video-capture.techidaily.com/2024-approved-nvidia-game-capturer-simple-gaming-sessions/), Microsoft Defender antivirus will automatically disable itself. Compatible non-Microsoft antivirus programs are those that do not cause any issues when installed alongside Windows Defender.
 
@@ -51,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
 
  Now that you know when you should and should not permanently disable Microsoft Defender, let’s check out how you can permanently disable Microsoft Defender on Windows 11.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Turn Off Real-Time Protection and Tamper Protection in the Windows Security App
 
  Unlike temporarily disabling Microsoft Defender Antivirus, permanently disabling it isn’t straightforward. First, you’ll need to disable Real-time and Tamper Protection in the Windows Security app.
@@ -63,16 +59,24 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
 
 ![Typing Windows Security in the Start Menu search bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/typing-windows-defender-in-the-start-menu-search-bar.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Choose "Virus & Threat Protection" from the left sidebar, then click "Manage Settings" on the right.
 
 ![Virus & Threat Protection option in the Windows Security App.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/virus-threat-protection-option-in-the-windows-security-app.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Turn off the “Real-Time Protection” toggle. If UAC pops up, click “Yes” to confirm your decision.
 
 ![Real-time Protection toggle in the Windows Security app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/real-time-protection-toggle-in-the-windows-security-app.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, disable the “Tamper Protection” toggle. Click “Yes” when the UAC prompt appears.
@@ -106,7 +110,7 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
 ![Enabling Windows Defender through Registry Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/enabling-windows-defender-through-registry-editor.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Disable Microsoft Defender Using the Local Group Policy Editor
@@ -129,15 +133,15 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
 
 ![Enabled option in the Local Group Policy Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/enabled-option-in-the-local-group-policy-editor.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  That’s it! Restart your computer, and you’ll see that Microsoft Defender is disabled.
 
  If you want to enable Microsoft Defender in the future, set the “Turn Off Microsoft Defender Antivirus” policy to “Disable.” After that, turn on the “Real-time Protection” and “Tamper Protection” toggles in the Windows Security app."
 
 ![Disabled option in the Local Group Policy Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/disabled-option-in-the-local-group-policy-editor.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Check the State of Microsoft Defender on Windows 11
 
@@ -148,10 +152,6 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
  If you get “Not Running” as the result, then it confirms that you have disabled Microsoft Defender.
 
 ![PowerShell window showing Not Running in result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/powershell-window-showing-not-running-in-result.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  However, if you get “Normal” as the result, it means Microsoft Defender is still running on your computer. In this case, double-check that you followed the steps correctly.
 
@@ -176,24 +176,21 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-strategizing-effective-movie-sneak-peeks/"><u>[New] Strategizing Effective Movie Sneak Peeks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-10-criteria-for-choosing-a-premier-streamer-network/"><u>[New] Top 10 Criteria for Choosing a Premier Streamer Network</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-quintessential-ten-hexa-flights/"><u>[Updated] 2024 Approved The Quintessential Ten Hexa-Flights</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-secrets-to-effective-targeted-tweets/"><u>[Updated] In 2024, Secrets to Effective Targeted Tweets</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-complete-guide-to-itunes-podcast-upload/"><u>[Updated] The Complete Guide to iTunes Podcast Upload</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-game-masters-guide-to-4k-monitors/"><u>2024 Approved Game Masters' Guide to 4K Monitors</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-manipulating-image-shapes/"><u>2024 Approved The Ultimate Guide to Manipulating Image Shapes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-tips-for-efficient-macos-sierra-system-updates/"><u>2024 Approved Top Tips for Efficient macOS Sierra System Updates</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-figmas-bg-elimination-mastery/"><u>2024 Approved Unveiling Figma's BG Elimination Mastery</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/fying-your-brand-the-famebit-approach-to-youtube-affiliates/"><u>Amplifying Your Brand The FameBit Approach to YouTube Affiliates</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/explore-the-world-of-tiny-screens-top-6-online-tools-for-free-and-complimentary-youtube-short-downloads-for-2024/"><u>Explore the World of Tiny Screens Top 6 Online Tools for Free & Complimentary YouTube Short Downloads for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-vivo-y200-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Vivo Y200 Activity | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-drone-editors-playbook-a-comprehensive-guide/"><u>In 2024, The Drone Editor's Playbook A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/power-up-your-gym-sessions-with-these-top-20-songs/"><u>Power Up Your Gym Sessions with These Top 20 Songs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tailored-touch-up-top-6-apps-to-exclude-unwanted-elements-from-photos-for-2024/"><u>Tailored Touch-Up Top 6 Apps to Exclude Unwanted Elements From Photos for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-next-step-for-gopro-cameras-hero4-hero5-for-2024/"><u>The Next Step for GoPro Cameras (Hero4, Hero5) for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210932807-9781855843271-the-second-coming-of-christ/"><u>The Second Coming of Christ | Free Book</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-resolving-asus-pce-ac56-driver-challenges-in-win-10-8-and-7-a-comprehensive-fix/"><u>Troubleshooting and Resolving ASUS PCE-AC56 Driver Challenges in Win 10, 8 & 7 - A Comprehensive Fix!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unraveling-the-mystery-behind-oleaut32dll-absence-and-how-to-rectify-it/"><u>Unraveling the Mystery Behind OleAut32.dll Absence & How to Rectify It</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-yourself-from-fringe-a-youtube-video-fix-guide/"><u>[New] 2024 Approved Free Yourself From Fringe A YouTube Video Fix Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-navigating-video-conferencing-with-ease-on-your-win10-pc/"><u>[New] Navigating Video Conferencing with Ease on Your Win10 PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlining-video-transfer-dvd-making-on-mac/"><u>[New] Streamlining Video Transfer DVD Making on Mac</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-trending-stock-images-and-behind-the-scenes-stories/"><u>[New] Top Trending Stock Images & Behind-the-Scenes Stories</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-movies-into-virtual-reality-realms/"><u>[New] Transforming Movies Into Virtual Reality Realms</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-safeguard-yourself-from-oculus-discomfort/"><u>[Updated] In 2024, Safeguard Yourself From Oculus Discomfort</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-innovative-techniques-to-elevate-your-gopro-work/"><u>[Updated] Innovative Techniques to Elevate Your GoPro Work</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-chromatic-spectrums-captured-a-deep-dive-into-4k-blade-tech/"><u>2024 Approved Chromatic Spectrums Captured A Deep Dive Into 4K Blade Tech</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-premium-drones-best-deals-today/"><u>2024 Approved Premium Drones, Best Deals Today</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-superior-practices-for-mute-videography/"><u>2024 Approved Superior Practices for Mute Videography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-10-step-plan-thriving-in-social-media-management/"><u>2024 Approved The Ultimate 10-Step Plan Thriving in Social Media Management</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/eyepoint-expertise-essay-for-2024/"><u>Eyepoint Expertise Essay for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-unresponsive-screen-offline-2020/"><u>GPU Unresponsive: Screen Offline [2020]</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-phantom-the-slow-motion-essentials/"><u>In 2024, Unlocking Phantom The Slow-Motion Essentials</u></a></li>
+<li><a href="https://some-skills.techidaily.com/subtle-symmetry-balancing-visuals-like-a-pro-for-2024/"><u>Subtle Symmetry Balancing Visuals Like a Pro for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-the-experience-top-9-streams-for-2024/"><u>Unleash the Experience Top 9 Streams for 2024</u></a></li>
 </ul></div>
 

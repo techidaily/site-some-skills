@@ -1,7 +1,7 @@
 ---
 title: "August 5Th Edition: Insightful Answers & Tips From Today's New York Times Connection Quiz"
-date: 2024-12-08T01:06:31.050Z
-updated: 2024-12-13T17:47:56.913Z
+date: 2024-12-22T04:51:56.357Z
+updated: 2024-12-22T20:00:05.724Z
 tags:
   - web
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
 ---
 
 ## August 5Th Edition: Insightful Answers & Tips From Today's New York Times Connection Quiz
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -22,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
  Connections is a game from the New York Times that challenges you to find the association between words. It sounds easy, but it isn't—Connections categories can be almost anything, and they're usually quite specific. If you need a hand getting the answers, we've got you covered.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Is Connections?
@@ -30,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
  Connections is a game from the New York Times. The objective is simple: sort 16 words into groups of 4\. Each group of words will be connected by some common idea or theme. That common element could be anything. We have seen everything from games that rely on the number of letters in the words to categories that require you to spot an extra letter at the end of the word. Sometimes they're references to economics, other times they reference fairy tales. There is no telling what sort of association there will be between words.
 
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Hints for Today's Connections Groups
 
@@ -46,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
 
 ![The unsorted words for August 5 Connections game](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-unsorted-words-for-august-5-connections-game.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you still need help, the actual group names are:
 
 * **Yellow:** Survive
@@ -58,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
 * **Purple:** Words After "Eye"
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Today's NYT Connections Answers
@@ -82,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
  Candy, Contact, Shadow, Witness
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Did We Solve This Connections Game?
@@ -96,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
  Capisce, Get It, See, and Understand are all things you might say to someone when you want to be sure they're clear about what you mean. It brings to mind a parent lecturing their kid, or something similar. Blue was "Are We Clear?" 
 
  That left candy, contact, shadow, and witness in Purple. I started going through the usual methods to solve it—guessing missing words or letters—and eventually settled on "eye." Each word in the Purple group can follow the word "eye" to refer to something distinct. As you might imagine, the Purple group was "Words after Eye." 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How Do You Guess Connections Groups?
 
@@ -125,20 +125,24 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-quick-start-saving-videos-of-your-switch-experiences/"><u>[New] 2024 Approved Quick Start Saving Videos of Your Switch Experiences</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-maximizing-your-mac-preview-experience-step-by-step/"><u>[New] Maximizing Your Mac Preview Experience Step-by-Step</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-navigating-nearby-your-personal-guide-for-on-the-go-assistance/"><u>[New] Navigating Nearby - Your Personal Guide for On-the-Go Assistance</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-essential-youtube-rules-for-content-creators/"><u>[Updated] Essential YouTube Rules for Content Creators</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-lightning-growth-guide-for-instagram-using-content-likes-and-videos-for-2024/"><u>[Updated] Lightning Growth Guide for Instagram Using Content, Likes & Videos for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-video-showcase-the-best-15-youtube-sites-for-flawless-unboxing-2024/"><u>[Updated] Ultimate Video Showcase The Best 15 YouTube Sites for Flawless Unboxing, 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-50plus-overlays-for-engaging-media-content/"><u>2024 Approved Top 50+ Overlays for Engaging Media Content</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-better-videos-a-22-enhancer-users-manual/"><u>2024 Approved Unlock Better Videos A 2.2 Enhancer User's Manual</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-utilizing-slug-lines-for-better-content-structure/"><u>2024 Approved Utilizing Slug Lines for Better Content Structure</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/does-itools-virtual-location-not-work-on-apple-iphone-15-proipad-drfone-by-drfone-virtual-ios/"><u>Does iTools virtual location not work On Apple iPhone 15 Pro/iPad? | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/guia-paso-a-paso-agregar-sonido-libre-de-coste-a-tu-video-en-internet/"><u>Guía Paso a Paso: Agregar Sonido Libre De Coste a Tu Vídeo en Internet</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-reno-8t-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo Reno 8T</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-the-beginners-blueprint-to-free-youtube-audio-to-text/"><u>In 2024, The Beginner's Blueprint to Free YouTube Audio to Text</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-guide-twitter-video-enhancers/"><u>In 2024, Ultimate Guide Twitter Video Enhancers</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-mp4-editor-for-windows-8-fast-and-user-friendly/"><u>Updated The Ultimate MP4 Editor for Windows 8 Fast and User-Friendly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-make-the-most-of-youtube-tv-offerings/"><u>[New] 2024 Approved How to Make the Most of YouTube TV Offerings</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-from-game-to-gigabyte-an-essential-guide/"><u>[New] From Game to Gigabyte An Essential Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlining-virtual-meetings-integrating-zoom-with-skype-effortlessly/"><u>[New] Streamlining Virtual Meetings Integrating Zoom with SKYPE Effortlessly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-complete-guide-to-the-latest-in-lgs-ultra-clear-monitoring/"><u>[New] The Complete Guide to the Latest in LG’s Ultra-Clear Monitoring</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-d500-experience-achieving-excellence-with-4k-hd/"><u>[New] The D500 Experience Achieving Excellence with 4K HD</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-topline-numbers-pewdiepies-yearly-income/"><u>[New] Topline Numbers PewDiePie's Yearly Income</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-your-avi-images-from-video-to-graphics-using-filmora/"><u>[New] Transform Your AVI Images From Video To Graphics Using Filmora</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-vr-adventures-that-will-captivate-you/"><u>[Updated] In 2024, VR Adventures That Will Captivate You</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tips-for-turning-off-automatic-podcast-adds-on-spotify/"><u>[Updated] Tips for Turning Off Automatic Podcast Adds on Spotify</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-sound-card-drivers-with-simple-steps/"><u>Download & Update Sound Card Drivers with Simple Steps</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211008406-9781782744016-ghost-sightings/"><u>Ghost Sightings | Free Book</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-xiaomi-redmi-k70e-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Xiaomi Redmi K70E Safely | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ideal-mkv-player-apps-windows-pc/"><u>Ideal MKV Player Apps Windows PC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-control-picture-clarity-with-masked-gaussian-blur/"><u>In 2024, Control Picture Clarity with Masked Gaussian Blur</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-total-mastery-of-powerdirector-with-our-review-and-guide/"><u>In 2024, Total Mastery of PowerDirector with Our Review & Guide</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/mastery-guide-securely-archiving-snapchat-media-on-devices/"><u>Mastery Guide Securely Archiving Snapchat Media on Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-15-youtube-originals-premium-unboxing-sessions-for-2024/"><u>Top 15 YouTube Originals Premium Unboxing Sessions for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/turn-popular-tiktok-tracks-into-practical-personalized-ringtones-for-2024/"><u>Turn Popular TikTok Tracks Into Practical, Personalized Ringtones for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-ditch-final-cut-pro-x-explore-these-10-powerful-video-editing-alternatives-for-2024/"><u>Updated Ditch Final Cut Pro X? Explore These 10 Powerful Video Editing Alternatives for 2024</u></a></li>
 </ul></div>
 

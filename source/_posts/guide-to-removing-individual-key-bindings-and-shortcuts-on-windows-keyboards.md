@@ -1,7 +1,7 @@
 ---
 title: Guide to Removing Individual Key Bindings and Shortcuts on Windows Keyboards
-date: 2024-12-11T19:55:55.114Z
-updated: 2024-12-14T02:09:57.926Z
+date: 2024-12-18T23:57:57.956Z
+updated: 2024-12-22T17:48:51.897Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Guide to Removing Individual Key Bindings and Shortcuts on Windows Keyboards
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -28,10 +24,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Want to disable a specific keyboard key or shortcut? Microsoft PowerToys, an official Microsoft app, makes this task quite simple. Here's a quick guide on using the Keyboard Manager in Microsoft PowerToys to disable a specific key or shortcut.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Install Microsoft PowerToys if You Haven't Already
 
  If Microsoft PowerToys is not installed on your device, [install the app first](https://on-screen-recording.techidaily.com/new-elevate-meeting-experience-with-zooms-camera-snaps/). Open the Microsoft Store app, type "Microsoft PowerToys" in the store's search bar, and select Microsoft PowerToys from the search results.
@@ -42,10 +34,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Installing the Microsoft PowerToys app from the Microsoft Store on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-installing-the-microsoft-powertoys-app-from-the-microsoft-store-on-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Let the installation process complete, and you will come across a User Account Control (UAC) window. Click "Yes" there, and the app will be successfully installed.
 
 ##  Disable a Specific Keyboard Key With Microsoft PowerToys
@@ -55,20 +43,32 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Opening the Keyboard Manager settings in the Microsoft PowerToys app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-opening-the-keyboard-manager-settings-in-the-microsoft-powertoys-app-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Turn on the toggle next to Enable Keyboard Manager if it's currently turned off. Afterward, click on "Remap a Key."
 
 ![Enabling the Keyboard Manager in the Microsoft PowerToys app and opening the key remapping settings in it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-enabling-the-keyboard-manager-in-the-microsoft-powertoys-app-and-opening-the-key-remapping-settings-in-it.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click "Add Key Remapping," choose the key you want to disable under Select, and select "Disable" under To Send. Finally, click "OK" in the top-right corner.
 
 ![Disabling the 'R' key in the Keyboard Manager in the Microsoft PowerToys app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-disabling-the-r-key-in-the-keyboard-manager-in-the-microsoft-powertoys-app-on-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you receive a warning, click "Continue Anyway," and your [specified key will be disabled](https://instagram-videos.techidaily.com/unlocking-igtvs-potential-5-ways-to-surge-follower-count/).
 
 ![Microsoft PowerToys giving a warning when disabling a key in the Keyboard Manager on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-microsoft-powertoys-giving-a-warning-when-disabling-a-key-in-the-keyboard-manager-on-windows.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Disable a Specific Shortcut With Microsoft PowerToys
 
@@ -80,13 +80,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Disabling a particular shortcut using Keyboard Manager in Microsoft PowerToys on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-disabling-a-particular-shortcut-using-keyboard-manager-in-microsoft-powertoys-on-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you want to re-enable the disabled key or shortcut, go to the same settings, click the recycle bin icon next to it, and click "OK."
 
 ![Deleting the key remapping in the Keyboard Manager in the Microsoft PowerToys app to reenable the disabled key on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8-deleting-the-key-remapping-in-the-keyboard-manager-in-the-microsoft-powertoys-app-to-reenable-the-disabled-key-on-windows.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Like remapping keyboard keys and shortcuts using Keyboard Manager, [Microsoft PowerToys offers various other features](https://facebook-video-footage.techidaily.com/updated-2024-approved-auto-play-youtube-iphoneandroid-no-notification/) geared toward power users.
 
@@ -105,16 +105,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-best-breaks-and-takes-from-snowspeedcross-games/"><u>[New] In 2024, Best Breaks & Takes From Snowspeedcross Games</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-clickable-content-climber-software/"><u>[New] In 2024, Clickable Content Climber Software</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-5-mac-videography-tools-unleashed-in-sierra-os/"><u>[New] Top 5 Mac Videography Tools Unleashed in Sierra OS</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-space-requirements-for-hd-video-on-64gb-for-2024/"><u>[Updated] Space Requirements for HD Video on 64GB for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-audio-interface-for-podcasters-a-must-know-tip-for-your-podcasting-setup/"><u>[Updated] The Ultimate Audio Interface for Podcasters A Must-Know Tip for Your Podcasting Setup</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-synchronizing-sound-to-pixels-online/"><u>2024 Approved Synchronizing Sound to Pixels Online</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-quick-guide-to-modifying-your-vocal-characteristics-in-pubg/"><u>2024 Approved The Quick Guide to Modifying Your Vocal Characteristics in PUBG</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/coherent-and-curated-youtube-playlists-online-and-mobile-assembly-guide/"><u>Coherent and Curated YouTube Playlists Online & Mobile Assembly Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-verizon-apple-iphone-14-by-drfone-ios/"><u>How to Unlock Verizon Apple iPhone 14</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-realme-c53-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Realme C53 To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/superior-software-for-beat-alteration-tech-for-2024/"><u>Superior Software for Beat Alteration Tech for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-expert-guide-to-android-time-lapse-video-magic/"><u>[New] 2024 Approved Expert Guide to Android Time-Lapse Video Magic</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-mastering-your-fb-profile-picture-update-for-2024/"><u>[New] Mastering Your FB Profile Picture Update for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-gopro-hero-series-comparison/"><u>[New] The GoPro Hero Series Comparison</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-compilation-of-top-sky-hd-sites/"><u>[New] The Ultimate Compilation of Top Sky HD Sites</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-image-illumination-incor-writings-on-visual-canvases-online-for-2024/"><u>[Updated] Image Illumination Incor Writings on Visual Canvases Online for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-timeless-classics-most-iconic-anime-openers/"><u>[Updated] Timeless Classics Most Iconic Anime Openers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-the-viral-potential-of-your-instagram-unboxing-content/"><u>[Updated] Unleash the Viral Potential of Your Instagram Unboxing Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/driving-sales-success-through-cookiebot-enabled-analytics-tools/"><u>Driving Sales Success Through Cookiebot-Enabled Analytics Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/immaculate-audio-experience-mastering-the-art-of-thoroughly-cleaning-your-living-room-speakers/"><u>Immaculate Audio Experience: Mastering the Art of Thoroughly Cleaning Your Living Room Speakers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-maximizing-b-roll-effective-techniques-for-enhancing-videos/"><u>In 2024, Maximizing B-Roll Effective Techniques for Enhancing Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-real-time-collage-wizardry-tips-and-tricks/"><u>In 2024, Real-Time Collage Wizardry Tips & Tricks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-hasty-photographers-guide-to-google-collage-magic/"><u>In 2024, The Hasty Photographer's Guide to Google Collage Magic</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-budget-friendly-gopro-adds/"><u>In 2024, Ultimate Budget-Friendly GoPro Adds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-creativity-a-deep-dive-into-metaverse-meme-culture/"><u>In 2024, Unleash Creativity A Deep Dive Into Metaverse Meme Culture</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-ultimate-guide-to-video-dubbing-top-apps/"><u>New The Ultimate Guide to Video Dubbing Top Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pc-gamers-must-know-tutorial-setting-up-and-syncing-ps-vr-for-immersive-play/"><u>PC Gamers' Must-Know Tutorial: Setting Up and Syncing PS VR for Immersive Play</u></a></li>
+<li><a href="https://fox-that.techidaily.com/phone-number-error-what-to-do-when-names-are-missing-from-messages/"><u>Phone Number Error: What to Do When Names Are Missing From Messages</u></a></li>
 </ul></div>
 

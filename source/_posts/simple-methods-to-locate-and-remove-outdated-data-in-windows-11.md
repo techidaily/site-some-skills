@@ -1,7 +1,7 @@
 ---
 title: Simple Methods to Locate & Remove Outdated Data in Windows 11
-date: 2024-12-09T16:48:54.436Z
-updated: 2024-12-13T23:00:49.192Z
+date: 2024-12-18T04:22:02.882Z
+updated: 2024-12-23T04:44:29.206Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Simple Methods to Locate & Remove Outdated Data in Windows 11
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -26,7 +30,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If you’re running out of storage on your PC, the best thing to do is to find and remove old, unwanted files. Windows 11 offers multiple ways to find those storage-hogging items, and we’ll show you what those ways are and how to use them in this guide.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Using Storage Sense
@@ -51,6 +55,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Storage Sense configuration options in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-configure-storage-sense.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To run the feature now, click "Run Storage Sense Now." It will start removing the chosen files.
 
 ##  With Microsoft PC Manager
@@ -60,10 +68,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To use the app, open Windows Search, type **PC Manager**, and choose the app in the search results. When it opens, from the left sidebar, select "Storage." On the right pane, in the Files Cleanup section, you’ll see various options.
 
 ![File cleanup options in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/4-pc-manager-file-cleanup-options.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The first option is "Downloaded Files," which lets you remove the files you’ve downloaded using the installed web browsers. Click it, and it’ll open a window listing your recent file downloads. You can sort these files by their type using the tabs at the top.
 
@@ -77,13 +81,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 !['Size' drop-down menu highlighted for large files in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/6-specify-file-size.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When you see the files listed, choose the ones you want to remove and click "Permanently Delete."
 
 ![Large files and 'Permanently Delete' highlighted in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/7-delete-large-files.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And that’s it.
 
@@ -91,11 +95,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Duplicate files and 'Permanently Delete' highlighted in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/8-remove-duplicate-files.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  And you’re all set.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Using Command Prompt
 
@@ -104,6 +108,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To use it, open Windows Search, search for **Command Prompt**, and select "Run as Administrator."
 
 !['Run as Administrator' highlighted for Command Prompt in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/9-open-command-prompt.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the User Account Control prompt, choose "Yes."
 
@@ -128,17 +136,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Save the ForFiles command as a batch file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/10-save-batch-file.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When you want to run your command, right-click your batch script and choose "Run as Administrator."
 
 !['Run as Administrator' highlighted for a batch file in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/11-run-batch-file.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can integrate this batch script with Task Manager, and Task Manager will run the script at your specified time. This basically automates the entire process of finding and removing old files from your specified folders.
 
@@ -161,22 +161,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-elite-arena-top-10-royale-game-spectacles/"><u>[New] Elite Arena Top 10 Royale Game Spectacles</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-rapid-ascension-harness-likes-and-videos-for-insta-success/"><u>[Updated] 2024 Approved Rapid Ascension Harness Likes & Videos for Insta Success</u></a></li>
-<li><a href="https://extra-information.techidaily.com/10-solutions-to-chromes-missing-video-while-using-facebook/"><u>10 Solutions to Chrome's Missing Video While Using Facebook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-talk-translator-essential-offline-text-recognition-software/"><u>2024 Approved Talk Translator Essential Offline Text Recognition Software</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/auditory-storytelling-in-cinematic-openings/"><u>Auditory Storytelling in Cinematic Openings</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-y27-4g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Vivo Y27 4G to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-the-process-of-converting-zip-to-srt/"><u>In 2024, Streamlining the Process of Converting Zip to Srt</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-catalog-of-livestreaming-cameras-review/"><u>In 2024, The Complete Catalog of Livestreaming Cameras Review</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-creative-potential-with-expert-macro-video-cinematography-guidance/"><u>In 2024, Unlock Creative Potential with Expert Macro Video Cinematography Guidance</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-apples-podcast-potential-an-instructional-guide/"><u>In 2024, Unlocking Apple's Podcast Potential An Instructional Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/personalize-keyboard-actions-on-windows-platform/"><u>Personalize Keyboard Actions on Windows Platform</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-oppo-reno-8t-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Oppo Reno 8T 5G Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/seamless-acquisition-of-twitters-jokes-for-pc/"><u>Seamless Acquisition of Twitter's Jokes for PC</u></a></li>
-<li><a href="https://some-skills.techidaily.com/superior-websites-promoting-youtube-media-for-2024/"><u>Superior Websites Promoting YouTube Media for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-list-of-xsplits-equals-for-2024/"><u>The Ultimate List of Xsplit's Equals for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-full-potential-advanced-tips-for-zooming-images-in-snapchat-for-2024/"><u>Unlock Full Potential Advanced Tips for Zooming Images in Snapchat for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-expert-recommendations-the-best-handhited-hd-players/"><u>[New] In 2024, Expert Recommendations The Best Handhited HD Players</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-complete-blueprint-to-record-hulu-playback/"><u>[New] The Complete Blueprint to Record Hulu Playback</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-yuneecs-breeze-a-quest-for-perfect-vision-for-2024/"><u>[New] Yuneec's Breeze - A Quest for Perfect Vision for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-spark-your-audience-with-best-video-content-ideas/"><u>[Updated] 2024 Approved Spark Your Audience with Best Video Content Ideas</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-app-accuracy-check-through-the-lens-of-vll/"><u>[Updated] App Accuracy Check Through the Lens of VLL</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-bridging-social-gaps-efficiently-share-video-content-between-platforms-for-2024/"><u>[Updated] Bridging Social Gaps Efficiently Share Video Content Between Platforms for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-drone-racers-companion-basics-to-aces-and-top-5-fpv-brands/"><u>[Updated] The Drone Racer's Companion Basics to Aces and Top 5 FPV Brands</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-ultra-details-in-minecraft-games/"><u>[Updated] Unveiling Ultra Details in Minecraft Games</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-metaverse-makeover-easy-avatar-construction/"><u>2024 Approved The Metaverse Makeover Easy Avatar Construction</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-tecno-spark-10-4g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-xiaomi-redmi-note-12-pro-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Xiaomi Redmi Note 12 Pro 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-balance-of-serene-visuals/"><u>In 2024, The Balance of Serene Visuals</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-path-to-outstanding-interviewer-expertise/"><u>In 2024, The Path to Outstanding Interviewer Expertise</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-2-step-plan-to-a-viral-youtube-video-for-2024/"><u>The 2-Step Plan to a Viral YouTube Video for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-technicality-of-srgb-vs-rgb-for-2024/"><u>The Technicality of Srgb vs Rgb for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-image-potential-smart-online-cropping-techniques-for-2024/"><u>Unlocking Image Potential Smart Online Cropping Techniques for 2024</u></a></li>
 </ul></div>
 

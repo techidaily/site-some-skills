@@ -1,17 +1,13 @@
 ---
 title: "Mastering the Likebook Air From Boyue & JDRead Venus: Insider Tips for Ultimate Portability and Performance"
-date: 2024-12-12T00:49:05.099Z
-updated: 2024-12-13T17:01:25.550Z
+date: 2024-12-15T22:49:45.208Z
+updated: 2024-12-22T21:11:42.259Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/ad251382f0a7d8c655d1ecfe442682eca929097f4c42dbd9921ea0eb3f9c12b0.jpg
 ---
 
 ## Mastering the Likebook Air From Boyue & JDRead Venus: Insider Tips for Ultimate Portability and Performance
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Tips and Tricks for Boyue Likebook Air (JDRead Venus)
 
@@ -21,16 +17,12 @@ Posted by [Sisi Liu](https://www.facebook.com/sisi.liu.737) on 1/22/2018 5:21:35
 
 ![follow](http://www.epubor.com/images/follow.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 JDcom and Boyue jointly launched the second Chinese made eReader – **JDRead Venus** on March 15, 2017\. It’s also called **Boyue Likebook Air** in North America and Europe. The product is primarily designed for Chinese users. It is defined to be a flagship Chinese pocket eReader which has better render effect on Chinese characters than Kindle eReaders do. It runs a newer version of **Android 4.4.2** on i.MX.6 SoloLite single core 1 GHZ CPU. The open Andriod system supports to install third party apps from Google Play which brings more playability to users. It has 1GB of RAM, 16GB of storage space, and an SD card slot to expand the storage further. It features a 6-inch 300 PPI E-ink Carta screen with a frontlight which enables you to read in the dark. Its battery capacity is 2000mAh which allows you to read with it constantly for about 25 days. The built-in reading app supports **ePub, MOBI, PDF, TXT, FB2, DOC, and HTML** files. It has massive digital resources that you can access and purchase books directly from the device anytime anywhere. So it’s enticing to millions of people including the ones who don’t settle down in mainland China. 
 
 ![BOYUE-T65S-likebook-air](http://www.epubor.com/images/uppic/1-BOYUE-T65S-likebook-air.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In this article, I’ll unveil and illustrate some **tips and trips of Likebook Air** which facilities your usage experience and helps you to make the most of the product.
@@ -38,10 +30,6 @@ JDcom and Boyue jointly launched the second Chinese made eReader – **JDRead Ve
 [(1) Quick Access functions](https://tools.techidaily.com/epubor/products/)  
 [(2) Other tips & tricks](https://tools.techidaily.com/epubor/products/)  
 [(3) Import books into Likebook Air](https://tools.techidaily.com/epubor/products/) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Access functions
 
@@ -54,6 +42,10 @@ Touch and hold the virtual HOME key for 5 seconds to turn the reading light on. 
 Sometimes partial refresh may results in image retention of previous page to be reflected in the current page (it occurs mostly when you set to refresh every 10 pages). You just need to press HOME key and hold for 2 seconds to start refresh, then the image retention is removed.
 
 ![no-image-retention](http://www.epubor.com/images/uppic/2-no-image-retention.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 3\. Toggle between page-turning keys
 
@@ -70,6 +62,14 @@ Open a book, click the first icon on the ribbon to disable the touchscreen. Once
 Likebook Air supports PDF cropping and gray level upgrade. You can enjoy reading manga on the eReader with better user experience after cropped PDF edges. 
 
 ![before cropping](http://www.epubor.com/images/uppic/4-before cropping.png) ![after cropping](http://www.epubor.com/images/uppic/5-after cropping.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Other tips and tricks
 
@@ -89,10 +89,6 @@ Tap Wallpaper setup, select custom wallpaper.
 
 ![change-wallpaper-1](http://www.epubor.com/images/uppic/6-change-wallpaper-1.jpg) ![change-wallpaper-2](http://www.epubor.com/images/uppic/7-change-wallpaper-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Import books into Likebook Air
 
 #### 1\. Import books via USB cable
@@ -110,6 +106,10 @@ Likebook Air can access data in your micro TF card. So you can place some books 
 Likebook Air also supports book transfer from PC/mobile phone to the eReader via wifi. Make sure the wifi hotspot connected to the eReader is the same as the PC or mobile terminal network. Open the wifi transfer interface on your Likebook Air, scan the QR code in the main panel with your mobile phone, or input the given in the browser address bar on a computer. When landing to the wifi transfer webpage, select the books you want to transfer, wait for processing, then the books are uploaded successfully to your Likebook Air. Go to Bookshelf section and you can check the newly transferred books on your eReader.
 
 ![transfer-books-via-wif](http://www.epubor.com/images/uppic/9-transfer-books-via-wifi.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The above are part of tips and tricks for Likebook Air that we present to you. Of course there’re a few hidden knacks need to be dug up. Leave your comments below the article to share your unique tips and tricks on this eReader!
 
@@ -250,22 +250,20 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-crafting-a-legacy-youtubers-playbook-for-success-for-2024/"><u>[New] Crafting a Legacy YouTuber’s Playbook for Success for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-snapshot-speaks-the-leading-captioning-apps-iosandroid/"><u>[New] Snapshot Speaks The Leading Captioning Apps (iOS/Android)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-chronicle-of-creation-weaving-time-lapse-animations-via-movie-maker/"><u>[New] The Chronicle of Creation Weaving Time-Lapse Animations via Movie Maker</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-editors-toolkit-elevating-your-video-with-inshot-transitions/"><u>[New] The Editor's Toolkit Elevating Your Video with Inshot Transitions</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-leading-asmr-content-on-the-web-for-2024/"><u>[Updated] Leading ASMR Content on the Web for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-teleport-into-virtuality-top-10-mobile-vr-headsets-reviewed/"><u>[Updated] Teleport Into Virtuality Top 10 Mobile VR Headsets Reviewed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-timing-your-podcasts-impactful-debut/"><u>[Updated] Timing Your Podcast's Impactful Debut</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-ranked-text-enhancers-for-after-effects/"><u>[Updated] Top-Ranked Text Enhancers for After Effects</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/discover-the-world-of-minecraft-plugins-the-new-non-mod-enhancements/"><u>Discover the World of Minecraft Plugins: The New Non-Mod Enhancements</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-plus-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 Plus to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-edge-40-neo-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Motorola Edge 40 Neo | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-a70-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel A70 to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-upgraded-2023-samsung-bd-j5900/"><u>In 2024, Unveiling the Upgraded 2023 Samsung BD-J5900</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-source-guide-4-top-skype-ringtones-for-2024/"><u>The Ultimate Source Guide 4 Top Skype Ringtones for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/utilizing-multiframe-view-an-in-depth-look-at-edges-pip-for-2024/"><u>Utilizing Multiframe View An In-Depth Look at Edge’s PIP for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/will-advanced-ai-innovations-by-microsoft-bring-back-the-dominance-of-windows-phones/"><u>Will Advanced AI Innovations by Microsoft Bring Back the Dominance of Windows Phones?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-yuneec-typhoon-h-insights-drone-review-highlights-for-2024/"><u>[New] Yuneec Typhoon H Insights Drone Review Highlights for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-laugh-line-by-line-building-a-meme-friendly-video-portfolio/"><u>[Updated] 2024 Approved Laugh Line by Line Building a Meme-Friendly Video Portfolio</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-photographers-weigh-in-the-aurora-verdict/"><u>[Updated] Photographers Weigh In The Aurora Verdict</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-cost-efficient-guide-to-skype-calls-in-mp3-for-2024/"><u>[Updated] The Cost-Efficient Guide to Skype Calls in MP3 for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-tier-hdr-camera-selection-made-easy/"><u>[Updated] Top-Tier HDR Camera Selection Made Easy</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unbeatable-prices-for-top-6-action-cams-under-100/"><u>[Updated] Unbeatable Prices for Top 6 Action Cams Under $100</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-short-film-producer-yt/"><u>2024 Approved Short Film Producer YT</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/brushstrokes-of-color-expert-shift-strategies-for-2024/"><u>Brushstrokes of Color Expert Shift Strategies for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-12-mini-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone 12 mini In Different Conditionsin</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-guide-to-video-editing-in-windows-8-movie-maker/"><u>In 2024, The Complete Guide to Video Editing in Windows 8 Movie Maker</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-timers-without-a-dollar/"><u>In 2024, Ultimate Timers Without a Dollar</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-world-of-haptic-navigation-systems/"><u>In 2024, Unveiling the World of Haptic Navigation Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-shop-your-go-to-store-for-premium-quality-camera-equipment/"><u>Movavi Shop: Your Go-To Store For Premium Quality Camera Equipment</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-error-corrected-display-fully-operational/"><u>Nvidia Error Corrected, Display Fully Operational</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-crafting-winning-giveaway-posts-on-facebook-for-2024/"><u>The Art of Crafting Winning Giveaway Posts on Facebook for 2024</u></a></li>
 </ul></div>
 

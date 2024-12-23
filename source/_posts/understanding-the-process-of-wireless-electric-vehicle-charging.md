@@ -1,7 +1,7 @@
 ---
 title: Understanding the Process of Wireless Electric Vehicle Charging
-date: 2024-12-11T21:21:24.708Z
-updated: 2024-12-13T16:51:32.185Z
+date: 2024-12-16T20:23:17.099Z
+updated: 2024-12-22T23:45:04.982Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 ## Understanding the Process of Wireless Electric Vehicle Charging
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -24,7 +24,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  We've all grown pretty used to wireless smartphone charging by now, but what if you could charge an electric car the same way? The technology is currently being developed --- pretty soon, all you might need to do to charge your Tesla is park it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Wirelessly Electric Vehicle Charging Works
@@ -50,7 +50,7 @@ Related: [How Does Wireless Charging Work?](https://eaxpv-info.techidaily.com/ne
  The cost of building that kind of tech into roadways on a wide scale remains to be seen and could get in the way of wireless charging roads becoming mainstream if prohibitively high. The U.S. doesn't have a great record when it comes to the upkeep of our [current roads and bridges,](https://www.cfr.org/backgrounder/state-us-infrastructure) but with Congress recently approving a large infrastructure bill we could, hopefully, see that trend improve.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Challenges of Wireless EV Charging
@@ -68,7 +68,7 @@ Related: [Level 1, Level 2, or Level 3? EV Chargers Explained](https://visual-sc
  To address that, manufacturers are building fail safes. In Ferrell's video, WiTricity's CEO explained that if an object like a metal can or a cat that crawled under the car to try and get warm is detected, the charger would shut off and send a notification to your phone. If a person gets too close to the charging pad, it also shuts off. [WiTricity's website](https://witricity.com/products/automotive/) outlines these precautions in a little more detail.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What's Next for Wireless EV Charging
@@ -92,20 +92,18 @@ Related: [Level 1, Level 2, or Level 3? EV Chargers Explained](https://visual-sc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-farming-fun-and-friendship-the-best-agrigames-to-bond-with-friends/"><u>[New] Farming Fun & Friendship The Best AgriGames to Bond With Friends</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-harness-the-power-of-youtube-studio-for-ultimate-edits/"><u>[New] In 2024, Harness the Power of YouTube Studio for Ultimate Edits</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-elite-set-of-android-photoshoppers/"><u>[New] The Elite Set of Android Photoshoppers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-videographers-packing-essentials-kit/"><u>[New] The Videographer's Packing Essentials Kit</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-from-standard-to-spectacular-the-transformative-power-of-high-dynamic-range-for-2024/"><u>[Updated] From Standard to Spectacular The Transformative Power of High Dynamic Range for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-best-online-deals-on-webcam-protection-kits/"><u>[Updated] In 2024, Best Online Deals on Webcam Protection Kits</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-8-enhanced-peripherals-for-a-richer-metaverse-experience/"><u>[Updated] Top 8 Enhanced Peripherals for a Richer Metaverse Experience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-app-development-cutting-edge-editor-tools/"><u>[Updated] Top App Development Cutting-Edge Editor Tools</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/best-solarmovie-alternatives-watch-movies-free-online/"><u>Best SolarMovie Alternatives-Watch Movies Free Online</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/exquisite-stop-motion-cinema-top-15-picks/"><u>Exquisite Stop-Motion Cinema - Top 15 Picks</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/facebook-featured-best-10-music-clips-today/"><u>Facebook Featured Best 10 Music Clips Today</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-pixiz-guide-to-blending-photography-and-motion-for-2024/"><u>The Pixiz Guide to Blending Photography and Motion for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/the-ultimate-list-of-prime-video-favorites-on-twittersphere-for-2024/"><u>The Ultimate List of Prime Video Favorites on Twittersphere for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transforming-personal-narratives-best-practices-for-video-praise-for-2024/"><u>Transforming Personal Narratives Best Practices for Video Praise for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-revolutionary-alternative-tools-for-fbx-file-capture/"><u>[New] Revolutionary Alternative Tools for FBX File Capture</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-ios-image-files-conversion-to-pdfs/"><u>[Updated] The Ultimate Guide IOS Image Files Conversion to PDFs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unblemished-visuals-buying-high-quality-images/"><u>[Updated] Unblemished Visuals Buying High-Quality Images</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-speedy-streams-the-noobs-snapchat-guide/"><u>[Updated] Unlocking Speedy Streams The Noob’s Snapchat Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-pillars-of-profitable-digital-marketing/"><u>2024 Approved The Pillars of Profitable Digital Marketing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/cold-acclimation-is-a-process-where-plants-increase-their-cold-tolerance-after-being-exposed-to-low-non-freezing-temperatures-for-several-days-or-weeks/"><u>Cold Acclimation Is a Process Where Plants Increase Their Cold Tolerance After Being Exposed to Low, Non-Freezing Temperatures for Several Days or Weeks.</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/cally-acclaimed-video-cards-for-clear-youtube-broadcasts-for-2024/"><u>Critically Acclaimed Video Cards for Clear YouTube Broadcasts for 2024</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/find-easy-steps-to-change-network-settings-on-your-pc-with-yl-software-solutions/"><u>Find Easy Steps to Change Network Settings on Your PC with YL Software Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-infinix-gt-10-pro-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Infinix GT 10 Pro Phone Screen?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-economic-aspects-of-making-a-music-video/"><u>In 2024, The Economic Aspects of Making a Music Video</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unleash-your-contents-potential-organic-growth-tactics/"><u>In 2024, Unleash Your Content's Potential Organic Growth Tactics</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-play-8t-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Play 8T</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-and-complying-with-instagrams-audio-ownership-laws-for-2024/"><u>Understanding and Complying with Instagram's Audio Ownership Laws for 2024</u></a></li>
 </ul></div>
 

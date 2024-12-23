@@ -1,7 +1,7 @@
 ---
 title: Top 8 Essential Factors to Consider When Purchasing a Pre-Owned Windows Laptop
-date: 2024-12-12T16:06:07.102Z
-updated: 2024-12-14T03:05:56.357Z
+date: 2024-12-19T17:23:50.909Z
+updated: 2024-12-22T16:14:43.047Z
 tags:
   - deals
 categories:
@@ -24,15 +24,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Buying a used laptop can indeed save you money, but it does come with some risks. This is why you should thoroughly examine the laptop before closing the deal to avoid unpleasant surprises later on. If you doubt the credibility of the seller, here's how you can test the used laptop.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Test the Keyboard and Trackpad
 
  Begin the laptop inspection by testing the keyboard and trackpad first. To test the keyboard, go to a keyboard testing website like [Keyboard Tester](https://www.keyboardtester.com/tester.html) and press each key from the first to the last. If all keys register correctly, the keyboard is likely in good condition. Also, make sure you feel comfortable typing on the keyboard.
 
 ![Keyboard tester typing letters in lowercase with Caps Lock off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-keyboard-tester-typing-letters-in-lowercase-with-caps-lock-off.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To test the trackpad, hover over the screen to gauge its responsiveness. Then, experiment with different trackpad gestures, such as pinch-to-zoom and two-finger scroll, to see which ones are supported. If you have another laptop, you can compare trackpad responsiveness by conducting a touchpad accuracy test on both laptops using the [No-Cursor website](https://no-cursor.com/).
 
@@ -47,7 +47,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Testing the laptop speaker in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/1-testing-the-laptop-speaker-in-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To [test the built-in microphone](https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-y200e-5g-drfone-by-drfone-virtual-android/), return to the sound settings, click on "Microphone Array," and then click on the "Start Test" button next to Test Your Microphone. Speak for a few seconds, then stop the test. If you see a decent volume percentage recorded, the microphone is working as it should.
@@ -60,10 +60,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  If the camera app detects the webcam and the visuals are clear and of satisfactory quality, as the seller claimed, then the camera is working correctly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Check the Health of Your Laptop Battery
 
  The more a laptop is used, the more its battery capacity diminishes. When purchasing a new laptop, you should ensure that it's not heavily worn out. You can check this by generating a battery health report on Windows. [Open the Windows PowerShell utility as an administrator](https://win11.techidaily.com/a-guide-to-quickly-opens-sticky-notes-in-windows-11/), enter the following command, and press Enter:
@@ -74,12 +70,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Generating the battery health report from Windows PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_2-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Navigate to this location and open the battery report. Then, go to the "Installed Batteries" section and compare the "Design Capacity" with the "Full Charge Capacity." The difference between these values indicates the extent to which the battery's capacity has diminished due to usage. If the full charge capacity is significantly low, you may have to replace the battery.
 
 ![Checking the laptop battery report.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_5.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Ensure the Laptop Isn't Stolen
@@ -107,7 +107,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Running the memory diagnostic test from Windows Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/3-running-the-memory-diagnostic-test-from-windows-command-prompt.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Windows will restart and run the test. Once it finishes testing the RAM, it'll restart again and display the test results. If you don't see them, you can use the Windows Event Viewer to search for potential issues identified during the test. Open Event Viewer and go to Windows Logs > System. Click "Find," type **MemoryDiagnostic**, and click "Find Next."
@@ -133,17 +133,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-whip-up-your-own-web-humor-snippet/"><u>[New] 2024 Approved Whip Up Your Own Web Humor Snippet</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-writing-dialogue-with-impact-in-film-scripts/"><u>[New] In 2024, Writing Dialogue with Impact in Film Scripts</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-expert-analysis-which-editing-tool-trumps-the-other-filmora-or-democreator/"><u>[Updated] 2024 Approved Expert Analysis Which Editing Tool Trumps the Other, Filmora or Democreator?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-top-8-proven-video-growth-enhancers/"><u>[Updated] In 2024, Top 8 Proven Video Growth Enhancers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unraveling-top-hdr-camera-brands-and-features/"><u>[Updated] Unraveling Top HDR Camera Brands and Features</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-one-device-two-os-file-migration-tactics/"><u>2024 Approved One Device, Two OS File Migration Tactics</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-strategizing-visibility-for-podcasts-through-design/"><u>2024 Approved Strategizing Visibility for Podcasts Through Design</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-copy-paste-issues-in-windows-11-troubleshooting-guide/"><u>How to Fix Copy-Paste Issues in Windows 11: Troubleshooting Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-apple-iphone-15-pro-max-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your Apple iPhone 15 Pro Max From Your Apple ID</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-how-to-determine-ideal-frame-rates-in-slow-mo-filmmaking/"><u>In 2024, How to Determine Ideal Frame Rates in Slow-Mo Filmmaking</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-rescuing-flaky-windows-programs/"><u>Mastering the Art of Rescuing Flaky Windows Programs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unleashing-creativity-full-scale-review-of-toolwizs-photography-app-for-2024/"><u>Unleashing Creativity Full-Scale Review of Toolwiz's Photography App for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-experts-playbook-top-techniques-for-youtube-to-mpeg/"><u>[New] The Expert's Playbook Top Techniques for YouTube-to-MPEG</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-illustrators-journey-navigating-for-success-in-designing/"><u>[New] The Illustrator's Journey Navigating for Success in Designing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-video-upgrade-pathway-sdr-to-hdri-transformation-techniques/"><u>[New] The Ultimate Video Upgrade Pathway SDR to HDRI Transformation Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-8-hubs-for-3d-graffiti-typefaces/"><u>[New] Top 8 Hubs for 3D Graffiti Typefaces</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-free-to-paid-subscriber-count-surpasses-500/"><u>[Updated] In 2024, From Free to Paid Subscriber Count Surpasses 500</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-set-up-facebook-cover-videos/"><u>[Updated] In 2024, Set up Facebook Cover Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-top-5-ways-to-record-audio-in-windows-11/"><u>[Updated] The Ultimate Guide Top 5 Ways to Record Audio in Windows 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-iphone-se-2022-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing iPhone SE (2022) Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-restoring-audio-functionality-when-windows-10-fails/"><u>Expert Tips for Restoring Audio Functionality When Windows 10 Fails</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-speed-windowed-image-inspector-for-2024/"><u>High-Speed Windowed Image Inspector for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-vivo-v29-pro-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Vivo V29 Pro Phone Now with These Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-total-exploration-of-vsco-photography-functions/"><u>In 2024, Total Exploration of VSCO Photography Functions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-creativity-through-iphones-top-10-visual-arrangement-techniques/"><u>In 2024, Unleash Creativity Through iPhone's Top 10 Visual Arrangement Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transform-your-swf-files-into-3gp-format-for-free-with-movavis-web-tool/"><u>Transform Your SWF Files Into #3GP Format for Free with Movavi's Web Tool</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-guide-the-premier-17-inch-notebooks/"><u>Ultimate Guide: The Premier 17-Inch Notebooks</u></a></li>
 </ul></div>
 

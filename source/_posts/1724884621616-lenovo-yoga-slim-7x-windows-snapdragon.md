@@ -1,7 +1,7 @@
 ---
 title: "Lenovo Yoga Slim 지갑쇼드라그래픅 7X 리뷰: Windows에서 Snapdragon은 완전히 안타깝게 신속하지 않음"
-date: 2024-12-12T16:32:04.807Z
-updated: 2024-12-13T20:44:08.248Z
+date: 2024-12-21T05:10:29.866Z
+updated: 2024-12-23T06:35:18.373Z
 tags:
   - desktop
 categories:
@@ -105,10 +105,6 @@ The Lenovo Yoga Slim 7x is one of the first Copilot+ PC laptops, with all-day ba
 
 Expand 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Design: The Ports Are Lacking
 
  Even though the Yoga Slim 7x might have exciting new hardware and software, the design is typical for an ultrabook PC. It packs a large 14.5-inch screen, front-firing speakers, and a large keyboard and trackpad into a package measuring 12.80 x 8.86 inches. It weighs slightly more than the current 13-inch MacBook Air, at just 2.82 pounds.
@@ -118,7 +114,7 @@ Expand
 ![The keyboard on the Lenovo Yoga Slim 7x.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-keyboard-on-the-lenovo-yoga-slim-7x-2_53815829123_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -140,7 +136,7 @@ Jerome Thomas / How-To Geek
  Finally, even though this laptop is sold under the Yoga brand, this is _not_ a convertible laptop. The screen can be pushed back to nearly flat with the keyboard, but it cannot bend all the way around for tent mode or functioning as a tablet.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Display: A Fantastic OLED
@@ -151,11 +147,19 @@ Jerome Thomas / How-To Geek
 
 ![The start menu on the Lenovo Yoga Slim 7x](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-start-menu-on-the-lenovo-yoga-slim-7x_53815828798_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  The 90Hz refresh rate gives you more fluid animations and more responsive games than a typical 60Hz screen while using less power than the 120Hz screens that are more common on smartphones and gaming hardware. However, Windows still isn’t consistent with supporting high refresh rates. Moving around windows and scrolling through the Microsoft Store might be silky smooth, but opening the Start menu or performing other actions seem to be stuck at 60Hz.
 
  The display also supports HDR content, either through VESA DisplayHDR True Black 600 or Dolby Vision. However, there are still not many applications and games on Windows that support HDR, including most streaming services.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Software: Hello, ARM Windows
 
@@ -165,25 +169,21 @@ Jerome Thomas / How-To Geek
 
 ![Windows 11 screenshot with Task Manager and Microsoft Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/image.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When the Prism emulator works, you don’t notice it at all, though the software might run a bit slower than it would on a comparable Intel or AMD-powered computer. This is also similar to how the [Rosetta 2 emulation layer](https://instagram-video-recordings.techidaily.com/updated-2024-approved-demystifying-viewer-statistics-on-instagram-images/) works on Mac computers with ARM-based Apple Silicon chips.
 
  Some of the applications I use every day already have ARM-native versions, including Firefox, Slack, Outlook, and Spotify. Discord doesn’t have an ARM version yet, so it runs as an emulated x86 application, and performance randomly slowed down about two weeks into my review period. I tried a few games, with mixed results: "Civilization VI" worked well, but "Overwatch" had frequent stuttering that seemed to happen regardless of the graphical quality setting. Some games don’t open at all, and most games from the Microsoft Store or Xbox app can’t be installed. Microsoft is [working to improve game performance](https://devblogs.microsoft.com/directx/step-forward-for-gaming-on-arm-devices-2024/) in x86 emulation, but the inconsistent compatibility is something to keep in mind with the Yoga Slim 7x and other ARM-based Windows computers.
 
 ![Microsoft Store screenshot showing how Doom Eternal can't be installed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/image-1-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Some software just doesn’t exist on ARM Windows and can’t be emulated. If you have a device that needs specific third-party drivers to function, instead of the generic drivers available through Windows Update, it probably won’t work. You also can’t use virtualization software and some emulators—VirtualBox and VMWare don’t have ARM Windows versions. I couldn't try Microsoft’s [HyperV virtualization tool](https://facebook-record-videos.techidaily.com/updated-the-infographic-index-youtubes-surprising-stat-treasury-2017/), because it needs Windows 11 Pro. This laptop ships with Windows 11 Home. You can use the [Windows Subsystem for Linux](https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/), though it will install ARM Linux, which doesn’t have all the same software as x86 Linux.
 
  This new ARM laptop still has some software bloat, like McAfee antivirus and random Lenovo tools. I had to uninstall McAfee after a few days because it kept showing annoying popups and blocked some applications from running. Microsoft is also increasingly aggressive with [prompts to use the Edge browser](https://instagram-video-recordings.techidaily.com/2024-approved-facing-instagram-video-issues-you-may-find-the-answers-here/) and [defaulting to OneDrive for storage](https://audio-editing.techidaily.com/new-in-2024-10-best-websites-to-download-ding-sound-effect-easily/) in Windows 11.
 
  Finally, it’s worth noting that Windows 11 is currently the only operating system for these Snapdragon X laptops. If you want to give desktop Linux a serious try, buy a different laptop with an x86 Intel or AMD CPU (or better yet, [a laptop designed specifically for Linux](https://win-howtos.techidaily.com/ensure-file-placement-consistency-across-windows-10-boots/)).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Performance: Great, If Your Apps Work
 
@@ -199,6 +199,10 @@ Jerome Thomas / How-To Geek
 
  Even though the actual hardware in the Yoga Slim 7x is on par or exceeds most of the competition, your real-world performance will vary depending on how much of your software needs to be emulated.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Battery Life: All Day on a Charge
 
  Windows laptops have historically struggled to maintain great battery life, thanks to the [broken Modern Standby in many newer laptops](https://www.spacebar.news/windows-pc-sleep-broken/), the inefficient architecture of x86-based processors, and other factors. Improved battery life was one of the promised advantages of the Snapdragon chip in the Yoga Slim 7x, and thankfully, that turns out to be true.
@@ -206,10 +210,6 @@ Jerome Thomas / How-To Geek
  I was able to easily get all-day battery life on the Yoga Slim 7x, with my usual mix of managing emails, talking in Slack, juggling five to 20 tabs in Firefox, and checking Discord. The Snapdragon X Elite chipset also didn't generate much heat, so when I wasn’t gaming or running benchmarks, the laptop fans were quiet or not running at all.
 
  The battery life here is much closer to a tablet or MacBook than most other Windows laptops. It's great to see Microsoft and Qualcomm make actual progress in this department, even if there are other limitations with this hardware that need to be improved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The Competition: It's Tough
 
@@ -254,22 +254,22 @@ The Lenovo Yoga Slim 7x is one of the first Copilot+ PC laptops, with all-day ba
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-ultimate-social-surge-amass-1k-on-ig-each-month-for-a-million-dream/"><u>[New] 2024 Approved The Ultimate Social Surge Amass 1K on IG Each Month for a Million Dream</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unleashing-the-full-potential-of-your-phone-into-vr-realm/"><u>[New] Unleashing the Full Potential of Your Phone Into VR Realm</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-essential-guide-to-aspect-ratios-on-youtube-platforms/"><u>[Updated] 2024 Approved The Essential Guide to ASPECT RATIOS on YOUTUBE Platforms</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-smartphone-cinematography-mastery-designing-impactful-youtube-thumbnails/"><u>[Updated] In 2024, Smartphone Cinematography Mastery Designing Impactful YouTube Thumbnails</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-essential-checklist-purging-backdrops-with-affinity-photo/"><u>[Updated] The Essential Checklist Purging Backdrops with Affinity Photo</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-insights-on-effective-spotify-ad-targeting/"><u>2024 Approved Insights on Effective Spotify Ad Targeting</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-d500-experience-achieving-excellence-with-4k-hd/"><u>2024 Approved The D500 Experience Achieving Excellence with 4K HD</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-least-expensive-skyvault-service-for-big-files/"><u>2024 Approved The Least Expensive SkyVault Service for Big Files</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-zero-price-screen-capture-software-for-windows-10-users/"><u>2024 Approved Top 5 Zero Price Screen Capture Software for Windows 10 Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-the-secrets-of-srt-editing-on-a-mac/"><u>2024 Approved Unlocking the Secrets of SRT Editing on a Mac</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/comprehensive-tutorial-on-activating-shadow-copy-features-in-windows-server-2019/"><u>Comprehensive Tutorial on Activating Shadow Copy Features in Windows Server 2019</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-amp-up-creativity-premiere-pro-templates-free/"><u>In 2024, Amp Up Creativity Premiere Pro Templates, FREE</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-lava-storm-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Lava Storm 5Gwith/without a PC</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-screentosave-mobilepc-video-recording/"><u>In 2024, ScreenToSave Mobile/PC Video Recording</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-best-ways-to-watch-360-videos-on-android/"><u>In 2024, Unveiling the Best Ways to Watch 360 Videos on Android</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-tecno-pova-5-pro-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Tecno Pova 5 Pro Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-secrets-of-video-filter-application-techniques-for-2024/"><u>Unveiling the Secrets of Video Filter Application Techniques for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-frequent-monetization-is-it-real-on-youtube/"><u>[New] In 2024, Frequent Monetization Is It Real on YouTube?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-universal-srt-to-various-subtitle-formats-handbook/"><u>[New] Universal SRT to Various Subtitle Formats Handbook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-iphone-x-secrets-restoring-face-id-functionality/"><u>[New] Unlocking iPhone X Secrets Restoring Face ID Functionality</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-artful-humor-chuckledrawings/"><u>[Updated] In 2024, Artful Humor ChuckleDrawings</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-fb-video-aspect-ratio-varieties/"><u>[Updated] In 2024, FB Video Aspect Ratio Varieties</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-digital-alterations-tips-for-text-in-pictures/"><u>[Updated] The Art of Digital Alterations Tips for Text in Pictures</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-media-edits-storyremix-and-windows-11-photos-integration/"><u>2024 Approved Streamlining Media Edits StoryRemix & Windows 11 Photos Integration</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-enhancements-in-sonys-s6500-bdhd-player/"><u>2024 Approved Unveiling Enhancements in Sony's S6500 BD/HD Player</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-redmi-k70e-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/abbyy-finereader-14-revolutionizing-document-handling-with-new-features/"><u>ABBYY FineReader 14: Revolutionizing Document Handling with New Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-online-tool-for-converting-wav-files-into-mp4-format-by-movavi/"><u>Free Online Tool for Converting WAV Files Into MP4 Format by Movavi</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-ideas-into-impactful-scenes-through-dialogue/"><u>In 2024, Transforming Ideas Into Impactful Scenes Through Dialogue</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unmatched-upticks-celebrating-top-10-reddit-discussions/"><u>In 2024, Unmatched Upticks Celebrating Top 10 Reddit Discussions</u></a></li>
+<li><a href="https://win11.techidaily.com/retuning-windows-11-energy-settings-from-loss/"><u>Retuning Windows 11 Energy Settings From Loss</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-future-of-home-entertainment-tv-or-projection-for-4k-in-2024/"><u>The Future of Home Entertainment TV or Projection for 4K, In 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-iphone-14-top-facts-on-its-battery-performance-concerns/"><u>Understanding iPhone 14: Top Facts on Its Battery Performance Concerns</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-superior-sound-elevate-your-apple-tvs-dialogue-with-the-new-tvos-eighteen-features-zdnet-insights/"><u>Unlock Superior Sound: Elevate Your Apple TV's Dialogue with the New tvOS Eighteen Features | ZDNET Insights</u></a></li>
 </ul></div>
 

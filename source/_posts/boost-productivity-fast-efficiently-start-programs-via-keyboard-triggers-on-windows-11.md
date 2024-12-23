@@ -1,7 +1,7 @@
 ---
 title: "Boost Productivity Fast: Efficiently Start Programs via Keyboard Triggers on Windows 11"
-date: 2024-12-08T22:34:39.652Z
-updated: 2024-12-14T02:56:12.345Z
+date: 2024-12-16T21:40:15.182Z
+updated: 2024-12-22T22:05:05.657Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 ---
 
 ## Boost Productivity Fast: Efficiently Start Programs via Keyboard Triggers on Windows 11
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -28,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
 ![Pinning an app to the Taskbar on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pin-to-taskbar-2.jpeg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once pinned to the taskbar, click and drag the icons to move them to a different position.
 
  Your taskbar may have items like the search bar, task view, and widgets—these are not launchable through this specific keyboard shortcut. So, the app that you pin after these takes slot one, which you can open by pressing Windows+1 on your keyboard.
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
  In the screenshot below, File Explorer is first and Steam (highlighted) is fourth. This is because we don't count the Windows button, the search bar, or the task view icon. Since Steam is fourth, I can launch it by pressing Windows+4.
 
 ![Windows 11 with the Steam app pinned to the Taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/windows-steam-taskbar-1.jpeg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  While this method is fairly simple, its biggest drawback is that you can only use the taskbar shortcuts for a maximum of ten applications, with Win+0 being the key combination to launch the tenth.
 
@@ -56,12 +52,16 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
 ![Creating a shortcut of an app on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/create-shortcut-1.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Right-click on the newly created shortcut and select "Properties" to open another window.
 
 ![A screenshot of Windows 11 depicting the Properties option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/windows-11-properties-1.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Within the "Shortcut Key" field, press a key. This creates a shortcut using the Ctrl and Alt keys. For example, in the screenshot below, I pressed "A" which created a shortcut of Ctrl + Alt + A. Once done, click "OK".
@@ -80,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
 ![PowerToys Keyboard Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/powertoys-keyboard-manager.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To create your shortcut, first click "Add Shortcut Remapping." Click the pencil next to "Shortcut" and press the keys for your shortcut, then "OK" when done.
 
  Next, use the "Action" dropdown and click "Run Program", then click "Select Program" and find the program you want your shortcut to open.
@@ -93,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 ![Remapping a shortcut in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/remapping-a-shortcut-in-powertoys.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you ever want to delete a shortcut, return to this screen and click the trash can.
@@ -109,6 +105,10 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
  Next, give your script a name and select the "Edit" button.
 
 ![A screenshot of AutoHotkey with the Name and Edit options highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/autohotkey-name.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Choose Notepad (or a development environment of your choosing, if you're an advanced user) as the code editor and press "OK."
 
@@ -154,20 +154,20 @@ Run "C:\Program Files (x86)\Steam\steam.exe"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-quickvid-simplified-w11-screen-capture-software/"><u>[New] In 2024, QuickVid Simplified W11 Screen Capture Software</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-getting-started-with-action-cams-latest-2023-insights/"><u>[Updated] In 2024, Getting Started with Action Cams – Latest 2023 Insights</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-simple-steps-for-incorporating-videos-into-articles/"><u>[Updated] Simple Steps for Incorporating Videos Into Articles</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-techniques-for-non-linear-eq-curves/"><u>[Updated] Techniques for Non-Linear EQ Curves</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-upward-landscapes-with-phones/"><u>2024 Approved The Art of Upward Landscapes with Phones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-best-lipos-a-drone-buyers-bible/"><u>2024 Approved Unveiling the Best LiPos - A Drone Buyer's Bible</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-resolving-bluetooth-is-currently-unavailable-error/"><u>Guide to Resolving 'Bluetooth Is Currently Unavailable' Error</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Poco M6 Pro 4G? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-visuals-master-11-key-techniques-for-color-correction/"><u>In 2024, Transform Your Visuals Master 11 Key Techniques for Color Correction</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-clarity-in-photos-leading-10-online-edits-at-a-glance/"><u>In 2024, Unlock Clarity in Photos Leading 10 Online Edits at a Glance</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-ranking-of-smartphone-vr-headsets-for-2024/"><u>The Ultimate Ranking of Smartphone VR Headsets for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-tech-review-lg-65-inch-oled-tv-c9-series-a-game-changer-in-4k-viewing-experience/"><u>The Ultimate Tech Review: LG 65-Inch OLED TV (C9 Series) - A Game Changer in 4K Viewing Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-linux-laptop-picks-for-2-indepth-analysis-by-tech-gurus-zdnet/"><u>Top-Rated Linux Laptop Picks for 2# - InDepth Analysis by Tech Gurus | ZDNET</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-flawless-skin-in-fcpx-a-beginners-guide-to-plugin-free-retouching-for-2024/"><u>Updated Flawless Skin in FCPX A Beginners Guide to Plugin-Free Retouching for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-nokia-c210-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-vectors-alternatives-to-the-classic-acid-pro/"><u>[New] Top Vectors Alternatives to the Classic ACID Pro</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-laughing-made-easy-the-zero-cost-meme-kit/"><u>[Updated] In 2024, Laughing Made Easy – The Zero-Cost Meme Kit</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-30-voice-modification-solutions-vtubers-guidebook/"><u>[Updated] Top 30 Voice Modification Solutions VTubers Guidebook</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-streaming-galore-top-nine-game-portals/"><u>2024 Approved Streaming Galore Top Nine Game Portals</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-increasing-indoor-ambiance-via-sunlight/"><u>2024 Approved The Art of Increasing Indoor Ambiance via Sunlight</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-timeless-shots-perfecting-the-art-of-date-placement-in-pictures/"><u>2024 Approved Timeless Shots Perfecting the Art of Date Placement in Pictures</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-oppo-find-x6-pro-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Oppo Find X6 Pro</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-lava-yuva-3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-textual-treasures-ae-font-exploration/"><u>In 2024, Transform Textual Treasures AE Font Exploration</u></a></li>
+<li><a href="https://some-skills.techidaily.com/jest-jar-imgur-meme-tool-for-2024/"><u>Jest Jar Imgur Meme Tool for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-tecno-spark-10-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/transforma-tu-archivo-ts-en-mp4-gratuito-y-perfecto-el-metodo-mas-eficaz-para-la-conversion-online/"><u>Transforma Tu Archivo .TS en .MP4 Gratuito Y Perfecto: El Método Más Eficaz Para La Conversión Online</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Honor X8b? | Dr.fone</u></a></li>
 </ul></div>
 

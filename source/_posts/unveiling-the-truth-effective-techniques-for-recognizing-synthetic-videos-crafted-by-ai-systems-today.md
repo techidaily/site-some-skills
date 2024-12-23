@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Truth: Effective Techniques for Recognizing Synthetic Videos Crafted by AI Systems Today"
-date: 2024-12-09T23:31:41.796Z
-updated: 2024-12-13T17:33:36.930Z
+date: 2024-12-21T18:46:01.307Z
+updated: 2024-12-23T01:50:22.430Z
 tags:
   - cutting-edge
 categories:
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64
 
 ![OpenAI SORA Tokyo night scene example clip.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/tokyo_clothes1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 OpenAI
 
  Now take a look at the same clothes in the close-up and you’ll see that the dress now has dark patches on it and that the leather jacket has a much larger off-center lapel:
@@ -53,7 +49,7 @@ OpenAI
 ![OpenAI SORA Tokyo night scene close up.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/tokyo_clothes2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 OpenAI
@@ -69,6 +65,10 @@ OpenAI
  Two seconds later, the figure has disappeared entirely. If you watch the video, you’ll see this figure blend right into the dirt as if it were a ghost:
 
 ![OpenAI SORA California gold rush town showing a "ghost" disappearing.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/goldrush2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 OpenAI
 
@@ -88,10 +88,6 @@ OpenAI
 
  Can you take your third arm off my leg, please?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Look Closely at Objects in the Background of an Image
 
  Background details are often a dead giveaway when it comes to AI-generated video, even more so than photos. A good fake depends on the subject being convincing enough to distract you that the background isn’t quite behaving in the way it should be.
@@ -107,10 +103,6 @@ OpenAI
  Keep an eye out for suspect background activity to spot AI-generated video. Sometimes you’ll notice natural objects like trees, fields, or forests interacting in strange ways. Perspectives can seem off, sometimes moving objects don’t quite line up with the path portrayed in the animation.
 
  Another example is OpenAI’s [Big Sur coastline drone shot](https://cdn.openai.com/sora/videos/big-sur.mp4). Have you ever seen a wave that looks that straight in nature?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Lighting and the "AI Aura"
 
@@ -130,17 +122,21 @@ OpenAI
 
 ![OpenAI SORA spaceman with a knitted helmet video demonstrating the uncanny valley effect.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/uncanny_valley.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 OpenAI
 
  And there’s a similarly [ghoulish grandmother](https://cdn.openai.com/sora/videos/grandma-birthday.mp4) failing to blow out her birthday candles, which looks far worse in motion:
 
 ![OpenAI SORA's nightmare granny.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/nightmare_granny.png) 
 
-OpenAI
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+OpenAI
 
 ##  Watch Out for Nonsense
 
@@ -149,7 +145,7 @@ OpenAI
 ![OpenAI SORA spaceman video depicting a weird object.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/weird_lever.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 OpenAI
@@ -159,6 +155,10 @@ OpenAI
  The same goes for movements. The SORA [cat in bed video](https://cdn.openai.com/sora/videos/cat-on-bed.mp4) is impressive, but the movement isn't right. Cat owners will recognize that the behavior is strange and unnatural. It feels like there’s a mismatch between the behavior of the subject and the context of the situation. Over time, this will improve.
 
  Garbled text is another good example of what AI generative processes often get wrong. The Japanese characters in SORA’s Tokyo night scene video are a jumble, and so is some of the road and shop signage. Choosing a scene where most people are unable to distinguish Japanese from a bad tribute was a smart choice on OpenAI’s part.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Train Yourself to Better Spot This Content
 
@@ -183,19 +183,17 @@ OpenAI
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-navigating-board-features-across-apple-android-and-windows-for-effective-online-collaboration/"><u>[New] In 2024, Navigating Board Features Across Apple, Android & Windows for Effective Online Collaboration</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-elevate-your-shots-vloggers-guide-to-the-9-finest-camera-gadgets/"><u>[Updated] 2024 Approved Elevate Your Shots Vlogger's Guide to the 9 Finest Camera Gadgets</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-unveiling-vidmas-video-capturing-excellence/"><u>[Updated] 2024 Approved Unveiling Vidma's Video Capturing Excellence</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-innovative-solutions-made-simple-using-ez-grabber-for-2024/"><u>[Updated] Innovative Solutions Made Simple Using EZ Grabber for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-360-degree-shoot-selecting-your-perfect-model/"><u>[Updated] Ultimate 360-Degree Shoot Selecting Your Perfect Model</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-easy-loop-keeping-iphone-videos-running/"><u>2024 Approved Easy Loop Keeping iPhone Videos Running</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-source-guide-buying-and-downloading-your-favorite-youtube-rings/"><u>In 2024, Ultimate Source Guide Buying and Downloading Your Favorite YouTube Rings</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-custom-tunes-for-your-pixel-phone/"><u>In 2024, Unlocking Custom Tunes for Your Pixel Phone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-winerror-0x8007043c-in-media-creator-tool/"><u>Tackling WinError 0X8007043C in Media Creator Tool</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-drone-accessory-guide-10-must-haves-revealed-for-2024/"><u>The Ultimate Drone Accessory Guide - 10 Must-Haves Revealed for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-6-platforms-facilitating-enterprise-social-synergy-for-2024/"><u>Top 6 Platforms Facilitating Enterprise-Social Synergy for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-consistent-audio-cut-outs-on-your-windows-11-machine-a-comprehensive-guide/"><u>Troubleshoot Consistent Audio Cut-Outs on Your Windows 11 Machine: A Comprehensive Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Motorola Moto G84 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/lia3ima-18-dwrhseis-fainomenwn-sympiestwn-2024-odhgwn-ypologismo/"><u>Λίαξιμα 18: Δωρήσεις Φαινόμενων Συμπιεστών - 2024, Οδηγών Υπολογισμό</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-22-efficient-ways-to-livestream-classes-without-paying/"><u>[New] 22 Efficient Ways to Livestream Classes Without Paying</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-updated-lg-bp550-features-and-reviews/"><u>[New] Updated LG BP550 - Features & Reviews</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-efficient-techniques-recording-saving-and-converting-movies-in-win-11/"><u>2024 Approved Efficient Techniques Recording, Saving, and Converting Movies in Win 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-speech-to-text-solutions-for-engaging-ppts/"><u>2024 Approved Speech-to-Text Solutions for Engaging PPTs</u></a></li>
+<li><a href="https://facebook.techidaily.com/explore-most-trending-videos-in-your-feed/"><u>Explore Most Trending Videos in Your Feed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-audio-glitches-in-resident-evil-village-a-step-by-step-guide/"><u>Fixing Audio Glitches in Resident Evil Village: A Step-by-Step Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-techniques-for-seamless-blending-of-hdr-photographs-in-lightroom/"><u>In 2024, Techniques for Seamless Blending of HDR Photographs in Lightroom</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-creativity-seamless-integration-of-title-and-caption-overlays-on-video-clips-via-microsoft-photos/"><u>In 2024, Unlocking Creativity Seamless Integration of Title & Caption Overlays on Video Clips via Microsoft Photos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/latest-updates-whats-fresh-with-movavi-screen-recorder/"><u>Latest Updates: What's Fresh with Movavi Screen Recorder</u></a></li>
+<li><a href="https://some-skills.techidaily.com/timeless-classics-most-iconic-anime-openers-for-2024/"><u>Timeless Classics Most Iconic Anime Openers for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-oppo-a58-4g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Oppo A58 4G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 </ul></div>
 

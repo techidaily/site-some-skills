@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Flip Side  When VR Becomes a Stumbling Block\""
-date: 2024-08-20T23:54:09.768Z
-updated: 2024-08-21T23:54:09.768Z
+date: 2024-12-19T18:18:38.235Z
+updated: 2024-12-23T00:37:49.502Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://www.lifewire.com/thmb/D4uT5p29_lIC5FDQUnoil812gZY=/400x300/fi
 
 # What are the disadvantages of VR?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -36,15 +33,17 @@ _[Differences between VR, AR and MR](https://tools.techidaily.com/wondershare/fi
 _[Virtual Reality Technology: Current State and Future Challenges](https://tools.techidaily.com/wondershare/filmora/download/)_
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The equipment used for VR is very expensive
 
  Of course with any early stage technology, there are a host of issues to overcome among the first is cost for consumers to participate. Many systems run between $100 and $600 and we have not yet discussed the cost of purchasing experiences or games.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Low resoultion content, large file size
 
  The new goggles or headsets that are coming out offer best available high resolution displays. But gaming experience is coming on at low resolution, leaving you with a low resolution experience. Below is a greatly condensed technical discussion explaining why VR is still so profoundly mediocre.
@@ -66,13 +65,11 @@ _[Virtual Reality Technology: Current State and Future Challenges](https://tools
  There is an addictive quality of Virtual Reality environments that should not be ignored. Those who are regular users of these spaces, even in its developmental state find that it can be hard to stay away. Users find themselves in some cases, preferring the virtual world to the real one. If these anecdotal experiences are being reported by a very small sample size what will be the impact on entire cultures that embrace this technology? Considerations of Virtual Reality must extend into the world of human activity and definitions of normal behavior. And as a reminder most of us who love science fiction have a sense of what true Virtual Reality really is. It should be clear that we are a very long way from enjoying the holodeck.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Best Video Editor: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
@@ -92,6 +89,10 @@ Follow @Benjamin Arango
  **_You may also like:_**
 _[Differences between VR, AR and MR](https://tools.techidaily.com/wondershare/filmora/download/)_
 _[Virtual Reality Technology: Current State and Future Challenges](https://tools.techidaily.com/wondershare/filmora/download/)_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The equipment used for VR is very expensive
 
@@ -117,13 +118,14 @@ _[Virtual Reality Technology: Current State and Future Challenges](https://tools
 
  There is an addictive quality of Virtual Reality environments that should not be ignored. Those who are regular users of these spaces, even in its developmental state find that it can be hard to stay away. Users find themselves in some cases, preferring the virtual world to the real one. If these anecdotal experiences are being reported by a very small sample size what will be the impact on entire cultures that embrace this technology? Considerations of Virtual Reality must extend into the world of human activity and definitions of normal behavior. And as a reminder most of us who love science fiction have a sense of what true Virtual Reality really is. It should be clear that we are a very long way from enjoying the holodeck.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Video Editor: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -131,7 +133,6 @@ Benjamin Arango
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -155,8 +156,21 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-pro-camera-addons-buyers-insider-guide/"><u>[New] Pro-Camera Addons Buyer's Insider Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-pros-in-mac-streaming-the-top-5-applications/"><u>[New] Pros in Mac Streaming The Top 5 Applications</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-no-frills-guide-to-basic-hdr-techniques/"><u>[New] The No-Frills Guide to Basic HDR Techniques</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nlocking-youtube-live-potential-a-step-by-step-guide-for-2024/"><u>[New] Unlocking YouTube Live Potential A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-crafting-melodies-insights-into-magixs-newest-sound-suite-2024/"><u>[Updated] Crafting Melodies Insights Into Magix's Newest Sound Suite 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211341612-9781667469102-comment-realiser-vos-reves-et-vos-objjectifs/"><u>Comment Réaliser Vos Rêves et Vos Objjectifs | Free Book</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-manage-and-delete-crash-dumps-on-your-windows-10-computer-easily/"><u>How to Manage and Delete Crash Dumps on Your Windows 10 Computer Easily</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-8-solutions-for-when-your-laptop-wont-charge-despite-being-connected/"><u>Top 8 Solutions for When Your Laptop Won't Charge Despite Being Connected</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/troubleshooting-and-solving-broken-hd-drives-a-guide-by-yl-software-professionals/"><u>Troubleshooting and Solving Broken HD Drives: A Guide by YL Software Professionals</u></a></li>
+<li><a href="https://some-skills.techidaily.com/troubleshooting-guide-getting-your-non-responsive-wireless-mouse-back-online-on-windows-11/"><u>Troubleshooting Guide: Getting Your Non-Responsive Wireless Mouse Back Online on Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/troubleshooting-guide-resolving-windows-spotlight-malfunctions-effortlessly/"><u>Troubleshooting Guide: Resolving Windows Spotlight Malfunctions Effortlessly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-tutorial-for-using-cut-copy-and-paste-commands-on-windows-1011-systems/"><u>Ultimate Tutorial for Using Cut, Copy & Paste Commands on Windows 10/11 Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-tutorial-enabling-specific-ports-in-windows-firewall-settings/"><u>Ultimate Tutorial: Enabling Specific Ports in Windows Firewall Settings</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-deal-experience-the-ultimate-gaming-audio-bliss-with-a-stellar-speaker-system-now-40-off-on-amazon/"><u>Unbeatable Deal: Experience the Ultimate Gaming Audio Bliss with a Stellar Speaker System Now 40% Off on Amazon!</u></a></li>
+</ul></div>
 

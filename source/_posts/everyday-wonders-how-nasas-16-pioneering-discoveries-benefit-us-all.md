@@ -1,7 +1,7 @@
 ---
 title: "Everyday Wonders: How NASA's 16 Pioneering Discoveries Benefit Us All"
-date: 2024-12-11T20:14:14.236Z
-updated: 2024-12-13T20:36:13.570Z
+date: 2024-12-19T00:34:49.623Z
+updated: 2024-12-23T05:53:32.269Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/e1b05e2809c3856ff6c5f2c8afe934df9f995bbf6
 ---
 
 ## Everyday Wonders: How NASA's 16 Pioneering Discoveries Benefit Us All
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -39,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/e1b05e2809c3856ff6c5f2c8afe934df9f995bbf6
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations5.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 NASA/Photobit
 
  It's tough to pick a particular thing to top a list of everyday things that NASA invented that have an ongoing impact on our lives, given the sheer breadth of things the agency has been involved in over the years.
@@ -54,10 +62,6 @@ NASA/Photobit
 ##  Memory Foam
 
 ![A photo of a NASA Space Shuttle and a hand compressing some memory foam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations6.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 NASA/Dynamic Systems
 
@@ -97,6 +101,10 @@ The Smithsonian Insitute/NASA
 
 ![A photo of an astronaut in a space suit and an ad featurnig the new lens.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations8.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 NASA/Foster Grant
 
  Whether you've paid a premium for scratch-resistant eyeglasses or you've simply enjoyed a pair of safety glasses in your garage or at work that seemed particularly long-lived, you can trace that scratch resistance back to NASA. And if you've bought some cheap sunglasses or a much pricier welding helmet, you can thank NASA too.
@@ -108,7 +116,7 @@ NASA/Foster Grant
 ![LED grow lights in space and an LED healing lamp.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations9.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 NASA
@@ -119,9 +127,17 @@ NASA
 
  In fact, the latter research has found its way into home lighting design and even sleep tools and apps. When you set up a sleep routine with your Philips Hue lights or fire up an app like Sleep Cycle, you're tapping into decades of [NASA research on the subject](https://spinoff.nasa.gov/Spinoff2019/cg%5F8.html).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Infrared Thermometers
 
 ![A deep space telescope and a woman getting her temperature checked with an ear probe.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 iHealth/Apple/Invisalign
 
@@ -131,13 +147,13 @@ iHealth/Apple/Invisalign
 
  The technology eventually made its way into everything from [the thermometers we use when we're sick](https://www.amazon.com/iHealth-Thermometer-Vibration-Notification-Thermopile/dp/B075QQ8VZW/?tag=htg-v2-2q16d3n-20&ascsubtag=UUhtgUeUpU204545&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F831363%2Fthese-nasa-innovations-are-all-around-us-everyday%2F&asc%5Fcampaign=Short-Term) to the handy temperature guns we use to [check pizza ovens](https://www.lifesavvy.com/131867/gozney-roccbox-pizza-oven-review/) and other surfaces.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Freeze Dried Foods
 
 ![Examples of freeze dried food.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 iHealth/Apple/Invisalign
 
@@ -154,10 +170,6 @@ iHealth/Apple/Invisalign
 ##  Better Baby Formula
 
 ![An example of a 1970s era space meal, and a canister of baby formula.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations1.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 iHealth/Apple/Invisalign
 
@@ -186,7 +198,7 @@ NASA/Industrial Designers Society of America
 ![A photograph showing Skylab and a smoke detector module.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 iHealth/Apple/Invisalign
@@ -202,10 +214,6 @@ iHealth/Apple/Invisalign
 ##  Invisible Braces
 
 ![Two types of clear ceramic braces.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations1.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 iHealth/Apple/Invisalign
 
@@ -229,10 +237,6 @@ iHealth/Apple/Invisalign
 
  The grooves were originally applied to runways used for Space Shuttle landings to reduce skidding and have since been applied to roads, sidewalks, and other concrete surfaces for the same purpose.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Emergency Extraction Tools
 
 ![A shuttle launch and a set of Lifeshear tools.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations1.jpg) 
@@ -247,12 +251,16 @@ iHealth/Apple/Invisalign
 
  The resulting product, [Lifeshears](https://www.nasa.gov/vision/earth/technologies/human%5Fspaceflight.html), has been in use since the 1990s and was even used during rescue efforts after the 9/11 attack.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Foil Blankets
 
 ![Examples of foil blankets in use.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations4.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 NASA/AMC
@@ -260,10 +268,6 @@ NASA/AMC
  You'll often hear reflective emergency blankets, like those emergency responders wrap around car crash survivors and such, referred to as "[space blankets](https://spinoff.nasa.gov/Spinoff2006/ch%5F9.html)." This is because the reflective metallic material they are made out of was invented by NASA to help shield and insulate equipment and even entire portions of space stations. There's a reason that shiny-metal-foil look is inseparable from the space program.
 
  Not only does the technology persist in the form of the space blankets used for emergencies and by performance athletes, but a variety of companies have also incorporated the technology into gloves, clothing, and other garments. Which, given NASA's long history of [spurring textile innovation](https://spinoff.nasa.gov/Spinoff2013/cg%5F5.html), is no surprise.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Home Insulation
 
@@ -276,10 +280,6 @@ NASA/RadiaSource
  By sandwiching a lightweight layer of thermal break insulation between two layers of aluminized polymer, this style of insulation can help stabilize the temperature of a home as a fraction of the size and mass of traditional insulation.
 
  Between the original space blankets and radiant barrier innovations, NASA's research has found its way into everything from our homes to our lunchboxes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  More NASA-Funded Technology
 
@@ -304,22 +304,24 @@ NASA/RadiaSource
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-fast-snapfinders-handbook/"><u>[New] In 2024, Fast Snapfinder's Handbook</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-the-ultimate-source-guide-4-top-skype-ringtones/"><u>[New] In 2024, The Ultimate Source Guide 4 Top Skype Ringtones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-blueprint-for-stellar-unboxing-videos-on-tiktok/"><u>[New] The Blueprint for Stellar Unboxing Videos on TikTok</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-device-companion-for-metaventureers/"><u>[New] The Ultimate Device Companion for Metaventureers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-exceptional-live-streamers/"><u>[New] The Ultimate Guide to Exceptional Live Streamers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlock-your-creative-potential-with-inshot-for-pcs-and-laptops/"><u>[New] Unlock Your Creative Potential with Inshot for PCs & Laptops</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-art-of-gentle-audio-dampening-on-lumafusion-platforms/"><u>[Updated] The Art of Gentle Audio Dampening on Lumafusion Platforms</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/complete-tutorial-for-file-recovery-using-testdisk-across-various-windows-versions/"><u>Complete Tutorial for File Recovery Using TestDisk Across Various Windows Versions</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/guide-complet-pour-effacer-les-vieux-fichiers-dimage-de-sauvegarde-sur-windows-7-8-10-et-11/"><u>Guide Complet Pour Effacer Les Vieux Fichiers D'Image De Sauvegarde Sur Windows 7, 8, 10 Et 11</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Lava Agni 2 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-the-game-changing-polaroid-xs-for-high-speed-footage/"><u>In 2024, The Game-Changing Polaroid XS for High-Speed Footage</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-secret-life-of-a-designer-canvas-hidden-edits/"><u>In 2024, The Secret Life of a Designer Canva's Hidden Edits</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-picture-purity-erasing-images-excesses/"><u>In 2024, The Ultimate Guide to Picture Purity Erasing Images' Excesses</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transforming-videos-from-low-to-high-dynamic-range/"><u>In 2024, Transforming Videos From Low to High Dynamic Range</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simplified-steps-for-local-llama-2-installation/"><u>Simplified Steps for Local Llama 2 Installation</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ltimate-guide-to-the-top-5-youtube-link-reducers-for-2024/"><u>The Ultimate Guide to the Top 5 YouTube Link Reducers for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/where-to-find-the-best-budgeted-gopro-purchases/"><u>Where to Find the Best Budgeted GoPro Purchases</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-the-world-of-video-chats-on-your-xbox-console/"><u>[New] Navigating the World of Video Chats on Your Xbox Console</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-creating-flawless-passport-photos-for-free/"><u>[New] The Ultimate Guide to Creating Flawless Passport Photos for Free</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-from-screens-to-spreads-the-dos-and-donts-of-live-blogging-for-2024/"><u>[Updated] From Screens to Spreads The Do's and Don'ts of Live Blogging for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-mastering-the-art-of-buying-cutting-edge-360cams/"><u>[Updated] In 2024, Mastering the Art of Buying Cutting-Edge 360Cams</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-photography-made-easy-select-top-writing-apps/"><u>[Updated] Photography Made Easy Select Top Writing Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-facial-movements-using-blur-effects-in-picsart/"><u>[Updated] The Art of Facial Movements Using Blur Effects in Picsart</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-your-phone-into-a-funimate-portal-via-apk/"><u>[Updated] Transform Your Phone Into a Funimate Portal via APK</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-humor-potential-with-kapwings-designer/"><u>[Updated] Unlock Humor Potential with Kapwing’s Designer</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fast-forward-altering-instagram-stories-tempo/"><u>2024 Approved Fast-Forward Altering Instagram Stories' Tempo</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-best-toy-drones-for-kids/"><u>2024 Approved The Ultimate Guide to Best Toy Drones for Kids</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-secrets-of-professional-srt-file-generation/"><u>2024 Approved Unveiling the Secrets of Professional SRT File Generation</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-oneplus-12-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General OnePlus 12 Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/epson-v500-scanner-software-download-latest-version/"><u>Epson V500 Scanner Software Download - Latest Version</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-a18withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo A18with/without a PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-insiders-guide-to-top-ranking-titles/"><u>In 2024, The Insider's Guide to Top-Ranking Titles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-sierra-comprehensive-icloud-drives/"><u>In 2024, Unlocking Sierra Comprehensive iCloud Drives</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/missing-media-hardware-driver-restored-computer-functionality-enhanced/"><u>Missing Media Hardware Driver Restored, Computer Functionality Enhanced</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/cting-your-playlists-adapting-spotify-to-the-youtube-music-ecosystem-for-2024/"><u>Perfecting Your Playlists Adapting Spotify to the YouTube Music Ecosystem for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-path-to-excellent-gopro-filming-mastery-for-2024/"><u>The Path to Excellent Gopro Filming Mastery for 2024</u></a></li>
 </ul></div>
 

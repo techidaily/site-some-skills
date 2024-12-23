@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Images Using Artificial Intelligence: Mastering the Technique of Super-Resolution with Stable Diffusion"
-date: 2024-12-09T02:19:29.359Z
-updated: 2024-12-14T00:23:40.077Z
+date: 2024-12-16T23:31:27.518Z
+updated: 2024-12-22T23:22:41.647Z
 tags:
   - cutting-edge
 categories:
@@ -28,16 +28,12 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 
  In this guide we're assuming you have [automatic11111's Stable Diffusion WebUI installed and running](https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-tecno-spark-go-2023-phone-by-drfone-android/). It's the definitive edition of Stable Diffusion and makes upscaling (along with many other aspects of work with AI images) much more simple and intuitive compared to [a standard Stable Diffusion installation](https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-xiaomi-redmi-k70-phone-by-drfone-android/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Upscale Images in Stable Diffusion
 
  Whether you've got a [scan of an old photo](https://fox-cloud.techidaily.com/2024-approved-visualvision-studio-for-win8/), an old digital photo, or a low-res [AI-generated image](https://fox-info.techidaily.com/new-synthesize-stellar-titles-using-ai-insights/), start Stable Diffusion WebUI and follow the steps below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. Upload an Image
@@ -46,13 +42,13 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 
 ![Click the "Extras" tab in Stable Diffusion WebUI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/extras-tab.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or, if you've just generated an image you want to upscale, click "Send to Extras" and you'll be taken to there with the image in place for upscaling. Otherwise, you can drag-and-drop your image into the Extras upload field.
 
 ![A photo placed in the Extras upload field in Stable Diffusion WebUI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/generate.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you have several images you want to upscale at once, switch to the "Batch Process" tab and drop several at once. In my experience, though, this doesn't always work, and
 
@@ -62,13 +58,13 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 
 ![Adjust the "Scale By" slider or number field to choose the multiple you by which you want to upscale.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/scale-by.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Alternatively, you can switch to the "Scale To" tab and enter a specific resolution you want. Pay close attention to the image's current aspect ratio, and uncheck the "Crop to Fit" option if you don't want edges cut off.
 
  If you're planning to make a wallpaper, keep in mind that most modern phones use a 9:16 [aspect ratio](https://youtube-lab.techidaily.com/e-stock-images-directly-from-trusted-4-youtube-vids/), tablets use 4:3, and computers 16:9 (though ultrawide monitors go up to 21:9).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Step 3: Choose an Upscaler
 
@@ -87,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 * **Anime:** R-ESRGAN 4x+ Anime6B
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Step 4: Upscale!
@@ -114,6 +110,10 @@ Related: [How to Use Stable Diffusion to Make AI GIFs and Videos](https://youtub
 
  If images aren't looking quite how you expected, there are a few things you can do get better results from Stable Diffusion's upscaling tools.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Try an Upscaler Combo
 
  For advanced upscaling, you can select a second algorithm that will apply its effect to the same image, and the results of the two upscalers will be blended for the final product. (To be clear, a second upscaler will not double the output resolution.) This is useful if you find two different upscalers produce better results for different reasons.
@@ -123,7 +123,7 @@ Related: [How to Use Stable Diffusion to Make AI GIFs and Videos](https://youtub
 ![Secondary upscaler selected in Stable Diffusino WebUI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/second-upscaler.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Fix Bad Aspect Ratios With Outpainting
@@ -151,7 +151,7 @@ Postprocess upscale by: 4, Postprocess upscaler: ESRGAN\_4x, Postprocess upscale
 ![Use the GFPGAN and CodeFormer sliders to add facial correction to your upscaled images.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/facial-restoration.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In terms of speed, GPFGAN is slightly faster than CodeFormer. So if you're looking to make your upscaling happen as quickly possible, you'll probably want to lean on GPFGAN.
@@ -173,22 +173,24 @@ Related: [How to Make Awesome Wallpapers for Any Device With MidJourney](https:/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-learn-to-navigate-large-tiktok-files-editing-made-simple-and-swift/"><u>[New] Learn to Navigate Large TikTok Files Editing Made Simple and Swift</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-complete-untapped-potential-of-dji-phantom-4/"><u>[New] The Complete Untapped Potential of DJI Phantom 4</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-tips-acquiring-high-quality-backdrop-visuals/"><u>[New] Top Tips Acquiring High-Quality Backdrop Visuals</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-21-monitors-showdown-the-clear-winners/"><u>[Updated] Ultimate 2.1 Monitors Showdown - The Clear Winners</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-vectors-decoded-for-newbies-diverse-forms-and-tool-options/"><u>[Updated] Vectors Decoded for Newbies Diverse Forms and Tool Options</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-fraps-revolutionizing-gamers-screen-recording/"><u>2024 Approved Fraps Revolutionizing Gamer's Screen Recording</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-magic-5-lite-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-halting-unnecessary-android-application-activity-in-the-background/"><u>Guide: Halting Unnecessary Android Application Activity in the Background</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/guide-setting-up-song-crossfading-feature-on-apple-music/"><u>Guide: Setting Up Song Crossfading Feature on Apple Music</u></a></li>
-<li><a href="https://article-tips.techidaily.com/holistic-mobility-inspection-study/"><u>Holistic Mobility Inspection Study</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-montage-apps-8-leading-options-iphoneandroid/"><u>In 2024, The Ultimate Guide to Montage Apps 8 Leading Options (iPhone/Android)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-vr-buying-guide-mobile-liberty-or-tethered-unity/"><u>In 2024, The Ultimate VR Buying Guide Mobile Liberty or Tethered Unity?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-pc-gaming-the-ultimate-tutorial-on-linking-your-ps4-controller-to-steam/"><u>Mastering PC Gaming: The Ultimate Tutorial on Linking Your PS4 Controller to Steam</u></a></li>
-<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-14-pro-max-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your iPhone 14 Pro Max</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-eureka-encounter-with-apples-latest-immersive-tech-on-the-vision-pro-insights-and-revelations-zdnet/"><u>The Eureka Encounter with Apple's Latest Immersive Tech on the Vision Pro: Insights & Revelations | ZDNET</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transformative-power-of-chatgpt-for-modern-professionals/"><u>Transformative Power of ChatGPT for Modern Professionals</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-ffxp-an-in-depth-guide-for-2024/"><u>Unveiling FFXP An In-Depth Guide for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-navigating-picture-in-picture-features-in-firefox/"><u>[New] 2024 Approved Navigating Picture-in-Picture Features in Firefox</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-a-comprehensive-guide-downloading-from-instagram-to-iphone-for-2024/"><u>[New] A Comprehensive Guide Downloading From Instagram to iPhone for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-discover-premier-portable-audio/"><u>[New] Discover Premier Portable Audio</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamline-your-online-learning-downloading-youtube-srt-subtitles-using-3-simple-methods/"><u>[New] Streamline Your Online Learning Downloading YouTube SRT Subtitles Using 3 Simple Methods</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-innovative-photoplusmusic-recorder-software-of-the-year/"><u>[Updated] 2024 Approved Innovative Photo+Music Recorder Software of the Year</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-cutting-edge-professional-cameras-a-360-overview-2023/"><u>[Updated] The Cutting-Edge Professional Cameras - A 360° Overview, 2023</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-finest-10-online-spots-to-download-pristine-photos/"><u>[Updated] The Finest 10 Online Spots to Download Pristine Photos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-most-simple-approach-to-getting-clownfish-voice-changer-on-windows/"><u>[Updated] The Most Simple Approach to Getting Clownfish Voice Changer on Windows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-shots-essential-tips-for-capturing-great-iphone-images/"><u>2024 Approved The Art of Shots Essential Tips for Capturing Great iPhone Images</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-the-metaverse-simplified-avatar-designs/"><u>2024 Approved Unlocking the Metaverse Simplified Avatar Designs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/before-you-invest-in-a-wearable-gadget-5-key-points-on-smartwatch-selection/"><u>Before You Invest in a Wearable Gadget: 5 Key Points on Smartwatch Selection</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-the-budget-friendly-beantech-bitwatch-s1plus-for-savvy-shoppers/"><u>Comprehensive Analysis of the Budget-Friendly Beantech Bitwatch S1+ for Savvy Shoppers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-to-use-zoom-for-skype-easy-solutions-for-2024/"><u>How to Use Zoom for Skype [Easy Solutions] for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-textual-transformation-enrich-your-images-with-words-pcmac-style/"><u>In 2024, Textual Transformation Enrich Your Images with Words, PC/Mac Style</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-time-saving-tips-for-a-swift-google-photo-collage-crafting/"><u>In 2024, Time-Saving Tips for a Swift Google Photo Collage Crafting</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/optimize-your-creativity-with-these-10-chromebook-stores-for-2024/"><u>Optimize Your Creativity with These 10 Chromebook Stores for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-final-verdict-on-vegas-pro-21-a-sports-enthusiasts-review/"><u>The Final Verdict on Vegas Pro '21 - A Sports Enthusiast's Review</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/things-you-must-know-for-screen-mirroring-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>Things You Must Know for Screen Mirroring Apple iPhone 6s Plus | Dr.fone</u></a></li>
 </ul></div>
 

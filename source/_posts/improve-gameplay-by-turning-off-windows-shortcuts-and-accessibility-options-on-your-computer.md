@@ -1,7 +1,7 @@
 ---
 title: Improve Gameplay by Turning Off Windows Shortcuts & Accessibility Options on Your Computer
-date: 2024-12-08T17:02:44.305Z
-updated: 2024-12-13T21:53:23.264Z
+date: 2024-12-16T05:22:41.210Z
+updated: 2024-12-23T06:16:45.366Z
 tags:
   - desktop
 categories:
@@ -11,15 +11,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Improve Gameplay by Turning Off Windows Shortcuts & Accessibility Options on Your Computer
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [How to Disable the Windows Key](https://facebook-video-content.techidaily.com/updated-in-2024-breeze-through-your-latest-fb-watches-2023-edition/)
 * [How to Disable the Alt+Tab Shortcut](https://facebook-videos.techidaily.com/updated-2024-approved-3-simple-copywriting-structure-for-facebook-ads/)
 * [How to Disable Sticky Keys](https://tech-renaissance.techidaily.com/a-step-by-step-guide-setting-up-an-alternate-email-address-on-gmail/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -63,6 +63,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Delete option for Scancode Map binary value.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/delete-option-for-scancode-map-binary-value.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Using the Local Group Policy Editor
 
  If you have Windows Pro or Enterprise edition, you can use the Local Group Policy Editor to disable the Windows key on your computer. To do this, [open the Local Group Policy Editor](https://youtube-data.techidaily.com/approved-first-steps-in-the-youtubian-economy-building-a-brand-boosting-bank-balance/) and navigate to the following location:
@@ -81,10 +85,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Disabled option  in the Local Group Policy Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/disabled-option-in-the-local-group-policy-editor.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Using Microsoft PowerToys
 
 [Microsoft PowerToys](https://facebook-video-footage.techidaily.com/updated-2024-approved-auto-play-youtube-iphoneandroid-no-notification/) is a free app from Microsoft that lets you [disable keys on your Windows PC](https://smart-video-editing.techidaily.com/new-2024-approved-take-your-video-editing-to-the-next-level-adobe-premiere-pro-on-mac/). To use it to disable the Windows key, first [install it from the Microsoft Store](https://apps.microsoft.com/store/detail/XP89DCGQ3K6VLD?ocid=pdpshare) and then open it.
@@ -94,7 +94,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Remap a Key option in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/remap-a-key-option-in-powertoys.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Choose "Add Key Remapping."
@@ -105,17 +105,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Selecting Windows key in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/selecting-windows-key-in-powertoys-1.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  From the "To Send" drop-down menu, choose "Disable."
 
 ![Disable option for Windows key.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/disable-option-for-windows-key-1.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Click "OK" and then select "Continue Anyway" to confirm disabling the Windows key.
 
@@ -126,7 +118,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Trash icon on PowerToys](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/trash-icon-on-powertoys-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Using Your Keyboard Software
@@ -145,6 +137,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Add shortcut remapping option in PowerToys](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/add-shortcut-remapping-option-in-powertoys-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click the pen icon next to "Shortcut," press the "Alt+Tab" keys together, and click "OK."
 
 ![Selecting ALT+Tab key in PowerToys](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/selecting-alt-tab-key-in-powertoys-1.jpg) 
@@ -154,7 +150,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Disable option for ALT+Tab key](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/disable-option-for-alt-tab-key-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click "OK" to confirm the change.
@@ -171,10 +167,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![AutoHotkey Script option in context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/autohotkey-script-option-in-context-menu.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Give a name to the script file and press Enter.
 
  Right-click on the newly created script file, choose "Open With," and select "Notepad."
@@ -190,21 +182,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
     
 ![Code in Notepad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/code-in-notepad.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Go back to your desktop, right-click on the script file again, select "Show More Options," and then choose "Run Script."
 
 ![Run Script option in context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/run-script-option-in-context-menu.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Alt+Tab shortcut will now be disabled. To re-enable it, simply right-click on the AutoHotkey icon in the system tray and choose "Exit."
 
 ![Exit option in system tray area.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/exit-option-in-system-tray-area.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Disable Sticky Keys
 
@@ -220,13 +208,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Allow the shortcut key to start Sticky Keys box in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/allow-the-shortcut-key-to-start-sticky-keys-box-in-windows-10.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For Windows 11, open Settings, select "Accessibility" from the left-hand side, and disable the toggle switch for "Sticky Keys" on the right.
 
 ![Sticky Keys toggle on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/sticky-keys-toggle-on-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click the "Sticky Keys" option and disable the keyboard shortcut for it.
 
 ![Keyboard shortcut for Sticky Keys toggle on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/keyboard-shortcut-for-sticky-keys-toggle-on-windows-11.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That's it! You've successfully disabled Sticky Keys on your Windows computer. To enable it again in the future, simply turn the toggles back on.
 
@@ -251,22 +251,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-download-dos-and-donts-for-vrecorder-for-2024/"><u>[New] Download Dos & Don’ts for VRecorder for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-mastering-quick-windows-documentation-checks/"><u>[New] In 2024, Mastering Quick Windows Documentation Checks</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-understanding-and-utilizing-ez-grabber-like-a-pro-for-2024/"><u>[New] Understanding and Utilizing EZ Grabber Like a Pro for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unleashing-potential-current-vr-innovations/"><u>[New] Unleashing Potential Current VR Innovations</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mastering-voice-over-recording-for-videos/"><u>[Updated] 2024 Approved Mastering Voice-Over Recording for Videos</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-channel-building-gear-a-quick-start-guide-for-2024/"><u>[Updated] Channel-Building Gear A Quick Start Guide for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-counteracting-bot-influence-for-higher-traffic-for-2024/"><u>[Updated] Counteracting Bot Influence for Higher Traffic for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-visual-potential-perfect-aspect-ratios-revealed/"><u>[Updated] Unlocking Visual Potential Perfect Aspect Ratios Revealed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-vegaspro-2019-update-changes-and-impacts/"><u>[Updated] VegasPro 2019 Update Changes & Impacts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-navigating-the-depths-of-periscope-usage/"><u>2024 Approved Navigating the Depths of Periscope Usage</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-audio-visual-storytelling-with-iphone/"><u>2024 Approved The Art of Audio-Visual Storytelling with iPhone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-rated-mobile-video-editors-for-ios-and-android/"><u>2024 Approved Top-Rated Mobile Video Editors for iOS & Android</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fast-track-troubleshooting-ending-division-2-performance-issues-easily/"><u>Fast Track Troubleshooting: Ending Division 2 Performance Issues Easily</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-backchannel-bridge-engaging-with-your-audience/"><u>In 2024, The Backchannel Bridge Engaging with Your Audience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-10-online-television-platforms-examined/"><u>In 2024, Top 10 Online Television Platforms Examined</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-unveiling-the-secret-acquiring-twitter-gifs-effortlessly-on-pc/"><u>In 2024, Unveiling the Secret Acquiring Twitter GIFs Effortlessly on PC</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reclaim-files-for-free-stellar-rehabilitation/"><u>Reclaim Files for Free: Stellar Rehabilitation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-complete-blueprint-for-iphone-photo-arrangement-in-ordered-algebras-and-icloud/"><u>[New] The Complete Blueprint for iPhone Photo Arrangement in Ordered Algebras and iCloud</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleash-photo-dynamics-mastering-adobe-illustrator-blurs/"><u>[New] Unleash Photo Dynamics Mastering Adobe Illustrator Blurs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unraveling-the-mystery-of-effective-gif-communication/"><u>[New] Unraveling the Mystery of Effective GIF Communication</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-balancing-act-camera-gimbals-for-drones/"><u>[Updated] 2024 Approved Balancing Act Camera Gimbals for Drones</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-picturemosaic-maker-blend-videos-and-pics-macos/"><u>[Updated] 2024 Approved PictureMosaic Maker Blend Videos & Pics macOS</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-from-raw-footage-to-final-cut-chroma-mastery-for-2024/"><u>[Updated] From Raw Footage to Final Cut Chroma Mastery for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-masterpieces-revealed-topping-20-anime-themes-for-2024/"><u>[Updated] Masterpieces Revealed Topping 20 Anime Themes for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-the-complete-srt-reference-manual/"><u>2024 Approved The Complete SRT Reference Manual</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-digital-aids-to-supercharge-your-video-subtitles-accuracy/"><u>2024 Approved Top Digital Aids to Supercharge Your Video Subtitles' Accuracy</u></a></li>
+<li><a href="https://win-help.techidaily.com/creating-your-own-handmade-flip-book-album-with-printed-images-on-flipbuilder/"><u>Creating Your Own Handmade Flip Book Album with Printed Images on FlipBuilder</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-11-best-location-changers-for-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-effortless-android-sound-capture-4-non-root-methods/"><u>In 2024, Effortless Android Sound Capture 4 Non-Root Methods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-7-unboxing-excellence-strategies/"><u>In 2024, Top 7 Unboxing Excellence Strategies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-format-fluidity-convert-srt-quickly/"><u>In 2024, Unlocking Format Fluidity Convert SRT Quickly</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/quick-cash-no-experience-required-the-ultimate-guide-to-earning-money-on-reddit-for-2024/"><u>Quick Cash, No Experience Required The Ultimate Guide to Earning Money on Reddit for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ideal-beginning-enhancer-for-your-devices-for-2024/"><u>The Ideal Beginning Enhancer for Your Devices for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ces-2023-innovations-to-track-exploring-the-metaverse-futuristic-healthcare-and-beyond/"><u>Top CES 2023 Innovations to Track: Exploring the Metaverse, Futuristic Healthcare & Beyond</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-secrets-of-pubg-sound-personalization-for-2024/"><u>Unlocking the Secrets of PUBG Sound Personalization for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/venturing-into-new-realities-best-metaverse-headsets-guide-for-2024/"><u>Venturing Into New Realities Best Metaverse Headsets Guide for 2024</u></a></li>
 </ul></div>
 

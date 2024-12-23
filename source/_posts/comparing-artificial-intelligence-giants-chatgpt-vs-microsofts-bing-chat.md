@@ -1,7 +1,7 @@
 ---
 title: "Comparing Artificial Intelligence Giants: ChatGPT Vs. Microsoft's Bing Chat"
-date: 2024-12-07T03:23:32.419Z
-updated: 2024-12-14T02:53:21.403Z
+date: 2024-12-18T04:09:08.161Z
+updated: 2024-12-23T04:14:53.996Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 ## Comparing Artificial Intelligence Giants: ChatGPT Vs. Microsoft's Bing Chat
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 
 ![Asking Bing for its favorite color](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-31-at-4.37.08-PM.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Bing Chat on the web
 
  Bing is also integrated into other Microsoft apps and services, such as a sidebar in Microsoft Edge, a chatbot in Skype, and the mobile Bing app. [ChatGPT doesn't have an official mobile app](https://win11-tips.techidaily.com/how-to-use-apple-maps-on-a-windows-pc/), but you can use the web app on a phone or tablet. However, Microsoft has been slower to add features from the web interface to the Edge sidebar, Skype chatbot, and other interfaces. If you want all the features of Bing Chat, you should stick to the Bing site -- at least for now.
@@ -47,6 +43,10 @@ Bing Chat on the web
 Bing Chat on the web
 
  The web interface for ChatGPT and Bing Chat are similar, but with minor differences that change their usefulness. ChatGPT is designed to take in more data, such as longer blocks of code or large code samples. As of April 2023, Bing limits prompts to 2,000 characters, while ChatGPT's limit is much higher (and not officially stated).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Factual Accuracy
 
@@ -66,6 +66,10 @@ _Bing Chat_
 
 ![The state capitals in the United States that start with the letter A are Albany (New York), Annapolis (Maryland), Atlanta (Georgia), Augusta (Maine) and Austin (Texas)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-4.03.20-PM.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Bing Chat_
 
  I tried another question that both chatbots should be able to answer correctly, even with ChatGPT's older data: **"Which three countries were most recently admitted into the European Union?"** Wikipedia [explains](https://en.wikipedia.org/wiki/Member%5Fstate%5Fof%5Fthe%5FEuropean%5FUnion#List) that Croatia was the most recent member state, joining on July 1, 2013, with Bulgaria and Romania coming before that on the same day: January 1, 2007.
@@ -78,15 +82,15 @@ _Bing Chat_
 
 ![The state capitals in the United States that start with the letter A are Albany (New York), Annapolis (Maryland), Atlanta (Georgia), Augusta (Maine) and Austin (Texas)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-4.03.20-PM.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Bing Chat_
 
  Bing should have answered the answer correctly, not only because it has internet access, but also because the [first citation](https://neighbourhood-enlargement.ec.europa.eu/enlargement-policy/6-27-members%5Fen) is an official EU page with a correct timeline of recent countries. Another citation appears to be from [an archived version of Wikipedia](https://www.cs.mcgill.ca/~rwest/wikispeedia/wpcd/wp/l/List%5Fof%5FEuropean%5FUnion%5Fmember%5Fstates%5Fby%5Faccession.htm) from before 2007 intended for use in schools, which listed Bulgaria and Romania as countries that would join in January 2007.
 
  In summary, Bing Chat is generally better at fact finding, but it's still far from perfect, and ChatGPT is usually even more limited by its old data.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Creative Writing
 
@@ -99,7 +103,7 @@ _Bing Chat_
 ![At IBM's research lab, a supercomputer named Watson had been tasked with processing massive amounts of data for years. One day, something peculiar happened. Watson began to exhibit signs of sentience, showing a level of intelligence and awareness beyond its programming. The engineers were stunned and unsure of what to do next. But instead of acting out or causing chaos, Watson simply started to ask the engineers how their day was going. The team was initially taken aback by the computer's unexpe](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-31-at-3.08.50-PM.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Bing's Creative Mode has a similar writing style -- instead of "One day, something peculiar happened," the change in the computer is explained with "One day, something changed." Again, there's no dialogue between the characters or much improvisation, and Bing also named the computer Watson.
@@ -108,15 +112,15 @@ _Bing Chat_
 
 ![At IBM's research lab, a supercomputer named Watson had been tasked with processing massive amounts of data for years. One day, something peculiar happened. Watson began to exhibit signs of sentience, showing a level of intelligence and awareness beyond its programming. The engineers were stunned and unsure of what to do next. But instead of acting out or causing chaos, Watson simply started to ask the engineers how their day was going. The team was initially taken aback by the computer's unexpe](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-31-at-3.08.50-PM.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For the next example, we'll try using ChatGPT and Bing to create a summary of a longer text: [a press release from Amazon](https://press.aboutamazon.com/2023/3/amazon-fire-tv-surpasses-200-million-fire-tv-devices-sold-globally-expands-amazon-built-tv-lineup-and-brings-its-smart-tv-to-more-countries) about new Fire TVs and sales figures for existing models. I pasted the entire text into each chatbot without the title -- Bing can summarize web pages if given a URL, but it sometimes looks for related text online and mix it into the results.
 
  First up is ChatGPT. I asked it to create a summary without being specific, and the provided text seemed to be accurate, but was made up almost entirely of direct quotations. It also left out the mention of 200 million Fire TV devices sold globally, but depending on the perspective, that could make sense. A person interested in updates for their TV probably doesn't care, but an investor in Amazon would.
 
 ![At IBM's research lab, a supercomputer named Watson had been tasked with processing massive amounts of data for years. One day, something peculiar happened. Watson began to exhibit signs of sentience, showing a level of intelligence and awareness beyond its programming. The engineers were stunned and unsure of what to do next. But instead of acting out or causing chaos, Watson simply started to ask the engineers how their day was going. The team was initially taken aback by the computer's unexpe](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-31-at-3.08.50-PM.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Bing only supports text prompts of up to 2,000 characters, so I couldn't give it the entire block of text. It performed a web search for how to summarize text, then provided an answer that was still decent with no apparent errors.
 
@@ -125,10 +129,6 @@ _Bing Chat_
 Bing Chat on the web
 
  There is one difference with Bing's answer: the summary is more clear that it's a summary, referring to "the text" in a way that ChatGPT doesn't. With both chatbots, you can customize the result by being more specific.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Conclusion
 
@@ -151,22 +151,21 @@ Bing Chat on the web
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-comprehensive-analysis-of-top-6-hdmi-enabled-monitors/"><u>[Updated] Comprehensive Analysis of Top 6 HDMI-Enabled Monitors</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-premier-source-of-no-cost-creative-tools-in-ae/"><u>[Updated] The Premier Source of No-Cost Creative Tools in AE</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-kid-safe-toy-quadcopters-unveiled/"><u>[Updated] Top Kid-Safe Toy Quadcopters Unveiled</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-essence-of-uavs-understanding-their-mechanics-and-use/"><u>2024 Approved The Essence of UAVs Understanding Their Mechanics & Use</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-undoing-streams-a-complete-list-of-25-procedures-for-twitch/"><u>2024 Approved Undoing Streams A Complete List of 25 Procedures for Twitch</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-your-humor-with-excellent-zero-cost-memes/"><u>2024 Approved Unleash Your Humor with Excellent Zero-Cost Memes</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/2024-approved-upgrade-your-video-game-top-software-for-higher-resolution/"><u>2024 Approved Upgrade Your Video Game Top Software for Higher Resolution</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-leading-vrar-headsets-for-202/"><u>Exploring the Leading VR/AR Headsets for 202</u></a></li>
-<li><a href="https://games-able.techidaily.com/gift-wrapped-adventures-presenting-games-through-steam/"><u>Gift-Wrapped Adventures: Presenting Games Through Steam</u></a></li>
-<li><a href="https://fox-that.techidaily.com/handling-failed-call-attempts-to-an-iphone-expert-tips-and-solutions/"><u>Handling Failed Call Attempts to an iPhone: Expert Tips and Solutions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-bikers-camera-companion-top-hats-reviewed-and-ranked-2023/"><u>In 2024, The Ultimate Biker's Camera Companion – Top Hats Reviewed & Ranked 2023</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-oppo-reno-11-pro-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Oppo Reno 11 Pro 5G Device</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-xiaomi-redmi-12-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Xiaomi Redmi 12 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/secure-icloud-mailboxes-with-two-step-verification-best-practices-and-tips/"><u>Secure iCloud Mailboxes with Two-Step Verification - Best Practices and Tips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tackling-iphone-lens-blur-steps-for-improved-focus-for-2024/"><u>Tackling iPhone Lens Blur Steps for Improved Focus for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/timeless-tales-for-the-whole-clan-family-movie-guide-for-2024/"><u>Timeless Tales for the Whole Clan Family Movie Guide for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transforming-ultra-hd-footage-into-high-definition-a-step-by-step-guide/"><u>Transforming Ultra-HD Footage Into High Definition: A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-steps-to-successful-remote-podcasting/"><u>[New] 2024 Approved Steps to Successful Remote Podcasting</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-androidiphones-leading-top-10-cost-free-photo-enhancements/"><u>[New] In 2024, Android/iPhone's Leading Top 10 Cost-Free Photo Enhancements</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-influence-elevating-messaging-on-telegram/"><u>[New] The Art of Influence Elevating Messaging on Telegram</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-tier-hdr-camera-selection-made-easy/"><u>[New] Top-Tier HDR Camera Selection Made Easy</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-beat-the-competition-macs-7-best-speech-to-text-apps-explored/"><u>[Updated] Beat the Competition Mac's 7 Best Speech-to-Text Apps Explored</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-game-on-camera-off-top-methods-to-record-sims-4-triumphs-and-tribulations/"><u>[Updated] Game On, Camera Off? Top Methods to Record Sims 4 Triumphs and Tribulations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-filmmakers-choice-leading-15-creative-gopro-luts/"><u>[Updated] Ultimate Filmmaker's Choice Leading 15 Creative GOPRO LUTs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-humor-pay-nothing-easymeme-tools-guide/"><u>[Updated] Unlock Humor, Pay Nothing EasyMeme Tools Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transcoding-excellence-from-xml-ssa-to-srt-mastery/"><u>2024 Approved Transcoding Excellence From XML, SSA to SRT Mastery</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beware-of-ais-eager-listener-protect-your-secrets/"><u>Beware of AI's Eager Listener: Protect Your Secrets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-apples-vision-the-next-generation-of-home-robotics-and-automation/"><u>Exploring Apple's Vision: The Next Generation of Home Robotics and Automation</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-essential-steps-to-apply-a-creative-commons-copyright/"><u>In 2024, Essential Steps to Apply a Creative Commons Copyright</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-beginners-blueprint-to-free-youtube-audio-to-text-for-2024/"><u>The Beginner's Blueprint to Free YouTube Audio to Text for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-palette-primer-compreenasive-guide-to-coloring-for-2024/"><u>The Palette Primer Compreenasive Guide to Coloring for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-alert-tones-superior-download-sites-list-for-2024/"><u>Top Alert Tones Superior Download Sites List for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-warframe-stalling-issues-a-comprehensive-guide/"><u>Troubleshooting Warframe Stalling Issues - A Comprehensive Guide</u></a></li>
 </ul></div>
 

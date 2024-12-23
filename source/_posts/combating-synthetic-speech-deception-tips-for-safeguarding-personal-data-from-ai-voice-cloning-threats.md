@@ -1,7 +1,7 @@
 ---
 title: "Combating Synthetic Speech Deception: Tips for Safeguarding Personal Data From AI Voice Cloning Threats"
-date: 2024-12-09T01:03:41.398Z
-updated: 2024-12-13T18:26:28.204Z
+date: 2024-12-15T23:14:52.614Z
+updated: 2024-12-23T04:54:53.145Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/d7bfa61b324ffaea9cbfc11e938036f2476668f1b
 ## Combating Synthetic Speech Deception: Tips for Safeguarding Personal Data From AI Voice Cloning Threats
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/d7bfa61b324ffaea9cbfc11e938036f2476668f1b
  Cloning someone's voice using AI is now easy enough even scammers can do it. People are already being victimized by this abuse of AI technology, but you don't have to be the next person to fall for the scam. Here's how you can beat them before they get you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Voice Cloning Scams Work
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/d7bfa61b324ffaea9cbfc11e938036f2476668f1b
  Imagine getting a phone call from a family member. It's 3AM, they've been in an accident, they've been arrested, they need money to post bail. You get passed to his "lawyer" and are asked to wire money. This is what happened to attorney [Gary Schildhorn](https://www.independent.co.uk/news/world/americas/ai-phone-scam-voice-call-b2459449.html). What about getting a call from your daughter, claiming that she's been kidnapped, but she's asleep in bed. That happened to [Jennifer DeStefano](https://www.cbsnews.com/news/scammers-ai-mimic-voices-loved-ones-in-distress/), and could have ended much worse if the scammers had timed things differently.
 
  By [misusing AI software tools](https://youtube-lab.techidaily.com/ed-crafting-visual-wonders-home-made-effects-demystified/) that can create voice profiles from, for example, videos someone might leave on social media, scammers can tap into our emotions to make us behave irrationally. This is already happening and will only increase in sophistication, so there's no better time to arm yourself with knowledge and strategies to combat this.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Signs That You're Being Scammed
 
@@ -49,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/d7bfa61b324ffaea9cbfc11e938036f2476668f1b
  The most important thing is to be aware that such scams are possible, and to have healthy skepticism when you're confronted by these types of semi-emergency scenarios.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Decide on a Safe Phrase With Family and Friends
@@ -59,12 +55,16 @@ thumbnail: https://thmb.techidaily.com/d7bfa61b324ffaea9cbfc11e938036f2476668f1b
  Then, if you ever receive an emergency call, you can just ask for the safe word and unless the scammer can somehow guess it, you'll stop the whole scam in its tracks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Stop to Think
 
  A hallmark of scams, both old and new, is to stop you from having time to think. The less time we have to make decisions, the worse our decisions tend to be. They don't want you thinking too much or you might notice gaps in the story or realize you're being asked to do unreasonable or illogical things. So, once you're off the phone, take five minutes and just think about everything that's been said. Does it really all make sense?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Get Third-Party Information Verification
 
@@ -89,17 +89,22 @@ thumbnail: https://thmb.techidaily.com/d7bfa61b324ffaea9cbfc11e938036f2476668f1b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-iosplusandroid-tips-for-uninterrupted-youtube-viewing/"><u>[New] 2024 Approved IOS+Android Tips for Uninterrupted YouTube Viewing</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/o-money-no-problem-adding-videos-to-written-pieces-for-2024/"><u>[New] No Money, No Problem Adding Videos to Written Pieces for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-the-ultimate-iphone-selfie-sticks-8/"><u>[New] Unveiling the Ultimate IPhone Selfie Sticks (#8)</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-discover-the-art-of-youtube-playlist-shuffling-for-2024/"><u>[Updated] Discover the Art of YouTube Playlist Shuffling for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlock-video-editing-mastery-using-lut-filters-in-obs-studio/"><u>[Updated] Unlock Video Editing Mastery Using LUT Filters in OBS Studio</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-picks-top-tier-karaoke-devices-dominating-the-market/"><u>Expert Picks: Top-Tier Karaoke Devices Dominating the Market</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-block-to-dotx-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add a digital signature block to .dotx file</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-unresponsive-usb-input-devices-on-windows-7-mouse-and-keyboard-solutions/"><u>Resolving Unresponsive USB Input Devices on Windows 7: Mouse & Keyboard Solutions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tech-trends-spotlight-5-cutting-edge-camcorders-for-slow-motion-for-2024/"><u>Tech Trends Spotlight 5 Cutting-Edge Camcorders for Slow Motion for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/the-complete-blueprint-for-optimizing-data-in-adobes-cloud-realm-for-2024/"><u>The Complete Blueprint for Optimizing Data in Adobe's Cloud Realm for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-for-high-definition-enthusiasts-on-purchasing-a-monitor-for-2024/"><u>The Ultimate Guide for High-Definition Enthusiasts on Purchasing a Monitor for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unboxing-opportunities-the-marketing-planning-journey-for-2024/"><u>Unboxing Opportunities The Marketing Planning Journey for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-easycapture-pro-free-for-windows-10-for-2024/"><u>[New] EasyCapture Pro - Free for Windows 10 for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-inquiry-into-youtubes-monetary-frequency/"><u>[New] In 2024, Inquiry Into YouTube's Monetary Frequency</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-leading-drones-for-superior-gopro-camera-integration/"><u>[New] Leading Drones for Superior GoPro Camera Integration</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-improve-instagram-video-loading-times-effectively/"><u>[Updated] 2024 Approved Improve Instagram Video Loading Times Effectively</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-ranked-spots-for-boosting-youtube-videos/"><u>[Updated] Top-Ranked Spots for Boosting YouTube Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-exclusive-discounts-on-economical-gopro-cameras/"><u>2024 Approved Exclusive Discounts on Economical GoPro Cameras</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-gopro-guide-achieving-excellent-underwater-cinematography/"><u>2024 Approved GoPro Guide Achieving Excellent Underwater Cinematography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlined-approach-transforming-your-audio-impression-in-pubg/"><u>2024 Approved Streamlined Approach Transforming Your Audio Impression in PUBG</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-users-manual-for-fcp-power-users/"><u>2024 Approved The Complete User's Manual for FCP Power Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-bundle-6-powerful-apps-to-remove-signature-borders/"><u>2024 Approved The Ultimate Bundle – 6 Powerful Apps to Remove Signature Borders</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-installation-guide-for-the-hp-deskjet-2540-wireless-all-in-one-printer-driver-update/"><u>Download & Installation Guide for the HP Deskjet 2540 Wireless All-in-One Printer Driver Update</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-safe-are-alternative-plugins-offering-chatgpt-features-for-browser-use/"><u>How Safe Are Alternative Plugins Offering ChatGPT Features for Browser Use?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-motorola-moto-g-stylus-5g-2023-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Motorola Moto G Stylus 5G (2023) Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-superfast-windows-images-scaner/"><u>In 2024, Superfast Windows Images Scaner</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-affordable-cloud-space-best-of-the-20-for-2024/"><u>The Ultimate Guide to Affordable Cloud Space Best of the 20 for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-luts-transforming-images-magic-for-2024/"><u>Understanding LUTs Transforming Images Magic for 2024</u></a></li>
 </ul></div>
 

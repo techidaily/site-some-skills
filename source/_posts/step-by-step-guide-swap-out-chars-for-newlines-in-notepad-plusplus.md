@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Swap Out Chars for Newlines in Notepad ++"
-date: 2024-12-09T00:53:34.720Z
-updated: 2024-12-13T19:00:23.919Z
+date: 2024-12-21T20:21:14.811Z
+updated: 2024-12-22T17:49:11.315Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 ---
 
 ## Step-by-Step Guide: Swap Out Chars for Newlines in Notepad ++
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -36,13 +32,25 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 ![Search for 'notepad++' in the Start Menu search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/notepad.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the Notepad++ window, open the text file that includes the list that you want to convert. Alternately, you can paste your item list on a line.
 
 ![A Notepad++ window showing a comma-separated list](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/paste-items-list.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, click the "Search" menu and select "Replace." Alternately, you can press Ctrl+H on your keyboard.
 
 ![Replace menu in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/replace-notepad-plus-plus1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the Replace window that opens, click the "Find What" text entry box and type the current item separator. In our example case, our items are separated by a comma and a space, so we'll type a comma and then press Space. If your items are separated by pipes only, type the pipe character ("|").
 
@@ -58,11 +66,11 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 ![New-line separated list in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/comma-new-line.png) 
 
- If you want to reverse the process, just open Search > Replace in the menu again. In the "Find What" box, enter "\\n". In the Replace with box, type the character that you want to replace it with. Make sure "Extended" is selected and click "Replace All," and your list will go back to being separated by a standard character, such as a comma or pipe.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If you want to reverse the process, just open Search > Replace in the menu again. In the "Find What" box, enter "\\n". In the Replace with box, type the character that you want to replace it with. Make sure "Extended" is selected and click "Replace All," and your list will go back to being separated by a standard character, such as a comma or pipe.
 
 ##  How to Convert a Newline Character into Any Other Separator
 
@@ -72,13 +80,13 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 ![New-line items list in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/paste-list.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In your Notepad++ window, click the "Edit" menu and select Blank Operations > EOL to Space. Here, EOL means "End of Line," and this option converts the invisible newline characters into spaces.
 
 ![EOL to Space option in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/eol-to-space.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After that, you'll find that all your items are now on a single line separated by a space.
 
@@ -88,19 +96,11 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 ![Replace option in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/search-replace.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the "Replace" window, click the "Find What" box and press Space. Then, place your cursor in "Replace With" and type the character that you'd like to replace space with, such as comma (",") or a command and a space for a human-readable format.
 
  When you're ready, click "Replace All" on the right.
 
 ![Replace window in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/new-line-comma.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Your list items will now be separated by the new separator you chose.
 
@@ -125,22 +125,18 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-transform-your-photos-canons-cost-effective-color-tools/"><u>[New] Transform Your Photos Canon's Cost-Effective Color Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlock-full-potential-integrating-zoom-and-fb-live-events/"><u>[New] Unlock Full Potential Integrating ZOOM and FB Live Events</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-unpacking-the-benefits-of-lgs-4k-sync-monitors/"><u>[Updated] Unpacking the Benefits of LG's 4K Sync Monitors</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-art-of-cinematography-basic-shots-explained/"><u>[Updated] Unveiling the Art of Cinematography Basic Shots Explained</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-whatsapps-call-conversations/"><u>[Updated] Unveiling WhatsApp's Call Conversations</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-video-grabber-tool-decompiler-for-2024/"><u>[Updated] Video Grabber Tool Decompiler for 2024</u></a></li>
-<li><a href="https://win-web.techidaily.com/1-come-effettuare-la-cancellazione-del-fast-format-in-modo-affidabile-quattro-strategie-consigliate/"><u>1. Come Effettuare La Cancellazione Del Fast Format in Modo Affidabile: Quattro Strategie Consigliate</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-subtitle-savant-strategies-for-unparalleled-srt-file-creation/"><u>2024 Approved Subtitle Savant Strategies for Unparalleled SRT File Creation</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-13-mini-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 mini To Other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-mastering-the-art-of-design-10-secrets-for-podcast-imagery/"><u>In 2024, Mastering the Art of Design 10 Secrets for Podcast Imagery</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/1728499755902-onedrive-3/"><u>OneDriveへの専用フォルダー同期手順: モバイルデバイス不要で実行する3種</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcoming-microsoft-edge-hurdles-a-comprehensive-repair-manual/"><u>Overcoming Microsoft Edge Hurdles: A Comprehensive Repair Manual</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tackling-sync-issues-between-your-phone-and-chromecast-audio-with-easy-fixes/"><u>Tackling Sync Issues Between Your Phone and Chromecast Audio with Easy Fixes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/techniques-for-subtle-sound-diminution-in-audacity-for-2024/"><u>Techniques for Subtle Sound Diminution in Audacity for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-secrets-of-phantoms-time-reversal-mode-for-2024/"><u>The Ultimate Secrets of Phantom's Time Reversal Mode for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-advanced-ai-dialogue-capabilities-with-free-unbounded-gpt-substitutes-for-windows-enthusiasts/"><u>Unlock Advanced AI Dialogue Capabilities with Free, Unbounded GPT Substitutes for Windows Enthusiasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-conducting-engaging-interviews/"><u>[New] The Art of Conducting Engaging Interviews</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-potential-of-gopro-for-time-lapse-artistry/"><u>[New] Unlocking the Potential of GoPro for Time Lapse Artistry</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-facebook-fix-reappear-hidden-watch-video-icon-for-2024/"><u>[Updated] Facebook Fix Reappear Hidden Watch Video Icon for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-innovations-in-captivating-fb-ad-creation/"><u>[Updated] Innovations in Captivating FB Ad Creation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-mpc-hc-high-quality-audio-and-video/"><u>2024 Approved MPC-HC High Quality Audio and Video</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-compilation-of-audio-enhancing-software-for-virtual-performers/"><u>2024 Approved Ultimate Compilation of Audio-Enhancing Software for Virtual Performers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-value-in-the-air-the-cheapest-yet-effective-drones/"><u>2024 Approved Value in the Air The Cheapest Yet Effective Drones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expert-tips-on-amplifying-competitive-edge-via-in-game-vocal-change-free-guide-available/"><u>Expert Tips on Amplifying Competitive Edge via In-Game Vocal Change (Free Guide Available)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-esteemed-endorsement-elite-websites-for-downloading-snapalerts/"><u>In 2024, Esteemed Endorsement Elite Websites for Downloading SnapAlerts</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-warframes-stability-issues-on-your-computer-system/"><u>Resolving Warframe's Stability Issues on Your Computer System</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/revolutionizing-storytelling-free-onlineoffline-animations-for-2024/"><u>Revolutionizing Storytelling Free Online/Offline Animations for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/techniques-for-correcting-motion-blur-from-drones-for-2024/"><u>Techniques for Correcting Motion Blur From Drones for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/ultimate-tips-on-avi-video-downsizing-master-compression-techniques-for-the-internet-and-your-pc/"><u>Ultimate Tips on AVI Video Downsizing: Master Compression Techniques for the Internet and Your PC</u></a></li>
 </ul></div>
 

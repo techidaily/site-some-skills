@@ -1,7 +1,7 @@
 ---
 title: Top 7 Linux Innovations Perfectly Suited for Integration Into the Next Version of Windows
-date: 2024-12-13T01:47:48.480Z
-updated: 2024-12-13T20:22:13.034Z
+date: 2024-12-15T17:50:11.620Z
+updated: 2024-12-23T04:21:40.952Z
 tags:
   - desktop
 categories:
@@ -33,10 +33,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The GNOME Software app showing tiles with green ticks on them](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/23.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Dave McKay / How-To Geek
 
  So the first thing Windows 12 should steal from Linux is a nonintrusive user experience. It'd be best if ads were completely removed, but opt-in ads would provide a better user experience than enabled by default, as it is now.
@@ -44,7 +40,7 @@ Dave McKay / How-To Geek
  On Windows 11, ads are enabled by default, but they can be disabled. Follow this [guide to know where all the options are](https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-x-flip-drfone-by-drfone-virtual-android/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Multiple Start Menu Variations
@@ -62,11 +58,7 @@ Close
 ![Image of Arc Menu Extension and Menu Layout Variations on Ubuntu 22.04](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-image-of-arc-menu-extension-and-menu-layout-variations-on-ubuntu-22-04.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Widgets on the Desktop
@@ -80,7 +72,7 @@ Close
  If you can’t wait for Windows 12 and whether it will or will not introduce desktop widgets, you can use Rainmeter to display helpful information straight on your desktop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Automatic Window Tiling
@@ -92,6 +84,10 @@ Close
  So let’s make this perfect with Windows 12 with support for automatic window tiling or auto-tiling. Of course, it will be an optional feature that you can enable/disable. If enabled, every time you open a new window, it'll automatically arrange itself in a non-overlapping grid-like pattern. So, one app opens full screen, two apps split the screen 50/50, and more apps divide the screen proportionally (in a predefined manner) without overlap. Linux has had this feature for ages. Here’s how auto-tiling looks on Pop\_OS!
 
 ![Pop!_OS in-built Tiling Window functionality auto-tiling two windows side by side.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pop-_os-in-built-tiling-window-functionality.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Options to Customize the Taskbar
 
@@ -113,6 +109,10 @@ Close
 
 ![Image Showing Ubuntu 22.04 Activities Overview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/9-image-showing-ubuntu-22-04-activities-overview.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  At the top, there’s a row of mini windows for all open virtual desktops (Workspaces). You can click to switch between them. The center shows your current desktop with all open apps. On the left, the Ubuntu Dash (similar to Windows' Taskbar) lets you drag and drop apps to any virtual desktop.
 
  Additionally, the [Workspace Indicator](https://visual-screen-recording.techidaily.com/2024-approved-instantaneous-screen-logger-for-chrome/) extension adds a virtual desktop switcher to the panel, allowing you to switch and move apps between desktops directly from the panel without opening the Activities Overview.
@@ -120,7 +120,7 @@ Close
 ![Ubuntu 22.04 Panel based Virtual Desktop switcher](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/10-ubuntu-22-04-panel-based-virtual-desktop-switcher.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  KDE Activities
@@ -152,20 +152,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-superior-approaches-turning-visual-content-into-music-files/"><u>[New] Superior Approaches Turning Visual Content Into Music Files</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-the-art-of-instagram-video-filming/"><u>[New] Unveiling the Art of Instagram Video Filming</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-iphones-secret-to-time-extended-videography/"><u>[Updated] In 2024, IPhone's Secret to Time-Extended Videography</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-quick-diy-tricks-for-professional-quality-homemade-films/"><u>2024 Approved Quick DIY Tricks for Professional-Quality Homemade Films</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-the-secrets-of-a-captivating-end-episode-note/"><u>2024 Approved Unlocking the Secrets of a Captivating End-Episode Note</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-essentials-an-in-depth-review-of-lightroom-for-android/"><u>2024 Approved Unveiling the Essentials An In-Depth Review of Lightroom for Android</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-diagnose-and-fix-windows-error-code-0xc00000e9/"><u>Comprehensive Guide to Diagnose and Fix Windows Error Code 0Xc00000e9</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-poco-c55-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Poco C55 FRP</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-se-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone SE? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tunes-to-timelapse-crafting-mobile-music-videos/"><u>In 2024, Tunes to Timelapse Crafting Mobile Music Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-full-potential-of-video-storage-in-modern-hardware-64128gb/"><u>In 2024, Unveiling the Full Potential of Video Storage in Modern Hardware (64/128GB)</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-examination-of-the-amplifi-hd-mesh-network-for-seamless-wi-fi-coverage-across-your-home/"><u>In-Depth Examination of the Amplifi HD Mesh Network for Seamless Wi-Fi Coverage Across Your Home</u></a></li>
-<li><a href="https://facebook.techidaily.com/optimal-digital-spaces-for-aging-generations/"><u>Optimal Digital Spaces for Aging Generations</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/reviewing-ion-air-pro-3-capturing-life-in-high-definition-for-2024/"><u>Reviewing ION Air Pro 3 - Capturing Life in High Definition for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/top-4-pcmac-full-screen-recorders-ultimate-guide/"><u>Top 4 PC/Mac Full-Screen Recorders Ultimate Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-srt-fundamentals-explored-in-detail-and-clarity/"><u>[New] SRT Fundamentals Explored in Detail and Clarity</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essential-guide-free-and-trusted-vlc-downloads-for-mac-os-x/"><u>[New] The Essential Guide Free & Trusted VLC Downloads for Mac OS X</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ustream-showcase-plus-similar-video-sites/"><u>[New] Ustream Showcase + Similar Video Sites</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-design-humorous-graphics-with-adobe/"><u>[Updated] 2024 Approved Design Humorous Graphics with Adobe</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-detailed-exploration-lightroom-app-on-the-android-platform-for-2024/"><u>[Updated] Detailed Exploration Lightroom App on the Android Platform for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-youtube-shorts-creating-flawless-5-second-videos/"><u>[Updated] In 2024, YouTube Shorts Creating Flawless 5-Second Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-uncover-roblox-hidden-treasures-with-zoom-techniques/"><u>2024 Approved Uncover Roblox Hidden Treasures with Zoom Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bluetooth-device-detection-issues-fixed-for-windows-11-users/"><u>Bluetooth Device Detection Issues Fixed for Windows 11 Users</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y27-4g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y27 4G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-perfecting-self-portraits-iphones-burst-capability/"><u>In 2024, Perfecting Self-Portraits IPhone's Burst Capability</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-blueprint-for-optimizing-data-in-adobes-cloud-realm/"><u>In 2024, The Complete Blueprint for Optimizing Data in Adobe's Cloud Realm</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/566613-9781101444696-the-art-of-comforting/"><u>The Art of Comforting | Free Book</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-basic-hdr-imaging-for-2024/"><u>The Ultimate Guide to Basic HDR Imaging for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-persistent-boot-problems-on-your-windows-11-system/"><u>Troubleshooting Persistent Boot Problems on Your Windows 11 System</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-full-potential-of-high-dynamic-range-photos-using-lightroom-for-2024/"><u>Unlocking the Full Potential of High Dynamic Range Photos Using Lightroom for 2024</u></a></li>
 </ul></div>
 

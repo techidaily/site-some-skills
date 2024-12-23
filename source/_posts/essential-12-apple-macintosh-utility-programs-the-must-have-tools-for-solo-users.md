@@ -1,7 +1,7 @@
 ---
 title: "Essential 12 Apple Macintosh Utility Programs: The Must-Have Tools for Solo Users"
-date: 2024-12-10T00:31:04.999Z
-updated: 2024-12-13T23:20:10.179Z
+date: 2024-12-20T20:20:18.323Z
+updated: 2024-12-23T01:14:42.612Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 ---
 
 ## Essential 12 Apple Macintosh Utility Programs: The Must-Have Tools for Solo Users
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -36,17 +32,9 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 
 ![Magnet window snapping app for macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/magnet-window-snapping-app-for-macos-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Apple has pledged to add native support for window snapping to [macOS 15 Sequoia](https://youtube-tips.techidaily.com/approved-youtube-editing-essentials-the-ultimate-guide-post-upload-refinements/), but apps like [Magnet](https://magnet.crowdcafe.com) will still have their place. This simple window management app lets you snap windows into position either by dragging or using keyboard shortcuts.
 
  Magnet costs $4.99 on the [Mac App Store](https://apps.apple.com/us/app/magnet/id441258766?mt=12) but you can get similar functionality from the basic version of [Rectangle](https://rectangleapp.com), which is free.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2 [TripMode](https://tripmode.ch) for Filtering Hotspot Traffic 
 
@@ -56,32 +44,36 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 
  By default, traffic will be blocked. This allows you to create an allow-list of apps that are mission-critical. You can then block the heavy hitters like Photos or your Mac’s background cloud syncing processes. Try it for free and then buy a single-use license for $17.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 [Maccy](https://github.com/p0deje/Maccy) for Recalling Clipboard Items 
 
 ![Maccy clipboard manager for macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/maccy-clipboard-manager-for-macos.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Maccy is a clipboard manager for macOS that you can download for free from the project’s [GitHub page](https://github.com/p0deje/Maccy) or for $9.99 on the [Mac App Store](https://apps.apple.com/us/app/maccy/id1527619437?mt=12). The app stores your clipboard history for easy retrieval, with a global hotkey (by default Command+Shift+C) for quickly accessing the app.
 
  The app is well-optimized so performance is solid, and you can easily customize things like how many items are saved (by default 200) and what the app looks like. You can even pin items to your clipboard for frequent retrieval.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 [MacMediaKeyForwarder](https://github.com/milgra/macmediakeyforwarder) to Fix the Play/Pause Key 
 
 ![MediaKeyForwarder app for macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/mediakeyforwarder-app-for-macos.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Apple’s media keys can be a little erratic. I like to listen to music using Apple Music while I work, but sometimes I find myself with random YouTube tabs open. It’s frustrating when pressing the Play/Pause key starts or stops a YouTube video instead. [MacMediaKeyForwarder](https://github.com/milgra/macmediakeyforwarder) is an app that solves this problem.
 
  The app limits the Play/Pause key behavior to Apple’s Music app or Spotify. No longer will pressing this key start random videos on background tabs!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5 [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) to Keep My Mac Awake 
@@ -102,9 +94,17 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7 [Speedtest CLI](https://www.speedtest.net/apps/cli) for Testing Internet Speed 
 
 ![Speedtest CLI running in Terminal on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/speedtest-cli-running-in-terminal-on-macos.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Speedtest by Ookla is one of the most popular internet speed test services, but it can be a drag having to open a new tab, navigate to the website, and click the “Go” button. The fastest way is to [use the companion command-line utility](https://extra-tips.techidaily.com/fading-audio-dynamics-a-logic-pro-approach/).
 
@@ -120,13 +120,13 @@ speedtest-cli
 
 speedtest-cli -help
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8 [Ulysses](https://ulysses.app) for Writing in Markdown 
 
 ![Writing in Markdown in Ulysses.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/ulysses_markdown.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [I write almost everything in Markdown](https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-apple-iphone-se-2020-without-previous-owner-by-drfone-ios/), a lightweight markup language with easy inline text formatting. This makes it easy to publish on the web or export to HTML and other formats, but it’s also great for personal offline writing too. My app of choice is [Ulysses](https://ulysses.app), a premium Markdown editor that costs $5.99 per month
 
@@ -140,13 +140,13 @@ speedtest-cli -help
 
 [Switching from Evernote to Apple Notes](https://article-files.techidaily.com/updated-tiktokplusinstagram-social-media-fusion-guide-for-2024/) was one of the best things I did to improve personal organization. If you also rely on Android or Windows you might want to check out [our note-taking app roundup](https://games-able.techidaily.com/sonys-ps5-dualsense-controller-excellence-with-new-chargers/) for some better recommendations.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 10 [Hyperkey](https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-apple-iphone-15-plus-by-drfone-ios/) for Boosting Keyboard Shortcuts 
 
 ![HyperKey for macOS for improving shortcut options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/hyperkey-for-macos-for-improving-shortcut-options.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Ever feel like you’re running out of keyboard shortcuts? You can always use a longer modifier combination like Control+Option+Command (and even add Shift), but things get complicated fast. An easier method is to use the [Hyperkey](https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-apple-iphone-15-plus-by-drfone-ios/) app to [repurpose your Caps Lock key as a “hyper” key](https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-apple-iphone-15-plus-by-drfone-ios/) that triggers these modifiers for you.
 
@@ -156,10 +156,6 @@ speedtest-cli -help
 
 ![The file association options on Unarchiver.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/mac-unarchiver-options.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Perhaps the most boring app on this list, [The Unarchiver](https://theunarchiver.com) is a free app that adds support for archive formats that aren’t supported in macOS by default like RAR and 7Z. It can also unpack deprecated formats from forgotten platforms, and do interesting things like extract images and audio from SWF files.
 
  It’s not exciting, but it’s essential. Download it for free on the [Mac App Store](https://apps.apple.com/us/app/the-unarchiver/id425424353?mt=12) so it’s there when you need it.
@@ -167,6 +163,10 @@ speedtest-cli -help
 ## 12 [Karabiner-Elements](https://karabiner-elements.pqrs.org) for Customizing the Keyboard 
 
 ![Karabiner-Elements keyboard customization tool for macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/karabiner-elements-keyboard-customization-tool-for-macos.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you want to customize your Mac’s keyboard mappings then look no further than [Karabiner-Elements](https://karabiner-elements.pqrs.org). Use a simple GUI to remap what any key does, and create separate rules for different keyboards. You can create your own tweaks and rules, disable keys entirely, or [make that useless Eject key useful again](https://extra-skills.techidaily.com/2024-approved-mastering-adobe-cloud-essential-storage-insights-and-top-alternatives/).
 
@@ -191,16 +191,17 @@ speedtest-cli -help
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-crop-circles-the-essential-list-of-farming-games/"><u>[New] Crop Circles The Essential List of Farming Games</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-streaming-strategy-is-vlc-worthy-to-challenge-mpc/"><u>[New] Streaming Strategy Is VLC Worthy to Challenge MPC?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-video-perfection-in-progress-edits-after-uploading-on-youtube/"><u>[Updated] In 2024, Video Perfection in Progress Edits After Uploading on YouTube</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-elite-circle-of-digital-titling-top-5-revealed/"><u>[Updated] The Elite Circle of Digital Titling Top 5 Revealed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-png-alterations-guide/"><u>[Updated] Ultimate PNG Alterations Guide</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/comprehensive-hardware-guides-by-tomtechinsight/"><u>Comprehensive Hardware Guides by TomTechInsight</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/fixing-audio-absence-in-online-shared-videos-for-2024/"><u>Fixing Audio Absence in Online Shared Videos for 2024</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/how-to-recover-from-a-crashing-pc-expert-strategies-against-bsod-error-code-0601-in-winxpvista/"><u>How to Recover From a Crashing PC: Expert Strategies Against BSOD Error Code 0601 in WinXP/Vista</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-craft-a-closer-vision-5-easy-ways-to-enhance-minecraft-screens/"><u>In 2024, Craft a Closer Vision 5 Easy Ways to Enhance Minecraft Screens</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-for-restoring-call-functionality-on-your-android-device/"><u>Step-by-Step Solutions for Restoring Call Functionality on Your Android Device</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-8-collage-champions-finding-affordable-premium-video-mosaics-android-for-2024/"><u>Top 8 Collage Champions Finding Affordable, Premium Video Mosaics (Android) for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-how-to-create-an-instagram-business-account/"><u>[New] How to Create an Instagram Business Account</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-unlocking-the-seo-puzzle-strategies-that-elevate-your-podcasts/"><u>[New] In 2024, Unlocking the SEO Puzzle Strategies That Elevate Your Podcasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-synchronizing-tracks-through-effective-crossfading/"><u>[New] Synchronizing Tracks Through Effective Crossfading</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-complete-breakdown-the-android-adaptation-of-lightroom-app/"><u>[Updated] In 2024, Complete Breakdown The Android Adaptation of Lightroom App</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-dynamic-image-backdrops-for-video-editing/"><u>[Updated] Top 10 Dynamic Image Backdrops for Video Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-photo-libraries-for-free-visuals-worldwide/"><u>2024 Approved Top 10 Photo Libraries for Free Visuals Worldwide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/french-language-essentials-for-travelers-getting-it-right-on-arrival/"><u>French Language Essentials for Travelers: Getting It Right on Arrival</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/o-get-more-subscribers-on-youtube-for-2024/"><u>How to Get More Subscribers on YouTube for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streaming-showdown-which-superior-broadcaster-tool-are-you/"><u>In 2024, Streaming Showdown Which Superior Broadcaster Tool Are You?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-uniting-melodies-and-images-with-youtube-music-for-video-projects/"><u>In 2024, Uniting Melodies & Images with YouTube Music for Video Projects</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/quick-fix-for-identifying-imposters-in-your-instagram-community-for-2024/"><u>Quick Fix for Identifying Imposters in Your Instagram Community for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-ranking-of-top-7-premium-mp4-to-mkv-video-conversion-software/"><u>Ultimate Ranking of Top 7 Premium MP4-to-MKV Video Conversion Software</u></a></li>
 </ul></div>
 

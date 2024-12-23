@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Your Prime Day Success: Utilizing Rufus, the Cutting-Edge Amazon AI Shopping Chatbot"
-date: 2024-12-09T00:18:13.157Z
-updated: 2024-12-13T23:48:13.537Z
+date: 2024-12-22T04:29:57.895Z
+updated: 2024-12-22T18:43:30.914Z
 tags:
   - cutting-edge
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
  The original [Rufus (1994-2009)](https://www.amazon.com/gp/help/customer/display.html?nodeId=3711811&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003905&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhow-to-get-ready-for-prime-day-with-rufus-amazon-shoppings-new-ai-assistant-chatbot%2F&asc%5Fcampaign=Short-Term) was a beloved Welsh Corgi who seems to have morphed into a bit of a legend at Amazon and is credited with starting Amazon's dog-friendly workplace culture. Released in February, Amazon's new AI shopping assistant is named in his honor. Rufus, the AI, is trained in Amazon's product catalog, customer reviews, and product Q & As.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Where Is Rufus?
@@ -44,11 +44,7 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
 ![A screenshot of the above prompt and Rufus' response. Only the suggestion of a large outdoor basketball hoop is shown.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240627_200000_amazon-shopping.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Follow-up Questions
@@ -56,14 +52,6 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
  After the list of ideal products, Rufus also offered a list of suggestions for follow-up questions. Again, some of the questions were more suited to younger kids. However, I clicked on "What outdoor toys foster teamwork among kids"? While I'm always hesitant to get toys with lots of pieces, I thought the suggestions of _Cornhole_ and _Giant Jenga_ were good. I should note that all of Rufus' "product suggestions" are actually product searches for a specific product. Clicking the suggestion doesn't take you to the product shown, but to an Amazon search for that product, usually listed first in the resulting search.
 
 ![A side-by-side of screenshots of Rufus' follow-up questions and its response to the follow-up question "What outdoor toys foster teamwork among kids?"](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240627_215749_amazon-shopping.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Specific Product Searches
 
@@ -74,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
 ![A screenshot of the prompt "What is the most powerful portable power station for under $1000" and Rufus' response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240628_204656_amazon-shopping.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  I notice that Rufus' product suggestions do not include prices. This is because they are product searches for a specific product instead of the product information page. You have to leave Rufus by clicking on one of the product search suggestions to see pricing information.
@@ -87,11 +75,23 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
 
 ![A side-by-side screenshot of the Chrome book prompt and Rufus' response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240628_204847_amazon-shopping.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Data Privacy and Security
 
  Customer interactions with Rufus are used for 28 days for additional testing and training to improve Rufus. After 28 days, the conversations are deleted and inaccessible by Amazon or the customer. An alternative for customers who want more data privacy is to delete their chat history immediately after use to prevent the chat from being reviewed by Amazon. You can do this by tapping the three dots in the right-hand corner of Rufus and accessing the "Manage Chats" options.
 
 ![Three screenshots that highlight the steps of tapping the three dots, tapping "Manage chat", and "Clear chat history".](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot_20240628_225642_amazon-shopping.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Other Rufus Notes
 
@@ -122,15 +122,19 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-health-communication-winning-on-social-networks/"><u>[New] Health Communication Winning on Social Networks</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-designers-alley-no-cost-high-impact-text-psdfree/"><u>[Updated] 2024 Approved Designers' Alley No-Cost, High-Impact Text PSDFree</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-apple-iphone-14-plus-find-my-friends-no-location-found-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Apple iPhone 14 Plus Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-guide-to-timeless-stop-motion-classics/"><u>In 2024, The Essential Guide to Timeless Stop-Motion Classics</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-approach-to-enhancing-mp4-content-with-srt-captions/"><u>In 2024, Ultimate Approach to Enhancing MP4 Content with SRT Captions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-cyber-companion-tone-downloads-guide/"><u>In 2024, Ultimate Cyber Companion Tone Downloads Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-ringtones-guide-top-downloads/"><u>In 2024, Ultimate Ringtones Guide Top Downloads</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722882196258-the-complete-chronological-viewing-plan-for-the-fellowship-of-the-ring-two-towers-and-return-of-the-king/"><u>The Complete Chronological Viewing Plan for The Fellowship of the Ring, Two Towers & Return of the King</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-complete-guide-to-fine-tuning-disk-storage-via-ntfs-compression/"><u>The Complete Guide to Fine-Tuning Disk Storage via NTFS Compression</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/trouble-with-apple-iphone-6s-plus-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with Apple iPhone 6s Plus Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-premier-9-high-quality-online-mic-capture-solutions-23/"><u>[Updated] 2024 Approved Premier 9 High-Quality Online Mic Capture Solutions ('23)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-simplifying-the-complex-an-in-depth-review-of-vida-app/"><u>[Updated] Simplifying the Complex An In-Depth Review of Vida App</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-guide-to-utilizing-siri-on-tiktok-videos/"><u>2024 Approved Guide to Utilizing Siri on TikTok Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-navigating-sierra-icloud-for-seamless-access/"><u>2024 Approved Navigating Sierra iCloud for Seamless Access</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-macos-11-big-sur-transition-tips/"><u>2024 Approved Understanding macOS 11 Big Sur Transition Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-new-gadgets-a-look-into-toms-hardware-selections/"><u>Discovering New Gadgets - A Look Into Tom's Hardware Selections</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/how-to-tell-time-in-spanish-a-complete-guide-for-beginnersback-buttonfilter-button/"><u>How To Tell Time In Spanish - A Complete Guide For BeginnersBack ButtonFilter Button</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-honor-90-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Honor 90 online without jailbreak</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-microsoft-store-glitches-via-server-corrections-on-win-1111/"><u>Overcoming Microsoft Store Glitches via Server Corrections on Win 11/11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-connect-and-watch-apple-tv-plus-via-chromecast/"><u>Step-by-Step Instructions: Connect and Watch Apple TV Plus via Chromecast</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamline-tiktok-usage-efficiently-change-user-numbers-for-2024/"><u>Streamline TikTok Usage Efficiently Change User Numbers for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essential-guide-to-understanding-and-using-instagrams-music-features-for-2024/"><u>The Essential Guide to Understanding and Using Instagram's Music Features for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essentials-for-a-powerful-metaverse-experience-top-7-for-2024/"><u>The Essentials for a Powerful Metaverse Experience (Top 7) for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-k70-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi K70 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
 </ul></div>
 

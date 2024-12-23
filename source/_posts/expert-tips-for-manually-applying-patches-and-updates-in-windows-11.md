@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Manually Applying Patches and Updates in Windows 11
-date: 2024-12-13T01:36:14.526Z
-updated: 2024-12-13T20:27:26.605Z
+date: 2024-12-18T18:06:34.017Z
+updated: 2024-12-22T17:25:26.896Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Expert Tips for Manually Applying Patches and Updates in Windows 11
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -59,14 +55,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 !['Start' selected for the Windows Update service.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/4-start-windows-update-service.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You’re set.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  From Windows Settings
@@ -77,19 +69,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 !['Windows Update' highlighted in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/5-windows-update-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On the right pane, click "Download & Install All" to download and install the available updates. To only download and install specific updates, click the button next to those updates.
 
 !['Download & Install All' highlighted on the Windows Update screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/6-download-install-all-windows-updates.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait while Windows obtains and installs the selected updates, then [reboot your Windows 11 PC](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  From Microsoft Update Catalog
 
@@ -100,7 +92,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Multiple updates highlighted on the Windows Update screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/7-find-windows-update-name.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then, launch a web browser and head to the [Microsoft Update Catalog site](https://www.catalog.update.microsoft.com/Home.aspx). Select the site’s search box, type the update name you noted, and press Enter or select "Search."
@@ -111,19 +103,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 !['Download' highlighted for an update on the Microsoft Update Catalog site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/9-choose-windows-update.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the open window, click the update name to begin downloading the update to your PC. The download can take anywhere from a few seconds to several minutes, depending on the update size and your internet connection speed.
 
 ![An update name highlighted on the Microsoft Update Catalog site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/10-download-windows-update.jpg) 
 
- After downloading the update, run the update file and follow the on-screen instructions. The file will extract the update files and install the update on your system.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ After downloading the update, run the update file and follow the on-screen instructions. The file will extract the update files and install the update on your system.
 
 ##  Using Command Prompt
 
@@ -136,6 +124,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  After successfully downloading the update, [open Command Prompt](https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-14-ultra-drfone-by-drfone-android/). Do this by pressing the Windows key, typing **Command Prompt**, and selecting "Run as Administrator."
 
 !['Run as Administrator' highlighted for Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/11-launch-cmd-as-admin.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the User Account Control prompt, select "Yes."
 
@@ -175,6 +167,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
     
 ![The cmdlet to install the Windows Update module typed in PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/14-install-windows-update-module-powershell.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When PowerShell prompts, type **Y** and press Enter. Then, run the following cmdlet, type **Y**, and press Enter:
 
         `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser`
@@ -188,6 +184,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
         `Get-WindowsUpdate`
     
 ![The cmdlet to find the latest Windows updates typed in PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/15-find-windows-updates-powershell.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To download and install all the available updates, use the following cmdlet:
 
@@ -220,22 +220,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-high-definition-audio-essentials-the-top-6-mics-for-livestreaming-for-2024/"><u>[New] High-Definition Audio Essentials The Top 6 Mics for Livestreaming for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-parrot-ar-drone-enhanced-a-compreayer-report/"><u>[New] Parrot AR Drone Enhanced - A Compreayer Report</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-serene-strums-and-steps-tiktoks-best-country-melodies/"><u>[New] Serene Strums and Steps TikTok's Best Country Melodies</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-navigate-motion-sickness-in-virtual-reality-with-ease/"><u>[Updated] Navigate Motion Sickness in Virtual Reality with Ease</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-insiders-guide-to-creating-stunning-iphone-hdr-photos/"><u>[Updated] The Insider's Guide to Creating Stunning iPhone HDR Photos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-charger-systems-for-black-gopro-hero5-official-sources/"><u>[Updated] Ultimate Charger Systems for Black GoPro Hero5 Official Sources</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-go-big-or-go-home-full-screen-fb-videos/"><u>2024 Approved Go Big or Go Home Full-Screen FB Videos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ai-boom-drives-up-memory-costs-securing-sk-hynixs-first-earnings-surge-since-q3-2022/"><u>AI Boom Drives Up Memory Costs, Securing SK Hynix's First Earnings Surge Since Q3 2022</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/best-free-wmv-video-converter-how-to-transform-avi-mp4-flv-and-more-into-wmv-format/"><u>Best Free WMV Video Converter: How to Transform AVI, MP4, FLV & More Into WMV Format</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-calculating-youtubes-income-potential-with-cpm-rates/"><u>In 2024, Calculating YouTube's Income Potential with CPM Rates</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/leverage-technology-for-business-excellence-via-apps/"><u>Leverage Technology for Business Excellence via Apps</u></a></li>
-<li><a href="https://driver-download.techidaily.com/official-hp-network-driver-install-packs-for-windows-1078-users/"><u>Official HP Network Driver Install Packs for Windows 10/7/8 Users</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/simplify-your-workflow-gopro-quik-video-editing-made-easy-on-macbook-for-2024/"><u>Simplify Your Workflow GoPro Quik Video Editing Made Easy on MacBook for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/symphonic-syncopation-perfecting-audio-transitions-for-2024/"><u>Symphonic Syncopation Perfecting Audio Transitions for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-complete-mac-book-on-srt-file-handling-for-2024/"><u>The Complete Mac Book on SRT File Handling for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-ps-simple-grading-techniques-for-perfection-for-2024/"><u>Unlocking PS Simple Grading Techniques for Perfection for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-the-secrets-of-google-podcast-uploads-for-2024/"><u>Unlocking the Secrets of Google Podcast Uploads for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-frame-your-filmmaking-the-3-secrets-to-instagram-borders/"><u>[New] 2024 Approved Frame Your Filmmaking The 3 Secrets to Instagram Borders</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-hushing-up-unwanted-noise-on-skype-for-2024/"><u>[New] Hushing Up Unwanted Noise on Skype for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-5-slow-motion-capturers/"><u>[New] Ultimate 5 Slow Motion Capturers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-tailoring-composite-results-blend-mode-proficiency/"><u>[Updated] 2024 Approved Tailoring Composite Results Blend Mode Proficiency</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-amp-up-creativity-premiere-pro-templates-free/"><u>[Updated] Amp Up Creativity Premiere Pro Templates, FREE</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-steadicams-for-exceptional-aerial-shots-with-drones/"><u>[Updated] Top Steadicams for Exceptional Aerial Shots with Drones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-aquatic-enhancements-for-gopro-footage/"><u>[Updated] Ultimate Aquatic Enhancements for GoPro Footage</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-system-efficiency-with-recent-upgrades-to-the-dell-bus-control-firmware/"><u>Enhance System Efficiency with Recent Upgrades to the Dell Bus Control Firmware</u></a></li>
+<li><a href="https://win-able.techidaily.com/improve-your-battlefield-v-gameplay-the-ultimate-fixes-for-lag-issues/"><u>Improve Your Battlefield V Gameplay: The Ultimate Fixes for Lag Issues</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/rise-in-search-results-mastering-podcast-seo-for-2024/"><u>Rise in Search Results Mastering Podcast SEO for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-framework-for-selecting-winning-podcast-names-for-2024/"><u>The Ultimate Framework for Selecting Winning Podcast Names for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/transformative-pfps-that-define-your-tiktok-identity-for-2024/"><u>Transformative PFPs that Define Your TikTok Identity for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-the-potential-elevating-your-tiktok-unboxing-contents-like-count-for-2024/"><u>Unleash the Potential Elevating Your TikTok Unboxing Content's Like Count for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210002106-9781633410022-you-dont-have-to-die-to-go-to-heaven/"><u>You Don't Have to Die to Go to Heaven | Free Book</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Review of Lenovo Legion 7I 16Th Generation Unveiled: Surprisingly Powerful Performance for Its Category"
-date: 2024-12-11T19:10:59.212Z
-updated: 2024-12-13T21:30:34.968Z
+date: 2024-12-21T04:52:32.604Z
+updated: 2024-12-23T04:16:15.336Z
 tags:
   - desktop
 categories:
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/21ec111232ea695810b8b161c545d6d8dc411e7ee
  Lenovo has quite a few gaming laptops available in its Legion lineup and deciding on which one to buy might be daunting. The [Lenovo Legion 7i 16 Gen 9](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-legion-7i-16-gaming-laptop-wqxga-intel-14th-gen-core-i9-with-32gb-memory-nvidia-geforce-rtx-4070-8gb-1tb-ssd-glacier-white%2F6575387.p%3FskuId%3D6575387)comes in at the higher end of the lineup, delivering the latest both NVIDIA and Intel have to offer for a compact, yet powerful portable gaming rig. Sporting the 14th Generation Intel Core i9-14900HX processor alongside NVIDIA’s GeForce RTX 4070 Laptop graphics card, you’ll find that this portable PC punches way above its weight class when it comes to gaming performance.
 
 ![Lenovo Legion 7i 16 Gen 9 Laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/lenovo-legion-7i-16-gen-9-laptop.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
@@ -47,10 +43,6 @@ Lenovo's Legion 7i 16 Gen 9 laptop packs a punch in the power department, offeri
 [$1785.99 at Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Flegion-laptops%2Flegion-7-series%2Flegion-7i-gen-9-%2816-inch-intel%29%2Flen101g0037) [$1999.99 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-legion-7i-16-gaming-laptop-wqxga-intel-14th-gen-core-i9-with-32gb-memory-nvidia-geforce-rtx-4070-8gb-1tb-ssd-glacier-white%2F6575387.p%3FskuId%3D6575387) 
 
 [_How We Test and Review Products_](https://vp-tips.techidaily.com/swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Price and Availability
 
@@ -120,6 +112,10 @@ Expand
 
 ![The Lenovo Legion 7i 16 Gen 9 has an Intel i9 and Nvidia graphics card](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-has-an-intel-i9-and-nvidia-graphics-card_53662863778_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  The overall design of Lenovo’s latest Legion 7i 16 Gen 9 is pretty sleek if I do say so myself. I had the privilege of testing the white model and, while I typically like gray or dark laptops, the white is pretty crisp and clean. The branding is minimal with just "Legion" and "Lenovo" graphics on the top. Overall, the aesthetic is definitely on the cleaner side for gaming laptops.
@@ -136,6 +132,10 @@ Jerome Thomas / How-To Geek
 
 ![The Lenovo Legion 7i 16 Gen 9 in quiet mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-in-quiet-mode_53663112120_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  Battery life is something that’s coveted in a laptop, but, this isn’t just any laptop. It’s a gaming laptop. You’re not going to see stellar battery life here, and you’ll likely get around two to three hours of usage on a single charge when gaming. If you lower the brightness, drop the screen refresh rate, and disable all unnecessary software, you could eke out four to five hours, but that’ll be a stretch. However, with the included 230W power adapter, you can charge from 0% to 70% in just 30 minutes. And, if you have a compatible 140W USB-C battery, you can even power up on the go without a wall plug.
@@ -145,10 +145,6 @@ Jerome Thomas / How-To Geek
 ##  Hitting Above Its Weight Class, This Laptop Really Packs a Punch
 
 ![The Lenovo Legion 7i 16 Gen 9 Legion branding](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-legion-branding_53661777577_o.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -162,6 +158,10 @@ Jerome Thomas / How-To Geek
 
 ![The backlit keyboard on the Lenovo Legion 7i 16 Gen 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-backlit-keyboard-on-the-lenovo-legion-7i-16-gen-9_53661777647_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  Overall, I was extremely pleased with the performance of this laptop. When compared to other higher-class laptops, it also holds its own. I also have an RTX 4090-powered ASUS ROG Strix system which is an absolute monster of a machine. The RTX 4090 laptop, for comparison, hit 199FPS when in turbo mode. While that’s about two times the frames, it’s also over double the cost, and much, much larger and heavier.
@@ -170,6 +170,10 @@ Jerome Thomas / How-To Geek
 
 ![The Lenovo Legion 7i 16 Gen 9 on a table (2)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-on-a-table-2_53661777582_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  In PCMark 10, the Legion 7i 16 Gen 9 scored 8,175, which is better than 94% of all results. PCMark 10 measures the complete system performance for office needs, like spreadsheet work, document editing, and more. Plus, the average gaming laptop only scored 7,066 here, making this a pretty solid performance metric.
@@ -177,6 +181,10 @@ Jerome Thomas / How-To Geek
  Then, there’s 3DMark’s Time Spy, which measures the DirectX 12 performance for gaming PCs. The Legion 7i 16 Gen 9 achieved a score of 11,099, making it more powerful than 60% of all results, though it did come in a little under the average gaming laptop performance of 11,619.
 
  One thing that I wasn’t too happy with, however, was the coil whine. If you’ve not experienced coil whine before, you will with this laptop. Even at idle, there was a whine coming from the system that was a bit annoying. And, when the fans were at full tilt during a game, I could hear the coil whine even through my headphones. It’s not unbearable, but it’s something that I wasn’t very happy with for sure.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Lenovo Included All the Ports You Could Want but Could Have Made It a Bit Less Confusing
 
@@ -198,16 +206,12 @@ Jerome Thomas / How-To Geek
 
  You’ll also find Wi-Fi 6E, alongside Bluetooth 5.3 and no ethernet jack. That’s right, there are no wired networking options, which is a shame to see. This laptop is thick enough that Lenovo could have packed in wired connectivity, and I really wish they had. Wi-Fi 6E is nice and all, but sometimes, you just want the low-latency connection of a physical plug.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The 16-Inch Display Is Honestly Quite Impressive for a Laptop
 
 ![The file explorer on the Lenovo Legion 7i 16 Gen 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-file-explorer-on-the-lenovo-legion-7i-16-gen-9_53661777622_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -230,14 +234,10 @@ Jerome Thomas / How-To Geek
 
 ![Lenovo Legion 7i 16 Gen 9 Laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/lenovo-legion-7i-16-gen-9-laptop.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #####  Lenovo Legion 7i 16 Gen 9
@@ -265,18 +265,20 @@ Lenovo's Legion 7i 16 Gen 9 laptop packs a punch in the power department, offeri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-the-right-to-appeal-steps-following-abrupt-video-content-suspension/"><u>[New] In 2024, The Right to Appeal Steps Following Abrupt Video Content Suspension</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-integrating-vids-on-twitter-plus-tumblr-platforms-for-2024/"><u>[New] Integrating Vids on Twitter + Tumblr Platforms for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-artisans-handbook-to-photomontage-creation/"><u>[New] The Artisan's Handbook to PhotoMontage Creation</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-achieving-memetic-mastery-top-9-techniques-to-create-engaging-gifs/"><u>[Updated] Achieving Memetic Mastery Top 9 Techniques to Create Engaging GIFs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-360-live-streaming-cameras-for-youtube-and-facebook-you-should-know/"><u>[Updated] Top 360 Live Streaming Cameras for Youtube and Facebook You Should Know</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tune-and-time-lapses-creating-music-videos-with-your-phone/"><u>[Updated] Tune & Time Lapses Creating Music Videos with Your Phone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-structuring-stimulating-podcast-segments/"><u>2024 Approved Structuring Stimulating Podcast Segments</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/explore-revolutionary-meeting-platforms-that-cost-nothing-for-2024/"><u>Explore Revolutionary Meeting Platforms That Cost Nothing for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-s17-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo S17 Pro Quickly | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/jokesinframe-instant-memes-and-more/"><u>JokesInFrame Instant Memes & More</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-touchscreen-laptop-picks-in-depth-analysis-and-reviews-techradar/"><u>Top-Rated Touchscreen Laptop Picks: In-Depth Analysis & Reviews | TechRadar</u></a></li>
-<li><a href="https://facebook.techidaily.com/unfriend-suggested-people-on-social-media-hub/"><u>Unfriend Suggested People on Social Media Hub</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-cutting-edge-mp3-editing-solutions-for-mac-a-comprehensive-review-of-leading-cutter-tools-for-2024/"><u>Updated Cutting-Edge MP3 Editing Solutions for Mac A Comprehensive Review of Leading Cutter Tools for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ontent-curation-youtube-vs-tiktok-showdown-for-2024/"><u>[New] Content Curation YouTube Vs. TikTok Showdown for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-mastering-tweeted-videos-on-facebooks-networks-for-2024/"><u>[New] Mastering Tweeted Videos on Facebooks Networks for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-list-of-twitter-video-convertors/"><u>[New] The Ultimate List of Twitter Video Convertors</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snapchat-artistry-integrating-anime-inspired-effects-for-2024/"><u>[Updated] Snapchat Artistry Integrating Anime-Inspired Effects for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-streamline-your-collection-easy-downloads-of-vimeo-video-files-mp4-for-2024/"><u>[Updated] Streamline Your Collection Easy Downloads of Vimeo Video Files (MP4) for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-uncomplicated-narrative-guide/"><u>[Updated] Uncomplicated Narrative Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-artisans-handbook-to-photomontage-creation/"><u>2024 Approved The Artisan's Handbook to PhotoMontage Creation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-speedy-photographers-guide-to-google-collage-crafting/"><u>2024 Approved The Speedy Photographer's Guide to Google Collage Crafting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-list-timely-humor-for-various-gatherings/"><u>2024 Approved Ultimate List Timely Humor for Various Gatherings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-potential-angular-video-editing-on-your-android-device/"><u>2024 Approved Unlocking Potential Angular Video Editing on Your Android Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-techniques-to-take-photos-of-your-screen-on-all-laptops-with-movavi-instructions/"><u>Effortless Techniques to Take Photos of Your Screen on All Laptops with Movavi Instructions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-trusted-6-platforms-supporting-biz-success-stories/"><u>In 2024, Trusted 6 Platforms Supporting Biz Success Stories</u></a></li>
+<li><a href="https://win-answers.techidaily.com/microsoft-announces-newly-updated-windows-11-version-kb5/"><u>Microsoft Announces Newly Updated Windows 11 Version: KB5</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/microsoft-business-software-showdown-the-ultimate-ranking-of-top-10-ios-apps-tech-expert-insights/"><u>Microsoft Business Software Showdown: The Ultimate Ranking of Top 10 iOS Apps | Tech Expert Insights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-pubg-voice-customization-for-2024/"><u>The Ultimate Guide to PUBG Voice Customization for 2024</u></a></li>
 </ul></div>
 

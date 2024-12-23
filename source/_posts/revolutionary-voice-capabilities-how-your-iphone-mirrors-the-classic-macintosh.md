@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Voice Capabilities: How Your iPhone Mirrors the Classic Macintosh"
-date: 2024-12-06T19:30:49.243Z
-updated: 2024-12-14T02:18:46.348Z
+date: 2024-12-22T03:28:47.818Z
+updated: 2024-12-22T22:55:08.924Z
 tags:
   - mobile
 categories:
@@ -24,7 +24,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
  The voices have also been used in some movies and TV shows over the years. Auto, the wheel-shaped automatic pilot from Pixar’s _WALL-E_, is [voiced by MacinTalk](https://www.youtube.com/watch?v=IJWc4PD317w) (either the Reed or Ralph voice, it’s hard to tell).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Try the Old Voices
@@ -34,7 +34,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 ![List of text-to-speech voices on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_8396.PNG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The original Fred voice used in the Macintosh reveal event is still available, as well as Junior, Albert, Kathy, Bahh, Zarvox, Whisper, Jester, and others. A few are missing, including Rocko and Reed. Tap a voice to open its menu, where you can download the voice if it’s not already available.
@@ -44,7 +44,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 ![Typing a message for speech on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_deefe3a3587c-1.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Unfortunately, you can’t use any of the classic MacinTalk voices for Siri. You can also use them for the Spoken Content feature (also in the Accessibility settings), which adds a “Speak” button when you select text in most applications.
@@ -64,24 +64,18 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gastronomic-genius-ideal-culinary-network-name-strategies/"><u>[New] 2024 Approved Gastronomic Genius Ideal Culinary Network Name Strategies</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-audireview-listening-and-recording-evaluation-for-2024/"><u>[New] Audireview Listening & Recording Evaluation for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-essential-techniques-for-musical-tiktok-creation/"><u>[New] In 2024, Essential Techniques for Musical TikTok Creation</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/asterclass-top-10-makeup-artists-shaping-online-beauty-trends-for-2024/"><u>[New] Masterclass Top 10 Makeup Artists Shaping Online Beauty Trends for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-authoritative-handbook-on-selecting-impactful-podcast-monikers-plus-examples/"><u>[New] The Authoritative Handbook on Selecting Impactful Podcast Monikers, Plus Examples</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-comic-editor-app/"><u>[New] Ultimate Comic Editor App</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-effortlessly-amend-your-profile-age-on-tiktok/"><u>[Updated] Effortlessly Amend Your Profile Age on TikTok</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-how-to-assemble-a-personalized-youtube-music-list/"><u>[Updated] In 2024, How to Assemble a Personalized YouTube Music List</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-essential-guide-to-saving-web-radio-broadcasts/"><u>[Updated] The Essential Guide to Saving Web Radio Broadcasts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-describing-your-podcast-with-flair/"><u>2024 Approved The Art of Describing Your Podcast with Flair</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/explore-the-big-screen-from-home-zumvos-guide-to-fetching-your-favorite-movies-and-previews-instantly/"><u>Explore the Big Screen From Home: Zumvo's Guide to Fetching Your Favorite Movies & Previews Instantly!</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-diagnose-and-repair-the-stop-error-0xc0000005-on-your-windows-pc/"><u>How to Diagnose and Repair the STOP Error 0xC0000005 on Your Windows PC</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-poco-c50-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Poco C50 Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-iphone-selfie-gear-rankings-8/"><u>In 2024, The Ultimate Guide to Iphone Selfie Gear Rankings (#8)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-10-text-tools-elevating-creative-compositions/"><u>In 2024, Top 10 Text Tools Elevating Creative Compositions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-notch-drones-for-professionals-our-curated-list/"><u>In 2024, Top-Notch Drones for Professionals – Our Curated List</u></a></li>
-<li><a href="https://win-guides.techidaily.com/mastering-the-management-of-system-users-with-tips-from-yl-software-experts/"><u>Mastering the Management of System Users with Tips From YL Software Experts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-iphone-photography-top-10-visual-arrangement-tips-for-2024/"><u>The Art of iPhone Photography Top 10 Visual Arrangement Tips for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-profiting-off-reddit-13-ways-here-for-2024/"><u>The Ultimate Guide to Profiting Off Reddit - 13 Ways Here for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-step-by-step-guide-to-high-quality-zoom-recordings-for-podcasters/"><u>[New] 2024 Approved Step-by-Step Guide to High-Quality Zoom Recordings for Podcasters</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-the-art-of-instagram-video-bordering/"><u>[New] Mastering the Art of Instagram Video Bordering</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-20-tales-on-yt-where-to-find-the-best-storytelling/"><u>[New] Top 20 Tales on YT Where to Find the Best Storytelling</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-front-row-non-sports-options/"><u>[Updated] Best Front Row Non-Sports Options</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-instantly-professional-masterful-thumbnails-created-fast/"><u>[Updated] In 2024, Instantly Professional Masterful Thumbnails Created Fast!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-quantum-hdr-essentials/"><u>[Updated] Unveiling Quantum HDR Essentials</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-finest-affordable-webm-players-on-market/"><u>[Updated] Unveiling the Finest Affordable WebM Players on Market</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-editors-edge-insider-strategies-to-supercharge-your-photos/"><u>2024 Approved The Editor's Edge Insider Strategies to Supercharge Your Photos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-picks-our-7-preferred-no-cost-tune-apps-for-mobile-phones/"><u>Discover the Ultimate Picks: Our 7 Preferred No-Cost Tune Apps for Mobile Phones!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/footage-analysis-trendy-video-patterns/"><u>FIFA Footage Analysis Trendy Video Patterns</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-oppo-reno-10-proplus-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Oppo Reno 10 Pro+ 5G Location | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-creativity-making-photo-based-videos-using-pixiz/"><u>In 2024, Unleashing Creativity Making Photo-Based Videos Using Pixiz</u></a></li>
+<li><a href="https://video-capture.techidaily.com/smarter-gameplay-strategic-memory-allocation-to-minecraft-for-2024/"><u>Smarter Gameplay Strategic Memory Allocation to Minecraft for 2024</u></a></li>
 </ul></div>
 

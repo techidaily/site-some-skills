@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Activating and Deactivating the Xbox Game Bar on Windows 10"
-date: 2024-12-07T03:23:11.048Z
-updated: 2024-12-13T19:29:45.505Z
+date: 2024-12-17T20:42:54.598Z
+updated: 2024-12-22T20:10:48.101Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
 ## Ultimate Guide: Activating and Deactivating the Xbox Game Bar on Windows 10
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
 * [How to Disable the Xbox Button in Windows 10](https://youtube-clips.techidaily.com/2024-approved-elevate-your-recordings-doing-without-a-microphone/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -37,12 +37,16 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
 
 ![Click the 'Gaming' option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-click-gaming.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Under "Game Bar" settings, click the switch beneath "Enable Game Bar" until it is turned off. That will disable the Game Bar.
 
 ![Click the toggle under 'Game Bar' to disable it completely.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-turn-game-bar-off.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After that, close the Settings app. Try pressing Windows+G, and nothing will pop up. Even if you press the Xbox button on an Xbox controller, nothing will happen. The Game Bar has been fully disabled.
@@ -52,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
 ![The Game Bar toggle in the On position.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-turn-game-bar-on.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Disable the Xbox Button in Windows 10
@@ -62,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
  If you'd like to disable this, visit Windows Settings > Gaming, then uncheck the box beside "Open Xbox Game Bar using this button on a controller."
 
 ![Untick the box to disable the Game Bar button on your controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-disable-game-bar-button.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Alternately, if you disable the Game Bar completely using the "Enable Game Bar" switch, then the Xbox button on your controller will no longer call up the Game Bar. But that also disables calling up the Game Bar using other methods (such as the Windows+G shortcut).
 
@@ -84,18 +84,20 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-crafting-engaging-reels-adding-music-without-compromise/"><u>[New] 2024 Approved Crafting Engaging Reels Adding Music without Compromise</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-room-and-pc-checklist-for-vr/"><u>[New] The Ultimate Room and PC Checklist for VR</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-fix-there-is-no-sound-on-twitter-videos/"><u>[Updated] Fix There Is No Sound on Twitter Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-charting-your-path-to-success-in-youtubes-earnings-system/"><u>[Updated] In 2024, Charting Your Path to Success in YouTube's Earnings System</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-succeed-in-screen-recording-detailed-orderly-guide/"><u>[Updated] Succeed in Screen Recording Detailed, Orderly Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-editors-almanac-key-takeaways-from-filmora-editioning/"><u>2024 Approved The Editor’s Almanac Key Takeaways From Filmora Editioning</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-iphone-audio-applications-ranked/"><u>2024 Approved Top iPhone Audio Applications Ranked</u></a></li>
-<li><a href="https://win-best.techidaily.com/come-replicare-unita-di-file-in-windows-1011-con-il-software-mirrorfolder/"><u>Come Replicare Unità Di File in Windows 10/11 Con Il Software MirrorFolder</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-tecno-pop-7-prowithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Tecno Pop 7 Prowith/without a PC</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-full-screen-tips-for-premiere-pro-users/"><u>In 2024, Ultimate Full Screen Tips for Premiere Pro Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-connection-woes-when-steam-friend-list-is-inaccessible/"><u>Resolving Connection Woes: When Steam Friend List Is Inaccessible</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-complete-picture-an-in-depth-analysis-of-polarr-photo-tools-for-2024/"><u>The Complete Picture An In-Depth Analysis of Polarr Photo Tools for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-key-6-considerations-prior-to-adopting-chatgpt-for-emotional-support-services/"><u>The Key 6 Considerations Prior to Adopting ChatGPT for Emotional Support Services</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-tips-for-creating-instagrammable-unboxing-highlights/"><u>[New] Top Tips for Creating Instagrammable Unboxing Highlights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tech-savvy-guide-from-digital-to-physical-dvds-on-mac/"><u>[Updated] Tech Savvy Guide From Digital to Physical - DVDs on Mac</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-portable-gear-for-travel-cinematography/"><u>2024 Approved Portable Gear for Travel Cinematography</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-prime-video-camera-selections-for-superior-recording/"><u>2024 Approved Prime Video Camera Selections for Superior Recording</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/ad-overload-unveiling-the-quantity-of-ads-people-experience-each-day/"><u>Ad Overload: Unveiling the Quantity of Ads People Experience Each Day</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-to-know-chatgpt-now-on-android/"><u>Get to Know ChatGPT - Now on Android</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-xr-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone XR and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-roadmap-to-acquiring-perfect-copyright-free-photos/"><u>In 2024, The Roadmap to Acquiring Perfect, Copyright-Free Photos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-audio-booster-apps-to-quicken-playback/"><u>In 2024, Top Audio Booster Apps to Quicken Playback</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-trailblazers-in-the-world-of-virtual-reality/"><u>In 2024, Trailblazers in the World of Virtual Reality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-money-potential-a-beginners-guide-on-periscope/"><u>In 2024, Unlocking Money Potential A Beginner's Guide on Periscope</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-updates-for-amd-drivers-compatibility-with-windows-10117-systems/"><u>Latest Updates for AMD Drivers: Compatibility with Windows 10/11/7 Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011532802-phoenix-point-crash-no-more-easy-fix-solutions-revealed/"><u>Phoenix Point Crash No More - Easy Fix Solutions Revealed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-step-by-step-for-adding-a-link-in-your-tiktok-bios-for-2024/"><u>The Ultimate Step-by-Step for Adding a Link in Your TikTok Bios for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/understanding-and-executing-photo-gender-modification-online/"><u>Understanding and Executing Photo Gender Modification Online</u></a></li>
 </ul></div>
 

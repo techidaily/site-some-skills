@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Setting Up Full-Screen Color Selection Tools in Windows 10
-date: 2024-12-10T23:35:35.842Z
-updated: 2024-12-14T01:24:41.053Z
+date: 2024-12-20T22:25:20.732Z
+updated: 2024-12-23T06:38:15.116Z
 tags:
   - desktop
 categories:
@@ -15,10 +15,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 * [Install PowerToys and Enable Color Picker](https://fox-that.techidaily.com/troubleshooting-gps-issues-how-to-restore-location-services-on-an-iphone/)
 * [Activate Color Picker With a Keyboard Shortcut](https://win-amazing.techidaily.com/download-the-newest-magicard-rio-pro-driver-universal-compatibility-windows-1011-81-and-7-supported/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -34,25 +30,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Download the latest release of the PowerToys installer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/powertoys.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After the installation process is complete, launch PowerToys Settings by right-clicking the icon on your taskbar, or from your desktop or the Start menu.
 
 ![Right-click the PowerToys icon on the taskbar and select 'Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/launch-powertoy-settings.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Click "Color Picker" in the sidebar, then make sure that the "Enable Color Picker" switch is in the "On" position.
 
 ![Ensure the PowerToys color picker is enabled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/power-toy-color-picker.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  By default, you'll use Windows+Shift+C to activate the color picker. You can change this keyboard shortcut to your preferred one from this screen, if you like.
 
  Next, close PowerToys and get ready to grab some colors. The PowerToys Settings app does not need to be running for Color Picker to work.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Activate Color Picker With a Keyboard Shortcut
 
@@ -64,6 +60,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The PowerToys Color Picker detail window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/color_detail_window.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This window displays the hex color code, the RGB (red, green, blue) value, and the HSL (hue, saturation, lightness) value of the color you just selected. If you'd like to copy one of those values (as a text string) to the clipboard, hover over it and click the "copy" icon that appears.
 
 ![To copy a color value to the clipboard, click the "copy" icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/copy_to_clipboard.jpg) 
@@ -73,22 +73,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![In Color Picker, click the color bar to adjust the color values.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/click_color_bar.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After clicking the color bar, you'll see another screen with sliders that allow you to adjust the color with your mouse or by entering values with your keyboard.
 
 ![The Color Picker color adjustment window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/color_adjust_window.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When you're done, click "OK," and then the color will be added to your saved color palette, which is the vertical column of boxes along the left side of the window. If you need to remove a color from the palette on the side of the window, right-click the color square and select "Remove."
 
  If you'd like to leave this window and pick another color, click the eyedropper icon in the upper-left corner of the window.
 
 ![In Color Picker, click the eyedropper button to pick another color.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/pick_color_again.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The detail window will close and you can repeat the process again, selecting any color you'd like.
 
@@ -111,24 +111,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-humor-highway-tailored-joke-routes-for-each-occasion-for-2024/"><u>[New] Humor Highway Tailored Joke Routes for Each Occasion for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-essentials-of-whatsapp-call-messages/"><u>[New] The Essentials of WhatsApp Call Messages</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-pinnacle-of-vr-how-htc-vive-transforms-playtime/"><u>[New] The Pinnacle of VR How HTC Vive Transforms Playtime</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-ultimate-guide-to-using-green-screen-in-kinemaster-a-stepwise-approach/"><u>[Updated] In 2024, The Ultimate Guide to Using Green Screen in Kinemaster A Stepwise Approach</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-trivia-treasures-2024-best-general-knowledge-streaming-sites/"><u>[Updated] Trivia Treasures 2024 Best General Knowledge Streaming Sites</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unraveling-the-new-dimensions-of-vegaspro-19/"><u>[Updated] Unraveling the New Dimensions of VegasPro '19</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-downloadfacebooknow-a-comprehensive-guide-to-browser-tools-for-firefox/"><u>2024 Approved DownloadFacebookNow! - A Comprehensive Guide to Browser Tools for Firefox</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovating-audio-visuals-podcast-covers-explained/"><u>2024 Approved Innovating Audio Visuals Podcast Covers Explained</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-synchronizing-melodies-with-inshot-clips/"><u>2024 Approved Synchronizing Melodies with InShot Clips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-spaces-the-art-of-metaphysical-marketing/"><u>2024 Approved Transforming Spaces The Art of Metaphysical Marketing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-october-vr-bargain-alert-score-metas-quest-expanse-3-with-a-whopping-512gb-storage-at-unbeatable-prime-day-rates/"><u>Best October VR Bargain Alert: Score Meta’s Quest eXpanse 3 with a Whopping 512GB Storage at Unbeatable Prime Day Rates</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/hashtag-wisdom-uncovering-the-best-tags-to-dominate-on-instagram-for-2024/"><u>Hashtag Wisdom Uncovering the Best Tags to Dominate on Instagram for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-change-your-iphones-default-map-application-to-google-maps-with-ease/"><u>How to Change Your iPhone's Default Map Application to Google Maps with Ease</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-iphone-11-pro-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your iPhone 11 Pro?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-timeless-tales-of-summer-delight-top-10-kids-movies/"><u>In 2024, Timeless Tales of Summer Delight Top 10 Kid's Movies</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/live-streaming-mastery-with-manycam-top-notch-virtual-camera-software/"><u>Live Streaming Mastery with ManyCam: Top-Notch Virtual Camera Software</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/photographers-guide-to-the-ultimate-softbox-kit-selection-2024/"><u>Photographers' Guide to the Ultimate Softbox Kit Selection 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-practices-in-producing-trustworthy-video-product-reviews-for-2024/"><u>Top Practices in Producing Trustworthy Video Product Reviews for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unraveling-the-merits-of-stabilized-photo-editing-with-adobe-for-2024/"><u>Unraveling the Merits of Stabilized Photo Editing with Adobe for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-step-into-success-beginners-guide-to-hosting-tech-product-discussions-online/"><u>[New] 2024 Approved Step-Into Success Beginner’s Guide to Hosting Tech Product Discussions Online</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-decoding-the-metrics-for-youtube-video-hierarchy/"><u>[New] Decoding the Metrics for YouTube Video Hierarchy</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-and-utilizing-windows-11-auto-hdr-functionality/"><u>[New] Understanding and Utilizing Windows 11 Auto HDR Functionality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-360-degree-video-9-must-have-tips-for-filmmakers/"><u>[Updated] The Art of 360-Degree Video 9 Must-Have Tips for Filmmakers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-gopro-camera-leap-hero4-to-hero5/"><u>[Updated] The GoPro Camera Leap (Hero4 to Hero5)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-path-to-efficient-workflow-learning-voice-to-text-conversion-in-ms-word/"><u>[Updated] The Path to Efficient Workflow Learning Voice-to-Text Conversion in MS Word</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-charismatic-oratory-study-part-8/"><u>2024 Approved Charismatic Oratory Study Part 8</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-scriptural-ringtone-selections-for-faith/"><u>2024 Approved Top 10 Scriptural Ringtone Selections for Faith</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-apps-upgrade-your-mobile-movies-instantly/"><u>2024 Approved Top Apps Upgrade Your Mobile Movies Instantly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-inside-scoop-how-meta-elevates-vr-with-its-exceptional-deal-on-the-512gb-quest-ebike-expert-analysis/"><u>Get the Inside Scoop: How Meta Elevates VR with Its Exceptional Deal on the 512GB Quest Ebike | Expert Analysis</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/imagepurityplus-professional-photo-editing-suite/"><u>ImagePurityPlus Professional Photo Editing Suite</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-best-price-to-performance-ratio-for-asmr-equipment/"><u>In 2024, The Best Price-to-Performance Ratio for ASMR Equipment</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-apple-m1-a-computing-revolution/"><u>In 2024, Unveiling the Apple M1 A Computing Revolution?</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-oppo-reno-9a-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Oppo Reno 9A</u></a></li>
+<li><a href="https://win-webster.techidaily.com/step-by-step-tutorial-adjusting-display-preferences-in-microsoft-windows-with-help-from-yl-computing/"><u>Step-by-Step Tutorial: Adjusting Display Preferences in Microsoft Windows with Help From YL Computing</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-bios-a-deep-dive-with-revo-uninstaller/"><u>Understanding BIOS: A Deep Dive with Revo Uninstaller</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/unlock-more-storage-potential-on-your-machine-with-expert-tricks-from-yl-softwares-free-disk-management-course/"><u>Unlock More Storage Potential on Your Machine with Expert Tricks From YL Software's Free Disk Management Course</u></a></li>
 </ul></div>
 

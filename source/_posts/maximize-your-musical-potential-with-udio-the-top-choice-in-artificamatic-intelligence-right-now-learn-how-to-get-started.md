@@ -1,7 +1,7 @@
 ---
 title: Maximize Your Musical Potential with Udio – The Top Choice in Artificamatic Intelligence Right Now, Learn How to Get Started.
-date: 2024-12-10T20:06:59.070Z
-updated: 2024-12-13T20:35:25.977Z
+date: 2024-12-20T04:53:58.942Z
+updated: 2024-12-23T00:05:03.834Z
 tags:
   - cutting-edge
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 [RIAA has filed copyright infringement cases](https://www.riaa.com/record-companies-bring-landmark-cases-for-responsible-ai-againstsuno-and-udio-in-boston-and-new-york-federal-courts-respectively/) against Udio and other AI music generation tools. At the time of writing, there’s no official verdict. As a measure of caution, I only use Udio for personal entertainment and not for commercial purposes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Build Your Epic Track 30 Seconds At a Time
 
  Udio's approach to AI music creation is refreshingly granular. You start by entering your prompt (with or without specific instructions) in the input field and hit the "Create" button. Udio will take a few seconds and generate two 30-second song snippets based on your input. You can now extend these snippets, mix and match different extensions, and ultimately craft an epic track that could potentially stretch up to 15 minutes.
@@ -36,16 +40,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Udio's granular approach to AI music generation offers you a wealth of options. While this might seem overwhelming at first, Udio’s intuitive interface makes creating songs a breeze. Let's explore the basic and advanced controls you'll use to craft your epic masterpiece.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Basic Controls
 
 ![Udio Basic Controls Overview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-udio-basic-controls-overview.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you click on the input field, it expands into a square prompting space with multiple options. At the top, you can enter the prompt or hit the dice button on the left to generate a few random ideas. You can also upload an audio file as your base and use your prompt to steer the direction of the song.
@@ -66,6 +66,10 @@ Your browser does not support the video tag.
 
 ![A look at Udio suggested tags](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-a-look-at-udio-suggested-tags.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Udio is programmed to auto-enhance your prompt to give you the best results—which can force it to not 100% adhere to your prompt. To disable auto-enhancement, enable "Manual Mode"—located above the "Suggested Tags."
 
  And finally, we have the "Lyrics" option. By default, it’s set to Auto-Generated using GPT-4o. The results are good enough, but if you want to use your own lyrics, switch to Custom mode.
@@ -74,19 +78,23 @@ Your browser does not support the video tag.
 
 ![Udio adding Custom Lyrics](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/6-udio-adding-custom-lyrics.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Just remember that, since each snippet is just 30 seconds long, do not enter the entire song lyrics in Custom mode. Keep the lyrics short at 200–350 characters. Of course, if you don’t want any lyrics, you can just mark the section as "Instrumental."
 
  Udio typically starts generating from the middle of a song. As such, when entering custom lyrics, focus on the middle section. You can add intros and outros later by extending the track.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Advanced Features
 
  While Udio's basic controls are enough to get you started, the platform offers a set of advanced options for those looking to fine-tune their creations.
 
 ![Udio Advanced Feaures overview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-udio-advanced-feaures-overview.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Here’s a quick overview of each of the advanced controls and what they do:
 
@@ -104,6 +112,10 @@ Your browser does not support the video tag.
 
 ![Udio Track Extension Overview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/9-udio-track-extension-overview.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With the "Crop" and "Extend" option, you see the entire 30-second clip loaded into a waveform. You can drag to increase or decrease the red section and change its position to highlight where you want to add the new content. If you decide to place it in the middle, the new extension (with new lyrics or instruments) will be added in the middle of the original clip.
 
  If you like the clip as is and just want to add a new section to the track, then use the "Extension Placement" option. It lets you decide where you want to add an intro, outro, or a section before or after the selected track.
@@ -118,17 +130,9 @@ Your browser does not support the video tag.
 
 ![Udio Extensions Tracks naming convention](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/10-udio-extensions-tracks-naming-convention.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Alternatively, you can also click on the Show Generation Tree button. Udio will organize all extensions in a collapsible drop-down tree structure so you know exactly which tracks got extended to build the full track.
 
 ![Udio Track Generation Tree Overview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/11-udio-track-generation-tree-overview.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Here’s a listen to the whole song created by combining all the track extensions:
 
@@ -146,10 +150,6 @@ Your browser does not support the video tag.
  You can also use Audio Inpainting to change the entire verse or chorus while keeping the same melody and vocal style. However, the results can be iffy when making large changes using this method.
 
 ![Udio Audio Imprinting Overview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/13-udio-audio-imprinting-overview.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now, here’s a quick step-by-step guide on using Audio Inpainting:
 
@@ -183,24 +183,19 @@ Your browser does not support the video tag.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-mp4-devices/"><u>[New] The Ultimate Guide to MP4 Devices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-the-secrets-of-pubg-sound-personalization/"><u>[New] Unlocking the Secrets of PUBG Sound Personalization</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-unveiling-novel-window-11-secrets-for-enhanced-usage/"><u>[New] Unveiling Novel WINDOW 11 Secrets for Enhanced Usage</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-strategies-for-securing-product-sponsors-on-youtube/"><u>[Updated] 2024 Approved Strategies for Securing Product Sponsors on YouTube</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-dive-into-9-premium-uncut-full-length-winter-wonderland-flicks/"><u>2024 Approved Dive Into 9 Premium, Uncut Full-Length Winter Wonderland Flicks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-merge-skype-and-zoom-easy-techniques-for-effective-communication/"><u>2024 Approved Merge Skype and Zoom Easy Techniques for Effective Communication</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-choice-elite-desktop-pcs/"><u>2024 Approved Ultimate Choice Elite Desktop PCs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unraveling-the-secrets-of-iphone-hdr/"><u>2024 Approved Unraveling the Secrets of iPhone HDR</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-venture-beyond-reality-with-our-top-1-cookies-in-mobile-vr-technology/"><u>2024 Approved Venture Beyond Reality with Our Top 1 Cookies in Mobile VR Technology</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-step-by-step-guide-to-contrasting-libraries-in-windows-10-and-windows-11-versions/"><u>A Step-by-Step Guide to Contrasting Libraries in Windows 10 & Windows 11 Versions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-pinnacle-of-zooid-creations-guide/"><u>In 2024, The Pinnacle of Zooid Creations Guide</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ize-viewer-interest-with-best-post-schedule-for-2024/"><u>Maximize Viewer Interest with Best Post Schedule for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/rectified-data-access-errors/"><u>Rectified Data Access Errors</u></a></li>
-<li><a href="https://win-webster.techidaily.com/revamp-your-computers-performance-with-updated-graphics-card-drivers-tips-from-yl-software-experts/"><u>Revamp Your Computer's Performance with Updated Graphics Card Drivers - Tips From YL Software Experts</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-deck-game-unlock-launcher-integration-tips/"><u>Steam Deck Game Unlock: Launcher Integration Tips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-economics-of-entertainment-pewdiepies-profit-for-2024/"><u>The Economics of Entertainment PewDiePie's Profit for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-insight-into-dji-inspire-2-for-2024/"><u>The Ultimate Insight Into DJI Inspire 2 for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-list-complimentary-3d-text-psds-for-2024/"><u>The Ultimate List Complimentary 3D Text PSDs for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/top-2-methods-to-transform-zoom-sound-ensuring-clarity/"><u>Top 2 Methods to Transform Zoom Sound, Ensuring Clarity</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-secret-behind-crafting-mesmerizing-slow-motion-media-for-instagram/"><u>[Updated] 2024 Approved The Secret Behind Crafting Mesmerizing Slow Motion Media for Instagram</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-essential-illumination-strategies-for-filming/"><u>[Updated] Essential Illumination Strategies for Filming</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-in-depth-video-metrics-at-your-fingertips-social-blade-for-youtube/"><u>[Updated] In 2024, In-Depth Video Metrics at Your Fingertips Social Blade for YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ethical-path-to-engaging-interviews/"><u>2024 Approved The Ethical Path to Engaging Interviews</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-scope-of-panoramic-filmmaking-explained/"><u>2024 Approved The Scope of Panoramic Filmmaking Explained</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-8-apps-accelerating-slow-motion-footage/"><u>2024 Approved Top 8 Apps Accelerating Slow Motion Footage</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-power-of-azure-voice-recognition-api/"><u>2024 Approved Unveiling the Power of Azure Voice Recognition API</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-why-the-sumind-bt70b-is-tops-amongst-bluetooth-fm-transmitters-a-review-worth-reading/"><u>Discover Why the Sumind BT70B Is Tops Amongst Bluetooth FM Transmitters: A Review Worth Reading!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-your-iphone-footage-into-vr/"><u>In 2024, Transforming Your iPhone Footage Into VR</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-understanding-why-youre-not-seen/"><u>In 2024, Understanding Why You're Not Seen</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-mov-videos-on-samsung-galaxy-s23-by-aiseesoft-video-converter-play-mov-on-android/"><u>Issues playing MOV videos on Samsung Galaxy S23</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/securely-duplicate-operating-systems-and-files-using-sabrents-advanced-clone-software-tech/"><u>Securely Duplicate Operating Systems & Files Using Sabrent’s Advanced Clone Software Tech</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-black-screen-blues-in-win11/"><u>Solving Black Screen Blues in Win11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/techniques-simples-pour-transformer-un-fichier-m4v-en-format-3gp-gratuitement-a-laide-de-logiciels-en-ligne-guide-decortigue/"><u>Techniques Simples Pour Transformer Un Fichier M4V en Format 3GP Gratuitement À L'Aide De Logiciels en Ligne - Guide Décortigué</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Maximize Performance: Boost Computers with Under 8GB RAM Using Compact Local LLM Technologies"
-date: 2024-12-11T21:00:58.552Z
-updated: 2024-12-13T18:12:20.858Z
+date: 2024-12-15T16:56:18.558Z
+updated: 2024-12-22T20:02:27.881Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 ## Maximize Performance: Boost Computers with Under 8GB RAM Using Compact Local LLM Technologies
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 * Local LLM-powered chatbots DistilBERT, ALBERT, GPT-2 124M, and GPT-Neo 125M can work well on PCs with 4 to 8GBs of RAM.
 
  Local AI chatbots, powered by large language models (LLMs), work only on your computer after correctly downloading and setting them up. They usually need a lot of computer memory (RAM) to work well. However, a few great models can perform on computers with as little as 4GB of RAM.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Why Use Local LLM Chatbots?
 
@@ -55,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 ![Hugging Face ALBERT Homepage](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/hugging-face-albert-homepage.PNG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  I highly recommend starting as a beginner with DistilBERT and ALBERT, even if you have a high-memory PC. Beginning with these two models allowed me to learn the basics without being overwhelmed by the complexity of larger models.
@@ -67,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 ![GPT-2 124 model repository homepage](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/gpt-2-model-homepage.PNG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  My favorite lightweight LLM by far is the [GPT-Neo 125M](https://huggingface.co/EleutherAI/gpt-neo-125m) because of its adjustable customization options. It was developed by the respected developers at EleutherAI and is like the open-source cousin of GPT-2.
@@ -77,11 +81,7 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 ![GPT-Neo 125 Model Repository](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/gpt-neo-125-source-code.PNG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Get Started with Local LLM Chatbots
@@ -115,17 +115,15 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-innovative-techniques-for-next-level-lut-creation/"><u>[New] In 2024, Innovative Techniques for Next-Level LUT Creation</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-apples-m1-milestone-the-next-gen-computing-core/"><u>2024 Approved Apple’s M1 Milestone The Next-Gen Computing Core</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-superior-vector-file-polishing/"><u>2024 Approved Superior Vector File Polishing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-best-8-screenshot-and-video-editing-tools-for-phones/"><u>2024 Approved The Best 8 Screenshot & Video Editing Tools for Phones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-power-of-zoom-in-kinemaster-editing/"><u>2024 Approved Unveiling the Power of Zoom in Kinemaster Editing</u></a></li>
-<li><a href="https://win-forum.techidaily.com/essential-tips-for-changing-deleting-and-setting-up-windows-registry-keys/"><u>Essential Tips for Changing, Deleting and Setting Up Windows Registry Keys</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-t2x-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo T2x 5G? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-poco-f5-pro-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Poco F5 Pro 5G FRP?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-windows-playback-system/"><u>In 2024, Ultimate Windows Playback System</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/nvidia-10-series-driver-installation-guide-for-new-windows-11-users-effortless-downloads/"><u>NVIDIA 10 Series Driver Installation Guide for New Windows 11 Users: Effortless Downloads</u></a></li>
-<li><a href="https://games-able.techidaily.com/series-s-a-forward-thinking-console-without-disks/"><u>Series S: A Forward-Thinking Console Without Disks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-list-top-10-websites-for-free-photo-access-for-2024/"><u>The Ultimate List Top 10 Websites for Free Photo Access for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-top-notch-animated-text-settings/"><u>[New] Top-Notch Animated Text Settings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-iphone-photos-upside-down-and-sideways-tricks/"><u>[New] Transforming iPhone Photos Upside-Down & Sideways Tricks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-transforming-your-ad-strategy-with-animation-for-max-roi-for-2024/"><u>[New] Transforming Your Ad Strategy with Animation for Max ROI for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-fb-chronicles-the-hidden-viewer/"><u>[Updated] FB Chronicles The Hidden Viewer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-supreme-cyber-seminar-sorter/"><u>2024 Approved Supreme Cyber Seminar Sorter</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-affordable-asmr-recording-setup-excellence/"><u>2024 Approved Ultimate Affordable ASMR Recording Setup Excellence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-amv-to-mp4-conversion-tool-online-service-by-movavi/"><u>Free AMV to MP4 Conversion Tool: Online Service by Movavi</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-five-iphone-compatible-podcast-services/"><u>In 2024, Five iPhone-Compatible Podcast Services</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-5-video-tweaking-apps-for-social-networking/"><u>Top 5 Video Tweaking Apps for Social Networking</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-world-of-no-cost-picture-frame-movies-for-2024/"><u>Unlocking the World of No-Cost Picture Frame Movies for 2024</u></a></li>
 </ul></div>
 

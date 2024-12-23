@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up a Swap Space in Linux"
-date: 2024-12-10T18:17:24.814Z
-updated: 2024-12-13T17:19:34.840Z
+date: 2024-12-18T23:46:46.026Z
+updated: 2024-12-23T03:25:33.935Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/213b932fcd2c7374497ebb4064c054acfe0cd4d0b
 ---
 
 ## Step-by-Step Guide: Setting Up a Swap Space in Linux
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -26,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/213b932fcd2c7374497ebb4064c054acfe0cd4d0b
 * [Swap Space Made Easy](https://youtube-data.techidaily.com/ver-8-essential-sites-for-pristine-green-screen-images-for-2024/)
 
  Add swap space to a Linux computer, or increase the swap space that's already present, without messing about with partitions. We show you the easy way to tailor your swap space.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Swap Files vs. Swap Partitions
 
@@ -68,10 +76,6 @@ free -h
 
 ![fre -h  in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/1-5.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The output from `free` shows that there is no swap space configured on this machine.
 
  Swap is never discussed without RAM and free RAM cropping up. So it's worth noting that the free RAM is given as 237 MB. Don't mistake that for the total of RAM available for use. That value is provided by the "available" figure, which is 881 MB.
@@ -83,10 +87,6 @@ free -h
 swapon --show
 
 ![swapon --show in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/2-8.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If there is no output from this command, there's no swap configured.
 
@@ -129,10 +129,6 @@ sudo dd if=/dev/zero of=/swapfile bs=1024 count=1048576
 
 ![sudo dd if=/dev/zero of=/swapfile bs=1024 count=1048576 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/5-6.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Some statistics are provided when the file is created.
 
 ![output from sudo dd if=/dev/zero of=/swapfile bs=1024 count=1048576 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/6-8.png) 
@@ -145,10 +141,6 @@ ls /
 
 ![ls / in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/7-7.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Preparing the Swap File
 
  We need to [prepare the swap file](http://man7.org/linux/man-pages/man8/mkswap.8.html) with the `mkswap` command before it can be used. We don't need to provide any parameters to `mkswap` other than the path and name of the file:
@@ -159,6 +151,10 @@ sudo mkswap /swapfile
 
  The file is prepared for use as a swap file. Note the warning about file permissions. We'll need to change those so that the root user is the only one who can read and write to the swap file.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Using the Swap File
 
  The default permissions are too liberal, we need to restrict them so that only root can use the swapfile. [Use chmod to change the file permissions](https://extra-guidance.techidaily.com/new-perfect-synchronization-enhancing-audio-visual-with-subtitles-in-wmp/):
@@ -166,6 +162,10 @@ sudo mkswap /swapfile
 sudo chmod 600 /swapfile
 
 ![sudo chmod 600 /swapfile in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/12-4.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This removes all permissions from the file group members and others, but allows the file owner, root, to read and write to the file.
 
@@ -176,13 +176,13 @@ sudo swapon /swapfile
 ![sudo swapon /swapfile in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/9-7.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The swap file is now active.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Adding the Swap File to fstab
@@ -193,10 +193,6 @@ sudo gedit /etc/fstab
 
 ![sudo gedt /etc/fstab in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/10-6.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The line we need to add to the bottom of the file is:
 
 /swapfile none swap sw 0 0
@@ -204,7 +200,7 @@ sudo gedit /etc/fstab
 ![/etc/fstab with the swapfile entry highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/11-4.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The fields are:
@@ -217,6 +213,10 @@ sudo gedit /etc/fstab
 * **Pass**: This can be set to zero. It is irrelevant in this case.
 
  Save the changes and close the editor.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Checking Swap Usage
 
@@ -233,10 +233,6 @@ swapon --show
 * **Size**: The size of the swap resource.
 * **Used**: The amount of used swap space.
 * **Prio**: The priority of this swap space.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The Swap Space Priority
 
@@ -255,6 +251,10 @@ swapon -- show
 ![swapon -- show in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/15-2.png) 
 
  The priority of this swap space has been elevated to 10\. Which is proof positive that the options field in the `/etc/fstab` entry is not ignored.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Swap Space Made Easy
 
@@ -299,18 +299,18 @@ swapon --show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-advanced-editing-tips-remove-the-unnecessary-picture-border/"><u>[New] In 2024, Advanced Editing Tips Remove the Unnecessary Picture Border</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-beginners-basics-of-video-clarity-and-sharpness/"><u>[New] In 2024, Beginner's Basics of Video Clarity and Sharpness</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-ios-tutorial-downloading-episodes-effortlessly/"><u>[Updated] Ultimate iOS Tutorial Downloading Episodes Effortlessly</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-edge-of-color-grading-with-luts/"><u>2024 Approved Leading Edge of Color Grading with LUTs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-capturing-imagination-best-shot-tips/"><u>2024 Approved The Art of Capturing Imagination Best Shot Tips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-creativity-iphone-camera-mastery-through-10-rules/"><u>2024 Approved Unleash Creativity IPhone Camera Mastery Through 10 Rules</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/emeditor-personalized-text-editor-menu-options/"><u>EmEditor: Personalized Text Editor Menu Options</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/enhance-your-flipbooks-with-personalized-fonts-and-colors-learn-how-to-create-cool-visuals-on-flipbuildercom/"><u>Enhance Your Flipbooks with Personalized Fonts and Colors – Learn How to Create Cool Visuals on FlipBuilder.com</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-your-discord-calls-back-on-track-steps-to-mend-voice-chat-problems/"><u>Getting Your Discord Calls Back on Track: Steps to Mend Voice Chat Problems</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-xr-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone XR to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-iphone-hdr-photo-perfection/"><u>In 2024, The Art of iPhone HDR Photo Perfection</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/two-hassle-free-techniques-safeguard-your-files-with-amazon-cloud-drive-at-no-charge/"><u>Two Hassle-Free Techniques: Safeguard Your Files with Amazon Cloud Drive at No Charge</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-potential-of-beantechs-bitwatch-s1-plus-a-compelling-budget-smartwatch-assessment/"><u>Unveiling the Potential of Beantech's Bitwatch S1 Plus: A Compelling Budget Smartwatch Assessment</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nhancing-youtube-visibility-with-featured-channels-techniques/"><u>[New] Enhancing YouTube Visibility with Featured Channels Techniques</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-foundations-of-building-your-twitter-profile/"><u>[New] In 2024, The Foundations of Building Your Twitter Profile</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tailoring-and-downloading-instagram-alerts-independently/"><u>[New] Tailoring & Downloading Instagram Alerts Independently</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-optibackup-insider-opinions/"><u>[Updated] 2024 Approved OptiBackup Insider Opinions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-motivational-films-for-a-zestful-life/"><u>2024 Approved Top 10 Motivational Films for a Zestful Life</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-troubleshoot-flaky-airdrop-links-simple-steps-to-solutions/"><u>2024 Approved Troubleshoot Flaky AirDrop Links Simple Steps to Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-x-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>Apple iPhone X Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/eu-customers-can-enjoy-the-full-altstore-experience-with-newly-provided-complimentary-access-to-pal-region-software/"><u>EU Customers Can Enjoy the Full AltStore Experience with Newly Provided Complimentary Access to PAL Region Software</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-oppo-reno-10-5g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Oppo Reno 10 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Realme V30? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-updating-device-drivers-in-windows-11/"><u>Step-by-Step Guide: Updating Device Drivers in Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-clip-connoisseurs-essential-list-of-retro-vhs-effects-for-2024/"><u>The Clip Connoisseur's Essential List of Retro VHS Effects for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-secret-art-of-hidden-streaming-instagrams-anonymous-spectators-guide-for-2024/"><u>The Secret Art of Hidden Streaming Instagram's Anonymous Spectators Guide for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Bridging Operating Systems: A Comprehensive Guide to Using Ubuntu Software on Your Windows 11 Machine"
-date: 2024-12-08T19:32:03.848Z
-updated: 2024-12-13T22:26:25.382Z
+date: 2024-12-19T04:51:01.216Z
+updated: 2024-12-22T17:49:46.916Z
 tags:
   - deals
 categories:
@@ -11,16 +11,16 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 ## Bridging Operating Systems: A Comprehensive Guide to Using Ubuntu Software on Your Windows 11 Machine
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Install WSL2 Kernel, activate Virtual Machine Platform, and make sure you have Admin rights before getting Ubuntu on Windows 11.
 * Enable Windows Subsystem for Linux, then download and install Ubuntu for WSL via Microsoft Store to run Linux apps on Windows 11.
 
  Did you know using Ubuntu-exclusive apps doesn't require overwriting your operating system? Unlock the true potential of your Windows desktop by using Ubuntu apps on Windows 11, enhancing your PC experience by blending the power of Linux and Windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Why Use Ubuntu Apps on Windows 11?
 
@@ -48,13 +48,13 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 ![WSL feature being turned on in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/flameshot-wsl-check-box.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now that the "OK" button has been selected, Windows 11 will begin setting up WSL on your system. This setup process should take a few minutes to complete. When the setup is complete, you must reboot your Windows PC. Select the "Restart now" button to reboot.
 
  Upon rebooting, log back into your Windows 11 desktop. Once you've logged back in, the Windows Subsystem for Linux will be enabled on Windows 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Installing Ubuntu
 
@@ -75,17 +75,21 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 ![Ubuntu WSL is installing itself to Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-is-installing.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once Ubuntu has finished its setup on Windows 11, you will see an empty terminal window, ready for you to interact with Ubuntu on your Windows 11 system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Basic Configuration Tips
 
  Here are some basic configuration tips to improve the WSL experience on Windows 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Windows and Linux File System Integration
@@ -98,16 +102,12 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 ![Ubuntu WSL's file access in the Windows 11 Explorer app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-selecting-ub.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To access Windows files from Ubuntu, navigate to the **/mnt/c** folder using the cd command. This method provides interaction with the Windows 11 **C:/** drive.
 
 cd /mnt/c
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Update your Ubuntu WSL app
@@ -179,20 +179,18 @@ wsl --update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-harnessing-the-full-spectrum-of-creativity-with-luts-in-video-editing/"><u>[New] In 2024, Harnessing the Full Spectrum of Creativity with LUTs in Video Editing</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/riple-points-tracker-the-effective-pathway-to-analyzing-youtube-profitability-for-2024/"><u>[New] Triple Points Tracker The Effective Pathway to Analyzing YouTube Profitability for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-top-picks-next-gen-vr-handwear/"><u>[New] Unveiling Top Picks Next Gen VR Handwear</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-how-to-upgrade-or-install-the-macos-sierra/"><u>[Updated] How to Upgrade or Install the macOs Sierra</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-full-capabilities-of-morphvox-voice-alteration/"><u>[Updated] Unlocking the Full Capabilities of MorphVOX Voice Alteration</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-top-rated-srt-translators-for-zero-cost/"><u>2024 Approved Unveiling the Top-Rated SRT Translators for Zero Cost</u></a></li>
-<li><a href="https://techtrends.techidaily.com/iphoneandroidpc/"><u>無料アプリを使って試せる! どんなデバイスでも安心してiPhone・Android・PC動画からの画像取り出し方法</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/best-iexplorer-substitutes-for-effortless-iphone-file-management-and-transfers/"><u>Best iExplorer Substitutes for Effortless iPhone File Management and Transfers</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210011865-9781071540930-escrever-para-ser-feliz/"><u>Escrever para ser feliz | Free Book</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mp4-files-on-edge-40-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How do you play MP4 files on Edge 40?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-80-pro-straight-screen-edition-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor 80 Pro Straight Screen Edition</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-tecno-spark-20mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Tecno Spark 20Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-the-power-of-animation-infusing-life-into-your-ig-story-texts/"><u>In 2024, Unlock the Power of Animation Infusing Life Into Your IG Story Texts</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-youtube-subscriber-awards-the-play-button-awards-for-creators/"><u>In 2024, YouTube Subscriber Awards! The Play Button Awards for Creators</u></a></li>
-<li><a href="https://some-skills.techidaily.com/swiftly-navigate-ios-magnification-features-for-2024/"><u>Swiftly Navigate iOS Magnification Features for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-techniques-for-seamless-blending-of-hdr-photographs-in-lightroom/"><u>[New] Techniques for Seamless Blending of HDR Photographs in Lightroom</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-mastering-the-art-of-locating-fb-lately-seen-videos-for-2024/"><u>[Updated] Mastering the Art of Locating Fb Lately Seen Videos for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-toolwiz-demystified-detailed-app-evaluation-for-photo-experts-for-2024/"><u>[Updated] Toolwiz Demystified Detailed App Evaluation for Photo Experts for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-cinemas-next-frontier-virtual-reality/"><u>[Updated] Unlocking Cinema's Next Frontier Virtual Reality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-ultimate-8-ranked-apps-mobile-video-tile-masters-freepaid/"><u>[Updated] Unveiling the Ultimate #8 Ranked Apps Mobile Video Tile Masters (Free/Paid)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-infinix-note-30i-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Infinix Note 30i Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-leading-minds-in-online-creation/"><u>In 2024, Leading Minds in Online Creation</u></a></li>
+<li><a href="https://solve-news.techidaily.com/jpeggif/"><u>JPEG画像からGIF動画への変換手順</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-windows-a-simple-way-to-fresh-up-your-devices-battery-drivers/"><u>Mastering Windows: A Simple Way to Fresh Up Your Device's Battery Drivers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/simply-sharing-whats-on-screen-ultimate-screenshotting-tricks-for-laptop-users-dell-lenovo-and-mac-smartpc-tips/"><u>Simply Sharing What's On-Screen: Ultimate Screenshotting Tricks for Laptop Users (Dell, Lenovo, and Mac) | SmartPC Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-7-solutions-to-sharpen-your-iphones-picture-clarity/"><u>Top 7 Solutions to Sharpen Your iPhone's Picture Clarity</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-optimal-video-playback-by-tuning-speed-in-snapchat-for-2024/"><u>Unlock Optimal Video Playback by Tuning Speed in Snapchat for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/zippy-zeal-in-zoom-outs-adding-text-movement-on-stories/"><u>Zippy Zeal in Zoom-Outs Adding Text Movement on Stories</u></a></li>
 </ul></div>
 

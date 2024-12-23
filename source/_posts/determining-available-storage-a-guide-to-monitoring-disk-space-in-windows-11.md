@@ -1,7 +1,7 @@
 ---
 title: "Determining Available Storage: A Guide to Monitoring Disk Space in Windows 11"
-date: 2024-12-08T18:06:46.443Z
-updated: 2024-12-13T20:21:58.141Z
+date: 2024-12-17T22:26:49.298Z
+updated: 2024-12-22T21:47:24.747Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 ## Determining Available Storage: A Guide to Monitoring Disk Space in Windows 11
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 * [Check Free Space in the Settings App](https://solve-manuals.techidaily.com/idpidp-revolutionary-victories-in-investment-decision-processes/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -41,11 +41,11 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 
 ![Click 'This PC' on the left, then note the free storage in your PC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-6.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In general, [Windows needs at least a few gigabytes of free storage space to perform optimally](https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-oneplus-12-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/). For example, it [uses this to cache important programs and virtual memory to disk](https://extra-tips.techidaily.com/updated-cinematic-masterpiece-dialogues/), which speeds up the operation of Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Check Free Space in the Settings App
 
@@ -53,21 +53,21 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 
 ![Search for 'storage,' then click 'Storage Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-storage-settings.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Scroll down a bit in the Storage window and click "View Storage on Other Drives" under More Storage Settings. 
 
 ![Click 'View Storage on Other Drives.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-view-storage.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You'll see a list of every storage device attached to your PC—internal and external. 
 
 ![The storage drives on the example PC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-storage-drives.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you're running low on space, consider [freeing up storage](https://youtube-clips.techidaily.com/culinary-carousel-swirling-up-top-food-network-names-for-2024/) by [uninstalling programs you no longer use](https://some-approaches.techidaily.com/swift-closure-of-a-linkedin-account-the-how-to-guide-for-2024/). Also, Windows 10 includes a handy "Free Up Space" tool that [helps you clean up your hard drive](https://vp-tips.techidaily.com/launch-free-dvd-playback-capabilities-on-windowsmac-laptops/).
 
@@ -86,15 +86,17 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-the-definitive-guide-to-adding-closed-captions-in-vimeo-footage/"><u>[New] In 2024, The Definitive Guide to Adding Closed Captions in Vimeo Footage</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-excellent-buys-for-4k-shooting-on-a-budget-(1000-for-2024/"><u>[Updated] Excellent Buys for 4K Shooting on a Budget <$1,000 for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-lunapics-power-expert-tips-and-hacks/"><u>[Updated] Unlocking LunaPic's Power Expert Tips and Hacks</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/online-m4b-and-m4a-movavi/"><u>最適な無料Online M4B & M4Aファイル変換 - Movaviでお試しください</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elevating-your-photos-using-photoshops-radial-toolkit/"><u>Elevating Your Photos Using Photoshop's Radial Toolkit</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-iphone-14-pro-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your iPhone 14 Pro in Security Lockout? Proper Ways To Unlock</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-professional-photo-coloring/"><u>In 2024, The Ultimate Guide to Professional Photo Coloring</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-velocity-for-the-visionary-quick-frame-android-tools/"><u>In 2024, Velocity for the Visionary Quick-Frame Android Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/investigating-magix-audio-mixer-mastery-for-2024/"><u>Investigating MAGIX Audio Mixer Mastery for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mobile-recorder-transcribe-calls-iphone-2024/"><u>Mobile Recorder Transcribe Calls - iPhone 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tart-your-affordable-webinar-journey-with-youtube-for-2024/"><u>[New] Start Your Affordable Webinar Journey with YouTube for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-unleashing-the-full-power-of-apple-podcasts-downloads/"><u>[Updated] In 2024, Unleashing the Full Power of Apple Podcasts Downloads</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-toolwiz-photosapp-insights-the-full-2023-perspective-on-photography-tools/"><u>2024 Approved Toolwiz PhotosApp Insights - The Full 2023 Perspective on Photography Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unified-social-media-platforms-insta-tik-techniques/"><u>2024 Approved Unified Social Media Platforms Insta-Tik Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-a-harmonic-narrative-adding-youtube-music-to-vids/"><u>Crafting a Harmonic Narrative Adding YouTube Music to Vids</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-apple-iphone-14-pro-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change your Apple iPhone 14 Pro Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209840717-9780992481674-messages-from-the-spirit-realm/"><u>Messages From The Spirit Realm | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-your-steam-profile-hunt/"><u>Streamline Your Steam Profile Hunt</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/top-ten-webm-to-mp3-converters-for-2024/"><u>Top Ten WebM to MP3 Converters for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/turn-your-social-tweets-into-mp3-audio-files-for-2024/"><u>Turn Your Social Tweets Into MP3 Audio Files for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-hdcp-errors-causes-solutions-and-troubleshooting-steps/"><u>Understanding HDCP Errors: Causes, Solutions & Troubleshooting Steps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-potential-advanced-techniques-for-slug-line-creation-for-2024/"><u>Unlocking Potential Advanced Techniques for Slug Line Creation for 2024</u></a></li>
 </ul></div>
 

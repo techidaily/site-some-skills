@@ -1,7 +1,7 @@
 ---
 title: "1. Uber Autonomous Vehicles in Vegas Require Human Supervision: Current Status"
-date: 2024-12-12T01:05:01.856Z
-updated: 2024-12-13T18:21:31.364Z
+date: 2024-12-18T21:04:28.360Z
+updated: 2024-12-23T06:06:03.621Z
 tags:
   - cutting-edge
 categories:
@@ -48,26 +48,22 @@ Related: [Mercedes Wants You to Pay a Subscription for Full Speed](https://windo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-master-iphone-photography-rotate-tilt-and-flip-effortlessly/"><u>[Updated] Master iPhone Photography Rotate, Tilt & Flip Effortlessly</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-seamless-sound-moves-in-premiere-pro/"><u>[Updated] Unveiling Seamless Sound Moves in Premiere Pro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-thrill-in-the-cold-olympic-showcase-snowboarders-at-peak-performance/"><u>2024 Approved Thrill in the Cold Olympic Showcase - Snowboarders at Peak Performance</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transition-tunes-mastering-crossfading-in-music/"><u>2024 Approved Transition Tunes Mastering Crossfading in Music</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-creative-potential-with-top-tips-for-gopro-timelapses/"><u>2024 Approved Unleash Creative Potential with Top Tips for GoPro Timelapses</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/easy-fixes-for-pc-gamers-dealing-with-persistent-deathloop-game-crashes/"><u>Easy Fixes for PC Gamers: Dealing with Persistent Deathloop Game Crashes</u></a></li>
-<li><a href="https://discover-best.techidaily.com/enabling-or-disabling-automatic-updates-with-ease-a-guide-by-yl-computing/"><u>Enabling or Disabling Automatic Updates with Ease: A Guide by YL Computing</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-tecno-phantom-v-flip-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Phantom V Flip without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-infinix-smart-8-plus-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Infinix Smart 8 Plus Location | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-uncluttered-focus-affinity-photos-cleanup-technique/"><u>In 2024, Uncluttered Focus Affinity Photo's Cleanup Technique</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-vectors-unveiled-a-novices-path-through-types-and-apps/"><u>In 2024, Vectors Unveiled A Novice’s Path Through Types and Apps</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-nokia-g42-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Nokia G42 5G – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-fiscally-friendly-celestial-saving-service-for-files-for-2024/"><u>The Fiscally Friendly Celestial Saving Service for Files for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-smart-way-to-combine-igtv-with-stories/"><u>The Smart Way to Combine IGTV with Stories</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-unresponsive-xbox-one-controllers/"><u>Troubleshooting Guide: Fixing Unresponsive Xbox One Controllers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-list-of-text-tools-and-plugins-for-2024/"><u>Ultimate List of Text Tools & Plugins for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-apples-hidden-gem-the-amazing-undiscovered-iphone-functionality-revealed-on-zdnet/"><u>Unveiling Apple's Hidden Gem: The Amazing Undiscovered iPhone Functionality Revealed on ZDNet</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-enhance-online-presence-master-facebook-video-autoplay-for-2024/"><u>[New] Enhance Online Presence Master Facebook Video Autoplay for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-elevate-video-engagement-by-inserting-captions/"><u>[Updated] Elevate Video Engagement by Inserting Captions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-path-to-flawless-video-subtitles-via-internet-services/"><u>[Updated] The Ultimate Path to Flawless Video Subtitles via Internet Services</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-best-10-non-game-console-screen-capture-tools/"><u>2024 Approved Best 10 Non-Game Console Screen Capture Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-superior-pfv-optimization-in-tardy-action/"><u>2024 Approved Superior PFV Optimization in Tardy Action</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transformative-visual-experiences-with-tiktok-enhancements/"><u>2024 Approved Transformative Visual Experiences with TikTok Enhancements</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-virtual-realms-on-your-phone-with-simple-steps/"><u>2024 Approved Unlock Virtual Realms on Your Phone with Simple Steps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/essential-tools-for-free-web-conferencing-a-comprehensible-guide-for-2024/"><u>Essential Tools for FREE Web Conferencing A Comprehensible Guide for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-honor-90-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Honor 90 Pro to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-tier-mobile-and-desktop-player-for-avis/"><u>In 2024, Top-Tier Mobile and Desktop Player for AVIs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/optic-oasis-discover-the-top-10-lenses-for-2024/"><u>Optic Oasis Discover the Top 10 Lenses for 2024</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/simple-methods-for-uninstalling-programs-from-your-ipad/"><u>Simple Methods for Uninstalling Programs From Your iPad</u></a></li>
+<li><a href="https://win-forum.techidaily.com/upgrade-your-system-the-ultimate-tutorial-on-refreshing-windows-11-driver-software/"><u>Upgrade Your System: The Ultimate Tutorial on Refreshing Windows 11 Driver Software</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

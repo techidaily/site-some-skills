@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary 3D Ink Requires Just Saltwater: No Light or Heat Needed"
-date: 2024-12-12T22:22:34.146Z
-updated: 2024-12-13T20:17:41.288Z
+date: 2024-12-16T23:47:27.699Z
+updated: 2024-12-23T04:40:14.656Z
 tags:
   - cutting-edge
 categories:
@@ -40,24 +40,24 @@ A multinational team of researchers has developed a novel 3D printing ink that c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-top-10-ai-powered-name-generators-for-podcasts-online/"><u>[New] In 2024, Top 10 AI-Powered Name Generators for Podcasts Online</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-pinnacle-picture-enhancer-resolution-rise/"><u>2024 Approved Pinnacle Picture Enhancer Resolution Rise</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-superbackground-cleanup-suite/"><u>2024 Approved SuperBackground Cleanup Suite</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-sequel-of-seconds-measuring-20mb-footage/"><u>In 2024, Sequel of Seconds Measuring 20MB Footage</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-social-sessions-with-zoom-and-facebook-live-techniques/"><u>In 2024, Streamlining Social Sessions with ZOOM & Facebook Live Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-crafting-dynamic-luts/"><u>In 2024, The Art of Crafting Dynamic LUTs</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719579910213-journey-through-hindi-why-mondlys-online-study-triumphs/"><u>Journey Through Hindi: Why Mondly's Online Study Triumphs!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/motorola-moto-g73-5g-won-t-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Motorola Moto G73 5G won’t play AVCHD .mts files</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snag-the-best-virtual-reality-bargain-of-october-with-metas-discounted-512gb-quest-3-prime-day-specials-endure/"><u>Snag the Best Virtual Reality Bargain of October with Meta’s Discounted 512GB Quest 3 – Prime Day Specials Endure!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-10-most-shared-stock-photos-and-their-tales-for-2024/"><u>Top 10 Most Shared Stock Photos and Their Tales for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-your-visuals-master-11-key-techniques-for-color-correction-for-2024/"><u>Transform Your Visuals Master 11 Key Techniques for Color Correction for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-power-supplies-for-hero5-official-and-alternative-models-for-2024/"><u>Ultimate Power Supplies for Hero5 Official & Alternative Models for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unraveling-virtual-physical-coexistence-what-is-mixed-reality-for-2024/"><u>Unraveling Virtual-Physical Coexistence What Is Mixed Reality for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harnessing-the-power-of-iphones-shutter-speed-for-movement/"><u>[New] Harnessing the Power of iPhone's Shutter Speed for Movement</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-are-reviews-on-goods-and-services-for-cash/"><u>[New] In 2024, Are Reviews on Goods & Services for Cash?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-social-stunt-planters-handbook-meme-mastery-at-9gag/"><u>[New] The Social Stunt Planters' Handbook Meme Mastery at 9GAG</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-10-subtitle-converters-no-cost-for-srt-files/"><u>[New] Top 10 Subtitle Converters, No Cost for SRT Files</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-enjoy-your-old-favorites-top-5-ps1-game-simulators-on-pc/"><u>[Updated] Enjoy Your Old Favorites Top 5 PS1 Game Simulators on PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-your-images-basic-tips-with-lunapic/"><u>[Updated] Transform Your Images Basic Tips with LunaPic</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-perfecting-your-pics-with-facetune-a-full-guide/"><u>2024 Approved Perfecting Your Pics with Facetune - A Full Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-11-techniques-for-perfecting-color-in-post-production/"><u>2024 Approved Top 11 Techniques for Perfecting Color in Post-Production</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-hands-on-the-latest-sound-blaster-audigy-fx-drivers-free-downloads-available/"><u>Get Your Hands on the Latest Sound Blaster Audigy FX Drivers - Free Downloads Available!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-13-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 13</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-xiaomi-redmi-k70e-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Xiaomi Redmi K70E online without jailbreak</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-stop-quittime-video-capture-procedures/"><u>In 2024, Stop QuitTime Video Capture Procedures</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/quick-guide-to-decreasing-video-sizes-using-online-video-resizer-services/"><u>Quick Guide to Decreasing Video Sizes Using Online Video Resizer Services</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tailoring-humor-with-9gag-your-personal-meme-making-manual-for-2024/"><u>Tailoring Humor with 9GAG Your Personal Meme Making Manual for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-oppo-reno-11f-5g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Oppo Reno 11F 5G Phone Network-Ready</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

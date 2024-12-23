@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Resource for Advanced Periscope Techniques"
-date: 2024-08-21T00:00:39.994Z
-updated: 2024-08-22T00:00:39.994Z
+date: 2024-12-16T16:46:35.099Z
+updated: 2024-12-22T21:41:43.102Z
 tags: 
   - screen-recording
   - ai video
@@ -27,8 +27,9 @@ thumbnail: https://thmb.techidaily.com/3cd047344d86e8920c72e515095d66dfd7e255dbc
  Mar 27, 2024• Proven solutions
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Knowing the functions and settings
 
  Periscope is a Twitter special application for live streaming needs and the best part is it works on mobile platforms. Viewers can add comments on videos and they can also forward “hearts” to streamers as a token of appreciation for their impressive work. The app is actually very interaction with four major tabs:
@@ -39,16 +40,10 @@ thumbnail: https://thmb.techidaily.com/3cd047344d86e8920c72e515095d66dfd7e255dbc
 
  The second list contains information about all those broadcasts that you have viewed within last 24 hours.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![use-periscope-1](https://images.wondershare.com/filmora/article-images/use-periscope-1.jpg)
 
  2\. **The second tab** on application is used to display list of public broadcasts on global level and users are free to join all of them. They are developed on the basis of your geographical location.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![use-periscope-2](https://images.wondershare.com/filmora/article-images/use-periscope-2.jpg)
 
  3\. **The third tab** again contains the information about list of live public broadcasts in list format.
@@ -58,6 +53,14 @@ thumbnail: https://thmb.techidaily.com/3cd047344d86e8920c72e515095d66dfd7e255dbc
  4\. **The fourth tab** is designed to assist users with easy search for followers. It also displays settings for your own profile and allows users to make basic adjustments for followers.
 
 ![use-periscope-4](https://images.wondershare.com/filmora/article-images/use-periscope-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to watch Periscope Video?
 
@@ -79,21 +82,23 @@ thumbnail: https://thmb.techidaily.com/3cd047344d86e8920c72e515095d66dfd7e255dbc
 
  During your very first visit to broadcast screen, you will find a permission required pop up. Here you have to hit on allow permissions option. Now enable all three options that appear on screen.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![use-periscope-6](https://images.wondershare.com/filmora/article-images/use-periscope-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you are at broadcast screen where you have to enter name or title of your broadcast event. Users can adjust their location preferences while converting broadcasts from private to public or vice versa view. Adjust the chat options and finally you will reach at your Twitter link. If you want to capture feeds from webcam then it can be switched easily by simply double tapping on device screen. Once all these controls have been adjusted then your app provides an event summery, you can approve it or edit before making your post live. It will also provide you details about how many hearts you have received from viewers.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![use-periscope-7](https://images.wondershare.com/filmora/article-images/use-periscope-7.jpg)
 
  Once your broadcast becomes live then it will stay online for next 24 hours and all viewers and followers will be able to replay, watch as well as share the information with other users. The collection of hearts as viewer’s response may go on.
 
 ![use-periscope-8](https://images.wondershare.com/filmora/article-images/use-periscope-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tips to get more followers or viewers on Periscope
 
@@ -113,9 +118,6 @@ thumbnail: https://thmb.techidaily.com/3cd047344d86e8920c72e515095d66dfd7e255dbc
 
  7\. Try to build a strong community and always share a valuable content as per interest of your viewers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -128,6 +130,10 @@ Follow @Richard Bennett
 
  Mar 27, 2024• Proven solutions
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Knowing the functions and settings
 
  Periscope is a Twitter special application for live streaming needs and the best part is it works on mobile platforms. Viewers can add comments on videos and they can also forward “hearts” to streamers as a token of appreciation for their impressive work. The app is actually very interaction with four major tabs:
@@ -138,14 +144,19 @@ Follow @Richard Bennett
 
  The second list contains information about all those broadcasts that you have viewed within last 24 hours.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![use-periscope-1](https://images.wondershare.com/filmora/article-images/use-periscope-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2\. **The second tab** on application is used to display list of public broadcasts on global level and users are free to join all of them. They are developed on the basis of your geographical location.
 
 ![use-periscope-2](https://images.wondershare.com/filmora/article-images/use-periscope-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3\. **The third tab** again contains the information about list of live public broadcasts in list format.
 
@@ -153,14 +164,8 @@ Follow @Richard Bennett
 
  4\. **The fourth tab** is designed to assist users with easy search for followers. It also displays settings for your own profile and allows users to make basic adjustments for followers.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![use-periscope-4](https://images.wondershare.com/filmora/article-images/use-periscope-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## How to watch Periscope Video?
 
  If you want to enjoy a live broadcast on Periscope then you can either try the list format or go for the map version on global broadcast tab; simply touch over the ongoing event that seems interesting to you. It also allows real time interactions with the broadcasters as well as other users that are connected during a particular live event.
@@ -176,8 +181,9 @@ Follow @Richard Bennett
 ![use-periscope-5](https://images.wondershare.com/filmora/article-images/use-periscope-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Broadcast on Periscope?
 
  As per the default setting, broadcasts stay public that means anyone can watch what you have uploaded. But in case if you want to prioritize your audience then Periscope application offers easy personalization. Use private broadcast feature to invite selected audience on your broadcasts. This broadcast setting icon is actually a small camera like shape that can be used from first as well as second tab easily.
@@ -188,25 +194,10 @@ Follow @Richard Bennett
 
  Now you are at broadcast screen where you have to enter name or title of your broadcast event. Users can adjust their location preferences while converting broadcasts from private to public or vice versa view. Adjust the chat options and finally you will reach at your Twitter link. If you want to capture feeds from webcam then it can be switched easily by simply double tapping on device screen. Once all these controls have been adjusted then your app provides an event summery, you can approve it or edit before making your post live. It will also provide you details about how many hearts you have received from viewers.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![use-periscope-7](https://images.wondershare.com/filmora/article-images/use-periscope-7.jpg)
 
  Once your broadcast becomes live then it will stay online for next 24 hours and all viewers and followers will be able to replay, watch as well as share the information with other users. The collection of hearts as viewer’s response may go on.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![use-periscope-8](https://images.wondershare.com/filmora/article-images/use-periscope-8.jpg)
 
 ## Tips to get more followers or viewers on Periscope
@@ -227,9 +218,6 @@ Follow @Richard Bennett
 
  7\. Try to build a strong community and always share a valuable content as per interest of your viewers.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -237,7 +225,6 @@ Richard Bennett
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -261,8 +248,22 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-maximizing-impact-10-indispentic-instagram-editors-apps/"><u>[New] 2024 Approved Maximizing Impact 10 Indispentic Instagram Editors' Apps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-windows-snapshot-mastery-3-easy-approaches/"><u>[New] Windows Snapshot Mastery (3 Easy Approaches)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-maximizing-revenue-a-complete-framework-for-tracking-youtube-views-and-income/"><u>[Updated] 2024 Approved Maximizing Revenue A Complete Framework for Tracking YouTube Views & Income</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-mastering-oculus-the-premium-vr-gaming-headset/"><u>[Updated] Mastering Oculus The Premium VR Gaming Headset</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-understanding-quantum-hdrs-impact-on-photography/"><u>[Updated] Understanding Quantum HDR's Impact on Photography</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-fast-framerates-in-photos-innovating-with-windows-paint-app/"><u>2024 Approved Fast Framerates in Photos Innovating with Windows Paint App</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-superior-vr-equipment-for-drone-flight/"><u>2024 Approved Superior VR Equipment for Drone Flight</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-techniques-for-turning-youtube-hosted-tweets-into-audio-files/"><u>2024 Approved Techniques for Turning YouTube-Hosted Tweets Into Audio Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unmatched-clarity-in-filming-top-rated-camera-stabilizers-guide/"><u>2024 Approved Unmatched Clarity in Filming Top-Rated Camera Stabilizers Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-strategies-to-tackle-coredll-cannot-be-located-warnings/"><u>Effective Strategies to Tackle Core.dll Cannot Be Located Warnings</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-techniques-for-undoing-windows-update-installations-in-win10-and-win11-via-revouninstaller/"><u>Effective Techniques for Undoing Windows Update Installations in Win10 & Win11 via RevoUninstaller</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Honor Magic Vs 2? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-complete-users-manual-to-toms-cutting-edge-technology-insights/"><u>The Complete User's Manual to Tom's Cutting-Edge Technology Insights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-ranked-cloud-stores-analysis-and-pricing-insights-for-2024/"><u>Top-Ranked Cloud Stores Analysis & Pricing Insights for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleashing-chatgpts-potential-as-your-ideal-dungeon-master-companion/"><u>Unleashing ChatGPT's Potential as Your Ideal Dungeon Master Companion</u></a></li>
+</ul></div>
 

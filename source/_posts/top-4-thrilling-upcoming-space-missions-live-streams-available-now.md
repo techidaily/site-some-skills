@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Thrilling Upcoming Space Missions: Live Streams Available Now!"
-date: 2024-12-11T03:25:01.887Z
-updated: 2024-12-13T17:44:42.812Z
+date: 2024-12-21T19:47:01.972Z
+updated: 2024-12-22T17:39:51.533Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
 ## Top 4 Thrilling Upcoming Space Missions: Live Streams Available Now!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -38,7 +38,7 @@ _[NASA](https://www.nasa.gov/feature/goddard/2022/volunteers-worldwide-to-track-
  The launch has already been pushed back several times, due to technical problems and weather. The first launch window was [set for August 29, 2022](https://blogs.nasa.gov/artemis/2022/08/28/mission-management-team-go-to-proceed-with-tanking-for-artemis-i-mission/), but it was [cancelled](https://blogs.nasa.gov/artemis/2022/08/29/launch-attempt-scrubbed/) due to detected problems with cooling an engine. NASA tried again on September 3, but [stopped](https://blogs.nasa.gov/artemis/2022/09/03/artemis-i-launch-attempt-scrubbed/) due to a liquid hydrogen leak in the core stage, then the rocket was [rolled back](https://blogs.nasa.gov/artemis/2022/09/27/nasas-moon-rocket-and-spacecraft-arrive-at-vehicle-assembly-building-2/) into the Vehicle Assembly Building as [Hurricane Ian](https://en.wikipedia.org/wiki/Hurricane%5FIan) approached Florida. It's now back on the launchpad, but there's still a chance that Tropical Storm Nicole could [change NASA's plans again](https://blogs.nasa.gov/artemis/2022/11/08/nasa-prepares-rocket-spacecraft-ahead-of-tropical-storm-nicole-re-targets-launch/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Cargo Dragon Launch: November 18, 2022
@@ -49,13 +49,13 @@ _[NASA](https://www.nasa.gov/feature/goddard/2022/volunteers-worldwide-to-track-
 
 ![Photo of SpaceX Falcon 9 rocket with Dragon launch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/space_x_resupply_for_advisory_oct_25.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _[NASA](https://blogs.nasa.gov/spacex-crs-26/2022/11/03/nasa-invites-media-to-spacexs-26th-resupply-launch-to-space-station/)_
 
  The current launch is targeted for November 18, and will take place at Launch Complex 39A at NASA's Kennedy Space Center in Florida. SpaceX will likely show a livestream on [its YouTube channel](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU203665/https://www.youtube.com/c/SpaceX), and the launch may also appear on the [NASA app](https://www.nasa.gov/connect/apps.html), the [agency's website](https://www.nasa.gov/live), and the [NASA YouTube channel](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU203665/https://www.youtube.com/c/NASA).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Intuitive Machines Moon Payload: December 22, 2022
 
@@ -65,12 +65,16 @@ _[NASA](https://blogs.nasa.gov/spacex-crs-26/2022/11/03/nasa-invites-media-to-sp
 
 ![Render image of the Intuitive Machines Nova-C lander](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/im-3_moonscape_logo-Large.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Render image of the Intuitive Machines Nova-C lander
 
  The launch is currently scheduled for December 22, 2022, using a SpaceX Falcon 9 rocket. Because SpaceX is handling the launch, there will likely be a livestream on [SpaceX's YouTube channel](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU203665/https://www.youtube.com/c/SpaceX), or possibly a stream on the [NASA YouTube channel](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU203665/https://www.youtube.com/c/NASA).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Boeing Crew Flight Test: April 2023
@@ -78,10 +82,6 @@ Render image of the Intuitive Machines Nova-C lander
  SpaceX isn't the only American company trying to carry people to space -- Boeing has also been trying to make it happen. The company's [CST-100 Starliner](https://en.wikipedia.org/wiki/Boeing%5FStarliner) spacecraft looks a bit like the SpaceX Dragon and Apollo command module, but is slightly larger than both vehicles. Boeing and NASA already completed two space flights with no one onboard, but the next attempt will have a crew.
 
 ![Photo of Barry “Butch” Wilmore and Sunita “Suni” Williams in front of a plane](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/Boeing-for-CCP-blog-768x512.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _[NASA / Robert Markowitz](https://blogs.nasa.gov/commercialcrew/category/boeing/)_
 
@@ -120,19 +120,18 @@ Related: [The James Webb Telescope Just Captured the "Pillars of Creation"](http
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/rom-oven-to-screen-cooking-videos-unveiled/"><u>[New] From Oven to Screen Cooking Videos Unveiled</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-memetic-design-top-10-must-haves/"><u>[New] Memetic Design Top 10 Must-Haves</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-a-beginners-roadmap-to-professional-sports-edits/"><u>[Updated] In 2024, A Beginner's Roadmap to Professional Sports Edits</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-8-vr-gaming-accessories/"><u>[Updated] Top 8 VR Gaming Accessories</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-music-craft-with-our-high-quality-beat-detection-software/"><u>2024 Approved Streamline Music Craft with Our High-Quality Beat Detection Software</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/external-hdds-in-transparency-fixing-problems-in-macs/"><u>External HDDs in Transparency: Fixing Problems in Macs</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-most-recent-nvidia-rtx-2080-drivers-for-your-windows-pc-compatible-with-win10-win7-and-win8/"><u>Get the Most Recent NVIDIA RTX 2080 Drivers for Your Windows PC: Compatible with Win10, Win7 & Win8</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tips-for-gaining-attention-via-snapchat-star/"><u>In 2024, Tips for Gaining Attention via Snapchat Star</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/maximizing-efficiency-discover-the-leading-speech-to-text-apps-for-macos/"><u>Maximizing Efficiency Discover the Leading Speech-to-Text Apps for MacOS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/securing-your-system-editing-registry-access-in-win11/"><u>Securing Your System: Editing Registry Access in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stop-unintentional-hotkey-engagements-on-pc/"><u>Stop Unintentional Hotkey Engagements on PC</u></a></li>
-<li><a href="https://some-skills.techidaily.com/supreme-boundless-data-depot-for-2024/"><u>Supreme Boundless Data Depot for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unleashing-potential-vr-innovations-for-fun-and-games-for-2024/"><u>Unleashing Potential VR Innovations for Fun & Games for 2024</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-y28-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo Y28 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-editors-deep-dive-into-pixelcut-pro-latest-features-in-review-for-2024/"><u>[New] Editor's Deep Dive Into PixelCut Pro - Latest Features in Review for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-innovative-setup-essentials-for-game-streaming/"><u>[Updated] 2024 Approved Innovative Setup Essentials for Game Streaming</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-scrutinizing-the-performance-of-dji-solo-vision-goggles/"><u>[Updated] 2024 Approved Scrutinizing the Performance of DJi Solo Vision Goggles</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-expert-mac-system-for-high-definition-screen-plus-audio-recording/"><u>[Updated] In 2024, Expert Mac System for High Definition Screen + Audio Recording</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-pioneers-in-stop-motion-top-15-must-watch-films/"><u>[Updated] Pioneers in Stop Motion Top 15 Must-Watch Films</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-quintessential-accessories-list-for-sj4000-lovers/"><u>[Updated] The Quintessential Accessories List for SJ4000 Lovers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/breakthrough-tactics-for-capturing-virtual-conferences/"><u>Breakthrough Tactics for Capturing Virtual Conferences</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-errors-related-to-absent-propsysdll-files-on-your-computer/"><u>Fixing Errors Related to Absent PropSys.dll Files on Your Computer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-top-artisans-in-sound-and-video-craftsminas-online/"><u>In 2024, The Top Artisans in Sound and Video Craftsminas Online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-gamers-screen-guide-best-monitors-at-4k-quality/"><u>In 2024, Top Gamers' Screen Guide Best Monitors at 4K Quality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-the-potency-of-open-source-video-engines/"><u>In 2024, Unleashing the Potency of Open Source Video Engines</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-ai-image-creation-leveraging-dall-e-with-gpt-4/"><u>Mastering AI Image Creation: Leveraging DALL-E with GPT-4</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/secure-quick-and-free-screen-captures-on-windows-8/"><u>Secure, Quick, & Free Screen Captures on Windows 8</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Evaluating Secondhand Windows PCs – 8 Key Points
-date: 2024-12-08T20:14:46.537Z
-updated: 2024-12-14T01:48:30.174Z
+date: 2024-12-21T01:51:11.530Z
+updated: 2024-12-22T19:27:10.610Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## The Ultimate Guide to Evaluating Secondhand Windows PCs – 8 Key Points
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -29,7 +25,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Buying a used laptop can indeed save you money, but it does come with some risks. This is why you should thoroughly examine the laptop before closing the deal to avoid unpleasant surprises later on. If you doubt the credibility of the seller, here's how you can test the used laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Test the Keyboard and Trackpad
@@ -38,13 +34,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Keyboard tester typing letters in lowercase with Caps Lock off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-keyboard-tester-typing-letters-in-lowercase-with-caps-lock-off.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To test the trackpad, hover over the screen to gauge its responsiveness. Then, experiment with different trackpad gestures, such as pinch-to-zoom and two-finger scroll, to see which ones are supported. If you have another laptop, you can compare trackpad responsiveness by conducting a touchpad accuracy test on both laptops using the [No-Cursor website](https://no-cursor.com/).
 
  This will help you confirm whether the trackpad on your new laptop is equally or more responsive than the other one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Test the Speakers and Built-In Microphone
 
@@ -53,6 +49,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To test the built-in speakers, click on "Speakers" under Output, which will open the sound settings. Here, click on the "Test" button next to Format. If you hear clear sound coming out of your laptop speaker without distortion or muffling, it's working properly. If the audio output is unclear, there may be an issue.
 
 ![Testing the laptop speaker in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/1-testing-the-laptop-speaker-in-settings.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To [test the built-in microphone](https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-y200e-5g-drfone-by-drfone-virtual-android/), return to the sound settings, click on "Microphone Array," and then click on the "Start Test" button next to Test Your Microphone. Speak for a few seconds, then stop the test. If you see a decent volume percentage recorded, the microphone is working as it should.
 
@@ -78,15 +78,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Checking the laptop battery report.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_5.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Ensure the Laptop Isn't Stolen
 
  If you're thinking about buying a used laptop from an unknown seller, make sure that it hasn't been stolen. One way to check this is to request a purchase receipt from the seller. If they are unable to provide one, this could be a red flag. If the laptop hasn't been reset, is password-protected, or is locked, these signs indicate that it's likely a stolen device.
 
  You can also confirm your suspicions by getting the laptop's serial number and contacting the manufacturer to verify whether the device has been reported stolen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Perform the Physical Inspection
 
@@ -101,7 +101,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Start by connecting your laptop to Wi-Fi. Then, [test its Ethernet port](https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/) by plugging it directly into the router. If the internet connection works well, test the audio jacks with headphones. Similarly, check the USB ports by connecting a wired device. Finally, make sure Bluetooth is working by pairing a Bluetooth-powered device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Check the Health of RAM and Storage Drive
@@ -133,21 +133,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-designing-professional-youtube-editors-workflow/"><u>[New] Designing Professional YouTube Editors' Workflow</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-role-of-burst-mode-in-action-sports-filming/"><u>[New] The Role of Burst Mode in Action Sports Filming</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-crossfade-sounds-using-audacity/"><u>[New] The Ultimate Guide to Crossfade Sounds Using Audacity</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-crystal-crisp-playback-ps5s-favorite-hdmi-21-displays/"><u>[Updated] 2024 Approved Crystal Crisp Playback PS5's Favorite HDMI 2.1 Displays</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-realme-12-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://win-online.techidaily.com/comment-resoudre-un-etat-plein-dans-la-boite-mail-microsoft-outlook-guide-detaille-avec-astuce-de-protection/"><u>Comment Résoudre Un État Plein Dans La Boîte Mail Microsoft Outlook : Guide Détaillé Avec Astuce De Protection</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/discover-the-best-21-speech-to-text-solutions-for-flawless-conversion-technology/"><u>Discover the Best 21 Speech-to-Text Solutions for Flawless Conversion Technology</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamline-your-content-delivery-with-tailored-srt-upload-practices-on-media-outlets/"><u>In 2024, Streamline Your Content Delivery with Tailored SRT Upload Practices on Media Outlets</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-techniques-to-enhance-your-video-gaming-archive/"><u>In 2024, Techniques to Enhance Your Video Gaming Archive</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-pinnacle-of-visual-expression-best-mac-drawing-tools/"><u>In 2024, The Pinnacle of Visual Expression - Best Mac Drawing Tools</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-unleash-your-creativity-mp4-video-editing-tips-and-tricks-for-mac-and-windows/"><u>In 2024, Unleash Your Creativity MP4 Video Editing Tips and Tricks for Mac and Windows</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-vn-video-editor-for-pc-a-compact-review-of-features-and-performance/"><u>In 2024, VN Video Editor for PC A Compact Review of Features and Performance</u></a></li>
-<li><a href="https://some-skills.techidaily.com/streamlining-tiktok-production-zooms-role-for-2024/"><u>Streamlining TikTok Production Zoom's Role for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/superior-5-cameras-for-extended-time-lapses-for-2024/"><u>Superior 5 Cameras for Extended Time-Lapses for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-effective-one-channel-streaming-techniques-for-2024/"><u>Unlocking Effective One-Channel Streaming Techniques for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-top-mp4-editing-tools-for-os-x-mavericks-users/"><u>Updated 2024 Approved Top MP4 Editing Tools for OS X Mavericks Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-goofy-adventure-a-critical-appraisal-videotape-edition/"><u>[New] 'The Goofy Adventure' - A Critical Appraisal Videotape Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-drone-excellence-the-q500-experience/"><u>[Updated] Unveiling Drone Excellence The Q500 Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-guide-to-mastering-polarrs-image-precision/"><u>2024 Approved The Complete Guide to Mastering Polarr's Image Precision</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-guide-to-choosing-video-aspect-ratios/"><u>2024 Approved The Essential Guide to Choosing Video Aspect Ratios</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-motorola-defy-2-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Motorola Defy 2 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726028108690-web/"><u>携帯電話のイヤモニ利用時にWEBミーティング録画の仕方</u></a></li>
+<li><a href="https://fox-that.techidaily.com/deciphering-iphone-messaging-silence-detecting-when-youre-blocked/"><u>Deciphering iPhone Messaging Silence: Detecting When You're Blocked</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/djis-game-changing-innovation-mavic-air-and-spark-face-off/"><u>DJI’s Game-Changing Innovation Mavic Air and Spark Face Off</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-guide-how-to-seamlessly-back-up-your-samsung-device-images/"><u>Effortless Guide: How to Seamlessly Back Up Your Samsung Device Images</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-vivo-x-flip-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Vivo X Flip to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/strategic-unveiling-the-box-of-opportunity-for-2024/"><u>Strategic Unveiling The Box of Opportunity for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/the-metaverse-meme-phenomenon-a-comprehensive-overview-for-2024/"><u>The Metaverse Meme Phenomenon A Comprehensive Overview for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/whos-peeking-at-my-google-docs-a-step-by-step-guide-to-tracking-document-access/"><u>Who’s Peeking at My Google Docs? A Step-by-Step Guide to Tracking Document Access</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Launching Admin Command Prompt on Windows 10"
-date: 2024-12-11T21:06:10.659Z
-updated: 2024-12-14T00:54:49.477Z
+date: 2024-12-21T00:40:32.367Z
+updated: 2024-12-22T18:46:36.543Z
 tags:
   - deals
 categories:
@@ -34,18 +34,18 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 ![Click &quot;Yes&quot; when prompted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/05/cpa_2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you've got the "Administrator: Command Prompt" window open, you can run any command, whether it requires administrative privileges or not.
 
 ![A Command Prompt window with Administrative Privileges.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-cmd-as-admin.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you've set up Windows Terminal on Windows 10 the window may look a little different from our screenshot. It isn't a problem, and it won't affect any commands you try to run. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Run Command Prompt as Admin with the Run Box
 
@@ -54,11 +54,11 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 ![Cmd in a run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-cmd-via-run.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Open Command Prompt as Admin with the Power User Menu
@@ -68,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 ![Right-click the Start Menu button or press Windows+X, then click &quot;Command Prompt.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/05/from-the-power-user-menu.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You'll probably see PowerShell instead of Command Prompt unless you're using a really old version of Windows 10\. The [Creators Update for Windows 10](https://hardware-help.techidaily.com/exploring-technology-with-tom-your-trusted-source-for-hardware-insights-and-reviews/) swapped PowerShell for Command Prompt in the Power User menu, but you can [switch back to Command Prompt](https://video-screen-grab.techidaily.com/updated-in-2024-gameboy-advance-mastered-android-emulator-selection/) if you want. Ideally, you should give [PowerShell](https://techno-recovery.techidaily.com/x-men-film-series-viewing-guide-the-ultimate-sequence/) a try — it can do most everything Command Prompt can, and a ton of additional useful things.
@@ -90,17 +90,20 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-core-language-of-cutting-edge-vr-experiences/"><u>[New] The Core Language of Cutting-Edge VR Experiences</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-ispring-screen-recorder-review/"><u>[Updated] ISpring Screen Recorder Review</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transform-your-images-into-nfts-the-best-generators-listed/"><u>[Updated] Transform Your Images Into NFTs - The Best Generators Listed</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/elevating-your-entertainment-game-on-roku-and-facebook-live/"><u>Elevating Your Entertainment Game on Roku and Facebook LIVE</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/o-get-just-the-essentials-from-youtube-videos/"><u>How to Get Just the Essentials From YouTube Videos</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-oneplus-nord-ce-3-lite-5g-lock-screen-password-by-drfone-android/"><u>How to Reset your OnePlus Nord CE 3 Lite 5G Lock Screen Password</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-infinix-note-30i-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Infinix Note 30i to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-strategies-for-apple-listed-podcast-success/"><u>In 2024, Strategies for Apple-Listed Podcast Success</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-digital-duel-how-jake-paul-triumphed-on-youtube-for-2024/"><u>The Digital Duel How Jake Paul Triumphed on YouTube for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlicensed-zen-audio-streaming-for-2024/"><u>Unlicensed Zen Audio Streaming for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-the-potential-of-multi-stream-video-on-microsoft-edge-for-2024/"><u>Unlocking the Potential of Multi-Stream Video on Microsoft Edge for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-hd-mastery-in-action-top-5-screen-recorders-reviewed-for-2024/"><u>[New] HD Mastery in Action Top 5 Screen Recorders Reviewed for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-present-day-vr-tech-diary/"><u>[New] Present-Day VR Tech Diary</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ustream-examination-other-options-compared/"><u>[New] Ustream Examination Other Options Compared</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-perfect-your-strategy-top-rated-techniques-for-video-marketing/"><u>[Updated] Perfect Your Strategy Top-Rated Techniques for Video Marketing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-compilation-of-html5s-best-video-tools/"><u>[Updated] The Ultimate Compilation of HTML5's Best Video Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-undead-humor-engine/"><u>[Updated] Undead Humor Engine</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-breakdown-of-successful-podcast-writing-techniques-examples-included/"><u>2024 Approved Breakdown of Successful Podcast Writing Techniques (Examples Included)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovating-film-viewing-with-iphone-tricks/"><u>2024 Approved Innovating Film Viewing with iPhone Tricks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-strategies-to-skyrocket-like-counts-in-tiktok-unpack-videos/"><u>2024 Approved Strategies to Skyrocket 'Like' Counts in TikTok Unpack Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamsavvy-exploring-alternatives-to-dacast/"><u>2024 Approved StreamSavvy Exploring Alternatives to DaCast</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-razer-software-on-windows-compatibility-with-windows-11-8-7-xp-and-vista/"><u>Download & Update Razer Software on Windows: Compatibility with Windows 11, 8, 7, XP & Vista</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-convert-srt-free-top-10-web-subtitle-services/"><u>In 2024, Convert SRT Free Top 10 Web Subtitle Services</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-6-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone 6 Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamlined-transcoding-xml-and-ttml-into-professional-srt-for-2024/"><u>Streamlined Transcoding XML & TTML Into Professional SRT for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/troubleshooting-sound-card-problems-understanding-audio-distortions-and-noise-expert-advice-by-yl-software/"><u>Troubleshooting Sound Card Problems: Understanding Audio Distortions and Noise - Expert Advice by YL Software</u></a></li>
 </ul></div>
 

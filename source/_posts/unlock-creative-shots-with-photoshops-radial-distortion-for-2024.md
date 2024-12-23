@@ -1,7 +1,7 @@
 ---
 title: "Unlock Creative Shots with Photoshop's Radial Distortion for 2024"
-date: 2024-08-20T23:52:05.609Z
-updated: 2024-08-21T23:52:05.609Z
+date: 2024-12-16T19:10:35.549Z
+updated: 2024-12-23T01:07:33.010Z
 tags: 
   - screen-recording
   - ai video
@@ -26,50 +26,55 @@ If you are unaware of the radial blur effect, this article can act as a guide. T
 
 The radial blur effect is somehow similar to motion blur. This effect can be created at a slow shutter speed in the camera, or you can move or rotate your cameras in certain ways to create this effect. Many photographers also create a motion blur effect by zooming in at a slow shutter speed. By adding this effect, you will create a tunnel vision in your photos.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![what is the radial blur effect](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Moreover, the **radial blur effect** can also evoke certain emotions by transforming the image. To create this effect, you have to be precise and accurate with your camera movements. Hence, you can bring focus and display a certain speed in your photos using the radial blur effect.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## Part 2: How to Add the Radial Blur Effect to Your Photos in Photoshop?
 
 To craft a **radial blur image**, many individuals prefer using [Adobe Photoshop](https://www.adobe.com/products/photoshop.html). The main reason behind the immense popularity of Photoshop is its polished and well-design interface. Along with an intuitive interface, it also consists of various AI-supported features. You can use its color grading tools to manage the saturation, brightness, hue, and contrast levels of your photo. Moreover, you can also add layers to your photo if you want to bring extra dynamics.
 
 Photoshop also allows you to use its pre-built filters for further modifications. With a single tap, you can apply filters to the photos without making them look artificial or low-quality. Moreover, you can also perform basic photo editing by utilizing the options such as cropping and resizing. Apart from all these distinct features, Photoshop also enables you to add a radial blur effect to the pictures.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Steps to Create Radial Blur Effect in Photoshop
 
 Are you eager to learn how to create **radial motion blur in Photoshop**? Keep reading this part of the article to find accurate instructions to craft radial blur effects in Photoshop:
 
 Step1 Open your Photoshop tool and upload the image that you want to edit. Click on the brush icon from the right side and tap on the "Object Selection Tool." Now draw the selection around the subject in your image and refine it by using the "Quick Selection Tool."
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select the quick selection tool](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2 To refine the selection, use the Alt key from your keyboard. Once done with the refinement, press "Ctrl + J" to copy the new background layer. To create the background layer on Mac, hit the "Command + J" combination.
 
 ![add the background layer](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Afterward, click on the background layer and head to the "Filter" tab. From there, select "Blur" and tap "Radial Blur" from the drop-down menu. Adjust on the Radial Blur window by choosing "Zoom" as Blur Method. Also, select "Best" under the Quality section. Once done, adjust your Blur Center from the window.
 
 ![proceed with the radial blur](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 After making all the adjustments in the Radial Blur window, press the "OK" button. Once done, select the top layer and add a "Curve Adjustment Layer." Now adjust the curve properties according to your preference. Thus, you can see the radial blur effect on your photo on your screen.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![adjust the curves](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus Tips – The Alternative to Photoshop to Create Radial Blur Effect
 
@@ -97,9 +102,6 @@ Begin by launching Wondershare Filmora on your PC. Afterward, tap on the "Create
 
 Drag and drop the photo in the timeline to proceed. Now go to the Effects tab and tap on the "Video Effects" option. From there, tap on "Utility" to explore multiple effects. Here, there are three blur effects that you can utilize: Mosaic, Tilt-shift Circle, and Tilt-shift Linear.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![access the video effects](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-7.jpg)
 
 ##### Step 3 Adjust the Blur Settings
@@ -112,9 +114,6 @@ Choose your preferred effect and drop it into the timeline. Now increase the dur
 
 You can also edit the clip by adding titles or more effects. Once done with the edits, hit the "Export" button given on top.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![export the photo with radial blur](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-9.jpg)
 
 ## Conclusion
@@ -122,7 +121,6 @@ You can also edit the clip by adding titles or more effects. Once done with the 
 Many photographers and professionals apply different techniques or effects to enhance their photos. One of the trending effects that can add an artistic element to the fast-moving objects in your photos is the radial blur effect. This effect can bring attention and focus to your photos.
 
 By reading this article, you have learned how to add a radial blur effect using Adobe Photoshop. Also, we have recommended Filmora as the best alternative to Photoshop.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -146,8 +144,19 @@ By reading this article, you have learned how to add a radial blur effect using 
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-how-to-convert-twitter-videos-to-gifs-for-2024/"><u>[New] How To Convert Twitter Videos To GIFS for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-lg-27uhd68-screen-a-detailed-freesync-analysis/"><u>[New] LG 27UHD68 Screen A Detailed FreeSync Analysis</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-superb-culmination-for-vr-journeys/"><u>[New] Superb Culmination for VR Journeys</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-unlocking-ps-simple-grading-techniques-for-perfection/"><u>[Updated] 2024 Approved Unlocking PS Simple Grading Techniques for Perfection</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-underwater-worlds-unseen-pro-tips-for-capturing-vivid-gopro-footage-underwater/"><u>2024 Approved Underwater Worlds Unseen Pro Tips for Capturing Vivid GoPro Footage Underwater</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-top-text-styling-portals-for-creatives/"><u>2024 Approved Unveiling the Top Text Styling Portals for Creatives</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/elevate-your-digital-life-top-wins11-experiences-for-2024/"><u>Elevate Your Digital Life Top Wins11 Experiences for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-anglers-arsenal-prime-piscine-recorders/"><u>In 2024, The Angler’s Arsenal Prime Piscine Recorders</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-creating-smooth-audio-cuts/"><u>In 2024, The Art of Creating Smooth Audio Cuts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/insiders-guide-to-powerful-win10-habits-for-2024/"><u>Insider's Guide to Powerful Win10 Habits for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-when-your-corsair-void-mic-wont-work/"><u>Step-by-Step Solutions When Your Corsair Void Mic Won't Work</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wireless-viewing-unleashed-how-to-hook-up-a-fire-tv-stick-with-cellular-data/"><u>Wireless Viewing Unleashed: How to Hook Up a Fire TV Stick with Cellular Data</u></a></li>
+</ul></div>
 

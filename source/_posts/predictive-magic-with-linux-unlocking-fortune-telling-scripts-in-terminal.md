@@ -1,7 +1,7 @@
 ---
 title: "Predictive Magic with Linux: Unlocking Fortune-Telling Scripts in Terminal"
-date: 2024-12-09T22:01:03.713Z
-updated: 2024-12-14T03:05:12.561Z
+date: 2024-12-18T23:50:35.068Z
+updated: 2024-12-23T05:46:54.075Z
 tags:
   - desktop
 categories:
@@ -48,7 +48,7 @@ fortune
 ![Running fortune command in Linux terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fortune-command.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  fortune Options
@@ -76,7 +76,7 @@ fortune literature
 fortune -s -o literature
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Create Your Own fortune File
@@ -92,7 +92,7 @@ nano funny
 ![Adding fortunes text to a plain text file using nano text editor in Linux terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/adding-fortunes-saying.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once your file is ready, you need to convert it to a format that fortune can use. You can do this with the strfile command, which generates the necessary "funny.dat" file for the fortune command:
@@ -112,7 +112,7 @@ fortune -f
 ![Listing all fortune source files using the -f option of fortune command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fortune-listing.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The percentage here gives you a rough idea of how much of the total database size is taken up by a particular file.
@@ -126,7 +126,7 @@ fortune funny
  Every time you run the command, one of your hand-crafted fortunes will appear.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Combine fortune and cowsay for Extra Fun
@@ -142,6 +142,10 @@ sudo apt install cowsay
 fortune | cowsay
 
 ![Piping fortune output to cowsay command to display random saying along with ASCII art.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fortune-cowsay.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Check it out! You've got a cow dispensing wisdom right there in your terminal. Just what you always wanted!
 
@@ -185,10 +189,6 @@ source ~/.bashrc
 
 ![Adding new fortune command with tux ASCII art to the end of bashrc file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/terminal-fortune-tux.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Use Fortune for Testing
 
  Beyond its entertainment or enlightening uses, the fortune command has a few hidden applications. For example, you can often use it to generate random text files that are very useful for testing scripts and various commands.
@@ -203,10 +203,6 @@ cat file1
 
 ![Viewing the file using the cat command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/viewing-file-with-cat.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you want to append multiple fortunes to the same file, you can do so in a loop.
 
         `for i in {1..10};  
@@ -216,6 +212,10 @@ done`
  Another clever use for fortune is [generating random numbers](https://tech-hub.techidaily.com/mastering-the-art-of-influence-crafting-convincing-requests-with-chatgpt/). By using the [wc command](https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-se-2020-without-passcode-easily-drfone-by-drfone-ios/) with the **\-c** option, you can count the characters in each fortune:
 
 fortune | wc -c
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Create a Random Picker Game
 
@@ -240,16 +240,19 @@ fortune | wc -c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagram-video-editor-how-to-edit-instagram-videos/"><u>[Updated] 2024 Approved Instagram Video Editor How to Edit Instagram Videos</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-moments-of-quietude-top-idle-smartphone-games-for-2024/"><u>[Updated] Moments of Quietude Top Idle Smartphone Games for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-soundstage-excellence-critical-interface-tips-for-podcasters/"><u>[Updated] Soundstage Excellence Critical Interface Tips for Podcasters</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-likes-strategies-for-captivating-tiktok-unboxers/"><u>[Updated] The Ultimate Guide to Likes Strategies for Captivating TikTok Unboxers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlock-funimates-downloading-magic/"><u>[Updated] Unlock Funimate's Downloading Magic</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-free-public-domain-pubg-screen-shots/"><u>Best Free Public Domain PUBG Screen Shots</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/mlining-your-filming-setup-the-beginners-companion/"><u>Streamlining Your Filming Setup The Beginner's Companion</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/symphonic-sounds-windows-edition/"><u>Symphonic Sounds Windows Edition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-earning-trajectory-of-youtube-star-pewdopeep-for-2024/"><u>The Earning Trajectory of YouTube Star PewDoPeep for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/the-ultimate-guide-to-integrating-emojis-with-discord-statuses-for-2024/"><u>The Ultimate Guide to Integrating Emojis with Discord Statuses for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/trusted-6-online-communities-driving-business-growth-for-2024/"><u>Trusted 6 Online Communities Driving Business Growth for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-reviewing-ion-air-pro-3-capturing-life-in-high-definition/"><u>[New] Reviewing ION Air Pro 3 - Capturing Life in High Definition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-strategic-vr-marketing-manifesto/"><u>[New] Strategic VR Marketing Manifesto</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-10-luxury-car-accessories-for-the-modern-sj4000-driver/"><u>[New] Top 10 Luxury Car Accessories for the Modern SJ4000 Driver</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-full-capabilities-of-windows-11/"><u>[New] Unlocking the Full Capabilities of Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-video-upgrade-with-enhancer-22/"><u>[Updated] The Ultimate Video Upgrade with Enhancer 2.2</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-atheros-network-adapter-drivers-for-windows-pcs/"><u>Download and Install Atheros Network Adapter Drivers for Windows PCs</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-sony-xperia-5-v-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Sony Xperia 5 V</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pro-level-snapshot-techniques-maximizing-zoomed-photo-and-video-experience/"><u>In 2024, Pro-Level Snapshot Techniques Maximizing Zoomed Photo and Video Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-picking-prime-stream-services-for-2024/"><u>The Ultimate Guide to Picking Prime Stream Services for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-free-video-template-resources-for-2024/"><u>Top Free Video Template Resources for 2024</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/verifying-ram-performance-a-comprehensive-guide-by-yl-computing/"><u>Verifying RAM Performance: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win-net.techidaily.com/windows-1011pc2/"><u>Windows 10/11でPCのバックアップから完全復元手順：2通り</u></a></li>
 </ul></div>
 

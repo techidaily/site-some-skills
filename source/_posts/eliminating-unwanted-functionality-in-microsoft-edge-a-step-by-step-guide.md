@@ -1,7 +1,7 @@
 ---
 title: "Eliminating Unwanted Functionality in Microsoft Edge: A Step-by-Step Guide"
-date: 2024-12-06T20:38:51.255Z
-updated: 2024-12-14T00:53:29.949Z
+date: 2024-12-22T04:11:41.732Z
+updated: 2024-12-22T18:16:45.283Z
 tags:
   - deals
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 * [Stop Edge From Running in the Background](https://sound-optimizing.techidaily.com/updated-2024-approved-leading-platforms-for-seamless-mp3-refinement-and-cutting/)
 * [Change the Look Of Your Edge Browser](https://screen-sharing-recording.techidaily.com/top-5-cost-effective-video-editing-software-for-gamers-for-2024/)
 * [Adjust Edge Web Services](https://buynow-marvelous.techidaily.com/navigating-the-pre-owned-ipad-market-a-buyers-top-five-guide/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -34,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 
 ![Show Feed toggle in the Page Settings window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/show-feed-toggle-in-the-page-settings-window.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Edge also has a quick link section with links to various websites. These links are from companies that pay Microsoft to display them on the Edge home page. If you don’t want to see these links, click the gear icon and turn off the “Show Promoted Links” toggle.
 
 ![Show promoted links toggle in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/show-promoted-links-toggle-in-edge.jpg) 
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
  After making these changes, you’ll find the Edge home page much less cluttered.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Stop Edge From Running in the Background
@@ -65,11 +65,7 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 ![Startup Boost option in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/startup-boost-option-in-edge.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Change the Look Of Your Edge Browser
@@ -89,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 ![Show tab action menu option in Edge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/show-tab-action-menu-option-in-edge.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The next section you should edit in the Edge browser is its toolbar. By default, the Edge toolbar contains a lot of unnecessary options like [Collections](https://twitter-videos.techidaily.com/updated-in-2024-how-to-deafen-silent-tweets-impact/) that you're rarely going to use. It's better to get rid of those options and only keep the necessary ones. I would recommend disabling the toggle for all these options:
@@ -106,12 +102,16 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 ![Favorites button in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/favorites-button-in-edge.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Furthermore, you should also disable [Workspaces](https://extra-approaches.techidaily.com/2024-approved-smooth-sailing-with-kinemaster-in-film-edits/). It lets you organize open tabs into different categories. This feature is primarily for advanced users like project leaders or those who need to demonstrate Edge features to a large team. If you use Edge for general browsing, you should disable the "Show Workspaces" toggle.
 
 ![Show Workspaces toggle in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/show-workspaces-toggle-in-edge.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Adjust Edge Web Services
 
@@ -142,24 +142,24 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-the-ultimate-calculus-of-cashflow-from-creativity-measuring-your-youtube-earnings-and-impact/"><u>[New] In 2024, The Ultimate Calculus of Cashflow From Creativity Measuring Your YouTube Earnings and Impact</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-streamline-your-podcasts-effective-editing-tips-for-garageband-users/"><u>[New] Streamline Your Podcasts Effective Editing Tips for GarageBand Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-allure-of-video-crafting-filmoras-top-edits-explained/"><u>[New] The Allure of Video Crafting Filmora’s Top Edits Explained</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-art-of-memetic-mastery/"><u>[New] The Art of Memetic Mastery</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-realm-of-ring-vs-reality-stream/"><u>[New] The Realm of Ring vs Reality Stream</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-easiest-path-to-personalizing-your-pubg-characters-speech/"><u>[Updated] The Easiest Path to Personalizing Your PUBG Character’s Speech</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-best-of-android-collage-a-curation-of-superiority/"><u>2024 Approved Best-Of Android Collage A Curation of Superiority</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-mobile-artistry-ios-and-androids-creme-de-la-creme-of-image-stickers/"><u>2024 Approved Mobile Artistry IOS and Android's Crème De La Crème of Image Stickers</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-most-popular-tweets-top-ten-hits-list/"><u>2024 Approved Most Popular Tweets Top Ten Hits List</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-older-os-to-windows-11-the-evolution-process-for-2024/"><u>From Older OS to Windows 11 The Evolution Process for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Nokia C32? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-secrets-to-effortless-iphone-photo-sorting-and-synchronizing-with-icloud/"><u>In 2024, The Secrets to Effortless iPhone Photo Sorting & Synchronizing with iCloud</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-zooming-your-tiktok-videos/"><u>In 2024, The Ultimate Guide to Zooming Your TikTok Videos</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-galaxy-s23plus-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Samsung Galaxy S23+ Users</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/prime-photo-enhancements-at-no-charge-15-to-check-out-today/"><u>Prime Photo Enhancements at No Charge #15 to Check Out Today</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-rise-of-robotics-in-occupations-abandoned-by-humans-planning-ahead-for-recession-risks/"><u>The Rise of Robotics in Occupations Abandoned by Humans: Planning Ahead for Recession Risks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-checklist-to-increase-likes-on-your-tiktok-videos-for-2024/"><u>The Ultimate Checklist to Increase Likes on Your TikTok Videos for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-leveraging-google-gemini-effectively/"><u>The Ultimate Guide to Leveraging Google Gemini Effectively</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-10-pitfalls-in-designing-your-intelligent-residence-tips-for-effective-smart-home-planning/"><u>Top 10 Pitfalls in Designing Your Intelligent Residence: Tips for Effective Smart Home Planning</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-innovating-communication-microsoft-azure-speech-to-text-explained/"><u>[New] In 2024, Innovating Communication Microsoft Azure Speech to Text Explained</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-visionary-vistas-the-ultimate-list-of-motivating-ig-images/"><u>[Updated] 2024 Approved Visionary Vistas The Ultimate List of Motivating IG Images</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-novice-to-expert-your-path-in-google-photos/"><u>[Updated] From Novice to Expert Your Path in Google Photos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlining-windows-photos-with-customized-audio-and-visual-settings/"><u>[Updated] Streamlining Windows Photos with Customized Audio & Visual Settings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-richest-resource-of-zero-price-ae-templates/"><u>[Updated] The Richest Resource of Zero-Price AE Templates</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-speech-refinement-kit-free-tools-for-flawless-audio-effects/"><u>[Updated] The Ultimate Speech Refinement Kit Free Tools for Flawless Audio Effects</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-spots-unveiling-stunning-no-cost-tiktok-backgrounds/"><u>[Updated] Top Spots Unveiling Stunning, No-Cost TikTok Backgrounds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlined-sound-collection-adding-itunes-podcasts-with-ease/"><u>2024 Approved Streamlined Sound Collection Adding iTunes Podcasts with Ease</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-huawei-p60-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-iphones-should-you-upgrade-to-the-apple-iphone-16-from-an-older-base-model-expert-tips-zdnet/"><u>Comparing iPhones: Should You Upgrade to the Apple iPhone 16 From an Older Base Model? Expert Tips | ZDNET</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-smooth-lenovo-g580-driver-update/"><u>Effortless, Smooth Lenovo G580 Driver Update!</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/guide-to-restoring-your-iphone-without-needing-a-previous-copy-stellar/"><u>Guide to Restoring Your Iphone Without Needing a Previous Copy | Stellar</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-infinix-gt-10-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Infinix GT 10 Pro Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-stream-power-showdown-vmix-clashes-with-wirecast-for-broadcast-excellence/"><u>In 2024, Stream Power Showdown VMix Clashes with Wirecast for Broadcast Excellence</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-guide-to-affordable-online-passport-photo-services/"><u>In 2024, The Complete Guide to Affordable Online Passport Photo Services</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-adobes-storage-mastery-and-the-hunt-for-top-non-adobe-backup-services/"><u>In 2024, Unveiling Adobe's Storage Mastery & The Hunt for Top Non-Adobe Backup Services</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-magic-of-watching-nba-online-unveiling-the-best-15-strategies-for-2024/"><u>The Magic of Watching NBA Online - Unveiling the Best 15 Strategies for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-gamers-seat-inspected-comprehensive-evaluation-of-the-mavix-mgaming-chair/"><u>The Ultimate Gamer’s Seat Inspected: Comprehensive Evaluation of the Mavix Mˈgaming Chair</u></a></li>
 </ul></div>
 

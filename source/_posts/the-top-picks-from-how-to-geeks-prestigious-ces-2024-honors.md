@@ -1,7 +1,7 @@
 ---
 title: The Top Picks From How-To Geek’s Prestigious CES 2024 Honors
-date: 2024-12-13T01:35:30.209Z
-updated: 2024-12-14T02:37:01.703Z
+date: 2024-12-18T20:00:55.199Z
+updated: 2024-12-23T04:30:40.155Z
 tags:
   - deals
 categories:
@@ -33,7 +33,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  A brand new year means brand new tech being showcased at CES 2024\. We were on the ground in Las Vegas, scouring the show floors for cool gadgets and impressive innovations. We've highlighted some of our favorite products from the event, giving you a taste of what to look forward to this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Best Laptop: Lenovo Thinkpad X1 Carbon Gen 12
@@ -41,7 +41,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ![Lenovo ThinkPad X1 Carbon Gen 12 sitting on a table open showing its screen and keyboard with Best of CES 2024 badge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/lenovo-thinkpad-x1-carbon-gen-12-sitting-on-a-table-open-showing-its-screen-and-keyboard-with-best-of-ces-2024-badge-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
@@ -63,7 +63,7 @@ Hannah Stryker / How-To Geek
  These features complement everything offered by the Wi-Fi 7 standard, whose [finalized version was also unveiled at CES](https://smart-video-creator.techidaily.com/new-in-2024-trim-and-refine-a-step-by-step-guide-to-cropping-videos-in-avidemux/) this year. That means you can expect to see fully compatible wireless devices entering the market this year. Even if you don't live on the cutting edge, once available, the TP-Link's cylindrical mesh units should keep you sitting pretty in terms of wireless capabilities for a long time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Best Gaming Laptop: Razer Blade 16
@@ -78,13 +78,13 @@ Hannah Stryker / How-To Geek
 
  The new Razer Blade 16 might be the Windows laptop to buy if you want the best graphics performance possible in a sleek and minimalist form factor. It’s definitely expensive, though, with a starting price of $3,000\. You can [buy it today](https://razer.a9yw.net/c/156932/642901/10229?subId1=UUhtgUeUpU2001617&subId2=ehtg&u=https%3A%2F%2Fwww.razer.com%2Fgaming-laptops%2Frazer-blade-16) from Razer’s website.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Best Bluetooth Speaker: JBL Go 4
 
 ![JBL Go 4 Bluetooth speaker sitting on a table in front of the JBL Clip 5](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/jbl-go-4-bluetooth-speaker-sitting-on-a-table-in-front-of-the-jbl-clip-5.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -97,10 +97,6 @@ Justin Duino / How-To Geek
 ##  Best Mouse: Cherry M64 Pro Wireless Mouse
 
 ![Cherry M64 Pro Wireless Mouse at CES 2024](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/cherry-m64-pro-wireless-mouse-at-ces-2024.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -115,16 +111,12 @@ Hannah Stryker / How-To Geek
  Launching alongside keyboards, microphones, and other [CHERRY XTRFY gaming gear](https://www.cherry-world.com/company/press/article/cherry-xtrfy-reveals-entire-range-of-new-gaming-products-at-ces), the M64 Pro will be available for $139 in Q2 of 2024.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Best TV: LG G4 OLED
 
 ![A LG G4 OLED evo at CES 2024](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/a-lg-g4-oled-evo-at-ces-2024.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -139,7 +131,7 @@ Hannah Stryker / How-To Geek
  LG hasn’t revealed the price or release date for the G4 OLED yet, but last year’s model was released in March and started at $2,300\. The G4 will range in sizes from 55 inches all the way up to 97 inches, though the very top size lacks the MLA technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Best Projector: XGIMI Horizon Max
@@ -157,6 +149,10 @@ Justin Duino / How-To Geek
 ##  Best Keyboard: Satechi SM1 Slim
 
 ![Satechi SMI Slim Mechanical Keyboard at CES 2024](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/satechi-smi-slim-mechanical-keyboard-at-ces-2024.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -182,10 +178,6 @@ Justin Duino / How-To Geek
 
 ![The bottom of the Roborock S8 MaxV Ultra with its brush arm extended](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/the-roborock-s8-maxv-ultra-with-its-brush-arm-extended.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Justin Duino / How-To Geek
 
  Robot vacuums have gotten progressively more advanced over the years, and now Roborock is taking things up a notch with appendages. The [Roborock S8 MaxV Ultra](https://roborock.pxf.io/c/156932/1179705/14848?subId1=UUhtgUeUpU2001617&subId2=ehtg&u=https%3A%2F%2Fus.roborock.com%2Fpages%2Froborock-s8-maxv-ultra) was announced at CES with a small flip-out arm. While it's not a literal arm that can pick up items that are in the way (yet), this can help the vacuum reach those tough spots.
@@ -195,6 +187,10 @@ Justin Duino / How-To Geek
  One other pretty cool feature is the option to buy a base station that can be connected to your home's plumbing. That means you'll never have to refill or drain the mopping tanks. Our Justin Duino was at the show to check out the vacuum, and he had this to say: "Being able to auto-refill the water tank and dump dirty water through your home plumbing takes even more work off of your home cleaning responsibilities. Add in the extendable brush arm, and the S8 MaxV Ultra should keep your home looking as clean as possible."
 
  As expected, all this tech comes at a price. The Roborock S8 MaxV Ultra costs $1,800 and will be launching in April.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Best Smart Lighting: Govee AI Sync Box Kit 2
 
@@ -213,6 +209,10 @@ Govee
 ##  Best Gaming: NVIDIA VRR Pulsar
 
 ![NVIDIA G-Sync Pulsar comparison stacked](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/nvidia-g-sync-pulsar-comparison-stacked.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 NVIDIA
 
@@ -255,7 +255,7 @@ Justin Duino / How-To Geek
 ![Person checking their heart rate using the Withings BeamO at CES 2024](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/person-checking-their-heart-rate-using-the-withings-beamo-at-ces-2024.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
@@ -295,24 +295,16 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-2023-top-6-facebook-lite-video-downloaders/"><u>[Updated] 2024 Approved 2023 | Top 6 Facebook Lite Video Downloaders</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-link-up-in-the-world-of-instagram-for-2024/"><u>[Updated] How-To Link Up in the World of Instagram for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-navigate-away-from-bot-influenced-metrics/"><u>[Updated] Navigate Away From Bot-Influenced Metrics</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-easy-way-to-modify-iphone-photo-dimensions/"><u>[Updated] The Easy Way to Modify iPhone Photo Dimensions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-decreasing-sounds-prominence-in-lumafusion/"><u>[Updated] The Ultimate Guide to Decreasing Sounds' Prominence in Lumafusion</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-tips-for-creating-instagrammable-unboxing-highlights/"><u>[Updated] Top Tips for Creating Instagrammable Unboxing Highlights</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-twilight-crusaders-the-darkened-knight-vs-the-shining-one/"><u>[Updated] Twilight Crusaders The Darkened Knight vs the Shining One</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-turbulence-tamer-for-mobile-cinematography/"><u>2024 Approved Turbulence Tamer for Mobile Cinematography</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-ultimate-audio-adjustment-guide-for-electronics/"><u>2024 Approved Ultimate Audio Adjustment Guide for Electronics</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/from-blurry-beginnings-transforming-your-videography-with-instagram-techniques-for-2024/"><u>From Blurry Beginnings Transforming Your Videography with Instagram Techniques for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-mkv-player-for-windows-and-mobile/"><u>In 2024, Ultimate MKV Player for Windows & Mobile</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-swiftness-in-fb-video-transfers-with-top-tools-and-extensions/"><u>In 2024, Unlocking Swiftness in FB Video Transfers with Top Tools and Extensions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-reopening-calendars-and-mail/"><u>Mastering the Art of Reopening Calendars and Mail</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/review-of-m3-macbook-air-the-accessible-intelligent-machine-from-apple-revolutionizes-computing/"><u>Review of M3 MacBook Air: The Accessible, Intelligent Machine From Apple Revolutionizes Computing</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/-most-critical-blunders-to-elude-as-a-rookie-youtuber-for-2024/"><u>The 8 Most Critical Blunders to Elude as a Rookie YouTuber for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/the-editors-toolkit-using-markers-in-professional-editing-for-2024/"><u>The Editor's Toolkit Using Markers in Professional Editing for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Vivo X100? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-founding-an-indie-review-platform-for-fashion-and-apparel-for-2024/"><u>The Ultimate Guide to Founding an Indie Review Platform for Fashion and Apparel for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/triumph-through-film-the-top-10-motivating-titles-for-2024/"><u>Triumph Through Film The Top 10 Motivating Titles for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-amplifying-your-content-free-techniques-to-boost-youtube-views/"><u>[New] In 2024, Amplifying Your Content Free Techniques to Boost YouTube Views</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-giggle-genesis-conceptualizing-7-funny-youtube-sessions/"><u>[New] In 2024, Giggle Genesis Conceptualizing 7 Funny YouTube Sessions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tooninnovate-master-review-year-2024-edition/"><u>[New] ToonInnovate Master Review - Year 2024 Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-techniques-to-deactivate-auto-played-podcast-suggestions-in-spotify/"><u>[Updated] Techniques to Deactivate Auto-Played Podcast Suggestions in Spotify</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-adobes-storage-mastery-and-the-hunt-for-top-non-adobe-backup-services/"><u>[Updated] Unveiling Adobe's Storage Mastery & The Hunt for Top Non-Adobe Backup Services</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-uncovering-average-earnings-podcaster-edition/"><u>2024 Approved Uncovering Average Earnings Podcaster Edition</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/how-to-move-pictures-from-your-computer-to-an-ipad-seamlessly-no-need-for-itunes/"><u>How to Move Pictures From Your Computer to an iPad Seamlessly : No Need for iTunes!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-vivo-y36i-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Vivo Y36i Activity | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-master-control-over-video-velocity-on-snapchat-app/"><u>In 2024, Master Control Over Video Velocity on Snapchat App</u></a></li>
+<li><a href="https://driver-install.techidaily.com/six-two-zero-driver-guide-enhance-system-efficiency/"><u>Six Two Zero Driver Guide - Enhance System Efficiency</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-expert-reviews-and-guides-on-computer-components/"><u>Tom's Tech Hub: Expert Reviews & Guides on Computer Components</u></a></li>
 </ul></div>
 

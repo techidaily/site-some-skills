@@ -1,7 +1,7 @@
 ---
 title: Effective Web Exploration Strategies with ChatGPT
-date: 2024-12-11T17:03:55.458Z
-updated: 2024-12-13T16:14:23.892Z
+date: 2024-12-16T03:56:21.373Z
+updated: 2024-12-22T21:20:51.518Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ## Effective Web Exploration Strategies with ChatGPT
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -26,6 +26,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ##  What Is ChatGPT's Web Search?
 
 ![Web search request within chatgpt conversation on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt-search-web.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  With GPT-4, OpenAI's newest, premium version of ChatGPT, you can search the web with a simple request in-chat. This is known as ChatGPT Browse or Browse with Bing, and was permanently introduced in November 2022\. The feature had been launched prior to this date, in mid-2023, but was [abused by some users](http://decrypt.co/147300/openai-disables-web-browse-bing-chatgpt) to access premium content on website usually hidden behind a paywall.
 
@@ -43,14 +47,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![ChatGPT's rule on adult content provided in prompt response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt-adult-content.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you're doing some research, you can use ChatGPT to access a huge base of information on the topic of your choosing. If you're shopping online, you can use the tool to find the best deals on offer right now. If you're looking for a site on which to stream content, download software, or similar, ChatGPT can also help you out.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Use ChatGPT's Web Search
@@ -62,7 +62,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![ChatGPT's Bing search response to weather forecast request.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/forecast-gpt4-bing.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Alternatively, you can ask a question and specify that you want a recent result. For instance, you could ask what the biggest star is in the universe, but specify that you want an answer provided in 2024\. If you don't specify for web search, ChatGPT will still provide an answer, but it will be using data published pre-April 2023, so the answer may be outdated.
@@ -70,6 +70,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  If you want to ask a question and don't want a web search conducted, just tell ChatGPT in your prompt that you don't wish for this feature to be used. Depending on what you're asking for, ChatGPT may still provide a solid answer, or may tell you that the scope of the prompt goes beyond their training data. In this case, you may be better off using Browse with Bing.
 
  ChatGPT often provides its sources via a hyperlinked quote in brackets (\["\]). Click on this, and you'll be taken to the page from which ChatGPT got the information it provided.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What to Avoid When Browsing the Web With ChatGPT
 
@@ -84,10 +88,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Additionally, you should always check the sources fromm which ChatGPT gets its information. Even if a source is linked, the website itself isn't necessarily trustworthy, and may not be real at all. ChatGPT has been known to provide hyperlinks to entirely fabricated sources, as found in a [2023 NIH study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9939079/). ChatGPT can even [hide its web sources](https://vp-tips.techidaily.com/updated-unveiling-the-1-to-5-of-windows-free-screen-capture-apps-for-2024/), making it hard to trust in certain scenarios.
 
  So, before taking anything as oath, fact-check what you're told. If ChatGPT provides one source, have a quick look online if you can find other reputable sources that provide the same information. This will allow you to confirm whether ChatGPT has provided accurate data.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  ChatGPT Can Make Surfing the Web Easy
 
@@ -108,24 +108,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-speaking-with-flair-empowering-vocal-expression-with-no-cost-software/"><u>[New] Speaking with Flair Empowering Vocal Expression with No-Cost Software</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-eye-catching-4k-experience-dell-p2715q-in-focus/"><u>[New] The Eye Catching 4K Experience Dell P2715Q in Focus</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-comprehensive-youtube-etiquette-guide/"><u>[Updated] 2024 Approved Comprehensive YouTube Etiquette Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-thrifty-choices-for-virtual-reality-heads/"><u>[Updated] Thrifty Choices for Virtual Reality Heads</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-mobiles-for-cutting-and-enhancing-dji-media/"><u>[Updated] Ultimate Mobiles for Cutting & Enhancing DJi Media</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-overlaying-photos-digitally/"><u>2024 Approved The Ultimate Guide Overlaying Photos Digitally</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-potential-top-10-ai-tools-for-podcast-titles/"><u>2024 Approved Unleashing Potential Top 10 AI Tools for Podcast Titles</u></a></li>
-<li><a href="https://fox-info.techidaily.com/all-about-srt-essential-information-made-easy-for-2024/"><u>All About SRT Essential Information Made Easy for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-the-unfixable-a-step-by-nstep-guide-to-charging-your-playstation-5-controller/"><u>Fixing the Unfixable: A Step-by-nStep Guide to Charging Your PlayStation 5 Controller</u></a></li>
-<li><a href="https://games-able.techidaily.com/free-isnt-always-best-explore-these-5-reasons-to-pay-up/"><u>Free Isn't Always Best: Explore These 5 Reasons to Pay Up</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-breaking-the-mold-unique-and-compelling-title-themes-over-a-hundred-strong-for-snapstories/"><u>In 2024, Breaking the Mold Unique and Compelling Title Themes over a Hundred Strong for Snapstories</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-how-many-gb-is-a-24-hour-video/"><u>In 2024, How Many GB Is a 24-Hour Video?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-insider-guide-to-listening-to-podcasts-on-your-iphone/"><u>In 2024, The Insider Guide to Listening to Podcasts on Your iPhone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-alert-tones-superior-download-sites-list/"><u>In 2024, Top Alert Tones Superior Download Sites List</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-tricks-to-simulate-quantum-leap-phenomena/"><u>In 2024, Tricks to Simulate Quantum Leap Phenomena</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximize-your-gameplay-with-the-top-5-paid-mobile-apps/"><u>Maximize Your Gameplay with the Top 5 Paid Mobile Apps</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/source-banner-resources-a-gift-to-youtubers/"><u>Open Source Banner Resources A Gift to YouTubers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-future-of-interaction-with-microsofts-hololens-review-for-2024/"><u>The Future of Interaction with Microsoft's HoloLens Review for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-vivo-y100-by-drfone-android/"><u>Top 10 Password Cracking Tools For Vivo Y100</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-construct-a-homemade-google-vr-helmet-for-cost-effective-fun/"><u>[New] In 2024, Construct a Homemade Google VR Helmet for Cost-Effective Fun</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-excellent-videocameras-of-the-year-2024/"><u>[New] The Excellent Videocameras of the Year 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-asmrists-aiding-the-nighttime-ritual/"><u>[New] Top ASMRists Aiding the Nighttime Ritual</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-mastering-youtubes-video-comment-features-for-2024/"><u>[Updated] Mastering YouTube's Video Comment Features for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-business-with-metaverse-ideas/"><u>[Updated] Transforming Business with Metaverse Ideas</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-textual-transformation-in-adobe-after-effects/"><u>2024 Approved Textual Transformation in Adobe After Effects</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/engaging-with-snapchats-trending-personalities/"><u>Engaging with Snapchat's Trending Personalities</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-superior-app-dev-editors-top-15-selection/"><u>In 2024, Superior App Dev Editors Top 15 Selection</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-influencers-playbook-5-tips-for-building-brand-authority-through-reddit-partnerships/"><u>In 2024, The Influencer's Playbook 5 Tips for Building Brand Authority Through Reddit Partnerships</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unraveling-the-mystery-of-apples-new-ios-camera/"><u>In 2024, Unraveling the Mystery of Apple's New iOS Camera</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-y78plus-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo Y78+ Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-samsung-galaxy-s23plus-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Samsung Galaxy S23+ Phone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-werfaultexe-effective-solutions-to-overcome-windows-app-crashes/"><u>Troubleshooting 'WerFault.exe': Effective Solutions to Overcome Windows App Crashes</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2173154-9781848587182-ufos-a-history-of-alien-activity-from-sightings-to-abductions-to-global-threat/"><u>UFOs: A History of Alien Activity from Sightings to Abductions to Global Threat | Free Book</u></a></li>
 </ul></div>
 

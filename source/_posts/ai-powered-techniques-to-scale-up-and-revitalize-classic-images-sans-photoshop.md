@@ -1,7 +1,7 @@
 ---
 title: AI-Powered Techniques to Scale Up and Revitalize Classic Images Sans Photoshop
-date: 2024-12-13T03:34:12.088Z
-updated: 2024-12-14T00:25:51.746Z
+date: 2024-12-16T06:16:24.974Z
+updated: 2024-12-23T00:53:44.827Z
 tags:
   - web
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## AI-Powered Techniques to Scale Up and Revitalize Classic Images Sans Photoshop
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Microsoft's free AI effectively restores old photos with just one click, surpassing Photoshop's results.
@@ -18,10 +22,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * Additional AI models on Replicate can further enhance and refine photos, offering endless possibilities for restoration.
 
  Photoshop has a built-in neural filter for restoring old scratched photos. But you don’t need to spend 20 bucks a month just to use that feature. Microsoft has developed a more robust AI for the job and it’s completely free. Here’s the only guide you need to bring your old photos back to life.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Microsoft's AI that Brings Old Photos Back to Life
 
@@ -50,10 +50,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  To get started with Replicate, all we need is a GitHub account. If you already have a GitHub, skip this step, otherwise, head over to [GitHub](https://github.com/join/). You need a valid email to join GitHub and the sign-up only takes a few minutes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Restoring Old Photos
 
  After [logging into Replicate](https://replicate.com/), we’re ready for the first step. In the search bar, enter **Bringing Old Photos Back to Life**, or you can [go directly to the page](https://www.replicate.com/microsoft/bringing-old-photos-back-to-life).
@@ -70,10 +66,6 @@ Close
 
 ![Steps for running photo restoration AI on Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/run.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Keep an eye on the Warm or Cold tag under the title of the AI model. A cold tag means the model is booting, and your photo will take longer to process. If the model is already warm, you’ll get the output sooner.
 
  As you can see, the AI has done a great job of cleaning up the photo. ​​​​Click “Download” to get your restored image in full resolution. Or click “Tweak” to run the AI again with different settings.
@@ -81,7 +73,7 @@ Close
 ![Arrow indicating the output preview window and the download button for the restored photo.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Colorizing Restored Photos
@@ -97,19 +89,23 @@ Close
 ![Arrow indicating the upload button on the Deoldify input form.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/upload-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Deoldify has two settings: the model name and the render factor. You can play around with both until you get the best result. The default is the Artistic model and a render factor of “35” which should work in most scenarios. I got a better result with Stable here.
 
 ![Steps for running Deoldify on Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/set.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click “Run” once you’ve selected your preferred settings. Wait for the processed output. If you’re happy with the result, click “Download.” Or click “Tweak it” to re-process it with different settings.
 
 ![Preview of the colorized photo along with the download button on Deoldify](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Upscaling Old Photos
@@ -120,7 +116,15 @@ Close
 
 ![Arrow pointing at the upload button for ESRGAN AI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/upload-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Steps for uploading the colorized photo to Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/explorer.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close 
 
@@ -135,10 +139,6 @@ Close
  That’s all. Now our restored photo is ready for your digital or print album. Here’s a side-by-side comparison.
 
 ![Before and after preview of the restored photo.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/comparison.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Including these three AI models, Replicate has a whole [collection of image restoration models](https://replicate.com/collections/image-restoration). There’s also a catalog dedicated to image [upscaling and refining models](https://replicate.com/collections/super-resolution).
 
@@ -163,15 +163,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-superior-audio-modification-software-with-enchanting-features/"><u>[New] Superior Audio Modification Software with Enchanting Features</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streamline-your-vfx-creation-with-story-remix-and-windows-10-photos/"><u>[Updated] Streamline Your VFX Creation with Story Remix and Windows 10 Photos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-classroom-strategies-using-video-for-immersive-learning/"><u>2024 Approved Innovative Classroom Strategies Using Video for Immersive Learning</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-master-cams-for-clay-character-creation/"><u>2024 Approved Master Cams for Clay Character Creation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-step-by-step-approach-to-personalizing-your-phones-alerts/"><u>2024 Approved The Step-By-Step Approach to Personalizing Your Phone's Alerts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-turn-your-social-tweets-into-mp3-audio-files/"><u>2024 Approved Turn Your Social Tweets Into MP3 Audio Files</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-13-pro-max-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 13 Pro Max to the Previous iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-tecno-spark-10-pro-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Tecno Spark 10 Pro Phone that is Locked?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revolutionizing-gameplay-a-comprehensive-review-of-the-pixio-px277-oled-gaming-screen/"><u>Revolutionizing Gameplay: A Comprehensive Review of the Pixio PX277 OLED Gaming Screen</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-ps4-input-pc-and-mac-integration-guide/"><u>Unlocking PS4 Input: PC & Mac Integration Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-intensifying-interaction-with-enhanced-zoom-on-roblox/"><u>[New] Intensifying Interaction with Enhanced Zoom on Roblox</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-mastermind-quiz-series-discovering-trivia-gurus-of-2024/"><u>[New] Mastermind Quiz Series Discovering Trivia Gurus of 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-fullscreen-potential-in-adobe-premiere/"><u>[New] Unlocking Fullscreen Potential in Adobe Premiere</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-beyond-wirecast-a-guide-to-alternative-software/"><u>[Updated] Beyond WireCast A Guide to Alternative Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unraveling-drone-technology-mechanisms-and-applications-demystified/"><u>[Updated] Unraveling Drone Technology Mechanisms and Applications Demystified</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-10-virtual-worlds-for-buddy-bonding-games/"><u>2024 Approved 10 Virtual Worlds for Buddy Bonding Games</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tune-travelers-guide-transferring-playlists-with-precision/"><u>2024 Approved Tune Traveler's Guide Transferring Playlists with Precision</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/code-assistants-clash-github-copilot-vs-chatgpt-battle/"><u>Code Assistants Clash: GitHub Copilot Vs. ChatGPT Battle</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/full-screen-perfection-the-top-4-pcmac-screen-recorders-for-2024/"><u>Full-Screen Perfection The Top 4 PC/Mac Screen Recorders for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-determine-the-powershell-version-on-your-windows-10-pc/"><u>How to Determine the PowerShell Version on Your Windows 10 PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-poco-m6-pro-4g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Poco M6 Pro 4G to Another | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlined-sounds-iphones-efficient-podcasting/"><u>In 2024, Streamlined Sounds IPhone's Efficient Podcasting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-next-step-in-virtual-reality-jaunt-vr-review/"><u>In 2024, The Next Step in Virtual Reality Jaunt VR Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-online-livestream-technology/"><u>In 2024, Ultimate Online Livestream Technology</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/icity-in-code-constructing-a-streamlined-youtube-sign-up/"><u>Simplicity in Code Constructing a Streamlined YouTube Sign-Up</u></a></li>
+<li><a href="https://some-skills.techidaily.com/turn-off-youtube-sneak-peek-embrace-uninterrupted-watching-for-2024/"><u>Turn Off YouTube Sneak Peek, Embrace Uninterrupted Watching for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unique-business-symbols-edit-refine-and-download-logos-from-template-basics-for-2024/"><u>Unique Business Symbols Edit, Refine, and Download Logos From Template Basics for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/yl-software-expert-tips-how-to-successfully-retrieve-data-from-compressed-directories/"><u>YL Software Expert Tips: How to Successfully Retrieve Data From Compressed Directories</u></a></li>
 </ul></div>
 

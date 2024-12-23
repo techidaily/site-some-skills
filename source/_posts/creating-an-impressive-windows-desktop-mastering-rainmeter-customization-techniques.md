@@ -1,7 +1,7 @@
 ---
 title: "Creating an Impressive Windows Desktop: Mastering Rainmeter Customization Techniques"
-date: 2024-12-08T19:30:33.865Z
-updated: 2024-12-14T03:27:54.131Z
+date: 2024-12-15T18:15:30.846Z
+updated: 2024-12-22T23:17:21.349Z
 tags:
   - desktop
 categories:
@@ -47,14 +47,10 @@ winget install rainmeter
 
 ![Installing Rainmeter using Winget.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240605-200229.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait for the installation to finish. Once done, search “rainmeter” in the Start menu to launch the app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Creating a Blank Canvas
@@ -75,6 +71,14 @@ Close
 
 ![Blank desktop with hidden icons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240605-204005.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Set Up a Base Theme
 
  Explore Deviantart, /r/Rainmeter, [Rainmeter forums](https://forum.rainmeter.net/), or [Flickr](https://www.flickr.com/groups/lifehacker-desktop-showandtell/pool/with/51233198009) to find skins and themes you like. I’m using a skin called Inside Dream. You can [download it](https://visualskins.com/skin/inside-dream) and follow along if you'd like, or grab your own.
@@ -87,15 +91,15 @@ Close
 
 ![Learning the Rainmeter interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240605-215114.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can drag to arrange skins in a layout of your choice. Be sure “Draggable” is checked for the active skin you’re trying to reposition (right-click on the skin to find that menu). Inside Dream replaced my desktop shortcuts with a shortcut bar and added a visualizer, clock, and greeting. The visualizer automatically picks up audio played from any app.
 
  There’s one more thing you need to know about skins: you’re not limited to a single Rainmeter package when building your design. You can actually install multiple themes and load skins from any of the installed packages to mix and match however you like. You can see the four Rainmeter packages that I have installed on my computer, though they're not all active. 
 
 ![Installed skins on Rainmeter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240628-134717.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  I didn't like the visualizer skin in Inside Dream. It looked pretty but didn't have any music controls, s I installed a second package called [RetroColor](https://www.deviantart.com/apexxx-sensei/art/RetrOcOlOr-792148096) and loaded the music skin from it.
 
@@ -106,7 +110,7 @@ Close
 ## ![Custom theme in Rainmeter.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240628-135734.png) How to Customize Your Theme
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The base theme looks good, but it needs some tweaking to actually make it functional. There are two ways to customize a skin. You can either use the INI file, or you can use the GUI settings menu if the Rainmeter package supports it.
@@ -116,10 +120,6 @@ Close
  The settings on RetroColor are presented as just another skin. It lets you tweak some basic stuff like the clock formatting, temperature units, the media player of your choice (the player that connects with the media control widget), and the colors.
 
 ![Changing custom skin settings in Rainmeter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240628-140016.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The Inside Dream skin package doesn’t have a dedicated settings menu. You can only edit it using the INI files. I’m going to edit the dock shortcuts as an example. Right now the Photoshop button says "Photoshop CC" and doesn’t lead anywhere. Here’s how you can fix that shortcut.
 
@@ -154,15 +154,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-text-animations-unleashed-try-these-14-dynamic-showcases/"><u>[New] Text Animations Unleashed Try These 14 Dynamic Showcases</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-action-camera-showdown-gopro-hero-black-meets-yi-4k-update/"><u>[Updated] 2024 Approved Action Camera Showdown GoPro Hero Black Meets Yi 4K Update</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-unveiling-the-virtual-age-present-and-future-challenges/"><u>[Updated] In 2024, Unveiling the Virtual Age Present and Future Challenges</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-microphone-feedback-audio-recorder/"><u>[Updated] Microphone Feedback Audio Recorder</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-art-of-assembling-a-youtube-music-playlist-for-2024/"><u>[Updated] The Art of Assembling a YouTube Music Playlist for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-time-lapse-technology-breakthroughs-full-slomo-review-2024/"><u>[Updated] Time-Lapse Technology Breakthroughs Full SloMo Review, 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tuning-into-emotion-background-melodies-in-film/"><u>2024 Approved Tuning Into Emotion Background Melodies in Film</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-vivo-y28-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Vivo Y28 5G</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-social-stunt-planters-handbook-meme-mastery-at-9gag/"><u>In 2024, The Social Stunt Planters' Handbook Meme Mastery at 9GAG</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ming-success-seekers-deciphering-the-platform-winner-vimeo-vs-youtubeplusdailymotion-for-2024/"><u>Streaming Success Seekers Deciphering The Platform Winner - Vimeo vs YouTube+Dailymotion for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/rafting-yt-masterpieces-for-igtv-showcase/"><u>[New] Crafting YT Masterpieces for IGTV Showcase</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-talking-texts-a-beginners-guide-to-animated-instagram-captions/"><u>[New] Talking Texts A Beginner's Guide to Animated Instagram Captions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-free-stopwatches-without-a-price-tag/"><u>[New] Ultimate Free Stopwatches Without a Price Tag</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-essential-tips-convert-and-download-vimeo-hd-to-mp4-for-2024/"><u>[Updated] Essential Tips Convert and Download Vimeo HD to MP4 for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-essentials-unleashed-8-products-that-are-changing-the-business-landscape/"><u>[Updated] In 2024, Essentials Unleashed 8 Products That Are Changing the Business Landscape</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-augmented-reality-aesthetics-tapping-into-free-lut-resources-for-ar/"><u>2024 Approved Augmented Reality Aesthetics Tapping Into Free LUT Resources for AR</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-easy-process-how-to-save-twitter-videos-on-an-android-device/"><u>2024 Approved Easy Process How to Save Twitter Videos on an Android Device</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/hidden-gems-to-hit-videos-strategies-for-success-for-2024/"><u>From Hidden Gems to Hit Videos Strategies for Success for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-guide-to-blurring-images-with-your-iphone/"><u>In 2024, The Essential Guide to Blurring Images with Your iPhone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-secrets-to-pristine-bg-removal-techniques-in-figma/"><u>In 2024, Unveiling Secrets to Pristine BG Removal Techniques in Figma</u></a></li>
+<li><a href="https://driver-install.techidaily.com/renewing-your-dells-auditory-experience-via-realtek-updates/"><u>Renewing Your Dell’s Auditory Experience via Realtek Updates</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722531400541-top-rated-video-game-systems-of-2024-your-ultimate-guide/"><u>Top-Rated Video Game Systems of 2024 - Your Ultimate Guide</u></a></li>
 </ul></div>
 

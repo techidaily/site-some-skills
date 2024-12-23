@@ -1,7 +1,7 @@
 ---
 title: "Transforming Siri Into ChatGPT for Enhanced iPhone Interaction: Tips and Tricks"
-date: 2024-12-07T22:31:13.535Z
-updated: 2024-12-13T17:33:49.342Z
+date: 2024-12-17T05:11:29.881Z
+updated: 2024-12-23T06:07:43.247Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 ---
 
 ## Transforming Siri Into ChatGPT for Enhanced iPhone Interaction: Tips and Tricks
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -22,11 +26,19 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 * [Why Use ChatGPT with Siri?](https://audio-shaping.techidaily.com/new-audio-free-video-formats-mastering-the-art-of-silence-removal-in-popular-file-types-mp4-mkv-avi-mov-wmv-for-2024/)
 * [More ChatGPT Alternatives](https://vp-tips.techidaily.com/updated-effortless-installation-apple-podcasts-made-simple-for-2024/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  To use ChatGPT with Siri on an iPhone or iPad, get an OpenAI API key and download the ChatGPT Siri shortcut. Enter your API key in the shortcut setup and select the GPT model you want to use, then hit "Add Shortcut." Trigger the shortcut manually first to allow permissions, then start asking Siri to trigger the shortcut.
 
  Siri can control your iPhone, but it's nowhere near as powerful as [ChatGPT](https://extra-resources.techidaily.com/new-capture-clarity-editing-insights-for-professional-results/). Fortunately, you can [add ChatGPT to your iPhone](https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/) and talk to it with your voice, using Siri as a gateway to ChatGPT. Here's how.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Add the ChatGPT Shortcut to Your iPhone
 
@@ -40,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 
 ![Generate OpenAI API key](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/openAI_api_key.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can complete this next step on an iPhone, iPad, or Mac, and the Shortcut will sync between platforms. Head to the [ChatGPT Siri GitHub page](https://github.com/Yue-Yang/ChatGPT-Siri) and grab the latest version of the shortcut. You'll find it listed on the main page via a link for the "English Version." At the time of writing, the latest version is [ChatGPT Siri 1.2.4](https://www.icloud.com/shortcuts/5590188f4e2541fba4da79b425be6db2).
 
  When you tap or click on the shortcut, you'll see a "Set Up Shortcut" button. Tap or click it, and you'll be asked to provide your API key. Paste the API key into the text field provided and move on to the next step.
@@ -53,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
  Now you'll see the default prompt that seeds every ChatGPT interaction. You can leave this as-is, or you can change it depending on your preference.
 
 ![Configure ChatGPT's prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/shortcut_prompt.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lastly, select the model you want to use. You can choose between GPT-3.5 Turbo and GPT-4\. The former is cheaper in terms of API calls and faster, while GPT-4 is more advanced, requires more processing, and is slower.
 
@@ -66,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 
 ![Grant your shortcut access to OpenAI's server](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/allow_access_to_web.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Finally, grant the shortcut access to your clipboard (so it can automatically copy responses to your clipboard). You should now see the response to your query appear in a window.
 
 Related: [How to Add ChatGPT to Your Apple Watch](https://fox-cloud.techidaily.com/new-step-by-step-process-for-gradual-audio-fading-in-premiere/) 
@@ -80,17 +88,21 @@ Related: [How to Add ChatGPT to Your Apple Watch](https://fox-cloud.techidaily.c
 
 ![ChatGPT "At your service!" message](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/at_your_service.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This is your cue to hit ChatGPT with a query. If you wait too long, Siri will stop listening and you'll see messages like "Still working..." and "One sec..." before being notified that "I'm having trouble with the connection" or similar.
 
 ![This happens when ChatGPT has timed out](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/chatgpt_timeout.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For best results, consider naming your ChatGPT shortcut something else so that Siri better understands you. You can do this by launching Shortcuts on your iPhone, tapping and holding the Shortcut, and selecting "Rename" from the available options.
 
 ![Rename your ChatGPT shortcut in the Shortcuts](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/rename_chatgpt_shortcut.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now Siri will run your ChatGPT shortcut using your new name. So if you rename the shortcut "GPT" you can say "Hey, Siri GPT" to start your chat.
 
@@ -101,10 +113,6 @@ Related: [How to Add ChatGPT to Your Apple Watch](https://fox-cloud.techidaily.c
 ![Run ChatGPT shortcut as text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/chatgpt_shortcuts.jpg) 
 
  You'll need to hit "Done" after every response received before typing a reply to keep the conversation going. This works best for more in-depth responses, like recipes, long explainers, stories, quizzes, lists, and [other things ChatGPT is good at](https://facebook-clips.techidaily.com/updated-achieve-higher-interactions-mastering-the-art-of-square-videos-for-2024/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Use of the ChatGPT API Isn't Free
 
@@ -117,7 +125,7 @@ Related: [How to Add ChatGPT to Your Apple Watch](https://fox-cloud.techidaily.c
  Add your card details and set usage limits on the [OpenAI Billing page](https://platform.openai.com/account/billing/overview) if you want to continue using OpenAI's APIs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use ChatGPT in a Browser for Free
@@ -126,15 +134,7 @@ Related: [How to Add ChatGPT to Your Apple Watch](https://fox-cloud.techidaily.c
 
 ![ChatGPT browser verification](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/chatgpt_checking_browser.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can [use the web-based version of ChatGPT for free](https://extra-resources.techidaily.com/new-capture-clarity-editing-insights-for-professional-results/) from a mobile device like your iPhone or a desktop web browser on a Mac or PC. It's subject to [limits on usage during busy periods](https://win-dash.techidaily.com/latest-update-get-your-logitech-g933-headset-software-here/) unless you're subscribed to ChatGPT Plus, and you'll need to log in and verify you're human to use it so it's not seamless like Siri integration.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Use Bing Chat (GPT-4) With the Bing App
 
@@ -143,7 +143,7 @@ Related: [How to Add ChatGPT to Your Apple Watch](https://fox-cloud.techidaily.c
  On the desktop, you'll need to use Microsoft Edge (at the time of writing), while mobile users are limited to the Bing apps for [iPhone](https://apps.apple.com/us/app/bing-your-ai-copilot/id345323231) and [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU202224/https://play.google.com/store/apps/details?id=com.microsoft.bing). Download Bing for your iPhone, log in with an account that has Bing Chat access, and start chatting right away.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why Use ChatGPT with Siri?
@@ -179,22 +179,16 @@ Related: [Why ChatGPT Is Not a Replacement for Siri and Google Assistant](https:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-tomtom-bandit-action-camera-review-2023/"><u>[New] 2024 Approved TomTom Bandit Action Camera Review 2023</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/diting-elegance-into-news-summations-for-2024/"><u>[New] Editing Elegance Into News Summations for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-streamline-your-viewing-experience-how-to-use-floating-window-on-netflix/"><u>[New] Streamline Your Viewing Experience How To Use Floating Window on Netflix</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-access-fb-urls-at-free-optimal-downloader-tools-of-the-year/"><u>[Updated] Access FB URLs at FREE Optimal Downloader Tools of the Year</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-swift-shots-on-iphone-time-lapse-recording-guide/"><u>[Updated] Swift Shots on iPhone Time-Lapse Recording Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-overlaying-photos-digitally/"><u>[Updated] The Ultimate Guide Overlaying Photos Digitally</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-maximizing-youtube-clicks-with-imagery/"><u>2024 Approved Maximizing YouTube Clicks with Imagery</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamlight-solutions-best-for-video-illumination/"><u>2024 Approved Streamlight Solutions Best for Video Illumination</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2545092-9781785352997-enso-morning/"><u>Enso Morning | Free Book</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/hero-11-and-max-360-gopro-challenge-video-quality-faceoff/"><u>Hero 11 & Max 360 GoPro Challenge - Video Quality Faceoff</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-speedy-mobile-audio-playback-best-apps-ranked/"><u>In 2024, Speedy Mobile Audio Playback Best Apps Ranked</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-insiders-look-at-creating-movies-using-windows-8-movie-maker/"><u>In 2024, The Insider's Look at Creating Movies Using Windows 8 Movie Maker</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-iphone-podcast-listening-experiences/"><u>In 2024, Top iPhone Podcast Listening Experiences</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovators-speak-insights-from-ai-pioneers-globally/"><u>Innovators Speak: Insights From AI Pioneers Globally</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/safety-of-external-chatgpt-modules-and-browser-extensions-what-do-experts-say/"><u>Safety of External ChatGPT Modules and Browser Extensions: What Do Experts Say?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/utilization-of-unused-film-clips-tips-and-tricks-for-2024/"><u>Utilization of Unused Film Clips Tips and Tricks for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/workplace-communication-mastery-tips-and-tricks-for-using-slack-effectively/"><u>Workplace Communication Mastery: Tips and Tricks for Using Slack Effectively</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-compendium-of-2024s-videography-tech/"><u>[New] The Ultimate Compendium of 2024'S Videography Tech</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-your-images-with-freepaid-lut-bundles-for-canon/"><u>[New] Transform Your Images with Free/Paid LUT Bundles for Canon</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-transform-your-account-with-these-10-must-have-ig-tools/"><u>[Updated] In 2024, Transform Your Account with These 10 Must-Have IG Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-cinematic-trailer-collection/"><u>2024 Approved Ultimate Cinematic Trailer Collection</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unmatched-playwrights-arena/"><u>2024 Approved Unmatched Playwright's Arena</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-meets-detective-work-engage-in-the-latest-murder-mystery-digital-experiences-to-test-your-skills/"><u>AI Meets Detective Work: Engage in the Latest Murder Mystery Digital Experiences to Test Your Skills</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/1725288844867-digiarty-software-winx-dvd/"><u>Digiarty Software - WinX DVD 製品マニュアル・操作方法指南・設定オプション解説</u></a></li>
+<li><a href="https://article-posts.techidaily.com/elite-mobile-filming-tech-for-iphones-for-2024/"><u>Elite Mobile Filming Tech for iPhones for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exceptional-online-tv-services-featuring-community-broadcasts-for-2024/"><u>Exceptional Online TV Services Featuring Community Broadcasts for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-se-2022-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone SE (2022) in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://win-popular.techidaily.com/restore-your-plas-a-comprehensive-guide-to-retrieving-deleted-pla-documents/"><u>Restore Your PLAs: A Comprehensive Guide to Retrieving Deleted PLA Documents</u></a></li>
 </ul></div>
 

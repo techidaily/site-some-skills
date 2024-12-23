@@ -1,7 +1,7 @@
 ---
 title: How Does Conky Elevate the Visual Appeal of Your Linux Workspace?
-date: 2024-12-07T16:11:07.513Z
-updated: 2024-12-14T03:30:27.753Z
+date: 2024-12-15T16:47:20.109Z
+updated: 2024-12-22T22:07:05.386Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## How Does Conky Elevate the Visual Appeal of Your Linux Workspace?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -60,10 +60,6 @@ sudo apt install conky-manager2
 
 ![Installing Conky and Conky Manager in a Linux terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/installing-conky-and-conky-manager.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You’ve successfully installed Conky and Conky Manager on your system. Now, you can technically run the Conky app directly, and you’ll get the following widget on your desktop. It’s a barebone experience where you’ll have to write scripts to tweak the appearance, behavior, and functionality of this widget.
 
 ![Conky and Conky Manager in Application Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/conky-and-conky-manager-in-application-menu.png) 
@@ -71,7 +67,7 @@ sudo apt install conky-manager2
 ![Default Conky Widget and its script in a notepad window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/default-conky-widget-and-script.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close 
@@ -82,15 +78,15 @@ Close
 
 ![Conky manager overview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/conky-manager-overview.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Using Conky Manager to Edit Conky Widgets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/using-conky-manager-to-edit-conky-widgets.png) 
 
 Close 
 
  By default, the Conky Manager comes with a number of widgets, but they aren’t eye-catching enough. Not to worry though, as there are talented folks who have developed dedicated Conky themes with stylish widgets that you can simply download and start using on your system, no code necessary.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Installing Conky Themes
 
@@ -99,6 +95,10 @@ Close
 ![Download the victorConky theme in a ZIP format.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/download-victorconky-theme.png) 
 
 ![Extract the victorConky zip file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/extract-the-victorconky-zip-file.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close 
 
@@ -117,7 +117,7 @@ mv victorConky ~/.conky
 ![The victorConky widget enabled and visible on an Ubuntu desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/victorconky-widget-showcase.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Useful Resources
@@ -158,22 +158,24 @@ mv victorConky ~/.conky
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-tactics-for-integrating-multimedia-into-lessons/"><u>[New] Tactics for Integrating Multimedia Into Lessons</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-transform-your-footage-techniques-for-outstanding-gopro-edits-for-2024/"><u>[New] Transform Your Footage Techniques for Outstanding GoPro Edits for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-unlocking-data-movement-best-ways-to-transition-files-to-pc/"><u>[New] Unlocking Data Movement Best Ways to Transition Files to PC</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-secrets-of-effective-podcast-names-plus-50plus-inspirations/"><u>[Updated] Unlocking the Secrets of Effective Podcast Names, Plus 50+ Inspirations</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-upload-made-easy-your-device-based-guide-for-youtube-shorts-for-2024/"><u>[Updated] Upload Made Easy Your Device-Based Guide for YouTube Shorts for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-total-capture-trio-setup/"><u>2024 Approved Total Capture Trio Setup</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-your-creativity-10-steps-for-new-photoshop-users/"><u>2024 Approved Unleash Your Creativity 10 Steps for New Photoshop Users</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-iphone-8-plus-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On iPhone 8 Plus in the Best Ways</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-chromebook-screen-capture-4-easy-techniques/"><u>In 2024, Chromebook Screen Capture 4 Easy Techniques</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-on-your-iphone-14-pro-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID On Your iPhone 14 Pro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-blending-audio-and-visuals-in-a-trailer/"><u>In 2024, The Art of Blending Audio and Visuals in a Trailer</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-simplest-route-to-podcast-broadcasts/"><u>In 2024, The Simplest Route to Podcast Broadcasts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-10-guidelines-for-breaking-through-cover-art/"><u>In 2024, Top 10 Guidelines for Breaking Through Cover Art</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-online-sources-for-3d-glitter-text-designs/"><u>In 2024, Top Online Sources for 3D Glitter Text Designs</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/mp3-from-twitter-media-simple-extraction-techniques/"><u>MP3 From Twitter Media Simple Extraction Techniques</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revolutionary-tech-unveiled-the-new-modos-paper-monitor-offers-an-open-source-solution-to-high-res-and-low-latency-needs/"><u>Revolutionary Tech Unveiled: The New Modos Paper Monitor Offers an Open-Source Solution to High Res and Low Latency Needs!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/understanding-page-not-found-causes-and-solutions-with-digiarty-tools/"><u>Understanding 'Page Not Found': Causes and Solutions with Digiarty Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pioneering-artistry-on-screen-top-15-stop-motion-marvels/"><u>[New] Pioneering Artistry on Screen Top 15 Stop-Motion Marvels</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-toggle-picture-in-picture-feature-for-youtube-app/"><u>[New] Toggle Picture-in-Picture Feature for Youtube App</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-unveiling-secrets-the-best-dronescopic-stabilizers-reviewed/"><u>[Updated] 2024 Approved Unveiling Secrets The Best Dronescopic Stabilizers Reviewed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-power-of-luts-color-grading-made-easy-in-pro/"><u>[Updated] Exploring the Power of LUTs Color Grading Made Easy in Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-leading-free-graphic-resource-hubs-to-elevate-your-artistry/"><u>[Updated] Leading Free Graphic Resource Hubs to Elevate Your Artistry</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-premier-macos-sierra-tools-for-video-changeovers/"><u>[Updated] Premier macOS Sierra Tools for Video Changeovers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-uncomplicated-methodology-turning-clownfish-sounds-on-windows-systems/"><u>[Updated] Uncomplicated Methodology Turning Clownfish Sounds on Windows Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-techniques-for-increasing-youtube-video-size/"><u>2024 Approved Techniques for Increasing YouTube Video Size</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/effective-method-for-adding-music-to-facebook-iphone/"><u>Effective Method for Adding Music to Facebook (iPhone)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/hero5-black-meets-hero5-session-a-visual-verdict-for-2024/"><u>Hero5 Black Meets Hero5 Session – A Visual Verdict for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-revolutionize-sharing-youtube-video-integration-with-facebook/"><u>In 2024, Revolutionize Sharing YouTube Video Integration with Facebook</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-the-blueprint-for-building-a-youtube-empire-in-quick-time/"><u>In 2024, The Blueprint for Building a YouTube Empire in Quick Time</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-fast-track-to-zooming-proficiency/"><u>In 2024, The Fast Track to Zooming Proficiency</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-podcasters-roadmap-to-seo-excellence/"><u>In 2024, The Podcaster’s Roadmap to SEO Excellence</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-ten-mobile-sticker-adornment-apps-for-photos/"><u>In 2024, Top Ten Mobile Sticker Adornment Apps for Photos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/optimizing-your-project-b-roll-utilization-tips-for-2024/"><u>Optimizing Your Project B-Roll Utilization Tips for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/srt-to-sub-magic-three-effective-ways-for-2024/"><u>SRT to SUB Magic Three Effective Ways for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-vr-buying-guide-mobile-liberty-or-tethered-unity-for-2024/"><u>The Ultimate VR Buying Guide Mobile Liberty or Tethered Unity for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-steps-for-turning-pin-videos-into-music-files-for-2024/"><u>Ultimate Steps for Turning Pin Videos Into Music Files for 2024</u></a></li>
 </ul></div>
 

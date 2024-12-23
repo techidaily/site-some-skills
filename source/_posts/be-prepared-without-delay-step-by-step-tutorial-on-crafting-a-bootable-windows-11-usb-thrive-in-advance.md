@@ -1,7 +1,7 @@
 ---
 title: "Be Prepared Without Delay: Step-by-Step Tutorial on Crafting a Bootable Windows #11 USB Thrive in Advance"
-date: 2024-12-08T18:40:38.936Z
-updated: 2024-12-14T00:02:19.774Z
+date: 2024-12-18T20:00:44.689Z
+updated: 2024-12-23T01:42:41.688Z
 tags:
   - deals
 categories:
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
  You can install Windows 11 on your computer either using a DVD or from a USB drive. While both methods work well, the DVD method is somewhat lengthy and more prone to errors. On the other hand, you can easily create a bootable Windows 11 USB drive and use it to install the OS on your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why Is It Important to Have a Bootable USB Drive Ready?
@@ -52,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 ![Accept option in Terms and License window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/accept-option-in-terms-and-license-window.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Uncheck the "Use the recommended options for this PC" box, click the "Language" dropdown menu, and choose your preferred language. Then, click "Next."
 
 ![Selecting Language in the Window 11 Setup Window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/selecting-language-in-the-window-11-setup-window.jpg) 
@@ -76,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 ![Finish option in the Windows 11 Setup window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/finish-option-in-the-windows-11-setup-window.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can now use the USB drive to install Windows 11 on a computer.
 
 ##  Create a Bootable Windows 11 USB Drive Using Rufus
@@ -86,29 +86,21 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 ![Download Now button for the Windows 11 ISO File.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download-now-button-for-the-windows-11-iso-file.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Choose your preferred language from the language drop-down menu, then click "Confirm."
 
 ![Selecting Language of the Windows 11 ISO File.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/selecting-language-of-the-windows-11-iso-file.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click the "Download" button to begin downloading the file. The ISO file is approximately 7GB in size, which may take some time to download, depending on your connection speed.
 
 ![Download option for Windows 11 ISO File.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download-option-for-windows-11-iso-file.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you have the Windows 11 ISO file, visit the [Rufus official website](https://rufus.ie/en/) and download its latest version. Make sure you select the link labeled "Standard" under the Type section.
 
 ![Rufus download file on its website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/rufus-download-file-on-its-website.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After downloading the Rufus app, open it, click the drop-down arrow for the "Device" option, and choose your USB device.
 
@@ -122,27 +114,27 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 ![Selecting the Windows 11 ISO File.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/selecting-the-windows-11-iso-file.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Make sure the Partition Scheme is set to "GPT" and File System is set to "NTFS." Then, click "Start."
 
 ![Start option in the Rufus window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/start-option-in-the-rufus-window.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the Windows User Experience window, check the boxes next to "Remove requirement for 4GB+ RAM, Secure Boot, and TPM 2.0" and "Remove Requirement for an Online Microsoft Account." Then, click "OK."
 
 ![Windows User Experience window in Rufus.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/windows-user-experience-window-in-rufus.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click "Yes."
 
  Click "OK" to grant Rufus permission to delete all data present on your USB drive and turn it into a bootable Windows 11 drive.
 
 ![OK option in the Rufus window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/ok-option-in-the-rufus-window.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Rufus will initiate the process, and you can monitor the progress under the Status section.
 
@@ -161,7 +153,7 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 ![DISKPART command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/diskpart-command-in-command-prompt.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then, type **LIST** **DISK** and hit Enter. This will list all the storage devices connected to your computer.
@@ -172,13 +164,13 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 ![Name of USB drive in the Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/name-of-usb-drive.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Type **SEL (YourDisk)** and hit Enter to select your USB drive.
 
 ![Selecting the USB Drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/selecting-the-usb-drive.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You will now have to clean the drive. For this, type **Clean** and hit Enter.
 
@@ -216,6 +208,10 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
     
 ![ISO mounting command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/iso-mounting-command-in-command-prompt.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After the mounting process is complete, restart the Command Prompt window with administrative rights.
 
 ![Windows 11 mounting process complete.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/windows-11-mounting-process-complete.jpg) 
@@ -231,6 +227,10 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
         `E:`
     
 ![Accessing the mounted volume drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/accessing-the-mounted-volume-drive.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Type **cd** **boot** and hit Enter.
 
@@ -248,13 +248,13 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
     
 ![xcopy command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/xcopy-command-in-command-prompt.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The process is going to take around 10 minutes to complete. Once it is done, you can use your USB bootable drive to install Windows 11.
 
 ![Copy completed of Windows 11 files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/copy-completed-of-windows-11-files.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -275,16 +275,24 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-screenmasters-unite/"><u>[Updated] ScreenMasters Unite</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-synthesize-sounds-and-images-in-ppts/"><u>[Updated] Synthesize Sounds and Images in PPTS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-audio-collections-for-screen-clips/"><u>[Updated] Top Audio Collections for Screen Clips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleashing-satirical-genius-in-the-metaverse-how-to-meme-creation/"><u>[Updated] Unleashing Satirical Genius in the Metaverse – How-To Meme Creation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-podcast-writers-toolkit-essential-strategies-and-samples/"><u>2024 Approved The Podcast Writer's Toolkit Essential Strategies & Samples</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-slow-motion-video-gear/"><u>2024 Approved Top 5 Slow-Motion Video Gear</u></a></li>
-<li><a href="https://extra-information.techidaily.com/advanced-techniques-for-audacity-audio-mastery-for-2024/"><u>Advanced Techniques for Audacity Audio Mastery for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Poco C51? | Dr.fone</u></a></li>
-<li><a href="https://win-unique.techidaily.com/procedures-pour-dechiffrer-et-recuperer-vos-fichiers-endommages-par-un-logiciel-malveillant-via-une-cle-usb/"><u>Procédures Pour Déchiffrer Et Récupérer Vos Fichiers Endommagés Par Un Logiciel Malveillant via Une Clé USB.</u></a></li>
-<li><a href="https://win-top.techidaily.com/revolutionary-promotional-tools-with-atomic-bluetooth-sender-and-massmail-app/"><u>Revolutionary Promotional Tools with Atomic Bluetooth Sender and Massmail App</u></a></li>
-<li><a href="https://win-studio.techidaily.com/tiga-langkah-mendewasikan-file-komprimasi-pada-os-windows-versi-11-10-8-atau/"><u>Tiga Langkah Mendewasikan File Komprimasi Pada OS Windows Versi 11, 10, 8, Atau</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-av1-decoded-for-starters-for-2024/"><u>[New] AV1 Decoded for Starters for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-diverging-paths-youtube-licensing-and-creative-commons/"><u>[New] Diverging Paths YouTube Licensing & Creative Commons</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-tracing-the-exits-who-left-my-insta-feed/"><u>[New] In 2024, Tracing the Exits Who Left My Insta Feed?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-your-digital-portfolio-with-onscreen-cropping/"><u>[New] Transform Your Digital Portfolio with Onscreen Cropping</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-ultimate-editor-sets-for-macos-sierra-users/"><u>[New] Unveiling the Ultimate Editor Sets for macOS Sierra Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-step-by-step-audacity-audio-recording-on-macos/"><u>[Updated] 2024 Approved Step-by-Step Audacity Audio Recording on MacOS</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-conquer-ez-grabber-in-minutes-download-and-setup-made-simple/"><u>[Updated] In 2024, Conquer EZ Grabber in Minutes Download & Setup Made Simple</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-skyrocketing-views-live-stream-techniques-for-gamers-for-2024/"><u>[Updated] Skyrocketing Views Live Stream Techniques for Gamers for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-speed-up-your-iphone-photography-with-time-lapses/"><u>[Updated] Speed Up Your iPhone Photography with Time-Lapses</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-spectacquad-p2715q-a-deep-dive-into-4k-screen-technology/"><u>[Updated] The Spectacquad P2715Q A Deep Dive Into 4K Screen Technology</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-live-stream-champions-clash-pick-your-preferred-software/"><u>2024 Approved Live Stream Champions Clash – Pick Your Preferred Software?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-guide-to-elevating-vhs-imagery-on-modern-devices/"><u>2024 Approved Ultimate Guide to Elevating VHS Imagery on Modern Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unmatched-melodies-selector-android-companion/"><u>2024 Approved Unmatched Melodies Selector, Android Companion</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-tapes-with-these-top-5-brighteners/"><u>In 2024, Transform Your Tapes with These Top 5 Brighteners</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-efficiency-in-video-editing-with-these-top-10-apps/"><u>In 2024, Unlocking Efficiency in Video Editing with These Top 10 Apps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-unwinding-utopia-premier-idle-games/"><u>In 2024, Unwinding Utopia Premier Idle Games</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tales-that-transcend-leading-academies-ranked-top-8-for-2024/"><u>Tales That Transcend Leading Academies Ranked Top 8 for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-rated-desktops-for-peak-performance/"><u>Top-Rated Desktops for Peak Performance</u></a></li>
 </ul></div>
 

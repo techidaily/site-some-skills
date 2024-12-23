@@ -1,7 +1,7 @@
 ---
 title: Top Strategies to Ensure You're Making the Right Choice in Secondhand EVs
-date: 2024-12-07T02:08:19.307Z
-updated: 2024-12-13T20:29:33.964Z
+date: 2024-12-22T04:47:59.585Z
+updated: 2024-12-22T21:25:40.672Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ## Top Strategies to Ensure You're Making the Right Choice in Secondhand EVs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -28,6 +28,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ##  Check the Vehicle's Accident History
 
 ![Close up of the Chevy badge on the back of the 2023 Chevy Bolt EV](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/ae55ab54.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -51,9 +55,17 @@ _[Southworks/Shutterstock.com](https://www.shutterstock.com/image-photo/close-sh
 
  Similarly to how your 3-year-old iPhone doesn't hold a charge as well as it did the first year, electric cars experience battery degradation. For example, Tesla claims that after 100,000 miles, you'll still have over 90% battery capacity. Even an aging Tesla Model S with 180K miles should be more than capable, even if you lose around 12-15% of range due to an aging battery. At that point, it doesn't need to be replaced; it just won't charge to 100%, which is perfectly normal. Once you buy a used EV, you'll want to take a few steps to [extend the life of the battery](https://remote-screen-capture.techidaily.com/new-in-2024-top-approaches-to-non-audio-recording/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Don't Forget About Charging
 
 ![Rivian R1T plugged into a CCS charger](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/ef2ffd0c.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tyler Hayes / Review Geek
 
@@ -63,13 +75,13 @@ Tyler Hayes / Review Geek
 
  Look into charging accessories, speeds, and port type, then factor all of that into which car is right for you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Buy Used EVs From a Dealer or Tesla
 
 ![Front trunk open on a Tesla Model 3.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/tesla-model-3-frunk-maintenance.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -77,17 +89,9 @@ Hannah Stryker / How-To Geek
 
  More importantly, buying a vehicle from a manufacturer like Tesla, Chevy, or Rivian will ensure the best experience, extended warranty options, and any issues fixed by a certified mechanic before being sold. Considering how advanced EVs are, you don't want to take any chances.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Take it For a Test Drive
 
 ![Front right headlight on the 2023 Chevy Bolt EV.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/52766357707_013d55125c_o.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -96,10 +100,6 @@ Justin Duino / How-To Geek
  Taking a used vehicle for a test drive isn't just about getting a feel for the car, punching the pedal, or feeling the get-up-and-go. You're listening for funny noises, ensuring everything feels tight, and testing that the brakes, alignment, suspension, and software like autopilot or lane-assist all work as expected.
 
  Run the heater and air conditioning, maybe go somewhere and try charging it for a few minutes, test all the windows, etc. Again, do your due diligence and check anything and everything that's important or could go wrong. Then, you can bring anything up with the seller, use it as a bargaining chip for a lower price, or pass on the vehicle and find something better.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Consider Getting a Used Electric Car
 
@@ -122,24 +122,17 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-understanding-and-exploring-telegrams-online-features/"><u>[New] Understanding and Exploring Telegram's Online Features</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-chatcam-video-saver-app/"><u>[Updated] 2024 Approved ChatCam Video Saver App</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-streamlining-movie-capture-with-multiple-technology-systems/"><u>[Updated] 2024 Approved Streamlining Movie Capture with Multiple Technology Systems</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-9-steps-to-combat-chromes-video-blackout/"><u>[Updated] 9 Steps to Combat Chrome's Video Blackout</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-cinematic-edge-master-the-top-5-camera-skills/"><u>[Updated] The Cinematic Edge Master the Top 5 Camera Skills</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transformative-idea-capture-via-mematic-software/"><u>[Updated] Transformative Idea Capture via Mematic Software</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-strategies-for-stunning-iphone-nature-photography/"><u>[Updated] Ultimate Strategies for Stunning iPhone Nature Photography</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-strategy-in-the-shopping-experience/"><u>2024 Approved Strategy in the Shopping Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/canon-dslr-530-driver-download-how-to-update-and-install-latest-version/"><u>Canon DSLR-530 Driver Download: How to Update & Install Latest Version</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-an-unavailable-instagram-account-what-you-need-to-know/"><u>Fixing an Unavailable Instagram Account: What You Need to Know</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-10-gloves-revolutionizing-vr-interaction/"><u>In 2024, Top 10 Gloves Revolutionizing VR Interaction</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-twitter-video-tools-effortless-video-uploading/"><u>In 2024, Top Twitter Video Tools Effortless Video Uploading</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-google-gemini-a-comprehensive-guide/"><u>Mastering Google Gemini: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-for-a-non-responsive-taskbar-in-windows-10-expert-tips-and-fixes/"><u>Step-by-Step Solution for a Non-Responsive Taskbar in Windows 10: Expert Tips & Fixes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/syncing-visuals-and-soundtracks-in-video-magic-for-2024/"><u>Syncing Visuals & Soundtracks in Video Magic for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ten-strategies-for-controlling-a-twitch-broadcast-for-2024/"><u>Ten Strategies for Controlling a Twitch Broadcast for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-best-gopro-accessories-for-beginners/"><u>The Best GoPro Accessories for Beginners</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-quiet-quality-of-comfort-asmr-expert-choices-for-2024/"><u>The Quiet Quality of Comfort ASMR Expert Choices for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/video-editing-for-virality-a-comprehensive-guide-to-instagram-success-for-2024/"><u>Video Editing for Virality A Comprehensive Guide to Instagram Success for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nhance-every-viewing-moment-with-these-top-6-free-platforms-for-youtube-short-downloads-for-2024/"><u>[New] Enhance Every Viewing Moment with These Top 6 Free Platforms for YouTube Short Downloads for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-10-essentials-in-livestreaming-platform-selection/"><u>[New] Top 10 Essentials in Livestreaming Platform Selection</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-top-10-facts-on-m1-max-clips/"><u>[New] Top 10 Facts on M1 Max Clips</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-decoding-firefox-picture-in-picture-a-comprehensive-guide-for-2024/"><u>[Updated] Decoding Firefox Picture-in-Picture A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-streamlined-sound-conversion-for-tweeted-content-for-2024/"><u>[Updated] Streamlined Sound Conversion for Tweeted Content for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-finest-5-android-image-boosters/"><u>[Updated] The Finest 5 Android Image Boosters</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-vr-gloves-to-check-out/"><u>[Updated] Top VR Gloves to Check Out</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/19-best-anime-inspirations-for-tiktok-stars/"><u>19 Best Anime Inspirations for TikTok Stars</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-360-degree-gearing/"><u>2024 Approved Ultimate 360 Degree Gearing</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/bypassing-fat-file-system-errors-for-smooth-windows-10-operations/"><u>Bypassing FAT File System Errors for Smooth Windows 10 Operations</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/gratuit-capture-decran-enregistrateur-video-moviescribe/"><u>Gratuit Capture D'écran Enregistrateur Vidéo - MovieScribe</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-understanding-how-asmr-can-benefit-your-life/"><u>In 2024, Understanding How ASMR Can Benefit Your Life</u></a></li>
 </ul></div>
 

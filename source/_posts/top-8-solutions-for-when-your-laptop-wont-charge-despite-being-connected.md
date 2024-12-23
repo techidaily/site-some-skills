@@ -1,7 +1,7 @@
 ---
 title: Top 8 Solutions for When Your Laptop Won't Charge Despite Being Connected
-date: 2024-12-08T03:50:01.016Z
-updated: 2024-12-14T03:38:52.423Z
+date: 2024-12-19T19:10:46.291Z
+updated: 2024-12-22T21:59:41.748Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Top 8 Solutions for When Your Laptop Won't Charge Despite Being Connected
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -26,6 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Reinstall the Battery Drivers](https://twitter-videos.techidaily.com/in-2024-guide-downloading-twitters-videos-on-android-devices/)
 * [Test for a Defective Battery](https://facebook-video-content.techidaily.com/new-fb-profile-picture-dimensions/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * If your laptop isn't charging even when it's plugged in, make sure the power cord is firmly connected to the adapter brick. If that doesn't work, try plugging the charger's adapter plug into a different outlet and carefully examining the charging port and pin.
@@ -33,6 +33,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * If you continue to have the problem, update the BIOS and reinstall the battery driver.
 
  Is your laptop not charging even though you've plugged it in? While most of the time, this situation occurs when the charging adapter isn't properly connected, other times outdated BIOS or corruption in the battery driver could be the possible culprit. Whatever the reason may be, here are fixes you can try if your laptop is plugged in but not charging.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Check Your Laptop Adapter
 
@@ -44,21 +48,21 @@ Aman Kumar / How-To Geek
 
  If you find that the power cord is loosely connected to the adapter brick, apply gentle pressure to firmly insert it into the adapter. Alternatively, you can unplug the power cord completely and then plug it back in again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. Connect the Laptop Adapter to a Different Socket
 
 ![Multiple power adaptors and cables plugged into a power strip](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/52731312553_e2b752b4ab_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jason Fitzpatrick / How-To Geek
 
  Your laptop may not charge if the socket in which the adapter plug is currently connected is not functioning. To verify this, insert the adapter plug into a different socket and check if your laptop starts charging. If it does, this confirms that the original socket or its corresponding switch is not working. You can contact an electrician, in this case, to have this socket repaired.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  3\. Use the Original Charger
 
@@ -73,10 +77,6 @@ Jason Fitzpatrick / How-To Geek
  If your laptop is still not charging, you should carefully examine your laptop's charging port for any dust or debris that might have accumulated inside. If any dust or debris is present, it will prevent the charger from supplying power to your laptop, ultimately causing the issue at hand.
 
 ![Charging port on a laptop with visible dust surrounding it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/charging-port.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Aman Kumar / How-To Geek
 
@@ -104,10 +104,6 @@ Aman Kumar / How-To Geek
 
  Unfortunately, there is no one-size-fits-all set of instructions to update BIOS as different manufacturers have different methods. However, the general rule of thumb is to visit your motherboard manufacturer's website, access your [motherboard model's](https://extra-tips.techidaily.com/flash-flick-narrative-template/) downloads or support page, and then download the available BIOS update. You can check our guide on [how to update your BIOS](https://extra-skills.techidaily.com/in-2024-quick-windows-surfing-guide-unveiled/) for more information about the updating process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  7\. Reinstall the Battery Drivers
 
  Windows relies on the battery driver to maintain proper communication with your laptop's battery. If the battery driver becomes corrupted due to software conflicts, hardware issues, or other factors, Windows will lose communication with the battery, leading to the problem you're experiencing.
@@ -127,7 +123,7 @@ Aman Kumar / How-To Geek
  After reinstalling the driver, reconnect the charger and check if your laptop starts charging.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  8\. Test for a Defective Battery
@@ -145,6 +141,10 @@ Aman Kumar / How-To Geek
  Confirming this possibility on a laptop with a non-removable battery is more complicated. This is because you'll need to open the machine to access the battery. Doing so could not only damage important components if done incorrectly but may also void your laptop's warranty.
 
 ![The underside of a laptop with the back removed and internal battery revealed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/battery.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Aman Kumar / How-To Geek
 
@@ -169,24 +169,24 @@ Aman Kumar / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-keeping-your-tiktok-age-up-to-date-a-quick-guide/"><u>[New] Keeping Your TikTok Age Up-to-Date A Quick Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-unlocking-your-macbooks-webcam-potential-for-2024/"><u>[New] Unlocking Your MacBook's Webcam Potential for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unraveling-the-mysteries-of-av1-vs-vp9/"><u>[New] Unraveling the Mysteries of AV1 Vs. VP9</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-optimizing-youtube-banners-with-best-practices-in-mind/"><u>[Updated] 2024 Approved Optimizing YouTube Banners with Best Practices in Mind</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-entering-the-world-of-content-creation-sign-up-tutorial/"><u>[Updated] Entering the World of Content Creation Sign Up Tutorial</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-live-streaming-made-simple-mastering-ps4-captures-using-obs/"><u>[Updated] Live Streaming Made Simple Mastering PS4 Captures Using OBS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-uncovering-expert-video-making-talents/"><u>[Updated] Uncovering Expert Video Making Talents</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-pureaiediting-refined-photo-craftsmanship/"><u>2024 Approved PureAiEditing Refined Photo Craftsmanship</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-stabilize-your-story-a-guide-to-steadying-handheld-gopro-recordings/"><u>2024 Approved Stabilize Your Story A Guide to Steadying Handheld GoPro Recordings</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-contrast-of-virtual-realms-meta-vs-omni-universe/"><u>2024 Approved The Contrast of Virtual Realms Meta Vs. Omni Universe</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-dos-and-donts-of-mixing-music-in-instagram-videos/"><u>2024 Approved The Do's and Don'ts of Mixing Music in Instagram Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-guide-superior-ios-melody-creators/"><u>2024 Approved Ultimate Guide Superior iOS Melody Creators</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-hue-and-saturation-gopro-studio-edition/"><u>2024 Approved Understanding Hue and Saturation GoPro Studio Edition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unravel-your-pcs-potential-with-windows-10s-latest-games/"><u>2024 Approved Unravel Your PC's Potential with Windows 10'S Latest Games</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/a-2023-survival-guide-seeking-fb-videos-on-every-tab/"><u>A 2023 Survival Guide Seeking FB Videos on Every Tab</u></a></li>
-<li><a href="https://games-able.techidaily.com/live-laugh-and-stream-with-twitch-app-on-the-go/"><u>Live, Laugh & Stream with Twitch App on the Go</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-diver-mode-mishap-solving-error-code-6-in-warzone-on-pc/"><u>Overcoming Diver Mode Mishap: Solving Error Code 6 in Warzone on PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-of-computation-exploring-5-groundbreaking-ai-hardware-developments/"><u>The Future of Computation: Exploring 5 Groundbreaking AI Hardware Developments</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-the-potential-in-your-podcasts-xml-structure-for-2024/"><u>Unlocking the Potential in Your Podcast's XML Structure for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-maximize-ms-edge-usage-understanding-and-using-picture-in-picture/"><u>[New] Maximize MS Edge Usage Understanding and Using Picture-in-Picture</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-mp3ify-your-fb-videos-directly-for-2024/"><u>[New] MP3ify Your FB Videos Directly for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-evolution-of-cinematic-experience-virtual-reality/"><u>[New] The Evolution of Cinematic Experience Virtual Reality</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-crafting-captivating-igtv-cover-photos-thumbnails/"><u>[Updated] 2024 Approved Crafting Captivating IGTV Cover Photos (Thumbnails)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-mastering-advertising-for-profit-the-ultimate-vimeo-guidebook/"><u>[Updated] 2024 Approved Mastering Advertising for Profit The Ultimate Vimeo Guidebook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-strategies-to-procure-perfect-photographic-archives/"><u>[Updated] Strategies to Procure Perfect Photographic Archives</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-youtubes-potential-with-expert-picture-posting-techniques/"><u>[Updated] Unlock YouTube's Potential with Expert Picture Posting Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-the-best-iphone-vr-games-today/"><u>2024 Approved Explore the Best iPhone VR Games Today</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1728504456874-outlook/"><u>解決Outlook帳戶容量限制之新方法與保存電子信箱安全之小技巧</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/eliminar-elementos-de-fondo-del-video-con-tecnicas-avanzadas-no-necesitas-pantalla-verde/"><u>Eliminar Elementos De Fondo Del Video Con Técnicas Avanzadas, No Necesitas Pantalla Verde!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-budget-friendly-pro-gamers-essentials-keyboards/"><u>In 2024, Budget-Friendly Pro Gamers' Essentials Keyboards</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-simple-videos-text-addition-in-windows-10s-photos-software/"><u>In 2024, Transforming Simple Videos Text Addition in Windows 10'S Photos Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-optimal-sites-for-pixel-sounds/"><u>In 2024, Unveiling Optimal Sites for Pixel Sounds</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ipad-pro-analysis-why-apples-premier-tablet-excels-in-its-own-right-distinct-from-the-macbook-insights-by-zdnet/"><u>IPad Pro Analysis: Why Apple's Premier Tablet Excels in Its Own Right, Distinct From the MacBook | Insights by ZDNET</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-successfully-installing-your-epson-xp-830-printer-driver/"><u>Step-by-Step Guide: Successfully Installing Your Epson XP-830 Printer Driver</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-windows-11-audio-capture-for-2024/"><u>The Ultimate Guide to Windows 11 Audio Capture for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transformative-audio-techniques-for-media-professionals-for-2024/"><u>Transformative Audio Techniques for Media Professionals for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unpacking-the-wirecast-experience-and-its-rivals-for-2024/"><u>Unpacking the WireCast Experience & Its Rivals for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/would-chatgpt-plus-enhance-your-ai-experience-worth-it/"><u>Would ChatGPT Plus Enhance Your AI Experience Worth It?</u></a></li>
 </ul></div>
 
