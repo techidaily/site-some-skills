@@ -1,7 +1,7 @@
 ---
 title: "The Impact of AI on Next-Gen Computing Power: Expect Higher Specs in Future PCs"
-date: 2024-12-20T21:00:31.136Z
-updated: 2024-12-22T21:06:52.937Z
+date: 2024-12-26T17:01:46.627Z
+updated: 2024-12-28T18:30:49.061Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/0cc5faa4648feed06dc36c6c4e0b5955761ab929b
 ## The Impact of AI on Next-Gen Computing Power: Expect Higher Specs in Future PCs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/0cc5faa4648feed06dc36c6c4e0b5955761ab929b
 * 16GB RAM is the minimum for AI PCs, with 32GB recommended for those who care about AI features.
 
  The age of the "AI PC" is upon us, and you'll soon have the option to run some AI features locally without an internet connection even on relatively modest systems. However, what you may not realize is that despite having AI accelerators, these computers will still need a heap of memory and storage just to offer local AI features.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  AI PCs Have the Power for Local Processing
 
@@ -34,7 +38,7 @@ Microsoft
  There are many reasons to want local AI features. It's fast, you're not competing for resources with other users, and you don't have to pay beyond the cost of the hardware. Giving your laptop the smarts of something on the same continuum as ChatGPT and its contemporaries is definitely exciting!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Even “Small” LLMs Are Huge
@@ -44,16 +48,12 @@ Microsoft
  Then we have LLMs small enough to run on a smartphone, such as [phi-3-mini](https://techmonitor.ai/technology/ai-and-automation/microsoft-phi-3-mini) which clocks in at 2.4GB. That's more in line with what's actually going to be running on these AI laptops, though probably not quite as anemic!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Models Have to Live in RAM
 
 ![AI chip hologram with circuits around.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ai-chip-hologram-with-circuits-around.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lucas Gouveia / How-To Geek
 
@@ -64,10 +64,6 @@ AI chip hologram with circuits around
  If the model isn't in RAM, then the NPU can't be fed quickly enough to give you results fast enough. it would impact the speed at which an LLM replies, or functions such as real-time translation, or image generation. So if you want AI features available at the push of a button or by simply speaking to your computer, the model essentially need to reserve as much RAM as it needs.
 
  To be sure, these new PCs all have ultra-fast SSDs that can swap data in and out of RAM quickly, but apart from the additional wear and tear that puts on your SSD, it's still just not fast enough for everything to run smoothly, and don't forget you still want to run all of your other apps at the same time! If your PC had to dump your browser and other apps from RAM to disk every time you wanted the AI to do something, it wouldn't be a great experience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  16GB Is the Absolute Minimum
 
@@ -80,6 +76,10 @@ AI chip hologram with circuits around
  If your new AI Windows PC uses an integrated system-on-a-chip or has its RAM soldered permanently, as is the case with many thin and light laptops, then you're going to be stuck with whatever amount of RAM the system came with. Which means you need to get the amount of RAM you need right at the start, or you'll end up needing a whole new computer if it turns out you've done your sums wrong.
 
  Some time ago, I looked at whether [32GB of RAM](https://extra-hints.techidaily.com/elevate-your-craft-canvas-hidden-design-secrets/) was not the amount to aim for, and my conclusion was that this amount of memory was still overkill for average users. However, with future AI model sizes in mind, I think 32GB should be what anyone who cares about these AI features must aim for.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  If You Care About AI, Get More Memory
 
@@ -102,17 +102,18 @@ AI chip hologram with circuits around
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-user-testimonials-and-reviews-on-the-lg-bp350-monitor/"><u>[New] User Testimonials and Reviews on the LG BP350 Monitor</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-utilizing-skys-bounty-to-brighten-indoors/"><u>[New] Utilizing Sky's Bounty to Brighten Indoors</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-social-networking-grounds-for-youtube-growth/"><u>[Updated] Top Social Networking Grounds for YouTube Growth</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-hero5-black-versus-hero4-silver-comparison/"><u>2024 Approved Hero5 Black Versus Hero4 Silver Comparison</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-premium-black-gopro-battery-units-with-official-chargers/"><u>2024 Approved Premium Black GoPro Battery Units with Official Chargers</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-lava-blaze-pro-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Lava Blaze Pro 5G Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-dolby-premium-issue-how-to-restart-the-dolby-digital-audio-driver-on-windows-10/"><u>Fixing Dolby Premium Issue: How To Restart The Dolby Digital Audio Driver On Windows 10</u></a></li>
-<li><a href="https://fox-that.techidaily.com/get-safari-running-smoothly-again-essential-fixes-for-iphone-users/"><u>Get Safari Running Smoothly Again: Essential Fixes for iPhone Users</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-realme-11x-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Realme 11X 5G</u></a></li>
-<li><a href="https://games-able.techidaily.com/leading-brand-logitechs-top-mouse/"><u>Leading Brand Logitech's Top Mouse</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-converting-photographs-into-cinematic-videography-with-pixiz-for-2024/"><u>The Art of Converting Photographs Into Cinematic Videography with Pixiz for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-with-toms-technology-insights/"><u>Unveiling the Latest Gadgets with Tom's Technology Insights</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-masterful-sound-note-taking-a-roadmap-to-excellence/"><u>[New] In 2024, Masterful Sound Note-Taking A Roadmap to Excellence</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-unleash-the-potential-effective-pip-use-on-microsoft-edge-browser/"><u>[New] Unleash the Potential Effective PIP Use on Microsoft Edge Browser</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-turning-your-instagram-movies-inside-out/"><u>[Updated] In 2024, Turning Your Instagram Movies Inside Out</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-synthesizing-sound-and-slides-incorporating-melodies-in-ppt/"><u>[Updated] Synthesizing Sound and Slides Incorporating Melodies in PPT</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unplugged-enjoyment-best-indoor-gaming-apps-on-mobile-devices-for-2024/"><u>[Updated] Unplugged Enjoyment Best Indoor Gaming Apps on Mobile Devices for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiled-the-premier-places-to-obtain-snapchat-audio/"><u>[Updated] Unveiled The Premier Places to Obtain Snapchat Audio</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-syncing-social-media-zoom-and-facebook-live-interactions/"><u>2024 Approved Syncing Social Media Zoom and Facebook Live Interactions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-7-steps-for-stellar-cooking-films/"><u>2024 Approved The Ultimate Guide 7 Steps for Stellar Cooking Films</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-play-7t-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Honor Play 7T Phone without Any Data Loss</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-potential-your-guide-to-effective-improvements-for-2024/"><u>Unlocking Potential Your Guide to Effective Improvements for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/why-the-upgraded-google-nest-hub-gen-2-deserves-consideration-and-why-a-camera-would-enhance-it/"><u>Why the Upgraded Google Nest Hub (Gen 2) Deserves Consideration, and Why a Camera Would Enhance It</u></a></li>
 </ul></div>
 

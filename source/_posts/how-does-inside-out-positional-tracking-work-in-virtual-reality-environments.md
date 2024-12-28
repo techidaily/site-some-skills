@@ -1,7 +1,7 @@
 ---
 title: How Does Inside-Out Positional Tracking Work in Virtual Reality Environments?
-date: 2024-12-18T05:42:29.759Z
-updated: 2024-12-22T21:14:15.000Z
+date: 2024-12-24T19:03:45.653Z
+updated: 2024-12-28T16:41:06.132Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ## How Does Inside-Out Positional Tracking Work in Virtual Reality Environments?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -28,6 +28,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![An original Oculus Rift headset with the touch controllers and tracking sensors.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/shutterstock_1472152544.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Alberto Garcia Guillen/Shutterstock.com](https://www.shutterstock.com/image-photo/oculus-rift-cv1-virtual-reality-goggles-1472152544)
 
  There have been many different approaches to positional tracking for VR, but when we refer to "conventional" positional tracking, it's in reference to [the modern VR revolution](https://www.reviewgeek.com/93593/vr-isnt-a-fad-anymore-it-really-is-the-future/), starting around the mid-2010s, rather than the early virtual reality days of the late 80s or early 90s.
@@ -38,16 +42,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
  Combined, all of this sensor data offers accurate positioning anywhere within 3D space, at least insofar as the external tracker can see the headset. Later, products such as the [HTC Vive](https://facebook-video-footage.techidaily.com/new-audio-perfection-achieved-expert-tips-without-a-microphone-for-2024/) would introduce laser-based room-scale trackers. These were mounted on the walls of a room and allowed headset positions to be tracked anywhere within their range.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Inside-Out Tracking
 
 ![An Oculus Quest 2 headset.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/shutterstock_1892967694.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Boumen Japet/Shutterstock.com](https://www.shutterstock.com/image-photo/white-new-generation-vr-headset-isolated-1892967694)
@@ -61,10 +61,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
  The onboard cameras can also precisely track the position of your VR controllers relative to the headset. In a brilliant further development, it's now also possible to use these onboard cameras to directly [track your bare hands](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU208569/https://www.youtube.com/watch?v=2VkO-Kc3vks) for interaction within VR. No controllers needed!
 
  Inside-out tracking can also offer a form of "[mixed reality](https://tech-recovery.techidaily.com/unleash-inspiration-the-507-most-captivating-instagram-captions/)." That is, where real-world and virtual objects are blended together as one experience. The onboard headset cameras can do things like let you see your real-world keyboard when using an app like [Virtual Desktop](https://www.oculus.com/experiences/quest/2017050365004772/) or bring your real-world chair into the virtual space to make it easy to sit down or get up.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The Advantages of Inside-Out Tracking
 
@@ -81,7 +77,7 @@ Related: [How to Play PC VR Games on an Oculus Quest 2](https://twitter-videos.t
 ![31NLGzA5upL._SL500_-33](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/31nlgza5upl-_sl500_-33.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Best Overall VR Headset
@@ -91,6 +87,10 @@ Best Overall VR Headset
 The Oculus Quest 2 is our favorite VR headset given its ease of setup and inexpensive price. It features inside-out tracking so you don't have to set up any separate cameras---you don't even need a PC. (However, the Quest 2 can function as a PC VR headset, too.)
 
 [$289 at Amazon](https://www.amazon.com/Oculus-Quest-Advanced-All-One-Carrying/dp/B099VMT8VZ) [See at Bestbuy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmeta__quest_2_advanc%2F6473553.p%3FskuId%3D6473553%2522target%253D%2522_blank) [See at Target](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fdisneyplus.bn5x.net%2Fc%2F156932%2F564546%2F9358%3FsubId1%3DUUhtgUeUpU208569%26subId2%3Dehtg%26u%3Dhttps%253A%252F%252Fwww.target.com%252Fp%252Fmeta%255Fquest%255F2%255Fadvance%252F-%252FA-83984421%2522target%253D%2522%255Fblank) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Downside of Inside-Out Tracking
 
@@ -113,18 +113,20 @@ The Oculus Quest 2 is our favorite VR headset given its ease of setup and inexpe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-facebook-decoding-the-new-era-of-bite-sized-videos/"><u>[New] Facebook Decoding the New Era of Bite-Sized Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-complete-guide-to-selecting-best-free-srt-translators-online/"><u>[New] The Complete Guide to Selecting Best FREE SRT Translators Online</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-the-potential-comprehensive-analysis-of-dji-phantom-4/"><u>[New] Unlocking the Potential Comprehensive Analysis of DJI Phantom 4</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transforming-images-with-ar-a-guide-to-free-lut-downloads/"><u>[Updated] Transforming Images with AR A Guide to Free LUT Downloads</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-10-apps-to-boost-audio-velocity/"><u>[Updated] Ultimate 10 Apps to Boost Audio Velocity</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-swift-and-simple-acquiring-itunes-radio-episodes/"><u>2024 Approved Swift and Simple Acquiring iTunes Radio Episodes</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/comment-sauvegarder-vos-favori-sur-google-chrome-de-la-mieuxse/"><u>Comment Sauvegarder Vos Favori Sur Google Chrome De La Mieuxse</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connect-and-engage-on-leading-sites-facebook-twitter-instagram-and-youtube/"><u>Connect and Engage on Leading Sites: Facebook, Twitter, Instagram & Youtube</u></a></li>
-<li><a href="https://games-able.techidaily.com/elite-playgrounds-top-7-iosandroid-sports-game-selections/"><u>Elite Playgrounds: Top 7 iOS/Android Sports Game Selections</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-the-top-10-for-streamed-television/"><u>In 2024, Navigating the Top 10 for Streamed Television</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-peace-configure-active-hours-in-windows-11/"><u>Maximize Peace: Configure Active Hours in Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/right-orientation-fix-in-win7-mode/"><u>Right Orientation Fix in Win7 Mode</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/step-by-step-guide-identifying-common-graphics-card-issues-with-easy-diagnostic-tools/"><u>Step-by-Step Guide: Identifying Common Graphics Card Issues with Easy Diagnostic Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-sketch-whimsical-graphics-on-giphy/"><u>[New] 2024 Approved Sketch Whimsical Graphics on Giphy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fiscal-fortitude-the-story-of-mr-beast-for-2024/"><u>[New] Fiscal Fortitude The Story of Mr. Beast for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-strategies-for-acquiring-flawless-photos-on-the-internet/"><u>[New] Strategies for Acquiring Flawless Photos on the Internet</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-engaging-audience-from-anywhere-phone-based-filming-techniques/"><u>[Updated] 2024 Approved Engaging Audience From Anywhere Phone-Based Filming Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-capturing-youtube-videos-subtitles-in-srt-format/"><u>[Updated] The Ultimate Guide to Capturing YouTube Videos' Subtitles in SRT Format</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-technical-edge-why-high-dynamic-range-triumphs-over-standard-dynamic-range/"><u>2024 Approved The Technical Edge Why High Dynamic Range Triumphs over Standard Dynamic Range</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-secrets-to-smm-mastery-a-comprehensive-guide-in-10-stages/"><u>2024 Approved Unveiling the Secrets to SMM Mastery A Comprehensive Guide in 10 Stages</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-capabilities-of-gpt4all-a-comprehensive-guide/"><u>Exploring the Capabilities of GPT4All – A Comprehensive Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-infinix-smart-8-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Infinix Smart 8 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-poco-m6-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Poco M6 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-iphone-cinematic-techniques-top-8-strategies-for-ultimate-video-quality/"><u>In 2024, IPhone Cinematic Techniques Top 8 Strategies for Ultimate Video Quality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transform-your-copy-with-strategic-slug-line-usage/"><u>In 2024, Transform Your Copy with Strategic Slug Line Usage</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-full-potential-saving-and-playing-gifs-on-iphones/"><u>In 2024, Unlocking Full Potential Saving & Playing GIFs on iPhones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/polarr-editor-unveiled-ultimate-visual-transformation-for-2024/"><u>Polarr Editor Unveiled Ultimate Visual Transformation for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-studio-tracker-xvideoexploration-for-2024/"><u>Ultimate Studio Tracker XVideoExploration for 2024</u></a></li>
 </ul></div>
 

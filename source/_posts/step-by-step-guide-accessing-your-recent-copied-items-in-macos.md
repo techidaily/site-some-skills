@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Accessing Your Recent Copied Items in macOS"
-date: 2024-12-15T20:26:41.718Z
-updated: 2024-12-23T02:20:57.390Z
+date: 2024-12-24T17:38:35.151Z
+updated: 2024-12-28T19:01:44.474Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 ## Step-by-Step Guide: Accessing Your Recent Copied Items in macOS
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -29,26 +29,22 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 
 ![Show clipboard in Finder in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/show-clipboard-in-finder-in-macos.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can't interact with the clipboard in any way, and it mostly shows text. If you copy a file, it will show the filename, although if you copy something like a part of an image (but not the image file itself), it will show you that instead.
 
 ![The Finder clipboard view in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/the-finder-clipboard-view-in-macos.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The clipboard viewer is a [useful Finder feature](https://remote-screen-capture.techidaily.com/in-2024-low-cost-android-calls-highest-ranking-options/) that can be handy if you simply need to check what's on the clipboard right now, especially if you do a lot of [copying and pasting on your Mac](https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-itel-s23plus-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/). But it's pretty limited otherwise.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to See Your Mac Clipboard History
 
  If you want more control over the clipboard, and to be able to view and work with your clipboard history in particular, you need a third-party app. There are quite a few apps available that can do this, but we recommend two that offer different features depending on your needs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Maccy: A Lightweight, Free Clipboard Manager
@@ -62,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
  To get the best out of Maccy, head to Preferences > General and enable the "Launch at login" and "Paste automatically" options, and you'll need to [grant the app Accessibility access](https://tech-haven.techidaily.com/navigating-local-language-models-advantages-and-disadvantages-explained/) when prompted.
 
 ![Maccy preferences](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/maccy-preferences.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can now use the app as a full clipboard replacement. Just click the icon in the menu bar to see a list of all the items you've recently copied. There are keyboard shortcuts assigned to the latest nine items on the list; otherwise, just find the item in the list and click it to paste it into a document. There's also a search box to help you find what you're looking for.
 
@@ -93,7 +85,15 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 
 ![Assigning content from the clipboard into a Space on Pasty](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/drag-and-drop-into-spaces-in-pasty.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Pasty also has some useful privacy features, including the ability to pause the app for a set time, to exclude specific apps from having content copied to the clipboard, and to automatically clear the clipboard after anywhere from an hour to a year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Keep Your Clipboard History Secure on macOS
 
@@ -114,20 +114,20 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-make-your-own-vr-gear-diy-guide-for-google-cardboard-viewers/"><u>[New] 2024 Approved Make Your Own VR Gear DIY Guide for Google Cardboard Viewers</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-a-novices-guide-to-making-unforgettable-snaps-on-snapchat/"><u>[New] A Novice's Guide to Making Unforgettable Snaps on Snapchat</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-free-vob-player-for-pc-and-mac/"><u>[Updated] Free VOB Player for PC and Mac</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-canva-guide-to-incorporating-and-refining-audio/"><u>[Updated] The Ultimate Canva Guide to Incorporating and Refining Audio</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-5-android-clippers-essential-image-editing-apps/"><u>[Updated] Top 5 Android Clippers Essential Image Editing Apps</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-essential-guide-to-selecting-artistic-win-programs/"><u>2024 Approved Essential Guide to Selecting Artistic Win Programs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-strategies-for-apple-listed-podcast-success/"><u>2024 Approved Strategies for Apple-Listed Podcast Success</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-free-video-tools-cross-platform-os-support/"><u>2024 Approved Top 10 Free Video Tools Cross-Platform OS Support</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Itel PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-z-flip-5-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy Z Flip 5 Phone without Any Data Loss</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-definitive-list-high-quality-costless-lut-options-explored/"><u>In 2024, The Definitive List High-Quality, Costless LUT Options Explored</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-essentials-of-video-format-transformation-using-vlc/"><u>In 2024, The Essentials of Video Format Transformation Using VLC</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-firmware-upgrade-get-the-new-hp-laserjet-p1007-printer-drivers-now/"><u>Latest Firmware Upgrade: Get the New HP LaserJet P1007 Printer Drivers Now</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-impact-of-suboptimal-data-centers-on-green-practices-and-embracing-artificial-intelligence-insights-for-a-smart-future/"><u>The Impact of Suboptimal Data Centers on Green Practices & Embracing Artificial Intelligence: Insights for a Smart Future</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-tutorial-on-3d-lut-tools-for-2024/"><u>Ultimate Tutorial on 3D LUT Tools for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-virtual-realitys-basic-words/"><u>[New] Understanding Virtual Reality's Basic Words</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nlocking-the-full-potential-of-your-youtube-channel-with-right-video-settings/"><u>[New] Unlocking the Full Potential of Your YouTube Channel with Right Video Settings</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-ever-fading-memories-revived-youtubes-lost-content-hunt-for-2024/"><u>[Updated] Ever-Fading Memories Revived YouTube's Lost Content Hunt for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premium-picks-recommended-portals-for-tapping-snapchat-tunes/"><u>[Updated] Premium Picks Recommended Portals for Tapping Snapchat Tunes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-zooming-into-success-mastering-online-presentations/"><u>[Updated] Zooming Into Success Mastering Online Presentations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-auditory-branding-logo-insights-for-podcasters/"><u>2024 Approved The Art of Auditory Branding Logo Insights for Podcasters</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/achieving-gentle-growth-of-silence-in-audio-production/"><u>Achieving Gentle Growth of Silence in Audio Production</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/die-funf-effektivsten-losungen-fur-die-installation-von-windows-10-ohne-cmd-wiederherstellungstools/"><u>Die Fünf Effektivsten Lösungen Für Die Installation Von Windows 10 Ohne CMD-Wiederherstellungstools</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-cutting-edge-screenshotters-for-videos/"><u>In 2024, Cutting-Edge Screenshotters for Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-timeless-1980s-filters-and-techniques-in-editing/"><u>In 2024, Timeless 1980S Filters & Techniques in Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-your-full-potential-top-ideas-for-productive-podcast-sessions/"><u>In 2024, Unleash Your Full Potential Top Ideas for Productive Podcast Sessions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-photo-magic-intro-to-snapseed-features/"><u>In 2024, Unlocking Photo Magic Intro to Snapseed Features</u></a></li>
+<li><a href="https://techidaily.com/optimal-networking-solutions-increase-ports-and-improve-bandwidth-for-faster-speeds/"><u>Optimal Networking Solutions: Increase Ports & Improve Bandwidth for Faster Speeds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transforming-ordinary-interviews-into-impactful-experiences-for-2024/"><u>Transforming Ordinary Interviews Into Impactful Experiences for 2024</u></a></li>
 </ul></div>
 

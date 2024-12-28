@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Virtual Reality Experience: A Guide to Tightening Privacy Controls on Your Quest VR Headset"
-date: 2024-12-17T01:25:46.234Z
-updated: 2024-12-22T23:05:15.300Z
+date: 2024-12-25T16:16:34.459Z
+updated: 2024-12-28T18:50:50.976Z
 tags:
   - cutting-edge
 categories:
@@ -21,16 +21,16 @@ thumbnail: https://thmb.techidaily.com/72529af7d2bf02239916cd0ba31d950846919ac8a
 
  Since it's challenging to get good screenshots from within VR, especially when it comes to system menus and the Quest UI as a whole, I've built this short guide around using a web browser to change privacy settings. To access the privacy settings discussed below, head to the [Privacy Settings page](https://secure.oculus.com/my/privacy/) and log in if necessary. The page looks like this.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ![The Meta Quest Privacy settings page.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-29-at-14-44-10.png) Change Your Profile to Private
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Similar to how private profiles work on [platforms like Facebook](https://fox-http.techidaily.com/initial-trial-ideal-accessories-to-boost-your-gopro-footage-for-2024/), toggling your [Quest's](https://article-helps.techidaily.com/new-securing-the-title-top-5-hmds-for-drone-pilots-for-2024/) account to private means that your activity is generally hidden from public view. When someone follows you, you'll have to approve each request. People can still find you using search, and your name and avatar will still show up, but until they are approved as a follower, they can't see anything more than that.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Limit Your Visible Activity
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/72529af7d2bf02239916cd0ba31d950846919ac8a
  I think, at the very least, most people should limit this visibility to their followers, which if you combine it with a private profile will give you precise control over who can actually see your activity. If that's too much of a hassle, just set it to "Only me." Honestly, I don't see most people having a reason for automatically sharing their VR activity. So, unless you do have a reason for it, limiting this visibility to only yourself is the fastest and safest option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Disable Active Status
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/72529af7d2bf02239916cd0ba31d950846919ac8a
  By default, people who follow you or look up your profile can see which app you're currently using. This is handy if your friends want to join you for a multiplayer game, but I think it's perhaps better to arrange your sessions in private and turn this setting off instead. This feature is most useful if you use social apps like [Meta Horizon Worlds](https://twitter-videos.techidaily.com/updated-integrating-twitter-content-with-facebook-networks/) where people may have to come look for you in a specific location in that virtual world, but if you don't care much about that sort of thing or don't mind using a messenger app to speak to your friends in private, just set this to "off."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Hide Activity for Specific Apps
@@ -62,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/72529af7d2bf02239916cd0ba31d950846919ac8a
 ![Quest app visibility toggles.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-29-at-14-43-52.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Simply go through the list of apps and toggle the ones you don't want people to know about.
@@ -86,19 +86,22 @@ thumbnail: https://thmb.techidaily.com/72529af7d2bf02239916cd0ba31d950846919ac8a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/wift-guide-image-to-youtube-thumbnail-transformation-techniques-for-2024/"><u>[New] Swift Guide Image to YouTube Thumbnail Transformation Techniques for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-dive-into-filmmaking-the-role-of-lenses-in-videos-for-2024/"><u>[Updated] Dive Into Filmmaking The Role of Lenses in Videos for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-techniques-to-boost-pc-audio-recording-efficiency/"><u>[Updated] Techniques to Boost PC Audio Recording Efficiency</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tricks-for-capturing-video-tweets-and-converting-to-audible-format/"><u>[Updated] Tricks for Capturing Video Tweets and Converting to Audible Format</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-swift-sonic-speed-changer-tools-index/"><u>2024 Approved Swift Sonic Speed Changer Tools Index</u></a></li>
-<li><a href="https://windows11.techidaily.com/curing-grayed-screen-savers-quick-fixes-for-windows-users/"><u>Curing Grayed Screen Savers: Quick Fixes for Windows Users</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-vivo-y36i-easily-by-drfone-android/"><u>In 2024, How To Unlock a Vivo Y36i Easily?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-secrets-of-pubg-sound-personalization/"><u>In 2024, Unlocking the Secrets of PUBG Sound Personalization</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/masterful-mac-livestream-tech-best-of-the-best-ranked-1-to-5-for-2024/"><u>Masterful Mac Livestream Tech Best of the Best, Ranked 1 to 5 for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/mastering-printer-updates-download-and-setup-instructions-for-epson-et-3760-driver-on-windows-computers/"><u>Mastering Printer Updates: Download & Setup Instructions for Epson ET-3760 Driver on Windows Computers</u></a></li>
-<li><a href="https://win-lab.techidaily.com/securing-your-digital-assets-expert-tips-on-safeguarding-your-crypto-investments-yl-computing/"><u>Securing Your Digital Assets: Expert Tips on Safeguarding Your Crypto Investments - YL Computing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/understanding-imovies-editing-edge-for-2024/"><u>Understanding iMovie's Editing Edge for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-magic-of-pause-time-creating-spectacularly-long-lasting-movies-with-photos-and-web-services-for-2024/"><u>Unveiling the Magic of Pause Time Creating Spectacularly Long Lasting Movies with Photos & Web Services for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-essential-samsung-vr-games-for-beginners/"><u>[New] In 2024, Essential Samsung VR Games for Beginners</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-making-sense-of-mukbangs-crafting-foodie-streams/"><u>[New] In 2024, Making Sense of Mukbangs Crafting Foodie Streams</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-unleash-your-editing-skills-changing-backdrops-in-3-ways-on-tiktok/"><u>[New] In 2024, Unleash Your Editing Skills Changing Backdrops in 3 Ways on TikTok</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-ultimate-guide-to-instagrams-new-features/"><u>[New] The Ultimate Guide to Instagram's New Features</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-a-detailed-step-by-step-guide-to-using-telegram-desktop-for-2024/"><u>[Updated] A Detailed Step-By-Step Guide To Using Telegram Desktop for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamline-your-online-experience-insights-into-ffxp/"><u>[Updated] Streamline Your Online Experience Insights Into FFXP</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-editors-roadmap-to-perfection-in-fcp/"><u>[Updated] The Editor's Roadmap to Perfection in FCP</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleashing-creativity-gif-formats-decoded/"><u>[Updated] Unleashing Creativity GIF Formats Decoded</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-utilizing-film-content-a-strategy-for-teachers/"><u>[Updated] Utilizing Film Content A Strategy for Teachers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-soundwaves-compreeved-websites-for-skype-audio/"><u>2024 Approved The Soundwaves Compreeved Websites for Skype Audio</u></a></li>
+<li><a href="https://blog-min.techidaily.com/gratuit-amv-vormaak-naar-avi-format-online-zuivering-met-movavi/"><u>Gratuit AMV-Vormaak Naar AVI-Format: Online Zuivering Met Movavi</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-androidiphones-ultimate-guide-top-10-free-photo-overlay-hacks/"><u>In 2024, Android/iPhone's Ultimate Guide Top 10 Free Photo Overlay Hacks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-smart-shoppers-guide-to-cloud-services-cost/"><u>In 2024, The Smart Shopper's Guide to Cloud Services Cost</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-computer-components-discoveries-at-toms-hardware/"><u>Inside the World of Computer Components: Discoveries at Tom's Hardware</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/nine-key-approaches-for-storing-mov-in-windows-environments/"><u>Nine Key Approaches for Storing .mov in Windows Environments</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-alliance-formula-youtube-partnerships-with-brands-for-2024/"><u>The Alliance Formula YouTube Partnerships with Brands for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-roadmap-to-irresistible-podcast-intros-and-exits-for-2024/"><u>The Roadmap to Irresistible Podcast Intros and Exits for 2024</u></a></li>
 </ul></div>
 

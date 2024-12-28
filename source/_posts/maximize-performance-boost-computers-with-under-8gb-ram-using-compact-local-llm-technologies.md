@@ -1,7 +1,7 @@
 ---
 title: "Maximize Performance: Boost Computers with Under 8GB RAM Using Compact Local LLM Technologies"
-date: 2024-12-15T16:56:18.558Z
-updated: 2024-12-22T20:02:27.881Z
+date: 2024-12-22T16:20:22.374Z
+updated: 2024-12-28T16:32:10.278Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 ## Maximize Performance: Boost Computers with Under 8GB RAM Using Compact Local LLM Technologies
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
  Local AI chatbots, powered by large language models (LLMs), work only on your computer after correctly downloading and setting them up. They usually need a lot of computer memory (RAM) to work well. However, a few great models can perform on computers with as little as 4GB of RAM.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why Use Local LLM Chatbots?
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 
  Local chatbots can help mitigate such costs. Not all of them are free, though. Some require licensing and or usage fees, like OpenAI's GPT-3\. However, several open-source local chatbot models are free to download and work with. These should be used strategically for easier problems. So, you upscale to the admittedly more advanced online ones only when you absolutely must.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  These LLM Chatbots Run on Low RAM PCs
 
  I've had to get multiple free LLM-powered chatbots working on low-RAM PCs primarily because, until recently, that's all I could afford.
@@ -54,12 +58,16 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 
 ![DistilBERT Homepage-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/distilbert-homepage-1.PNG) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [ALBERT](https://huggingface.co/docs/transformers/model%5Fdoc/albert)is designed differently than DistilBERT, as it works by sharing parts of the model in a way that helps it process data quickly without using much memory.
 
 ![Hugging Face ALBERT Homepage](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/hugging-face-albert-homepage.PNG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  I highly recommend starting as a beginner with DistilBERT and ALBERT, even if you have a high-memory PC. Beginning with these two models allowed me to learn the basics without being overwhelmed by the complexity of larger models.
@@ -70,19 +78,11 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 
 ![GPT-2 124 model repository homepage](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/gpt-2-model-homepage.PNG) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  My favorite lightweight LLM by far is the [GPT-Neo 125M](https://huggingface.co/EleutherAI/gpt-neo-125m) because of its adjustable customization options. It was developed by the respected developers at EleutherAI and is like the open-source cousin of GPT-2.
 
  The Neo 125M is designed to balance performance and resource requirements. This model’s performance is on par with GPT-2, but it's adjusted to use memory more efficiently. It’s powerful enough for many tasks yet light enough to run on only 8GBs, although it struggles with anything less than that.
 
 ![GPT-Neo 125 Model Repository](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/gpt-neo-125-source-code.PNG) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Get Started with Local LLM Chatbots
 
@@ -115,15 +115,20 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-top-notch-animated-text-settings/"><u>[New] Top-Notch Animated Text Settings</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transforming-iphone-photos-upside-down-and-sideways-tricks/"><u>[New] Transforming iPhone Photos Upside-Down & Sideways Tricks</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-transforming-your-ad-strategy-with-animation-for-max-roi-for-2024/"><u>[New] Transforming Your Ad Strategy with Animation for Max ROI for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-fb-chronicles-the-hidden-viewer/"><u>[Updated] FB Chronicles The Hidden Viewer</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-supreme-cyber-seminar-sorter/"><u>2024 Approved Supreme Cyber Seminar Sorter</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-affordable-asmr-recording-setup-excellence/"><u>2024 Approved Ultimate Affordable ASMR Recording Setup Excellence</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-amv-to-mp4-conversion-tool-online-service-by-movavi/"><u>Free AMV to MP4 Conversion Tool: Online Service by Movavi</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-five-iphone-compatible-podcast-services/"><u>In 2024, Five iPhone-Compatible Podcast Services</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-5-video-tweaking-apps-for-social-networking/"><u>Top 5 Video Tweaking Apps for Social Networking</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-the-world-of-no-cost-picture-frame-movies-for-2024/"><u>Unlocking the World of No-Cost Picture Frame Movies for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-instantly-enhance-your-facebook-experience-with-collage/"><u>[Updated] Instantly Enhance Your Facebook Experience with Collage</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-step-by-step-process-for-clearing-backdrops-using-picsart/"><u>[Updated] Step-By-Step Process for Clearing Backdrops Using Picsart</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-the-full-potential-of-pixiz-in-video-making/"><u>[Updated] Unlock the Full Potential of Pixiz in Video Making</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/10-best-flash-and-fly-player-for-pc-and-mobile-for-2024/"><u>10 Best Flash and Fly Player for PC and Mobile for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-decoding-dangerous-subscriber-scams-online/"><u>2024 Approved Decoding Dangerous Subscriber Scams Online</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-optimizing-techniques-broadcasting-via-obs-to-facebook/"><u>2024 Approved Optimizing Techniques Broadcasting via OBS to Facebook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-rated-economical-timer-services/"><u>2024 Approved Top-Rated Economical Timer Services</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transition-mastery-in-cinematic-productions-with-kinemaster/"><u>2024 Approved Transition Mastery in Cinematic Productions with Kinemaster</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-your-channel-top-14-gaming-vids-for-youtube-success/"><u>Boost Your Channel Top 14 Gaming Vids for YouTube Success</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/boosting-income-via-social-media-snapchats-methods-for-2024/"><u>Boosting Income via Social Media Snapchat's Methods for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-14-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi 14 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-speed-meets-strategy-key-moments-at-the-games/"><u>In 2024, Speed Meets Strategy Key Moments at the Games</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-sunbeam-effect-android-screen-brightening/"><u>In 2024, Sunbeam Effect Android Screen Brightening</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-top-tier-displays-optimize-your-xbox-series-x-gaming/"><u>In 2024, Unveiling Top-Tier Displays - Optimize Your Xbox Series X Gaming</u></a></li>
+<li><a href="https://win-community.techidaily.com/stunning-metro-exodus-wallpapers-and-desktop-backgrounds-by-yl-computing-download-now/"><u>Stunning Metro Exodus Wallpapers & Desktop Backgrounds by YL Computing - Download Now</u></a></li>
 </ul></div>
 

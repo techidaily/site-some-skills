@@ -1,7 +1,7 @@
 ---
 title: "Complete Tutorial: Downloading and Setting Up Microsoft Store Applications in Windows 11"
-date: 2024-12-18T00:52:43.044Z
-updated: 2024-12-22T21:26:47.603Z
+date: 2024-12-23T16:46:18.251Z
+updated: 2024-12-28T19:09:09.691Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 ---
 
 ## Complete Tutorial: Downloading and Setting Up Microsoft Store Applications in Windows 11
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -27,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 * To see a list of all the apps you've installed from the Microsoft Store, open the store and click the "Library" button in the bottom-left.
 
  Windows 10 includes the Microsoft Store, which lets you download free or paid software from the internet. Here's how to install apps from the Store.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Free Apps vs. Paid Apps
 
@@ -48,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 ![The Microsoft Store advertises all kinds of apps and media.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-the-microsoft-store.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you're looking for a specific type of app, click one of the categories to the left-hand side. Some categories, most notably Movies & TV, also allow you to purchase media, like movies. 
 
 ![The app types listed on the left.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-app-types-on-left.png) 
@@ -64,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 ![Search for an app using the search bar at the top of the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-searching-for-the-hulu-app.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you locate a program you'd like to install, first check whether it is a free or paid app. If you don't see a price listed, the app is generally free, or requires a separate purchase (as with a Netflix account). Click the "Get" button to add and app to your account and download it for the first time. If you've downloaded an app previously but unistalled it, you'll see an "Install" button instead. 
 
 ![Click the 'Get' button to add an app to your account, then click 'Install' to actually install it to your PC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-get-app.png) 
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 ![Buy Microsoft Flight Simulator for 59.99 USD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-buy-for-x-price.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After following the purchase steps, the download will begin. You will see the "Get" or "Install" button change to a small circle that indicates your download's progress. You can also click this button to stop a download in progress if you change your mind, or if it is taking up too much time or bandwidth. 
@@ -84,13 +84,13 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 ![Netflix in the Start menu under 'N' in the alphabetical list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-netflix-in-start-menu.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you have trouble finding the app you just downloaded in the "Start" menu, open "Start" and begin typing the name of the app to perform a search. When the results appear, click the icon of the app to launch it.
 
 ![Search for the app you installed using the Start menu search, then click the result labeled 'App.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-searching-for-netflix.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Also, if you ever need to [see a complete list of all the apps you've bought or installed](https://tech-revival.techidaily.com/best-8-chatgpt-interactions-to-enhance-productivity-and-decrease-distractions/) from the Microsoft Store, launch the "Microsoft Store" app and click the "Library" button in the bottom left corner of the window. 
 
@@ -115,24 +115,22 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-in-pursuit-of-perfection-online-tv-capture-made-simple/"><u>[New] 2024 Approved In Pursuit of Perfection - Online TV Capture Made Simple</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-capture-youtube-live-a-comprehensive-guide-for-all-tech-enthusiasts/"><u>[New] In 2024, Capture YouTube Live A Comprehensive Guide for All Tech Enthusiasts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-supernatural-video-slowdown-handbook/"><u>[New] Supernatural Video Slowdown Handbook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-troubleshooting-tips-for-win-11s-stubborn-photos-app/"><u>[New] Troubleshooting Tips for Win 11'S Stubborn Photos App</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/tilizing-youtubes-annotation-feature-for-2024/"><u>[New] Utilizing YouTube's Annotation Feature for 2024</u></a></li>
-<li><a href="https://win-help.techidaily.com/1728505207924-aomei-image-deploy/"><u>AOMEI Image Deploy與鏡像部署啟動安全指南解決方案</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-guide-resolving-stellaris-game-crashes-once-and-for-all/"><u>Expert Guide: Resolving Stellaris Game Crashes Once and For All!</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-13-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 13 When Its Locked Within Seconds</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-quick-route-to-true-profile-ages-on-tiktok/"><u>In 2024, The Quick Route to True Profile Ages on TikTok</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-metaverse-simplified-avatar-designs/"><u>In 2024, Unlocking the Metaverse Simplified Avatar Designs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-top-notch-visuals-a-cost-free-approach/"><u>In 2024, Unlocking Top-Notch Visuals A Cost-Free Approach</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-imessage-not-delivered-errors-on-iphone-effective-methods/"><u>Overcoming iMessage Not Delivered Errors on iPhone: Effective Methods</u></a></li>
-<li><a href="https://extra-information.techidaily.com/play-your-srt-files-easily-winmac-tips/"><u>Play Your SRT Files Easily Win/Mac Tips</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/simultaneous-scheduling-on-iphoneandroid-with-zoom-desktop-timeline/"><u>Simultaneous Scheduling on iPhone/Android with Zoom Desktop Timeline</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-jaunt-vr-immersion-for-2024/"><u>The Ultimate Guide to Jaunt VR Immersion for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-tutorial-on-winning-spotify-advertising-for-2024/"><u>The Ultimate Tutorial on Winning Spotify Advertising for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-3-tactics-converting-pins-to-audio-clips-for-2024/"><u>Top 3 Tactics Converting Pins to Audio Clips for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/turning-creativity-into-comprehensive-captivating-tiktok-masterpieces/"><u>Turning Creativity Into Comprehensive, Captivating TikTok Masterpieces</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unraveling-the-mystery-of-premium-free-photography-access-for-2024/"><u>Unraveling the Mystery of Premium Free Photography Access for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-key-strategies-for-board-utilization-across-devices-in-zoom/"><u>[New] 2024 Approved Key Strategies for Board Utilization Across Devices in Zoom</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-animators-companion-expertly-reviewed-3d-modeling-software/"><u>[New] The Animator's Companion Expertly Reviewed 3D Modeling Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-gopro-hero5-black-journey-elevating-your-visual-storytelling/"><u>[New] The GoPro Hero5 Black Journey Elevating Your Visual Storytelling</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-10-accessory-hits-for-sj-series-drivers/"><u>[New] Top 10 Accessory Hits for SJ-Series Drivers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tuneful-images-the-apple-fusion-method/"><u>[New] Tuneful Images The Apple Fusion Method</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-upgrade-your-sky-faring-with-these-11-essentials-for-2024/"><u>[New] Upgrade Your Sky-Faring with These 11 Essentials for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-swift-techniques-mastering-effective-double-exposure/"><u>[Updated] In 2024, Swift Techniques Mastering Effective Double Exposure</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-visual-perfection-select-the-best-monitors-for-creative-work/"><u>[Updated] In 2024, Visual Perfection Select the Best Monitors for Creative Work</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-how-to-dodge-without-disruption-bypassing-edgenuity-courses-effortlessly/"><u>2024 Approved How to Dodge Without Disruption Bypassing Edgenuity Courses Effortlessly</u></a></li>
+<li><a href="https://win-popular.techidaily.com/download-and-transform-youtube-audio-clips-into-mobile-phone-ringtones-mp3m4a/"><u>Download and Transform YouTube Audio Clips Into Mobile Phone Ringtones (MP3/M4A)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/from-zero-to-hero-achieving-perpetual-prosperity-in-the-world-of-like-a-dragon-for-windows-gamers/"><u>From Zero to Hero: Achieving Perpetual Prosperity in the World of 'Like a Dragon' For Windows Gamers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-artists-pathway-journeying-from-hobbyist-to-professional/"><u>In 2024, The Artist's Pathway Journeying From Hobbyist to Professional</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pathfinder-update-tackles-and-eliminates-pc-freezing-offering-players-uninterrupted-fun/"><u>Pathfinder Update Tackles & Eliminates PC Freezing, Offering Players Uninterrupted Fun!</u></a></li>
+<li><a href="https://win-news.techidaily.com/setting-up-your-own-crypto-trading-platform-a-step-by-step-guide-by-yl-computing/"><u>Setting Up Your Own Crypto Trading Platform: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-resolving-the-update-error-0x80240017-on-windows-pcs/"><u>Step-by-Step Guide: Resolving the 'Update Error 0X80240017' On Windows PCs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-notch-tricks-to-nail-every-green-screen-shot-for-2024/"><u>Top-Notch Tricks to Nail Every Green Screen Shot for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-and-utilizing-phantoms-time-dilation-for-2024/"><u>Understanding and Utilizing Phantom’s Time-Dilation for 2024</u></a></li>
 </ul></div>
 

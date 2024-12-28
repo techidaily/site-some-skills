@@ -1,7 +1,7 @@
 ---
 title: "Bankruptcy Alert: How a Massive $30+ Million Bitcoin Robbery Rocked Crypto.com"
-date: 2024-12-19T19:17:14.063Z
-updated: 2024-12-23T05:42:14.659Z
+date: 2024-12-27T18:08:36.326Z
+updated: 2024-12-28T18:08:28.648Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 ## Bankruptcy Alert: How a Massive $30+ Million Bitcoin Robbery Rocked Crypto.com
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
  A considerable hack occurred on the popular [cryptocurrency exchange](https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-itel-p40plus-phones-by-drfone-android/) Crypto.com. The hack led to over $30 million in crypto being stolen in the form of 4,836.26 Ethereum and 443.93 bitcoin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Happened to Crypto.com?
@@ -43,7 +43,7 @@ Related: [What is Ethereum, and What Are Smart Contracts?](https://extra-informa
 > On Monday, 17 January 2022 at approximately 12:46 AM UTC Crypto.com's risk monitoring systems detected unauthorized activity on a small number of user accounts where transactions were being approved without the 2FA authentication control being inputted by the user. This triggered an immediate response from multiple teams to assess the impact. All withdrawals on the platform were suspended for the duration of the investigation. Any accounts found to be impacted were fully restored. Crypto.com revoked all customer 2FA tokens, and added additional security hardening measures, which required all customers to re-login and set up their 2FA token to ensure only authorized activity would occur. Downtime of the withdrawal infrastructure was approximately 14 hours, and withdrawals were resumed at 5:46 PM UTC, 18 January 2022.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Is Crypto.com Doing to Fix It?
@@ -75,18 +75,24 @@ Related: [Opera Just Launched a Crypto Browser for Some Reason](https://howto.te
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-choice-top-tier-webcam-mounts-and-grips/"><u>[New] Ultimate Choice Top-Tier Webcam Mounts & Grips</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-unveiling-burst-function-in-gopro-cameras/"><u>[Updated] 2024 Approved Unveiling Burst Function in GoPro Cameras</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-efficient-practices-logging-google-voice-dialogues-for-2024/"><u>[Updated] Efficient Practices Logging Google Voice Dialogues for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-key-elements-for-effective-spotify-ad-execution/"><u>[Updated] The Key Elements for Effective Spotify Ad Execution</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-next-step-for-gopro-cameras-hero4-hero5/"><u>[Updated] The Next Step for GoPro Cameras (Hero4, Hero5)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-titlegenius-revolutionizing-video-title-generation/"><u>[Updated] TitleGenius Revolutionizing Video Title Generation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-swift-visualizer-windows-high-speed-image-viewer/"><u>2024 Approved Swift Visualizer - Windows High-Speed Image Viewer</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/o-locate-your-youtube-fanbase/"><u>How to Locate Your YouTube Fanbase</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-elevate-your-online-impact-with-effective-backlink-strategies/"><u>In 2024, Elevate Your Online Impact with Effective Backlink Strategies</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Oppo Reno 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-image-innovation-for-windows-and-mac-photo-to-cartoon-software/"><u>In 2024, Image Innovation for Windows & Mac Photo-to-Cartoon Software</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-understanding-whatsapps-sound-conversations/"><u>In 2024, Understanding WhatsApp's Sound Conversations</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-solutions-de-clonage-de-ssd-corsair-trouvez-le-meilleur-logiciel/"><u>Top Solutions De Clonage De SSD Corsair: Trouvez Le Meilleur Logiciel</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-ai-powered-frame-refactoring-suite/"><u>[New] AI-Powered Frame Refactoring Suite</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-exclusive-templates-for-tiktok-backdrops/"><u>[New] Unveiling Exclusive Templates for TikTok Backdrops</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-premier-audio-recording-tools-11-edition/"><u>[Updated] 2024 Approved Premier Audio Recording Tools - #11 Edition</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-the-buzz-creation-blueprint-for-marketing-success/"><u>[Updated] 2024 Approved The Buzz-Creation Blueprint for Marketing Success</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-speaker-recorder-evaluation-tips-for-2024/"><u>[Updated] Speaker Recorder Evaluation Tips for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-compreenas-guide-to-seamless-time-marking-in-youtube-videos-desktopmobile/"><u>[Updated] The Compreenas Guide to Seamless Time Marking in YouTube Videos (Desktop/Mobile)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-essence-of-the-apple-m1-a-technological-marvel/"><u>[Updated] The Essence of the Apple M1 A Technological Marvel</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-undertaking-decoding-digital-picture-resolutions/"><u>[Updated] Ultimate Undertaking Decoding Digital Picture Resolutions</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-virtual-world-warfare-understanding-meta-and-omniverse-differences-for-2024/"><u>[Updated] Virtual World Warfare Understanding Meta and Omniverse Differences for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-pioneering-resources-leading-free-video-openers-guide/"><u>2024 Approved Pioneering Resources Leading Free Video Openers Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-standout-reddit-content-an-exclusive-look-at-top-10-threads/"><u>2024 Approved Standout Reddit Content An Exclusive Look at Top 10 Threads</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamline-your-movie-watching-process-add-subtitles-to-wmp/"><u>2024 Approved Streamline Your Movie-Watching Process Add Subtitles to WMP</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-movie-storage-space-needs-over-24-hours/"><u>2024 Approved Understanding Movie Storage Space Needs Over 24 Hours</u></a></li>
+<li><a href="https://blog-min.techidaily.com/achieve-seamless-branding-by-eliminating-logos-in-videos-top-cost-free-techniques-revealed/"><u>Achieve Seamless Branding by Eliminating Logos in Videos - Top Cost-Free Techniques Revealed!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-intel-dynamic-platform-and-thermal-framework-driver-setup-fixed/"><u>Mastering Intel Dynamic Platform & Thermal Framework Driver Setup: Fixed!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tale-weavers-hub-hall-of-fame-picks-for-2024/"><u>Tale Weavers Hub - Hall of Fame Picks for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/textual-tricks-for-tickling-funny-bones-for-2024/"><u>Textual Tricks for Tickling Funny Bones for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-path-to-virtual-visualization-excellence-a-zoom-video-filters-tutorial-for-2024/"><u>The Path to Virtual Visualization Excellence A Zoom Video Filters Tutorial for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-your-dji-potential-two-devices-get-20-gratis-luts-for-2024/"><u>Unlock Your DJI Potential – Two Devices Get 20 Gratis LUTs for 2024</u></a></li>
 </ul></div>
 

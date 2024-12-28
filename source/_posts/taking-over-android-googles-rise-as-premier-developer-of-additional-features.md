@@ -1,7 +1,7 @@
 ---
 title: "Taking Over Android: Google's Rise as Premier Developer of Additional Features"
-date: 2024-12-19T21:48:49.794Z
-updated: 2024-12-23T01:22:41.931Z
+date: 2024-12-23T19:17:23.440Z
+updated: 2024-12-28T18:45:47.017Z
 tags:
   - mobile
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/e591b5728fa84d66a3323b91b4ed2e3f5b0efaa53
 ## Taking Over Android: Google's Rise as Premier Developer of Additional Features
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/e591b5728fa84d66a3323b91b4ed2e3f5b0efaa53
 * [Google Apps Make Android Phones All Feel the Same](https://fox-friendly.techidaily.com/decreasing-audio-intensity-protocol/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/e591b5728fa84d66a3323b91b4ed2e3f5b0efaa53
 ![The app drawer of the OnePlus12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-app-drawer-of-the-oneplus12rjpg_53485300814_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -59,10 +59,6 @@ Jerome Thomas / How-To Geek
  Google's insistence on making Android phone makers ship their apps is why a company like Samsung ships duplicate programs on their phones. They either give Google full control over the software experience, or they settle for confusing duplication. Samsung at least tries to clean up the clutter a bit by dumping most of the search giants' apps into a folder labeled "Google" on the home screen.
 
 ![Galaxy Z Flip 6 next to the Fold 6 on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/flip-6-next-to-fold-6-1.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -77,6 +73,10 @@ Justin Duino / How-To Geek
  It's not that I don't use any Google apps. I find Google Maps useful, especially due to how much information it provides about local businesses. I watch YouTube, since it is the primary way major and independent publishers alike distribute video. But these apps don't provide essential phone functionality in the way that a gallery app and a local video player do. They're the kind of programs many people would immediately seek out on their own in the Play Store. Still, they're preinstalled to drive more people toward Google services and provide the company with more marketable data.
 
  People are quick to call out budget Motorola phones for installing unwanted shopping apps and random games, but Google's software collects far more data and is much more intrusive. We're just conditioned to expect them, even if we have never once clicked on Google Home.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Some Preinstalled Apps Are Better Than Google's
 
@@ -93,7 +93,7 @@ Close
  Nothing (the company) shows [how much style a phone maker can give their phones](https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-the-latest-in-hardware-innovation/) without making their devices as garish and inconsistent as the Android skins of years past. Android would be far less interesting without their innovations and experimentation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Google Apps Make Android Phones All Feel the Same
@@ -129,17 +129,15 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-experts-choice-top-10-streamer-pickers-guide/"><u>[New] The Expert's Choice Top 10 Streamer Pickers Guide</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/he-intersection-of-brain-research-and-strategic-business-management/"><u>[New] The Intersection of Brain Research and Strategic Business Management</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-10plus-top-free-subtitle-converter-websites/"><u>[New] Unlocking 10+ Top Free Subtitle Converter Websites</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-visual-storytelling-best-plugin-choices-in-ae/"><u>2024 Approved Streamlining Visual Storytelling Best Plugin Choices in AE</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ing-the-course-of-monetization-for-creator-economy-on-youtubeshorts/"><u>Charting the Course of Monetization for Creator Economy on YouTubeshorts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/hearthsongs-the-quintessential-playlist-for-engagement/"><u>Hearthsongs The Quintessential Playlist for Engagement</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-samsung-galaxy-m14-5g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Samsung Galaxy M14 5G Phone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-leverage-these-10-devices-for-crystal-clear-zooms/"><u>In 2024, Leverage These 10 Devices for Crystal Clear Zooms</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-photo-to-video-with-accompaniment-sounds-for-2024/"><u>The Art of Photo-to-Video with Accompaniment Sounds for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-oppo-a38-frp-by-drfone-android/"><u>The Updated Method to Bypass Oppo A38 FRP</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unlocking-the-full-spectrum-of-editing-power-in-polarr/"><u>Unlocking the Full Spectrum of Editing Power in Polarr</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-metaverse-marketing-mysteries-for-2024/"><u>Unveiling Metaverse Marketing Mysteries for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-seamless-system-sharing-quick-and-effective-techniques-for-transferring-files/"><u>[New] Seamless System Sharing Quick and Effective Techniques for Transferring Files</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-instantly-engage-in-video-talks-using-whatsapp-web-from-your-laptop/"><u>[Updated] 2024 Approved Instantly Engage in Video Talks Using WhatsApp Web From Your Laptop</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-conquering-chaos-muting-tactics-for-seamless-gmeet-participation-for-2024/"><u>[Updated] Conquering Chaos Muting Tactics for Seamless GMeet Participation for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-optimizing-your-project-b-roll-utilization-tips/"><u>[Updated] Optimizing Your Project B-Roll Utilization Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-complete-guide-to-samsungs-comprehensive-picture-editing-tools-2023/"><u>[Updated] The Complete Guide to Samsung’s Comprehensive Picture Editing Tools, 2023</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-media-with-apple-music-and-video-mixes/"><u>2024 Approved Streamlining Media with Apple Music & Video Mixes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-limitless-creativity-with-free-after-effects-samples/"><u>2024 Approved Unlock Limitless Creativity with Free After Effects Samples</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/all-you-need-to-know-about-the-blade-e-flite-mcx2-a-detailed-review-of-americas-favorite-rtf-rc-helicopter/"><u>All You Need to Know About the Blade E-Flite mCX2 - A Detailed Review of America's Favorite RTF RC Helicopter</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-xiaomi-redmi-note-12t-pro-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Xiaomi Redmi Note 12T Pro Fingerprint Lock</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-factory-unlock-your-telstra-iphone-14-by-drfone-ios/"><u>How To Factory Unlock Your Telstra iPhone 14</u></a></li>
 </ul></div>
 

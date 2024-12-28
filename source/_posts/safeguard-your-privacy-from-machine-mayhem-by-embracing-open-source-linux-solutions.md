@@ -1,7 +1,7 @@
 ---
 title: Safeguard Your Privacy From Machine Mayhem by Embracing Open Source Linux Solutions
-date: 2024-12-16T00:02:44.748Z
-updated: 2024-12-22T19:31:16.100Z
+date: 2024-12-23T19:44:47.470Z
+updated: 2024-12-28T16:16:27.135Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Safeguard Your Privacy From Machine Mayhem by Embracing Open Source Linux Solutions
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -24,7 +24,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Every other app and service now seems to be tacking on AI functionality to try to entice weary users or satisfy shareholders. Sometimes, AI features work well. Often, it just results in junk output (at least for now) and a privacy nightmare. Here's how Linux can help you escape the AI apocalypse.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Everyone Is Adding AI to Their Products and Services
@@ -38,7 +38,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  This effort to add AI to everything isn't stopping, despite users' trepidation. Windows, MacOS, and iOS are all plowing ahead with new AI features, and at no cost to you. This raises the question of how they plan on profiting from it (hint, the answer is probably by monetizing the data you feed to them).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  For AI to Work, It Needs to Scrape Your Data
@@ -52,7 +52,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  This doesn't just make AI output unoriginal, It's a massive privacy issue: how can you be sure some details of your private life that have been submitted to an AI platform won't be used to generate someone else's short story, business email, to create images, or just [revealed to the public outright](https://www.businessinsider.com/google-researchers-openai-chatgpt-to-reveal-its-training-data-study-2023-12 "https://www.businessinsider.com/google-researchers-openai-chatgpt-to-reveal-its-training-data-study-2023-12")?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Take Control Back By Switching to Linux
@@ -60,7 +60,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The Kubuntu Focus Ir16 Gen 2 laptop open on a desk in front of speakers and a headset.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/53784641964_d7cc9b8262_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -88,21 +88,15 @@ Jerome Thomas / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-jujutsu-kaisen-making-waves-tiktok-edition/"><u>[New] In 2024, Jujutsu Kaisen Making Waves TikTok Edition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-synergy-of-social-media-embedding-linktree-in-your-tiktok-bio/"><u>[New] Synergy of Social Media Embedding Linktree in Your TikTok Bio</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-webcam-wonders-unveiling-tools-for-top-video-quality/"><u>[New] Webcam Wonders - Unveiling Tools for Top Video Quality</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-alternative-recreation-in-the-firstrow-rankings/"><u>[Updated] Alternative Recreation in the Firstrow Rankings</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-keep-your-digital-life-streamlined-blocking-youtube-channels-smartly/"><u>[Updated] Keep Your Digital Life Streamlined Blocking Youtube Channels Smartly</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-guide-top-ten-meme-designs-for-virality/"><u>[Updated] Ultimate Guide Top Ten Meme Designs for Virality</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-platforms-for-animated-3d-creation/"><u>[Updated] Ultimate Platforms for Animated 3D Creation</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-giggle-genesis-app/"><u>2024 Approved Giggle Genesis App</u></a></li>
-<li><a href="https://win11.techidaily.com/best-practices-for-github-desktop-adoption-in-windows-11/"><u>Best Practices for GitHub Desktop Adoption in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723014822429-from-mute-to-music-resolving-sound-problems-in-your-hp-laptop-today/"><u>From Mute to Music: Resolving Sound Problems in Your HP Laptop Today</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-best-camcorder-selections-for-snowboardingskiing/"><u>In 2024, Best Camcorder Selections for Snowboarding/Skiing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-bottom-line-how-much-do-podcasters-take-home/"><u>In 2024, The Bottom Line How Much Do Podcasters Take Home?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-20-tales-on-yt-where-to-find-the-best-storytelling/"><u>In 2024, Top 20 Tales on YT Where to Find the Best Storytelling</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-assessment-of-the-apple-homepod-mini-evaluating-its-musical-prowess-and-intelligent-features/"><u>The Ultimate Assessment of the Apple HomePod Mini: Evaluating Its Musical Prowess & Intelligent Features</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-using-vlc-from-mpeg-4-to-all-media-types-for-2024/"><u>The Ultimate Guide to Using VLC From MPEG-4 to All Media Types for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tranquil-sleep-soundtrack-expertly-selected-voices-for-2024/"><u>Tranquil Sleep Soundtrack Expertly Selected Voices for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-affordable-text-animation-strategies-webreal-world/"><u>[New] In 2024, Affordable Text Animation Strategies Web/Real World</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-expertise-in-action-quick-tips-for-online-photo-trimming/"><u>[New] In 2024, Expertise in Action Quick Tips for Online Photo Trimming</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-guide-to-use-luts-in-premiere-pro/"><u>[Updated] Guide to Use LUTs in Premiere Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-navigating-the-world-of-lut-based-color-correction/"><u>2024 Approved Navigating the World of LUT-Based Color Correction</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-synching-worlds-instagram-to-tiktok-essentials/"><u>2024 Approved Synching Worlds Instagram to TikTok Essentials</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-and-science-of-capturing-stunning-gopro-time-lapse/"><u>In 2024, The Art & Science of Capturing Stunning GoPro Time Lapse</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-video-to-photo-windows-11-methodology/"><u>In 2024, Video to Photo Windows 11 Methodology</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ipad-creativity-showdown-apple-pencil-pro-vs-apple-pencil-2nd-gen-ultimate-verdict-for-artists-and-designers-techradar/"><u>IPad Creativity Showdown: Apple Pencil Pro vs Apple Pencil (2Nd Gen) – Ultimate Verdict for Artists and Designers | TechRadar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-key-instagram-tags-that-can-elevate-your-social-media-presence/"><u>The Key Instagram Tags That Can Elevate Your Social Media Presence</u></a></li>
 </ul></div>
 

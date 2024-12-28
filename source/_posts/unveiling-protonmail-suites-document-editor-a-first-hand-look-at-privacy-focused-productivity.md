@@ -1,7 +1,7 @@
 ---
 title: "Unveiling ProtonMail Suite's Document Editor: A First-Hand Look at Privacy-Focused Productivity"
-date: 2024-12-17T03:52:49.021Z
-updated: 2024-12-23T01:03:28.403Z
+date: 2024-12-22T17:17:14.106Z
+updated: 2024-12-28T18:44:37.724Z
 tags:
   - web
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/f8ea6bc64575a4f059dff23c3d5a8452f8167601d
  Proton Docs is the [latest feature of Proton Drive](https://win-answers.techidaily.com/fix-iphone-unrecognized-by-itunes-on-windows-11-solutions-and-tips/) and the first collaborative document editing tool to feature default end-to-end encryption. Not only does this give you privacy down to the keystroke, but your documents will also be protected against data breaches and third-party access.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What is Proton?
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/f8ea6bc64575a4f059dff23c3d5a8452f8167601d
 ![A screenshot of the Proton home page displaying their services.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-07-135433.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Aran Folsom / How-To Geek | Proton
@@ -42,7 +42,7 @@ Aran Folsom / How-To Geek | Proton
 ![The Proton Docs user interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/docs.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Collaborating in real-time is also a breeze with easy-to-navigate sharing features and instant updates between users. These two aspects alone make using Proton Docs very intuitive for Google users.
@@ -50,7 +50,7 @@ Aran Folsom / How-To Geek | Proton
 ![The Share Document dialogue in Proton Docs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/share-document.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That said, there are some major differences. One of the biggest problems (and it is a fairly small one) for me is that the default font sizes are larger than the standard sizes of other document editing tools. Proton Docs defaults to size 16 font, whereas 11 or 12 is what you'd typically expect.
@@ -68,7 +68,7 @@ Aran Folsom / How-To Geek | Proton
  I personally love the default paperless view, though I hope Proton adds an option to change this for users who aren’t as fond of it. I also appreciate that Proton Docs opens a new document or the Proton Drive home page in a new tab, unlike Google Docs, which operates within a single tab.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Is Proton Docs Worth the Switch?
@@ -92,24 +92,19 @@ Aran Folsom / How-To Geek | Proton
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-taking-comedy-to-the-digital-frontier-your-gif-creation-roadmap/"><u>[New] Taking Comedy to the Digital Frontier Your GIF Creation Roadmap</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-srt-file-craftsmanship-manual/"><u>[New] The Ultimate SRT File Craftsmanship Manual</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unlocking-vanished-videos-watching-youtubes-forgotten-gems-online/"><u>[New] Unlocking Vanished Videos Watching YouTube's Forgotten Gems Online</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-one-youtube-feed-how-to-merge-multiple-videos/"><u>[Updated] One YouTube Feed How to Merge Multiple Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tailoring-audio-diminution-process/"><u>[Updated] Tailoring Audio Diminution Process</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-teleportation-illusions-in-visual-effects-artistry/"><u>[Updated] Teleportation Illusions in Visual Effects Artistry</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleash-clean-visuals-step-by-step-guide-to-backdrop-erasure/"><u>[Updated] Unleash Clean Visuals Step-By-Step Guide to Backdrop Erasure</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-syncing-socials-a-step-by-step-guide-to-linking-instagram-and-tiktok/"><u>2024 Approved Syncing Socials A Step-by-Step Guide to Linking Instagram and TikTok</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-notch-ae-extensions-selection/"><u>2024 Approved Top-Notch AE Extensions Selection</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/daily-dose-of-language-learning-urdus-10-minutes/"><u>Daily Dose of Language Learning - Urdu's 10 Minutes</u></a></li>
-<li><a href="https://win-updates.techidaily.com/deciphering-and-deleting-fake-apple-safety-notifications-with-expert-tips-from-malwarefox/"><u>Deciphering and Deleting Fake Apple Safety Notifications with Expert Tips From MalwareFox</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-motorola-moto-g84-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Motorola Moto G84 5G Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-14-plus-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-micro-musings-video-characters-and-sounds/"><u>In 2024, Micro Musings Video Characters & Sounds</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-10-live-audio-broadcast-networks/"><u>In 2024, Top 10 Live Audio Broadcast Networks</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-poco-m6-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Poco M6 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unraveling-the-secrets-of-inshot-editing-excellence-for-2024/"><u>Unraveling the Secrets of InShot Editing Excellence for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/watch-on-the-go-how-to-effortlessly-save-movies-tv-episodes-and-songs-for-offline-enjoyment/"><u>Watch On the Go: How to Effortlessly Save Movies, TV Episodes & Songs for Offline Enjoyment</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tips-for-scaling-your-youtube-videos/"><u>[New] Tips for Scaling Your YouTube Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-hd-video-cameras-unveiled/"><u>[New] Top HD Video Cameras Unveiled</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-windows-10-sound-capabilities/"><u>[New] Unlocking Windows 10 Sound Capabilities</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtubers-dream-gear-top-cameras-unveiled/"><u>[New] YouTubers' Dream Gear Top Cameras Unveiled</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-instant-iphone-success-proven-tips-for-making-professional-photo-collagues/"><u>[Updated] Instant iPhone Success Proven Tips for Making Professional Photo Collagues</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tips-and-tricks-for-streamlining-color-grading-with-luts-in-adobe/"><u>[Updated] Tips and Tricks for Streamlining Color Grading with LUTs in Adobe</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-reddit-threads-ever-the-10-greatest-hits/"><u>[Updated] Top Reddit Threads Ever The 10 Greatest Hits</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-from-content-creator-to-cash-magnet-instagrams-guide/"><u>2024 Approved From Content Creator to Cash Magnet Instagram's Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-soundscape-dilution-via-audacity-tools/"><u>2024 Approved Navigating Soundscape Dilution via Audacity Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-generative-ai-is-transforming-employment-landscapes-7-key-impacts/"><u>How Generative AI Is Transforming Employment Landscapes: 7 Key Impacts</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-apple-iphone-6s-plus-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From Apple iPhone 6s Plus in the Best Ways</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-meizu-21-pro-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Meizu 21 Pro Phones? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unparalleled-harmony-collector-android-based/"><u>In 2024, Unparalleled Harmony Collector, Android-Based</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/the-easy-way-to-delete-applications-in-your-pcs-settings-yl-software-expert-advice/"><u>The Easy Way to Delete Applications in Your PC's Settings (YL Software Expert Advice)</u></a></li>
 </ul></div>
 

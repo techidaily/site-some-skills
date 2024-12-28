@@ -1,7 +1,7 @@
 ---
 title: Kickstart Your Workday Effortlessly with a Handy Mac Shortcut!
-date: 2024-12-19T23:43:14.218Z
-updated: 2024-12-23T04:06:50.531Z
+date: 2024-12-21T18:41:11.488Z
+updated: 2024-12-28T17:00:34.227Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Kickstart Your Workday Effortlessly with a Handy Mac Shortcut!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -24,7 +24,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  I’ve played around with [Apple’s Shortcuts app](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) to create all kinds of complicated processes. But my favorite shortcut, and the one I use the most by far, is actually ridiculously simple. All it does is open all my work apps, but I recommend it to everyone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Makes This Shortcut So Great
@@ -42,7 +42,7 @@ Your browser does not support the video tag.
  But enough waxing lyrical about why I love this shortcut, here’s how to try it for yourself. Honestly, it couldn’t be easier.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Create a Shortcut That Opens All Your Work Apps
@@ -62,7 +62,7 @@ Close
 ![Several actions to open apps in a Mac Shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/several-actions-to-open-apps-in-a-mac-shortcut.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  At the top of the Shortcuts window, type a name for your shortcut. I call mine “Start Working.” Then click the icon to edit the color and symbol if you want. Finally, click the Shortcut Details button in the top-right corner, shown by an “i” button, to choose how to launch this shortcut. I like to enable“Pin to Menu Bar” so I can run it from the menu bar with a couple of clicks, but you could create a keyboard shortcut if you prefer.
@@ -90,16 +90,14 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-infiltrating-hidden-user-communications-on-yt-platforms/"><u>[New] In 2024, Infiltrating Hidden User Communications on YT Platforms</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-tint-tuning-toolkit/"><u>[New] Tint Tuning Toolkit</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-navigating-macos-to-optimize-mixer-streams-for-2024/"><u>[Updated] Navigating MacOS to Optimize Mixer Streams for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-simple-steps-to-change-iphones-call-alert-sounds/"><u>2024 Approved Simple Steps to Change iPhones' Call Alert Sounds</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/djis-aerial-fleet-standard-aviators-professional-pilots-4k-pros/"><u>DJI's Aerial Fleet Standard Aviators, Professional Pilots, 4K Pros</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-synergy-of-enterprises-and-immersive-virtual-worlds/"><u>In 2024, Synergy of Enterprises and Immersive Virtual Worlds</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/instant-transcription-absolutely-complimentary/"><u>Instant Transcription, Absolutely Complimentary</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-gopro-camera-leap-hero4-to-hero5-for-2024/"><u>The GoPro Camera Leap (Hero4 to Hero5) for 2024</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/transformar-y-guardar-tu-video-mp4-como-dvd-con-solo-unos-faciles-pasos-en-windows-11/"><u>Transformar Y Guardar Tu Video MP4 Como DVD Con Solo Unos Fáciles Pasos en Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/valorants-solution-overcoming-the-challenge-of-vanguard-starting-up/"><u>Valorant's Solution: Overcoming the Challenge of Vanguard Starting Up</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-selections-top-rated-webcam-platforms/"><u>[New] Ultimate Selections Top-Rated Webcam Platforms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bypassing-sims-joining-gpt-and-telegram-with-ease/"><u>Bypassing SIMs: Joining GPT and Telegram with Ease</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/framing-frontiers-cutting-edge-app-innovations-24-for-2024/"><u>Framing Frontiers Cutting-Edge App Innovations '24 for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-repair-non-functioning-xbox-series-x-and-s-headset-a-step-by-step-fix/"><u>How To Repair Non-Functioning Xbox Series X & S Headset - A Step By Step Fix</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essence-of-the-apple-m1-a-technological-marvel/"><u>In 2024, The Essence of the Apple M1 A Technological Marvel</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tips-for-iphone-users-converting-standard-speed-to-slow-scenes/"><u>In 2024, Tips for iPhone Users Converting Standard Speed to Slow Scenes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouse-of-social-media-an-in-depth-look-at-facebook-twitter-instagram-and-youtube/"><u>The Powerhouse of Social Media: An In-Depth Look at Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unraveling-asmr-for-mental-and-physical-health-for-2024/"><u>Unraveling ASMR for Mental and Physical Health for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/your-ultimate-guide-to-downloading-thrones-tunes-online-for-2024/"><u>Your Ultimate Guide to Downloading Thrones Tunes Online for 2024</u></a></li>
 </ul></div>
 

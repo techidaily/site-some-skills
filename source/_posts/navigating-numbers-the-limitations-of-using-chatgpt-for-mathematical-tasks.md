@@ -1,7 +1,7 @@
 ---
 title: "Navigating Numbers: The Limitations of Using ChatGPT for Mathematical Tasks"
-date: 2024-12-21T01:18:50.629Z
-updated: 2024-12-22T17:47:14.973Z
+date: 2024-12-25T17:33:34.978Z
+updated: 2024-12-28T20:31:47.842Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/dccea8e74312ef3978115e47791b42d8d3af59dde
 ---
 
 ## Navigating Numbers: The Limitations of Using ChatGPT for Mathematical Tasks
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -42,10 +46,6 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 
 ![ChatGPT 3.5 failing at counting a list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-count-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Even when you correct ChatGPT and it apologizes and offers up a new answer, you won't necessarily get a correct answer.
 
  ChatGPT often acts like a person frantically trying to cover up a mistake and give you an answer---any answer---to get you off its back. It's actually very lifelike!
@@ -59,11 +59,7 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 ![Bing Chat failing to count.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/bing-count.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  ChatGPT Struggles With Math Logic Problems
@@ -74,6 +70,10 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 
 ![A word-based math problem for ChatGPT.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-fruit-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ChatGPT starts off okay but quickly goes off the rails into logic that doesn't make any sense and won't give a correct answer.
 
 ![ChatGPT's logically incorrect response to the problem.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-fruit-2.png) 
@@ -82,23 +82,19 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 
 ![The final part of ChatGPT's incorrect response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-fruit-3.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  ChatGPT will often dig in and argue with you about its responses, too. (Again, that's very human-like behavior.)
 
  In this case, ChatGPT argued that hey, it didn't get you the right answer---but it got you closer to your desired ratio than you were before! That's pretty funny.
 
 ![ChatGPT acknowledging the answer was wrong but arguing about it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-fruit-4.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  For the record, Microsoft's Bing Chat based on GPT 4 struggled with this problem as well, giving us a clearly incorrect answer. GPT 4's logic quickly goes off the rails here, too.
 
 ![Bing Chat giving a confused response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-fruit.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  We recommend not attempting to follow every twist and turn of logic---it's clear that the answer is incorrect.
 
@@ -107,6 +103,10 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
  When we pointed out Bing's answer was incorrect, it kept arguing with us in circles, offering wrong answer after wrong answer.
 
 ![Bing Chat giving a confused response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-fruit.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  ChatGPT Can't Reliably Do Arithmetic, Either
 
@@ -131,14 +131,20 @@ Related: [Bing Chat: How to Use the AI Chatbot](https://facebook-video-recording
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ow-to-live-without-the-convenience-of-youtube-shorts-for-2024/"><u>[New] How To Live Without the Convenience of YouTube Shorts for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-uncovering-the-appeal-filmora-editors-most-attractive-features/"><u>[New] Uncovering the Appeal Filmora Editor's Most Attractive Features</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-sierras-icloud-drives-for-all-access/"><u>[New] Unlocking Sierra's iCloud Drives for All-Access</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveil-the-potential-of-vfx-animated-text-for-free/"><u>2024 Approved Unveil the Potential of VFX Animated Text for Free</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-honor-x8b-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-fixes-for-the-elusive-steamdll-error-on-your-computer/"><u>Effective Fixes for the Elusive Steam.dll Error on Your Computer</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-best-video-software-vlc-against-mx/"><u>In 2024, Unveiling Best Video Software VLC Against MX</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/romantic-partner-hd-wallpaper-pack-and-photograph-ensemble-crystal-clear-visuals-from-yl-software-solutions/"><u>Romantic Partner HD Wallpaper Pack and Photograph Ensemble - Crystal Clear Visuals From YL Software Solutions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/save-money-with-these-top-12-free-disk-defragmenters-your-july-2024-guide/"><u>Save Money with These Top 12 Free Disk Defragmenters - Your July 2024 Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/god-of-war-refining-play-mechanics/"><u>'God of War': Refining Play Mechanics</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-the-full-potential-of-iphones-hdr-functions/"><u>[New] Unlocking the Full Potential of iPhone's HDR Functions</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-overcoming-creative-roadblocks-in-short-form-videos/"><u>[Updated] 2024 Approved Overcoming Creative Roadblocks in Short Form Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-blueprint-to-elevate-your-flight-with-fpv-drone-blades/"><u>[Updated] The Ultimate Blueprint to Elevate Your Flight with FPV Drone Blades</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/windows-11zip/"><u>「Windows 11と一緒に失われたZIPファイルを見つける自由な手順」</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-samsung-galaxy-a05-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Samsung Galaxy A05 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-zeo-startup-showcase/"><u>In 2024, The Ultimate Zeo-Startup Showcase</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-realme-gt-neo-5-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Realme GT Neo 5 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveil-nearby-neighbors-from-dining-deals-to-festivities-found-easily/"><u>In 2024, Unveil Nearby Neighbors - From Dining Deals to Festivities Found Easily</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-workflow-through-ai-dialogue-coaching/"><u>Maximizing Workflow Through AI Dialogue Coaching</u></a></li>
+<li><a href="https://windows11.techidaily.com/nine-pathways-out-of-the-window-11s-0x8004def5-puzzle/"><u>Nine Pathways Out of the Window 11'S 0X8004DEF5 Puzzle</u></a></li>
+<li><a href="https://some-skills.techidaily.com/superior-suggestions-prime-platforms-for-grabbing-snapalert-rhythms-for-2024/"><u>Superior Suggestions Prime Platforms for Grabbing SnapAlert Rhythms for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-learners-handbook-of-av1-technology-for-2024/"><u>The Learner's Handbook of AV1 Technology for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-vivo-y100i-power-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Vivo Y100i Power 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-magic-in-marketing-top-20-keyphrases-for-2024/"><u>Unlocking Magic in Marketing - Top 20 Keyphrases for 2024</u></a></li>
 </ul></div>
 

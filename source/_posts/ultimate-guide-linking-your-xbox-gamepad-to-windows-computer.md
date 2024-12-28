@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Linking Your Xbox Gamepad to Windows Computer"
-date: 2024-12-21T06:14:54.719Z
-updated: 2024-12-23T00:14:27.585Z
+date: 2024-12-22T19:06:06.645Z
+updated: 2024-12-28T16:57:36.522Z
 tags:
   - desktop
 categories:
@@ -33,6 +33,10 @@ Xbox
 
  Once you're done, go ahead and fire up [any game with controller support](https://extra-lessons.techidaily.com/step-by-step-to-mastering-adobes-cloud-storage-capabilities-and-options/) and have fun.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Connect an Xbox Wireless Controller to a PC Through Bluetooth
 
  If you'd rather avoid cable clutter, you can connect it to your PC using Bluetooth. If your PC doesn't have built-in Bluetooth, I strongly recommend purchasing a cheap [USB Bluetooth Dongle](https://www.amazon.com/TP-Link-Bluetooth-Receiver-Controller-UB500/dp/B09DMP6T22?tag=hotoge-20&ascsubtag=UUhtgUeUpU209809&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F729937%2Fhow-to-connect-an-xbox-wireless-controller-to-a-pc%2F&asc%5Fcampaign=Evergreen). This is how I connect my controller to my PC. It works just as well as onboard Bluetooth and doesn't introduce any noticeable input lag. 
@@ -42,23 +46,19 @@ Xbox
 ![Settings in the Windows 10 Start menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/settings.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In Settings, click "Devices."
 
 ![Windows 10 Settings Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/devices-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In Devices, make sure that you're on the "Bluetooth & Other Devices" page, and then click "Add Bluetooth or other device."
 
 ![Windows 10 Bluetooth menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/add-bluetooth-device.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the "Add a Device" window that appears, select "Bluetooth."
@@ -75,6 +75,10 @@ Xbox
 
 ![Front view of the Xbox Wireless Controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/xbox-pair.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Xbox](https://www.xbox.com/en-US/accessories/controllers/xbox-wireless-controller-usb-c)
 
  On your computer, click "Xbox Wireless Controller" when it appears in the "Add a Device" list.
@@ -88,7 +92,7 @@ Xbox
 ![The "Your Device is ready to go" Bluetooth screen in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/save-it.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you're done playing, it'll turn off automatically after a while, but you can also [turn the Xbox controller off](https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-google-pixel-fold-drfone-by-drfone-virtual/) manually to save battery life. To do this, press and hold the Xbox button or pop the batteries out.
@@ -98,10 +102,6 @@ Xbox
  There's a third way to connect an Xbox controller to your PC, but it involves purchasing the separate [Xbox Wireless Adapter](https://www.amazon.com/Microsoft-Xbox-Wireless-Adapter-Windows-one/dp/B00ZB7W4QU?tag=hotoge-20&ascsubtag=UUhtgUeUpU209809&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F729937%2Fhow-to-connect-an-xbox-wireless-controller-to-a-pc%2F&asc%5Fcampaign=Evergreen) USB accessory. Thanks to the proprietary wireless protocol, the adapter boasts slightly lower latency and a better range. It also lets you connect up to eight Xbox controllers to your PC at the same time, and it lets you hook up a headset to your controller.
 
 ![The Xbox Wireless adapter next to a controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/wirelsss-adapter.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Xbox](https://www.xbox.com/en-US/accessories/controllers/xbox-wireless-controller-adapter-windows)
 
@@ -130,24 +130,16 @@ Xbox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-lgs-monitor-marvel-an-exhaustive-look-at-ultra-clear-technology/"><u>[New] LG's Monitor Marvel An Exhaustive Look at Ultra-Clear Technology</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-lore-lovers-lab-bestest-bunch/"><u>[New] Lore Lovers Lab – Bestest Bunch</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/aximizing-exposure-the-art-of-applying-youtube-tags-for-2024/"><u>[New] Maximizing Exposure The Art of Applying YouTube Tags for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-new-normal-for-video-editing-with-movavi-pro-updated-to-2024/"><u>[Updated] The New Normal for Video Editing with Movavi Pro, Updated to 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-quick-winner-guide-how-to-make-money-on-reddit-in-just-a-click/"><u>[Updated] The Quick-Winner Guide How to Make Money on Reddit in Just a Click</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-impressive-hdr-photography-for-portraits/"><u>[Updated] Unveiling Impressive HDR Photography for Portraits</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-advanced-audio-alliance-for-podcasters/"><u>2024 Approved Advanced Audio Alliance for Podcasters</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-evolution-and-alternatives-to-googles-ar-stickers/"><u>2024 Approved The Evolution and Alternatives to Google's AR Stickers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-best-premiere-plans-free-for-pros/"><u>2024 Approved Unveiling the Best Premiere Plans, FREE for Pros</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-oneplus-12r-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your OnePlus 12R | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/a-comprerant-guide-to-enhanced-captioning-on-instagram-platforms/"><u>A Compreran't Guide to Enhanced Captioning on Instagram Platforms</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/boost-your-computers-power-and-response-time-with-these-essential-hardware-improvements-guided-by-yl-computing-experts/"><u>Boost Your Computer's Power and Response Time with These Essential Hardware Improvements – Guided by YL Computing Experts</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/effective-techniques-to-fix-issues-with-your-usb-drivers-guided-by-the-experts-at-yl-software/"><u>Effective Techniques to Fix Issues with Your USB Drivers, Guided by the Experts at YL Software</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-most-recent-nvidia-mx1n-driver-updates-for-windows-systems-download-now/"><u>Get the Most Recent NVIDIA MX1^[n] Driver Updates for Windows Systems | Download Now!</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-poco-x5-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Poco X5 Phones with/without a PC</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-make-a-splash-on-social-media-adding-animated-text-to-instagram-stories/"><u>In 2024, Make a Splash on Social Media Adding Animated Text to Instagram Stories</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-facetune-examination-enhancing-photos-like-a-pro/"><u>In 2024, The Ultimate Facetune Examination Enhancing Photos Like a Pro</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ultimate-free-drawing-tools-top-mac-apps-listed/"><u>Ultimate Free Drawing Tools Top Mac Apps Listed</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-make-your-videos-epic-how-to-add-slow-motion-in-windows-live-movie-maker-for-2024/"><u>Updated Make Your Videos Epic How to Add Slow Motion in Windows Live Movie Maker for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-easy-to-understand-techniques-for-first-time-filmmakers-using-green-screens/"><u>[New] In 2024, Easy-to-Understand Techniques for First-Time Filmmakers Using Green Screens</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-analyzing-and-comparing-top-software-choices-for-screens-obsfraps/"><u>[Updated] 2024 Approved Analyzing and Comparing Top Software Choices for Screens (OBS/Fraps)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-timeless-80s-effects-boosting-creative-videos/"><u>[Updated] Timeless 80S Effects Boosting Creative Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-your-process-tools-and-tricks-for-smooth-broadcasting/"><u>2024 Approved Streamlining Your Process Tools and Tricks for Smooth Broadcasting</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-our-favorite-pickup-imessage-games-of-2024-to-stay-connected/"><u>Discover Our Favorite Pickup iMessage Games of 2024 to Stay Connected</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tech-trial-vlle-outlook-on-apps/"><u>In 2024, Tech Trial VLLE Outlook on Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-visual-companion-premium-webcams-for-podcasts/"><u>In 2024, The Ultimate Visual Companion Premium Webcams for Podcasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movaviflac/"><u>Movaviの無料オンライン音楽ファイルをFLACに簡単変換する方法</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-best-value-for-money-discover-the-reliability-of-lg-24lh4830-smart-television/"><u>The Best Value for Money - Discover the Reliability of LG 24LH4830 Smart Television</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-editors-edge-secrets-to-professional-photo-refining-for-2024/"><u>The Editor's Edge Secrets to Professional Photo Refining for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-elevate-your-vlog-game-top-10-mobile-video-editing-apps-for-2024/"><u>Updated Elevate Your Vlog Game Top 10 Mobile Video Editing Apps for 2024</u></a></li>
 </ul></div>
 

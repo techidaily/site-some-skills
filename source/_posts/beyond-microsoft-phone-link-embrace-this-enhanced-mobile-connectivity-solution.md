@@ -1,7 +1,7 @@
 ---
 title: "Beyond Microsoft Phone Link: Embrace This Enhanced Mobile Connectivity Solution"
-date: 2024-12-16T05:47:13.881Z
-updated: 2024-12-23T04:27:32.370Z
+date: 2024-12-25T16:36:10.561Z
+updated: 2024-12-28T19:07:20.298Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/1e11de4cf4f80ef092048741d4366db23f2bbee14
 ---
 
 ## Beyond Microsoft Phone Link: Embrace This Enhanced Mobile Connectivity Solution
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -25,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/1e11de4cf4f80ef092048741d4366db23f2bbee14
 
  Microsoft Phone Link is a great app that allows you to access your phone from your Windows PC. But what if you want to do that and also access your Windows PC from your phone? Well, here’s a feature-rich, versatile, cross-device wireless communication and data-sharing app: [KDE Connect](http://kdeconnect.kde.org/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Microsoft Phone Link: Features and Limitation
 
  The [Microsoft Phone Link app](https://www.microsoft.com/en-in/windows/sync-across-your-devices), formerly Your Phone, is a Microsoft application that enables you to connect Android or iOS smartphones to your PC. Once set up, you can access your phone notifications and connectivity status from your PC. You can also control your phone’s media player, volume, and Do Not Disturb (DND) settings, respond to texts, take phone calls (if Bluetooth enabled), and view & transfer files from your photo gallery.
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/1e11de4cf4f80ef092048741d4366db23f2bbee14
  The app also provides advanced functionalities like phone screen mirroring, cross-device clipboard sharing, and opening phone apps on the PC. However, the complete Phone Link experience, including these advanced features, is only available to [mainly Samsung smartphones and a few other models](https://support.microsoft.com/en-gb/topic/supported-devices-for-phone-link-experiences-cb044172-87aa-9e41-d446-c4ac83ce8807). This makes the Phone Link app lackluster for most users with an unsupported smartphone. Luckily, all of us have got KDE Connect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Is KDE Connect, and What Can It Do?
@@ -73,6 +73,10 @@ Close
 
 ![Phone Notifications showing on PC via KDE Connect](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/phone-notifications-showing-on-pc-via-kde-connect-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  KDE Connect also allows you to _share your clipboard_. Once you copy something on your PC, you can open the KDE Connect app and click "Send Clipboard" to your phone. Alternatively, you can also head over to the Plugin Settings, go to Clipboard settings, and check "Automatically share the clipboard from this device". Whereas on your phone, you need to first copy something and then use the KDE persistent notification to "Send Clipboard" to your PC.
 
 Close 
@@ -89,15 +93,15 @@ Close
 
 ![Incoming Phone call notification on PC via KDE Connect](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/incoming-phone-call-notification-on-pc-via-kde-connect-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  That said, you do get the handy option to automatically pause any media playback on your PC or reduce the volume when you get a call. To enable this, go to Plugin Settings on the KDE Connect PC app and check the "Pause media during calls" option.
 
  And finally, you also have the option to ping or ring one device using the other. You can make your phone Ring or Ping from your PC using the KDE Connect app. Likewise, you can also send a Ping notification from your phone to your PC. The option to make your PC ring from your phone is also available, but I couldn’t get it to work on my configuration.
 
 Close 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Slideshow Controls
 
@@ -109,11 +113,11 @@ Close
 
 ![KDE Connect Slideshow Pointer feature](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/kde-connect-slideshow-pointer-feature.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Dibakar Ghosh | How-To Geek
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Transfer Large Files
 
@@ -125,10 +129,6 @@ Dibakar Ghosh | How-To Geek
 
 Close 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Send Two-Way Inputs Between Phone and Desktop
 
  Arguably, one of the best features of KDE Connect is the ability to remotely control your PC from your phone and vice versa. For instance, open the KDE Connect app on your phone and click the "Remote Input" option. Now, you can use the phone screen as a trackpad to control the desktop cursor. Also, click on the Keyboard Icon at the top and use your phone’s keyboard to type on your computer.
@@ -139,6 +139,10 @@ Close
 
 Close 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Create Desktop Commands and Execute Them From Your Phone
 
  This is a super handy KDE Connect feature for remotely opening apps and controlling your PC with your phone. All you need to do is open the KDE Connect app on your desktop, select the connected device, go to "Plugin Settings," scroll down and check the "Run Commands" option.
@@ -148,10 +152,6 @@ Close
 Close 
 
  To test, tap on "Lock Screen," and your PC's screen will lock. Likewise, tap on "File Explorer" to open File Explorer. You’re only restricted by your imagination at this point.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What Happened to Screen Mirroring Though?
 
@@ -176,14 +176,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-decoding-quantum-hdr-for-creative-success/"><u>[New] Decoding Quantum HDR for Creative Success</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-supercharged-visuals-video-content-plus-filter-amplification-pcmobile/"><u>[Updated] Supercharged Visuals Video Content + Filter Amplification (PC/Mobile)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-essential-guide-to-using-supplementary-film-scenes/"><u>[Updated] The Essential Guide to Using Supplementary Film Scenes</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-captivate-audiences-techniques-for-livestreaming-video-in-spherical-views-on-youtube/"><u>2024 Approved Captivate Audiences Techniques for Livestreaming Video in Spherical Views on YouTube</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-cutting-edge-of-photography-iphone-cropping-tips/"><u>2024 Approved The Cutting Edge of Photography IPhone Cropping Tips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-photo-and-video-slideshow-makers-for-macos-sierra/"><u>2024 Approved Top Photo and Video Slideshow Makers for macOS Sierra</u></a></li>
-<li><a href="https://win-webster.techidaily.com/ace-your-mobile-dj-business-key-marketing-strategies-and-pro-cdj-tips-for-success/"><u>Ace Your Mobile DJ Business: Key Marketing Strategies and Pro CDJ Tips for Success</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-uncovering-the-secrets-of-effortless-iphone-podcast-downloads/"><u>In 2024, Uncovering the Secrets of Effortless iPhone Podcast Downloads</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-unlock-the-power-of-panel-discussions-with-fb-live-screening/"><u>In 2024, Unlock the Power of Panel Discussions with FB Live Screening</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-set-up-efficient-live-conversations-on-pc-via-whatsapp-web/"><u>[New] In 2024, Set Up Efficient Live Conversations on PC via WhatsApp Web</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-definitive-handbook-to-reacting-on-youtube-tweets/"><u>[Updated] 2024 Approved The Definitive Handbook to Reacting on YouTube Tweets</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-superior-methods-transforming-pinterest-visuals-into-audios/"><u>[Updated] Superior Methods Transforming Pinterest Visuals Into Audios</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-core-language-of-cutting-edge-vr-experiences/"><u>[Updated] The Core Language of Cutting-Edge VR Experiences</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-innovative-mobile-layering-apps-for-android-and-iphone/"><u>[Updated] Top 10 Innovative Mobile Layering Apps for Android & iPhone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-realistic-movement-motion-blur-in-facial-images-with-picsart/"><u>2024 Approved Unlocking Realistic Movement Motion Blur in Facial Images with Picsart</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/fb-ad-videos-made-easy-utilize-free-video-making-kit/"><u>FB Ad Videos Made Easy Utilize Free Video-Making Kit</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-xiaomi-civi-3-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Xiaomi Civi 3 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-perfecting-your-interview-role-a-comprehensive-guide/"><u>In 2024, Perfecting Your Interview Role A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-interpreting-error-messages-in-w11-using-ms-tools/"><u>Step-by-Step Guide to Interpreting Error Messages in W11 Using MS Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-resonance-of-rhythm-music-that-echoes-films-for-2024/"><u>The Resonance of Rhythm Music That Echoes Films for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-comparison-elite-ranking-of-travel-ready-wifi-devices/"><u>The Ultimate Comparison: Elite Ranking of Travel-Ready WiFi Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-overview-vsco-creative-suite-for-2024/"><u>Ultimate Overview VSCO Creative Suite for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-your-tunes-curated-list-of-websites-for-youtuberingtones-for-2024/"><u>Unlock Your Tunes Curated List of Websites For YouTubeRingtones for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-unbiased-review-of-vn-video-editor-apk-worth-your-time/"><u>Updated 2024 Approved Unbiased Review of VN Video Editor APK Worth Your Time?</u></a></li>
 </ul></div>
 

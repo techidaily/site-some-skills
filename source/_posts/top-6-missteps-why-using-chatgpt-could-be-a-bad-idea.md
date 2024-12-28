@@ -1,7 +1,7 @@
 ---
 title: "Top 6 Missteps: Why Using ChatGPT Could Be a Bad Idea"
-date: 2024-12-17T16:14:26.089Z
-updated: 2024-12-23T03:28:58.281Z
+date: 2024-12-23T18:16:42.648Z
+updated: 2024-12-28T18:39:49.795Z
 tags:
   - cutting-edge
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
 ---
 
 ## Top 6 Missteps: Why Using ChatGPT Could Be a Bad Idea
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -31,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
 
 [ChatGPT](https://smart-video-editing.techidaily.com/new-how-to-find-free-sites-for-sound-effect-and-add-them-in-final-cut-pro-for-2024/) is incredibly powerful and has had a transformative effect on how we interact with computers. However, like any tool, it's important to understand its limitations and to use it responsibly. Here are five things you shouldn't use ChatGPT for.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Limits of ChatGPT
 
  Before we delve into the specifics, it's crucial to understand the limitations of ChatGPT. Firstly, it cannot access real-time or personal data unless explicitly [provided during the conversation](https://twitter-videos.techidaily.com/updated-2024-approved-bridge-gap-twitter-video-and-chrome-compatibility/) or if you've [enabled ChatGPT's plugins](https://extra-lessons.techidaily.com/2024-approved-building-your-brand-on-instagram-the-top-9-actions-of-industry-stars/). Without browsing enabled (which requires [ChatGPT Plus](https://openai.com/blog/chatgpt-plus)), it generates responses based on patterns and information it learned during its training, which includes a diverse range of internet text up until its training cut-off in September 2021\. But it doesn't "know" anything in the human sense or understand the context the way people do.
@@ -39,19 +39,11 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
 
 Related: [8 Surprising Things You Can Do With ChatGPT](https://facebook-clips.techidaily.com/updated-achieve-higher-interactions-mastering-the-art-of-square-videos-for-2024/) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  1\. Don't Use ChatGPT With Sensitive Information
 
  Given its design and how it works, ChatGPT is not a secure channel for sharing or handling sensitive information. This includes financial details, passwords, personal identification information, or confidential data.
 
  Recently, OpenAI has added a new sort of "[incognito](https://mondly-stories.techidaily.com/sweet-sentences-expressing-chocolate-in-30plus-languages/)" mode to prevent your chats from being stored or used for future training, but only you can decide whether you trust that promise. Some companies, such as Samsung, have already [banned the use of ChatGPT](https://www.bloomberg.com/news/articles/2023-05-02/samsung-bans-chatgpt-and-other-generative-ai-use-by-staff-after-leak) by their employees for work purposes because of data leaks.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  2\. Don't Use It for Legal or Medical Advice
 
@@ -62,7 +54,7 @@ Related: [The 6 Best Uses for ChatGPT 4](https://extra-support.techidaily.com/ne
  GPT is a promising technology that definitely has the [potential to perform legitimate medical diagnoses](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000198) , but this will be in the form of specialized, certified medical AI systems down the line. It is not the general-purpose ChatGPT product available to the public.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  3\. Don't Use it To Make Decisions For You
@@ -73,6 +65,10 @@ Related: [The 6 Best Uses for ChatGPT 4](https://extra-support.techidaily.com/ne
 
 Related: [GPT 3.5 vs. GPT 4: What's the Difference?](https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-honor-x50i-drfone-by-drfone-virtual-android/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. Don't Use It As a Trusted Source
 
  While ChatGPT is trained on a vast amount of information and often provides accurate responses, it's not a definitive source of truth. It can't verify information or check facts in real-time. Therefore, any information received from ChatGPT should be cross-verified with trusted and authoritative sources, especially regarding important matters like news, scientific facts, or historical events.
@@ -80,7 +76,7 @@ Related: [GPT 3.5 vs. GPT 4: What's the Difference?](https://pokemon-go-android.
 [ChatGPT is prone to "hallucinating" facts](https://youtube-help.techidaily.com/free-method-to-record-your-youtube-watching-experience-for-2024/) that sound true, but are completely made up. Be careful!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  5\. Don't Use ChatGPT as a Therapist
@@ -88,6 +84,10 @@ Related: [GPT 3.5 vs. GPT 4: What's the Difference?](https://pokemon-go-android.
  While AI technologies like ChatGPT can simulate empathetic responses and offer general advice, they're not substitutes for professional [mental health](https://www.reviewgeek.com/120354/18-of-the-best-mobile-games-for-your-mental-health/) support. They cannot understand and process human emotions deeply.
 
  AI cannot replace the nuanced understanding, emotional resonance, and ethical guidelines inherent to human therapists. For any serious emotional or psychological issues, always seek help from a licensed mental health professional.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Don't Use ChatGPT For Math!
 
@@ -114,22 +114,18 @@ Related: [How to Create ChatGPT Personas for Every Occasion](https://vp-tips.tec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-crafting-the-perfect-youtube-channel-url-a-quick-guide-for-2024/"><u>[New] Crafting the Perfect YouTube Channel Url A Quick Guide for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-expert-analysis-how-showmore-enhances-your-video-capture-techniques-for-2024/"><u>[New] Expert Analysis How ShowMore Enhances Your Video Capture Techniques for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-fcp-freebies/"><u>[New] The Ultimate Guide to FCP Freebies</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-art-of-audio-visual-storytelling-with-iphone/"><u>[Updated] The Art of Audio-Visual Storytelling with iPhone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-6-pro-rated-gopro-head-straps-and-mastering-usage/"><u>[Updated] Top 6 Pro-Rated GoPro Head Straps & Mastering Usage</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-mastering-content-for-more-subscribers/"><u>2024 Approved Mastering Content for More Subscribers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-supernatural-time-freeze-manual/"><u>2024 Approved Supernatural Time-Freeze Manual</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-influence-essential-marketing-expressions-explained/"><u>2024 Approved The Art of Influence Essential Marketing Expressions Explained</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-selection-budget-friendly-4k-cameras-(1k/"><u>2024 Approved Ultimate Selection Budget-Friendly 4K Cameras <$1K</u></a></li>
-<li><a href="https://fox-links.techidaily.com/how-to-optimize-playback-settings-in-snapchat-applications-for-2024/"><u>How To Optimize Playback Settings in Snapchat Applications for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-k11x-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Oppo K11x PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-realme-11-proplus-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Realme 11 Pro+?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unified-social-media-platforms-insta-tik-techniques/"><u>In 2024, Unified Social Media Platforms Insta-Tik Techniques</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/maximieren-sie-ihre-windows-11-geschwindigkeit-effektive-methoden-zur-beschleunigung-ihres-betriebssystems-entdecken/"><u>Maximieren Sie Ihre Windows 11 Geschwindigkeit! Effektive Methoden Zur Beschleunigung Ihres Betriebssystems Entdecken</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-write-permission-issues-in-windows-11/"><u>Troubleshooting Write Permission Issues in Windows 11</u></a></li>
-<li><a href="https://video-capture.techidaily.com/ultimate-guide-choose-your-favorite-video-grabber-app-on-social-media-sites/"><u>Ultimate Guide: Choose Your Favorite Video Grabber App on Social Media Sites</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-how-to-start-a-private-live-stream-on-youtube/"><u>Updated 2024 Approved How To Start a Private Live Stream on YouTube</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-effortlessly-record-macos-content-and-display/"><u>[New] 2024 Approved Effortlessly Record macOS Content & Display</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-liberating-your-media-experience-free-movplay-software/"><u>2024 Approved Liberating Your Media Experience Free MOV/PLAY Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-thank-you-access-comprehensive-paidfree-templates/"><u>2024 Approved Thank You! Access Comprehensive Paid/Free Templates</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/exploring-funimates-full-potential/"><u>Exploring Funimate's Full Potential</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ideal-7-video-players-for-apple-devices/"><u>Ideal 7 Video Players for Apple Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-expected-video-gb-for-continuous-24-hour-viewing/"><u>In 2024, Expected Video GB for Continuous 24-Hour Viewing</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-on-apple-iphone-13-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account On Apple iPhone 13 without Password?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transitioning-video-content-into-stills-with-windows-11/"><u>In 2024, Transitioning Video Content Into Stills with Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unmasking-invisible-audiences-interactions/"><u>In 2024, Unmasking Invisible Audiences' Interactions</u></a></li>
+<li><a href="https://techidaily.com/is-your-oneplus-12-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your OnePlus 12 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-top-10-slow-motion-video-editing-software/"><u>New In 2024, Top 10 Slow Motion Video Editing Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-secrets-of-selecting-a-powerful-streaming-device-for-2024/"><u>The Secrets of Selecting a Powerful Streaming Device for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-xiaomi-14-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Xiaomi 14</u></a></li>
 </ul></div>
 

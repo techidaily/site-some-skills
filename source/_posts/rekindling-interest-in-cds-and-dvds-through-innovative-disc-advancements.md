@@ -1,7 +1,7 @@
 ---
 title: Rekindling Interest in CDs and DVDs Through Innovative Disc Advancements
-date: 2024-12-19T05:27:18.956Z
-updated: 2024-12-22T23:26:06.473Z
+date: 2024-12-24T20:44:45.106Z
+updated: 2024-12-28T17:56:27.873Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Rekindling Interest in CDs and DVDs Through Innovative Disc Advancements
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -20,7 +24,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  In the 90s, every sci-fi movie that featured data storage invariably had some far-future version of a CD in it. It may have been in a caddy, or have a weird holographic sheen, but everyone thought optical discs were the future. Today, that doesn't seem likely, but continuing research into optical storage might prove those movies right after all.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Is "Optical" Storage?
@@ -30,7 +34,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Optical media use light to store and read data. An optical disc has microscopic pits and lands that either reflect or diffuse light. When you shine a laser beam at these discs and measure the light that comes back, you get a series of ones and zeros. All you need to store digital data. While optical discs are "pressed" in a factory, home-made discs use a laser to create these pits and lands by altering the chemistry in a special dye layer within the disc.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why Is Optical Storage in Decline?
@@ -41,16 +45,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Modern PCs and Macs don't come with optical drives anymore, and it seems that gaming consoles are moving in this direction as well, with disc drives becoming optional, and major stores [phasing out physical media](https://gamerant.com/big-retailer-stop-selling-physical-games/). As a [physical media collector](https://windows11.techidaily.com/how-to-customize-sound-levels-with-dedicated-win11-keys/) it almost hurts to write this, but it does look like the writing is on the wall for optical media. However, the technology is far from a dead end, and a breakthrough in optical storage might bring back the optical disc yet!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Say Hello to the Petabit Disc!
 
 ![Petabit disc diagram](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-19-at-15-35-51.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Miao Zhao, Jing Wen, Qiao Hu, Xunbin Wei, Yu-Wu Zhong, Hao Ruan & Min Gu 
@@ -62,7 +62,7 @@ Miao Zhao, Jing Wen, Qiao Hu, Xunbin Wei, Yu-Wu Zhong, Hao Ruan & Min Gu
  These discs have been designed for use in data centers and requires expensive and complex femtosecond lasers. Multiple lasers are needed to activate and deactivate the recording layers, so it's hardly a disc drive that will fit in your laptop bag, but it does show how much potential there still is in optical storage. In data centers, these discs promise safe, long-term storage of data that doesn't need to be accessed constantly, but should be in an accessible archive. The paper suggests these nanoscale discs can be stacked to create "exabit-level storage" which could be a huge deal given [how fragile the internet can be](https://some-techniques.techidaily.com/new-high-quality-hd-videos-at-a-tap-top-10-android-choices/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Does This Mean for Us?
@@ -88,21 +88,21 @@ Miao Zhao, Jing Wen, Qiao Hu, Xunbin Wei, Yu-Wu Zhong, Hao Ruan & Min Gu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-nocturnal-nuances-expert-insights-into-nighttime-photography/"><u>[New] 2024 Approved Nocturnal Nuances Expert Insights Into Nighttime Photography</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-expert-guide-to-perfectly-shaped-objects-minecraft-circles-and-spheres-for-2024/"><u>[New] Expert Guide to Perfectly Shaped Objects Minecraft Circles & Spheres for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transcription-mastery-for-office-productivity-using-microsoft-words-voice-recognition-features/"><u>[New] Transcription Mastery for Office Productivity Using Microsoft Word's Voice Recognition Features</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-grandiose-know-it-all-challenges-online/"><u>[Updated] In 2024, Grandiose KNOW-It All Challenges Online</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-iphone-and-ipad-podcast-recording-manual-for-interviews/"><u>[Updated] The Ultimate iPhone & iPad Podcast Recording Manual For Interviews</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tactical-phone-data-shift-android-to-iphone/"><u>2024 Approved Tactical Phone Data Shift Android to iPhone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-windows-hdr-capabilities-for-cutting-edge-video-workflows/"><u>2024 Approved Unlocking Windows' HDR Capabilities for Cutting-Edge Video Workflows</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210431604-9780645281514-an-introduction-to-spirituality/"><u>An Introduction to Spirituality | Free Book</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/enhanced-performance-with-cutting-edge-automated-marketing-solutions/"><u>Enhanced Performance with Cutting-Edge Automated Marketing Solutions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/essential-guide-to-windows-11-photovideo-importing-techniques/"><u>Essential Guide to Windows 11 Photo/Video Importing Techniques</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Tecno Spark 10C? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-iphone-guide-for-shooting-hdr-photos/"><u>In 2024, The Ultimate iPhone Guide for Shooting HDR Photos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tying-emotions-to-the-right-soundtrack-in-movies/"><u>In 2024, Tying Emotions to the Right Soundtrack in Movies</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unseen-horizons-hot-list-of-vr-peripherals-top-10/"><u>In 2024, Unseen Horizons Hot List of VR Peripherals (Top 10)</u></a></li>
-<li><a href="https://howto.techidaily.com/oneplus-ace-3-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Ace 3 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/step-by-step-guide-downloading-ultra-hd-360-videos-from-youtube-on-macos-and-windows-pcs/"><u>Step-by-Step Guide: Downloading Ultra HD 360° Videos From YouTube on macOS & Windows PCs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ballot-box-battles-prime-voting-challenge-platforms/"><u>[New] 2024 Approved Ballot Box Battles Prime Voting Challenge Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-speed-instant-signature-background-cleanup/"><u>[New] Unlocking Speed Instant Signature Background Cleanup</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-expert-gopro-editor-software-for-smartphone-users/"><u>[Updated] 2024 Approved Expert GoPro Editor Software for Smartphone Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-united-experts-easeus-expert-reviews/"><u>[Updated] 2024 Approved United Experts EaseUS Expert Reviews</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-easy-peasy-screen-transitions-for-filmmakers-for-2024/"><u>[Updated] Easy-Peasy Screen Transitions for Filmmakers for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-top-artisans-in-sound-and-video-craftsminas-online/"><u>[Updated] The Top Artisans in Sound and Video Craftsminas Online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streaming-strategy-is-vlc-worthy-to-challenge-mpc/"><u>2024 Approved Streaming Strategy Is VLC Worthy to Challenge MPC?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-techniques-to-deactivate-auto-played-podcast-suggestions-in-spotify/"><u>2024 Approved Techniques to Deactivate Auto-Played Podcast Suggestions in Spotify</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-selecting-and-utilizing-top-6-gopro-attachments/"><u>2024 Approved The Ultimate Guide to Selecting & Utilizing Top 6 GOPRO Attachments</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-oneplus-11r-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On OnePlus 11R without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tactics-for-pinpointing-ideal-podcast-debut-days/"><u>In 2024, Tactics for Pinpointing Ideal Podcast Debut Days</u></a></li>
+<li><a href="https://change-location.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ios-1751-security-patch-eliminates-startling-bug-reviving-deleted-photos/"><u>New IOS 17.5.1 Security Patch Eliminates Startling Bug Reviving Deleted Photos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-graphics-card-neglect-by-cyberpunk-2077-on-windows-11-systems/"><u>Overcoming Graphics Card Neglect by Cyberpunk 2077 on Windows 11 Systems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reinstallation-rundown-step-by-step-for-graphics-drivers/"><u>Reinstallation Rundown: Step by Step for Graphics Drivers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-process-of-android-video-u-turns-for-2024/"><u>The Process of Android Video U-Turns for 2024</u></a></li>
 </ul></div>
 

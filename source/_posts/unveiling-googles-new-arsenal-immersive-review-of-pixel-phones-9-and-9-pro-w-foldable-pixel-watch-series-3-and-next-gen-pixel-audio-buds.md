@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Google's New Arsenal: Immersive Review of Pixel Phones (9 & 9 Pro W/ Foldable), Pixel Watch Series 3, and Next-Gen Pixel Audio Buds"
-date: 2024-12-16T00:37:54.403Z
-updated: 2024-12-22T21:24:09.840Z
+date: 2024-12-21T17:18:57.054Z
+updated: 2024-12-28T19:02:19.722Z
 tags:
   - mobile
 categories:
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/e78eebe094750e644b67ba3878a187eacb185aa1a
  Instead of waiting for October, Google took to its Silicon Valley HQ to unveil its latest generation of products at today's Made By Google event. Instead of relying on AI and software features to be the star of the show, Google made serious improvements to its Pixel 9 lineup, with much-needed upgrades to the Watch 3 and Buds Pro 3.
 
  I got an early hands-on with everything announced, so here are my first impressions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Google Pixel 9: Polished and Premium
 
@@ -61,18 +65,10 @@ The Gemini app can now interact with other Android apps.
 * ![Obsidian Google Pixel 9 on a white background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/obsidian-google-pixel-9-on-a-white-backgroun.jpg)  
 #####  Google Pixel 9  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The Google Pixel 9 features a sleek design with a powerful Tensor G4 processor, 12 GB of RAM, and a vibrant 6.3-inch Actua display, making it ideal for capturing stunning photos and videos with its advanced 50 MP main lens and 48 MP ultrawide camera. With improved durability and a fast-charging all-day battery, the Pixel 9 is built to handle daily challenges while delivering top-notch performance and AI-driven capabilities.  
 [See at Google Store](https://store.google.com/product/pixel%5F9) [$799 at Amazon](https://www.amazon.com/dp/B0D7HWJDQM?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004810&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhands-on-made-by-google-2024%2F&asc%5Fcampaign=Authority) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fgoogle-pixel-9-128gb-unlocked-wintergreen%2F6587823.p%3FskuId%3D6587823) [See at Verizon](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004810/https://www.verizon.com/smartphones/google-pixel-9/?CMP=ini%5Fm%5Fx%5Fpr%5Foth%5Fpr1%5F24%5F08%5Fnr%5Fgtt%5Fp9) [See at AT&T](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004810/https://www.att.com/buy/phones/google-pixel-9.html) [See at T-Mobile](https://www.t-mobile.com/cell-phone/google-pixel-9)
 * ![Porcelain Google Pixel 9 Pro on a white background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/porcelain-google-pixel-9-pro-on-a-white-background.jpg)  
 #####  Google Pixel 9 Pro  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The Google Pixel 9 Pro features a sophisticated design, a powerful Tensor G4 processor, and 16 GB of RAM, making it ideal for advanced AI applications, stunning photos, and videos. It includes a pro triple rear camera system, a 42 MP front camera, and the brightest Super Actua display, offering an immersive experience in two sizes. Pricing starts at $999.  
 [See at Google Store](https://store.google.com/product/pixel%5F9%5Fpro) [$1099 at Amazon](https://www.amazon.com/dp/B0D7HXM4HW?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004810&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhands-on-made-by-google-2024%2F&asc%5Fcampaign=Authority) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fgoogle-pixel-9-pro-128gb-unlocked-hazel%2F6587889.p%3FskuId%3D6587889) [See at Verizon](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004810/https://www.verizon.com/smartphones/google-pixel-9-pro/?CMP=ini%5Fm%5Fx%5Fpr%5Foth%5Fpr1%5F24%5F08%5Fnr%5Fgtt%5Fp9p) [See at AT&T](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004810/https://www.att.com/buy/phones/google-pixel-9-pro.html) [See at T-Mobile](https://www.t-mobile.com/cell-phone/google-pixel-9-pro)
@@ -80,19 +76,19 @@ The Google Pixel 9 Pro features a sophisticated design, a powerful Tensor G4 pro
 #####  Google Pixel 9 Pro XL  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The Google Pixel 9 Pro XL offers an expansive 6.8-inch Super Actua display, combined with the powerful Tensor G4 processor and 16 GB of RAM for top-tier AI performance and advanced photography. It features Google's most advanced camera system, including a pro triple rear camera and a 42 MP front camera, all within a sleek design starting at $1,099.  
 [See at Google Store](https://store.google.com/product/pixel%5F9%5Fpro) [$1099 at Amazon](https://www.amazon.com/dp/B0D7HSJ7ZP?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004810&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhands-on-made-by-google-2024%2F&asc%5Fcampaign=Authority) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fgoogle-pixel-9-pro-xl-128gb-unlocked-obsidian%2F6587896.p%3FskuId%3D6587896) [See at Verizon](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004810/https://www.verizon.com/smartphones/google-pixel-9-pro-xl/?CMP=ini%5Fm%5Fx%5Fpr%5Foth%5Fpr1%5F24%5F08%5Fnr%5Fgtt%5Fp9l) [See at AT&T](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004810/https://www.att.com/buy/phones/google-pixel-9-pro-xl.html) [See at T-Mobile](https://www.t-mobile.com/cell-phone/google-pixel-9-pro-xl)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Google Pixel 9 Pro Fold: Night and Day Improvements
 
 ![Google Pixel 9 Pro Fold laying on a table slighly unfolded](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/google-pixel-9-pro-fold-laying-on-a-table-slighly-unfolded.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -112,11 +108,19 @@ Close
 
 ![Porcelain Google Pixel 9 Pro Fold on a white background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/porcelain-google-pixel-9-pro-fold-on-a-white-background.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #####  Google Pixel 9 Pro Fold
 
 The Google Pixel 9 Pro Fold is a cutting-edge foldable smartphone featuring an 8-inch Super Actua Flex inner display that supports multitasking and immersive entertainment. It is powered by the Tensor G4 processor, offers 16 GB of RAM, and comes with advanced AI capabilities, making it a powerful and efficient device for creativity and productivity.
 
 [See at Google Store](https://store.google.com/product/pixel%5F9%5Fpro%5Ffold) [$2899 at Amazon](https://www.amazon.com/dp/B0D7V1J2Y1?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004810&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhands-on-made-by-google-2024%2F&asc%5Fcampaign=Authority) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fgoogle-pixel-9-pro-fold-5g-256gb-unlocked-obsidian%2F6587911.p%3FskuId%3D6587911) [See at Verizon](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004810/https://www.verizon.com/smartphones/google-pixel-9-pro-fold/?CMP=ini%5Fm%5Fx%5Fpr%5Foth%5Fpr1%5F24%5F08%5Fnr%5Fgtt%5Fp9f) [See at T-Mobile](https://www.t-mobile.com/cell-phone/google-pixel-9-pro-fold) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Google Pixel Watch 3: There's Finally a Larger Size
 
@@ -142,23 +146,19 @@ Close
 
 ![Hazel Google Watch 3 on a white background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/hazel-google-pixel-watch-3-on-a-white-background.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #####  Google Pixel Watch 3
 
 The Google Pixel Watch 3 is a performance-focused smartwatch featuring a larger, brighter Actua display available in two sizes, designed to enhance fitness tracking and daily productivity. It offers advanced running capabilities, readiness and cardio load tracking, and deep integration with Google's ecosystem, all while delivering up to 36 hours of battery life with Battery Saver mode.
 
 [See at Google Store](https://store.google.com/product/pixel%5Fwatch%5F3) [$400 at Amazon](https://www.amazon.com/dp/B0D91268TH?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004810&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhands-on-made-by-google-2024%2F&asc%5Fcampaign=Authority) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fgoogle-pixel-watch-3-45mm-smartwatch-with-hazel-band-wi-fi-matte-hazel%2F6588313.p%3FskuId%3D6588313) [See at Verizon](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004810/https://www.verizon.com/connected-smartwatches/google-pixel-watch-3/?CMP=ini%5Fm%5Fx%5Fpr%5Foth%5Fpr1%5F24%5F08%5Fnr%5Fgtt%5Fpw3) [See at AT&T](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004810/https://www.att.com/buy/wearables/google-pixel-watch-3-41mm.html) [See at T-Mobile](https://www.t-mobile.com/smart-watch/google-pixel-watch-3-41mm) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Google Pixel Buds Pro 2: Improved Design and Sound?
 
 ![Google Pixel Buds Pro 2 in Wintergreen sitting on display](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/google-pixel-buds-pro-2-in-wintergreen-sitting-on-display.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -199,21 +199,14 @@ The Google Pixel Buds Pro 2 are designed for maximum comfort and a secure fit, f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-efficient-techniques-to-record-and-edit-videos-using-adobe-connect/"><u>[New] In 2024, Efficient Techniques to Record & Edit Videos Using Adobe Connect</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/he-art-of-audience-engagement-emulate-your-idols-online/"><u>[New] The Art of Audience Engagement Emulate Your Idols Online</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streamline-your-videos-with-these-titans/"><u>[Updated] Streamline Your Videos with These Titans</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-the-soundscape-strategy-incorporating-melodies-into-vimeo-videos/"><u>[Updated] The Soundscape Strategy Incorporating Melodies Into Vimeo Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-10-streaming-software-in-the-gaming-world/"><u>[Updated] Top 10 Streaming Software in the Gaming World</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-seo-potential-top-strategies-to-dominate-online-search-results-as-a-novice/"><u>[Updated] Unlocking SEO Potential Top Strategies to Dominate Online Search Results as a Novice</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-transform-photos-step-by-step-background-cleanup-for-canva-users/"><u>2024 Approved Transform Photos Step-by-Step Background Cleanup for Canva Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-windows-11-potential-latest-apps-and-games/"><u>2024 Approved Unleash Windows 11 Potential Latest Apps & Games</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Oppo A58 4G? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/step-by-step-guide-for-top-picture-editor/"><u>Step-by-Step Guide for Top Picture Editor</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/step-by-step-guide-setting-up-franks-custom-interface-in-kodi-version-19-matrix-edition/"><u>Step-by-Step Guide: Setting up Frank's Custom Interface in Kodi Version 19 - Matrix Edition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-complete-guide-to-whatsapp-audio-communication-for-2024/"><u>The Complete Guide to WhatsApp Audio Communication for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-power-of-words-in-podcast-summaries-for-2024/"><u>The Power of Words in Podcast Summaries for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-pathway-understanding-adobes-storage-solutions-and-best-backups-for-2024/"><u>The Ultimate Pathway Understanding Adobe's Storage Solutions & Best Backups for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/eling-the-mystery-of-ad-driven-content-creation-cpm/"><u>Unraveling the Mystery of Ad-Driven Content Creation (CPM)</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-fun-and-challenge-in-overwatchs-team-based-shooter-realm/"><u>Unveiling the Fun & Challenge in Overwatch's Team-Based Shooter Realm</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-breaking-down-instagrams-timeframe-per-video-for-2024/"><u>[New] Breaking Down Instagram's Timeframe Per-Video for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-every-moment-top-activities-to-do-while-listening-to-your-favorite-talk-shows/"><u>[New] Transform Every Moment Top Activities to Do While Listening to Your Favorite Talk Shows</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-free-video-editing-software-round-up-choose-from-7-options/"><u>[Updated] 2024 Approved Free Video Editing Software Round-Up Choose From 7 Options</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-vanish-without-a-trace-tips-for-anonymous-instagram-live/"><u>[Updated] Vanish Without A Trace Tips for Anonymous Instagram Live</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-list-8-online-locations-for-free-3d-text-psdfiles/"><u>2024 Approved The Ultimate List 8 Online Locations for Free 3D Text PSDFiles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-chrome-browser-vocal-transformers-revealed-for-enthusiast-users/"><u>2024 Approved Top Chrome Browser Vocal Transformers Revealed for Enthusiast Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/slack-strategies-for-effective-teamwork-in-a-remote-work-environment/"><u>Slack Strategies for Effective Teamwork in a Remote Work Environment</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transforming-timepieces-top-6-innovative-uses-of-chatgpt-in-smartwatch-technology/"><u>Transforming Timepieces: Top 6 Innovative Uses of ChatGPT in Smartwatch Technology</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/unlocking-your-videos-potential-with-smooth-narrative-flows-for-2024/"><u>Unlocking Your Videos' Potential with Smooth Narrative Flows for 2024</u></a></li>
 </ul></div>
 

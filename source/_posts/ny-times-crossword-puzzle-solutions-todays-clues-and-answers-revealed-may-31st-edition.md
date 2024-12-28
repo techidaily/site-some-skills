@@ -1,7 +1,7 @@
 ---
 title: NY Times Crossword Puzzle Solutions - Today's Clues & Answers Revealed, May 31St Edition
-date: 2024-12-16T02:02:55.668Z
-updated: 2024-12-23T00:48:02.015Z
+date: 2024-12-27T18:43:26.604Z
+updated: 2024-12-28T18:22:01.830Z
 tags:
   - web
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## NY Times Crossword Puzzle Solutions - Today's Clues & Answers Revealed, May 31St Edition
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -25,6 +25,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Connections is a game from the New York Times that challenges you to find the association between words. It sounds easy, but it isn't—Connections categories can be almost anything, and they're usually quite specific. If you need a hand getting the answers, we've got you covered.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is Connections?
 
  Connections is a game from the New York Times. The objective is simple: sort 16 words into groups of 4\. Each group of words will be connected by some common idea or theme. That common element could be anything. We have seen everything from games that rely on the number of letters in the words to categories that require you to spot an extra letter at the end of the word. Sometimes they're references to economics, other times they reference fairy tales. There is no telling what sort of association there will be between words.
@@ -32,7 +36,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Hints for Today's Connections Groups
@@ -46,6 +50,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![May 29th's Connections words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-29th-connections.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you still need help, the actual group names are:
 
 * **Yellow:** Corpus.
@@ -54,7 +62,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **Purple:** Things People Shake
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Today's NYT Connections Answers
@@ -77,10 +85,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Hands, Maraca, Polaroid, Snowglobe
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How Did We Solve This Connections Game?
 
  May 31st wasn't too bad, but it had one major red herring that threw me off immediately.
@@ -94,10 +98,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Body and canon can refer to "a body of literary works." That brought in works. Of the remaining words, I don't recognize the word oeuvre at all, so I threw that one in for good measure. Together, body, canon, oeuvre, and works were in the Yellow group, "Corpus." 
 
  That left hands, maraca, polaroid, and snowglobe. I wasn't able to figure out the connection between them, but luckily I didn't need to. Purple was "Things People Shake." 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How Do You Guess Connections Groups?
 
@@ -127,18 +127,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-into-the-depths-mastering-gopros-time-lapse-techniques/"><u>[New] Into the Depths Mastering GoPro's Time-Lapse Techniques</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-tackling-tricky-feed-issues-hidden-youtubefacebook-videos-for-2024/"><u>[New] Tackling Tricky Feed Issues Hidden YouTube/Facebook Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-diversify-referrals-tactics-for-effective-youtube-backlinks/"><u>[Updated] In 2024, Diversify Referrals Tactics for Effective YouTube Backlinks</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-foundations-of-a-youtube-venture-a-comprehensive-guide-for-2024/"><u>[Updated] The Foundations of a YouTube Venture A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-handbook-insta-to-tik-tok-connectivity/"><u>[Updated] Ultimate Handbook Insta-to-Tik Tok Connectivity</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-green-screen-expertise-with-kinemaster/"><u>2024 Approved The Ultimate Guide to Green Screen Expertise with Kinemaster</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-potential-with-magix-paint-pro/"><u>2024 Approved Unlocking Potential with MAGIX Paint Pro</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-major-social-channels-facebook-twitter-instagram-and-youtube-unveiled/"><u>Exploring Major Social Channels: Facebook, Twitter, Instagram & YouTube Unveiled</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/fix-streaming-hiccups-for-mkv-videos-across-different-software-including-vlc-player/"><u>Fix Streaming Hiccups for MKV Videos Across Different Software Including VLC Player</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-leading-8-sites-offering-free-access-to-3d-text-psdfiles/"><u>In 2024, Leading 8 Sites Offering Free Access to 3D Text PSDFiles</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-htc-u23-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My HTC U23 Black and White | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-call-response-issues-a-guide-for-struggling-users-of-the-samsung-galaxy-watch/"><u>Solving Call Response Issues: A Guide for Struggling Users of the Samsung Galaxy Watch</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unmatched-fast-picture-viewer-experience-for-2024/"><u>Unmatched Fast Picture Viewer Experience for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-essential-guide-to-producing-quality-igtv-on-smartphonesdslrs/"><u>[New] 2024 Approved Essential Guide to Producing Quality IGTV on Smartphones/DSLRs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-the-leading-8-linux-programs-for-screenshots/"><u>[Updated] In 2024, The Leading 8 Linux Programs for Screenshots</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-next-frontier-of-classroom-technology-vr/"><u>[Updated] The Next Frontier of Classroom Technology - VR</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-swift-skillz-best-high-speed-games-for-laptopsmobile/"><u>2024 Approved Swift Skillz Best High-Speed Games for Laptops/Mobile</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96317160-9781781801642-angel-prayers/"><u>Angel Prayers | Free Book</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-huawei-p60-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Huawei P60 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722968455986-how-to-effortlessly-install-latest-canon-driver-software-on-your-windows-machine/"><u>How to Effortlessly Install Latest Canon Driver Software on Your Windows Machine!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-best-fast-photo-viewer-for-windows-10-for-2024/"><u>Top Best Fast Photo Viewer for Windows 10 for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-magix-video-pro-x-capabilities-for-2024/"><u>Unveiling Magix Video Pro X Capabilities for 2024</u></a></li>
 </ul></div>
 

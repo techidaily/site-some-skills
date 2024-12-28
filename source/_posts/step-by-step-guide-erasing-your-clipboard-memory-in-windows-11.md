@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Erasing Your Clipboard Memory in Windows 11"
-date: 2024-12-16T19:53:52.445Z
-updated: 2024-12-22T23:28:04.141Z
+date: 2024-12-23T19:21:01.718Z
+updated: 2024-12-28T19:40:25.087Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 ---
 
 ## Step-by-Step Guide: Erasing Your Clipboard Memory in Windows 11
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -25,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 * To disable Clipboard history, go to Windows Settings > System > Clipboard and toggle the switch to "Off."
 
  If you have Clipboard history enabled in Windows 10, the feature keeps a record of items you have recently copied to the Clipboard while using copy and paste. Here's how to clear your Clipboard history—or disable it if you prefer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What Gets Stored in Clipboard History?
 
@@ -46,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 
 ![Click the ellipses in Clipboard history on Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/click_ellipses.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  A small menu will pop up. Click "Delete" and the item will be removed from the list.
 
 ![Click Delete in Clipboard history on Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/click_delete.png) 
@@ -59,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 ![Click clear all in Clipboard history on Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/click_clear_all.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Any remaining items on the list after you click "Clear All" are pinned in place. If you'd like to remove a pinned item, click the ellipses beside it and select "Unpin." Then you can either delete it or try "Clear All" from the ellipses menu again.
@@ -73,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 ![Tap 'Clear' to clear your clipboard history.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/clear-clipboard-data.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This is equivalent to pushing the "Clear All" button in the Clipboard history window, but it also works with Clipboard history turned off.
@@ -87,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 ![Click 'Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/click-settings.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On the Settings sidebar, click on "Clipboard." In Clipboard settings, locate the section called "Clipboard history" and toggle the switch to "Off."
@@ -97,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
  Once disabled, if you press Windows+V, you will see a small window alerting you that Windows 10 cannot show your Clipboard history because the feature is turned off.
 
 ![Can't show Clipboard history message in Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/cant_show_history.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you're free to copy and paste in privacy once again.
 
@@ -115,15 +115,19 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-mastering-pip-feature-in-microsoft-edge/"><u>[New] Mastering PIP Feature in Microsoft Edge</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-new-dawn-of-creativity-spotlight-on-six-visionary-nftos/"><u>[New] The New Dawn of Creativity Spotlight on Six Visionary NFTOs</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-going-viral-guide-keyword-strategies-for-cut-to-the-chase-videos/"><u>[Updated] Going Viral Guide Keyword Strategies for Cut-to-the-Chase Videos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-dissecting-metaverse-and-multimeva-what-sets-them-apart-insightful-guide/"><u>[Updated] In 2024, Dissecting Metaverse and Multimeva What Sets Them Apart (Insightful Guide)</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-making-the-leap-set-up-a-sports-vlog-on-macos/"><u>[Updated] In 2024, Making the Leap Set Up a Sports Vlog on macOS</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-recycle-and-relish-continuous-playback-of-youtube-on-tv/"><u>2024 Approved Recycle and Relish Continuous Playback of YouTube on TV</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-uncovering-8-superior-online-srt-translation-tools/"><u>2024 Approved Uncovering 8 Superior Online SRT Translation Tools</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-honor-play-7t-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Honor Play 7T? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-guide-to-high-speed-pc-controller-extensions-for-2024/"><u>Ultimate Guide to High-Speed PC Controller Extensions for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unrivaled-script-authority-place-for-2024/"><u>Unrivaled Script Authority Place for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-essential-video-capture-tools-for-windows-10-users-for-2024/"><u>[New] Essential Video Capture Tools for Windows 10 Users for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-lg-vr-360-review-a-new-dimension-of-gaming-for-2024/"><u>[New] LG VR 360 Review A New Dimension of Gaming for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-chatting-with-voices-on-whatsapp/"><u>[New] The Art of Chatting with Voices on WhatsApp</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-swiftrecorder-plus-soundtrack-guided-screen-recording-for-2024/"><u>[Updated] SwiftRecorder Plus - Soundtrack Guided Screen Recording for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-10-simple-steps-to-superior-pixlr-edits/"><u>2024 Approved 10 Simple Steps to Superior Pixlr Edits</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-instagram-featured-posts-with-video/"><u>2024 Approved Instagram Featured Posts with Video</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-install-missing-standard-printer-and-scanner-software-for-windows-10-users/"><u>How to Install Missing Standard Printer and Scanner Software for Windows 10 Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-ultimate-vr-experience-the-htc-vive-story/"><u>In 2024, Unveiling the Ultimate VR Experience The HTC Vive Story</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-no-more-scrolling-find-the-best-filmora-coupon-codes-inside/"><u>New In 2024, No More Scrolling Find the Best Filmora Coupon Codes Inside</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-infinix-zero-30-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Infinix Zero 30 5G</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/step-by-step-guide-to-crafting-engaging-valorant-thumbnails/"><u>Step-by-Step Guide to Crafting Engaging Valorant Thumbnails</u></a></li>
+<li><a href="https://some-skills.techidaily.com/synthesize-silliness-in-visual-gifs-with-giphy-for-2024/"><u>Synthesize Silliness in Visual Gifs with Giphy for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-best-gopro-for-action-compare-max-and-hero-11-for-2024/"><u>The Best GoPro for Action Compare Max and Hero 11 for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transforming-spaces-the-art-of-metaphysical-marketing-for-2024/"><u>Transforming Spaces The Art of Metaphysical Marketing for 2024</u></a></li>
 </ul></div>
 

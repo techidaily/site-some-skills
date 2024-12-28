@@ -1,7 +1,7 @@
 ---
 title: Mandatory Survey Prompt Launched by Microsoft When Exiting OneDrive
-date: 2024-12-21T19:00:27.608Z
-updated: 2024-12-23T01:29:13.243Z
+date: 2024-12-27T19:02:28.885Z
+updated: 2024-12-28T16:44:29.154Z
 tags:
   - deals
 categories:
@@ -18,7 +18,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Microsoft's clingy behavior continues to annoy Windows users. Last month, the company introduced an optional [pop-up survey](https://article-files.techidaily.com/2024-approved-the-ultimate-guide-for-implementing-look-up-tables-in-creative-suite/) that's triggered when installing Chrome from Edge. Now, Windows users are being hit with a _mandatory_ survey when they try to _close_ OneDrive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  UPDATE: 2023/11/10 10:11 EST BY ANDREW HEINZMAN
@@ -32,7 +32,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![The "quit OneDrive" popup prompting a user to complete a survey.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/11-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Neowin](https://www.neowin.net/news/microsoft-wont-let-you-close-onedrive-in-windows-without-you-explaining-it-first/)
@@ -68,17 +68,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-techniques-for-downloading-converting-and-saving-vids-on-twitter-as-mp3s/"><u>[Updated] Techniques for Downloading, Converting, and Saving Vids on Twitter as MP3s</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-faster-facebook-videos/"><u>[Updated] The Ultimate Guide to Faster Facebook Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-money-potential-a-beginners-guide-on-periscope/"><u>[Updated] Unlocking Money Potential A Beginner's Guide on Periscope</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unshakable-imagery-techniques/"><u>[Updated] Unshakable Imagery Techniques</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-discounts-on-economical-gopro-cameras/"><u>2024 Approved Exclusive Discounts on Economical GoPro Cameras</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-lava-storm-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Lava Storm 5G PC | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/augmenting-data-analysis-in-excel-through-chatgpt-methods/"><u>Augmenting Data Analysis in Excel Through ChatGPT Methods</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/charting-a-new-course-for-creative-vr-content/"><u>Charting a New Course for Creative VR Content</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-examination-of-the-dell-inspiron-edesktop-3671-a-solid-middle-ground-option/"><u>Comprehensive Examination of the Dell Inspiron eDesktop 3671: A Solid Middle Ground Option</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-zte-blade-a73-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring ZTE Blade A73 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-playlist-creation-on-youtube-easily/"><u>In 2024, Navigating Playlist Creation on YouTube Easily</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unwind-and-learn-your-guide-to-podcasting-multitasking-for-2024/"><u>Unwind and Learn Your Guide to Podcasting Multitasking for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tech-talk-the-best-ways-to-move-files-between-idevices/"><u>[New] Tech Talk The Best Ways to Move Files Between iDevices</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-exciting-journeys-in-samsungs-virtual-reality-games/"><u>[Updated] In 2024, Exciting Journeys in Samsung's Virtual Reality Games</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-influence-of-soundtracks-on-a-teasers-audience-reception/"><u>[Updated] The Influence of Soundtracks on a Teaser's Audience Reception</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-android-and-ios-wedding-timers-latest-app-rankings/"><u>[Updated] Top 10 Android & iOS Wedding Timers Latest App Rankings</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-reverse-artisan-group/"><u>2024 Approved Reverse Artisan Group</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-the-7th-generation-amazon-kindle-paperwhite-your-ultimate-reading-companion/"><u>Comprehensive Analysis of the 7Th Generation Amazon Kindle Paperwhite - Your Ultimate Reading Companion</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-how-to-retrieve-lost-mobile-contacts-in-your-android-device/"><u>Discover How to Retrieve Lost Mobile Contacts in Your Android Device</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-identify-premium-hassle-free-free-srt-translator-services/"><u>In 2024, How to Identify Premium, Hassle-Free Free SRT Translator Services</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-latest-evolution-2023s-samsung-bd-j5900-review/"><u>In 2024, The Latest Evolution 2023'S Samsung BD-J5900 Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-free-tools-for-flawless-srt-conversion/"><u>In 2024, Top Free Tools for Flawless SRT Conversion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-microsoft-azure-transcription-capabilities/"><u>In 2024, Unlocking Microsoft Azure Transcription Capabilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/julys-exclusive-apple-product-deals-iphones-watches-and-tablets-at-unbeatable-prices-discover-the-best-offers-with-zdnet/"><u>July's Exclusive Apple Product Deals: IPhones, Watches, and Tablets at Unbeatable Prices | Discover the Best Offers with ZDNET</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-pcie-audio-support-update-realtek-drivers-in-win10/"><u>Optimize PCIe Audio Support - Update Realtek Drivers in Win10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-bluetooth-interference-asus-webcam-plus-windows-11/"><u>Resolved Bluetooth Interference: ASUS Webcam + Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-graphics-drivers-minecraft-crash-no-more/"><u>Resolving Graphics Drivers: Minecraft Crash No More</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-evolution-of-dynamic-range-control-in-digital-photography-for-2024/"><u>The Evolution of Dynamic Range Control in Digital Photography for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-fixing-casting-issues-to-devices-in-windows-11/"><u>Troubleshooting: Fixing Casting Issues to Devices in Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-guide-top-20-cost-free-video-editing-websites-for-2024/"><u>Ultimate Guide Top 20 Cost-Free Video Editing Websites for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-creativity-the-premier-apps-for-picture-framing-for-2024/"><u>Unleash Creativity The Premier Apps for Picture Framing for 2024</u></a></li>
 </ul></div>
 

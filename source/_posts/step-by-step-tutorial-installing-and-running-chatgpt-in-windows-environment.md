@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Installing and Running ChatGPT in Windows Environment"
-date: 2024-12-20T00:56:04.184Z
-updated: 2024-12-22T16:03:35.446Z
+date: 2024-12-26T20:55:15.887Z
+updated: 2024-12-28T20:15:05.390Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 ## Step-by-Step Tutorial: Installing and Running ChatGPT in Windows Environment
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 
  To turn ChatGPT’s site into an app, you’ll use a built-in option in Chrome or Edge. This option turns any site you access in these web browsers into a Windows app. You can use either web browser, but Edge offers the option to change the app’s icon when you create the app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Download ChatGPT Using Chrome
 
 [Launch Chrome on your PC](https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-m14-4g-phone-pattern-lock-without-factory-reset-by-drfone-android/) and access the [ChatGPT site](https://chatgpt.com/). Log in to your account on the site and get to the chat screen (where you send and receive messages).
@@ -44,13 +48,13 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 
 ![The text box and 'Install' highlighted in Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-chrome-create-chatgpt-app.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Chrome will create and launch the app in a new window. You may now start using the app.
 
  Windows will display a notification asking if you want to [pin the app to the taskbar](https://tech-hub.techidaily.com/understanding-the-five-main-causes-of-chatgpt-prohibitions-in-businesses/). To do that, click "Yes." Otherwise, select "No, Thanks." And that’s it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Download ChatGPT Using Edge
 
@@ -61,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 !['Install This Site as an App' highlighted in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-edge-install-chatgpt.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  An "Install This Site as an App" dialog box will open. To change the app’s default name, click the text field and type a new name. To change the app’s icon, beneath the current icon, click "Edit." Then, choose an ICO or [PNG file](https://remote-screen-capture.techidaily.com/new-2024-approved-immortalize-your-gaming-adventures-on-pc-6-ways/) as the app icon. There's a [way to turn any image into an icon file](https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-motorola-razr-40-drfone-by-drfone-virtual-android/).
@@ -72,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 
  And that’s all.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Launch the Downloaded ChatGPT App
 
  Since the ChatGPT app you’ve created works like any other installed app on your PC, you can [launch it like you would any other app](https://on-screen-recording.techidaily.com/ipad-timelapse-a-beginners-handbook-to-filming/). One way to do that is by using the Start Menu.
@@ -84,13 +84,13 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 
 ![ChatGPT highlighted in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/5-launch-chatgpt-app.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To pin the app to the Start Menu or the taskbar, right-click the app in the search results and choose "Pin to Start" or "Pin to Taskbar." This allows you to launch the app quickly and conveniently.
 
 !['Pin to Start' and 'Pin to Taskbar' highlighted for ChatGPT in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/6-pin-chatgpt-app.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And you now have access to your favorite AI tool as a native Windows app.
 
@@ -127,24 +127,17 @@ thumbnail: https://thmb.techidaily.com/d0add7542260b37a87b432f388dbcfdf91f7a9a63
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-quell-the-quake-techniques-to-smooth-out-gopro-footage-for-2024/"><u>[New] Quell the Quake Techniques to Smooth Out GoPro Footage for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-brief-methods-for-sending-iphone-media-to-pc/"><u>[Updated] Brief Methods for Sending iPhone Media to PC</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-step-by-step-to-adobe-cloud-success-and-non-adobe-options/"><u>[Updated] Step-by-Step to Adobe Cloud Success & Non-Adobe Options</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-exploration-inside-xcreative-media-suite/"><u>[Updated] The Ultimate Exploration Inside XCreative Media Suite</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-choice-video-capture-apps-iphone/"><u>[Updated] Top Choice Video Capture Apps iPhone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transforming-photos-remove-background-with-ease/"><u>[Updated] Transforming Photos Remove Background with Ease</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-animated-magic-with-movie-maker-software/"><u>[Updated] Unveiling Animated Magic with Movie Maker Software</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-starter-guide-to-motion-graphics-mastery/"><u>2024 Approved Starter Guide to Motion Graphics Mastery</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-not-working-mishaps-on-your-devices-windows-apps/"><u>Avoiding 'Not Working' Mishaps on Your Device’s Windows Apps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-the-error-shell32dll-file-not-located-in-windows-os/"><u>Fixing the Error: 'Shell32.dll File Not Located' In Windows OS</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Vivo Y100 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transform-images-top-5-android-tools/"><u>In 2024, Transform Images Top 5 Android Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-conversion-guide-sdr-to-stunning-hdr-visuals/"><u>In 2024, Ultimate Conversion Guide SDR to Stunning HDR Visuals</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ltimate-guide-to-the-top-5-youtube-link-reducers/"><u>The Ultimate Guide to the Top 5 YouTube Link Reducers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/the-ultimate-rad-power-radwagon/"><u>The Ultimate Rad Power Radwagon</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/troubleshoot-your-outlook-365-discover-the-reasons-behind-missing-past-messages/"><u>Troubleshoot Your Outlook 365: Discover the Reasons Behind Missing Past Messages</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-guide-premium-plugins-boosting-ae-projects-for-2024/"><u>Ultimate Guide Premium Plugins Boosting AE Projects for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-top-5-essential-android-photo-editing-software-for-2024/"><u>Unveiling Top 5 Essential Android Photo Editing Software for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-unleash-your-creativity-simple-gopro-hd-video-editing-techniques/"><u>Updated 2024 Approved Unleash Your Creativity Simple GoPro HD Video Editing Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-comprehensive-breakdown-using-googles-speech-recognition-tool/"><u>[New] Comprehensive Breakdown Using Google's Speech Recognition Tool</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essence-of-whatsapp-call-conversations/"><u>[New] The Essence of WhatsApp Call Conversations</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-ultimate-guide-easycapture-v2-analysis/"><u>[New] Ultimate Guide EasyCapture V2 Analysis</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-transform-your-video-cover-image-with-easy-steps-for-2024/"><u>[Updated] Transform Your Video Cover Image with Easy Steps for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-mix-of-soundtracks-and-visuals-adding-srt-to-mp4/"><u>2024 Approved The Ultimate Mix of Soundtracks and Visuals Adding SRT to MP4</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-voice-memo-reference-manual/"><u>2024 Approved The Ultimate Voice Memo Reference Manual</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/4-things-you-must-know-about-apple-iphone-se-2022-activation-lock-by-drfone-ios/"><u>4 Things You Must Know About Apple iPhone SE (2022) Activation Lock</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-solutions-for-fixing-pnp-watchguard-bsod-glitch-in-device-drivers/"><u>Comprehensive Solutions for Fixing PNP Watchguard BSOD Glitch in Device Drivers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-infinix-note-30-vip-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Infinix Note 30 VIP</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-nokia-g42-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Nokia G42 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-editors-edge-insider-strategies-to-supercharge-your-photos/"><u>In 2024, The Editor's Edge Insider Strategies to Supercharge Your Photos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-scrolling-through-engaging-youtube-remarks-for-2024/"><u>The Ultimate Guide to Scrolling Through Engaging YouTube Remarks for 2024</u></a></li>
 </ul></div>
 
