@@ -39,8 +39,8 @@
 <meta property="og:image" content="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/11-1.png">
 <meta property="og:image" content="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/12-1.png">
 <meta property="og:image" content="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/13-1.png">
-<meta property="article:published_time" content="2024-12-19T21:57:19.307Z">
-<meta property="article:modified_time" content="2024-12-22T08:40:22.416Z">
+<meta property="article:published_time" content="2024-12-25T10:55:54.325Z">
+<meta property="article:modified_time" content="2024-12-28T08:08:34.989Z">
 <meta property="article:author" content="Daniel">
 <meta property="article:tag" content="desktop">
 <meta name="twitter:card" content="summary">
@@ -725,15 +725,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-12-20 05:57:19</span>
-        <span class="mobile">2024-12-20 05:57:19</span>
+        <span class="desktop">2024-12-25 18:55:54</span>
+        <span class="mobile">2024-12-25 18:55:54</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-12-22 16:40:22</span>
-            <span class="mobile">2024-12-22 16:40:22</span>
+            <span class="desktop">2024-12-28 16:08:34</span>
+            <span class="mobile">2024-12-28 16:08:34</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -789,10 +789,6 @@
 <li>SSHFS is ideal for file-level work, especially on headless systems like a Raspberry Pi.</li>
 </ul>
 <p> SSHFS lets you browse files on remote Linux PCs as smoothly as if they were on your local computer. It’s a quick and simple way to interact with headless systems like Raspberry Pi.</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="What-is-SSHFS"><a href="#What-is-SSHFS" class="headerlink" title="What is SSHFS?"></a>What is SSHFS?</h2><p> SSHFS gets its name from _S_ecure _SH_ell and _F_ile _S_ystem.</p>
 <p> Regular SSH lets you connect to remote computers from a terminal window. Your commands are executed on the remote computer.</p>
 <p> SSHFS is different. SSHFS mounts a remote file system on your local computer. The mounted file system appears as a normal branch of your local file system’s directory tree. You access the remote files just like any other file on your computer. You can browse through the directories and files using the cd command or a file browser.</p>
@@ -820,7 +816,7 @@
                       alt="Installing SSHFS on Fedora."
                 > </p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <p> On Manjaro, you’ll use pacman:</p>
@@ -832,10 +828,6 @@
                      data-src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/3-1.png"
                       alt="Installing SSHFS on Manjaro."
                 > </p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p> You can test that SSHFS is installed and responding, by asking for its version number.</p>
 <pre><code>    `sshfs --version`
 </code></pre>
@@ -845,10 +837,6 @@
                      data-src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/4-1.png"
                       alt="Using the --version option to discover the version of SSHFS."
                 > </p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="Making-a-Remote-Connection"><a href="#Making-a-Remote-Connection" class="headerlink" title="Making a Remote Connection"></a>Making a Remote Connection</h2><p> We need to create a directory to act as the <em>mount point</em>. It’s where the remote file system will be grafted onto your directory tree.</p>
 <p> I’m going to be connecting to a RaspberryPi that runs network scans for me, so I’m going to call my directory netscan. You could create the mount point in your home directory, but I’m going to drop it in &#x2F;media&#x2F;dave&#x2F;, the default location for mount points in Ubuntu. You should use your own username instead of “dave.”</p>
 <p> On other distributions, the default location might be &#x2F;run&#x2F;media&#x2F; or &#x2F;mnt. Ultimately, you can create your mount point anywhere you like.</p>
@@ -860,6 +848,10 @@
                      data-src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/5-1.png"
                       alt="Creating the mount point directory."
                 > </p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p> Let’s take a look at our new directory.</p>
 <pre><code>    `ls -hl /media/dave`
 </code></pre>
@@ -870,7 +862,7 @@
                       alt="Using ls to check the attributes of the mount point directory."
                 > </p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <p> Our directory has been created, and it is owned by root. That won’t matter though, we’ll have <a class="link"   target="_blank" rel="noopener" href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-13-pro-without-itunes-by-drfone-ios/" >read and write permissions <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> on the mounted file system.</p>
@@ -888,7 +880,7 @@
 <li><strong>sudo</strong>: We’re using sudo because our mount point is owned by root.</li>
 <li><strong>sshfs</strong>: Let’s us mount a remote file system.</li>
 <li><strong>-o</strong>: The -o (mount options) option is followed by allow_other and default_permissions. These are required to let us interact with the mounted file system.</li>
-<li><strong><a class="link"   href="mailto:&#100;&#x61;&#x76;&#101;&#64;&#110;&#x65;&#116;&#45;&#115;&#99;&#97;&#x6e;&#46;&#108;&#x61;&#x6e;" >&#100;&#x61;&#x76;&#101;&#64;&#110;&#x65;&#116;&#45;&#115;&#99;&#97;&#x6e;&#46;&#108;&#x61;&#x6e; <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></strong>: We need to provide the username of an account on the remote computer, and the network name or IP address of the remote computer. This is the same information you need to provide for a regular SSH connection.</li>
+<li><strong><a class="link"   href="mailto:&#100;&#97;&#x76;&#101;&#64;&#x6e;&#101;&#x74;&#x2d;&#x73;&#x63;&#x61;&#110;&#46;&#x6c;&#97;&#x6e;" >&#100;&#97;&#x76;&#101;&#64;&#x6e;&#101;&#x74;&#x2d;&#x73;&#x63;&#x61;&#110;&#46;&#x6c;&#97;&#x6e; <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></strong>: We need to provide the username of an account on the remote computer, and the network name or IP address of the remote computer. This is the same information you need to provide for a regular SSH connection.</li>
 <li><strong>“:”</strong>: A trailing colon separates the network address from an optional path. The path points to the location within the remote computer that’ll used as the root of the mounted file system. By leaving the path empty, we tell SSHFS to use the home directory of the user account. But you could point this to your remote Documents directory, for example.</li>
 <li><strong>&#x2F;media&#x2F;dave&#x2F;netscan&#x2F;</strong>: The mount point we want the remote file system to be mounted on. This must already exist.</li>
 </ul>
@@ -905,6 +897,10 @@
                      data-src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/8-1.png"
                       alt="Listing the contents of the remote file system in a terminal window."
                 > </p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p> We can see the home directory of the user account on the remote computer. Any changes you make here are made on the remote drive. Any edits or deletions will affect the remote computer.</p>
 <p> We ought to be able to create a new file.</p>
 <pre><code>    `touch new-file.txt  
@@ -916,6 +912,10 @@
                      data-src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/9-1.png"
                       alt="Creating a file in the remote file system and checking its attributes."
                 > </p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p> Our file is created, and we’re the owner of it. There was no need to use sudo.</p>
 <p> We can navigate the mounted file system using cd, and we can copy files using the cp command. This effectively transfers files between the remote device and your local computer.</p>
 <pre><code>    `cd report  
@@ -928,7 +928,7 @@
                       alt="Copying files from the remote file system to the local file system."
                 > </p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="Accessing-Files-in-a-File-Browser"><a href="#Accessing-Files-in-a-File-Browser" class="headerlink" title="Accessing Files in a File Browser"></a>Accessing Files in a File Browser</h2><p> Because the mounted file system looks and behaves like any other part of your file system’s directory tree, you can use your file browser to navigate it too.</p>
@@ -946,6 +946,10 @@
                      data-src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/12-1.png"
                       alt="Editing a file in the remote file system with a local editor."
                 > </p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p> If you edit a document, for example, your default local editor is launched.</p>
 <h2 id="Breaking-the-Connection"><a href="#Breaking-the-Connection" class="headerlink" title="Breaking the Connection"></a>Breaking the Connection</h2><p> To break the connection and unmount the remote file system, we use the umount command. Note there’s no “n” before the “m” in the umount command.</p>
 <pre><code>    `sudo umount /media/dave/netscan`
@@ -956,10 +960,6 @@
                      data-src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/13-1.png"
                       alt="Unmounting the remote file system."
                 > </p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="The-Far-Away-Up-Close"><a href="#The-Far-Away-Up-Close" class="headerlink" title="The Far Away, Up Close"></a>The Far Away, Up Close</h2><p> Having easy and direct access to files on remote computers simplifies maintenance and other tasks.</p>
 <p> Being able to use your local applications on the remote files lets you harness the power of your full-size computer when working with devices like the RaspberryPi. For example, you can run gcc on your local machine, to compile source files on the remote machine.</p>
 <p><ins class="adsbygoogle"
@@ -975,22 +975,17 @@
      data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a target="_blank" rel="noopener" href="https://vp-tips.techidaily.com/new-2024-approved-easy-to-follow-steps-for-exporting-youtube-and-pinterest-videos-as-mp3s/"><u>[New] 2024 Approved Easy-to-Follow Steps for Exporting YouTube and Pinterest Videos as MP3s</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-shake-eliminator-gear-for-handhocal-cams-2022/"><u>[New] Shake Eliminator Gear for Handhocal Cams 2022</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-streamlining-time-lapse-photography-with-gopro-software/"><u>[New] Streamlining Time-Lapse Photography with GoPro Software</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-quality-iphone-filmmaking-top-8-tips/"><u>[New] The Ultimate Guide to Quality iPhone Filmmaking (Top 8 Tips)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-the-secrets-to-premieres-full-screen-mode/"><u>[New] Unveiling the Secrets to Premiere's Full Screen Mode</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tactical-phone-data-shift-android-to-iphone/"><u>[Updated] Tactical Phone Data Shift Android to iPhone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://snapchat-videos.techidaily.com/updated-uninterrupted-snapstreaks-achievable-or-impossible/"><u>[Updated] Uninterrupted Snapstreaks Achievable or Impossible?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-5-best-title-makers-online/"><u>2024 Approved 5 Best Title Makers Online</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-approaches.techidaily.com/2024-approved-the-easy-way-to-download-and-use-the-ifunny-meme-app/"><u>2024 Approved The Easy Way to Download and Use the iFunny Meme App</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-apple-iphone-11-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock on Apple iPhone 11</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-knowledge.techidaily.com/ideal-drawing-programs-a-compreenasaurus-rex-guide-to-chromebooks-art-tools-for-2024/"><u>Ideal Drawing Programs A Compreenasaurus Rex Guide to Chromebook's Art Tools for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-from-iphone-14-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud From iPhone 14 Smoothly</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://win11.techidaily.com/maximize-windows-11-pinlist-tips-and-tricks/"><u>Maximize Windows 11 Pinlist - Tips & Tricks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-8-step-formula-for-captivating-your-instagram-audience-with-reels-for-2024/"><u>The 8-Step Formula for Captivating Your Instagram Audience with Reels for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://video-capture.techidaily.com/ultimate-list-of-window-screenshot-utilities-for-2024/"><u>Ultimate List of Window Screenshot Utilities for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-superior-pcs-for-serious-workers/"><u>[New] Superior PCs for Serious Workers</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://screen-video-capture.techidaily.com/updated-high-def-capture-top-10-web-based-apps-for-2024/"><u>[Updated] High-Def Capture Top 10 Web-Based Apps for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-mystery-of-off-facebook-activity-what-to-know-and-do/"><u>[Updated] The Mystery of Off-Facebook Activity What to Know & Do</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-30-budget-friendly-after-effects-templates/"><u>[Updated] Top 30 Budget-Friendly After Effects Templates</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-oppo-a59-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Oppo A59 5G Quickly? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-innovations-for-text-visualization/"><u>In 2024, Top 10 Innovations for Text Visualization</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-understanding-imovies-editing-edge/"><u>In 2024, Understanding iMovie's Editing Edge</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://buynow-marvelous.techidaily.com/samsung-galaxy-watch-active-2-unveiled-superior-connectivity-precision-controls-and-innovative-insight-features/"><u>Samsung Galaxy Watch Active 2 Unveiled: Superior Connectivity, Precision Controls & Innovative Insight Features</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://buynow-reviews.techidaily.com/the-art-of-gaming-pcs-a-detailed-review-of-corsair-one-pro-efficiency-and-innovation/"><u>The Art of Gaming PCs - A Detailed Review of Corsair One Pro Efficiency and Innovation</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://android-frp.techidaily.com/the-complete-guide-to-samsung-galaxy-f14-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Samsung Galaxy F14 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://driver-download.techidaily.com/updated-epson-wf-n3620-printer-drivers-available-now-compatible-with-windows-10-8-and-7/"><u>Updated Epson WF-N3620 Printer Drivers Available Now: Compatible with Windows 10, 8 & 7</u></a></li>
 </ul></div>
 
 
@@ -1003,11 +998,11 @@
         <li><strong>Title:</strong> Seamless Access to Distant Linux Machine Files Made Simple</li>
         <li><strong>Author:</strong> Daniel</li>
         <li><strong>Created at
-                :</strong> 2024-12-20 05:57:19</li>
+                :</strong> 2024-12-25 18:55:54</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-12-22 16:40:22
+                    :</strong> 2024-12-28 16:08:34
             </li>
         
         <li>
@@ -1047,13 +1042,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/new-streamline-your-workflow-ultimate-convertor-list-1-8/"
+                        href="/top-8-essential-factors-to-consider-when-purchasing-a-pre-owned-windows-laptop/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">[New] Streamline Your Workflow Ultimate Convertor List #1-8</span>
+                                <span class="post-nav-title-item">Top 8 Essential Factors to Consider When Purchasing a Pre-Owned Windows Laptop</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -1063,10 +1058,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/emerging-threat-hacker-exploits-in-the-latest-microsoft-office-software-packages/"
+                        href="/the-next-big-thing-in-smartphones-exclusive-insights-into-the-iphone-16-16-pro-and-max/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Emerging Threat: Hacker Exploits in the Latest Microsoft Office Software Packages</span>
+                                <span class="post-nav-title-item">The Next Big Thing in Smartphones - Exclusive Insights Into the iPhone 16, 16 Pro &amp; Max</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
