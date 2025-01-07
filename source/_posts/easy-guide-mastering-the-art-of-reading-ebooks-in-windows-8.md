@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Mastering the Art of Reading eBooks in Windows 8"
-date: 2024-12-18T06:20:47.504Z
-updated: 2024-12-22T22:44:55.423Z
+date: 2024-12-31T18:32:19.030Z
+updated: 2025-01-07T00:16:18.404Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182ce78c94936651febf489146.jpg
@@ -10,7 +10,7 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
 ## Easy Guide: Mastering the Art of Reading eBooks in Windows 8
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Read eBooks on Windows 8
@@ -22,7 +22,7 @@ Posted by [Ada Wang](https://plus.google.com/+AdaWang/posts) on 11/21/2018 2:09:
 ![follow](http://www.epubor.com/images/follow.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 It seems that more and more people use Windows 8 operating system on their computers. Then when new to it, some people may not be so sure how to read ebooks on Windows 8\. And some users said that certain softwares they used to read books before cannot be used now on Windows 8\. So here I would be glad to share some information about reading ebooks on Windows 8 with you. Hope this article can help you enjoy your ebooks better.
@@ -32,7 +32,7 @@ It seems that more and more people use Windows 8 operating system on their compu
 ![kindle for windows 8](http://www.epubor.com/images/uppic/kindle-for-win-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Let's start with the Kindle books. Reading Kindle books on Windows 8 seems to be much more simple than epub/pdf books. The program needed is just the Kindle for Windows 8 App. 
@@ -49,10 +49,6 @@ Get the Kindle app running on windows 8\. Using your Amazon Account to register 
 
 After you register the Kindle app, all the Kindle books you purchased under your account will be synced automatically. The kindle books will be listed for you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Read EPUB & PDF eBooks on Windows 8 
 
 You can get specific software to read epub and pdf ebooks correspondingly which may offer you much nicer reading experience. However, the integrated way is more convenient.
@@ -60,6 +56,10 @@ You can get specific software to read epub and pdf ebooks correspondingly which 
 #### **1\. Metro Reader to Read DRM-Free EPUB on Windows 8** 
 
 ![read ebooks on windows 8](http://www.epubor.com/images/uppic/read-ebooks-on-windows-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The epub books here have to be DRM-free ones. For reading epub ebooks on Windows 8, [Metro Reader](https://www.microsoft.com/en-us/store/p/metro-reader/9nblggh08czx) is the first off-line ebook reader for it. Metro Reader supports epub and txt formats. There are two reading modes provided: the day mode & the night mode. You can choose it as you need. And the snap mode is of course indispensable. The Table of Contents is supported (only for epub books). Besides, CoverFlow and GridView are supported in it. The font size of the content is customizable, so you can change it as you like. When reading your epub books with it, you can set it as the one-page mode or the two-page mode. Very flexible, right? It sells $2.99 now and free trial is available.
 
@@ -105,7 +105,7 @@ Related Articles
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
@@ -171,16 +171,21 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-how-to-flawlessly-capture-your-ios-devices-screen/"><u>[New] How to Flawlessly Capture Your iOS Device's Screen</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-stability-in-the-click-quashing-jitter/"><u>[New] Stability in the Click Quashing Jitter</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-turn-off-youtubes-quick-video-buffering-feature/"><u>[New] Turn Off YouTube's Quick Video Buffering Feature</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-creativity-with-these-14-exceptional-text-animations/"><u>2024 Approved Unleash Creativity with These 14 Exceptional Text Animations</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-itel-p55t-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-nokia-g310-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Nokia G310 by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-mastering-virtual-conversations-key-strategies-for-effective-zoom-sessions/"><u>In 2024, Mastering Virtual Conversations Key Strategies for Effective Zoom Sessions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-for-virtual-reality-content-android-friendly/"><u>In 2024, The Ultimate Guide for Virtual Reality Content (Android-Friendly)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-tier-gopro-cases-unveiled-1-10-ranking/"><u>In 2024, Top-Tier GoPro Cases Unveiled - #1-10 Ranking</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/snapshotpro-v2021-ultimate-edition/"><u>SnapshotPro V2021 - Ultimate Edition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-humor-pay-nothing-easymeme-tools-guide-for-2024/"><u>Unlock Humor, Pay Nothing EasyMeme Tools Guide for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-troubleshooting-receiving-yourself-in-a-facebook-live/"><u>[New] 2024 Approved Troubleshooting Receiving Yourself in a Facebook Live</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-market-mastery-strategys-first-impressions/"><u>[New] Market Mastery Strategy's First Impressions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-pictomixer-dynamic-media-player-for-macos/"><u>[New] PictoMixer Dynamic Media Player for macOS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-livestream-technology-explained/"><u>[New] Understanding Livestream Technology Explained</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-sunlit-scenes-android-brighten-tips/"><u>[Updated] Sunlit Scenes Android Brighten Tips</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-techniques-to-ensure-uninterrupted-video-capturing-for-2024/"><u>[Updated] Techniques to Ensure Uninterrupted Video Capturing for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-traditional-markets-with-virtual-engineering/"><u>[Updated] Transforming Traditional Markets with Virtual Engineering</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleashing-audio-pleasure-your-iphones-podcast-potential/"><u>[Updated] Unleashing Audio Pleasure - Your iPhone’s Podcast Potential</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-practices-for-stream-backgrounds/"><u>Best Practices for Stream Backgrounds</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-stand-out-on-youtube-with-these-20-top-font-choices/"><u>In 2024, Stand Out on YouTube with These 20 Top Font Choices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-seekers-manual-a-comprehensive-approach-to-purchasing-high-definition-monitors/"><u>In 2024, The Seeker's Manual A Comprehensive Approach to Purchasing High-Definition Monitors</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-unlock-the-potential-of-hd-videos-on-android-devices/"><u>In 2024, Unlock the Potential of HD Videos on Android Devices</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/navigating-orientation-options-for-facebook-videos/"><u>Navigating Orientation Options for Facebook Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-to-converting-audio-files-into-high-quality-wav-format/"><u>The Ultimate Guide to Converting Audio Files Into High-Quality WAV Format</u></a></li>
 </ul></div>
 

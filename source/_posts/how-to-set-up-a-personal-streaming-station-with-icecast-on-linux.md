@@ -1,7 +1,7 @@
 ---
 title: How to Set Up a Personal Streaming Station with Icecast on Linux
-date: 2024-12-21T16:26:40.183Z
-updated: 2024-12-28T20:16:58.593Z
+date: 2025-01-04T04:23:52.096Z
+updated: 2025-01-07T10:30:17.500Z
 tags:
   - desktop
 categories:
@@ -39,7 +39,7 @@ sudo apt install icecast2
 ![Terminal window showing command to install Icecast onDebian](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-15.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  For Redhat distros, use dnf to install the icecast package:
@@ -48,19 +48,23 @@ sudo dnf install icecast
 
 ![Terminal window showing command to install Icecast on Fedora](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-17.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Initial Configuration
 
  So you've installed Icecast. Now what? Debian distros will run a post-install script which helps you configure things. At the first dialog, hit the left arrow key to select "Yes" and then hit Enter:
 
 ![Terminal window asking if you would like to configure Icecast on Debian](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-8.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Since we're setting up a private radio stream, we'll enter the machine's [LAN IP](https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/) at the next prompt:
 
 ![Terminal window asking for your address for Icecast on Debian](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-8.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A source client is the program you use that streams media files (or live audio) _to the server_. The source password authenticates with Icecast to allow you to start a stream. I recommend a unique password and not the default (which is "hackme"). Maybe something like:
 
@@ -75,12 +79,16 @@ sudo dnf install icecast
 ![Terminal window asking for an admin password for Icecast on Debian](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/6-6.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Redhat distros simply return to the command prompt after installing. No big deal, we'll set things up directly in the configuration file, located at "/etc/icecast.xml". Fire up your favorite text editor and let's get to work:
 
 ![Terminal window showing the vim command to edit icecast.xml on Fedora](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-install-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The default configuration is well-thought-out for most simple installations like ours. Icecast developers recommend the best practice of changing as little as possible, and fine-tune afterwards to suit your needs.
 
@@ -92,23 +100,19 @@ sudo dnf install icecast
 
 ![Editor with icecast icecast.xml open, showing bind-address to edit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-install-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Save the configuration file, then restart Icecast for our changes to take effect:
 
 ![Terminal window showing the command to restart Icecast, applying new configuration](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/9-install.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Let's verify that we're up and running:
 
 sudo systemctl status icecast.service
 
 ![Terminal window using systemctl command to verify Icecast daemon is running](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/11-install-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Great! Now that Icecast is up, let's get started on our source client.
 
@@ -119,7 +123,7 @@ sudo systemctl status icecast.service
 ![Flowchart of Icecast stream](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/icecast-flow-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ePirat / Xiph.org Foundation
@@ -142,7 +146,7 @@ ePirat / Xiph.org Foundation
 ![BUTT dialog window showing server settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/butt-1-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The test setup here uses non-[TLS](https://extra-skills.techidaily.com/2024-approved-inspirational-movies-for-momentum-and-self-belief/) communications on port 8000\. [Icecast fully supports SSL/TLS encryption](https://www.icecast.org/docs/icecast-2.4.1/config-file.html#ports) but [creating certs](https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-vivo-y17s-online-without-jailbreak-by-drfone-android/) is outside the scope of this tutorial. **I highly recommend using TLS** if you decide to make your stream accessible from anywhere outside your private, local network!
@@ -152,10 +156,6 @@ ePirat / Xiph.org Foundation
  From "Settings", click the "Audio" tab. Set "Samplerate" to 48000Hz (required by Opus), verify "Primary Audio Device" is where your microphone is connected and set "Streaming Codec" to Opus:
 
 ![BUTT dialog window showing audio settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/butt-2.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Finally, go back to the "Main" tab and click "Save":
 
@@ -189,10 +189,6 @@ ePirat / Xiph.org Foundation
 
  Do you hear your stream? That's Icecast at work.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Additional Configuration
 
  Icecast has many advanced features. Some of them are:
@@ -208,6 +204,10 @@ ePirat / Xiph.org Foundation
  These features and more are very well explained in the [official Icecast documentation](https://www.icecast.org/docs/).
 
  You can also use [port forwarding](https://facebook-videos.techidaily.com/new-in-2024-converting-stored-content-into-real-time-livestreams-on-social-media/) to access your stream from outside your local network.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Promoting Your Station
 
@@ -230,22 +230,22 @@ ePirat / Xiph.org Foundation
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-ultimate-guide-to-no-cost-high-quality-srt-editors/"><u>[New] 2024 Approved The Ultimate Guide to No-Cost, High-Quality Srt Editors</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-city-planning-for-climate-action-a-comprehensive-guide/"><u>[New] In 2024, City Planning for Climate Action A Comprehensive Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-instagram-vids-determining-the-perfect-dimensions-for-2024/"><u>[New] Instagram Vids Determining the Perfect Dimensions for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-silent-spectators-manual-mastering-the-art-of-private-instagram-story-watching-pcandroidios/"><u>[New] Silent Spectator's Manual Mastering the Art of Private Instagram Story Watching [PC/Android/iOS]</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-resonance-of-rhythm-music-that-echoes-films/"><u>[New] The Resonance of Rhythm Music That Echoes Films</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-secret-to-success-with-filmora-top-10-editing-traits/"><u>[New] The Secret to Success with Filmora Top 10 Editing Traits</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-photo-magic-intro-to-snapseed-features/"><u>[New] Unlocking Photo Magic Intro to Snapseed Features</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transformative-photos-lightroom-techniques-for-stunning-hdr/"><u>[Updated] Transformative Photos Lightroom Techniques for Stunning HDR</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unityflip-blend-ios-and-macos-media-artfully/"><u>[Updated] UnityFlip Blend iOS & macOS Media Artfully</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-evolution-of-hand-tracking-systems-over-time/"><u>2024 Approved The Evolution of Hand Tracking Systems Over Time</u></a></li>
-<li><a href="https://some-skills.techidaily.com/applications-of-virtual-reality-for-2024/"><u>Applications of Virtual Reality for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/corsair-headset-mic-wont-work-heres-how-to-restore-your-hs50-audio-output/"><u>Corsair Headset Mic Won't Work? Here's How to Restore Your HS50 Audio Output</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/elevate-your-feed-with-these-507-killer-instagram-captions-of-2024/"><u>Elevate Your Feed with These 507 Killer Instagram Captions of 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/how-to-use-telegram-web-step-by-step-guide-for-2024/"><u>How To Use Telegram Web Step-By-Step Guide for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-science-of-scheduling-your-best-view-days/"><u>In 2024, The Science of Scheduling Your Best-View Days</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-role-of-background-melody-in-a-cinematic-commercial-for-2024/"><u>The Role of Background Melody in a Cinematic Commercial for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-stream-smarter-with-float-mastery-over-pip-on-netflix/"><u>[New] In 2024, Stream Smarter with Float Mastery Over PIP on Netflix</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-learn-to-sharpen-images-blur-and-excise-background-edges/"><u>[New] Learn to Sharpen Images Blur and Excise Background Edges</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-definitive-guide-to-superior-hdr-photography-gear/"><u>[New] The Definitive Guide to Superior HDR Photography Gear</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-drone-journey-full-phantom-4-features-explored/"><u>[New] The Ultimate Drone Journey Full Phantom 4 Features Explored</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explaining-the-freeze-photo-booth-film-flow/"><u>2024 Approved Explaining the Freeze Photo Booth Film Flow</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-simplifying-multi-platform-group-chat-creation-on-skype-a-step-by-step-approach/"><u>2024 Approved Simplifying Multi-Platform Group Chat Creation on Skype A Step by Step Approach</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tech-jest-crafter/"><u>2024 Approved Tech Jest Crafter</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/building-brands-through-innovative-design-work-for-2024/"><u>Building Brands Through Innovative Design Work for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-frost-on-macbook-air-how-to-defrost-quickly-and-safely/"><u>Fixing Frost on MacBook Air: How To Defrost Quickly and Safely</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-galaxy-m34-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Samsung Galaxy M34 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-superior-screen-refinement-software-for-video-lovers/"><u>In 2024, Superior Screen Refinement Software for Video Lovers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-allure-of-video-crafting-filmoras-top-edits-explained/"><u>In 2024, The Allure of Video Crafting Filmora’s Top Edits Explained</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-places-for-accessing-gratis-graphics/"><u>In 2024, Top 10 Places for Accessing Gratis Graphics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-photographic-vision-with-iphone-burst-shooting/"><u>In 2024, Transform Your Photographic Vision with iPhone Burst Shooting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-making-your-windows-clicklock-work-better/"><u>Step-by-Step Guide: Making Your Windows ClickLock Work Better</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-entry-editor-for-diverse-tech-landscape-of-2023-for-2024/"><u>The Ultimate Entry Editor for Diverse Tech Landscape of 2023 for 2024</u></a></li>
 </ul></div>
 

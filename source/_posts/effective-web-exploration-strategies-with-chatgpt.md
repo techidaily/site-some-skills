@@ -1,7 +1,7 @@
 ---
 title: Effective Web Exploration Strategies with ChatGPT
-date: 2024-12-21T20:09:04.982Z
-updated: 2024-12-28T18:57:37.486Z
+date: 2025-01-02T20:49:40.258Z
+updated: 2025-01-07T02:07:09.975Z
 tags:
   - cutting-edge
 categories:
@@ -23,10 +23,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Web search request within chatgpt conversation on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt-search-web.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  With GPT-4, OpenAI's newest, premium version of ChatGPT, you can search the web with a simple request in-chat. This is known as ChatGPT Browse or Browse with Bing, and was permanently introduced in November 2022\. The feature had been launched prior to this date, in mid-2023, but was [abused by some users](http://decrypt.co/147300/openai-disables-web-browse-bing-chatgpt) to access premium content on website usually hidden behind a paywall.
 
  Because of this, the web search tool was taken down shortly after its initial launch for a few months. When the feature returned, it no longer allowed users to trick the bot into supplying information to access paywalled information. So, what does the web search tool look like today?
@@ -35,23 +31,27 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![ChatGPT beginning a search request on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt-bing-search.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With ChatGPT's web search feature, you can conduct a search for almost anything, so long as the request doesn't denote anything illegal, inappropriate, or harmful. ChatGPT provides a list of content types it isn't allowed to provide, as you can see below.
 
 ![ChatGPT's list of prohibited web search content.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt4-prohibited-content.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Mainly, ChatGPT cannot provide reproductions or transformations of legally protected content. On top of this, ChatGPT cannot provide any sort of adult content.
 
 ![ChatGPT's rule on adult content provided in prompt response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt-adult-content.jpg) 
 
- If you're doing some research, you can use ChatGPT to access a huge base of information on the topic of your choosing. If you're shopping online, you can use the tool to find the best deals on offer right now. If you're looking for a site on which to stream content, download software, or similar, ChatGPT can also help you out.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If you're doing some research, you can use ChatGPT to access a huge base of information on the topic of your choosing. If you're shopping online, you can use the tool to find the best deals on offer right now. If you're looking for a site on which to stream content, download software, or similar, ChatGPT can also help you out.
 
 ##  How to Use ChatGPT's Web Search
 
@@ -61,6 +61,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![ChatGPT's Bing search response to weather forecast request.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/forecast-gpt4-bing.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, you can ask a question and specify that you want a recent result. For instance, you could ask what the biggest star is in the universe, but specify that you want an answer provided in 2024\. If you don't specify for web search, ChatGPT will still provide an answer, but it will be using data published pre-April 2023, so the answer may be outdated.
 
  If you want to ask a question and don't want a web search conducted, just tell ChatGPT in your prompt that you don't wish for this feature to be used. Depending on what you're asking for, ChatGPT may still provide a solid answer, or may tell you that the scope of the prompt goes beyond their training data. In this case, you may be better off using Browse with Bing.
@@ -68,7 +72,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  ChatGPT often provides its sources via a hyperlinked quote in brackets (\["\]). Click on this, and you'll be taken to the page from which ChatGPT got the information it provided.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What to Avoid When Browsing the Web With ChatGPT
@@ -78,10 +82,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  A great way to avoid these pitfalls is to be very specific in your request. For instance, instead of asking for the best deals on trainers, narrow down your search to boost the quality of results. To do this, include your preferred gender for the shoe category, your general location for shipping, and your price range.
 
 ![ChatGPT's response to ecommerce web search request.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt4-deals-bing.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This narrows down the scope of the search results, saving you time and energy.
 
@@ -108,14 +108,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-practical-steps-to-enhance-videos-with-device-based-filtering/"><u>[Updated] In 2024, Practical Steps to Enhance Videos with Device-Based Filtering</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-syncing-youtube-audio-to-film-compositions/"><u>[Updated] Syncing YouTube Audio to Film Compositions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleashing-the-power-of-free-copyright-free-image-repositories/"><u>[Updated] Unleashing the Power of Free, Copyright-Free Image Repositories</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-vivid-chroma-optimizer-for-2024/"><u>[Updated] Vivid Chroma Optimizer for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-advanced-photo-tools-review/"><u>2024 Approved Unveiling Advanced Photo Tools Review</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-percussion-prospector-find-and-test-free-software/"><u>In 2024, The Percussion Prospector – Find & Test Free Software</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/instagram-glow-up-the-best-three-highlight-ideas/"><u>Instagram Glow Up The Best Three Highlight Ideas</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/troubleshooting-dells-backup-and-recovery-tool-malfunction-in-windows-operating-systems-win1187/"><u>Troubleshooting Dell's Backup and Recovery Tool Malfunction in Windows Operating Systems (Win11/8/7)</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unlocking-the-power-of-real-hd-with-logitechs-c920-webcam-expert-product-evaluation/"><u>Unlocking the Power of Real HD with Logitech's C920 Webcam: Expert Product Evaluation</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-elite-9-directors-cuts-downloader/"><u>[New] Elite 9 Directors' Cuts Downloader</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-streamlined-collaborations-amplifying-your-video-impact-for-2024/"><u>[Updated] Streamlined Collaborations Amplifying Your Video Impact for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-route-to-rejuvenate-and-refine-your-vhs-collection-online/"><u>[Updated] The Ultimate Route to Rejuvenate and Refine Your VHS Collection Online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unmarked-stock-a-beginners-guide-to-clear-content/"><u>[Updated] Unmarked Stock A Beginner's Guide to Clear Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-superior-pc-experience-innovation-at-your-fingertips/"><u>2024 Approved Superior PC Experience Innovation at Your Fingertips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boosting-performance-in-rainbow-six-extraction-tackling-low-fps-problems/"><u>Boosting Performance in Rainbow Six Extraction - Tackling Low FPS Problems</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-free-youtube-end-screen-templates-plushow-tos/"><u>In 2024, Free YouTube End Screen Templates [+How-Tos]</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-instructions-for-prolonged-iphone-shots/"><u>In 2024, The Ultimate Instructions for Prolonged iPhone Shots</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/step-by-step-increasing-viewership-with-facebook-mobile-broadcasts-for-2024/"><u>Step-by-Step Increasing Viewership with Facebook Mobile Broadcasts for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211374281-9781528799898-the-magus/"><u>The Magus | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-offline-windows-update-handbook/"><u>The Offline Windows Update Handbook</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-14-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Xiaomi 14 won’t play HEVC H.265 media, how to fix? </u></a></li>
 </ul></div>
 

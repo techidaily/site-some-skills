@@ -1,7 +1,7 @@
 ---
 title: "Exciting Updates: GIMP Introduces Advanced Gradient Capabilities Ahead of the 3.0 Update"
-date: 2024-12-23T17:55:35.794Z
-updated: 2024-12-28T18:43:06.237Z
+date: 2024-12-31T09:10:51.327Z
+updated: 2025-01-06T16:11:20.697Z
 tags:
   - deals
 categories:
@@ -38,19 +38,18 @@ The latest GIMP release (version 2.10.36) introduces a fun new gradient tool and
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-list-empowering-cinematic-experiences/"><u>[Updated] The Ultimate List Empowering Cinematic Experiences</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unbeatable-5-photo-backdrop-switchers-for-x8-series/"><u>[Updated] Unbeatable 5 Photo Backdrop Switchers for X/8 Series</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-2019-evolution-of-vegaspro/"><u>2024 Approved The 2019 Evolution of VegasPro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unraveling-the-secrets-to-effortlessly-record-seascapes/"><u>2024 Approved Unraveling the Secrets to Effortlessly Record Seascapes</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/a-beginners-guide-to-minitool-movie-maker-review-tutorial-and-alternatives/"><u>A Beginners Guide to Minitool Movie Maker Review, Tutorial, and Alternatives</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/1722772114692-biocompatibility-is-non-negotiable-materials-must-not-cause-adverse-reactions-in-the-body/"><u>Biocompatibility Is Non-Negotiable; Materials Must Not Cause Adverse Reactions in the Body</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Infinix Note 30 Pro | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-a-lost-apple-iphone-11-pro-max-for-free-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track a Lost Apple iPhone 11 Pro Max for Free? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Realme C67 4G? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-your-pcs-cpu-efficiency-while-playing-cyberpunk-2077/"><u>Optimizing Your PC's CPU Efficiency While Playing Cyberpunk 2077</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-basketball-enthusiasts-guide-to-online-viewing/"><u>[New] 2024 Approved Basketball Enthusiast's Guide to Online Viewing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-2024s-elite-shotters-pick-ranked-1-10-camera-lenses/"><u>[New] 2024’S Elite Shotters’ Pick Ranked #1-10 Camera Lenses</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-unlocked-potential-of-new-windows-11/"><u>[New] In 2024, The Unlocked Potential of New Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-live-streaming-selection-guide/"><u>[New] Ultimate Live Streaming Selection Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-auditory-identity-crafting-your-own-ringtones-and-sounds-for-android/"><u>[Updated] The Art of Auditory Identity Crafting Your Own Ringtones & Sounds for Android</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-lg-screen-chronicles-a-complete-review-of-4k-quality/"><u>[Updated] The Ultimate LG Screen Chronicles A Complete Review of 4K Quality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-using-luts-in-spark-ar-and-download-free-luts/"><u>2024 Approved Using LUTs in Spark AR & Download Free LUTs</u></a></li>
+<li><a href="https://fox-http.techidaily.com/next-era-visionaries-explore-10-sci-fi-movies-metaverse-realms/"><u>Next Era Visionaries Explore 10 Sci-Fi Movies' Metaverse Realms</u></a></li>
+<li><a href="https://network-issues.techidaily.com/the-black-screen-banished-from-lenovo-panels/"><u>The Black Screen Banished From Lenovo Panels</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

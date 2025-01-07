@@ -1,7 +1,7 @@
 ---
 title: "Exploring Solana: The Emerging 'Ethereum Killer' Explained"
-date: 2024-12-23T16:11:48.274Z
-updated: 2024-12-28T20:39:29.085Z
+date: 2025-01-06T05:16:15.171Z
+updated: 2025-01-07T01:07:06.410Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/d0531d40b03cde46602b7231bfc17c15ddbf08155
 ---
 
 ## Exploring Solana: The Emerging 'Ethereum Killer' Explained
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -61,12 +65,16 @@ _[The Tie Labs](https://research.thetie.io/solana-ecosystem/)_
  When Ethereum gas prices spike to high levels making it expensive to use the blockchain, then many cryptocurrency investors and traders look to other blockchains to conduct their trades and NFT trading. Solana's growth has benefitted from the high gas on Ethereum as users have fled to using Solana for [NFTs](https://sound-tweaking.techidaily.com/updated-2024-approved-mastering-echo-effects-implementing-reverb-in-digital-sound-environments-windows-edition/) and [decentralized finance (DeFi)](https://facebook-record-videos.techidaily.com/new-the-monetary-journey-of-ajey-nagar-on-youtube/) such as [yield farming](https://extra-tips.techidaily.com/updated-accelerate-with-these-key-windows-10-tricks/) or [staking](https://fox-cloud.techidaily.com/in-2024-syma-x5c-in-depth-guide-optimal-choice-to-lift-off-as-a-beginner/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **NFTs on Solana** 
 
 ![Solana Token Distribution](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Screen-Shot-2022-06-28-at-2.50.26-PM.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _[The Tie Labs](https://research.thetie.io/solana-ecosystem/)_
 
@@ -82,10 +90,6 @@ _[The Tie Labs](https://research.thetie.io/solana-ecosystem/)_
 
  The performance of Solana has attracted game developers and there are several high-profile games in production that make use of NFTs including [STEPN](https://stepn.com/), a move-to-earn game, and [Star Atlas](https://staratlas.com/), which is an [MMORPG](https://driver-error.techidaily.com/re-establish-connection-with-devices-in-winnt-40/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Centralization Concerns** 
 
  Since Solana uses [Proof of Stake (PoS) versus Proof of Work (PoW)](https://graphic-issues.techidaily.com/blinking-void-after-graphic-patch/), there are different dynamics at play when it comes to determining the centralization of the validator network. If token accumulation by validators is the greatest factor in deciding who gets to validate the next block of transactions, then they are more likely to be rewarded with the block reward, which the compensation validators receive for securing the network.
@@ -93,7 +97,7 @@ _[The Tie Labs](https://research.thetie.io/solana-ecosystem/)_
  These can lead to a scenario in which the rich get richer as those entities or validators who already own an outsize amount of Solana tokens have a clear advantage of earning more than the average user who wants to validate the network. Around 60% of SOL tokens are controlled by Solana's founders and the Solana Foundation, with 38% reserved for the community.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Outages** 
@@ -101,7 +105,7 @@ _[The Tie Labs](https://research.thetie.io/solana-ecosystem/)_
 ![Solana Uptime Jan - March 2022](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Screen-Shot-2022-06-28-at-1.11.14-PM.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _[Solana Status](https://status.solana.com/uptime?page=2)_
@@ -111,10 +115,6 @@ _[Solana Status](https://status.solana.com/uptime?page=2)_
  When the network has gone down, it has been typically due to the failure of the validators to reach consensus and agree on the accuracy of the chain. These inconsistencies have sometimes come from a flood of bots flooding the network with transactions.
 
  Many people in web3 are critical of Solana because of these outages. Some people decry that Solana is not ready for the scale that it hopes to achieve. Others state that these are growing pains, and that the network is experiencing an iterative period of stress tests which are helping Solana become more battle-hardened and robust as weaknesses are exposed and then patched and resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Final Thoughts** 
 
@@ -141,20 +141,17 @@ _[Solana Status](https://status.solana.com/uptime?page=2)_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-hacky-podcast-transmission-tactic/"><u>[New] In 2024, Hacky Podcast Transmission Tactic</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-experts-playbook-for-transforming-srt-into-diverse-formats/"><u>[New] The Expert's Playbook for Transforming SRT Into Diverse Formats</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-top-5-engine-picks-for-peak-performance-quadcopters-for-2024/"><u>[New] Top 5 Engine Picks for Peak Performance Quadcopters for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlimited-chuckles-craftsmanship-no-monetary-requirement/"><u>[New] Unlimited Chuckles Craftsmanship No Monetary Requirement</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-silencing-background-noise-in-obs-feeds/"><u>[Updated] In 2024, Silencing Background Noise in OBS Feeds</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-the-art-of-youtube-management-by-studio-techniques/"><u>[Updated] In 2024, The Art of YouTube Management by Studio Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transform-moments-with-these-premium-screenshot-and-video-editing-apps/"><u>2024 Approved Transform Moments with These Premium Screenshot & Video Editing Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/banish-unwanted-zoom-in-your-computer-writings/"><u>Banish Unwanted Zoom in Your Computer' Writings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-boot-clutter-a-windows-11-journey/"><u>Eliminating Boot Clutter: A Windows 11 Journey</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gratuite-de-la-conversion-entre-pdf-et-image-jpeg-convertisseur-en-ligne-de-qualite-professionnelle-chez-movavi/"><u>Gratuité De La Conversion Entre PDF Et Image JPEG - Convertisseur en Ligne De Qualité Professionnelle Chez Movavi</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-innovative-strategies-for-image-collections-procurement/"><u>In 2024, Innovative Strategies for Image Collections Procurement</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-beginners-path-to-professional-windows-10-video-production/"><u>In 2024, The Beginner's Path to Professional Windows 10 Video Production</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-5-innovative-vr-drones-collaborations/"><u>In 2024, Top 5 Innovative VR Drones Collaborations</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/navigating-legal-frameworks-the-influence-on-cryptocurrencies-by-yl-computing-experts/"><u>Navigating Legal Frameworks: The Influence on Cryptocurrencies by YL Computing Experts</u></a></li>
-<li><a href="https://facebook.techidaily.com/securing-your-facebook-fan-count-privacy/"><u>Securing Your Facebook Fan Count Privacy</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-dance-drumming-dodoes/"><u>[Updated] Dance Drumming Dodoes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-lightroom-for-hdr-image-creation/"><u>[Updated] The Ultimate Guide to Lightroom for HDR Image Creation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-audio-playback-accelerators-for-phones/"><u>[Updated] Top 10 Audio Playback Accelerators for Phones</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2-easy-ways-to-record-google-meet/"><u>2 Easy Ways to Record Google Meet</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boost-your-work-efficiency-with-the-flip-out-laptop-monitor-exclusive-93-discount-on-prime-day-insider-tips/"><u>Boost Your Work Efficiency with the Flip-Out Laptop Monitor: Exclusive $93 Discount on Prime Day - Insider Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/evgas-high-end-classified-motherboard-hits-market-at-a-steep-1300plus-price-tag-the-x670e-insider-scoop/"><u>EVGA's High-End Classified Motherboard Hits Market at a Steep $1,300+ Price Tag – The X670E Insider Scoop</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-scripts-generating-parody-content-for-2024/"><u>Flipping Scripts Generating Parody Content for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-futurecamerasbeyondmycam/"><u>In 2024, FutureCamerasBeyondMyCam</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tips-for-overcoming-iphone-camera-focusing-glitches/"><u>In 2024, Tips for Overcoming iPhone Camera Focusing Glitches</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-tune-master-app-for-android/"><u>In 2024, Ultimate Tune Master App for Android</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamlining-tech-upgrade-go-big-sur-on-your-mac-for-2024/"><u>Streamlining Tech Upgrade Go Big Sur! On Your Mac for 2024</u></a></li>
 </ul></div>
 

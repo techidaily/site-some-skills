@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Setting Up Full-Screen Color Selection Tools in Windows 10
-date: 2024-12-21T19:26:51.542Z
-updated: 2024-12-28T20:15:27.473Z
+date: 2025-01-04T22:15:22.584Z
+updated: 2025-01-07T00:57:41.332Z
 tags:
   - desktop
 categories:
@@ -12,13 +12,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Comprehensive Guide to Setting Up Full-Screen Color Selection Tools in Windows 10
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
 
 * [Install PowerToys and Enable Color Picker](https://fox-that.techidaily.com/troubleshooting-gps-issues-how-to-restore-location-services-on-an-iphone/)
 * [Activate Color Picker With a Keyboard Shortcut](https://win-amazing.techidaily.com/download-the-newest-magicard-rio-pro-driver-universal-compatibility-windows-1011-81-and-7-supported/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -28,19 +32,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Need to figure out a color quickly? Using [Microsoft's free PowerToys utility for Windows 10](https://facebook-video-footage.techidaily.com/updated-2024-approved-auto-play-youtube-iphoneandroid-no-notification/), you can instantly bring up a color picker with a keyboard shortcut and use your mouse cursor to identify any color on screen in hex, RGB, or HSL format. Here's how to do it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Install PowerToys and Enable Color Picker
 
  To use Microsoft's handy system-wide color picker, you'll need to [download PowerToys](https://github.com/microsoft/PowerToys/releases/) from Microsoft's website first. You'll find the latest release listed toward the top of the download page linked above. Download an EXE file such as "PowerToysSetup-0.78-x64.exe" (The name will vary based on the latest release.) and run it.
 
 ![Download the latest release of the PowerToys installer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/powertoys.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After the installation process is complete, launch PowerToys Settings by right-clicking the icon on your taskbar, or from your desktop or the Start menu.
 
@@ -49,10 +45,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Click "Color Picker" in the sidebar, then make sure that the "Enable Color Picker" switch is in the "On" position.
 
 ![Ensure the PowerToys color picker is enabled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/power-toy-color-picker.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  By default, you'll use Windows+Shift+C to activate the color picker. You can change this keyboard shortcut to your preferred one from this screen, if you like.
 
@@ -64,13 +56,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Using Color Picker to identify a color in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/firefox_color_picker_1.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can point your cursor at any color on screen that you want, including icons, applications, images, desktop backgrounds, the taskbar, and more. If you want more info on the color, click the left mouse button while hovering over it, and a window will pop up.
 
 ![The PowerToys Color Picker detail window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/color_detail_window.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This window displays the hex color code, the RGB (red, green, blue) value, and the HSL (hue, saturation, lightness) value of the color you just selected. If you'd like to copy one of those values (as a text string) to the clipboard, hover over it and click the "copy" icon that appears.
 
@@ -84,11 +76,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Color Picker color adjustment window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/color_adjust_window.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you're done, click "OK," and then the color will be added to your saved color palette, which is the vertical column of boxes along the left side of the window. If you need to remove a color from the palette on the side of the window, right-click the color square and select "Remove."
 
  If you'd like to leave this window and pick another color, click the eyedropper icon in the upper-left corner of the window.
 
 ![In Color Picker, click the eyedropper button to pick another color.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/pick_color_again.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The detail window will close and you can repeat the process again, selecting any color you'd like.
 
@@ -111,18 +111,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-stunning-iphone-portraits-through-water-imagery-techniques/"><u>[New] Stunning iPhone Portraits Through Water Imagery Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-photographic-edge-cutting-edge-editing-strategies/"><u>[New] The Photographic Edge Cutting-Edge Editing Strategies</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-quick-quirky-qs-how-to-save-funny-tweets-as-gifs/"><u>[Updated] 2024 Approved Quick, Quirky Qs How To Save Funny Tweets as GIFs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleash-creativity-discovering-the-most-acclaimed-photo-swap-apps/"><u>[Updated] Unleash Creativity Discovering the Most Acclaimed Photo Swap Apps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-iphone-x-secrets-restoring-face-id-functionality/"><u>[Updated] Unlocking iPhone X Secrets Restoring Face ID Functionality</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-venturing-virtuality-a-review-of-lgs-360-headset-for-2024/"><u>[Updated] Venturing Virtuality A Review of LG's 360 Headset for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-iphone-6s-plus-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On iPhone 6s Plus</u></a></li>
-<li><a href="https://article-tips.techidaily.com/elite-6-software-solutions-for-flawless-signature-hiding-for-2024/"><u>Elite 6 Software Solutions for Flawless Signature Hiding for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-max-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro Max To Other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-5-low-cost-pinterest-video-download-software/"><u>In 2024, Top 5 Low-Cost Pinterest Video Download Software</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/master-the-art-of-dialing-down-video-speed-in-snapchat/"><u>Master the Art of Dialing Down Video Speed in Snapchat</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transformation-mov-a-gif-une-solution-gratuite-et-facile-chez-movavi-directement-dans-votre-navigateur/"><u>Transformation MOV À GIF: Une Solution Gratuite Et Facile Chez Movavi, Directement Dans Votre Navigateur</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/tutorial-pemulihan-gambar-opsi-desk-accessories-hanya-untuk-windows-10-11-8-dan-versi-terakhir/"><u>Tutorial Pemulihan Gambar Opsi Desk Accessories - Hanya Untuk Windows 10, 11, 8 Dan Versi Terakhir</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-mastering-fb-reel-creation-step-by-step-guide/"><u>[New] 2024 Approved Mastering FB Reel Creation Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-the-indestructible-link-methodology-for-tiktok-bio-info/"><u>[New] The Indestructible Link Methodology for TikTok Bio Info</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-manipulating-image-shapes/"><u>[New] The Ultimate Guide to Manipulating Image Shapes</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-finding-peace-in-patience-slowing-down-your-online-video-experience-on-youtube-60-chars-a-bit-long-but-full-of-helpful-info/"><u>[Updated] Finding Peace in Patience Slowing Down Your Online Video Experience on YouTube (60 Chars, a Bit Long but Full of Helpful Info)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-saturation-and-contrast-in-gopro-editing/"><u>[Updated] The Art of Saturation and Contrast in GoPro Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-memelife-top-meme-creator-tool-download/"><u>2024 Approved Ultimate Memelife Top Meme Creator Tool Download</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-realme-c55-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Realme C55 Phones with/without a PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-apple-iphone-15-to-enjoy-more-fun-drfone-by-drfone-virtual-ios/"><u>In 2024, Change Location on Yik Yak For your Apple iPhone 15 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-jump-start-your-journey-to-quality-video-edits-in-windows-10/"><u>In 2024, Jump-Start Your Journey to Quality Video Edits in Windows 10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-techniques-to-boost-periscope-live-video-speed/"><u>In 2024, Techniques to Boost Periscope Live Video Speed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-multi-task-efficiency-splitting-your-display-on-macos-devices/"><u>Unlocking Multi-Task Efficiency: Splitting Your Display on macOS Devices</u></a></li>
 </ul></div>
 

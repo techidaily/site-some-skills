@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Adding Your Site to the Windows 11 Taskbar and Start Menu"
-date: 2024-12-24T17:45:48.349Z
-updated: 2024-12-28T17:53:42.575Z
+date: 2025-01-02T22:58:51.564Z
+updated: 2025-01-07T02:06:58.638Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 ## Easy Guide: Adding Your Site to the Windows 11 Taskbar and Start Menu
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 * [Pin a Website from Google Chrome](https://win-answers.techidaily.com/overcoming-common-among-us-voice-call-problems-for-pc-users-a-step-by-step-guide/)
 * [Pin a Website from Firefox](https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-iphone-6s-by-drfone-ios/)
 * [Pin a Microsoft Edge Website](https://facebook-video-files.techidaily.com/new-innovative-downloaders-unveiled-top-8-of-2023/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -33,19 +37,11 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 
  Having quick access to frequently-used or hard to remember websites can save you time and frustration. Whether you use Chrome, Firefox, or Edge, you can add a shortcut to any site right to your Windows 10 taskbar or Start menu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Pin a Website from Google Chrome
 
  Navigate to the website you want to pin. Click the three vertical dots in the top right of Chrome, hover your mouse over "Save and Share," then select "Create Shortcut."
 
 ![Click the three-dot menu icon, click 'Save and Share,' then select 'Create Shortcut.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-three-dot-menu-click-save-and-share-click-create-shortcut.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In the pop-up menu, change the name of the shortcut if desired, and click "Create." This will automatically create an icon on your Windows desktop and pin the link to your taskbar. 
 
@@ -59,19 +55,23 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 
 ![Right-click the icon and select 'Pin to Start.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-pin-to-start.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Pin a Website from Firefox
 
  Create a shortcut to Firefox on your desktop. You can do this by typing "Firefox" into your Start menu, right-clicking on the icon, and clicking "Open File Location."
 
 ![Open Firefox File Location](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/ff1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the new File Explorer window, right-click Firefox and click "Create Shortcut." A prompt will appear, saying, "Windows can't create a shortcut here. Do you want the shortcut to be placed on the desktop instead?" Click "Yes."
 
 ![Create a Firefox Browser Shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/ff2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Right-click the new Firefox icon on your desktop, and click "Properties." In the Target field, insert the full URL of the website you want to pin after the quotation mark. Here's an example of what the Target field should look like:
 
@@ -86,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 ![Right-click the Firefox icon and select 'Pin to Start' or 'Pin to Taskbar.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-pin-to-start-pin-to-taskbar.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Pin a Microsoft Edge Website
@@ -114,19 +114,15 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-broadview-networks-navigating-mcn-choices/"><u>[Updated] In 2024, Broadview Networks Navigating MCN Choices</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-enhancing-fb-video-content-with-streamlined-captioning-tactics/"><u>[Updated] In 2024, Enhancing FB Video Content with Streamlined Captioning Tactics</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-surveillance-avoidance-tips-for-instagrams-livestreams/"><u>2024 Approved The Ultimate Surveillance Avoidance Tips for Instagram's Livestreams</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-gaming-monitors-to-perfect-ps5-and-xbox-experience/"><u>2024 Approved Top 5 Gaming Monitors to Perfect PS5 and Xbox Experience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-list-7-mac-focused-vids/"><u>2024 Approved Ultimate List 7 Mac-Focused Vids</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-youtube-earnings-estimator-tools/"><u>2024 Approved YouTube Earnings Estimator Tools</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-elegant-departures-from-zero-costs-to-paid-options/"><u>In 2024, Elegant Departures From Zero Costs to Paid Options</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-pixel-magic-transforming-still-images-to-video-with-pixiz/"><u>In 2024, Pixel Magic Transforming Still Images to Video with Pixiz</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-foundations-of-vsco-photo-manipulation/"><u>In 2024, The Foundations of VSCO Photo Manipulation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-your-job-on-the-line-assessing-the-impact-of-generative-ai-on-various-industries/"><u>Is Your Job on the Line? Assessing the Impact of Generative AI on Various Industries.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/kindle-fire-ad-free-setup-guide/"><u>Kindle Fire Ad-Free Setup Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-the-world-of-electronics-with-toms-hardware-analysis/"><u>Mastering the World of Electronics with Tom's Hardware Analysis</u></a></li>
-<li><a href="https://some-skills.techidaily.com/strategies-for-effortless-insertion-of-videos-into-youtube-compilations-for-2024/"><u>Strategies for Effortless Insertion of Videos Into YouTube Compilations for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tiny-feature-plot-outline-for-2024/"><u>Tiny Feature Plot Outline for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlining-your-streams-choosing-between-xsplit-and-obs/"><u>[New] Streamlining Your Streams Choosing Between XSplit and OBS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-audacity-crossfading-process/"><u>[Updated] Step-by-Step Audacity Crossfading Process</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unbound-zen-audio-releases/"><u>[Updated] Unbound Zen Audio Releases</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-vivo-y56-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Vivo Y56 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-accessing-hidden-social-engagement-in-video-streams/"><u>In 2024, Accessing Hidden Social Engagement in Video Streams</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-5-hd-cameras-for-big-game-capture/"><u>In 2024, Top 5 HD Cameras for Big Game Capture</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722972747659-quick-and-simple-update-your-windows-t-7-webcam-drivers-today/"><u>Quick and Simple: Update Your Windows T 7 Webcam Drivers Today</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-4-ways-for-apple-iphone-12-pro-max-to-mac-mirroring-drfone-by-drfone-ios/"><u>Top 4 Ways for Apple iPhone 12 Pro Max to Mac Mirroring | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-microsoft-azure-transcription-capabilities-for-2024/"><u>Unlocking Microsoft Azure Transcription Capabilities for 2024</u></a></li>
 </ul></div>
 

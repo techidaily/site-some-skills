@@ -1,7 +1,7 @@
 ---
 title: "Securing Your System: A Step-by-Step Guide to Locking a Windows 10 PC via Command Line"
-date: 2024-12-23T17:06:26.375Z
-updated: 2024-12-28T20:20:56.838Z
+date: 2024-12-30T23:42:18.285Z
+updated: 2025-01-06T23:33:50.548Z
 tags:
   - deals
 categories:
@@ -11,17 +11,13 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
 
 ## Securing Your System: A Step-by-Step Guide to Locking a Windows 10 PC via Command Line
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Lock Your Windows 10 PC Using Command Prompt](https://vp-tips.techidaily.com/new-audiovisual-adaptability-in-free-fire-for-2024/)
 * [Set the Lock Screen Timeout Setting Using Command Prompt](https://eaxpv-info.techidaily.com/new-finding-a-different-way-to-naming-your-channel-with-filmora-for-2024/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -32,11 +28,19 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
 
  One of the first rules of cyber security is to always lock your PC before stepping away. While it may not be the quickest way to lock your Windows 10 PC, you can do it using the Command Prompt.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Lock Your Windows 10 PC Using Command Prompt
 
  First, [open the Command Prompt](https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a78-frp-by-drfone-android/) on your PC by opening the Start menu, typing “cmd” in the Windows Search bar, and then selecting “Command Prompt” from the search results.
 
 ![Click the Start button, search for 'cmd,' then open 'Command Prompt.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-cmd.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Command Prompt will now open. Here, run this command to lock your Windows 10 PC.
 
@@ -45,14 +49,10 @@ Rundll32.exe user32.dll,LockWorkStation
 ![Locking your PC with Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-lock-pc-command-prompt.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once executed, your PC will be locked. You'll have to sign back in with your PIN, password, or whatever sign-in method you usually use.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Set the Lock Screen Timeout Setting Using Command Prompt
 
@@ -63,7 +63,7 @@ Rundll32.exe user32.dll,LockWorkStation
 ![Launching Command Prompt as admin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-launch-cmd.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  With Command Prompt open, run this command.
@@ -101,18 +101,22 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-top-windows-11-visualizer-for-rapid-images/"><u>[New] 2024 Approved Top Windows 11 Visualizer for Rapid Images</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ow-to-setup-a-mac-studio-for-sports-content-for-2024/"><u>[New] How to Setup a Mac Studio for Sports Content for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-interlinkers-companion-navigating-instra-to-tiktok/"><u>[New] In 2024, Interlinker's Companion Navigating Instra-to-TikTok</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-how-to-use-luts-in-premiere-pro/"><u>[Updated] How To Use LUTs In Premiere Pro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-superior-choice-of-steadicams-for-drone-video-shootings/"><u>[Updated] Superior Choice of Steadicams for Drone Video Shootings</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-top-10-gimbals-elevating-dsrl-cinematic-results/"><u>[Updated] Top 10 Gimbals Elevating DSRL Cinematic Results</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-velvet-vaults-2022-olympic-skaters/"><u>[Updated] Velvet Vaults 2022 Olympic Skaters</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1726030007560-mp3/"><u>「オーディオファイル形式と拡張子の変更：MP3への音楽データ転送ガイド」</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-creative-potential-downloading-free-luts-for-ar-development/"><u>2024 Approved Unlocking Creative Potential Downloading Free LUTs for AR Development</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eradicating-unauthorized-windows-server-error/"><u>Eradicating Unauthorized Windows Server Error</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-samsung-galaxy-z-flip-5-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Samsung Galaxy Z Flip 5? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-editing-playbook-for-breaking-into-viral-spots-on-tiktok/"><u>In 2024, Ultimate Editing Playbook for Breaking Into Viral Spots on TikTok</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oppo-reno-8t-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 8T Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-breaking-down-itunes-video-recording-basics/"><u>[New] 2024 Approved Breaking Down iTunes Video Recording Basics</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-snap-shooting-techniques-for-zoom-calls/"><u>[New] In 2024, Snap Shooting Techniques for Zoom Calls</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tailoring-the-spectrum-of-light-in-windows-based-video-editing/"><u>[New] Tailoring the Spectrum of Light in Windows-Based Video Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-time-saving-tips-making-rapid-google-collage-photo-artwork/"><u>[New] Time-Saving Tips Making Rapid Google Collage Photo Artwork</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unearthing-the-potential-of-htc-vive-for-immersive-gaming/"><u>[New] Unearthing the Potential of HTC Vive for Immersive Gaming</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-5-online-titler-pros-unveiled/"><u>[Updated] Top 5 Online Titler Pros Unveiled</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-software-guide-for-tempo-alteration/"><u>[Updated] Ultimate Software Guide for Tempo Alteration</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-como-reducir-el-tamano-de-un-archivo-mp3-guia-paso-a-paso-con-software-y-herramientas-en-linea/"><u>1. Cómo Reducir El Tamaño De Un Archivo MP3: Guía Paso a Paso Con Software Y Herramientas en Línea</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-creating-an-individualistic-tiktok-identifier/"><u>2024 Approved Creating an Individualistic TikTok Identifier</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unraveling-the-mystery-of-premium-free-photography-access/"><u>2024 Approved Unraveling the Mystery of Premium Free Photography Access</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-honor-x50i-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Honor X50i? Try These Fixes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-superior-webcams-revolutionizing-podcast-recording/"><u>In 2024, Superior Webcams Revolutionizing Podcast Recording</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/perfect-crossfading-techniques-using-audacity-for-2024/"><u>Perfect Crossfading Techniques Using Audacity for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-list-of-picture-protection-software/"><u>The Ultimate List of Picture Protection Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-no-experience-guide-to-earning-on-reddit-13-strategies-inside-for-2024/"><u>The Ultimate, No-Experience Guide to Earning on Reddit - 13 Strategies Inside for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-automation-apps-for-managing-your-pinterest-posts/"><u>Top 5 Automation Apps for Managing Your Pinterest Posts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-the-sims-solved-graphic-hardware-issues-on-pc-and-mac/"><u>Troubleshooting The Sims ([SOLVED]) Graphic Hardware Issues on PC and Mac</u></a></li>
 </ul></div>
 

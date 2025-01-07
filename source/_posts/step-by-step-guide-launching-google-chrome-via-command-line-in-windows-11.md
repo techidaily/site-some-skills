@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Launching Google Chrome via Command Line in Windows 11"
-date: 2024-12-27T19:21:38.410Z
-updated: 2024-12-28T19:22:25.359Z
+date: 2025-01-02T22:19:28.123Z
+updated: 2025-01-06T16:15:26.408Z
 tags:
   - deals
 categories:
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
 
 ![Launching the Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/0.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In Command Prompt, run the following command:
 
         `start chrome`
@@ -41,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
 ![The "start chrome" command in a Command Prompt window open in Terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-21.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Chrome will now open. You can also do the same thing from the "Run" window.
@@ -50,13 +46,13 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
 
 ![Search "Run" in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-run.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Here, type **Chrome** and then select the "OK" button.
 
 ![Open the Run window, then enter "Chrome."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-chrome-in-run.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The web browser will now open.
 
@@ -70,11 +66,11 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 ![Launching Chrome as an admin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-running-as-admin.png) 
 
- You'll now be running Chrome as an administrator.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You'll now be running Chrome as an administrator.
 
 ##  Open Chrome in Incognito Mode
 
@@ -90,11 +86,11 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 ![Starting Chrome in incognito mode from a Run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-chrome-incognito-run-window.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Chrome will now open in incognito mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Open Chrome Straight to a Specific Website
 
@@ -106,10 +102,6 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 ![Opening Chrome to howtogeek.com](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/7-starting-chrome-with-a-specific-website.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you have multiple profiles on Google Chrome, opening Chrome in this way to a specific website will automatically launch into the most recently used profile. 
 
  Or, you can go to a specific website in incognito mode by appending the /incognito command. For example:
@@ -118,11 +110,19 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 ![Combining incognito with a specific website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/8-incog-specific-site.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can achieve the same goal using Run by using this command:
 
 `chrome www.howtogeek.com` 
 
 ![Opening Chrome to a specific website using a Run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/9-run-howtogeek.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or, to open the site in incognito mode, use:
 
@@ -147,16 +147,22 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-best-methods-for-documenting-live-youtube-broadcasts/"><u>[New] Best Methods for Documenting Live YouTube Broadcasts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-complete-beginners-manual-to-using-final-cut-pro/"><u>[New] The Complete Beginner's Manual to Using Final Cut Pro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transformative-power-of-vlc-from-mp4-to-a-multitude-of-formats/"><u>[New] Transformative Power of VLC From MP4 to a Multitude of Formats</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-canvas-reborn-spotlight-on-top-6-in-digital-arts/"><u>[Updated] The Canvas Reborn Spotlight on Top 6 in Digital Arts</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-visual-vividity-techniques-in-hue-adjustment-for-2024/"><u>[Updated] Visual Vividity Techniques in Hue Adjustment for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-creativity-with-pexels-finding-fabulous-images/"><u>2024 Approved Unleashing Creativity with Pexels Finding Fabulous Images</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-samsung-galaxy-a14-4g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Samsung Galaxy A14 4G</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-canon-mf4800-printer-drivers-for-optimal-performance/"><u>Download & Install Canon MF4800 Printer Drivers for Optimal Performance</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-msi-z370-a-pros-latest-drivers-here-free-offer/"><u>Get Your MSI Z370-A Pro's Latest Drivers Here – Free Offer!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ios-175-beta-2-enables-apple-devices-to-install-desktop-apps-directly-learn-how-zdnet/"><u>IOS 17.5 Beta 2 Enables Apple Devices to Install Desktop Apps Directly - Learn How! | ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-most-effective-instatags-to-grow-your-audience-today/"><u>The Most Effective #InstaTags To Grow Your Audience Today</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-pinnacles-selection-of-12-motion-cameras-with-satellite-tracking/"><u>[New] Pinnacle's Selection of 12 Motion Cameras with Satellite Tracking</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-selection-choosing-excellent-free-srt-translators/"><u>[New] Ultimate Selection Choosing Excellent FREE SRT Translators</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-enhancing-slideshow-impact-with-webcam-integration/"><u>[Updated] In 2024, Enhancing Slideshow Impact with Webcam Integration</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-fundamentals-of-color-grading-using-luts-in-ae/"><u>[Updated] The Fundamentals of Color Grading Using LUTs in AE</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-fix-for-gopro-fisheye-problems/"><u>[Updated] The Ultimate Fix for GoPro Fisheye Problems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-your-imagination-into-visual-masterpieces-on-windows-10/"><u>[Updated] Transform Your Imagination Into Visual Masterpieces on Windows 10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-simplicity-accessing-highly-engaged-youtube-reactions/"><u>[Updated] Unveiling the Simplicity Accessing Highly Engaged YouTube Reactions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-navigating-the-net-top-tags-for-eye-catching-gamer-content/"><u>2024 Approved Navigating the Net Top Tags for Eye-Catching Gamer Content</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpts-veracity-in-the-realm-of-health-recommendations/"><u>GPT's Veracity in the Realm of Health Recommendations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hacking-windows-xp-issues-bypass-compatibility-fails/"><u>Hacking Windows XP Issues: Bypass Compatibility Fails</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-improving-zoom-hd-quality-quick-fixes/"><u>In 2024, Improving Zoom HD Quality Quick Fixes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-top-10-free-web-based-video-chatting-tools/"><u>In 2024, Top 10 Free Web-Based Video Chatting Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-understanding-netflixs-multi-stream-technology-a-quick-guide/"><u>In 2024, Understanding Netflix's Multi-Stream Technology A Quick Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/rating-cognitive-science-into-organizational-leadership-practices-for-2024/"><u>Integrating Cognitive Science Into Organizational Leadership Practices for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-veil-vs-the-beam-shadowheroes-vs-luminaryfighters-for-2024/"><u>The Veil vs the Beam Shadowheroes Vs Luminaryfighters for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-8-subtitle-converters-speed-up-your-video-production-from-sub-to-quickly-released-srtr-format-for-2024/"><u>Top 8 Subtitle Converters Speed Up Your Video Production - From SUB to Quickly-Released SRTR Format for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-task-managers-for-windows-10-and-11-users/"><u>Winning Task Managers for Windows 10 & 11 Users</u></a></li>
 </ul></div>
 

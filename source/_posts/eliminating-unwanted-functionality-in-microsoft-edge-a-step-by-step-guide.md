@@ -1,7 +1,7 @@
 ---
 title: "Eliminating Unwanted Functionality in Microsoft Edge: A Step-by-Step Guide"
-date: 2024-12-25T16:52:51.338Z
-updated: 2024-12-28T20:30:05.311Z
+date: 2025-01-02T04:00:49.431Z
+updated: 2025-01-07T09:15:43.445Z
 tags:
   - deals
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 * [Stop Edge From Running in the Background](https://sound-optimizing.techidaily.com/updated-2024-approved-leading-platforms-for-seamless-mp3-refinement-and-cutting/)
 * [Change the Look Of Your Edge Browser](https://screen-sharing-recording.techidaily.com/top-5-cost-effective-video-editing-software-for-gamers-for-2024/)
 * [Adjust Edge Web Services](https://buynow-marvelous.techidaily.com/navigating-the-pre-owned-ipad-market-a-buyers-top-five-guide/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 
 ![Show Feed toggle in the Page Settings window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/show-feed-toggle-in-the-page-settings-window.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Edge also has a quick link section with links to various websites. These links are from companies that pay Microsoft to display them on the Edge home page. If you don’t want to see these links, click the gear icon and turn off the “Show Promoted Links” toggle.
 
 ![Show promoted links toggle in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/show-promoted-links-toggle-in-edge.jpg) 
@@ -42,11 +50,11 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 
 ![Background toggle in the Edge browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/background-toggle-in-the-edge-browser.jpg) 
 
- After making these changes, you’ll find the Edge home page much less cluttered.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ After making these changes, you’ll find the Edge home page much less cluttered.
 
 ##  Stop Edge From Running in the Background
 
@@ -57,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 ![Settings option in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/settings-option-in-edge.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the Edge Settings menu, select "System and Performance" from the left sidebar and turn off the "Continue running background extensions and apps when Microsoft Edge is closed" and "Startup Boost" toggles on the right.
@@ -65,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 ![Startup Boost option in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/startup-boost-option-in-edge.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Change the Look Of Your Edge Browser
@@ -76,13 +84,13 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 
 ![System Default option in Edge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/system-default-option-in-edge.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, in the top-left corner of the Edge browser, you will find a square icon called the "Tab Actions Menu" that allows you to manage tabs that are opened in the browser. You can access this menu to switch to [vertical tabs](https://youtube-sure.techidaily.com/n-2024-best-8-youtube-editing-software-for-linux/), look for a particular tab, and do many other tab-related things. However, as a general user, you are rarely going to need to access this menu. Therefore, it's better to disable it.
 
 ![Tab Action menu in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/tab-action-menu-in-edge.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To do that, open the Edge Settings menu, select "Appearance," and disable the "Show Tab Actions Menu" toggle on the right. You should also disable the "Show Tab Preview on Hover" toggle, as it shows a [preview of the tabs](https://remote-screen-capture.techidaily.com/the-evolution-of-video-capturing-insights-into-the-latest-apeaksoft-software/) when you hover over them. I really can't find any use case for this feature and I don't think anyone ever actually hovers over a tab to view its content, as the content will be too small to see.
 
@@ -101,10 +109,6 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 
 ![Favorites button in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/favorites-button-in-edge.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Furthermore, you should also disable [Workspaces](https://extra-approaches.techidaily.com/2024-approved-smooth-sailing-with-kinemaster-in-film-edits/). It lets you organize open tabs into different categories. This feature is primarily for advanced users like project leaders or those who need to demonstrate Edge features to a large team. If you use Edge for general browsing, you should disable the "Show Workspaces" toggle.
 
 ![Show Workspaces toggle in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/show-workspaces-toggle-in-edge.jpg) 
@@ -116,10 +120,6 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
  To do that, open the Edge Settings window, select "Privacy, Search, and Services" in the left sidebar, and then find the Services section on the right side. Under the Services section, turn off the toggle for the services you don't want to use in the browser.
 
 ![Services section in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/services-section-in-edge.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  I'd recommend disabling all the services, but you might want to keep services like "Save screenshots of sites for history." So, go through each service one by one and make sure to keep only those that you think will actually help improve your browsing experience.
 
@@ -142,18 +142,19 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-compre-cooked-tweets-the-complete-tweet-vids-guide-for-2024/"><u>[New] Compre Cooked Tweets The Complete Tweet Vids Guide for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-top-ranked-apps-for-video-conferencing-and-collaboration/"><u>[New] Top-Ranked Apps for Video Conferencing and Collaboration</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-motion-magic-mixtures/"><u>[Updated] Motion Magic Mixtures</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transforming-srt-to-widely-used-digital-audio-formats-with-ease/"><u>[Updated] Transforming SRT to Widely Used Digital Audio Formats with Ease</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-sound-bank-vintage-voice-choices/"><u>[Updated] Ultimate Sound Bank Vintage Voice Choices</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/1-troubleshooting-guide-how-to-fix-a-malfunctioning-screen-tips-from-yl-computing-experts/"><u>1. Troubleshooting Guide: How to Fix a Malfunctioning Screen - Tips From YL Computing Experts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-ultimate-photo-frame-tools/"><u>2024 Approved Unveiling the Ultimate Photo Frame Tools</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-samsung-galaxy-s24-ultra-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Samsung Galaxy S24 Ultra For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-unveiling-secret-youtube-clips-a-step-by-step-guide/"><u>In 2024, Unveiling Secret YouTube Clips A Step-by-Step Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/laptop-screen-keeps-flickering-solved/"><u>Laptop Screen Keeps Flickering [SOLVED]</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tips-and-tricks-erasing-unwanted-backdrops-for-2024/"><u>Tips and Tricks Erasing Unwanted Backdrops for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/troubleshooting-corrupted-mov-mp4-formats-how-to/"><u>Troubleshooting Corrupted MOV, MP4 Formats: How-To</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-guide-why-is-overwatch-2-unstable-on-windows-and-how-to-stabilize-it/"><u>Ultimate Guide: Why Is Overwatch 2 Unstable on Windows and How to Stabilize It?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-essentials-of-picking-up-free-pictorial-frames/"><u>[New] In 2024, Essentials of Picking Up Free Pictorial Frames</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-portable-recording-stands-and-lenses/"><u>[New] Portable Recording Stands and Lenses</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streaming-success-implementing-green-screen-innovations/"><u>[New] Streaming Success Implementing Green Screen Innovations</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-pro-level-drone-racing-techniques-and-quintessential-fpvs/"><u>[Updated] Pro-Level Drone Racing Techniques & Quintessential FPVs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-superior-picks-top-rated-webcam-grips/"><u>[Updated] Superior Picks Top-Rated Webcam Grips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-spin-up-original-web-memes-instantly/"><u>2024 Approved Spin Up Original Web Memes Instantly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-ten-cyber-shops-where-every-gift-tells-a-story/"><u>2024 Approved Top Ten Cyber Shops Where Every Gift Tells a Story</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-footage-into-high-quality-content/"><u>2024 Approved Transforming Footage Into High-Quality Content</u></a></li>
+<li><a href="https://program-issues.techidaily.com/arise-tales-episode-overcoming-the-notorious-ue4-fatal-errors-successfully/"><u>Arise Tales Episode: Overcoming the Notorious UE4 Fatal Errors Successfully</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/curb-automated-youtube-content-feeds-for-2024/"><u>Curb Automated YouTube Content Feeds for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/lines-for-authoritative-life-lesson-videos-for-2024/"><u>Guidelines for Authoritative Life Lesson Videos for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-hot-40i-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Infinix Hot 40i Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-mastering-iphone-macro-photography-detailed-images-at-your-fingertips/"><u>In 2024, Mastering iPhone Macro Photography Detailed Images at Your Fingertips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-snipers-manual-to-capturing-live-online-music/"><u>In 2024, The Sniper’s Manual to Capturing Live Online Music</u></a></li>
 </ul></div>
 

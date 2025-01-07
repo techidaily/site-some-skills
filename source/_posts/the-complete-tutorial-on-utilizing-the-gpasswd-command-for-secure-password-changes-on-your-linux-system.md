@@ -1,7 +1,7 @@
 ---
 title: The Complete Tutorial on Utilizing the Gpasswd Command for Secure Password Changes on Your Linux System
-date: 2024-12-23T16:14:16.475Z
-updated: 2024-12-28T19:44:21.373Z
+date: 2024-12-31T08:12:12.488Z
+updated: 2025-01-07T02:44:25.220Z
 tags:
   - desktop
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Want an easy solution to managing group members and passwords on Linux? The gpasswd command will help you do that. It's used for managing and administering the "/etc/group" and "/etc/gshadow" passwords, members, and administrators. Let's get started.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Makes the gpasswd Command Useful
@@ -48,10 +48,6 @@ gpasswd [option] group
 
  We'll see how to use these options in the upcoming sections of the guide.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Setting Password for a Group
 
  The most common use of the gpasswd command is to [set a password](https://unlock-android.techidaily.com/in-2024-best-honor-100-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/) for specific groups. I'll first create a group we can test it upon. Feel free to skip this if you already have a group. To create a new group on your Linux system, run:
@@ -59,6 +55,10 @@ gpasswd [option] group
 sudo groupadd demogroup
 
 ![The Linux terminal displaying the process of creating a new group on Linux using the groupadd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-8.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can use any other name than "demogroup". To confirm if the group creation was successful, display all groups using:
 
@@ -75,7 +75,7 @@ sudo gpasswd demogroup
 ![The Linux terminal displaying the process of setting a new password for a group using the gpasswd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-7.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now if I try to log into this group, the system will ask for a password. That's because I'm not a member of the group. To log into the group, run:
@@ -85,7 +85,7 @@ newgrp demogroup
 ![The Linux terminal showing the process of logging into a group in Linux using the newgrp command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-4.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Removing Password from Group
@@ -116,6 +116,10 @@ getent group demogroup
 
 ![The Linux terminal shows the current members of the group named demogroup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/6-7.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you can see, I've successfully added myself to the group using gpasswd. For adding multiple users, you'll need to issue separate commands for each, like this:
 
 sudo gpasswd -a user1 group
@@ -137,7 +141,7 @@ sudo gpasswd -d zunaid demogroup
 ![The Linux terminal showing how to remove a user from a group using the gpasswd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/7-6.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Again, you can confirm if the user was removed successfully by [listing the group members](https://hardware-updates.techidaily.com/comprehensive-guide-downloading-and-installing-canon-ip1-10-drivers-on-windows-windows-111087/) with this command:
@@ -167,7 +171,7 @@ getent group demogroup
 ![The Linux terminal displaying the current the members of a group in Linux after setting the members list using gpasswd](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/12-2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Promoting a User as the Group Administrator
@@ -180,10 +184,6 @@ sudo gpasswd -A zunaid demogroup
 
 ![The Linux terminal showcasing how to make a user the administrator of a group using the gpasswd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/8-4.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This doesn't give any output to the terminal. However, you can see the list of administrators of the group to confirm if the operation was successful. Do that with this command:
 
 sudo cat /etc/gshadow
@@ -191,7 +191,7 @@ sudo cat /etc/gshadow
 ![The Linux terminal displaying the the administrators of every group in Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/9-3.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  gpasswd Makes Group Management Easy
@@ -213,22 +213,24 @@ sudo cat /etc/gshadow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-unlocking-the-secrets-of-instagrams-music-rights-management/"><u>[New] In 2024, Unlocking the Secrets of Instagram's Music Rights Management</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-prosperous-social-media-gurus/"><u>[Updated] Prosperous Social Media Gurus</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-structuring-panels-for-productive-interviews/"><u>[Updated] Structuring Panels for Productive Interviews</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleash-potential-on-reddit-essential-post-guidelines-reviewed/"><u>[Updated] Unleash Potential on Reddit Essential Post Guidelines Reviewed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-lgs-cutting-edge-monitor-technology-in-detail/"><u>[Updated] Unveiling LG’s Cutting-Edge Monitor Technology in Detail</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-techniques-for-3d-text-transformation-in-ps/"><u>[Updated] Unveiling Techniques for 3D Text Transformation in PS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-elite-circle-of-digital-titling-top-5-revealed/"><u>2024 Approved The Elite Circle of Digital Titling Top 5 Revealed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-insiders-guide-to-top-ranking-titles/"><u>2024 Approved The Insider's Guide to Top-Ranking Titles</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/decoding-macoss-unable-to-delete-trash/"><u>Decoding macOS's 'Unable to Delete Trash'</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/exploring-confucianism-unveiling-the-core-principles-taught-by-master-kong-confucius/"><u>Exploring Confucianism: Unveiling the Core Principles Taught by Master Kong (Confucius)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-honor-100-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Honor 100? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-editors-playbook-for-drone-imagery/"><u>In 2024, The Editor's Playbook for Drone Imagery</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-understanding-key-aspects-of-gif-animation/"><u>In 2024, Understanding Key Aspects of GIF Animation</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/on-the-go-gyroscopic-footage-smoother/"><u>On-the-Go Gyroscopic Footage Smoother</u></a></li>
-<li><a href="https://some-tips.techidaily.com/streamlining-color-grading-incorenasive-guide-to-lut-integration-in-obs-for-2024/"><u>Streamlining Color Grading Incorenasive Guide to LUT Integration in OBS for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-clandestine-way-exploring-insta-stories-on-tech-devices/"><u>The Clandestine Way Exploring Insta Stories on Tech Devices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-cutting-edge-insights/"><u>Tom's Tech Reviews: Cutting-Edge Insights</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nderstanding-video-length-and-content-strategy-in-youtube-shorts/"><u>[New] Understanding Video Length and Content Strategy in YouTube Shorts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-navigating-the-complexities-of-youtube-copyright-claims/"><u>[Updated] Navigating the Complexities of YouTube Copyright Claims</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-step-by-step-guide-to-making-your-youtube-content-stand-out/"><u>[Updated] Step-by-Step Guide to Making Your YouTube Content Stand Out</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-ranked-costless-pixel-perfection-aid/"><u>[Updated] Top-Ranked Costless Pixel Perfection Aid</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unhindered-movie-enjoyment-no-cost-video-player-pcmac/"><u>[Updated] Unhindered Movie Enjoyment - No Cost VIDEO Player (PC/Mac)</u></a></li>
+<li><a href="https://fox-making.techidaily.com/1-revamp-your-phonebook-effortless-methods-to-update-iphone-contacts-via-pc/"><u>1. Revamp Your Phonebook: Effortless Methods to Update iPhone Contacts via PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-effective-reddit-sharing/"><u>2024 Approved The Ultimate Guide to Effective Reddit Sharing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-vhs-80s-effects-to-use-in-video-editing/"><u>2024 Approved Top VHS 80S Effects to Use in Video Editing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/a-guide-to-iconic-covers-top-10-podcast-graphic-tips/"><u>A Guide to Iconic Covers Top 10 Podcast Graphic Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-october-ultimate-shopping-guide-for-discounted-laptops-dont-miss-out-on-prime-savings-today-zdnet/"><u>Exclusive October Ultimate Shopping Guide for Discounted Laptops – Don't Miss Out on Prime Savings Today | ZDNET.</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-fundamentals-of-using-ffpm-in-firefox/"><u>In 2024, The Fundamentals of Using FFPM in Firefox</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-creative-potential-with-a-comprehensive-guide-to-ps-background-removal/"><u>In 2024, Unleash Creative Potential with a Comprehensive Guide to PS Background Removal</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pro-editors-picks-optimal-after-effects-plugin-choices/"><u>Pro Editor's Picks Optimal After Effects Plugin Choices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-most-compelling-free-ae-design-samples/"><u>The Most Compelling Free AE Design Samples</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-premier-monitors-top-5-for-ps5-and-xbox-players-for-2024/"><u>The Premier Monitors Top 5 for PS5 & Xbox Players for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-checklist-for-finding-film-specialists-for-2024/"><u>The Ultimate Checklist for Finding Film Specialists for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-windows-10s-best-new-applications-and-games-for-2024/"><u>The Ultimate Guide to Windows 10'S Best New Applications & Games for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tune-into-the-beats-with-these-free-online-scanners-for-2024/"><u>Tune Into the Beats with These Free Online Scanners for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/years-top-picks-affordable-livestream-software-and-apps-list/"><u>Year's Top Picks Affordable Livestream Software and Apps List</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top Strategies to Ensure You're Making the Right Choice in Secondhand EVs
-date: 2024-12-27T17:37:49.010Z
-updated: 2024-12-28T20:27:53.042Z
+date: 2025-01-05T03:37:03.612Z
+updated: 2025-01-07T01:44:46.932Z
 tags:
   - cutting-edge
 categories:
@@ -25,6 +25,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Close up of the Chevy badge on the back of the 2023 Chevy Bolt EV](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/ae55ab54.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Justin Duino / How-To Geek
 
  Show me the CarFax! Vehicle accident, service history, and recall reports are important no matter what car you buy, but with how difficult some EVs can be to repair, getting a detailed breakdown of anything is crucial.
@@ -37,6 +41,10 @@ Justin Duino / How-To Geek
 
 ![Electric car dash range gauge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/ba587f48.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _[Southworks/Shutterstock.com](https://www.shutterstock.com/image-photo/close-shot-electric-car-battery-range-2115845192)_
 
  We all know that the engine is the most important part of an ICE (internal combustion engine) vehicle, and buyers typically ask about oil leaks and funny noises to ensure the engine is in tip-top shape. The battery is the single biggest factor you'll want to consider with an electric car. Sure, the electric motors are a big deal, but the battery pack does all the heavy lifting.
@@ -47,13 +55,13 @@ _[Southworks/Shutterstock.com](https://www.shutterstock.com/image-photo/close-sh
 
  Similarly to how your 3-year-old iPhone doesn't hold a charge as well as it did the first year, electric cars experience battery degradation. For example, Tesla claims that after 100,000 miles, you'll still have over 90% battery capacity. Even an aging Tesla Model S with 180K miles should be more than capable, even if you lose around 12-15% of range due to an aging battery. At that point, it doesn't need to be replaced; it just won't charge to 100%, which is perfectly normal. Once you buy a used EV, you'll want to take a few steps to [extend the life of the battery](https://remote-screen-capture.techidaily.com/new-in-2024-top-approaches-to-non-audio-recording/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Don't Forget About Charging
 
 ![Rivian R1T plugged into a CCS charger](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/ef2ffd0c.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Tyler Hayes / Review Geek
 
@@ -64,16 +72,12 @@ Tyler Hayes / Review Geek
  Look into charging accessories, speeds, and port type, then factor all of that into which car is right for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Buy Used EVs From a Dealer or Tesla
 
 ![Front trunk open on a Tesla Model 3.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/tesla-model-3-frunk-maintenance.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -82,16 +86,12 @@ Hannah Stryker / How-To Geek
  More importantly, buying a vehicle from a manufacturer like Tesla, Chevy, or Rivian will ensure the best experience, extended warranty options, and any issues fixed by a certified mechanic before being sold. Considering how advanced EVs are, you don't want to take any chances.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Take it For a Test Drive
 
 ![Front right headlight on the 2023 Chevy Bolt EV.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/52766357707_013d55125c_o.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -122,16 +122,20 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-acoustic-architects-leading-sites-to-buy-skype-tones/"><u>[New] Acoustic Architects Leading Sites to Buy Skype Tones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-streamline-your-playlist-import-music-into-inshot/"><u>[New] Streamline Your Playlist Import Music Into InShot</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-discovering-top-8-android-videomosaic-creators-for-both-free-and-paid-users-for-2024/"><u>[Updated] Discovering Top 8 Android Videomosaic Creators for Both Free & Paid Users for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlock-game-changing-potential-try-our-top-ranked-free-voice-alteration-tool/"><u>[Updated] Unlock Game-Changing Potential Try Our Top-Ranked Free Voice Alteration Tool</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-mastering-mobile-photography-with-androids-lightroom/"><u>2024 Approved Mastering Mobile Photography with Android’s Lightroom</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/head-to-head-snapchat-myai-and-bing-chats-ai-clash-in-a-skype-showdown-unveiling-eight-key-variances/"><u>Head to Head: Snapchat MyAI and Bing Chat's AI Clash in a Skype Showdown – Unveiling Eight Key Variances</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-realme-narzo-60-pro-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Realme Narzo 60 Pro 5G Devices</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-realme-12-pro-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Realme 12 Pro 5G? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/synopsis-of-vllo-consumer-voices-for-2024/"><u>Synopsis of VLLO Consumer Voices for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/top-ranked-action-cameras-for-extreme-sports-for-2024/"><u>Top-Ranked Action Cameras for Extreme Sports for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/voters-victories-reddits-most-popular-threads-top-10/"><u>Voters' Victories Reddit’s Most Popular Threads (Top 10)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-unveiling-streaming-secrets-the-best-5-cams-for-gamers/"><u>[New] 2024 Approved Unveiling Streaming Secrets The Best 5 Cams for Gamers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-an-inside-look-at-magix-vpxs-advanced-techniques/"><u>[New] In 2024, An Inside Look at Magix VPX's Advanced Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-skaldic-tales-ragnarok-reborn/"><u>[New] In 2024, Skaldic Tales Ragnarök Reborn</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-optimal-screen-capture-chromeos-enhanced-for-2024/"><u>[Updated] Optimal Screen Capture ChromeOS Enhanced for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-optimizing-your-safari-experience-enablingdisabling-dual-screen/"><u>[Updated] Optimizing Your Safari Experience Enabling/Disabling Dual Screen</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-better-videos-a-22-enhancer-users-manual/"><u>[Updated] Unlock Better Videos A 2.2 Enhancer User's Manual</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-swift-stylizing-boost-your-digital-artistry-on-pc-photos-editor/"><u>2024 Approved Swift Stylizing Boost Your Digital Artistry on PC Photos Editor</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/discover-the-ultimate-list-of-2023s-top-rated-gaming-desks-expert-picks-from-zdnet/"><u>Discover the Ultimate List of 2023'S Top-Rated Gaming Desks | Expert Picks From ZDNET</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-realme-12-proplus-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Realme 12 Pro+ 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-strategies-to-find-the-perfect-power-source-for-drones/"><u>In 2024, Strategies to Find the Perfect Power Source for Drones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-upgrade-samsung-bdplus-k850-review-update-2023/"><u>In 2024, The Ultimate Upgrade Samsung BD+ K850 Review Update 2023</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-secrets-to-smooth-imports-in-windows-10-os/"><u>In 2024, Unlocking the Secrets to Smooth Imports in Windows 10 OS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-eluding-home-school-video-content-for-2024/"><u>The Art of Eluding Home School Video Content for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-next-generation-of-aerial-artistry-with-bebops-parrot-2-for-2024/"><u>The Next Generation of Aerial Artistry with Bebop's Parrot 2 for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upcoming-amd-zen-5-fire-series-cpus-maintain-fl1-chip-design-implications-for-next-gen-rtx-40-graphics-in-refreshed-laptops/"><u>Upcoming AMD Zen 5 Fire Series CPUs Maintain FL1 Chip Design: Implications for Next-Gen RTX 40 Graphics in Refreshed Laptops</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Cross-Platform Development: Integrate Linux Bash with Windows 11 Systems"
-date: 2024-12-25T16:54:57.465Z
-updated: 2024-12-28T20:13:36.230Z
+date: 2025-01-01T19:25:15.761Z
+updated: 2025-01-07T05:07:34.173Z
 tags:
   - deals
 categories:
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
 * [Use the Ubuntu Monospace Font in the Console](https://facebook-record-videos.techidaily.com/new-in-2024-diy-youtube-openers-technique-one-and-technique-two/)
 * [Use the Ubuntu Monospace Font in the Terminal](https://screen-video-capture.techidaily.com/in-2024-picking-the-right-software-bandicam-versus-camtasia/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
  First, enable the Windows Subsystem for Linux (WSL) from the Features window or via the "wsl --install" command. After rebooting your PC, install Ubuntu or any other Linux distribution of your choice from the Microsoft Store.
@@ -33,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
 ##  What You Need to Know About Windows 10's Bash Shell
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  How Windows Subsystem for Linux 1 (WSL1) Works
@@ -47,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
  While this feature was originally called "Bash on Ubuntu on Windows," it also allows you to [run Zsh and other command-line shells](https://extra-support.techidaily.com/2024-approved-master-iphone-cams-with-these-hacks/). It now supports other Linux distributions, too. You can choose openSUSE Leap or SUSE Enterprise Server instead of Ubuntu, and there is a remix of Fedora available.
 
  There are some limitations here. It won't officially work with [graphical Linux desktop applications](https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-instagram-profit-the-ultimate-strategy-blueprint/). Not every command-line application works, either, as the feature isn't perfect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  How Windows Subsystem for Linux 2 (WSL2) Works
 
@@ -78,10 +78,6 @@ wsl --install
 
 ![Linux distros available on the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/ms-store-linux.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You'll see a list of every Linux distribution currently available in the Windows Store.This includes [Ubuntu, openSUSE Leap, and openSUSE Enterprise](https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-nokia-c300-drfone-by-drfone-virtual-android/), Debian, Kali, and others. You can even find a few remixes of Fedora, though there isn't an official version available as of November 2023.
 
  If you want a specific distro, search for that rather than "Linux." You'll get better results.
@@ -91,10 +87,6 @@ wsl --install
  If you're not sure which Linux environment to install, we recommend Ubuntu. This popular Linux distribution was previously the only option available, but other Linux systems are now available for people who have more specific needs.
 
 ![Installing Debian through the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/installing-debian.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also install multiple Linux distributions and they'll each get their own unique shortcuts. You can even run multiple different Linux distributions at a time in different windows.
 
@@ -110,15 +102,15 @@ wsl --install
 
 ![Searching for "Ubuntu" in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/ubuntu-search.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The first time you launch the Linux environment, you're be prompted to enter a UNIX username and password. These don't have to match your Windows username and password, but will be used within the Linux environment.
 
  For example, if you enter "bob" and "letmein" as your credentials, your username in the Linux environment will be "bob" and the password you use inside the Linux environment will be "letmein" --- no matter what your Windows username and password are.
 
 ![Enter a username and password for your Linux distro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985a5c26989.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can launch your installed Linux environment by running the `wsl` command. If you have multiple Linux distributions installed, you can [choose the default Linux environment](https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-infinix-note-30-vip-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/) this command launches.
 
@@ -148,10 +140,6 @@ wsl --install
 
 ![The command &quot;ls&quot; run in the C:\ directory to list files and folders.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985d46b3c57.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You'll need to [use the apt command](https://screen-sharing-recording.techidaily.com/updated-best-practices-in-winning-tv-recording-with-software/) to install and update the Ubuntu environment's software. Be sure to prefix these commands with `sudo` , which makes them run as root--the Linux equivalent of Administrator. Here are the apt-get commands you'll need to know:
 
 * Download Updated Information About Available Packages: `sudo apt update`
@@ -166,10 +154,6 @@ wsl --install
 
 ![Installing GNU Compiler Collection with apt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985e7d80a6b.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Install the Ubuntu Font for a True Ubuntu Experience
 
  If you want a more accurate Ubuntu experience on Windows 10, you can also install the Ubuntu fonts and enable them in the terminal. You don't have to do this, as the default Windows command prompt font looks pretty good to us, but it's an option.
@@ -178,9 +162,17 @@ wsl --install
 
 ![The default font, Consolas.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a9864cb2035c.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To install the font, first download the [Ubuntu Font Family](http://font.ubuntu.com/) from Ubuntu's website. Open the downloaded .zip file and locate the "UbuntuMono-R.ttf" file. This is the Ubuntu monospace font, which is the only one used in the terminal. It's the only font you need to install.
 
 ![Open the font ZIP file, then double-click the font you want to preview or install.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985eba01a04.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Double-click the "UbuntuMono-R.ttf" file and you'll see a preview of the font. Click "Install" to install it to your system.
 
@@ -202,12 +194,16 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueType
 
 ![Create a new string named &quot;000&quot;, then set the value to &quot;Ubuntu Mono&quot;.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a98652a926c4.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch an Ubuntu window, right-click the title bar, and then select the "Properties" command. Click the "Font" tab, and then select "Ubuntu Mono" in the font list.
 
 ![Right-click the title bar of the terminal application you're using, go to &quot;Properties,&quot; then click &quot;Font.&quot; Select &quot;Ubuntu Mono&quot; from the list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a986560320a0.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use the Ubuntu Monospace Font in the Terminal
@@ -216,6 +212,10 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueType
 
 ![Open the Terminal Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/open-settings-terminal.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Open to Defaults > Appearance, then select "Ubuntu Mono" from the list of available fonts.
 
  The Terminal automatically expands or collapses the labels in the left sidebar depending on the size of your window, much like the Settings app does. You may not see the "Default" text label depending on the size of your window.
@@ -223,7 +223,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueType
 ![Enable the Ubuntu Mono font.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/font-ubuntu-mono.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Remember: software you install in the Bash shell is restricted to the Bash shell. You can access these programs from the Command Prompt, PowerShell, or elsewhere in Windows, but only if you [run the bash -c command](https://vp-tips.techidaily.com/building-a-brand-with-captivating-haul-videos-and-edits/).
@@ -243,19 +243,20 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueType
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-cutting-edge-easy-to-use-mastering-magix-vpxs-capabilities-for-2024/"><u>[New] Cutting Edge, Easy to Use Mastering Magix VPX's Capabilities for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-how-to-download-part-of-a-youtube-videos-in-2024/"><u>[New] How to Download Part of a YouTube Videos, In 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-final-cut-professionals-guide-to-top-10-plug-ins/"><u>[New] The Final Cut Professional's Guide to Top 10 Plug-Ins</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-financial-lifeline-of-podcasting/"><u>[New] The Financial Lifeline of Podcasting</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-innovations-in-podcast-titling-with-ai-assistants/"><u>[New] Top Innovations in Podcast Titling with AI Assistants</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-zooid-design-starter-packs/"><u>[New] Ultimate Zooid Design Starter Packs</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-6-effective-ways-of-resizing-your-igtv-videos/"><u>[Updated] 2024 Approved 6 Effective Ways of Resizing Your IGTV Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-delightful-no-cost-access-to-youtubes-nine-full-length-yule-celebrations/"><u>[Updated] In 2024, Delightful, No-Cost Access to YouTube's Nine Full-Length Yule Celebrations</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-free-to-fortune-carryminatis-youtube-transformation-ajey/"><u>[Updated] In 2024, From Free to Fortune CarryMinati’s YouTube Transformation (Ajey)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-power-of-prolonged-shutter-iphone-burst-mode/"><u>2024 Approved The Power of Prolonged Shutter IPhone Burst Mode</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/efficient-and-easy-winx-dvd-ripper-platinum-hd-video-conversion-from-dvd-to-mp4-h2-64hevc-completed-in-under-five-minutes/"><u>Efficient & Easy WinX DVD Ripper Platinum - HD Video Conversion From DVD to MP4 (H.2 64/HEVC) Completed in Under Five Minutes!</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209914858-9781761031250-psychic-development/"><u>Psychic Development | Free Book</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-edit-suite-apps-and-devices-tools-listed-for-2024/"><u>Top Edit Suite (Apps & Devices) Tools Listed for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-picks-ultimate-guide-to-choosing-the-ideal-2024-floodlights-for-enhanced-home-safety-and-security-zdnet/"><u>Top Picks: Ultimate Guide to Choosing the Ideal 2024 Floodlights for Enhanced Home Safety & Security (ZDNet)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-hone-your-skills-how-to-seamlessly-post-videos-to-instagram-via-desktop/"><u>[New] In 2024, Hone Your Skills How to Seamlessly Post Videos to Instagram via Desktop</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-dissecting-fraps-screen-capture-features/"><u>[Updated] Dissecting Fraps Screen Capture Features</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-get-rid-of-youtube-distractions-ad-blocking-on-chrome-firefox-and-ios/"><u>[Updated] Get Rid of YouTube Distractions Ad-Blocking on Chrome, Firefox & iOS</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-smile-and-watch-your-guide-to-the-top-15-funny-youtubers/"><u>[Updated] Smile and Watch Your Guide to the Top 15 Funny YouTubers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-5-cloud-based-voice-customizers-for-chrome-os-vocal-transformation-tools-reviewed/"><u>[Updated] Top 5 Cloud-Based Voice Customizers for Chrome OS Vocal Transformation Tools Reviewed</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-uncharted-territory-latest-windows-10-apps-and-games/"><u>In 2024, Uncharted Territory Latest Windows 10 Apps & Games</u></a></li>
+<li><a href="https://extra-support.techidaily.com/merging-melodies-and-memories-online-for-2024/"><u>Merging Melodies and Memories Online for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/new-release-gtx-1650-super-driver-updates-compatible-with-windows-11/"><u>New Release: GTX 1650 SUPER Driver Updates Compatible with Windows 11</u></a></li>
+<li><a href="https://win-online.techidaily.com/official-the-simpsons-collection-of-desktop-walls-photos-and-icons-from-yl-software/"><u>Official The Simpsons Collection of Desktop Walls, Photos & Icons From YL Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-fixing-silent-realtek-audio-dac-complete-guide/"><u>Solved: Fixing Silent Realtek Audio DAC - Complete Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-sideways-surprise-decoding-instagram-video-strange-behavior-for-2024/"><u>The Sideways Surprise Decoding Instagram Video Strange Behavior for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-voice-maestros-toolkit-free-applications-to-enrich-your-auditory-palette-for-2024/"><u>The Voice Maestro's Toolkit Free Applications to Enrich Your Auditory Palette for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-podcast-with-these-google-upload-insights-for-2024/"><u>Transform Your Podcast with These Google Upload Insights for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-sudden-pause-in-photobooth-videos-for-2024/"><u>Understanding Sudden Pause in Photobooth Videos for 2024</u></a></li>
 </ul></div>
 

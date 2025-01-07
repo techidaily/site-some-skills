@@ -1,7 +1,7 @@
 ---
 title: "Synchronizing Meta Quest Exercise Tracking with Apple Watch & Health: A Comprehensive Guide"
-date: 2024-12-25T18:51:17.422Z
-updated: 2024-12-28T20:49:30.755Z
+date: 2025-01-03T21:00:19.264Z
+updated: 2025-01-07T06:04:19.048Z
 tags:
   - cutting-edge
 categories:
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/030f43c520c13566e766031892a27e4f35e056dc7
 
  The [Meta Quest](https://www.oculus.com/experiences/quest/) app store offers many great fitness apps you can use on your [VR headset](https://vp-tips.techidaily.com/visual-harmony-ios-and-macos-photoviewer-blend/), but if you're using an Apple Watch to track your activity, you may not get the most accurate figures. Now, you can link your Quest directly to Apple Health.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  It's All About Meta Move
 
  In March of 2022, Meta [announced](https://www.oculus.com/blog/oculus-move-updates-track-your-vr-fitness-stats-and-goals-outside-your-headset/) that Move (its internal fitness tracker) would be getting external app support. The Move app had only been accessible from within the headset itself, so if you wanted to see your VR exercise stats, you had to use the headset.
@@ -33,6 +29,10 @@ Related: [10 Reasons You Might Want an Apple Watch Ultra](https://extra-approach
  If you wear your [Apple Watch](https://extra-approaches.techidaily.com/2024-approved-picsart-edge-bringing-facial-movement-into-the-digital-realm/) during a VR session, it will still track your activity based on your heart rate, movement, and other data it has access to. However, Meta Quest Move has its own VR-specific data and algorithms that may offer a more accurate picture of your calorie burn.
 
  Additionally, this connecting the Move app allows you to go without wearing your Apple Watch during a VR session, which may be more comfortable for you, depending on the type of VR activity.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Do I Need Special VR Apps?
 
@@ -51,19 +51,23 @@ Related: [7 Video Games for Fitness and Exercise](https://screen-mirroring-recor
 ![Quest VR App Library Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/1-7.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Look for the Move app and open it.
 
 ![Quest Move App in Search Results of App Library](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/2-8.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this is the first time you've opened Move, you'll be presented with a short introduction.
 
 ![Quest Move First Time Setup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/3-6.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Follow the instructions to complete the first-time setup.
@@ -78,16 +82,12 @@ Related: [7 Video Games for Fitness and Exercise](https://screen-mirroring-recor
 
 ![Quest App Open Explore tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/1-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Open Move by tapping on its widget in the Explore tab.
 
 ![Quest App Explore Tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/2-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Tap on "Connected Apps"
@@ -115,20 +115,20 @@ Related: [7 Video Games for Fitness and Exercise](https://screen-mirroring-recor
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-the-essential-blueprint-for-effortless-avatar-creation-in-vr/"><u>[Updated] The Essential Blueprint for Effortless Avatar Creation in VR</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-behind-the-scenes-of-effective-instagram-caption-use/"><u>2024 Approved Behind the Scenes of Effective Instagram Caption Use</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-carryminati-unmasked-the-monetary-milestones/"><u>2024 Approved CarryMinati Unmasked The Monetary Milestones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-mastering-videos-with-vida/"><u>2024 Approved The Ultimate Guide to Mastering Videos with Vida</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-photos-adding-motion-blur-to-peoples-portraits-with-picsart/"><u>2024 Approved Transforming Photos Adding Motion Blur to People's Portraits with Picsart</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-secrets-of-using-multiple-screens-on-netflix/"><u>2024 Approved Unveiling the Secrets of Using Multiple Screens on Netflix</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/effortless-guide-remove-repeated-images-from-your-camera-library/"><u>Effortless Guide: Remove Repeated Images From Your Camera Library</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-dev-error-6634-on-warzone-expert-advice-from-2022/"><u>Fixing Dev Error 6634 on Warzone - Expert Advice From 2022</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/free-ai-conversation-partners-how-to-setup-freedomgpt-for-unlimited-chatting-on-windows-pcs/"><u>Free AI Conversation Partners: How to Setup FreedomGPT for Unlimited Chatting on Windows PCs</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oppo-a78-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Oppo A78 FRP</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a05s-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A05s Phone with Broken Screen</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-techniques-for-softening-volume-in-logic-pro-mixing/"><u>In 2024, Techniques for Softening Volume in Logic Pro Mixing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-picture-an-in-depth-analysis-of-polarr-photo-tools/"><u>In 2024, The Complete Picture An In-Depth Analysis of Polarr Photo Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-superior-video-compression-in-av1/"><u>In 2024, Unveiling the Superior Video Compression in AV1</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/be-movie-maker-unleashed-creative-possibilities-explored/"><u>YouTube Movie Maker Unleashed Creative Possibilities Explored</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-pantheon-of-praise-celebrating-ten-superstar-posts/"><u>[New] The Pantheon of Praise Celebrating Ten Superstar Posts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-powerpoints-voice-command-capabilities-step-by-step/"><u>[New] Unveiling PowerPoint's Voice Command Capabilities Step by Step</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-essential-tips-on-acquiring-profitable-yt-channels/"><u>[Updated] In 2024, Essential Tips on Acquiring Profitable YT Channels</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-top-nvidia-and-amd-gpus-for-4k-workstations/"><u>[Updated] In 2024, Top NVIDIA & AMD GPUs for 4K Workstations</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mastering-slides-with-youtube-content/"><u>[Updated] Mastering Slides with YouTube Content</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-insiders-guide-to-concealed-snap-content/"><u>[Updated] The Insider's Guide to Concealed Snap Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-one-stop-guide-to-simplified-podcast-live-broadcasting/"><u>[Updated] The One Stop Guide to Simplified Podcast Live Broadcasting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-comprehensive-guide-to-metaverse-promotion/"><u>2024 Approved The Comprehensive Guide to Metaverse Promotion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-showdown-countdown-bard-vs-bing-battle-of-bots/"><u>AI Showdown Countdown: Bard Vs. Bing Battle of Bots</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/gratis-konverteren-van-m4a-naar-3gp-online-zoek-jij-de-goedste-oplichters-probeer-movavi/"><u>Gratis Konverteren Van M4A Naar 3GP Online - Zoek Jij De Goedste Oplichters? Probeer Movavi!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-handbook-for-iphone-vr-viewing/"><u>In 2024, The Essential Handbook for iPhone VR Viewing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-vector-graphics-tools-to-shape-your-creative-vision-for-2024/"><u>Top 10 Vector Graphics Tools to Shape Your Creative Vision for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-print-screen-issues-on-windows-11-and-10/"><u>Troubleshooting Guide: Fixing Print Screen Issues on Windows 11 & 10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-5-mobile-photo-editing-iphone-x87-background-switch-for-2024/"><u>Ultimate 5 Mobile Photo Editing IPhone X/8/7 Background Switch for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/uniting-gamers-no-more-single-platform-tales/"><u>Uniting Gamers: No More Single-Platform Tales</u></a></li>
 </ul></div>
 

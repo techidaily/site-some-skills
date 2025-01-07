@@ -1,7 +1,7 @@
 ---
 title: Mandatory Survey Prompt Launched by Microsoft When Exiting OneDrive
-date: 2024-12-27T19:02:28.885Z
-updated: 2024-12-28T16:44:29.154Z
+date: 2025-01-05T06:22:29.399Z
+updated: 2025-01-06T16:34:46.644Z
 tags:
   - deals
 categories:
@@ -18,7 +18,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Microsoft's clingy behavior continues to annoy Windows users. Last month, the company introduced an optional [pop-up survey](https://article-files.techidaily.com/2024-approved-the-ultimate-guide-for-implementing-look-up-tables-in-creative-suite/) that's triggered when installing Chrome from Edge. Now, Windows users are being hit with a _mandatory_ survey when they try to _close_ OneDrive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  UPDATE: 2023/11/10 10:11 EST BY ANDREW HEINZMAN
@@ -32,7 +32,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![The "quit OneDrive" popup prompting a user to complete a survey.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/11-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Neowin](https://www.neowin.net/news/microsoft-wont-let-you-close-onedrive-in-windows-without-you-explaining-it-first/)
@@ -68,24 +68,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-tech-talk-the-best-ways-to-move-files-between-idevices/"><u>[New] Tech Talk The Best Ways to Move Files Between iDevices</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-exciting-journeys-in-samsungs-virtual-reality-games/"><u>[Updated] In 2024, Exciting Journeys in Samsung's Virtual Reality Games</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-influence-of-soundtracks-on-a-teasers-audience-reception/"><u>[Updated] The Influence of Soundtracks on a Teaser's Audience Reception</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-10-android-and-ios-wedding-timers-latest-app-rankings/"><u>[Updated] Top 10 Android & iOS Wedding Timers Latest App Rankings</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-reverse-artisan-group/"><u>2024 Approved Reverse Artisan Group</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-the-7th-generation-amazon-kindle-paperwhite-your-ultimate-reading-companion/"><u>Comprehensive Analysis of the 7Th Generation Amazon Kindle Paperwhite - Your Ultimate Reading Companion</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-how-to-retrieve-lost-mobile-contacts-in-your-android-device/"><u>Discover How to Retrieve Lost Mobile Contacts in Your Android Device</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-identify-premium-hassle-free-free-srt-translator-services/"><u>In 2024, How to Identify Premium, Hassle-Free Free SRT Translator Services</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-latest-evolution-2023s-samsung-bd-j5900-review/"><u>In 2024, The Latest Evolution 2023'S Samsung BD-J5900 Review</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-free-tools-for-flawless-srt-conversion/"><u>In 2024, Top Free Tools for Flawless SRT Conversion</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-microsoft-azure-transcription-capabilities/"><u>In 2024, Unlocking Microsoft Azure Transcription Capabilities</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/julys-exclusive-apple-product-deals-iphones-watches-and-tablets-at-unbeatable-prices-discover-the-best-offers-with-zdnet/"><u>July's Exclusive Apple Product Deals: IPhones, Watches, and Tablets at Unbeatable Prices | Discover the Best Offers with ZDNET</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-pcie-audio-support-update-realtek-drivers-in-win10/"><u>Optimize PCIe Audio Support - Update Realtek Drivers in Win10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-bluetooth-interference-asus-webcam-plus-windows-11/"><u>Resolved Bluetooth Interference: ASUS Webcam + Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-graphics-drivers-minecraft-crash-no-more/"><u>Resolving Graphics Drivers: Minecraft Crash No More</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-evolution-of-dynamic-range-control-in-digital-photography-for-2024/"><u>The Evolution of Dynamic Range Control in Digital Photography for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-fixing-casting-issues-to-devices-in-windows-11/"><u>Troubleshooting: Fixing Casting Issues to Devices in Windows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-guide-top-20-cost-free-video-editing-websites-for-2024/"><u>Ultimate Guide Top 20 Cost-Free Video Editing Websites for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unleash-creativity-the-premier-apps-for-picture-framing-for-2024/"><u>Unleash Creativity The Premier Apps for Picture Framing for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-cutting-edge-approaches-for-recording-and-sharing-sporting-games/"><u>[New] In 2024, Cutting-Edge Approaches for Recording & Sharing Sporting Games</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-10-plugins-to-enhance-fcp/"><u>[New] Ultimate 10 Plugins to Enhance FCP</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-mixed-reality-a-comprehensive-insight/"><u>[New] Unveiling Mixed Reality A Comprehensive Insight</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-building-a-brand-with-captivating-haul-videos-and-edits/"><u>[Updated] Building a Brand with Captivating Haul Videos and Edits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-tech-comforts-with-luxury-desktops/"><u>[Updated] Ultimate Tech Comforts with Luxury Desktops</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-understanding-spending-in-online-advertising/"><u>[Updated] Understanding Spending in Online Advertising</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-champion-of-open-source-media-playback-vlc-vs-mpc/"><u>[Updated] Unveiling the Champion of Open-Source Media Playback (VLC Vs. MPC)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-on-the-spot-aspect-ratio-switcheroo-tips/"><u>2024 Approved On-the-Spot Aspect Ratio Switcheroo Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-strategies-for-creating-a-positive-interview-environment/"><u>2024 Approved Strategies for Creating a Positive Interview Environment</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-telegram-marketing-101-a-step-by-step-guide-for-starters/"><u>2024 Approved Telegram Marketing 101 A Step-by-Step Guide for Starters</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-iphone-11-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From iPhone 11? Find the Best Solution Here</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-x100-pro-by-fonelab-android-recover-data/"><u>How to retrieve lost files from X100 Pro?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oneplus-12-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-your-apple-vision-pro-experience-top-reasons-and-step-by-step-guide-for-securing-a-demo-tech-insights/"><u>Maximizing Your Apple Vision Pro Experience: Top Reasons & Step-by-Step Guide for Securing a Demo | Tech Insights</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mobile-magnification-premium-highlights-for-iphonesandroids-for-2024/"><u>Mobile Magnification Premium Highlights for IPhones/Androids for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-swift-periscope-broadcasting-for-2024/"><u>The Ultimate Guide to Swift Periscope Broadcasting for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tips-for-truly-tuning-into-your-iphone-podcasts-for-2024/"><u>Tips for Truly Tuning Into Your iPhone Podcasts for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-11-piu-eccellenti-software-di-taglio-video-senza-costo-guida-2024/"><u>Top 11 Più Eccellenti Software Di Taglio Video Senza Costo: Guida 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-overcoming-chromes-profile-glitches-on-pc/"><u>Troubleshooting: Overcoming Chrome's Profile Glitches on PC</u></a></li>
 </ul></div>
 

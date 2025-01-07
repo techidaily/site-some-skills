@@ -1,7 +1,7 @@
 ---
 title: "Mastering Expression Calculation: A Guide to Using 'Expr' On Linux Systems"
-date: 2024-12-21T20:24:01.454Z
-updated: 2024-12-28T20:46:33.940Z
+date: 2024-12-31T23:52:00.383Z
+updated: 2025-01-06T23:02:05.222Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 ---
 
 ## Mastering Expression Calculation: A Guide to Using 'Expr' On Linux Systems
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 
  Want to do some simple calculations in Linux? Just use the expr command. This command can perform various operations, such as evaluating expressions, extracting substrings, comparing strings, and more. Using expr, you can add, subtract, multiply, or divide two numbers, and get the answer as the output.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The expr Command
 
  expr is a tool that can perform calculations and manipulate strings based on the expressions you provide. With the expr command, you can perform various operations on integers and strings, like comparing values or finding specific patterns using [regular expressions](https://instagram-clips.techidaily.com/discreetly-explore-instagram-stories-with-us-for-2024/).
@@ -53,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
  For strings, you can use regular expressions and character sets to find matches and indexes. You can also use parentheses to group expressions and backslashes to escape special characters.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  expr Command Options
@@ -64,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
     
 ![Linux terminal with expr command documentation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-11.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To check the expr command version, run:
 
         `expr --version`
@@ -77,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
  This option displays the version number, source code, license, and author of expr.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performing Arithmetic Operations With expr
@@ -102,19 +106,11 @@ expr 10 / 2`
 
 ![Linux terminal with syntax error](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-1-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also prevent the shell from interpreting the characters by quoting the arguments and operators properly:
 
         `expr "5" "*" "3"`
     
 ![Linux terminal with variables and operator quotes with double quotations marks](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-8.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Comparing Two Expressions With expr
 
@@ -133,7 +129,7 @@ expr 10 / 2`
 ![Linux terminal showing commands to check the smaller variable using the expr command with less than operator](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-9.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also check whether the values are not equal. To do that, simply use the != operator between the two arguments' values:
@@ -164,6 +160,10 @@ expr 10 / 2`
     
 ![Linux terminal displaying the string length without the including the white spaces](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-1-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The output will be nine because the tr command deletes all the spaces in the string before passing it to the expr length command.
 
 ##  Matching Two Strings With expr
@@ -189,7 +189,7 @@ expr 10 / 2`
 ![Linux terminal showing the matching of two same strings using the expr command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/11-4.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The output is 11 as both strings have all the characters in common, including the white spaces.
@@ -199,10 +199,6 @@ expr 10 / 2`
         `expr 'How To Geek' : 'Linux'`
     
 ![The Linux terminal displays how to match different string variables using the expr command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/12-5.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Incrementing and Decrementing a Variable With expr
 
@@ -224,10 +220,6 @@ echo $a ``
     
 ![The Linux terminal displays usage of expr command to decrement the variable value by 1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/14-3.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Extracting a Substring Using expr
 
  To extract a substring from a given string, you can use the expr command with a substr operator. This way, you can extract specific information from a larger text, such as name, date, or any code. You can also use this operator to remove unwanted characters or spaces from a string.
@@ -239,6 +231,14 @@ b=`expr substr $a 2 5`
 echo $b ``
     
 ![The Linux terminal displays the usage of the expr command with substr option to extract a substring](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/15-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Performing expr Operations Using a Shell Script
 
@@ -254,6 +254,10 @@ echo "Sum of two numbers is= $sum" ``
     
 ![Bash script file containing the script of adding two numbers](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/16-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This script uses the expr command to evaluate arithmetic operations on the variables "a" and "b." The echo command prints a message to the standard output, while the read command reads a line from the standard input and puts it in a variable.
 
  Next, to make this script executable, run the [chmod](https://extra-guidance.techidaily.com/new-perfect-synchronization-enhancing-audio-visual-with-subtitles-in-wmp/) command:
@@ -267,10 +271,6 @@ echo "Sum of two numbers is= $sum" ``
 ![Linux terminal displaying the execution of bash script file and displays the output](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/17-1.png) 
 
  You will be prompted to enter two numbers. After entering the numbers, you will see the script will display the sum of both numbers on screen. You can also modify the script to perform other operations or tasks as per your needs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Try Some Alternative Linux Commands
 
@@ -293,18 +293,19 @@ echo "Sum of two numbers is= $sum" ``
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-improved-zoom-video-quality/"><u>[New] The Ultimate Guide to Improved Zoom Video Quality</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-the-cheapest-cloud-storage-service-for-mass-file/"><u>[Updated] In 2024, The Cheapest Cloud Storage Service for Mass File</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-science-of-space-how-layout-affects-professional-effectiveness/"><u>[Updated] The Science of Space How Layout Affects Professional Effectiveness</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-10-enterprise-cloud-options/"><u>[Updated] Top 10 Enterprise Cloud Options</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-captivating-your-online-audience/"><u>2024 Approved The Art of Captivating Your Online Audience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-advice-on-shutting-down-your-new-iphone-15-devices-including-the-pro-and-pro-max/"><u>Expert Advice on Shutting Down Your New iPhone 15 Devices, Including the Pro & Pro Max</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/from-chords-to-clicks-mastering-music-on-ig-for-2024/"><u>From Chords to Clicks Mastering Music on IG for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-gently-lower-volume-without-distortion-for-2024/"><u>How to Gently Lower Volume Without Distortion for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/hulu-or-hulu-plus-understanding-their-key-distinctions/"><u>Hulu or Hulu Plus: Understanding Their Key Distinctions</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-vivo-v30-lite-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Vivo V30 Lite 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-diy-movie-making-youtubes-boutique-method/"><u>In 2024, DIY Movie Making YouTube's Boutique Method</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-lava-yuva-3-pro-by-fonelab-android-recover-data/"><u>Recover lost data from Lava Yuva 3 Pro</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/top-8-authentic-youtube-boosting-platforms-for-2024/"><u>Top 8 Authentic YouTube Boosting Platforms for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-inside-the-world-class-editor-a-complete-guide-to-vivacuts-offerings/"><u>[Updated] 2024 Approved Inside the World-Class Editor A Complete Guide to VivaCut's Offerings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-turning-popular-sounds-on-tiktok-into-personal-cellphone-alarms/"><u>[Updated] Turning Popular Sounds on TikTok Into Personal Cellphone Alarms</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-snowy-standouts-from-winter-2022-olympics/"><u>2024 Approved Snowy Standouts From Winter 2022 Olympics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-scouting-for-best-free-srt-translation-tools/"><u>2024 Approved The Ultimate Guide to Scouting for Best Free SRT Translation Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-periscope-user-manual/"><u>2024 Approved The Ultimate Periscope User Manual</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-6-gopro-helmet-harnesses-tips-and-techniques-unveiled/"><u>2024 Approved Top 6 GoPro Helmet Harnesses Tips and Techniques Unveiled</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhance-gaming-experience-by-fixing-civ-5-glitches/"><u>Enhance Gaming Experience by Fixing Civ 5 Glitches</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-samsung-galaxy-s24plus-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Samsung Galaxy S24+ – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>New In 2024, Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726027399933-obs-studio/"><u>OBS Studioによるゲームのクリアなビデオ撮影テクニック</u></a></li>
+<li><a href="https://windows11.techidaily.com/taming-unresponsive-volume-sliders-on-desktops/"><u>Taming Unresponsive Volume Sliders on Desktops</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211237121-9798989316212-the-essential-manifesting-guidebook/"><u>The Essential Manifesting Guidebook | Free Book</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transforming-gifs-to-stickers-comprehensive-instruction-for-messaging-apps-for-2024/"><u>Transforming GIFs to Stickers Comprehensive Instruction for Messaging Apps for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleashing-creativity-new-font-addition-strategies-for-ae-for-2024/"><u>Unleashing Creativity New Font Addition Strategies for AE for 2024</u></a></li>
 </ul></div>
 

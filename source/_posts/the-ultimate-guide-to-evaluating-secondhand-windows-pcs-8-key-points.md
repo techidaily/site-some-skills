@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Evaluating Secondhand Windows PCs – 8 Key Points
-date: 2024-12-26T19:08:00.017Z
-updated: 2024-12-28T19:28:05.641Z
+date: 2025-01-02T10:00:06.311Z
+updated: 2025-01-07T09:05:30.454Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## The Ultimate Guide to Evaluating Secondhand Windows PCs – 8 Key Points
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -24,10 +28,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Buying a used laptop can indeed save you money, but it does come with some risks. This is why you should thoroughly examine the laptop before closing the deal to avoid unpleasant surprises later on. If you doubt the credibility of the seller, here's how you can test the used laptop.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Test the Keyboard and Trackpad
 
  Begin the laptop inspection by testing the keyboard and trackpad first. To test the keyboard, go to a keyboard testing website like [Keyboard Tester](https://www.keyboardtester.com/tester.html) and press each key from the first to the last. If all keys register correctly, the keyboard is likely in good condition. Also, make sure you feel comfortable typing on the keyboard.
@@ -37,6 +37,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To test the trackpad, hover over the screen to gauge its responsiveness. Then, experiment with different trackpad gestures, such as pinch-to-zoom and two-finger scroll, to see which ones are supported. If you have another laptop, you can compare trackpad responsiveness by conducting a touchpad accuracy test on both laptops using the [No-Cursor website](https://no-cursor.com/).
 
  This will help you confirm whether the trackpad on your new laptop is equally or more responsive than the other one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Test the Speakers and Built-In Microphone
 
@@ -50,19 +54,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Testing the laptop microphone in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-testing-the-laptop-microphone-in-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Test the Built-In Camera
 
  If you intend to use the laptop for video communication, test its built-in camera. To do this, type **Camera** in the Windows Search bar and open the Camera app.
 
  If the camera app detects the webcam and the visuals are clear and of satisfactory quality, as the seller claimed, then the camera is working correctly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Check the Health of Your Laptop Battery
 
@@ -85,7 +85,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  You can also confirm your suspicions by getting the laptop's serial number and contacting the manufacturer to verify whether the device has been reported stolen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Perform the Physical Inspection
@@ -95,7 +95,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Also, watch out for stickers that may be covering up wear and tear underneath, as this is a common practice.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Test the Wired and Wireless Connectivity
@@ -133,18 +133,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-top-scratches-comparative-review-of-recorders/"><u>[New] 2024 Approved Top Scratches Comparative Review of Recorders</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-elevate-iphone-snapshots-with-these-hacks/"><u>[Updated] 2024 Approved Elevate iPhone Snapshots with These Hacks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-path-to-prominence-elevating-brands-with-telegram-strategies/"><u>[Updated] The Path to Prominence Elevating Brands with Telegram Strategies</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-guide-to-directors-success-powerdirector-2024/"><u>[Updated] Ultimate Guide to Directors' Success - PowerDirector 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-potential-top-tactics-for-medical-ads-on-social-networks/"><u>[Updated] Unlocking Potential Top Tactics for Medical Ads on Social Networks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-full-potential-top-9-methods-in-vr-cinematography/"><u>[Updated] Unlocking the Full Potential Top 9 Methods in VR Cinematography</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/download-the-leading-free-windows-dvd-ripping-tools-of-202-infobox/"><u>Download the Leading Free Windows DVD Ripping Tools of 202 [Infobox]</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/l-footprint-of-mr-beast/"><u>Fiscal Footprint of Mr. Beast</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-essential-leisure-ideal-screen-time-solutions/"><u>In 2024, Essential Leisure Ideal Screen-Time Solutions</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working On Apple iPhone 14 Pro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-3-tactics-transforming-pin-videos-into-mp3-sounds-for-2024/"><u>Top 3 Tactics Transforming Pin Videos Into MP3 Sounds for 2024</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/ultimate-guide-the-definitive-list-of-folders-and-their-uses/"><u>Ultimate Guide: The Definitive List of Folders and Their Uses</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-visual-potential-with-smart-photo-text-tools-online-for-2024/"><u>Unlock Visual Potential with Smart Photo Text Tools Online for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-chrome-extensions-best-5-facebook-video-downloaders-for-chrome-for-2024/"><u>[New] Chrome Extensions | Best 5 Facebook Video Downloaders for Chrome for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-30-list-of-no-cost-high-quality-online-film-effects-tools/"><u>[New] The Ultimate 30 List of No-Cost, High-Quality Online Film Effects Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-typographic-tactics-for-advanced-ae-users/"><u>[New] Typographic Tactics for Advanced AE Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-guide-optimal-sub-to-srt-conversion-with-top-8-tools/"><u>[Updated] Ultimate Guide Optimal Sub to Srt Conversion with Top 8 Tools</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-xiaomi-redmi-note-13-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Xiaomi Redmi Note 13 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ating-authentic-growth-proven-youtube-view-strategies-for-2024/"><u>Navigating Authentic Growth Proven YouTube View Strategies for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/step-into-success-the-essentials-you-need-to-know-about-fb-stories-for-2024/"><u>Step Into Success The Essentials You Need to Know About FB Stories for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-secret-to-striking-visuals-optimal-video-aspect-ratios-for-2024/"><u>The Secret to Striking Visuals Optimal Video Aspect Ratios for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-significance-of-proper-slug-line-usage-for-2024/"><u>The Significance of Proper Slug Line Usage for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-zoom-companion-for-snapchat-enthusiasts-for-2024/"><u>The Ultimate Zoom Companion for Snapchat Enthusiasts for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tutorial-disabling-automatic-sleep-on-mac-systems-for-extended-work-sessions/"><u>Tutorial: Disabling Automatic Sleep on Mac Systems for Extended Work Sessions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How Does Conky Elevate the Visual Appeal of Your Linux Workspace?
-date: 2024-12-23T16:19:03.692Z
-updated: 2024-12-28T16:31:02.978Z
+date: 2025-01-01T00:25:27.489Z
+updated: 2025-01-07T06:15:14.319Z
 tags:
   - desktop
 categories:
@@ -56,17 +56,9 @@ sudo apt install conky-manager2
 
 ![Installing Conky and Conky Manager in a Linux terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/installing-conky-and-conky-manager.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You’ve successfully installed Conky and Conky Manager on your system. Now, you can technically run the Conky app directly, and you’ll get the following widget on your desktop. It’s a barebone experience where you’ll have to write scripts to tweak the appearance, behavior, and functionality of this widget.
 
 ![Conky and Conky Manager in Application Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/conky-and-conky-manager-in-application-menu.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Default Conky Widget and its script in a notepad window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/default-conky-widget-and-script.png) 
 
@@ -78,10 +70,14 @@ Close
 
 ![Conky manager overview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/conky-manager-overview.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Using Conky Manager to Edit Conky Widgets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/using-conky-manager-to-edit-conky-widgets.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close 
@@ -89,7 +85,7 @@ Close
  By default, the Conky Manager comes with a number of widgets, but they aren’t eye-catching enough. Not to worry though, as there are talented folks who have developed dedicated Conky themes with stylish widgets that you can simply download and start using on your system, no code necessary.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Installing Conky Themes
@@ -99,7 +95,7 @@ Close
 ![Download the victorConky theme in a ZIP format.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/download-victorconky-theme.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Extract the victorConky zip file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/extract-the-victorconky-zip-file.png) 
@@ -119,6 +115,10 @@ mv victorConky ~/.conky
  Now, the victorConky widgets should be accessible from the Conky Manager. Open it, and you should see a list of new widgets added. I personally liked the LinuxLarge widget and use it on my system. You can enable it by clicking the checkbox beside it.
 
 ![The victorConky widget enabled and visible on an Ubuntu desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/victorconky-widget-showcase.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Useful Resources
 
@@ -158,22 +158,19 @@ mv victorConky ~/.conky
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-harnessing-altitude-live-streaming-with-dji-drones/"><u>[New] In 2024, Harnessing Altitude Live-Streaming with DJI Drones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-essence-of-mixed-reality-explored/"><u>[New] The Essence of Mixed Reality Explored</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-essentials-of-structuring-your-podcasts-rss-feed/"><u>[New] The Essentials of Structuring Your Podcast's RSS Feed</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-trailblazing-through-time-era-images-explore-3-inverse-techniques-on-facebook/"><u>[New] Trailblazing Through Time-Era Images Explore 3 Inverse Techniques on Facebook</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-ae-text-excellence-discover-our-best-10-ideas/"><u>2024 Approved AE Text Excellence Discover Our Best 10 Ideas</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-techniques-for-seamless-blending-of-hdr-photographs-in-lightroom/"><u>2024 Approved Techniques for Seamless Blending of HDR Photographs in Lightroom</u></a></li>
-<li><a href="https://win11.techidaily.com/dynamic-walls-for-windows-11-setting-lively-desktop-backdrops/"><u>Dynamic Walls for Windows 11: Setting Lively Desktop Backdrops</u></a></li>
-<li><a href="https://win-latest.techidaily.com/expert-guide-by-yl-computing-steps-to-assess-ico-legitimacy-and-avoid-scams/"><u>Expert Guide by YL Computing: Steps to Assess ICO Legitimacy & Avoid Scams</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tips-for-integrating-supplemental-film-content/"><u>In 2024, Tips for Integrating Supplemental Film Content</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-5-display-choices-for-ps5/"><u>In 2024, Ultimate 5 Display Choices For PS5</u></a></li>
-<li><a href="https://win11.techidaily.com/innovative-ways-to-bypass-tpm-on-windows-11/"><u>Innovative Ways to Bypass TPM on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/no-more-dropped-signals-masterful-solutions-for-persistent-usb-disconnection-problems/"><u>No More Dropped Signals: Masterful Solutions for Persistent USB Disconnection Problems</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-faster-facebook-videos-for-2024/"><u>The Ultimate Guide to Faster Facebook Videos for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-vivo-y78plus-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Vivo Y78+ Phones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-6-android-apps-for-immersive-music-videos-for-2024/"><u>Top 6 Android Apps for Immersive Music Videos for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-youtube-ranks-expertly-navigating-with-key-tools-for-2024/"><u>Top 8 YouTube Ranks Expertly Navigating with Key Tools for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-hidden-treasure-troves-of-snapchat-tones-for-2024/"><u>Unveiling the Hidden Treasure Troves of Snapchat Tones for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-strategizing-visibility-for-podcasts-through-design/"><u>[New] Strategizing Visibility for Podcasts Through Design</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-ultimate-guide-to-advanced-techniques-in-youtube-video-editing-for-2024/"><u>[New] The Ultimate Guide to Advanced Techniques in YouTube Video Editing for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-captivating-displays-for-expert-image-processors-2024-guide/"><u>[Updated] Captivating Displays for Expert Image Processors, 2024 Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-calendar-imprinting-techniques-in-photography/"><u>[Updated] In 2024, Calendar Imprinting Techniques in Photography</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-precision-speed-control-for-elite-pc-users/"><u>[Updated] Precision Speed Control for Elite PC Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-nikon-d500-4k-performance/"><u>[Updated] The Ultimate Guide to Nikon D500 4K Performance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-drone-vr-integration-guide/"><u>[Updated] Ultimate Drone-VR Integration Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-premier-5-web-titlers-shaping-industry-norms/"><u>[Updated] Unveiling the Premier 5 Web Titlers Shaping Industry Norms</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210611712-9781638121350-angels-to-aliens/"><u>Angels to Aliens | Free Book</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/crafting-team-videos-to-foster-viewership-and-following/"><u>Crafting Team Videos to Foster Viewership and Following</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-easy-home-cinematic-techniques-to-streamline-production/"><u>In 2024, Easy Home Cinematic Techniques to Streamline Production</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-maximizing-instagram-accessing-free-filters-via-searches/"><u>In 2024, Maximizing Instagram Accessing Free Filters via Searches</u></a></li>
+<li><a href="https://some-skills.techidaily.com/investment-worthy-asmr-sound-for-every-fan-for-2024/"><u>Investment-Worthy ASMR Sound for Every Fan for 2024</u></a></li>
+<li><a href="https://win-tips.techidaily.com/wie-man-musik-von-windows-media-player-erfolgreich-in-itunes-ubertragen-kann/"><u>Wie Man Musik Von Windows Media Player Erfolgreich in iTunes Übertragen Kann</u></a></li>
 </ul></div>
 

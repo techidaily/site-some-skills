@@ -1,7 +1,7 @@
 ---
 title: "1. Seamless Data Transition: Mastering the Art of Using Windows Backup for Upgrading Your PC"
-date: 2024-12-24T16:47:37.020Z
-updated: 2024-12-28T16:51:28.872Z
+date: 2025-01-05T01:00:50.835Z
+updated: 2025-01-06T22:18:06.023Z
 tags:
   - desktop
 categories:
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 
 ![Windows Settings with 'Accounts' highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-accounts.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Step 2: Manage Your Backup Settings
 
  Once you've signed in to your Microsoft account, there are two different ways to transfer your data from your old computer to your new one—OneDrive Backup and Windows Backup.
@@ -56,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 
  The drawback—and it's a big one—is that it doesn't let you transfer your apps, your settings, or your credentials, so you'll have to set these up again on your new computer. Also, bear in mind that you're limited to 5GB of storage if you have a free Microsoft account.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Use Windows Backup
 
  So, we recommend you use Windows Backup to make the transfer, as this lets you copy more things—from your folders (the same ones that OneDrive would have backed up) to your personal settings and preferences—to your new computer.
@@ -64,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 
 !['Backup' is typed into the taskbar search box, and the 'Windows Backup' option is highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/open-windows-backup.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the Windows Backup dialog box, you'll see the different things you can include in your transfer. Click the drop-down arrows next to each section to choose which folders, apps, settings, and credentials you want to transfer to your new computer.
 
  You can also see an estimate of how much storage you'll need to perform the backup in the bottom left-hand corner of the window. _Free Microsoft accounts come with just 5GB of folder storage_, so if you need to back up more than that, you must [purchase more storage through a different Microsoft plan](https://www.microsoft.com/en-gb/microsoft-365/onedrive/compare-onedrive-plans). Alternatively, you could perform a manual [backup to an external hard drive](https://instagram-videos.techidaily.com/new-understanding-and-executing-photo-gender-modification-across-platforms-for-2024/), or [use a third-party storage solution](https://instagram-video-recordings.techidaily.com/navigating-the-truth-in-your-photos-an-instagram-selfie-audit/). However, you _cannot_ use an external storage device or a third-party cloud service with Windows Backup. 
@@ -75,13 +71,17 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 ![The Windows Backup window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-backup-window-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * The Folders option backs up the same folders that are automatically stored in your OneDrive sync—your Documents, Pictures, Desktop, Music, and Videos folders. These folders likely contain everything you want to move, but if you have important folders elsewhere, be sure to add them to your OneDrive folder manually, or use an alternative storage solution.
 * TheAppsoption will transfer all the apps you have installed on your old computer to your new computer.
 * The Settings option will let you copy your accessibility settings, any elements you have personalized on your old PC, your language and dictionary preferences, and any other settings you've adjusted.
 * The Credentials drop-down will help you to transfer your account details, Wi-Fi networks, and passwords.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Step 3: Backup Your Old PC
 
@@ -90,20 +90,20 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 ![The Windows Backup screen with the 'Back Up' button highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/backup-button.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Depending on which options you've selected, this might take some time, but you can carry on with other tasks while this is happening. Just try to avoid making changes to any of the folders, apps, settings, or credentials you've chosen to back up during this process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Step 4: Restore to Your New PC
 
  When setting up your new computer, when prompted, login with the same Microsoft account you used to create your backup on your old computer. You will then be able to select your old PC's details, which includes the backup you performed, and click "Restore From This PC."
 
 ![The 'Restore Backup' screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/restore-backup.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Microsoft
 
@@ -128,24 +128,18 @@ Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-top-20-zero-cost-pubg-visual-anthologies/"><u>[New] Top 20 Zero-Cost PUBG Visual Anthologies</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-adding-images-to-instagram-made-simple-for-2024/"><u>[Updated] Adding Images to Instagram Made Simple for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-depth-analysis-asus-proart-pa-329q-4k-monitor/"><u>[Updated] In-Depth Analysis Asus ProArt PA 329Q 4K Monitor</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-film-swapping-ideas-best-replacements-1-7/"><u>2024 Approved Film Swapping Ideas Best Replacements #1-7</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-verdict-on-video-clips-a-deep-dive-into-inshots-performance/"><u>2024 Approved The Verdict on Video Clips A Deep Dive Into InShot's Performance</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-elite-video-cameras-for-2-point-zero-four-two/"><u>2024 Approved Unveiling the Elite Video Cameras for 2 Point Zero Four Two</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ustream-review-and-alternatives/"><u>2024 Approved Ustream Review and Alternatives</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-oppo-a18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-language-bridge-builders-top-18-tools-that-turn-videos-into-text/"><u>In 2024, Language Bridge Builders Top 18 Tools That Turn Videos Into Text</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-the-photographers-guide-to-online-image-editing-and-cropping/"><u>In 2024, The Photographer's Guide to Online Image Editing and Cropping</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-strategy-to-seamlessly-upload-srt-subtitles-online/"><u>In 2024, The Ultimate Strategy to Seamlessly Upload SRT Subtitles Online</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-audio-collections-for-screen-clips/"><u>In 2024, Top Audio Collections for Screen Clips</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/slash-your-expenses-top-sites-for-economical-dvd-shopping-near-you/"><u>Slash Your Expenses: Top Sites for Economical DVD Shopping Near You!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/sonys-game-console-enhance-auditory-experience-for-2024/"><u>Sony's Game Console Enhance Auditory Experience for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/step-up-your-game-mastering-discord-message-embellishments/"><u>Step Up Your Game Mastering Discord Message Embellishments</u></a></li>
-<li><a href="https://games-able.techidaily.com/superior-ssd-selection-for-ps5/"><u>Superior SSD Selection for PS5</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-finest-collage-software-android-edition-explored/"><u>The Finest Collage Software Android Edition Explored</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-science-and-magic-behind-full-circle-films-for-2024/"><u>The Science and Magic Behind Full Circle Films for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-honor-x50i-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Honor X50i Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-avoiding-blur-techniques-for-hand-held-stability/"><u>[New] Avoiding Blur Techniques for Hand-Held Stability</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-complete-reference-to-display-recording-methods/"><u>[Updated] In 2024, The Complete Reference to Display Recording Methods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streaming-wars-the-digital-platform-showdown/"><u>2024 Approved Streaming Wars The Digital Platform Showdown</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-supreme-memetric-creation-tool/"><u>2024 Approved Supreme Memetric Creation Tool</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-best-cheap-action-cameras-to-purchase-for-under-100/"><u>2024 Approved The Best Cheap Action Cameras to Purchase for Under $100</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-trending-14-moving-text-design-illustrations/"><u>2024 Approved Trending 14 Moving Text Design Illustrations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-twitter-media-to-music-downloading-and-converting-process/"><u>2024 Approved Twitter Media to Music Downloading & Converting Process</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-unveiling-the-ideal-12-vlogging-cameras-with-seamless-screen-control/"><u>2024 Approved Unveiling the Ideal 12 Vlogging Cameras with Seamless Screen Control</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-samsung-galaxy-a54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/choosing-between-copilot-and-copilot-pro-key-differences-explored-and-upgrade-necessity-reviewed/"><u>Choosing Between Copilot and Copilot Pro: Key Differences Explored & Upgrade Necessity Reviewed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-five-companies-are-revolutionizing-their-workflow-with-apple-vision-pro-a-game-changer-for-modern-enterprises/"><u>How Five Companies Are Revolutionizing Their Workflow with Apple Vision Pro: A Game Changer for Modern Enterprises</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-quintessential-editing-advantages-of-filmora/"><u>In 2024, The Quintessential Editing Advantages of Filmora</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-11-superior-sound-integration-tools-for-adding-music-and-voice-to-videos-across-android-ios-mac-and-pc-platforms/"><u>The Ultimate List of 11 Superior Sound Integration Tools for Adding Music & Voice to Videos Across Android, iOS, Mac & PC Platforms</u></a></li>
 </ul></div>
 

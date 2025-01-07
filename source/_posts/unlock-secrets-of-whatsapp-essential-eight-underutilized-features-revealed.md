@@ -1,7 +1,7 @@
 ---
 title: "Unlock Secrets of WhatsApp: Essential Eight Underutilized Features Revealed!"
-date: 2024-12-21T18:28:28.378Z
-updated: 2024-12-28T17:58:31.630Z
+date: 2025-01-05T18:18:13.469Z
+updated: 2025-01-07T02:46:16.010Z
 tags:
   - web
 categories:
@@ -32,13 +32,13 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 
 ![Pinning a message in WhatsApp on an iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-pinning-or-starring-a-message-in-whatsapp.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On Android, long-tap the message, click on the three vertical dots in the top right corner, and select "Pin" or "Star."
 
 ![Pinning a message in the WhatsApp app on Android](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-pinning-a-message-in-the-whatsapp-app-on-android.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2  Hide Your Status From Selected Contacts 
 
@@ -47,6 +47,14 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
  To configure this, go to Settings > Privacy > Status. To block certain contacts from seeing your status, tap "My Contacts Except" and select the contacts you want to exclude. If you want to share your status with only specific contacts, tap "Only Share With" and select your desired contacts.
 
 ![Excluding some contacts from seeing my status on WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-excluding-some-contacts-from-seeing-my-status-on-whatsapp.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3  Prevent Others From Seeing You’ve Read Their Messages 
 
@@ -57,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 ![Disabling read receipts in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-disabling-read-receipts-in-whatsapp.jpg) 
 
  However, this feature works both ways: you also won't be able to see when others have read your messages. Also, remember that this setting doesn't apply to group chats.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4  Create Custom Notifications for Specific Chats 
 
@@ -71,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 ![Selecting a custom call or text notification tone for a specific contact in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-selecting-a-new-tone-for-specific-contacts-in-whatsapp.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5  Send a Message to Multiple Contacts at Once 
@@ -84,10 +96,6 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 
 ![Creating a new broadcast list in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-creating-a-new-broadcast-list-in-whatsapp.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6  Use Avatars and Custom Stickers 
 
  WhatsApp lets you create an avatar either automatically by taking a selfie or manually by choosing your skin tone, hairstyle, and other features. Once created, you'll have access to custom stickers featuring your avatar, which you can use in chats. You can also use different images of your avatar for your profile picture.
@@ -96,12 +104,16 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 
 ![Options to create an avatar manually or automatically](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-options-to-create-an-avatar-manually-or-automatically.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once your avatar is ready, you'll see two options: "Browse Stickers," where you can see and [use custom stickers](https://youtube-clips.techidaily.com/shaping-viewers-attention-employing-jump-cuts-in-video-editing/), and "Create Profile Photo," where you can select an avatar image for your profile picture.
 
 ![Checking the custom avatar stickers and profile photo in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/6-checking-the-custom-avatar-stickers-and-profile-photo-in-whatsapp.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7  Set Custom Wallpapers for Individual Contacts 
@@ -113,20 +125,12 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 ![Selecting a custom chat wallpaper for a contact in WhatsApp on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-selecting-a-new-whatsapp-wallpaper-in-whatsapp.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To set a custom wallpaper for a contact on Android, open the chat, tap the three vertical dots in the top-right corner, and select "Wallpaper." Then, choose a wallpaper and tap "Set Wallpaper." When prompted, select "For This Chat."
 
 ![Changing a wallpaper for a particular chat in WhatsApp on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-changing-a-wallpaper-for-a-particular-chat-in-whatsapp.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8  Share Your Live Location with Others 
 
@@ -135,10 +139,6 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
  To share your live location, ensure WhatsApp has permission to access your location and that your phone’s location services are enabled. Then, open the chat with the person you want to share your location with, tap the paperclip icon on Android (or the plus icon in the bottom-left corner on iPhone), and select "Location."
 
 ![The menu to share the location in WhatsApp.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/8-trying-to-share-the-location-in-whatsapp.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Next, tap "Share Live Location," choose how long you want to share it, add a caption if you'd like, and tap the send button. Your contact will see your exact location, and they can also share their live location with you if they wish.
 
@@ -167,14 +167,24 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unleash-your-ads-potential-mastering-fb-ad-roi-with-motion-graphics/"><u>[Updated] 2024 Approved Unleash Your Ad's Potential Mastering FB Ad ROI with Motion Graphics</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-seamless-time-stamp-integration-on-youtube-videos/"><u>[Updated] Seamless Time-Stamp Integration on YouTube Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streaming-spectacle-how-twitch-stacks-up-against-youtube/"><u>[Updated] Streaming Spectacle How Twitch Stacks Up Against YouTube</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/assessing-streaming-quality-vlc-versus-mx-for-2024/"><u>Assessing Streaming Quality VLC versus MX for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-most-secure-and-luminous-outdoor-floodlight-systems-of-2024-a-comprehensive-review/"><u>Discover The Most Secure and Luminous Outdoor Floodlight Systems of 2024 - A Comprehensive Review</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-from-your-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID From your iPhone 14 Pro Max?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-time-honored-tech-selfies-with-iphone-x/"><u>In 2024, Time-Honored Tech Selfies with iPhone X</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-versions-of-windows-movie-maker/"><u>In 2024, Versions of Windows Movie Maker</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-tech-savvy-apps-for-artful-picture-presentation-for-2024/"><u>Top Tech-Savvy Apps for Artful Picture Presentation for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-essential-techniques-for-youtube-end-screen-designs/"><u>[New] Essential Techniques for YouTube End Screen Designs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-grab-and-reel-the-essential-5-apps-for-social-media-video-capture-for-2024/"><u>[New] Grab & Reel The Essential 5 Apps for Social Media Video Capture for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-flight-tech-best-drone-gimbals/"><u>[New] Top Flight Tech Best Drone Gimbals</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-cinematic-trailer-collection/"><u>[New] Ultimate Cinematic Trailer Collection</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-30-unlimited-cloud-space-deals-up-to-1tb-saved/"><u>[Updated] Top 30 Unlimited Cloud Space Deals - Up to 1TB Saved</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-discover-free-pioneering-apps-to-supercharge-social-storytelling/"><u>2024 Approved Discover FREE Pioneering Apps to Supercharge Social Storytelling</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-visual-verdict-sj6-meets-xiaomis-yi-visionaries/"><u>2024 Approved The Ultimate Visual Verdict SJ6 Meets Xiaomi’s Yi Visionaries</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-studio-secrets-extensive-xvideoreview/"><u>2024 Approved Unlocking Studio Secrets Extensive XVideoReview</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-itel-p55plus-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Itel P55+ Phones with/without a PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-print-to-pdf-not-working-in-windows-1011-by-microsoft/"><u>How to Fix 'Print to PDF Not Working' In Windows 10/11 by Microsoft</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-se-2022-to-roku-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone SE (2022) to Roku? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-realm-of-ring-vs-reality-stream/"><u>In 2024, The Realm of Ring vs Reality Stream</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/navigating-the-musical-maze-copyright-rules-for-insta-users/"><u>Navigating the Musical Maze Copyright Rules for Insta Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premier-filmmaking-software-on-iphones/"><u>Premier Filmmaking Software on iPhones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/synthesizing-worlds-latest-trends-in-virtual-tech-for-2024/"><u>Synthesizing Worlds Latest Trends in Virtual Tech for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tailor-topical-laughs-for-2024/"><u>Tailor Topical Laughs for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-pathway-to-perfect-images-step-by-step-backdrop-erasure/"><u>The Pathway to Perfect Images Step-By-Step Backdrop Erasure</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tips-for-embedding-time-stamps-in-youtube-clips-for-2024/"><u>Tips for Embedding Time Stamps in YouTube Clips for 2024</u></a></li>
+<li><a href="https://win-superb.techidaily.com/ultimate-guide-to-switching-out-your-windows-nbackup-drive-a-detailed-walkthrough/"><u>Ultimate Guide to Switching Out Your Windows Nbackup Drive: A Detailed Walkthrough</u></a></li>
 </ul></div>
 

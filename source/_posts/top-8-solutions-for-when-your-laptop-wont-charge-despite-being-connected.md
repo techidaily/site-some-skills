@@ -1,7 +1,7 @@
 ---
 title: Top 8 Solutions for When Your Laptop Won't Charge Despite Being Connected
-date: 2024-12-24T17:38:43.541Z
-updated: 2024-12-28T18:22:04.746Z
+date: 2024-12-31T16:09:06.671Z
+updated: 2025-01-06T16:34:50.060Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Top 8 Solutions for When Your Laptop Won't Charge Despite Being Connected
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -22,10 +26,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Reinstall the Battery Drivers](https://twitter-videos.techidaily.com/in-2024-guide-downloading-twitters-videos-on-android-devices/)
 * [Test for a Defective Battery](https://facebook-video-content.techidaily.com/new-fb-profile-picture-dimensions/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * If your laptop isn't charging even when it's plugged in, make sure the power cord is firmly connected to the adapter brick. If that doesn't work, try plugging the charger's adapter plug into a different outlet and carefully examining the charging port and pin.
@@ -34,31 +34,27 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Is your laptop not charging even though you've plugged it in? While most of the time, this situation occurs when the charging adapter isn't properly connected, other times outdated BIOS or corruption in the battery driver could be the possible culprit. Whatever the reason may be, here are fixes you can try if your laptop is plugged in but not charging.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  1\. Check Your Laptop Adapter
 
  Before taking any major steps, the first thing you should check is whether the power cord is securely connected to the adapter brick. If the connection is loose, the adapter brick will not receive power, preventing your laptop from charging.
 
 ![A laptop adapter with a loose connection.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/laptop-adapter.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Aman Kumar / How-To Geek
 
  If you find that the power cord is loosely connected to the adapter brick, apply gentle pressure to firmly insert it into the adapter. Alternatively, you can unplug the power cord completely and then plug it back in again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  2\. Connect the Laptop Adapter to a Different Socket
 
 ![Multiple power adaptors and cables plugged into a power strip](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/52731312553_e2b752b4ab_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jason Fitzpatrick / How-To Geek
 
@@ -72,6 +68,10 @@ Jason Fitzpatrick / How-To Geek
 
  Counterfeit chargers often charge laptops at an extremely slow pace or, in some cases, not charge at all. If your original laptop charger is malfunctioning, opt to purchase the same model charger directly from the laptop manufacturer online or in-store instead of resorting to a third-party charger.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. Examine the Charging Port and Pin
 
  If your laptop is still not charging, you should carefully examine your laptop's charging port for any dust or debris that might have accumulated inside. If any dust or debris is present, it will prevent the charger from supplying power to your laptop, ultimately causing the issue at hand.
@@ -79,7 +79,7 @@ Jason Fitzpatrick / How-To Geek
 ![Charging port on a laptop with visible dust surrounding it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/charging-port.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Aman Kumar / How-To Geek
@@ -89,6 +89,10 @@ Aman Kumar / How-To Geek
  You should also carefully check the charging pin. Oftentimes, the charging pin will break due to uneven pressure or being inserted into the wrong port.
 
 ![The charging pin on a laptop adapter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/charging-pin.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Aman Kumar / How-To Geek
 
@@ -101,10 +105,6 @@ Aman Kumar / How-To Geek
  As it turns out, lithium-ion or lithium-polymer batteries can start to degrade if you try to charge them at high temperatures. Additionally, charging a laptop when it's overheated can increase the risk of [battery explosions](https://fox-cloud.techidaily.com/masterful-8-tools-for-flawless-sub-and-srt-conversion/). To prevent these scenarios, manufacturers design laptops to automatically stop charging when the device overheats.
 
  In this situation, there's not much you can do. Simply shut down your laptop and allow it to cool down. Once you feel the temperature has decreased, reconnect the charger, and your laptop should start charging again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  6\. Download Any Available BIOS Update
 
@@ -169,20 +169,22 @@ Aman Kumar / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-kinemasters-journey-through-seamless-segmentation/"><u>[Updated] Kinemaster's Journey Through Seamless Segmentation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-avc-player-on-devices/"><u>[Updated] Ultimate AVC Player on Devices</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unlocking-creative-potential-with-filmora-answers/"><u>[Updated] Unlocking Creative Potential with Filmora Answers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-costless-creativity-a-deep-dive-into-best-luts/"><u>[Updated] Unveiling Costless Creativity A Deep Dive Into Best LUTs</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-a-step-by-step-recorder-for-discord-enthusiasts/"><u>2024 Approved A Step-by-Step Recorder for Discord Enthusiasts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-step-by-step-guide-to-mastering-kinemaster-plus-10-best-video-editors-online/"><u>2024 Approved Step-by-Step Guide to Mastering KineMaster + 10 Best Video Editors Online</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-psychology-behind-successful-facebook-gifting-campaigns/"><u>2024 Approved The Psychology Behind Successful Facebook Gifting Campaigns</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-mp4-to-flv-file-format-transformation-tips-and-tricks/"><u>Easy MP4 to FLV File Format Transformation Tips & Tricks</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-summit-masterpiece-lab-check/"><u>In 2024, Summit Masterpiece Lab Check</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-tecno-spark-10-4g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Tecno Spark 10 4G Phone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/maximizing-the-potential-of-virtual-dialogue-secrets-from-a-pro-zoom-chat-guru/"><u>Maximizing the Potential of Virtual Dialogue Secrets From a Pro ZOOM Chat Guru</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-text-entry-using-typingaid-insights/"><u>Swift Text Entry Using TypingAid Insights</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/the-new-wave-of-virtual-reality-finger-tech/"><u>The New Wave of Virtual Reality Finger Tech</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-quintessential-collection-of-anime-intros-for-2024/"><u>The Quintessential Collection of Anime Intros for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-apple-iphone-6s-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud From your Apple iPhone 6s</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essentials-for-seamless-system-evolutions/"><u>[New] The Essentials for Seamless System Evolutions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-twitter-video-links-to-audio/"><u>[New] Transforming Twitter Video Links to Audio</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-secrets-to-amassing-affordable-artistic-elements/"><u>[Updated] Secrets to Amassing Affordable Artistic Elements</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-innovations-for-text-visualization/"><u>[Updated] Top 10 Innovations for Text Visualization</u></a></li>
+<li><a href="https://techtrends.techidaily.com/2024-dvddvd5/"><u>【2024年度厳選】本日配信! DVD複製・DVDバッシュ用無料オプションソフト5案内</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/drafting-a-compelling-closing-statement-for-tiktok-for-2024/"><u>Drafting a Compelling Closing Statement for TikTok for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722966683948-easy-installation-of-latest-amd-rx-amoledcuda-repo-lhv-aarch64-cudarocm-drivers-for-your-graphics-card/"><u>Easy Installation of Latest AMD RX Amoled_cuda-Repo-Lhv-Aarch64 CUDA/ROCm Drivers for Your Graphics Card.</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/embracing-fun-while-playing-pokemon-shining-pearl/"><u>Embracing Fun While Playing Pokemon Shining Pearl</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-optimus-prime-to-bumblebee-viewing-all-transformers-movies-in-sequence-made-easy/"><u>From Optimus Prime to Bumblebee: Viewing All Transformers Movies in Sequence Made Easy</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/s-path-to-earnings-on-youtube/"><u>Gamer's Path to Earnings on YouTube</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oneplus-nord-n30-se-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from OnePlus Nord N30 SE to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-flip-side-when-vr-becomes-a-stumbling-block/"><u>In 2024, The Flip Side When VR Becomes a Stumbling Block</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-power-of-language-20-words-and-phrases-that-transform-your-marketing/"><u>In 2024, The Power of Language 20 Words and Phrases That Transform Your Marketing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-digital-imaging-apps-for-sharpening-fuzzy-pictures/"><u>In 2024, Top 10 Digital Imaging Apps for Sharpening Fuzzy Pictures</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tucked-into-narratives-a-review-of-evening-storytelling-videos/"><u>In 2024, Tucked Into Narratives A Review of Evening Storytelling Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-smartphone-photography-with-iphones-hdr-for-2024/"><u>Transform Your Smartphone Photography with iPhone’s HDR for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-laptop-trackpad-issues-on-windows-10-8-and-7/"><u>Troubleshooting Guide: Fixing Laptop Trackpad Issues on Windows 10, 8 & 7</u></a></li>
 </ul></div>
 

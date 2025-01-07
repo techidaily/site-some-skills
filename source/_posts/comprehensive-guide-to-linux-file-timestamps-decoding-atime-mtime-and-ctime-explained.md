@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Linux File Timestamps – Decoding Atime, Mtime, and Ctime Explained
-date: 2024-12-22T17:09:38.957Z
-updated: 2024-12-28T16:48:26.519Z
+date: 2025-01-04T11:23:38.804Z
+updated: 2025-01-07T02:56:47.530Z
 tags:
   - desktop
 categories:
@@ -34,10 +34,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The standard [ext4 Linux file system](https://remote-screen-capture.techidaily.com/new-the-definitive-guide-to-android-mobas-10-winners-for-2024/) also allocates space for a file-creation timestamp in its internal file system structures, but this hasn't been implemented yet. Sometimes, this timestamp is populated, but you can't depend on the values in it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The Anatomy of a Timestamp
 
  Linux timestamps hold a number rather than a date and time. This number is the number of seconds since the [Unix epoch](https://en.wikipedia.org/wiki/Unix%5Ftime), which was midnight (00:00:00) on January 1, 1970, in [Coordinated Universal Time (UTC)](https://en.wikipedia.org/wiki/Coordinated%5FUniversal%5FTime). Leap seconds are ignored in Linux timestamps, so they aren't analogous to real time.
@@ -45,6 +41,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  When Linux needs to display a timestamp, it translates the number of seconds into a date and time. This makes it easier for humans to understand. The location and time zone the computer viewing the file is in guides the conversion of the number of seconds to a date and time. It also ensures the month is in the correct language.
 
  So, how many seconds can be stored in a timestamp? A lot—2,147,483,647, to be precise. That's a big number, but is it enough? If you add that to the Unix epoch, and then translate it to a date and time, you get Tuesday, January 19, 2038, at 03:14:07 a.m. We'll need a different scheme for timestamps before then, though.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Viewing Timestamps
 
@@ -62,10 +62,6 @@ ls -lc dp.c
 
 ![ls -l dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/1-7.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The timestamps above show the file's contents were last modified on April 21, 2019\. The access and changed timestamps are identical because the file was copied from another computer to this one on January 20, 2020, and both timestamps were updated at that time.
 
  To [see all timestamps simultaneously](http://man7.org/linux/man-pages/man1/stat.1.html), use the stat command as follows:
@@ -73,6 +69,10 @@ ls -lc dp.c
 stat dp.c
 
 ![stat dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/2-7.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The time zones are listed at the bottom of the display. As you can see, they have a very accurate, fractional seconds component. At the end of each timestamp, you also see a -0500 or -0400 .
 
@@ -83,6 +83,10 @@ stat dp.c
  The offsets and time zones aren't stored anywhere. There's neither [an inode](https://fox-http.techidaily.com/enthralling-examination-and-replacement-ideas-for-2024/) nor a file system space devoted to holding these values. You have to calculate these on the fly using the timestamp (which is always in UTC time), the local time zone of the computer displaying the file, and whether DST was in effect.
 
  You also see a "Birth" timestamp, which is reserved for the creation date of the file. This is not implemented, and you see a hyphen "-" instead of a timestamp.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Changing Timestamps
 
@@ -96,10 +100,6 @@ stat dp.c
 
 ![touch -a dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/3-8.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The access timestamp changed, as expected. However, the changed timestamp was updated as well; this is normal.
 
  To change the modified timestamp, you can use the -m (modified time) option:
@@ -111,7 +111,7 @@ stat dp.c
 ![touch -m dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/4-6.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This time, the modified and changed timestamps were updated.
@@ -135,10 +135,6 @@ touch dp.c -r dice_words.sl3
 stat dp.c
 
 ![touch dp.c -r dice_words.sl3 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/6-5.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  And then, we're pretty much back where we started, with a mixture of -0400 and -0500 timestamps.
 
@@ -169,9 +165,17 @@ less /etc/fstab
 
 ![less /etc/fstab in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/7-6.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The /etc/fstab file is displayed for us, as shown below.
 
 ![The /etc/fstab file in less in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/8-5.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Here's the content of the file without the wrap-around:
 
@@ -179,18 +183,18 @@ less /etc/fstab
 
 ## 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Use 'blkid' to print the universally unique identifier for a  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## device; this may be used with UUID= as a more robust way to name devices  
 
 ## that works even if disks are added and removed. See fstab(5).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -212,10 +216,6 @@ UUID=4a143d08-8695-475b-8243-b13b56050fc2 / ext4 errors=remount-ro 0 1
 cat /proc/mounts | grep "sda"
 
 ![cat /proc/mounts | grep "sda" in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/9-6.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now we see the following options:
 
@@ -259,18 +259,20 @@ cat /proc/mounts | grep "sda"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-groups-of-flying-robots/"><u>[New] Groups of Flying Robots</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-seamless-blend-of-images-into-majestic-collage-art/"><u>[New] The Seamless Blend of Images Into Majestic Collage Art</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-recorders-bible-for-clear-conversations/"><u>[New] The Ultimate Recorder's Bible for Clear Conversations</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-elevating-skills-a-comprehensive-guide-to-designer-advancement/"><u>[Updated] Elevating Skills A Comprehensive Guide to Designer Advancement</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-selection-high-quality-zero-price-free-luts/"><u>[Updated] The Ultimate Selection High Quality, Zero Price Free LUTs</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unleashing-creativity-time-lapse-on-samsung/"><u>[Updated] Unleashing Creativity Time-Lapse on Samsung</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-tale-of-htc-vive-and-total-immersion/"><u>2024 Approved The Ultimate Tale of HTC Vive and Total Immersion</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unique-iphone-photo-style-adding-dynamic-motion-effects/"><u>2024 Approved Unique iPhone Photo Style Adding Dynamic Motion Effects</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/find-missing-control-panel-options-on-windows-11/"><u>Find Missing Control Panel Options on Windows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-list-of-free-vfx-websites/"><u>In 2024, The Ultimate List of FREE VFX Websites</u></a></li>
-<li><a href="https://driver-download.techidaily.com/installing-updated-ch340-serial-port-adapter-software-for-microsofts-latest-operating-system/"><u>Installing Updated CH340 Serial Port Adapter Software for Microsoft's Latest Operating System</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/leading-software-for-collaborative-online-video-conferencing/"><u>Leading Software for Collaborative Online Video Conferencing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-how-to-restore-functionality-of-non-working-stereo-mixes/"><u>Solved! How to Restore Functionality of Non-Working Stereo Mixes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-flipping-photos-for-followers-a-rotational-approach-for-insta-success/"><u>[New] 2024 Approved Flipping Photos for Followers A Rotational Approach for Insta Success</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-complete-insight-the-full-picture-of-bublcam-360/"><u>[New] Complete Insight The Full Picture of Bublcam 360</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-implementing-windows-11s-automatic-hdr-feature/"><u>[New] The Ultimate Guide to Implementing Windows 11'S Automatic HDR Feature</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tools-and-gear-for-crafting-vlogs/"><u>[New] Tools & Gear for Crafting Vlogs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-high-performance-desktop-pcs/"><u>[New] Ultimate High-Performance Desktop PCs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-cameraphone-trackers-precision-power-performance/"><u>[Updated] Top Camera/Phone Trackers Precision, Power, Performance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-video-aesthetics-on-tiktok-dual-approach/"><u>[Updated] Transforming Video Aesthetics on TikTok (Dual Approach)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-beyond-ustream-an-examination-of-video-streaming/"><u>2024 Approved Beyond Ustream An Examination of Video Streaming</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/5-crucial-considerations-for-smartwatch-level-fitness-trackers-buyers-guide/"><u>5 Crucial Considerations for Smartwatch-Level Fitness Trackers - Buyer’s Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-vivo-v27-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Vivo V27 Pro Phone When You Forget the Password</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/low-cost-subtitles-and-downloader-companion-for-2024/"><u>Best Low-Cost Subtitles & Downloader Companion for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-clip-to-cohesive-mastering-color-in-fcp-for-2024/"><u>From Clip to Cohesive Mastering Color in FCP for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-the-huawei-mediapad-m5s-impressive-display-and-sound-quality/"><u>In-Depth Look at the Huawei MediaPad M5's Impressive Display & Sound Quality</u></a></li>
+<li><a href="https://os-tips.techidaily.com/one-finger-technique-for-quickly-expanding-views-in-google-maps-for-better-navigation/"><u>One-Finger Technique for Quickly Expanding Views in Google Maps for Better Navigation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-mastering-powerdirector-for-2024/"><u>The Ultimate Guide to Mastering PowerDirector for 2024</u></a></li>
 </ul></div>
 

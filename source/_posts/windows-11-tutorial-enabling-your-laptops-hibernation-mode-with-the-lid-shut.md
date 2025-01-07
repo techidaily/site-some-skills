@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Tutorial: Enabling Your Laptop's Hibernation Mode with the Lid Shut"
-date: 2024-12-24T18:46:29.340Z
-updated: 2024-12-28T19:43:19.827Z
+date: 2025-01-02T02:18:00.804Z
+updated: 2025-01-07T02:21:17.532Z
 tags:
   - deals
 categories:
@@ -12,17 +12,13 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 ## Windows 11 Tutorial: Enabling Your Laptop's Hibernation Mode with the Lid Shut
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
 
 * [Prevent Your Laptop from Shutting Down When You Close the Screen](https://vp-tips.techidaily.com/updated-2024-approved-unveiling-the-magic-of-films-mood-with-colors/)
 * [Does Keeping Your Laptop Running Hurt the Battery?](https://tech-haven.techidaily.com/innovative-plot-development-with-chatgpts-nine-insights/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -31,23 +27,19 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 
  If you'd like to use your Windows 11 laptop with an [external monitor](https://desktop-recording.techidaily.com/updated-in-2024-in-depth-guide-to-2023s-leading-web-capture-applications/), mouse, and keyboard, it's often nice to keep the lid closed. Here's how to close the lid [without](https://youtube-docs.techidaily.com/ring-the-art-of-youtube-closings-inclusive-guide-for-2024/) putting your PC to sleep.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Prevent Your Laptop from Shutting Down When You Close the Screen
 
  First, open Windows Settings by pressing Windows+i on your keyboard. Or you can right-click the Start button and select "Settings."
 
 ![In Windows 11, right-click the Start button and select "Settings."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/win11_right_click_start_settings.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In Settings, click the search bar and type "lid," then click the "Change what closing the lid does" result that appears beneath it.
 
 ![In Settings, type "lid" in the search box, then click "Change what closing the lid does."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/search_lid_1.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  A "System Settings" window will open (this is part of [Control Panel](https://facebook-clips.techidaily.com/seamless-media-exchange-transferring-facebook-content-to-whatsapp-for-2024/), which is the legacy setup program for Windows.) Under "Power and sleep buttons and lid settings," you'll see several options that let you choose what happens when you press the power or sleep buttons on your device.
 
@@ -58,14 +50,22 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 ![In the "When I close the lid" drop-down menu for the power setting you want, select "Do Nothing."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/select_do_nothing.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After that, click the "Save Changes" button at the bottom of the window.
 
 ![Click "Save Changes."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/click_save_changes.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  These changes will apply to all of your [power plans](https://apple-account.techidaily.com/how-to-unlink-your-iphone-11-pro-max-from-your-apple-id-by-drfone-ios/). When you're ready, close the "System Settings" and "Settings" windows. To test it out, plug your laptop into an external monitor and close the lid. If the video stays on, you'll know that you configured it properly. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Does Keeping Your Laptop Running Hurt the Battery? 
 
@@ -86,19 +86,18 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-enhancing-social-media-visibility-with-quality-livestreams-on-wirecast/"><u>[New] In 2024, Enhancing Social Media Visibility with Quality Livestreams on Wirecast</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-hue-harmonizer-software/"><u>[New] Ultimate Hue Harmonizer Software</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-core-auditory-stimulation-channels/"><u>[Updated] 2024 Approved Core Auditory Stimulation Channels</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-insiders-guide-to-instagram-video-success/"><u>[Updated] The Insider’s Guide to Instagram Video Success</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-giggle-guide-quick-tips-for-meme-artistry/"><u>2024 Approved Giggle Guide Quick Tips for Meme Artistry</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-haul-video-production-and-editing-techniques/"><u>2024 Approved The Art of Haul Video Production and Editing Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-straightforward-guide-to-photo-uploads-on-instagram/"><u>2024 Approved The Straightforward Guide to Photo Uploads on Instagram</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/audible-illusion-how-does-this-voice-change-application-work-alternatives-awaits/"><u>Audible Illusion How Does This Voice Change Application Work? Alternatives Awaits</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/capturing-attention-a-step-by-step-guide-to-social-media-promotion-for-2024/"><u>Capturing Attention A Step-by-Step Guide to Social Media Promotion for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-resolving-issues-with-a-defective-corsair-keyboard/"><u>Diagnosing & Resolving Issues with a Defective Corsair Keyboard</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Xiaomi Redmi Note 12 4G? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-innovators-defining-next-gen-vr-experiences/"><u>In 2024, Top Innovators Defining Next-Gen VR Experiences</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ing-made-easy-utilizing-youtube-for-dynamic-classrooms-for-2024/"><u>Learning Made Easy Utilizing YouTube for Dynamic Classrooms for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-peaceful-slumber-top-notch-asmr-artists-for-rest-for-2024/"><u>Unlocking Peaceful Slumber Top-Notch ASMR Artists for Rest for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/aximizing-your-youtube-click-through-rate-upload-schedule-insights-for-2024/"><u>[New] Maximizing Your YouTube Click-Through Rate Upload Schedule Insights for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essence-of-video-editing-filmoras-ten-wonders/"><u>[New] The Essence of Video Editing Filmora's Ten Wonders</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-streamlining-video-content-with-effective-xml-ttml-and-srt-solutions-for-2024/"><u>[Updated] Streamlining Video Content with Effective XML, TTML & SRT Solutions for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210859158-9781738981519-dismantling-the-3rd-dimension/"><u>Dismantling the 3rd Dimension | Free Book</u></a></li>
+<li><a href="https://win-studio.techidaily.com/enable-automatic-overwriting-of-previous-backups-on-your-windows-server/"><u>Enable Automatic Overwriting of Previous Backups on Your Windows Server</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-enhancing-vids-adding-dynamic-text-effects-for-no-charge/"><u>In 2024, Enhancing Vids Adding Dynamic Text Effects for No Charge</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-soundscapes-synopsis-a-guide-to-visual-tunes/"><u>In 2024, Soundscapes Synopsis A Guide to Visual Tunes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essentials-of-expertly-editing-images-at-home/"><u>In 2024, The Essentials of Expertly Editing Images at Home</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-secrets-to-stellar-podcast-summaries/"><u>In 2024, The Secrets to Stellar Podcast Summaries</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-creative-potential-applying-effects-and-filters-on-zoom/"><u>In 2024, Unleash Creative Potential Applying Effects and Filters on Zoom</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-vr-the-creation-gap/"><u>In 2024, Unveiling VR The Creation Gap</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/resolving-scanner-issues-addressing-blurry-or-warped-images-with-expert-advice-from-yl-software/"><u>Resolving Scanner Issues: Addressing Blurry or Warped Images with Expert Advice From YL Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-clear-out-instructions-for-disabling-an-old-linkedin-profile-for-2024/"><u>The Clear-Out Instructions for Disabling an Old LinkedIn Profile for 2024</u></a></li>
 </ul></div>
 

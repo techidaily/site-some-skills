@@ -1,7 +1,7 @@
 ---
 title: "Demystifying Cryptocurrency Mining: A Comparison Between Proof of Work and Proof of Stake"
-date: 2024-12-22T19:53:31.737Z
-updated: 2024-12-28T17:50:01.445Z
+date: 2025-01-01T02:28:32.374Z
+updated: 2025-01-07T03:06:52.895Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/dc4cacbc8b493fc632f86712912ebd59bbc9ecbef
 ## Demystifying Cryptocurrency Mining: A Comparison Between Proof of Work and Proof of Stake
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/dc4cacbc8b493fc632f86712912ebd59bbc9ecbef
  Despite being such a new technology, there is a long-standing debate about the best method blockchains use to verify transactions and add them to the blockchain. The debate is between proof of work and proof of stake, and there are cryptocurrencies that use each.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Proof of What?
@@ -39,7 +39,7 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  An understanding of proof of work and proof of stake helps establish foundational knowledge on the value of blockchain technology, the pros and cons of different consensus methods, and the current state of affairs in cryptocurrencies.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Miners at Work
@@ -51,7 +51,7 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
  In order to mine the next block and earn their reward, miners must solve extremely complex math problems. These problems are solved quickest with the help of powerful computers that run 24/7 to solve the problem associated with the next block. One of the benefits of proof of work is that less powerful computers can pool resources together to compete with the stronger computers for these rewards. This feature ensures an individual with a large amount of computing power cannot centralize block creation or act maliciously.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Validators and Staking
@@ -61,7 +61,7 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
  The proof of stake consensus mechanism selects validators at random, but those validators with the most money that has been staked the longest increase their chances of creating the next block. Similar to how miners with less powerful computers can group together on proof of work, validators on proof of stake can pool their money together to compete with other validators that might have more block-creating power. This is known as a staking pool.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Big Picture
@@ -91,22 +91,18 @@ Related: [What Is "Ethereum 2.0" and Will It Solve Crypto's Problems?](https://u
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-breaking-ice-the-peak-of-chinas-sports-showcase-2022/"><u>[New] In 2024, Breaking Ice The Peak of China's Sports Showcase, 2022</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-blueprint-to-fullscreen-brilliance-in-adobe-premiere/"><u>[New] The Ultimate Blueprint to Fullscreen Brilliance in Adobe Premiere</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transforming-creativity-into-a-sustainable-livelihood/"><u>[New] Transforming Creativity Into a Sustainable Livelihood</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unparalleled-video-gear-top-5-slow-cams/"><u>[New] Unparalleled Video Gear Top 5 Slow Cams</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-boosting-your-instagram-aesthetics-implementing-borders-on-photos/"><u>[Updated] In 2024, Boosting Your Instagram Aesthetics Implementing Borders on Photos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-must-have-tech-for-clear-streamed-content/"><u>[Updated] Must-Have Tech for Clear Streamed Content</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-maximizing-reach-with-multi-network-content-sharing/"><u>2024 Approved Maximizing Reach with Multi-Network Content Sharing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tales-that-transcend-leading-academies-ranked-top-8/"><u>2024 Approved Tales That Transcend Leading Academies Ranked Top 8</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-path-to-professional-pictures-with-video-enhance-v22/"><u>2024 Approved The Path to Professional Pictures with Video Enhance V2.2</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unique-business-symbols-edit-refine-and-download-logos-from-template-basics/"><u>2024 Approved Unique Business Symbols Edit, Refine, and Download Logos From Template Basics</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/exploring-fb-video-aspect-proportions/"><u>Exploring FB Video Aspect Proportions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-put-iphone-xs-max-or-ipad-on-recovery-mode-step-by-step-tutorial-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Put iPhone XS Max or iPad on Recovery mode? (Step by Step Tutorial) | Stellar</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-se-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone SE? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Huawei Nova Y91? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-honor-magic-vs-2-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Honor Magic Vs 2 Device</u></a></li>
-<li><a href="https://some-skills.techidaily.com/syncing-scores-and-screenplays-top-tunes-for-video-unboxing-for-2024/"><u>Syncing Scores and Screenplays Top Tunes for Video Unboxing for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-rated-airtag-wallets-in-2er-2024-comprehensive-reviews-by-tech-experts/"><u>Top-Rated AirTag Wallets in 2Er 2024 - Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-revolutionizing-text-design-top-10-after-effects-templates/"><u>[New] 2024 Approved Revolutionizing Text Design Top 10 After Effects Templates</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlining-the-process-for-free-pictured-frame-files/"><u>[New] Streamlining the Process for Free Pictured Frame Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-techniques-for-gradual-audio-reduction-with-lumafusion/"><u>[New] Techniques for Gradual Audio Reduction with Lumafusion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essential-guide-to-photo-backdrop-removal-in-picsart/"><u>[New] The Essential Guide to Photo Backdrop Removal in Picsart</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-unlock-advanced-voice-customization-in-free-perfect-for-valorant-players-for-2024/"><u>[New] Unlock Advanced Voice Customization in Free - Perfect for Valorant Players for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-banner-bliss-savor-your-complimentary-set-of-designs/"><u>[Updated] Banner Bliss Savor Your Complimentary Set of Designs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-infusing-interactive-elements-incorrante-youtube-music-into-videography/"><u>[Updated] Infusing Interactive Elements Incorrante YouTube Music Into Videography</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-picture-by-picture-insta-gallery/"><u>[Updated] Picture by Picture Insta Gallery</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-smart-7-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Smart 7.</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamline-content-creation-leading-after-effects-plugins/"><u>In 2024, Streamline Content Creation Leading After Effects Plugins</u></a></li>
+<li><a href="https://some-skills.techidaily.com/troubleshooting-airdrop-issues-iphoneipadmac-solutions-for-2024/"><u>Troubleshooting Airdrop Issues IPhone/iPad/Mac Solutions for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-the-power-of-linux-on-your-chromebook-an-installation-guide-for-20/"><u>Unleash the Power of Linux on Your Chromebook An Installation Guide for 20</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-microsoft-copilot-for-your-on-the-go-productivity-enhanced-support-in-mobile-word-powerpoint-and-excel-with-a-few-caveats/"><u>Unveiling Microsoft Copilot for Your On-the-Go Productivity: Enhanced Support in Mobile Word, PowerPoint, and Excel With a Few Caveats</u></a></li>
 </ul></div>
 

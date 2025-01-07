@@ -1,7 +1,7 @@
 ---
 title: NY Times Crossword Puzzle Solutions - Today's Clues & Answers Revealed, May 31St Edition
-date: 2024-12-27T18:43:26.604Z
-updated: 2024-12-28T18:22:01.830Z
+date: 2024-12-31T18:37:58.799Z
+updated: 2025-01-06T21:03:45.935Z
 tags:
   - web
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## NY Times Crossword Puzzle Solutions - Today's Clues & Answers Revealed, May 31St Edition
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -25,10 +25,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Connections is a game from the New York Times that challenges you to find the association between words. It sounds easy, but it isn't—Connections categories can be almost anything, and they're usually quite specific. If you need a hand getting the answers, we've got you covered.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  What Is Connections?
 
  Connections is a game from the New York Times. The objective is simple: sort 16 words into groups of 4\. Each group of words will be connected by some common idea or theme. That common element could be anything. We have seen everything from games that rely on the number of letters in the words to categories that require you to spot an extra letter at the end of the word. Sometimes they're references to economics, other times they reference fairy tales. There is no telling what sort of association there will be between words.
@@ -36,7 +32,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Hints for Today's Connections Groups
@@ -51,7 +47,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![May 29th's Connections words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-29th-connections.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you still need help, the actual group names are:
@@ -60,10 +56,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **Green:** Mount \_\_\_\_.
 * **Blue:** Components of an LP
 * **Purple:** Things People Shake
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Today's NYT Connections Answers
 
@@ -85,6 +77,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Hands, Maraca, Polaroid, Snowglobe
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How Did We Solve This Connections Game?
 
  May 31st wasn't too bad, but it had one major red herring that threw me off immediately.
@@ -98,6 +94,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Body and canon can refer to "a body of literary works." That brought in works. Of the remaining words, I don't recognize the word oeuvre at all, so I threw that one in for good measure. Together, body, canon, oeuvre, and works were in the Yellow group, "Corpus." 
 
  That left hands, maraca, polaroid, and snowglobe. I wasn't able to figure out the connection between them, but luckily I didn't need to. Purple was "Things People Shake." 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How Do You Guess Connections Groups?
 
@@ -127,14 +127,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-essential-guide-to-producing-quality-igtv-on-smartphonesdslrs/"><u>[New] 2024 Approved Essential Guide to Producing Quality IGTV on Smartphones/DSLRs</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-the-leading-8-linux-programs-for-screenshots/"><u>[Updated] In 2024, The Leading 8 Linux Programs for Screenshots</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-next-frontier-of-classroom-technology-vr/"><u>[Updated] The Next Frontier of Classroom Technology - VR</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-swift-skillz-best-high-speed-games-for-laptopsmobile/"><u>2024 Approved Swift Skillz Best High-Speed Games for Laptops/Mobile</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96317160-9781781801642-angel-prayers/"><u>Angel Prayers | Free Book</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-huawei-p60-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Huawei P60 Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722968455986-how-to-effortlessly-install-latest-canon-driver-software-on-your-windows-machine/"><u>How to Effortlessly Install Latest Canon Driver Software on Your Windows Machine!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-best-fast-photo-viewer-for-windows-10-for-2024/"><u>Top Best Fast Photo Viewer for Windows 10 for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-magix-video-pro-x-capabilities-for-2024/"><u>Unveiling Magix Video Pro X Capabilities for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-complete-selection-of-free-online-meeting-applications/"><u>[New] 2024 Approved The Complete Selection of FREE Online Meeting Applications</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-flawless-endgame-in-vr-worlds/"><u>[New] In 2024, Flawless Endgame in VR Worlds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-summit-series-of-ultimate-4k-touch-screens/"><u>[Updated] Summit Series of Ultimate 4K Touch Screens</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tickler-toolkit-image-mashup/"><u>[Updated] Tickler Toolkit Image Mashup</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-your-gaming-soundscape-ps5-and-ps4-edition/"><u>[Updated] Transform Your Gaming Soundscape PS5 & PS4 Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-online-broadcast-platforms/"><u>2024 Approved Ultimate Online Broadcast Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/2024-youtube/"><u>2024年用: YouTubeコンテンツをメモリースティックにバックアップする専門的な方法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-capability-in-mixing-drinks/"><u>ChatGPT's Capability in Mixing Drinks</u></a></li>
+<li><a href="https://discover-help.techidaily.com/1725288243584-digiartydvd/"><u>Digiarty专用DVD/视频编码器软件 - 高效数字化转换工具</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-apex-of-narrative-content-youtubes-finest-in-23/"><u>In 2024, The Apex of Narrative Content YouTube’s Finest in '23</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-8-selections-of-subtitle-editors-making-srt-on-windowsmac-a-breeze/"><u>In 2024, Top 8 Selections of Subtitle Editors Making SRT on Windows/Mac a Breeze</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/rokus-captioning-troubles-fix-the-problem-with-these-easy-steps/"><u>Roku's Captioning Troubles? Fix the Problem with These Easy Steps!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-ultimate-list-of-66-must-follow-travel-bloggers-on-twitter/"><u>Unveiling the Ultimate List of 66 Must-Follow Travel Bloggers on Twitter</u></a></li>
 </ul></div>
 

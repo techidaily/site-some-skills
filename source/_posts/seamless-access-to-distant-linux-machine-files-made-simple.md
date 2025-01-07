@@ -1,7 +1,7 @@
 ---
 title: Seamless Access to Distant Linux Machine Files Made Simple
-date: 2024-12-25T18:55:54.325Z
-updated: 2024-12-28T16:08:34.989Z
+date: 2025-01-02T01:03:13.174Z
+updated: 2025-01-07T06:01:48.872Z
 tags:
   - desktop
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * SSHFS is ideal for file-level work, especially on headless systems like a Raspberry Pi.
 
  SSHFS lets you browse files on remote Linux PCs as smoothly as if they were on your local computer. It’s a quick and simple way to interact with headless systems like Raspberry Pi.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What is SSHFS?
 
@@ -51,10 +55,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
     
 ![Installing SSHFS on Fedora.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/2-2.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On Manjaro, you’ll use pacman:
 
         `sudo pacman -S sshfs`
@@ -66,6 +66,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
         `sshfs --version`
     
 ![Using the --version option to discover the version of SSHFS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/4-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Making a Remote Connection
 
@@ -79,19 +87,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
     
 ![Creating the mount point directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/5-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Let’s take a look at our new directory.
 
         `ls -hl /media/dave`
     
 ![Using ls to check the attributes of the mount point directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/6-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Our directory has been created, and it is owned by root. That won’t matter though, we’ll have [read and write permissions](https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-13-pro-without-itunes-by-drfone-ios/) on the mounted file system.
 
@@ -100,6 +100,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
         `sudo sshfs -o allow_other,default_permissions dave@net-scan.lan: /media/dave/netscan/`
     
 ![Mounting the remote file system on the local mount point.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/7-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The command consists of:
 
@@ -125,10 +129,6 @@ ls`
     
 ![Listing the contents of the remote file system in a terminal window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/8-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  We can see the home directory of the user account on the remote computer. Any changes you make here are made on the remote drive. Any edits or deletions will affect the remote computer.
 
  We ought to be able to create a new file.
@@ -137,10 +137,6 @@ ls`
 ls -hl new-file.txt`
     
 ![Creating a file in the remote file system and checking its attributes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/9-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Our file is created, and we’re the owner of it. There was no need to use sudo.
 
@@ -153,10 +149,6 @@ ls /home/dave/Downloads/`
     
 ![Copying files from the remote file system to the local file system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/10-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Accessing Files in a File Browser
 
  Because the mounted file system looks and behaves like any other part of your file system’s directory tree, you can use your file browser to navigate it too.
@@ -165,15 +157,23 @@ ls /home/dave/Downloads/`
 
 ![Accessing the remote file system in a file browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/11-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Double-clicking a file opens the application associated with that file type. These actions are carried out by applications on your local computer.
 
 ![Editing a file in the remote file system with a local editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/12-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you edit a document, for example, your default local editor is launched.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Breaking the Connection
 
@@ -204,16 +204,20 @@ ls /home/dave/Downloads/`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-superior-pcs-for-serious-workers/"><u>[New] Superior PCs for Serious Workers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-high-def-capture-top-10-web-based-apps-for-2024/"><u>[Updated] High-Def Capture Top 10 Web-Based Apps for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-mystery-of-off-facebook-activity-what-to-know-and-do/"><u>[Updated] The Mystery of Off-Facebook Activity What to Know & Do</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-30-budget-friendly-after-effects-templates/"><u>[Updated] Top 30 Budget-Friendly After Effects Templates</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-oppo-a59-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Oppo A59 5G Quickly? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-10-innovations-for-text-visualization/"><u>In 2024, Top 10 Innovations for Text Visualization</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-understanding-imovies-editing-edge/"><u>In 2024, Understanding iMovie's Editing Edge</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/samsung-galaxy-watch-active-2-unveiled-superior-connectivity-precision-controls-and-innovative-insight-features/"><u>Samsung Galaxy Watch Active 2 Unveiled: Superior Connectivity, Precision Controls & Innovative Insight Features</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-art-of-gaming-pcs-a-detailed-review-of-corsair-one-pro-efficiency-and-innovation/"><u>The Art of Gaming PCs - A Detailed Review of Corsair One Pro Efficiency and Innovation</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-samsung-galaxy-f14-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Samsung Galaxy F14 5G FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://driver-download.techidaily.com/updated-epson-wf-n3620-printer-drivers-available-now-compatible-with-windows-10-8-and-7/"><u>Updated Epson WF-N3620 Printer Drivers Available Now: Compatible with Windows 10, 8 & 7</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tips-for-applying-luts-in-film-color-grading/"><u>[New] Tips for Applying LUTs in Film Color Grading</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-words-full-potential-with-easy-speech-to-text-features/"><u>[New] Unlock Word's Full Potential with Easy Speech-to-Text Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-monitor-guide-transform-your-xbox-series-x-experience-today/"><u>[Updated] The Ultimate Monitor Guide Transform Your Xbox Series X Experience Today</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-how-to-use-zoom-to-stream-facebook-live/"><u>2024 Approved How to Use Zoom to Stream Facebook Live</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-summit-creation-pro-x-evaluation/"><u>2024 Approved Summit Creation Pro X Evaluation</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-top-5-3d-intro-makers-for-youtube-videos/"><u>2024 Approved Top 5 3D Intro Makers for YouTube Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-selections-premium-webcam-platforms/"><u>2024 Approved Ultimate Selections Premium Webcam Platforms</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-vivo-s17-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Vivo S17 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquer-far-cry-cu6-black-screen-glitch-steps-to-a-flawless-gameplay-experience/"><u>Conquer Far Cry Cu6 Black Screen Glitch: Steps to a Flawless Gameplay Experience</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-nokia-c12-plus-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Nokia C12 Plus</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-oneplus-12r-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your OnePlus 12R Phone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Tecno Pova 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-10-free-quicktime-editors-to-edit-mov-files-with-ease/"><u>New In 2024, 10 Free QuickTime Editors to Edit MOV Files with Ease</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transforming-everyday-alerts-how-to-create-customizable-tones-on-android-phones-for-2024/"><u>Transforming Everyday Alerts How to Create Customizable Tones on Android Phones for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unboxing-and-testing-the-msi-power-supply-unit-psu-model-mpg-a10-expert-analysis-and-review/"><u>Unboxing & Testing the MSI Power Supply Unit (PSU) Model MPG A10# - Expert Analysis and Review</u></a></li>
 </ul></div>
 

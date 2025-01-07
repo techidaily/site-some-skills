@@ -1,7 +1,7 @@
 ---
 title: 12 Surprising Tricks You Never Knew About Using Preview on Your Mac
-date: 2024-12-22T19:41:45.104Z
-updated: 2024-12-28T20:41:02.235Z
+date: 2025-01-05T17:14:48.985Z
+updated: 2025-01-06T16:49:32.423Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## 12 Surprising Tricks You Never Knew About Using Preview on Your Mac
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -47,11 +43,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Resize and move objects pasted into an image in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/resize-and-move-objects-pasted-into-an-image-in-preview.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Remove the Background From an Image
@@ -72,11 +64,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Copy Subejct option in Preview in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-copy-subejct-option-in-preview-in-macos.jpeg) 
 
- The subject will be copied to your clipboard so that you can paste it into another app. Alternatively, go to File > New from Clipboard to create a new image.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ The subject will be copied to your clipboard so that you can paste it into another app. Alternatively, go to File > New from Clipboard to create a new image.
 
 ##  Undo All Your Edits
 
@@ -85,6 +77,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Go to File > Revert To > Browse All Versions and you can see all the previous saves you've made. Click "Restore" when you find the one you want. You can go all the way back to the original image if you need to.
 
 ![Revert to an earlier saved version of an image in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/revert-to-an-earlier-saved-version-of-an-image-in-preview.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Copy Text, Links, Numbers, and More
 
@@ -96,6 +92,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Select text in an image in Preview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/select-text-in-an-image-in-preview.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Scan Documents
 
  Setting up and using scanners can be a bit of a pain, but Preview makes it easy on a Mac. You don't need any extra software to use your scanner with macOS—you can do it all in Preview.
@@ -103,10 +107,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If you have a scanner connected over Wi-Fi, just go to File > Import From and click the scanner name. Select "Show Details" to get a quick preview scan, then adjust any settings you need and click "Scan" to save the image.
 
 ![The Scan settings in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-scan-settings-in-preview.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Identify Objects in Photos
 
@@ -120,6 +120,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 Close 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Display Photos in a Slideshow
 
  We've all got large numbers of photos that we never look at. Preview's handy slideshow feature lets you quickly load them up and browse through them all. Just open a folder of images, go to View > Slideshow, then click the Play button to get started.
@@ -127,7 +131,7 @@ Close
 ![View images in the slideshow in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/view-images-in-the-slideshow-in-preview.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Create and Encrypt PDFs
@@ -148,13 +152,13 @@ Close
 
 ![Delete a page from a PDF in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/delete-a-page-from-a-pdf-in-preview.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  For further edits, click the "Show Markup Toolbar" button in the toolbar. Here, you have several tools for editing and annotating your PDFs.
 
 ![The Show Markup Toolbar button in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-show-markup-toolbar-button-in-preview.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To [redact information from a file](https://extra-support.techidaily.com/2024-approved-steps-for-writing-engaging-video-blogging-content/), click the Redact button and highlight the words, sentences, or paragraphs that you want to remove. Note that this is permanent and cannot be undone once you've saved your changes.
 
@@ -164,19 +168,15 @@ Close
 
 ![Setting to show how to create a signature in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/setting-to-show-how-to-create-a-signature-in-preview.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can add a note to a document for comments, reminders about things to check, and so on. Click the Note button to do this. You can add multiple notes and drag them to any position on the document.
 
 ![Add post it notes to a PDF file in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/add-post-it-notes-to-a-pdf-file-in-preview.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also annotate the PDF in the usual ways by drawing, adding text boxes, adding shapes, and so on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Save Frames From GIFs
 
@@ -185,7 +185,7 @@ Close
 ![Save a frame from a GIF in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/save-a-frame-from-a-gif-in-preview.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Batch Convert Images
@@ -221,18 +221,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-step-by-step-for-classic-film-aesthetics/"><u>[New] In 2024, Step-by-Step for Classic Film Aesthetics</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-streamline-your-workflow-with-ez-grabber/"><u>[New] In 2024, Streamline Your Workflow with EZ Grabber</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-uncover-5-powerful-speech-recognition-tools-for-your-mac/"><u>[Updated] Uncover 5 Powerful Speech Recognition Tools for Your Mac</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-trendsetters-pictures-origins-explored/"><u>2024 Approved Trendsetters' Pictures Origins Explored</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/5-solutions-for-vivo-y56-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Vivo Y56 5G Unlock Without Password</u></a></li>
-<li><a href="https://some-skills.techidaily.com/how-to-get-more-likes-on-your-tiktok-unboxing-video-in-2024/"><u>How to Get More Likes on Your TikTok Unboxing Video, In 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-can-instagrams-video-selfies-be-trusted/"><u>In 2024, Can Instagram's Video Selfies Be Trusted?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-exclusive-list-of-top-web-based-sound-capturers-2023/"><u>In 2024, Exclusive List of Top Web-Based Sound Capturers 2023</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-xiaomi-redmi-a2plus-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Xiaomi Redmi A2+</u></a></li>
-<li><a href="https://discover-best.techidaily.com/the-historical-journey-toward-founding-the-peoples-republic-of-china-insights-from-yl-computing-and-yl-software/"><u>The Historical Journey Toward Founding the People's Republic of China: Insights From YL Computing and YL Software</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-guide-pro-tiktok-editing-techniques-for-2024/"><u>Ultimate Guide Pro TikTok Editing Techniques for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-explore-our-picks-of-budget-friendly-and-high-quality-video-viewing-tools-pcmobile/"><u>[New] Explore Our Picks of Budget-Friendly and High-Quality Video Viewing Tools (PC/Mobile)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-ultimate-guide-premium-plugins-boosting-ae-projects/"><u>[New] In 2024, Ultimate Guide Premium Plugins Boosting AE Projects</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-nikon-d500-at-a-glance-the-frontiers-of-4k-hd/"><u>[New] Nikon D500 at a Glance The Frontiers of 4K HD</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essential-manual-on-motion-detection-techniques/"><u>[New] The Essential Manual on Motion Detection Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-captioning-images-with-text/"><u>[Updated] The Art of Captioning Images with Text</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-drone-photographers-stabilization-companion/"><u>[Updated] The Drone Photographer's Stabilization Companion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-gopro-cinematography-luts-15-best/"><u>2024 Approved The Ultimate Guide to GoPro Cinematography LUTs (15 Best)</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/windowsmac/"><u>步驟與技巧：在Windows/Mac上進行系統回復和重建</u></a></li>
+<li><a href="https://article-posts.techidaily.com/master-your-own-passport-photos-with-these-10-tools/"><u>Master Your Own Passport Photos with These 10 Tools</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-iphone-11-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab iPhone 11 Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-vivo-y100i-power-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Vivo Y100i Power 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-guide-to-iphones-video-length-tailoring-for-2024/"><u>Ultimate Guide to iPhone's Video Length Tailoring for 2024</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/movavi-au-wmv/"><u>オンラインで簡単にセットアップ！ - Movavi AU WMVフリー変換サービス</u></a></li>
 </ul></div>
 

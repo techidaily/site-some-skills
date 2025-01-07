@@ -1,7 +1,7 @@
 ---
 title: Discover Perplexity – The Unique AI Chatbot Worth Paying For
-date: 2024-12-22T20:48:13.424Z
-updated: 2024-12-28T20:35:33.622Z
+date: 2025-01-02T23:38:30.768Z
+updated: 2025-01-07T09:42:25.826Z
 tags:
   - cutting-edge
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Discover Perplexity – The Unique AI Chatbot Worth Paying For
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -30,17 +26,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Choosing AI Models In Perplexity](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1-choosing-ai-models-in-perplexity.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  For image generation, you have access to [DALL-E 3](https://some-skills.techidaily.com/tailored-titling-for-stellar-online-video-content-for-2024/), which is the same model ChatGPT uses to generate images. You can also change that to Playground 2.5 or [Stable Diffusion XL](https://games-able.techidaily.com/pro-tips-amassing-steams-best-free-gaming-treasures/). I find Stable Diffusion XL‘s output more satisfying.
 
 ![Choosing AI Image Generation Models in Perplexity](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-choosing-ai-image-generation-models-in-perplexity.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Also, Perplexity constantly updates its model library, so you’ll always have access to the latest and greatest options.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  More Models in Perplexity Playground
@@ -50,7 +50,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Perplexity Playground Option from Footer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-perplexity-playground-option-from-footer.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Playground allows you to test a wider array of AI models and compare their performance. You can start a conversation with one model and switch to another midway through.
@@ -63,13 +63,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Perplexity Pro Search Limit and Other Pro Features](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/4-perplexity-pro-search-limit-and-other-pro-features.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Pro Search](https://screen-sharing-recording.techidaily.com/new-step-by-step-guide-to-recording-on-your-macbook/) is a unique feature in Perplexity that analyzes the intent of your question to provide an optimized answer.
 
  Perplexity’s cap is much more practical because, when using AI for research or ideation, the conversation thread can get quite long—typically 120-150 messages. Perplexity can handle this in one session, whereas other chatbots might require breaks, disrupting your workflow. Also, you still have 150 messages left with Perplexity for the rest of the day, which is enough for casual web searches and questions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Seamlessly Switch Between Web Search and Chatbot Mode
 
@@ -78,6 +78,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To do this, click on Focus>Writing before asking Perplexity a question. This disables internet access and lets you interact directly with the AI model without it pulling data from the internet. This flexibility makes Perplexity an excellent tool for both web searches and pure AI chatbot interactions.
 
 ![Perplexity Switch to Writing Mode, No Internet Access](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/5-perplexity-switch-to-writing-mode-no-internet-access.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Perplexity Gives Internet Access to Claude and All Supported Models
 
@@ -90,10 +94,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  At the time of writing, none of the major AI chatbots, be it ChatGPT, Claude, Google’s Gemini, or Microsoft’s Copilot, offer a way to search through your chat history. So, if you have a conversation on the chatbot about something, there’s no easy way to find that discussion other than manually browsing through your entire chat history. As you can imagine, this is a huge waste of time!
 
 ![Search Through All Perplexity Threads Inside The Library](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/6-search-through-all-perplexity-threads-inside-the-library.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Perplexity saves all chats (which it calls "Threads") inside its Library. From here you can use the search bar to browse through old threads. However, the main feature I want to spotlight is Collections. It helps you organize and group all your threads, making them easier to find when you need them.
 
@@ -140,21 +140,18 @@ Dibakar Ghosh | How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-navigating-fb-video-aspects-ratios-explained/"><u>[New] In 2024, Navigating FB Video Aspects Ratios Explained</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-benefits-of-high-dynamic-range-in-professional-videography/"><u>[New] The Benefits of High Dynamic Range in Professional Videography</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-city-escapades-games-paralleling-gta-v-adventure/"><u>[Updated] In 2024, City Escapades Games Paralleling GTA V Adventure</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-fixes-for-missing-bluetooth-in-windows-10-step-by-step-guide/"><u>Easy Fixes for Missing Bluetooth in Windows 10 – Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/get-latest-drivers-u-are-u-fp-scanner-v45-download/"><u>Get Latest Drivers: U-Are-U FP Scanner v4.5 Download</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-gt-3-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme GT 3 to Outlook | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-testimonial-toolkit-for-effective-promotion/"><u>In 2024, The Testimonial Toolkit for Effective Promotion</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-steadicams-to-elevate-your-dslr-filming-capabilities/"><u>In 2024, Top Steadicams to Elevate Your DSLR Filming Capabilities</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-animation-styles-pack/"><u>In 2024, Ultimate Animation Styles Pack</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unmarred-stock-images-legal-and-ethical-tips/"><u>In 2024, Unmarred Stock Images Legal & Ethical Tips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-imovies-inherent-cropping-rules/"><u>In 2024, Unveiling iMovie's Inherent Cropping Rules</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-elite-selection-of-wireless-routers-perfect-for-traveling/"><u>The Elite Selection of Wireless Routers Perfect for Traveling</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-insiders-guide-to-finesse-and-control-on-insta-stories-for-2024/"><u>The Insider's Guide to Finesse and Control on Insta Stories for 2024</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/top-free-tools-ultimate-usb-data-retrieval-apps-compatible-with-windows-11/"><u>Top Free Tools: Ultimate USB Data Retrieval Apps Compatible with Windows 11</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/troubleshooting-printer-issues-post-windows-11-update-expert-advice-from-yl-computing/"><u>Troubleshooting Printer Issues Post-Windows 11 Update: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/updated-drivers-available-now-enhance-your-tp-link-ac-adapter-performance-in-windows-7-to-11/"><u>Updated Drivers Available Now: Enhance Your TP-Link Ac Adapter Performance in Windows 7 to 11</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-uncover-8-effective-youtube-promotion-methods/"><u>[New] In 2024, Uncover 8 Effective YouTube Promotion Methods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unmatched-mounting-best-tripod-solutions-for-smartphones/"><u>[New] Unmatched Mounting Best Tripod Solutions for Smartphones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-magix-video-mastery/"><u>[New] Unveiling MAGIX Video Mastery</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-achieve-peak-meeting-performance-a-detailed-zoom-guide-for-2024/"><u>[Updated] Achieve Peak Meeting Performance A Detailed Zoom Guide for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-navigating-through-time-with-historical-fb-features-device-guide-for-2024/"><u>[Updated] Navigating Through Time with Historical FB Features Device Guide for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-download-of-m-audio-fast-track-drivers-suitable-for-windows-1078-and-81-users/"><u>Easy Download of M-Audio Fast Track Drivers Suitable for Windows 10/7/8 & 8.1 Users</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-y200-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo Y200 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-swift-image-adaptation-techniques-for-iphone-users/"><u>In 2024, Swift Image Adaptation Techniques for iPhone Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-futures-in-your-hands-with-powerdirector-24-unleashed/"><u>In 2024, The Future's in Your Hands with PowerDirector '24 Unleashed</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210909710-9781088200025-participar-en-una-conversacion-intima-con-dios-dios-esta-ansioso-de-comprometerte/"><u>Participar en una conversación íntima con Dios Dios está ANSIOSO de COMPROMETERTE | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-the-perplexing-problem-of-borderlands-3-freezing-comprehensive-guide/"><u>Troubleshooting the Perplexing Problem of Borderlands 3 Freezing - Comprehensive Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-apple-podcast-submission-process-for-2024/"><u>Unveiling the Apple Podcast Submission Process for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-data-science-is-americas-most-alluring-career-and-why-people-arent-heeding-its-call-zdnet/"><u>Why Data Science Is America's Most Alluring Career and Why People Aren't Heeding Its Call | ZDNet</u></a></li>
 </ul></div>
 

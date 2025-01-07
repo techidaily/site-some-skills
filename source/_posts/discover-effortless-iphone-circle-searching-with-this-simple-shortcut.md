@@ -1,7 +1,7 @@
 ---
 title: Discover Effortless iPhone Circle Searching with This Simple Shortcut
-date: 2024-12-27T20:26:27.360Z
-updated: 2024-12-28T19:31:17.919Z
+date: 2025-01-01T23:26:33.380Z
+updated: 2025-01-06T21:22:11.827Z
 tags:
   - mobile
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Discover Effortless iPhone Circle Searching with This Simple Shortcut
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -32,7 +36,7 @@ Justin Duino / How-To Geek
  But that doesn't stop geeks from devising workarounds, right? Although Circle to Search isn't officially available on iOS, here's a quick little hack that combines the Back Tap gesture, [Google Lens visual search](https://facebook-clips.techidaily.com/new-music-syncing-for-iphones-and-androids-in-fb/), and the iPhone's Shortcuts app, mimicking how Circle to Search works on Android phones.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Get Circle to Search Functionality on Your iPhone
@@ -41,16 +45,12 @@ Justin Duino / How-To Geek
 
 ![Screenshot of the Google app for iPhone for App Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-3.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Open the [iPhone's Shortcuts app](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) and hit the "+" plus icon in the top right corner.
 
 ![Screenshot of the iPhone's Shortcuts app highlighting the option to add a shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-3.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Tap on "Add Action."
@@ -69,15 +69,15 @@ Justin Duino / How-To Geek
 
 ![Screenshot of iPhone's Shortcut app highlighting the Done option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, we need to link this shortcut to the Back Tap gesture or Action Button on certain iPhone models. Since I use an iPhone 13, I'll use [the Back Tap accessibility feature](https://ai-live-streaming.techidaily.com/updated-in-2024-10-free-football-streaming-sites-to-bookmark/) to trigger the shortcut we've just created.
 
  Head to Settings > Accessibility > Touch, and select "Back Tap."
 
 ![Screenshot of the Back Tap option in iPhone's Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/8-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Choose whether you want to trigger the shortcut from a double or triple tap. I'm going with double tap.
 
@@ -88,7 +88,7 @@ Justin Duino / How-To Geek
 ![Search Image with Lens in iPhone's Back Tap menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/10.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use Back Tap to Invoke Google Lens' Visual Search
@@ -120,21 +120,17 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ssential-tips-on-calculating-your-youtube-traffic-and-earnings-for-2024/"><u>[New] Essential Tips on Calculating Your YouTube Traffic & Earnings for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/astering-video-edits-post-upload-techniques/"><u>[New] Mastering Video Edits Post-Upload Techniques</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-no-8-advanced-online-photographic-merge-suite/"><u>[New] No. 8 Advanced Online Photographic Merge Suite</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-for-streamlining-iphone-video-content/"><u>[New] The Ultimate Guide for Streamlining iPhone Video Content</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-selecting-and-using-b-roll-in-productions/"><u>2024 Approved The Art of Selecting and Using B-Roll in Productions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-your-creativity-with-personalized-filters-and-melodies-windows-10-photos/"><u>2024 Approved Unleash Your Creativity with Personalized Filters and Melodies (Windows 10 Photos)</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-harmonious-hues-photographic-pieces-of-lifes-palette/"><u>In 2024, Harmonious Hues Photographic Pieces of Life's Palette</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-understanding-the-quantum-leap-hdr-innovations/"><u>In 2024, Understanding the Quantum Leap HDR Innovations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleash-your-time-potential-with-gratuitous-clock-tools/"><u>In 2024, Unleash Your Time Potential with Gratuitous Clock Tools</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/productivity-powerhouses-chatgpts-top-10-pdf-plugins/"><u>Productivity Powerhouses: ChatGPT's Top 10 PDF Plugins</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-fastest-route-for-srt-to-text-file-conversion-for-2024/"><u>The Fastest Route for SRT to Text File Conversion for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-low-light-guru-writes-for-iphone-users-for-2024/"><u>The Low Light Guru' Writes for iPhone Users for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/the-ultimate-vision-quest-samsung-galaxy-s8s-4k-prowess/"><u>The Ultimate Vision Quest Samsung Galaxy S8's 4K Prowess</u></a></li>
-<li><a href="https://win-lab.techidaily.com/unveiling-ai-advancements-sam-altman-talks-post-build-plans-with-microsoft-latest-news-on-zdnet/"><u>Unveiling AI Advancements: Sam Altman Talks Post-Build Plans with Microsoft | Latest News on ZDNET</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-virtual-world-cinema-lineup/"><u>[New] Ultimate Virtual World Cinema Lineup</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamline-multitasking-switch-between-pip-and-normal-screen-mode-ios/"><u>[Updated] Streamline Multitasking Switch Between PIP and Normal Screen Mode (iOS)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-turbocharged-titans-compile-the-finest-srt-enhancements-for-pcs-and-macs/"><u>[Updated] Turbocharged Titans Compile the Finest SRT Enhancements for PCs & Macs</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/cookiebot-driven-solutions-enhance-your-sites-user-engagement/"><u>Cookiebot Driven Solutions: Enhance Your Site's User Engagement</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-building-a-brand-on-youtube-navigating-through-top-video-marketing-methods/"><u>In 2024, Building a Brand on YouTube Navigating Through Top Video Marketing Methods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/live-stream-on-youtube-without-1000-subscribers-on-a-mobile-for-2024/"><u>Live Stream on YouTube without 1000 Subscribers on a Mobile for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/movavi-video-editor-en-vente-paiements-securises-and-reductions-exceptionnelles-pour-votre-edition-video-facile/"><u>Movavi Video Editor en Vente : Paiements Sécurisés & Réductions Exceptionnelles Pour Votre Édition Vidéo Facile!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-50-must-try-virtual-bikes-for-riders-for-2024/"><u>The 50 Must-Try Virtual Bikes for Riders for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-ideas-into-impactful-podcast-content-writing-tips-and-samples-for-2024/"><u>Transform Your Ideas Into Impactful Podcast Content Writing Tips & Samples for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-why-valheim-fails-to-open-and-how-to-fix-it/"><u>Troubleshooting Guide: Why Valheim Fails to Open and How to Fix It</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unboxed-talent-the-breakout-females-dominating-youtube-for-2024/"><u>Unboxed Talent The Breakout Females Dominating YouTube for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-solutions-for-common-final-cut-pro-x-crash-problems/"><u>Updated In 2024, Solutions for Common Final Cut Pro X Crash Problems</u></a></li>
 </ul></div>
 

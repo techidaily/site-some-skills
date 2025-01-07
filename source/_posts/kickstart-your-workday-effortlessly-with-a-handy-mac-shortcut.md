@@ -1,7 +1,7 @@
 ---
 title: Kickstart Your Workday Effortlessly with a Handy Mac Shortcut!
-date: 2024-12-21T18:41:11.488Z
-updated: 2024-12-28T17:00:34.227Z
+date: 2025-01-04T11:04:39.111Z
+updated: 2025-01-07T05:10:43.300Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Kickstart Your Workday Effortlessly with a Handy Mac Shortcut!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -24,7 +24,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  I’ve played around with [Apple’s Shortcuts app](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) to create all kinds of complicated processes. But my favorite shortcut, and the one I use the most by far, is actually ridiculously simple. All it does is open all my work apps, but I recommend it to everyone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Makes This Shortcut So Great
@@ -42,7 +42,7 @@ Your browser does not support the video tag.
  But enough waxing lyrical about why I love this shortcut, here’s how to try it for yourself. Honestly, it couldn’t be easier.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Create a Shortcut That Opens All Your Work Apps
@@ -62,7 +62,7 @@ Close
 ![Several actions to open apps in a Mac Shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/several-actions-to-open-apps-in-a-mac-shortcut.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  At the top of the Shortcuts window, type a name for your shortcut. I call mine “Start Working.” Then click the icon to edit the color and symbol if you want. Finally, click the Shortcut Details button in the top-right corner, shown by an “i” button, to choose how to launch this shortcut. I like to enable“Pin to Menu Bar” so I can run it from the menu bar with a couple of clicks, but you could create a keyboard shortcut if you prefer.
@@ -90,14 +90,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-selections-top-rated-webcam-platforms/"><u>[New] Ultimate Selections Top-Rated Webcam Platforms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bypassing-sims-joining-gpt-and-telegram-with-ease/"><u>Bypassing SIMs: Joining GPT and Telegram with Ease</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/framing-frontiers-cutting-edge-app-innovations-24-for-2024/"><u>Framing Frontiers Cutting-Edge App Innovations '24 for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-repair-non-functioning-xbox-series-x-and-s-headset-a-step-by-step-fix/"><u>How To Repair Non-Functioning Xbox Series X & S Headset - A Step By Step Fix</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-essence-of-the-apple-m1-a-technological-marvel/"><u>In 2024, The Essence of the Apple M1 A Technological Marvel</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tips-for-iphone-users-converting-standard-speed-to-slow-scenes/"><u>In 2024, Tips for iPhone Users Converting Standard Speed to Slow Scenes</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-powerhouse-of-social-media-an-in-depth-look-at-facebook-twitter-instagram-and-youtube/"><u>The Powerhouse of Social Media: An In-Depth Look at Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unraveling-asmr-for-mental-and-physical-health-for-2024/"><u>Unraveling ASMR for Mental and Physical Health for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/your-ultimate-guide-to-downloading-thrones-tunes-online-for-2024/"><u>Your Ultimate Guide to Downloading Thrones Tunes Online for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-beat-matching-visuals-and-audio-on-facebook-platform/"><u>[New] In 2024, Beat-Matching Visuals & Audio on Facebook Platform</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-blueprint-to-dominate-social-platforms/"><u>[Updated] The Blueprint to Dominate Social Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tips-for-dimming-windows-and-mac-music-volume/"><u>[Updated] Tips for Dimming Windows & Mac Music Volume</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/finalcut-pro-elevating-your-youtube-edits-from-good-to-great/"><u>FinalCut Pro Elevating Your YouTube Edits From Good to Great</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-7-plus-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 7 Plus? Learn All 4 Methods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tiny-screenplay-scheme/"><u>In 2024, Tiny Screenplay Scheme</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-secrets-of-crafting-perfect-audio-for-videos/"><u>In 2024, Unveiling the Secrets of Crafting Perfect Audio for Videos</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-oppo-k11-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Oppo K11 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/steps-for-updating-your-microsoft-mouse-drivers-on-a-windows-pc/"><u>Steps for Updating Your Microsoft Mouse Drivers on a Windows PC</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-new-apple-tv-4k-3rd-generation/"><u>The Ultimate Guide to the New Apple TV 4K (3Rd Generation)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-5-apps-to-stream-your-favorite-podcasts-on-iphone-for-2024/"><u>Top 5 Apps to Stream Your Favorite Podcasts on iPhone for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-palworld-overcoming-eos-account-login-issues-with-top-6-solutions/"><u>Troubleshooting PalWorld: Overcoming EOS Account Login Issues with Top 6 Solutions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-top-10-live-streaming-hubs-for-2024/"><u>Unveiling the Top 10 Live Streaming Hubs for 2024</u></a></li>
 </ul></div>
 

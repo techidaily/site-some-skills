@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Installing and Configuring Windows 11 with Alternative Login Options"
-date: 2024-12-24T17:39:06.555Z
-updated: 2024-12-28T16:02:43.503Z
+date: 2025-01-01T17:45:19.170Z
+updated: 2025-01-07T03:29:32.097Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 ---
 
 ## Step-by-Step Guide: Installing and Configuring Windows 11 with Alternative Login Options
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -23,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
  Windows 11 normally requires a Microsoft account when you set it up, but you can bypass Microsoft account creation and use a local account instead. Here's how to set up Windows 11 without a Microsoft account or convert an existing Microsoft account to a local account.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Can You Skip Microsoft Account Creation During Windows 11 Setup?
@@ -33,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 [Windows 10 lets you use a local account](https://common-error.techidaily.com/step-by-step-tutorial-resolving-minecraft-peer-to-peer-network-issues-for-seamless-play/) if you disconnect from the internet. The latest version of Windows 11, however, will not—if you try the same trick, you'll just get an error message. Even the Professional version of Windows 11 [now requires a Microsoft account](https://some-skills.techidaily.com/new-10-missing-iphone-x-tips-and-tricks-for-you-to-pick-up/).
 
 ![The &quot;No Internet&quot; error message the Windows 11 installer gives you.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/Error-disconnecting.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There are a few tricks to try, but Windows is wise to many of these. The first involves cutting off your internet connection when you're prompted to add a Microsoft account. This involves either pulling out your Ethernet cable (if you use one) or hitting Shift+F10 and typing **ipconfig /release** followed by Enter. Hit the "back" arrow to go back one step and create a local username and password then complete the setup as normal.
 
@@ -62,10 +70,6 @@ Close
 
  Click "Continue with limited setup" on the next page if it appears, and then you'll be able to create a local account with a password and three security questions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Install Windows 11 Without a Microsoft Account Using Rufus
 
 [Rufus](https://rufus.ie/en/) is a tool that can create bootable media from an ISO. It does everything the Windows Media Creation tool does, except it has additional options and works with [almost any operating system out there](https://instagram-video-files.techidaily.com/updated-elevate-your-instagram-game-with-pro-edit-techniques/).
@@ -84,6 +88,10 @@ Close
 
 ![Downloading the latest Windows 11 ISO for all versions of Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/download-the-windows-11-iso.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Using Rufus to create a bootable USB drive will completely erase the contents of that drive. Make sure you save any important files on it before you proceed.
 
  Open Rufus after the Windows 11 ISO has finished downloading, click "Select," then navigate to [wherever you saved it](https://buynow-info.techidaily.com/hp-stream-14-analysis-affordable-windows-laptop-with-trade-offs-explored/). If you're using an external SSD as your bootable media, you'll need to tick "List USB Hard Drives" first. Rufus will handle most of the important options, like the [partition scheme](https://instagram-videos.techidaily.com/2024-approved-exclusive-guide-ranking-most-effective-ig-money-makers/) and [file system](https://on-screen-recording.techidaily.com/new-in-2024-streamline-your-filming-process-the-ultimate-logitech-camera-tutorials/), automatically; you don't need to worry about them. Just click "Start."
@@ -97,7 +105,7 @@ Close
 ![Disabling the Microsoft Account requirement via Rufus.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/disable-online-acct.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After that you just need to wait for Rufus to actually make the bootable media. It will take a few minutes at least, especially if you're using an older flash drive.
@@ -126,10 +134,6 @@ Close
 
  The account will now be added to your computer. Click on Start followed by your username then select "Sign out" to log in to the account.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Convert an Existing Microsoft Account to a Local Account
 
  The easy workaround using Rufus to install Windows 11 without a Microsoft account only appeared a few months prior to the release of [Windows 11's 2022 Update](https://tech-renaissance.techidaily.com/watch-your-favorite-shows-on-hulu-with-this-simple-setup-for-lg-tvs/), so most people currently using Windows 11 will have Microsoft logins.
@@ -140,13 +144,13 @@ Close
 
 ![Select 'Accounts,' then scroll down until you see 'Your Info.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/accounts-your-info.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Scroll towards the bottom and click "Sign In With A Local Account Instead." If you get a huge popup warning you about backing up your BitLocker key,**_do not ignore it_.** Your drive is encrypted, and if something happens, you could lose access to all of your files without the recovery key. Make sure you [back up your BitLocker encryption key](https://instagram-clips.techidaily.com/2024-approved-engaging-users-with-instagrams-interactive-survey-feature/) before proceeding, then click through the next few prompts. You may need to pick a username, password, and password hint, then go to the next page and click "Sign Out And Finish."
 
 ![The popup to switch to a local account on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/switching-to-local.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You should probably restart your PC even after you sign out just to fix any weird bugs that crop up. You also need to be careful now. Your account is a local-only account, which means that Microsoft won't be able to help you regain access if you forget something.
 
@@ -161,10 +165,6 @@ Close
  Next to "Account Options" click "Change account type" and a new window will appear. In this window, change account type to "Administrator" and then click OK.
 
 ![Changing the account type from standard to administrator.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/change-accont-type.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can now log in to the other (local) account that you have created. Head to Settings > Accounts > Other users, select the (Microsoft) account you want to remove, and click "Remove" next to the "Account and data" field.
 
@@ -191,16 +191,14 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-why-trust-matters-more-than-just-numbers-on-feeds/"><u>[New] 2024 Approved Why Trust Matters More Than Just Numbers on Feeds</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/aunching-success-on-youtube-tutorial-with-two-strategies/"><u>[New] Launching Success on YouTube Tutorial with Two Strategies</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-synthizing-screenshots-and-slides-seamlessly/"><u>[New] Synthizing Screenshots & Slides Seamlessly</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-tips-for-sharpened-scene-during-google-meet-calls/"><u>[New] Tips for Sharpened Scene During Google Meet Calls</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-redefine-your-viewing-habits-6-leading-cost-free-video-downloaders-for-youtube-shorts/"><u>[Updated] Redefine Your Viewing Habits 6 Leading, Cost-Free Video Downloaders for YouTube Shorts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/elevating-developer-proficiency-through-github-copilot-the-synergy-of-productivity-and-patience-in-tech-innovation-zdnet/"><u>Elevating Developer Proficiency Through GitHub Copilot: The Synergy of Productivity and Patience in Tech Innovation | ZDNET</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Xiaomi Redmi Note 12T Pro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-social-media-success-a-comprehensive-10-step-plan/"><u>In 2024, Unlock Social Media Success A Comprehensive 10-Step Plan</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/reduction-de-taille-video-pour-whatsapp-avec-qualite-optimale-guide-ultime-du-telechargement-winxdvd/"><u>Réduction De Taille Vidéo Pour WhatsApp Avec Qualité Optimale : Guide Ultime Du Téléchargement WinXDVD</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-crashes-in-the-lost-ark-pc-gaming-experience/"><u>Resolving Crashes in the Lost Ark PC Gaming Experience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-most-economical-cloud-stores-for-2024/"><u>Unveiling the Most Economical Cloud Stores for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-top-8-converter-list-for-sub-to-srt/"><u>[New] Ultimate Top 8 Converter List for Sub to SRT</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-memes-9-essential-elements-for-gif-perfection/"><u>2024 Approved The Art of Memes 9 Essential Elements for GIF Perfection</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/beyond-imagination-vrs-present-future-prospects/"><u>Beyond Imagination VR's Present, Future Prospects</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/get-the-lowdown-on-amazfit-helio-ring-cost-analysis-release-schedule-and-in-depth-spec-sheet-reviewed/"><u>Get the Lowdown on Amazfit Helio Ring: Cost Analysis, Release Schedule & In-Depth Spec Sheet Reviewed</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-list-of-viral-stock-images-and-stories/"><u>In 2024, The Ultimate List of Viral Stock Images & Stories</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-vlogging-battle-gopro-hero5-black-vs-sessions/"><u>In 2024, The Ultimate Vlogging Battle GoPro Hero5 Black VS Sessions</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-visual-vocabulary-expansion-apps-for-crafting-text-on-images/"><u>In 2024, Visual Vocabulary Expansion Apps for Crafting Text on Images</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725290460767-mp4mp3/"><u>MP4ファイルを簡単にMP3に変換！安心で最高のオンラインサービスリスト</u></a></li>
 </ul></div>
 

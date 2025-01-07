@@ -1,7 +1,7 @@
 ---
 title: "Tech Update: Anticipating the Latest Features of New Devices by Google & Samsung - A Weekly Overview"
-date: 2024-12-22T17:58:01.574Z
-updated: 2024-12-28T18:52:33.691Z
+date: 2025-01-01T21:29:46.934Z
+updated: 2025-01-06T19:24:47.461Z
 tags:
   - desktop
 categories:
@@ -13,11 +13,11 @@ thumbnail: https://thmb.techidaily.com/bc4c1fafbeb0a4b8e3066f1ca761f451b6c08fbe8
 
 This was a surprisingly busy week for tech news, with announcements for Google and Samsung’s next hardware events, and a whole lot of software updates. Here are the biggest stories you might have missed.
 
-##  The Big News
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+##  The Big News
 
 ### [You Can Now Add Checkboxes in Microsoft Excel](https://screen-capture.techidaily.com/new-become-a-pro-at-setting-up-vrecorder-fast/) 
 
@@ -28,7 +28,7 @@ This was a surprisingly busy week for tech news, with announcements for Google a
  Third-party components will no longer disable True Tone or battery health.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Steam Can Now Screen Record Your Games](https://techtrends.techidaily.com/explore-66-premier-twitter-profiles-offering-unbeatable-travel-advice-offers-and-epic-adventures/) 
@@ -40,7 +40,7 @@ This was a surprisingly busy week for tech news, with announcements for Google a
 Valve
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Samsung's New Foldables Are Coming July 10th](https://on-screen-recording.techidaily.com/2024-approved-the-elite-selection-of-top-12-tycoons-perfect-for-strategic-souls/) 
@@ -55,10 +55,6 @@ Valve
 
  Finally, a Start menu change that makes sense.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [The ChatGPT Desktop App Is Now Available to Free Users](https://video-capture.techidaily.com/updated-audiopiece-recorder-guide-installation-and-test/) 
 
  The official ChatGPT desktop application doesn’t need a Plus subscription anymore, but the app is still limited to macOS.
@@ -69,19 +65,23 @@ Valve
 
 ![The Moto Tag attached to a handbag.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/66.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Motorola
 
 ### [Google's Pixel 9 is Coming August 13th](https://facebook-clips.techidaily.com/updated-fb-video-extraction-creating-mp3s-in-minutes/) 
 
  Google's next hardware event is nearing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Paramount+ Is Raising Prices Again](https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-nokia-g22-drfone-by-drfone-virtual-android/) 
 
  The last Paramount+ price hike occurred in June of 2023, and now another one is happening.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Other Stuff
 
@@ -104,24 +104,22 @@ Motorola
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-unlock-free-youtube-introend-customization/"><u>[New] 2024 Approved Unlock Free YouTube Intro/End Customization</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-mastering-color-changes-11-essential-tips-for-2024/"><u>[New] Mastering Color Changes 11 Essential Tips for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-easy-path-to-great-audio-recordings-in-windows-11/"><u>[New] The Easy Path to Great Audio Recordings in Windows 11</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-coffee-stain-solution-on-iphone-fast-free-and-effective/"><u>[Updated] 2024 Approved Coffee Stain Solution on iPhone - Fast, Free, and Effective</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-how-to-step-into-a-tiktok-event-like-a-pro/"><u>[Updated] 2024 Approved How to Step Into a TikTok Event Like a Pro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-tools-and-techniques-for-adding-frames-to-images-online/"><u>[Updated] Top Tools & Techniques for Adding Frames to Images Online</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-a-harmonic-narrative-adding-youtube-music-to-vids/"><u>2024 Approved Crafting a Harmonic Narrative Adding YouTube Music to Vids</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-guide-to-affordable-online-passport-photo-services/"><u>2024 Approved The Complete Guide to Affordable Online Passport Photo Services</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-seamless-blend-enhancing-your-ae-projects-with-luts/"><u>2024 Approved The Seamless Blend Enhancing Your AE Projects with LUTs</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-picture-shading-with-adobe-tools/"><u>In 2024, Streamlining Picture Shading with Adobe Tools</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-timeless-treasures-the-premier-compiler-and-preserver-for-tweeter-visuals/"><u>In 2024, Timeless Treasures The Premier Compiler & Preserver for Tweeter Visuals</u></a></li>
-<li><a href="https://some-skills.techidaily.com/list-of-different-video-camera-types-for-2024/"><u>List of Different Video Camera Types for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revamp-your-old-videos-master-madvr-techniques/"><u>Revamp Your Old Videos: Master MadVR Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/superior-mkv-reader-laptoptablet-edition-for-2024/"><u>Superior MKV Reader (Laptop/Tablet Edition) for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-every-moment-top-ideas-for-productive-podcast-sessions-for-2024/"><u>Transform Every Moment Top Ideas for Productive Podcast Sessions for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-your-footage-with-pro-tips-for-gopro-time-lapses-for-2024/"><u>Transform Your Footage with Pro Tips for GoPro Time Lapses for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/unlocking-the-full-experience-what-to-do-when-mass-effect-legendary-wont-open/"><u>Unlocking the Full Experience: What to Do When Mass Effect Legendary Won't Open</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/winxvideo-ai-rapidez-et-precision-de-conversion-videoaudio-avec-acceleration-gpgpu/"><u>Winxvideo AI - Rapidez Et Précision De Conversion Vidéo/Audio Avec Accélération GPGPU</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-swift-remedies-for-iphone-unfocused-shots/"><u>[New] Swift Remedies for iPhone Unfocused Shots</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-expert-guide-to-navigating-win11-easily/"><u>[Updated] The Expert Guide to Navigating Win11 Easily</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-the-way-you-view-web-content-using-ms-edges-split-screen-functionality/"><u>[Updated] Transform the Way You View Web Content Using MS Edge's Split Screen Functionality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transformative-tales-a-compendium-of-the-best-inspirational-movies/"><u>[Updated] Transformative Tales A Compendium of the Best Inspirational Movies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-uniting-choreography-with-crafted-audio-in-instagram/"><u>[Updated] Uniting Choreography with Crafted Audio in Instagram</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlined-video-conferencing-utilizing-the-power-of-zoom-in-win10/"><u>2024 Approved Streamlined Video Conferencing Utilizing the Power of Zoom in Win10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-twitch-live-reset-guide/"><u>2024 Approved Twitch Live Reset Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/behind-the-scenes-crafting-a-screenplay/"><u>Behind the Scenes Crafting a Screenplay</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-strategies-for-powerful-instagram-captions/"><u>ChatGPT Strategies for Powerful Instagram Captions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-pathway-to-prosperity-a-graphic-designers-journey/"><u>In 2024, The Pathway to Prosperity A Graphic Designer's Journey</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/live-streaming-mastery-discover-manycam-ultimate-virtual-camera-solution/"><u>Live Streaming Mastery: Discover ManyCam - Ultimate Virtual Camera Solution</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210779130-9798218163051-nine-ways-to-help-your-body-relax/"><u>Nine Ways To Help Your Body Relax | Free Book</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/primeval-20-anime-series-opener-music/"><u>Primeval 20 Anime Series Opener Music</u></a></li>
+<li><a href="https://games-able.techidaily.com/slash-prices-by-a-quarter-score-an-unbeatable-deal-on-the-85-tcl-led-display-available-post-labor-day-at-zdnet/"><u>Slash Prices by a Quarter: Score an Unbeatable Deal on the 85 TCL LED Display – Available Post-Labor Day at ZDNet</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/strongholds-in-minecraft-the-ultimate-guide/"><u>Strongholds in Minecraft The Ultimate Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-game-drives-in-xbox-app/"><u>The Ultimate Guide to Game Drives in Xbox App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-computing-the-ai-enhanced-windows/"><u>Transforming Computing: The AI-Enhanced Windows</u></a></li>
 </ul></div>
 

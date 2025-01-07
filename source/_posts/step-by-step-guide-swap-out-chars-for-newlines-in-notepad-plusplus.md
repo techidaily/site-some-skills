@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Swap Out Chars for Newlines in Notepad ++"
-date: 2024-12-26T20:38:57.552Z
-updated: 2024-12-28T16:34:32.568Z
+date: 2025-01-01T20:46:08.799Z
+updated: 2025-01-07T06:04:19.489Z
 tags:
   - desktop
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
  If you have a list of values in a text file separated by a character (such as a comma or pipe) but would rather have each item on its own line, you can do the newline conversion automatically in Notepad++. Here's how.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Convert Any Character into a Newline with Notepad++
 
  Notepad++ includes a feature to replace any separator in your text files with a [newline character](https://en.wikipedia.org/wiki/Newline), which is a special invisible character that signifies the end of a line and the beginning of a new one. So if you have, say, a list of comma-separated values (for example: "Windows, iPhone, Mac, Android"), you can put each item in the list on a new line.
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 ![Search for 'notepad++' in the Start Menu search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/notepad.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the Notepad++ window, open the text file that includes the list that you want to convert. Alternately, you can paste your item list on a line.
 
 ![A Notepad++ window showing a comma-separated list](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/paste-items-list.png) 
@@ -41,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 ![Replace menu in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/replace-notepad-plus-plus1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the Replace window that opens, click the "Find What" text entry box and type the current item separator. In our example case, our items are separated by a comma and a space, so we'll type a comma and then press Space. If your items are separated by pipes only, type the pipe character ("|").
@@ -58,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 ![New-line separated list in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/comma-new-line.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you want to reverse the process, just open Search > Replace in the menu again. In the "Find What" box, enter "\\n". In the Replace with box, type the character that you want to replace it with. Make sure "Extended" is selected and click "Replace All," and your list will go back to being separated by a standard character, such as a comma or pipe.
 
 ##  How to Convert a Newline Character into Any Other Separator
@@ -76,21 +80,17 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 ![EOL to Space option in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/eol-to-space.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After that, you'll find that all your items are now on a single line separated by a space.
 
 ![List items on one line in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/items-one-line.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To convert this into a comma-separated list using Notepad++, click Search > Replace in the menu.
 
 ![Replace option in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/search-replace.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the "Replace" window, click the "Find What" box and press Space. Then, place your cursor in "Replace With" and type the character that you'd like to replace space with, such as comma (",") or a command and a space for a human-readable format.
 
@@ -98,13 +98,13 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 ![Replace window in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/new-line-comma.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Your list items will now be separated by the new separator you chose.
 
 ![Replace window in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/new-line-comma.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Repeat this as often as you'd like, and you'll have all your lists in perfect shape quickly.
 
@@ -125,18 +125,19 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-sustaining-system-stability-returning-to-el-capitan/"><u>[New] Sustaining System Stability Returning to El Capitan</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-virtual-ride-wonders-select-your-favorites/"><u>[New] Virtual Ride Wonders Select Your Favorites</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-lg-unveils-new-dimensions-with-its-360-degree-vr-headgear-for-2024/"><u>[Updated] LG Unveils New Dimensions with Its 360-Degree VR Headgear for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unmatched-4k-hdtvs-for-intense-gaming/"><u>[Updated] Unmatched 4K HDTVs for Intense Gaming</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-remedies-for-chromes-page-loading-difficulties/"><u>Effective Remedies for Chrome's Page Loading Difficulties</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/getting-started-nvidias-gtx-1080-ti-gpu-drivers-installed-easily-online/"><u>Getting Started: Nvidia's GTX 1080 Ti GPU Drivers Installed Easily Online</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-disengaging-amber-and-crisis-warnings-on-ios-devices/"><u>Guide: Disengaging Amber and Crisis Warnings on iOS Devices</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-realme-c33-2023-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Realme C33 2023?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-selecting-5-online-title-makers/"><u>In 2024, The Ultimate Guide to Selecting 5 Online Title Makers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/self-portraits-that-talk-100-words-to-define-you-on-insta-for-2024/"><u>Self-Portraits That Talk 100 Words to Define You on Insta for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/starting-with-the-basics-of-av1-codec-for-2024/"><u>Starting with the Basics of AV1 Codec for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-boosting-android-video-brilliance-for-2024/"><u>The Ultimate Guide to Boosting Android Video Brilliance for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-video-upgrade-pathway-sdr-to-hdri-transformation-techniques-for-2024/"><u>The Ultimate Video Upgrade Pathway SDR to HDRI Transformation Techniques for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-5-easy-steps-to-record-voice-on-your-windows-11-pc-for-2024/"><u>[New] 5 Easy Steps to Record Voice on Your Windows 11 PC for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-freelancers-guide-to-affordable-animation-methods/"><u>[New] The Freelancer's Guide to Affordable Animation Methods</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-compreenasive-look-the-new-era-of-vr-cams-by-samsung-for-2024/"><u>[Updated] Compreenasive Look The New Era of VR Cams by Samsung for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-digitizing-and-saving-faded-frames/"><u>[Updated] The Ultimate Guide to Digitizing and Saving Faded Frames</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-supreme-speakers-showcase-selector/"><u>2024 Approved Supreme Speakers' Showcase Selector</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-the-art-of-fiction-creation/"><u>2024 Approved Understanding the Art of Fiction Creation</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/erfolgreich-wiedergewinnen-sie-ihre-daten-mit-zwei-effizienten-ansatzen-zur-rekonstruktion-nach-der-umstellung-auf-windows/"><u>Erfolgreich Wiedergewinnen Sie Ihre Daten Mit Zwei Effizienten Ansätzen Zur Rekonstruktion Nach Der Umstellung Auf Windows</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/how-to-record-mov-files-on-windows-11/"><u>How to Record MOV Files on Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-from-stills-to-movies-a-pixiz-tutorial-for-photo-animators/"><u>In 2024, From Stills to Movies A Pixiz Tutorial for Photo Animators</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-in-the-ring-with-video-recording-who-will-triumph-obs-or-bandicam/"><u>In 2024, In the Ring with Video Recording Who Will Triumph, OBS or Bandicam?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-film-previews-unveiled/"><u>In 2024, Top Film Previews Unveiled</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/macbook-pro-vs-ipad-pro-a-comprehvean-analysis-of-their-functionalities/"><u>MacBook Pro Vs. IPad Pro: A Comprehvean Analysis of Their Functionalities</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/streamlined-energy-switching-made-simple-butagaz-partners-with-abbyy-solutions/"><u>Streamlined Energy Switching Made Simple - Butagaz Partners with ABBYY Solutions</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/top-rated-clear-image-enhancement-tools/"><u>Top Rated Clear Image Enhancement Tools</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling ProtonMail Suite's Document Editor: A First-Hand Look at Privacy-Focused Productivity"
-date: 2024-12-22T17:17:14.106Z
-updated: 2024-12-28T18:44:37.724Z
+date: 2025-01-06T10:47:33.210Z
+updated: 2025-01-07T03:31:49.043Z
 tags:
   - web
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/f8ea6bc64575a4f059dff23c3d5a8452f8167601d
  Proton Docs is the [latest feature of Proton Drive](https://win-answers.techidaily.com/fix-iphone-unrecognized-by-itunes-on-windows-11-solutions-and-tips/) and the first collaborative document editing tool to feature default end-to-end encryption. Not only does this give you privacy down to the keystroke, but your documents will also be protected against data breaches and third-party access.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What is Proton?
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/f8ea6bc64575a4f059dff23c3d5a8452f8167601d
 ![A screenshot of the Proton home page displaying their services.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-07-135433.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Aran Folsom / How-To Geek | Proton
@@ -42,7 +42,7 @@ Aran Folsom / How-To Geek | Proton
 ![The Proton Docs user interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/docs.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Collaborating in real-time is also a breeze with easy-to-navigate sharing features and instant updates between users. These two aspects alone make using Proton Docs very intuitive for Google users.
@@ -50,7 +50,7 @@ Aran Folsom / How-To Geek | Proton
 ![The Share Document dialogue in Proton Docs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/share-document.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That said, there are some major differences. One of the biggest problems (and it is a fairly small one) for me is that the default font sizes are larger than the standard sizes of other document editing tools. Proton Docs defaults to size 16 font, whereas 11 or 12 is what you'd typically expect.
@@ -68,7 +68,7 @@ Aran Folsom / How-To Geek | Proton
  I personally love the default paperless view, though I hope Proton adds an option to change this for users who aren’t as fond of it. I also appreciate that Proton Docs opens a new document or the Proton Drive home page in a new tab, unlike Google Docs, which operates within a single tab.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Is Proton Docs Worth the Switch?
@@ -92,19 +92,20 @@ Aran Folsom / How-To Geek | Proton
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-tips-for-scaling-your-youtube-videos/"><u>[New] Tips for Scaling Your YouTube Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-hd-video-cameras-unveiled/"><u>[New] Top HD Video Cameras Unveiled</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-windows-10-sound-capabilities/"><u>[New] Unlocking Windows 10 Sound Capabilities</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-youtubers-dream-gear-top-cameras-unveiled/"><u>[New] YouTubers' Dream Gear Top Cameras Unveiled</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-instant-iphone-success-proven-tips-for-making-professional-photo-collagues/"><u>[Updated] Instant iPhone Success Proven Tips for Making Professional Photo Collagues</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tips-and-tricks-for-streamlining-color-grading-with-luts-in-adobe/"><u>[Updated] Tips and Tricks for Streamlining Color Grading with LUTs in Adobe</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-reddit-threads-ever-the-10-greatest-hits/"><u>[Updated] Top Reddit Threads Ever The 10 Greatest Hits</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-from-content-creator-to-cash-magnet-instagrams-guide/"><u>2024 Approved From Content Creator to Cash Magnet Instagram's Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-soundscape-dilution-via-audacity-tools/"><u>2024 Approved Navigating Soundscape Dilution via Audacity Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-generative-ai-is-transforming-employment-landscapes-7-key-impacts/"><u>How Generative AI Is Transforming Employment Landscapes: 7 Key Impacts</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-apple-iphone-6s-plus-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From Apple iPhone 6s Plus in the Best Ways</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-meizu-21-pro-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Meizu 21 Pro Phones? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unparalleled-harmony-collector-android-based/"><u>In 2024, Unparalleled Harmony Collector, Android-Based</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/the-easy-way-to-delete-applications-in-your-pcs-settings-yl-software-expert-advice/"><u>The Easy Way to Delete Applications in Your PC's Settings (YL Software Expert Advice)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-turn-your-videos-backwards-on-phone/"><u>[New] Turn Your Videos Backwards on Phone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-finest-open-world-games-to-engage-with/"><u>[Updated] 2024 Approved The Finest Open World Games to Engage With</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimateglobalvision-select-live-and-home-channels-together/"><u>[Updated] UltimateGlobalVision Select Live and Home Channels Together</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-smoothing-video-borders-on-teamcollaboration-platforms/"><u>2024 Approved Smoothing Video Borders on TeamCollaboration Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-superior-imaging-why-hdr-sets-the-standard-over-sdr/"><u>2024 Approved Superior Imaging Why HDR Sets the Standard Over SDR</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-budget-friendly-video-effect-tools/"><u>2024 Approved Top 5 Budget-Friendly Video Effect Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/aerial-excellence-with-mi-drone-a-high-quality-look/"><u>Aerial Excellence with MI Drone - A High-Quality Look</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-for-a-smooth-in-place-windows-11-update/"><u>Expert Tips for a Smooth, In-Place Windows 11 Update</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-nokia-c12-plus-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Nokia C12 Plus</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ticklishtunes-your-guide-to-amusing-ringtone-downloads/"><u>In 2024, TicklishTunes Your Guide to Amusing Ringtone Downloads</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/influencers-insight-quick-pathways-to-instagram-fame-with-our-ultimate-list-of-15-tips-for-2024/"><u>Influencer's Insight Quick Pathways to Instagram Fame with Our Ultimate List of 15 Tips for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-simple-and-free-the-best-online-tone-creators-for-2024/"><u>New Simple and Free The Best Online Tone Creators for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/the-pinnacle-of-performance-forward-thinking-windows-notebooks/"><u>The Pinnacle of Performance: Forward-Thinking Windows Notebooks</u></a></li>
+<li><a href="https://facebook.techidaily.com/tidy-up-facebook-filter-out-the-frenzy/"><u>Tidy Up Facebook: Filter Out the Frenzy</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-apps-upgrade-your-mobile-movies-instantly-for-2024/"><u>Top Apps Upgrade Your Mobile Movies Instantly for 2024</u></a></li>
 </ul></div>
 

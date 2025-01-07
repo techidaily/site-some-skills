@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Uniting Sight & Sound  Perfecting Videography Voiceovers\""
-date: 2024-08-21T00:13:41.341Z
-updated: 2024-08-22T00:13:41.341Z
+date: 2025-01-02T04:56:57.393Z
+updated: 2025-01-07T05:05:03.711Z
 tags: 
   - screen-recording
   - ai video
@@ -24,9 +24,6 @@ And when you learn how to use this technique the right way, your YouTube videos 
 
 I'll be demonstrating how to add voiceovers and narrations in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to help you step up your video creation game.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Voiceover or Narration?
 
 But first, what's the difference between a voiceover and a narration? Truth be told, there is quite a bit of overlap between the two.
@@ -47,18 +44,18 @@ But here's the good news: the way you add either option is the same in Filmora.
 
 ![add either option](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to add narration
 
 So the easiest way to add narration is directly to a project. The benefit of this is that you can record your narration inside Filmora while you watch the preview of your edited video.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add narration to project](https://images.wondershare.com/filmora/guide/stt-tts-srt-09.png)
 
 A good example of this would be narrating a story on top of some still images and video clips from a recent vacation. (In most cases you would want to turn off the sound of the video clip, or at least use ducking to help the viewer focus on the narration.)
@@ -67,15 +64,16 @@ You put the playhead where you want to start recording and hit the microphone ic
 
 ![hit microphone icon](https://images.wondershare.com/filmora/guide/stt-tts-srt-08.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 A 3-second countdown will pop up and start recording immediately after this countdown.
 
 You can record your narration and click stop.
 
 After recording, you can trim and edit your narration, you can delete it and record it again, and can move it and edit it like any other feature.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Some Tips for Recording Narration
 
 Try playing the clip in the preview window to get a sense of what you want to say fits well with the space available in the project.
@@ -87,8 +85,9 @@ You can edit pauses or weak parts out of the voiceover to trim it up. But if it 
 Fortunately, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) comes equipped with video b-roll which is another great option. When using b-roll, it's better to use multiple shorter clips than one longer clip in most cases. But adding the same b-roll clip near the beginning and another section of the same b-roll clip, later on, should help you match the length of your narration to the video timeline.
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Narration is a great storytelling device
 
 Narration is a fantastic tool to have in your arsenal as a young filmmaker. It allows you to quickly communicate feelings, backstory, and context quickly and effectively.
@@ -97,17 +96,15 @@ Practice adding it to your videos to see how it adds depth and dimension to your
 
 It can also help make a connection with your audience because you can be relating to the images on the screen as they watch them. This is effective in building your YouTube audience.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Always use a good mic
 
 When adding voiceover or narration to your project, be sure to use a good USB microphone. A good quality sound will elevate your entire project and just requires a little planning.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![use good microphone](https://images.wondershare.com/filmora/article-images/2022/11/use-good-microphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Also, be sure to check that your external microphone is selected when you start recording. There's nothing worse than nailing the perfect narration and realizing it was recorded with the built-in mic, not your USB microphone.
 
@@ -147,8 +144,23 @@ Filmora makes it easy to add narration of voice-overs to your video projects. Do
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-unveiling-stardew-valleys-most-innovative-game-updates/"><u>[New] In 2024, Unveiling Stardew Valley's Most Innovative Game Updates</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-create-impactful-video-elements-cardsannotations/"><u>[Updated] 2024 Approved How to Create Impactful Video Elements Cards/Annotations</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-streamline-your-workflow-with-hp-screen-recordings/"><u>[Updated] Streamline Your Workflow with HP Screen Recordings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-choice-for-gif-to-video-online-tools-best-5/"><u>[Updated] Ultimate Choice for GIF-to-Video Online Tools (Best 5)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-leaders-in-education-top-15-sci-yt-innovators/"><u>2024 Approved Leaders in Education Top 15 Sci-YT Innovators</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-strategic-approach-to-advertising-on-spotify/"><u>2024 Approved The Strategic Approach to Advertising on Spotify</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-free-tools-for-effortless-gif-to-video-conversion/"><u>2024 Approved Top 5 Free Tools for Effortless GIF-to-Video Conversion</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726028286638-dvd/"><u>懐かしいディスクのトラブルシューティング: DVDや古いビデオが再生不能になったときの解決策</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-iphone-13-pro-max-by-drfone-ios/"><u>How to Fix when Apple Account Locked On iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-signal-id-video-overview-width-x-height-encoding-minutes/"><u>In 2024, Signal ID Video Overview Width X Height, Encoding, Minutes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-future-shaped-by-quantum-hdr-tech/"><u>In 2024, The Future Shaped by Quantum HDR Tech</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-free-timers-for-daily-use/"><u>In 2024, Ultimate Free Timers for Daily Use</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-luts-role-in-image-color-alteration/"><u>In 2024, Unveiling LUTs' Role in Image Color Alteration</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/score-the-ultimate-deal-on-apple-watch-series-9-exclusive-lowest-prices-post-prime-day/"><u>Score the Ultimate Deal on Apple Watch Series 9, Exclusive Lowest Prices Post Prime Day</u></a></li>
+<li><a href="https://some-skills.techidaily.com/universal-srt-to-various-subtitle-formats-handbook-for-2024/"><u>Universal SRT to Various Subtitle Formats Handbook for 2024</u></a></li>
+</ul></div>
 

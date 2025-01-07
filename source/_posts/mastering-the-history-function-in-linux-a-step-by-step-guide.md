@@ -1,7 +1,7 @@
 ---
 title: "Mastering the 'History' Function in Linux: A Step-by-Step Guide"
-date: 2024-12-23T20:34:21.178Z
-updated: 2024-12-28T16:40:36.477Z
+date: 2025-01-05T23:18:01.709Z
+updated: 2025-01-06T22:50:42.642Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/61cd3f9de3e328bf4fd572ae53f8d259727451f01
 ---
 
 ## Mastering the 'History' Function in Linux: A Step-by-Step Guide
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -60,6 +64,10 @@ history | tail -n 10
 
 ![history | tail -n 10 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/4-7.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Repeating Commands
 
  If you want to reuse a command from the history list, type an exclamation point (!), and the number of the command with no spaces in-between.
@@ -85,10 +93,6 @@ mv ./my_script.sh /usr/local/bin/
 sudo !!
 
 ![mv ./my_script.sh /usr/local/bin/  in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/7-8.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  So, you can type the corresponding number from the list to repeat a command or use the double exclamation points to repeat the last command you used. However, what if you want to repeat the fifth or eighth command?
 
@@ -128,11 +132,11 @@ sudo !!
 
 ![!?aliases in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/12-6.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This will find any command that contains the string "aliases," regardless of where it appears in the string.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Interactive Search
 
@@ -147,7 +151,7 @@ sudo !!
 ![Ctrl+R search with sudo entered as the search clue](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/14-2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Each time you press Ctrl+r, you're searching backward for the next matching command, which appears in the terminal window.
@@ -162,9 +166,17 @@ sudo !!
 
 ![Ctrl+r search in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/17-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The command appears on the command line, and you can edit it.
 
 ![Command shown on the command line allowing editing](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/18-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can use other Linux tools to search the history list. For example, to pipe the output from `history` into `grep` and [search for commands that contain the string](http://man7.org/linux/man-pages/man1/grep.1.html) "aliases" you could use this command:
 
@@ -226,10 +238,6 @@ history -a
 
 ![history -a in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/22-3.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The commands are written silently to the history file.
 
  If you want to write all changes to the history list to the history file (if you deleted some old commands, for example), you can use the `-w` (write) option, like so:
@@ -239,7 +247,7 @@ history -w
 ![history -w in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/23-3.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Clearing the History List
@@ -254,10 +262,6 @@ history -c
 
 history -w
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Security and the History File
 
  If you use any applications that require you to type sensitive information (like passwords) on the command line, remember this will also be saved in the history file. If you don't want certain information saved, you can use the following command structure to delete it from the history list immediately:
@@ -267,6 +271,10 @@ special-app my-secret-password;history -d $(history 1)
 history 5
 
 ![special-app my-secret-password;history -d $(history 1) in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/25-3.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This structure includes two commands separated with a semicolon (;). Let's break this down:
 
@@ -285,6 +293,10 @@ history 5
 
 ![special-app another-password in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/26-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The command with the password isn't added to the history list. The reason this trick works is contained within the `.bashrc` file.
 
 ##  The .bashrc File
@@ -296,10 +308,6 @@ history 5
 gedit .bashrc
 
 ![gedit .bashrc in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/27.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Near the top of the file, you see two entries:
 
@@ -318,10 +326,6 @@ gedit .bashrc
  Also near the top of the file, you see an entry for the `HISTCONTROL` value.
 
 ![HISTCONTROL entry n the .bashrc file in gedit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/31b.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can set this value to do any of the following:
 
@@ -347,13 +351,13 @@ export HISTTIMEFORMAT="%c "
 
 ![export HISTTIMEFORMAT="%c " in gedit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/29b-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, when you run the history command, you see date- and timestamps. Note that any commands that were in the history list before you added the timestamps will be timestamped with the date and time of the first command that receives a timestamp. In this example shown below, this was command 118.
 
 ![history listing with timestamps in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/30-2.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  That's a very long-winded timestamp. However, you can use tokens other than `%c` to refine it. The other tokens you can use are:
 
@@ -389,10 +393,6 @@ export HISTTIMEFORMAT="%T "
 
 ![history list with timestamps in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/34-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also use the `history` command to audit. Sometimes, reviewing [commands](https://buynow-help.techidaily.com/misinterpretation-of-gram-staining-results-can-lead-to-incorrect-identification-affecting-treatment-decisions-in-clinical-settings/) you've used in the past can help you identify what might have caused an issue.
 
  Just as you can in life, on Linux, you can use the `history` command to relive the good times and learn from the bad.
@@ -418,17 +418,16 @@ export HISTTIMEFORMAT="%T "
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-science-and-magic-behind-full-circle-films/"><u>[New] The Science and Magic Behind Full Circle Films</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-seamless-access-watching-fb-videos-on-apple-tv-explained-for-2024/"><u>[Updated] Seamless Access Watching FB Videos on Apple TV Explained for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/exclusive-preview-cut-compilation/"><u>Exclusive Preview Cut Compilation</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-sony-xperia-10-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-android-can-surpass-ios-with-these-key-enhancements-expert-analysis-by-zdnet/"><u>How Android Can Surpass iOS with These Key Enhancements: Expert Analysis by ZDNet</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Asus ROG Phone 8 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamlined-process-for-shaping-photos/"><u>In 2024, Streamlined Process for Shaping Photos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-artisan-writes-crafting-hdr-magic-with-iphone/"><u>In 2024, The Artisan’ Writes Crafting HDR Magic with iPhone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/t-pinnacle-peak-your-income-by-monetizing-youtube-mobile-content/"><u>Profit Pinnacle Peak Your Income by Monetizing YouTube Mobile Content</u></a></li>
-<li><a href="https://some-skills.techidaily.com/renewal-of-windows-photo-viewer-two-efficient-methods-in-windows-10-for-2024/"><u>Renewal of Windows Photo Viewer Two Efficient Methods in Windows 10 for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-weak-windows-11-signals-an-essential-checklist-of-8-steps/"><u>Tackling Weak Windows 11 Signals: An Essential Checklist of 8 Steps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-pros-guide-to-clearing-backdrops-in-figma-design-for-2024/"><u>The Pro's Guide to Clearing Backdrops in Figma Design for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-cutting-edge-in-photo-framing-techniques-2023-software-guide/"><u>[New] The Cutting Edge in Photo Framing Techniques, 2023 Software Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unmatched-technique-to-fuse-gopro-clips-into-immersive-360-movies/"><u>[New] Unmatched Technique to Fuse GoPro Clips Into Immersive 360 Movies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-beginners-guide-to-stunning-slow-motion-shooting-with-an-android/"><u>2024 Approved The Beginner's Guide to Stunning Slow-Motion Shooting with an Android</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-for-microsoft-word-exe-errors-easy-methods-inside/"><u>Effective Fixes for Microsoft Word EXE Errors - Easy Methods Inside</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/getting-to-know-the-advanced-technology-in-ampassels-portable-andes-1500-power-generator/"><u>Getting to Know the Advanced Technology in Ampassel's Portable Andes 1500 Power Generator</u></a></li>
+<li><a href="https://blog-min.techidaily.com/guida-alla-masterizzazione-dei-dvd-di-rip-in-sistemi-nas-per-lo-streaming-ottimale/"><u>Guida Alla Masterizzazione Dei DVD Di Rip in Sistemi NAS per Lo Streaming Ottimale</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-your-non-functional-headphones-issue-with-windows-11/"><u>How to Resolve Your Non-Functional Headphones Issue with Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Honor Magic5 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-100-pro-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor 100 Pro Phone Forgot Password</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-strategies-for-downloading-twitter-video-content-to-mp3/"><u>In 2024, Strategies for Downloading Twitter Video Content to MP3</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-hook-up-guide-scripts-to-seduce-listeners/"><u>In 2024, The Hook-Up Guide Scripts to Seduce Listeners</u></a></li>
 </ul></div>
 

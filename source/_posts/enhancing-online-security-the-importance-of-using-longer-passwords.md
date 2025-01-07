@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Online Security: The Importance of Using Longer Passwords"
-date: 2024-12-27T17:57:35.868Z
-updated: 2024-12-28T19:21:49.388Z
+date: 2025-01-05T21:19:08.187Z
+updated: 2025-01-06T22:21:28.120Z
 tags:
   - web
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
 ## Enhancing Online Security: The Importance of Using Longer Passwords
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
 ![A phone receiving a 2FA code.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/shutterstock_2373964067.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [ronstik](https://www.shutterstock.com/g/ronstik "ronstik") / Shutterstock.com
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
  The best way to attack a password is through a [dictionary attack](https://extra-skills.techidaily.com/2024-approved-smartest-ways-to-track-wedding-dates-ios-and-android-style/), which is a program that will try to “guess” a password by going through common words and phrases. It’s almost literally throwing the book at your password, going through the entire dictionary and also common variations. Once the password is guessed, the attacker has access.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Brute Force and Randomness
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
  All of these are important, but length plays a special role, one we need some math to explain.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  How to Calculate Password Entropy
@@ -86,7 +86,7 @@ E = log2(RL)
  If we add the digits 0-9 we come to a range of 62, and then once we add the 33 symbol keys, our range is increased to 95\. Using just 8 characters, that gives us an entropy score of 52.56 bits, still well below the cutoff of 64 bits. The only other way to further increase your entropy is to make the password longer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Should Be Your Minimum Password Length?
@@ -110,21 +110,16 @@ E = log2(RL)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-definitive-guide-to-captivating-podcast-covers/"><u>[New] The Definitive Guide to Captivating Podcast Covers</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-the-full-breakdown-mastering-facetune-for-photo-enhancement-for-2024/"><u>[New] The Full Breakdown Mastering Facetune for Photo Enhancement for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transforming-audiencier-names-with-top-ai-tools/"><u>[New] Transforming Audiencier Names with Top AI Tools</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-sending-streamed-content-to-discord-with-finesse-and-precision/"><u>[Updated] 2024 Approved Sending Streamed Content to Discord with Finesse and Precision</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-windows-audio-suite/"><u>[Updated] Ultimate Windows Audio Suite</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-honor-x9b-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Honor X9b</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-best-selling-vr-gaming-experienences-on-oculus/"><u>2024 Approved The Best-Selling VR Gaming Experienences on Oculus</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tunetracker-outside-of-dacast-realm/"><u>2024 Approved TuneTracker Outside of DaCast Realm</u></a></li>
-<li><a href="https://win11.techidaily.com/5-ways-to-reset-the-windows-firewall-settings/"><u>5 Ways to Reset the Windows Firewall Settings</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-oneplus-12r-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your OnePlus 12R Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>How to Use Life360 on Windows PC For Apple iPhone 12 Pro? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-integration-tesla-boosts-connectivity-with-apple-airplay-rejecting-carplay/"><u>Innovative Integration: Tesla Boosts Connectivity with Apple AirPlay - Rejecting CarPlay</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-samsung-galaxy-f54-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Samsung Galaxy F54 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-crossfade-sounds-using-audacity-for-2024/"><u>The Ultimate Guide to Crossfade Sounds Using Audacity for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-visionarys-manual-selecting-the-most-compelling-4k-displays-today-for-2024/"><u>The Visionary's Manual Selecting the Most Compelling 4K Displays Today for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722962379673-update-your-hp-scanjet-printer-for-windows-downloads-for-w10w11w8w7-users/"><u>Update Your HP Scanjet Printer for Windows: Downloads for W10/W11/W8/W7 Users</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitters-video-guidelines-and-step-by-step-uploading-guide/"><u>[Updated] 2024 Approved Twitter's Video Guidelines & Step-by-Step Uploading Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-unlocking-metaverse-potential-top-7-innovations-to-master/"><u>[Updated] In 2024, Unlocking Metaverse Potential - Top 7 Innovations to Master</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-mastering-your-content-on-facebook-after-algorithms-change-for-2024/"><u>[Updated] Mastering Your Content on Facebook After Algorithms Change for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tech-picks-leading-drone-gimbals/"><u>2024 Approved Tech Picks Leading Drone Gimbals</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-oppo-find-x6-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Oppo Find X6? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-pathway-to-load-moviemaker-6-for-2024/"><u>Comprehensive Pathway to Load Moviemaker 6 for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-best-websites-to-download-game-of-thrones-ringtones/"><u>In 2024, Best Websites to Download Game of Thrones Ringtones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-20-iconic-anime-theme-melodies-ever/"><u>In 2024, Top 20 Iconic Anime Theme Melodies Ever</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-potential-10-top-motivational-gems/"><u>In 2024, Unleash Potential 10 Top Motivational Gems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/pivotal-video-moments-secrets-to-stellar-text-enhancements-for-2024/"><u>Pivotal Video Moments Secrets to Stellar Text Enhancements for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-essentials-the-ultimate-checklist-for-your-summer-everyday-carry-kit/"><u>Top Essentials: The Ultimate Checklist for Your Summer Everyday Carry Kit</u></a></li>
 </ul></div>
 

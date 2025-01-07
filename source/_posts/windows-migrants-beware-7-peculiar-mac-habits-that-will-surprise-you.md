@@ -1,7 +1,7 @@
 ---
 title: "Windows Migrants Beware: 7 Peculiar Mac Habits That Will Surprise You"
-date: 2024-12-21T16:27:59.139Z
-updated: 2024-12-28T19:51:45.884Z
+date: 2025-01-01T16:33:27.883Z
+updated: 2025-01-06T21:54:50.292Z
 tags:
   - desktop
 categories:
@@ -23,15 +23,15 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 
  If you've been a Windows user, transitioning to macOS can be pretty daunting. From navigating a new interface to getting used to the keyboard shortcuts, there are many elements that could leave you feeling puzzled. Here are some of the main differences that you need to know about.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Dock Is Not Like the Taskbar
 
  The macOS Dock has evolved significantly over the years and offers functionality like mouse-over magnification and the ability to show suggested and recent apps, among other things. For people who are shifting from Windows to macOS, though, the biggest difference is based around the very idea of what the Dock and Taskbar actually do.
 
 ![The Dock on a Mac laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/screenshot-2024-03-20-at-3-52-28-am.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The Windows Taskbar is a comprehensive tool that displays everything from program icons to the time and date, and the search bar in one horizontal location. In comparison, the Dock simply focuses on displaying [app icons that you can pin,](https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-htc-u23-by-fonelab-android-recover-data/) as well as recently minimized windows and folders.
 
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 ![The Globe, Control, Option, and Command keys on a Mac keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-globe-control-option-and-command-keys-on-a-mac-keyboard.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Some keys, like the Control button, are on both keyboards but have different uses. For instance, keyboard shortcuts that require you to press the Control key on a Windows keyboard often use the Command key instead on a Mac. So, [copy and paste](https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-itel-s23plus-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/) is Ctrl+C and Ctrl+V in Windows, but Command+C and Command+V in macOS.
@@ -65,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 | Recycle Bin     | Trash                 |
 | Shortcut icon   | Alias                 |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Taking Screenshots Is Easy
 
  As a Windows user, you likely used the Windows Logo Key+PrtScn button combination to capture a screenshot of the entire screen. Alternatively, you've also likely used the Snipping Tool app to select and capture a specific area of the screen. On macOS, screenshots require slightly different shortcuts. Still, it's fairly easy to learn [how to screenshot on a Mac](https://youtube-tips.techidaily.com/-color-correction-for-youtube-beauty-for-2024/).
@@ -76,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
  Regardless of the shortcut you use, the screenshot is immediately saved to your macOS desktop for easy access.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  macOS Has Its Own Equivalents for the Windows Apps
@@ -99,19 +103,11 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 
 ![The window resizing buttons on macOS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-1-58-58-pm.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Similarly, Windows has a search bar directly in the taskbar, while Mac uses Spotlight for search.
 
  You can access it by clicking the Spotlight icon (denoted by a magnifying glass) in the top-right corner of the menu bar, or by using the Command+Spacebar shortcut. Some Mac keyboards also have a magnifying glass button, which you can use to launch Spotlight.
 
 ![Spotlight search in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/spotlight-search-in-macos.jpeg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Spotlight is packed with features](https://screen-capture.techidaily.com/updated-shadowed-swords-and-honored-combatants-must-try-titles-inspired-by-ghost-of-tsushi/). You can use it to find apps, documents, or emails by keying in a few keywords related to what you're searching for, as well as searching for news, sports scores, or weather updates, performing calculations, and much more.
 
@@ -120,7 +116,7 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 ![The menubar in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-menubar-in-macos.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In comparison, Windows laptops combine the Start menu, system tray, and taskbar into a single bar that's located at the bottom of the screen by default.
@@ -130,6 +126,10 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
  The Start menu on a Windows laptop allows you to access applications, system settings, and recent files all from one place. On macOS, this functionality is most closely served by the Launchpad, an iPad-style grid of icons that offers you quick access to all your apps.
 
 ![The Launchpad on a Mac laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/screenshot-2024-03-20-at-3-57-38-am.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Keep in mind that the Launchpad does not let you access your recent files or the system settings, but you can access them through the Dock and the Apple menu icons, respectively, on your Mac.
 
@@ -152,19 +152,17 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-macs-image-file-transformation/"><u>[New] In 2024, The Ultimate Guide to Mac's Image File Transformation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-art-of-elegant-appearance/"><u>[New] The Art of Elegant Appearance</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-captivating-copy-creator-pro/"><u>[Updated] Captivating Copy Creator Pro</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-enhancing-webcam-gaming-experience-and-quality-for-2024/"><u>[Updated] Enhancing WebCam Gaming Experience & Quality for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tickle-me-tech-iphone-memes/"><u>[Updated] Tickle-Me-Tech IPhone Memes</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-unlocking-the-secrets-of-snapchat-boomerang-tricks/"><u>[Updated] Unlocking the Secrets of Snapchat Boomerang Tricks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-attractive-unboxing-videos-on-ig/"><u>2024 Approved The Ultimate Guide to Attractive Unboxing Videos on IG</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-of-the-rca-video-doorbell-camera-for-modern-homes/"><u>Comprehensive Evaluation of the RCA Video Doorbell Camera for Modern Homes</u></a></li>
-<li><a href="https://win11.techidaily.com/disguising-or-displaying-time-win-1011-tutorial/"><u>Disguising or Displaying Time: Win 10/11 Tutorial</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/harness-the-power-of-ai-writing-assistant-microsoft-copilot-setup-on-mac/"><u>Harness the Power of AI Writing Assistant: Microsoft Copilot Setup on Mac</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-the-essentials-of-writing-amazing-end-of-episode-scripts/"><u>In 2024, The Essentials of Writing Amazing End-of-Episode Scripts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-secrets-to-iphone-stellar-images/"><u>In 2024, Unlocking the Secrets to iPhone Stellar Images</u></a></li>
-<li><a href="https://some-skills.techidaily.com/swiftly-fix-red-eyes-in-iphone-photography-at-no-cost-for-2024/"><u>Swiftly Fix Red Eyes in iPhone Photography at No Cost for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transforming-your-view-with-the-hp-envy-27-monitor-for-2024/"><u>Transforming Your View with the HP Envy 27 Monitor for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-exploring-the-latest-advancements-in-lgs-all-round-360-camera/"><u>[New] Exploring the Latest Advancements in LG's All-Round 360 Camera</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-cutting-edge-strategies-for-real-time-green-screen-applications/"><u>[New] In 2024, Cutting-Edge Strategies for Real-Time Green Screen Applications</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-nostalgia-revue-old-school-review-of-the-goofys-for-2024/"><u>[New] Nostalgia Revue Old-School Review of The Goofys for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-setting-the-mood-fading-to-black/"><u>[New] Setting the Mood Fading To Black</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-complete-manual-for-background-banishment-in-figma/"><u>[New] The Complete Manual for Background Banishment in Figma</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-your-images-into-dynamic-visual-stories/"><u>[New] Transform Your Images Into Dynamic Visual Stories</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-mastering-background-removal-in-figma-step-by-step-tutorial/"><u>2024 Approved Mastering Background Removal in Figma Step-by-Step Tutorial</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/how-to-light-your-youtube-video/"><u>How To Light Your YouTube Video</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-realme-c53-easily-by-drfone-android/"><u>In 2024, How To Unlock a Realme C53 Easily?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-walkthrough-on-how-to-rollback-a-windows-11-patch/"><u>The Ultimate Walkthrough on How to Rollback a Windows 11 Patch</u></a></li>
+<li><a href="https://some-skills.techidaily.com/total-control-guide-powerdirector-user-manual-for-2024/"><u>Total Control Guide PowerDirector User Manual for 2024</u></a></li>
 </ul></div>
 

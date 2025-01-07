@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Secrets: Top 13 Steps to Access Windows 11 Settings Easily"
-date: 2024-12-25T18:20:30.431Z
-updated: 2024-12-28T17:09:38.636Z
+date: 2024-12-31T05:13:45.525Z
+updated: 2025-01-07T02:50:08.373Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/a6535057526d825a812b9edea09b4a8a4894edee4
 ---
 
 ## Unlocking the Secrets: Top 13 Steps to Access Windows 11 Settings Easily
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -32,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/a6535057526d825a812b9edea09b4a8a4894edee4
 
  The Settings app is a hub for almost all of Windows 10's settings, and you'll probably find yourself accessing it pretty frequently. Luckily, there's more than one way to open the Settings app—from several different locations.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Use a Keyboard Shortcut
 
  Windows 10 is [packed full of keyboard shortcuts](https://windows11.techidaily.com/unlocking-microsoft-family-safety-potential/) to help you streamline your workflow, so it should come as no surprise that there's a keyboard shortcut to open the Settings menu.
@@ -48,11 +40,11 @@ thumbnail: https://thmb.techidaily.com/a6535057526d825a812b9edea09b4a8a4894edee4
 
 ![Click the Start button, then click the gear icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/start-menu-then-settings-icon.png) 
 
- The Settings app will open.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ The Settings app will open.
 
 ##  Use the Power User Menu
 
@@ -63,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/a6535057526d825a812b9edea09b4a8a4894edee4
  Settings will open.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Search for Settings in Windows Search
@@ -74,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/a6535057526d825a812b9edea09b4a8a4894edee4
 
 ![Searching for 'Settings' in the search bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/open-the-settings-app-from-the-start-menu-search.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Settings will then launch.
 
 ##  Access Settings From the Context Menu on the Desktop
@@ -82,17 +78,9 @@ thumbnail: https://thmb.techidaily.com/a6535057526d825a812b9edea09b4a8a4894edee4
 
 ![Click Display Settings or Personalize from the context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Click-Display-Settings-or-Personalize-from-the-context-menu..png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Either one will open up the respective option in the Settings menu. From there, just click "Home" to go to the top of the Settings app.
 
 ![Click the 'Home' button in the top-left corner of any of the pages in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/click-the-home-button.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 
 
@@ -105,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/a6535057526d825a812b9edea09b4a8a4894edee4
  Next, in File Explorer, click "This PC" in the left-hand pane and then click "Open Settings" in the ribbon.
 
 ![Click the 'Open Settings' button at the top of Windows Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/open-settings-from-windows-explorer.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Settings app will open.
 
@@ -119,7 +111,7 @@ thumbnail: https://thmb.techidaily.com/a6535057526d825a812b9edea09b4a8a4894edee4
 ![Click "Expand."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Click-Expand..png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The list of options will expand. Click "All Settings."
@@ -128,6 +120,10 @@ thumbnail: https://thmb.techidaily.com/a6535057526d825a812b9edea09b4a8a4894edee4
 
  Settings will now open.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Use Task Manager
 
  You can open all kinds of apps from Task Manager—including the Settings app. First, [open Task Manager](https://youtube-blog.techidaily.com/24-top-15-gaming-capture-utilities/) by using the Ctrl+Shift+Esc keyboard shortcut. In Task Manager, click the "File" tab and then click "Run New Task" from the drop-down menu.
@@ -135,7 +131,7 @@ thumbnail: https://thmb.techidaily.com/a6535057526d825a812b9edea09b4a8a4894edee4
 ![Click 'File,' then select 'Run New Task.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/tsk-mngr-file-run-new-task.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Create New Task window will appear. In the text box, type **ms-settings:** in the field, and then click "OK."
@@ -143,7 +139,7 @@ thumbnail: https://thmb.techidaily.com/a6535057526d825a812b9edea09b4a8a4894edee4
 ![Enter 'ms-settings:' into the Run box, then click 'OK.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/run-new-task.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Settings will open.
@@ -157,6 +153,10 @@ thumbnail: https://thmb.techidaily.com/a6535057526d825a812b9edea09b4a8a4894edee4
  Once in Control Panel, click "User Accounts."
 
 ![Click "User Accounts" in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Click-User-Accounts-in-Control-Panel..png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On the next screen, click "User Accounts" again.
 
@@ -193,7 +193,7 @@ start ms-settings:
  The Settings app will open.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Run a Command in Windows PowerShell
@@ -227,19 +227,20 @@ start ms-settings:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-efficiency-in-conversion-a-compact-list-of-the-top-10-video-transformers-for-2024/"><u>[New] Efficiency in Conversion A Compact List of the Top 10 Video Transformers for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-essential-guide-to-saving-web-radio-broadcasts/"><u>[New] The Essential Guide to Saving Web Radio Broadcasts</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-pushing-the-limits-with-text-warping-effects/"><u>[Updated] 2024 Approved Pushing the Limits with Text Warping Effects</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-clearing-up-false-facade-in-virtual-conversations-fb/"><u>[Updated] Clearing Up False Facade in Virtual Conversations FB</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-reignite-your-gaming-experience-free-voice-transformation-for-valorant-lovers/"><u>[Updated] Reignite Your Gaming Experience Free Voice Transformation for Valorant Lovers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-understanding-luts-in-the-realm-of-photographic-mastery/"><u>[Updated] Understanding LUTs in the Realm of Photographic Mastery</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-stunning-images-with-the-latest-iphone-camera-features/"><u>2024 Approved Stunning Images with the Latest iPhone Camera Features</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-the-potency-of-open-source-video-engines/"><u>2024 Approved Unleashing the Potency of Open Source Video Engines</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-guide-to-essential-uav-upgrades-and-parts/"><u>In 2024, The Complete Guide to Essential UAV Upgrades & Parts</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-iphone-x-camera-features-you-need-to-know/"><u>New iPhone X Camera Features You Need to Know</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-windows-11s-speakers-a-step-by-step-guide-to-solving-noise-problems-fast/"><u>Revive Your Windows 11'S Speakers: A Step-by-Step Guide to Solving Noise Problems Fast</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/skyrocket-on-instagram-unveiling-your-path-with-top-9-secrets-for-2024/"><u>Skyrocket on Instagram Unveiling Your Path with Top 9 Secrets for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Vivo Y27 4G? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-and-fixing-sudden-system-failures-when-playing-games-on-your-computer/"><u>Understanding and Fixing Sudden System Failures When Playing Games on Your Computer</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-easy-access-to-12-exclusive-livestreams-daily/"><u>[New] 2024 Approved Easy Access to 12 Exclusive Livestreams Daily</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-speech-to-text-magic-for-ms-word-users/"><u>[New] In 2024, Speech-to-Text Magic for MS Word Users</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-unveiling-the-secrets-how-to-efficiently-record-internet-radio/"><u>[Updated] 2024 Approved Unveiling the Secrets How To Efficiently Record Internet Radio</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-cross-platform-video-uploading-twittertumblr-for-2024/"><u>[Updated] Cross-Platform Video Uploading Twitter/Tumblr for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-giggle-graphics-humorhub/"><u>[Updated] Giggle Graphics HumorHub</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-optimizing-windows-media-players-audio-operations-from-cds/"><u>[Updated] The Art of Optimizing Windows Media Player's Audio Operations From Cds</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-quick-and-reliable-image-captures-pcs-top-5-apps/"><u>2024 Approved Quick and Reliable Image Captures PC's Top 5 Apps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-groundbreaking-gear-for-virtual-reality-players/"><u>In 2024, Groundbreaking Gear for Virtual Reality Players</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-swift-access-to-youtube-srt-files-three-key-points/"><u>In 2024, Swift Access to YouTube SRT Files Three Key Points</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-synthesis-of-song-elements-the-crossfade-approach/"><u>In 2024, Synthesis of Song Elements The Crossfade Approach</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-review-of-sns-hdr-vs-top-hdr-applications/"><u>In 2024, The Ultimate Review of SNS HDR Vs. Top HDR Applications</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-influence-essential-marketing-expressions-explained-for-2024/"><u>The Art of Influence Essential Marketing Expressions Explained for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-30-windows-10-utilities-you-cant-ignore-for-2024/"><u>Top 30 Windows 10 Utilities You Can't Ignore for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-world-of-alternative-augmented-reality-decorations-for-2024/"><u>Unveiling the World of Alternative Augmented Reality Decorations for 2024</u></a></li>
 </ul></div>
 

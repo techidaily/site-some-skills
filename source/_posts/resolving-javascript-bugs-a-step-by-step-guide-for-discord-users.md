@@ -1,7 +1,7 @@
 ---
 title: "Resolving JavaScript Bugs: A Step-by-Step Guide for Discord Users"
-date: 2024-12-23T16:04:52.678Z
-updated: 2024-12-28T17:45:18.834Z
+date: 2024-12-31T06:02:05.460Z
+updated: 2025-01-07T08:57:55.523Z
 tags:
   - deals
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342
 
 ## Resolving JavaScript Bugs: A Step-by-Step Guide for Discord Users
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Try running Discord as an admin to fix JavaScript errors: Right-click the app and select "Run as Administrator."
@@ -22,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342
 * If those solutions don't work, try temporarily disabling your antivirus software or reinstalling Discord.
 
  Running into a JavaScript error on Discord makes you unable to use the app. Luckily, you have a few ways to fix the problem and get the app running as smoothly as possible. Here are the possible solutions to your issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Run Discord as an Admin
 
@@ -35,19 +27,11 @@ thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342
 
 !['Run as Administrator' highlighted for Discord in Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-run-discord-as-admin.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the User Account Control prompt, select "Yes."
 
  If this method fixes the issue, make Windows always launch Discord as an admin. Do that by first right-clicking Discord’s desktop shortcut and choosing "Properties."
 
 !['Properties' highlighted for Discord's desktop shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-discord-desktop-shortcut-properties.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Open the "Shortcut" tab and choose "Advanced." Enable the "Run as Administrator" option and select "OK."
 
@@ -67,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342
 
 ![A trash can icon highlighted for Discord's appdata files in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-delete-discord-appdata-files.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Open Run again (by pressing Windows+R), type the following path, and press Enter:
 
 %localappdata%
@@ -74,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342
  Open the "Discord" folder, select all files using Ctrl+A, right-click a file, and choose "Delete" (a trash can icon).
 
 ![A trash can icon highlighted for Discord's local appdata files in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-remove-discord-local-appdata-files.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch the [Discord Download](https://discord.com/download) site, download the installer, and run the installer to reinstall fresh copies of the required files to your PC.
 
@@ -86,18 +78,18 @@ thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342
 !['Manage Settings' highlighted in Windows Security.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/6-manage-virus-protection-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then, turn off "Real-Time Protection" and choose "Yes" in the prompt.
 
 !['Real-Time Protection' highlighted in Windows Security.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-disable-microsoft-defender-antivirus.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  That’s it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Uninstall BetterDiscord
 
@@ -123,9 +115,17 @@ thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342
 
 !['Uninstall' highlighted for Discord in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/10-delete-discord-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To delete Discord on a Windows 10 PC, visit Settings > Apps. Select Discord on the list, click "Uninstall," and choose "Uninstall."
 
 !['Uninstall' highlighted for Discord in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/11-remove-discord-windows-10.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Head to the [Discord Download](https://discord.com/download) site and download and install the app on your computer. Your issue should now be fixed. Enjoy!
 
@@ -144,19 +144,18 @@ thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-become-a-pro-with-our-instagram-story-insights-for-2024/"><u>[New] Become a Pro with Our Instagram Story Insights for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-elevate-your-ppt-presentations-avoiding-common-voiceover-pitfalls/"><u>[New] In 2024, Elevate Your PPT Presentations Avoiding Common Voiceover Pitfalls</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-innovative-android-camera-apps/"><u>[New] Innovative Android Camera Apps</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-key-cutting-strategies-in-modern-cinema/"><u>[New] Key Cutting Strategies in Modern Cinema</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-techniques-for-steadying-your-motion-sensitive-gopro/"><u>[New] Techniques for Steadying Your Motion-Sensitive GoPro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-the-perfect-gaming-experience-kinemaster-on-android/"><u>[New] Unveiling the Perfect Gaming Experience KineMaster on Android</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-7-steps-to-sensational-surprise-revelation/"><u>[Updated] 2024 Approved 7 Steps to Sensational Surprise Revelation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-untangling-aerial-vehicles-a-guide-to-drones-operation/"><u>[Updated] Untangling Aerial Vehicles A Guide to Drones' Operation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-live-performances-best-audio-platforms/"><u>2024 Approved Top Live Performances Best Audio Platforms</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi Redmi Note 12 Pro+ 5G</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/aspect-ratio-essentials-for-social-network-videos-for-2024/"><u>Aspect Ratio Essentials for Social Network Videos for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/galaxy-s23-fe-music-recovery-recover-deleted-music-from-galaxy-s23-fe-by-fonelab-android-recover-music/"><u>Galaxy S23 FE Music Recovery - Recover Deleted Music from Galaxy S23 FE</u></a></li>
-<li><a href="https://extra-information.techidaily.com/taking-your-aerial-game-to-new-heights-with-dji-spark-reviewed/"><u>Taking Your Aerial Game to New Heights with DJI Spark Reviewed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unmissable-vr-immersive-storytelling-for-2024/"><u>Unmissable VR Immersive Storytelling for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-adeptness-at-mobile-app-development-for-luts/"><u>[New] 2024 Approved Adeptness at Mobile App Development for LUTs</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-entry-level-vector-exploration-grasping-different-forms/"><u>[New] 2024 Approved Entry-Level Vector Exploration Grasping Different Forms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-captivating-your-online-audience/"><u>[New] The Art of Captivating Your Online Audience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-secrets-to-adding-seconds-to-youtube-clips/"><u>[New] Unveiling Secrets to Adding Seconds to YouTube Clips</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/our-pathway-to-successful-youtube-beginnings-techniques-1-and-2-for-2024/"><u>[New] Your Pathway to Successful YouTube Beginnings (Techniques 1 & 2) for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-must-do-tasks-for-enhanced-podcast-experience/"><u>[Updated] Must-Do Tasks for Enhanced Podcast Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-voice-changers-guide-free-easy-pathways-for-auditory-enhancements/"><u>[Updated] The Voice Changer's Guide Free, Easy Pathways for Auditory Enhancements</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/dealing-with-the-infamous-alc887-driver-quandary-fixing-sound-issues-in-windows-systems/"><u>Dealing with the Infamous ALC887 Driver Quandary: Fixing Sound Issues in Windows Systems</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-how-to-find-your-comments-on-youtube-on-desktopiphoneandroid/"><u>In 2024, How to Find Your Comments on YouTube on Desktop/iPhone/Android</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-best-add-ons-to-boost-your-gopro/"><u>In 2024, Top 10 Best Add-Ons to Boost Your GoPro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-luminous-images-a-comprehensive-lightroom-guide/"><u>In 2024, Unlocking Luminous Images A Comprehensive Lightroom Guide</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/stay-powered-all-day-with-the-moto-g-play-a-balance-of-great-battery-and-competent-specs-reviewed/"><u>Stay Powered All Day with the Moto G Play - A Balance of Great Battery and Competent Specs Reviewed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transforming-your-tiktok-profile-altering-account-numbers-for-2024/"><u>Transforming Your TikTok Profile Altering Account Numbers for 2024</u></a></li>
 </ul></div>
 

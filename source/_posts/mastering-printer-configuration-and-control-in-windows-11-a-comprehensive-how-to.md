@@ -1,7 +1,7 @@
 ---
 title: Mastering Printer Configuration & Control in Windows 11 – A Comprehensive How-To
-date: 2024-12-21T19:35:34.334Z
-updated: 2024-12-28T17:48:41.190Z
+date: 2024-12-31T23:57:45.361Z
+updated: 2025-01-07T11:18:58.534Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Mastering Printer Configuration & Control in Windows 11 – A Comprehensive How-To
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -28,10 +24,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [How to Troubleshoot a Printer](https://fox-helps.techidaily.com/new-complete-guide-to-mastering-picsart/)
 
  Windows 10 has a new Settings window for configuring printers, but you can still use the old Control Panel tools, too. Here's what you need to know about installing, configuring, sharing, and troubleshooting printers on Windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Add a Printer
 
@@ -55,13 +47,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![img_5b760d784359d](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760d784359d.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the Control Panel, right-click a printer to find various options.
 
 ![img_5b760dc514f59](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760dc514f59.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To change how the printer prints, click the "Printing Preferences" option in the Settings window or context menu. You'll see a variety of options for controlling your prints here, and the settings you see will depend on the ones your printer supports.
 
@@ -69,9 +61,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![img_5b760ec197ec6](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760ec197ec6.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also access these settings while printing. Just select a printer in the Print window and then click the "Preferences" button. Note that some applications have their own print dialogs, so this option might not always be present or the window might look different
 
 ![img_5b760ef96454b](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760ef96454b.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Change Printer Device Settings
 
@@ -88,7 +88,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## ![](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760f9652249.png)How to Print a Test Page
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can quickly check whether your printer is working and configured properly by printing a test page. Locate the printer in Settings > Devices > Printers & Scanners, click it, click the "Manage" button, and click the "Print a test page" link.
@@ -96,7 +96,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![img_5b76126767084](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b76126767084.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  From the Control Panel interface, right-click a printer and select "Printer Properties." Click the "Print Test Page" button.
@@ -112,16 +112,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![img_5b76132b50e9d](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b76132b50e9d.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To choose your default printer, click a printer in the Printers & Scanners list, click "Manage," and click the "Set as Default" button.
 
 ![img_5b7613d4cbff2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b7613d4cbff2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also right-click a printer in the Control Panel's Devices and Printers window and select "Set as Default Printer" to set it as your default.
 
 ![img_5b7612fc559b2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b7612fc559b2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Manage Your Print Queue
 
@@ -141,10 +149,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![img_5b761543dc6fd](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b761543dc6fd.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Create Multiple Printer Profiles
 
  Normally, you must go into your printer's preferences or properties to change various settings. However, this can be inconvenient when you have multiple groups of settings you want to toggle between. For example, perhaps you have a color printer on which you sometimes print high-quality color photos and sometimes print lower detail black and white documents.
@@ -154,7 +158,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![img_5b76026c81a21](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b76026c81a21.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Set Up a Shared Printer
@@ -166,6 +170,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To [share a printer](https://iphone-unlock.techidaily.com/in-2024-forgot-apple-iphone-6-plus-backup-password-heres-what-to-do-drfone-by-drfone-ios/), open the printer's Properties dialog. To do so via the new interface, head to Settings > Devices > Printers & Scanners, click the printer's name, click "Manage," and then click "Printer Properties." To do it in the old way, head to Control Panel > Hardware & Sound > Devices and Printers, right-click the printer, and then select "Printer Properties." Click the "Sharing" tab, check the "Share this printer" option, and give the printer a name.
 
 ![img_5b76108e3056f](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b76108e3056f.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  With the default settings, people on your local network can find the printer—but they'll need the username and password of an account on your computer to connect to it. The printer should be automatically detected as an available printer in the normal Add Printer interface. Bear in mind that the printer won't be available while your computer is asleep.
 
@@ -179,17 +187,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![img_5b7616f600c24](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b7616f600c24.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The printer troubleshooter checks for a variety of issues that could cause printing problems on your PC and tried to fix any it finds.
 
 ![img_5b7617390a489](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b7617390a489.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the printer has a built-in display, check the display to see if it's reporting an error message. If you're not sure what the error messages mean, try plugging them into a web search engine or looking them up in your printer's manual.
 
@@ -210,20 +210,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-ultimate-list-best-video-cameras-s-musical-cinematography/"><u>[New] 2024 Approved Ultimate List Best Video Cameras 'S Musical Cinematography</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-complete-handbook-for-telegram-web-newbies/"><u>[New] The Complete Handbook for Telegram Web Newbies</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-leading-selection-no-cost-outstanding-lut-links/"><u>[New] The Leading Selection No-Cost, Outstanding LUT Links</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-8-photo-montage-synthesizer-online/"><u>[New] Ultimate 8 Photo Montage Synthesizer Online</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-earnings-expansion-on-glamour-channels/"><u>[Updated] Earnings Expansion on Glamour Channels</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-expert-advice-on-free-youtube-events-without-extra-cost-for-2024/"><u>[Updated] Expert Advice on Free Youtube Events without Extra Cost for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleash-the-power-of-split-window-on-netflix-platform/"><u>[Updated] Unleash the Power of Split Window on Netflix Platform</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-path-to-flawless-video-subtitles-via-internet-services/"><u>2024 Approved The Ultimate Path to Flawless Video Subtitles via Internet Services</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722970858652-arbitration-can-be-less-formal-than-court-proceedings-potentially-reducing-the-time-and-cost-associated-with-dispute-resolution/"><u>Arbitration Can Be Less Formal than Court Proceedings, Potentially Reducing the Time and Cost Associated with Dispute Resolution.</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-sound-speeds-in-spotify-without-compromise/"><u>In 2024, Streamlining Sound Speeds in Spotify Without Compromise</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-s23-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy S23</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-13-ultra-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from 13 Ultra</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-nokia-105-classic-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Nokia 105 Classic for Streaming | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-ranked-animation-set-for-typography-for-2024/"><u>Top-Ranked Animation Set for Typography for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/understanding-the-dynamics-of-ig-reels-vs-ig-stories/"><u>Understanding the Dynamics of IG Reels Vs IG Stories</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-practices-where-to-download-text-overlays/"><u>[New] Best Practices Where to Download Text Overlays</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-chatcam-downloader-high-quality/"><u>[New] ChatCam Downloader, High Quality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-fastest-route-for-srt-to-text-file-conversion/"><u>[New] The Fastest Route for SRT to Text File Conversion</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-absurd-adventures-your-guide-to-wildest-tiktok-gaming-escapades/"><u>[Updated] Absurd Adventures Your Guide to Wildest TikTok Gaming Escapades</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-echo-chamber-of-creativity-crafting-compelling-podcast-stories/"><u>[Updated] The Echo Chamber of Creativity Crafting Compelling Podcast Stories</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/1-ripulire-i-file-cancellati-per-errore-in-esplora-cartelle/"><u>1. Ripulire I File Cancellati per Errore in Esplora Cartelle</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-strategizing-the-open-door-to-market-success/"><u>2024 Approved Strategizing the Open Door to Market Success</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-script-conversion-from-text-formats-to-engaging-srt/"><u>2024 Approved Streamlining Script Conversion From Text Formats to Engaging SRT</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-legacy-of-memories-scanning-and-storing-vintage-photographs/"><u>2024 Approved The Legacy of Memories Scanning and Storing Vintage Photographs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-list-of-viral-stock-images-and-stories/"><u>2024 Approved The Ultimate List of Viral Stock Images & Stories</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerating-ide-performance-android-studio-tips/"><u>Accelerating IDE Performance: Android Studio Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-radeon-pro-w5700-drivers-download-now-for-windows-11-10-and-7-compatibility/"><u>AMD Radeon Pro W5700 Drivers: Download Now for Windows 11, 10 & 7 Compatibility</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/beyond-the-screen-shaping-perceptions-on-instagram-through-captions-for-2024/"><u>Beyond the Screen - Shaping Perceptions on Instagram Through Captions for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/detailed-product-information-overview/"><u>Detailed Product Information Overview</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-how-to-transfer-playlists-between-music-services-a-detailed-guidance/"><u>In 2024, How to Transfer Playlists Between Music Services – A Detailed Guidance</u></a></li>
+<li><a href="https://fox-making.techidaily.com/organizational-component-strategies-and-implementation/"><u>Organizational Component Strategies and Implementation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-snapchat-storytelling-learn-to-zoom-like-pros-for-2024/"><u>Transform Your Snapchat Storytelling Learn to Zoom Like Pros for 2024</u></a></li>
 </ul></div>
 

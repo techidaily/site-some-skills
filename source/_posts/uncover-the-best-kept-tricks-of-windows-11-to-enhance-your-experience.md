@@ -1,7 +1,7 @@
 ---
 title: Uncover the Best-Kept Tricks of Windows 11 to Enhance Your Experience
-date: 2024-12-22T18:13:55.175Z
-updated: 2024-12-28T20:33:59.967Z
+date: 2025-01-04T08:03:29.139Z
+updated: 2025-01-06T23:14:00.917Z
 tags:
   - deals
 categories:
@@ -38,6 +38,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![General privacy settings on Windows displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/general-privacy-settings-on-windows.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, return to the "Privacy & Security" menu and go to "Activity History" under Windows Permissions.
 
 ![Activity history settings on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-activity-history.png) 
@@ -49,10 +53,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  One last setting you should consider is the one that sends diagnostic data to Microsoft. Again, go back to "Privacy & Settings." This time, go to "Diagnostics & Feedback" under Windows Permissions.
 
 ![Different privacy and security settings on Windows being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/diagnostics-and-feedback-settings-on-windows.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Toggle the buttons to turn off sending all types of diagnostic data. Then press the "Delete" button to clear any previously collected data.
 
@@ -66,17 +66,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Windows Accessibility settings being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-accessibility-settings.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Turn on "Live Captions." You should see a prompt about permitting Microsoft to process your voice data locally. Press "Download" to agree.
 
 ![Windows Live Captions settings being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-live-captions.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now attend a meeting or play a video on a media player or on a browser to see live captions being generated for that.
 
 ![Windows Live Captions feature generating captions for a YouTube video](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-live-captions-feature.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can play around the settings of the caption box to suit your preferences.
 
@@ -86,23 +90,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Accessbility settings on Windows being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/accessbility-settings-on-windows.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Turn on "Voice Access." Then press "I Agree" when the popup appears.
 
 ![Voice Access on Windows turned on](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/voice-access-on-windows.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You'll be guided through a tutorial on using Voice Access. You can say different commands to perform actions or type using your voice when the mouse cursor is active on a typing box. Try using it on the Notepad.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Focus Sessions
 
@@ -117,7 +109,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Once you start a session, you'll see a new window with a clock, timer, task list, and other options. You can also integrate Spotify with Focus Sessions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  End Tasks From the Task Bar
@@ -134,6 +126,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Ending a task from the taskbar on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ending-task-from-the-taskbar-on-windows.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Minimize Windows by Shaking
 
  This is a fun little feature when you have a lot of windows open together, and you need to minimize all of them quickly. You can drag a single window's title bar and shake it to minimize all other windows. To turn this feature on, go to Settings > System > Multitasking.
@@ -144,11 +140,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Title bar windows shake option in the Windows settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/title-bar-windows-shake.png) 
 
- Be cautious though, because sometimes this can become a problem when you're just trying to move a window, but it's registered as a shake.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Be cautious though, because sometimes this can become a problem when you're just trying to move a window, but it's registered as a shake.
 
 ##  Scrolling Over the Volume Icon to Change the Volume
 
@@ -157,11 +153,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Scrolling to change volume on Windows-anim](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/scroll-to-change-volume-on-windows-anim.gif) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Instant Photo Transfer From Android
@@ -173,12 +165,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The option to turn on the Get new photo notifications setting being displyaed on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/7-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After that, take a photo or screenshot on your Android device while connected to the PC. You should see a notification on your Windows PC.
 
 ![A notification being displayed on Windows 11 after taking a photo on Android](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/android-photo-notification-on-windows-11-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can tap the notification to open the photo on the Snipping Tool and start editing. This also works if you're on mobile data on your Android. Check out the full tutorial on [instantly transferring your Android photos to your Windows PC](https://video-capture.techidaily.com/new-in-2024-unveiling-the-secrets-of-live-broadcasting-on-instagram-through-obs/).
 
@@ -189,6 +185,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Windows Start button hidden shortcuts being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-start-button-hidden-shortcuts.png) 
 
  One advantage of pressing Windows+X instead of right-clicking the Start button is that you'll notice all the options in the menu have an underlined letter. Pressing that underlined letter on your keyboard will open that option. For example, if you press Windows+X and then T, it will open the [Task Manager](https://some-skills.techidaily.com/new-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/). No need to touch the mouse.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  OCR in the Snipping Tool
 
@@ -225,24 +225,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-top-choice-webcams-boosting-podcast-quality/"><u>[New] 2024 Approved Top Choice Webcams Boosting Podcast Quality</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-experts-choice-best-hdmi-21-display-models-evaluated-for-2024/"><u>[New] Expert's Choice Best HDMI 2.1 Display Models Evaluated for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-powerful-path-to-flawless-photo-edits-mastering-background-eraser-use/"><u>[New] The Powerful Path to Flawless Photo Edits Mastering Background Eraser Use</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-scope-of-panoramic-filmmaking-explained/"><u>[New] The Scope of Panoramic Filmmaking Explained</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-tips-for-embedding-time-stamps-in-youtube-clips/"><u>[New] Tips for Embedding Time Stamps in YouTube Clips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-understanding-the-fundamentals-of-online-tales/"><u>[New] Understanding the Fundamentals of Online Tales</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-halovision-highlights-critique/"><u>[Updated] 2024 Approved HaloVision Highlights Critique</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streamlining-projects-using-azures-speech-service/"><u>[Updated] Streamlining Projects Using Azure's Speech Service</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-artists-secret-high-quality-free-text-files/"><u>2024 Approved The Artist's Secret High-Quality Free Text Files</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-importance-of-non-primary-shots-in-media/"><u>2024 Approved The Importance of Non-Primary Shots in Media</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-premier-livestream-networks-you-need-to-watch/"><u>2024 Approved The Premier Livestream Networks You Need To Watch</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/androids-most-reliable-cloud-vault-apps-2024-edition/"><u>Android's Most Reliable Cloud Vault Apps - 2024 Edition</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/chromecast-with-google-tv-showdown-making-the-case-against-amazons-firetv/"><u>Chromecast with Google TV Showdown: Making the Case Against Amazon's FireTV</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/excel-efficiency-hacks-tips-for-seamless-undo-redo-and-repetition-of-tasks-using-shortcuts/"><u>Excel Efficiency Hacks: Tips for Seamless Undo, Redo, and Repetition of Tasks Using Shortcuts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/exclusive-selection-of-top-hd-stream-cameras-for-2024/"><u>Exclusive Selection of Top HD Stream Cameras for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/hot-topic-in-photos-memes-and-their-origin-tales/"><u>Hot Topic in Photos Memes & Their Origin Tales</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigating-firefoxs-picture-in-picture-capabilities-for-2024/"><u>Navigating Firefox's Picture-in-Picture Capabilities for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-12-pro-max-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On iPhone 12 Pro Max You Should Try Out</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-psd-shadow-gradient-for-2024/"><u>Ultimate PSD Shadow Gradient for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-optimizing-your-podcasts-itunes-placement-for-2024/"><u>[New] Optimizing Your Podcast's iTunes Placement for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tailored-video-epilogue-templates-available-free/"><u>[New] Tailored Video Epilogue Templates Available Free</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-swiftly-address-iphone-photography-blur/"><u>[Updated] Swiftly Address iPhone Photography Blur</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-level-up-your-farming-life-explore-7-14-mods/"><u>2024 Approved Level Up Your Farming Life - Explore #7-14 Mods</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-master-class-screenscreen-recording-using-adobe-captivating-software/"><u>2024 Approved Master Class Screenscreen Recording Using Adobe Captivating Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-variations-in-windows-movie-maker-clones/"><u>2024 Approved Variations in Windows Movie Maker Clones</u></a></li>
+<li><a href="https://win-answers.techidaily.com/battlefield-2042-performance-woes-troubleshooting-pc-frame-rate-hitches-and-lags/"><u>Battlefield 2042 Performance Woes: Troubleshooting PC Frame Rate Hitches & Lags</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-iphone-6s-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On iPhone 6s</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transformative-teleportation-effects-techniques/"><u>In 2024, Transformative Teleportation Effects Techniques</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-file-management-apps-for-android-user-reviews-and-comparisons/"><u>Top-Rated File Management Apps for Android: User Reviews and Comparisons</u></a></li>
 </ul></div>
 

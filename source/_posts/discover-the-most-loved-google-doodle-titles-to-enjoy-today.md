@@ -1,7 +1,7 @@
 ---
 title: Discover the Most Loved Google Doodle Titles to Enjoy Today
-date: 2024-12-24T17:04:58.507Z
-updated: 2024-12-28T16:54:38.238Z
+date: 2025-01-05T19:03:46.163Z
+updated: 2025-01-06T21:24:18.689Z
 tags:
   - web
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Discover the Most Loved Google Doodle Titles to Enjoy Today
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -30,21 +30,29 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Google keeps its main search page fresh with fun doodles that change every couple of days. Occasionally, the doodle is an actual game that you can play. These games are archived and can be played after their time on the homepage has passed. They're perfect for passing the time without needing to download anything.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  #1: [Baseball](http://www.google.com/doodles/fourth-of-july-2019) 
 
 ![doodle baseball](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/2021-04-29_16-52-45.png) 
 
- There have been several sports-based doodle games, but the one we spent the most time on was Baseball from the 2019 4th of July.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ There have been several sports-based doodle games, but the one we spent the most time on was Baseball from the 2019 4th of July.
 
 ##  #2: [Pac-Man](http://www.google.com/doodles/fourth-of-july-2019) 
 
 ![google pac-man](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/2021-04-29_17-02-09.png) 
 
  Everyone knows Pac-Man. It's a classic for a reason. The Doodle version is just as fun as always.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  #3: [Quick, Draw!](http://quickdraw.withgoogle.com/) 
 
@@ -58,16 +66,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 [![scoville game](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/2021-04-29_17-07-51.png)](https://quickdraw.withgoogle.com/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [](https://quickdraw.withgoogle.com/) 
 
  The Scoville Game is all about trying to defeat spicy peppers with ice cream. You learn about the Scoville Scale in the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  #5: [Basketball](https://www.google.com/doodles/wilbur-scovilles-151st-birthday) 
 
 ![google baskeball](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/2021-04-29_17-13-44.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This is another classic sports game. See how many shots you can make in 24 seconds.
@@ -82,10 +98,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![garden gnome game](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/2021-04-29_17-16-25.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The goal of the Garden Gnome game is to launch a gnome as far as you can with a catapult.
 
 ##  #8: [Coding Rabbit](https://www.google.com/doodles/celebrating-garden-gnomes) 
@@ -94,17 +106,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 [![rabbit coding game](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/2021-04-29_17-18-14.png)](https://www.google.com/doodles/celebrating-garden-gnomes)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [](https://www.google.com/doodles/celebrating-garden-gnomes) 
 
  Coding Rabbit is a great game to introduce your kids to coding. The goal is to use basic, block-based coding concepts to help a rabbit to a carrot.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  #9: [Cricket](https://www.google.com/doodles/celebrating-50-years-of-kids-coding) 
 
@@ -117,10 +121,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 [](https://www.google.com/doodles/icc-champions-trophy-2017-begins)
 
 [![google rubik's cube](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/2021-04-29_17-21-22.png)](https://www.google.com/doodles/icc-champions-trophy-2017-begins)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [](https://www.google.com/doodles/icc-champions-trophy-2017-begins) 
 
@@ -145,19 +145,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-finding-those-who-fled-my-insta-friends/"><u>[New] In 2024, Finding Those Who Fled My Insta Friends</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-srt-expertise-essential-insights/"><u>[New] Unlocking SRT Expertise Essential Insights</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-the-art-of-creating-shareable-content-on-fb-for-2024/"><u>[Updated] The Art of Creating Shareable Content on Fb for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-complete-visual-field-review-with-cam/"><u>2024 Approved Complete Visual Field Review with Cam</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/acer-aspire-e-15-excelling-in-value-for-money-your-go-to-pick-for-budget-friendly-power-on-the-move/"><u>Acer Aspire E 15 - Excelling in Value for Money, Your Go-To Pick for Budget-Friendly Power on the Move</u></a></li>
-<li><a href="https://win-able.techidaily.com/crusader-kings-ii-wont-start-troubleshooting-guide/"><u>Crusader Kings II Won't Start: Troubleshooting Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-go-joystick-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Vivo S18 Pro? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-honor-90-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Honor 90</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-nokia-c12-plus-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-impressive-hdr-photography-for-portraits/"><u>In 2024, Unveiling Impressive HDR Photography for Portraits</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-in-depth-study-of-audafreedomaudiotools-for-2024/"><u>The In-Depth Study of AudaFreedomAudioTools for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-30-mobile-video-edits-using-dji-technology-for-2024/"><u>Top 30 Mobile Video Edits Using DJi Technology for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-tier-reddit-discussions-a-list-of-the-ten-greatest-for-2024/"><u>Top Tier Reddit Discussions - A List of the Ten Greatest for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/write-beyond-limits-6-tips-to-leverage-chatgpt-for-original-content/"><u>Write Beyond Limits: 6 Tips to Leverage ChatGPT for Original Content</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-asus-mg28uq-4k-monitor-review/"><u>[New] In 2024, ASUS MG28UQ 4K Monitor Review</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-harmonizing-your-footage-with-optimal-aspect-ratios/"><u>[New] In 2024, Harmonizing Your Footage With Optimal Aspect Ratios</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-nexus-of-networks-merging-instagram-and-tiktok/"><u>[New] Nexus of Networks Merging Instagram and TikTok</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-fiscally-friendly-celestial-saving-service-for-files/"><u>[New] The Fiscally Friendly Celestial Saving Service for Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-windows-mobile-video-playback-guide/"><u>[New] The Ultimate Windows Mobile Video Playback Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-easysnap-win11-no-hassle-just-screenshots-for-2024/"><u>[Updated] EasySnap Win11 No Hassle, Just Screenshots for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-picks-the-ultimate-android-mp3-downloader-collection/"><u>[Updated] Top Picks The Ultimate Android MP3 Downloader Collection</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagram-success-stories-adopting-viral-techniques-from-tiktok/"><u>2024 Approved Instagram Success Stories Adopting Viral Techniques From TikTok</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/dive-deep-into-the-digital-world-adding-panoramic-photos-to-your-feed-for-2024/"><u>Dive Deep Into the Digital World Adding Panoramic Photos to Your Feed for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Lava Blaze 2? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-motorola-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Motorola Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-superior-mkv-player-pcandroid-experience/"><u>In 2024, Superior MKV Player PC/Android Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-beginners-guide-to-iphone-slow-movement-videography/"><u>In 2024, The Beginner's Guide to iPhone Slow Movement Videography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-potential-top-10-os-xwin-enhancements-for-srt/"><u>In 2024, Unleashing Potential Top 10 OS X/Win Enhancements for SRT</u></a></li>
+<li><a href="https://some-skills.techidaily.com/leading-brands-of-steadicams-for-professional-drones-in-film-for-2024/"><u>Leading Brands of Steadicams for Professional Drones in Film for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protecting-privacy-from-chatgpts-scope/"><u>Protecting Privacy From ChatGPT's Scope</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/swiftly-convert-creepy-slow-videos-with-best-apps-for-2024/"><u>Swiftly Convert Creepy-Slow Videos with Best Apps for 2024</u></a></li>
 </ul></div>
 

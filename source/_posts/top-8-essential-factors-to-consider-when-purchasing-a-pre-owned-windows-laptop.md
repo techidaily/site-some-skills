@@ -1,7 +1,7 @@
 ---
 title: Top 8 Essential Factors to Consider When Purchasing a Pre-Owned Windows Laptop
-date: 2024-12-25T18:57:15.144Z
-updated: 2024-12-28T19:18:57.709Z
+date: 2024-12-31T00:25:33.539Z
+updated: 2025-01-07T02:22:25.107Z
 tags:
   - deals
 categories:
@@ -24,6 +24,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Buying a used laptop can indeed save you money, but it does come with some risks. This is why you should thoroughly examine the laptop before closing the deal to avoid unpleasant surprises later on. If you doubt the credibility of the seller, here's how you can test the used laptop.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Test the Keyboard and Trackpad
 
  Begin the laptop inspection by testing the keyboard and trackpad first. To test the keyboard, go to a keyboard testing website like [Keyboard Tester](https://www.keyboardtester.com/tester.html) and press each key from the first to the last. If all keys register correctly, the keyboard is likely in good condition. Also, make sure you feel comfortable typing on the keyboard.
@@ -31,12 +35,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Keyboard tester typing letters in lowercase with Caps Lock off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-keyboard-tester-typing-letters-in-lowercase-with-caps-lock-off.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To test the trackpad, hover over the screen to gauge its responsiveness. Then, experiment with different trackpad gestures, such as pinch-to-zoom and two-finger scroll, to see which ones are supported. If you have another laptop, you can compare trackpad responsiveness by conducting a touchpad accuracy test on both laptops using the [No-Cursor website](https://no-cursor.com/).
 
  This will help you confirm whether the trackpad on your new laptop is equally or more responsive than the other one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Test the Speakers and Built-In Microphone
 
@@ -46,12 +54,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Testing the laptop speaker in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/1-testing-the-laptop-speaker-in-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To [test the built-in microphone](https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-y200e-5g-drfone-by-drfone-virtual-android/), return to the sound settings, click on "Microphone Array," and then click on the "Start Test" button next to Test Your Microphone. Speak for a few seconds, then stop the test. If you see a decent volume percentage recorded, the microphone is working as it should.
 
 ![Testing the laptop microphone in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-testing-the-laptop-microphone-in-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Test the Built-In Camera
@@ -74,19 +86,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Checking the laptop battery report.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_5.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Ensure the Laptop Isn't Stolen
 
  If you're thinking about buying a used laptop from an unknown seller, make sure that it hasn't been stolen. One way to check this is to request a purchase receipt from the seller. If they are unable to provide one, this could be a red flag. If the laptop hasn't been reset, is password-protected, or is locked, these signs indicate that it's likely a stolen device.
 
  You can also confirm your suspicions by getting the laptop's serial number and contacting the manufacturer to verify whether the device has been reported stolen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Perform the Physical Inspection
 
@@ -105,10 +109,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Finally, [check the health of the RAM](https://hardware-help.techidaily.com/step-by-step-installation-amd-gpio-pin-driver-for-hexagon-devices/) and storage drive to ensure they're not faulty. To test the RAM, you can use the Windows Memory Diagnostic tool, which detects and displays potential issues with it. To run the test, open Command Prompt as an administrator, type **mdsched.exe**, and press Enter. Then, click "Restart Now and Check for Problems."
 
 ![Running the memory diagnostic test from Windows Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/3-running-the-memory-diagnostic-test-from-windows-command-prompt.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Windows will restart and run the test. Once it finishes testing the RAM, it'll restart again and display the test results. If you don't see them, you can use the Windows Event Viewer to search for potential issues identified during the test. Open Event Viewer and go to Windows Logs > System. Click "Find," type **MemoryDiagnostic**, and click "Find Next."
 
@@ -133,18 +133,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-clearscreen-pro-win11-live-video-recorder-for-2024/"><u>[New] ClearScreen Pro - Win11 Live Video Recorder for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-how-to-effortlessly-record-movies-on-win10-for-2024/"><u>[New] How to Effortlessly Record Movies on Win10 for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-redefining-efficiency-the-latest-in-windows-10-tech/"><u>[Updated] In 2024, Redefining Efficiency The Latest in Windows 10 Tech</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-13-easy-to-master-revenue-strategies-on-reddit/"><u>[Updated] Top 13 Easy-to-Master Revenue Strategies on Reddit</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-rapid-growth-on-youtube-harnessing-the-potential-of-outros/"><u>2024 Approved Rapid Growth on YouTube Harnessing the Potential of Outros</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-superior-ai-for-dynamic-imagery-creation/"><u>2024 Approved Superior AI for Dynamic Imagery Creation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-syncing-sonata-to-still-images-in-the-cyberrealm/"><u>2024 Approved Syncing Sonata to Still Images in the Cyberrealm</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-top-12-html5-video-engines/"><u>In 2024, The Ultimate Guide to Top 12 HTML5 Video Engines</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transforming-slow-motion-into-fast-action/"><u>In 2024, Transforming Slow Motion Into Fast Action</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-guide-to-editbox-suite-reviewed/"><u>In 2024, Ultimate Guide to EditBox Suite, Reviewed</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-chatgpt-a-trustworthy-source-for-health-related-answers/"><u>Is ChatGPT a Trustworthy Source for Health-Related Answers?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/local-ai-fun-without-the-fuss-get-started-with-a-free-open-source-chatgpt-copy-gpt-4all-for-windows-users/"><u>Local AI Fun Without the Fuss: Get Started With a Free, Open-Source ChatGPT Copy - GPT-4All for Windows Users!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-4-artificial-intelligence-strategies-to-boost-academic-study/"><u>Top 4 Artificial Intelligence Strategies to Boost Academic Study</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-immerse-in-digital-spaces-pcs-premier-10-vr-playback-systems/"><u>[New] Immerse in Digital Spaces PC’s Premier 10 VR Playback Systems</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-giggle-genesis-conceptualizing-7-funny-youtube-sessions/"><u>[Updated] Giggle Genesis Conceptualizing 7 Funny YouTube Sessions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-compilation-of-premium-free-srt-translators/"><u>[Updated] The Ultimate Compilation of Premium Free SRT Translators</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-creative-potential-with-top-tips-for-gopro-timelapses/"><u>[Updated] Unleash Creative Potential with Top Tips for GoPro Timelapses</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-cost-effective-obs-setup-tips/"><u>2024 Approved Cost-Effective OBS Setup Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-the-essence-of-digital-chronicles/"><u>2024 Approved Understanding the Essence of Digital Chronicles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-creativity-inshot-video-editing-on-your-pc/"><u>2024 Approved Unleash Creativity Inshot Video Editing on Your PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-your-play-top-10-reasons-for-pc-gaming/"><u>Enhance Your Play: Top 10 Reasons for PC Gaming</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-lava-blaze-2-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c02-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Nokia C02 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tunes-twining-a-new-multimedia-approach/"><u>In 2024, Tunes Twining A New Multimedia Approach</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-the-world-of-audio-with-apods-for-2024/"><u>Navigating the World of Audio with APods for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/optimized-process-for-melding-gopro-sequences-in-full-dome-videos/"><u>Optimized Process for Melding GoPro Sequences in Full-Dome Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/swift-top-tier-photo-viewing-app-for-2024/"><u>Swift Top-Tier Photo Viewing App for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-selection-childrens-drone-choices-for-2024/"><u>Ultimate Selection Children's Drone Choices for 2024</u></a></li>
 </ul></div>
 

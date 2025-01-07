@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Tutorial: Enabling Specific Ports in Windows Firewall Settings"
-date: 2024-12-24T16:02:31.040Z
-updated: 2024-12-28T20:06:03.581Z
+date: 2025-01-03T03:24:02.680Z
+updated: 2025-01-07T02:40:50.572Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 ---
 
 ## Ultimate Tutorial: Enabling Specific Ports in Windows Firewall Settings
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -29,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
  Firewalls are there to protect you from threats on the internet (both traffic from the internet and from local applications trying to gain access when they shouldn't). Sometimes, though, you'll want to allow otherwise restricted traffic through your firewall. To do so, you'll have to open a port.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Do Ports Do? 
@@ -44,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 
 ![Search for "Windows Defender" in the Start menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-search-windows-defender-firewall.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once Windows Firewall opens, click on "Advanced Settings."
 
 ![Click on "Advanced Settings" on the left-hand side.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-click-advanced-setting.png) 
@@ -59,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
  If you need to open a rule for outgoing traffic, instead of clicking "Inbound Rule," you'd click "Outbound Rule." Most apps are pretty good about creating their own outbound rules when you install them, but you might occasionally run into one that cannot.
 
 ![There is also an "Outbound Rules" button too.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-outbound-rules.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  On the Rule Type page, select the "Port" option and then click "Next."
 
@@ -76,13 +64,13 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 
 ![Select the port you want to forward. Do not open "All local ports."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-specify-ports.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the next page, click "Allow the Connection" and then click "Next."
 
 ![/wordpress/wp-content/uploads/2018/11/2018-11-10_12h22_57.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/11/2018-11-10_12h22_57.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  For this guide, we'll be using the "Allow the Connection" option, as we trust the connection for which we're creating a rule. If you want a little more piece of mind, the "Allow the connection if it is secure" rule uses [Internet Protocol security (IPsec)](https://www.howtogeek.com/211329/which-is-the-best-vpn-protocol-pptp-vs.-openvpn-vs.-l2tpipsec-vs.-sstp/) to authenticate the connection. You can try that option, but many apps do not support it. If you try the more secure option and it doesn't work, you can always come back and change to the less secure one.
 
@@ -94,13 +82,25 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 
 ![Choose which networks the rule applies to.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/8-choose-relevant.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the final window, give your new rule a name and an optional, more detailed description. Click "Finish" when you're done.
 
 ![Enter a rule name and description.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/9-click-finish-after-entering-description.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to disable the rule at any point, locate it in the list of Inbound or Outbound Rules, right-click it, and then click "Disable Rule."
 
 ![Right-click the rule to disable it without removing it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/10-disable-the-rule.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That's all there is to it. If you need to open any other ports for a different program or with a different rule, repeat the steps above using a different set of ports to open.
 
@@ -119,19 +119,22 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-check-your-youtube-channels-for-accurate-monetization-practices-for-2024/"><u>[New] Check Your YouTube Channels for Accurate Monetization Practices for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-quiet-quality-of-comfort-asmr-expert-choices/"><u>[New] The Quiet Quality of Comfort ASMR Expert Choices</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-maximizing-your-time-best-ways-to-follow-facebook-live/"><u>[Updated] 2024 Approved Maximizing Your Time Best Ways to Follow Facebook Live</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-30-list-of-no-cost-high-quality-online-film-effects-tools/"><u>[Updated] The Ultimate 30 List of No-Cost, High-Quality Online Film Effects Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-total-sphere-camera-systems/"><u>[Updated] Total Sphere Camera Systems</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-techniques-for-depicting-realism-in-docuscripts/"><u>2024 Approved Techniques for Depicting Realism in Docuscripts</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-the-ultimate-watch-list-top-10-music-clips-on-facebook/"><u>2024 Approved The Ultimate Watch List Top 10 Music Clips on Facebook</u></a></li>
-<li><a href="https://blog-min.techidaily.com/educational-government-and-nonprofit-macxdvd-special-pricing/"><u>Educational, Government & Nonprofit MacXDVD Special Pricing</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-veritable-value-of-voice-podcasters-earnings-analysis/"><u>In 2024, The Veritable Value of Voice Podcasters’ Earnings Analysis</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/merging-melodies-the-art-of-crossfading/"><u>Merging Melodies The Art of Crossfading</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-instructions-getting-your-laptop-mic-back-online/"><u>Step-by-Step Instructions: Getting Your Laptop Mic Back Online</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/mlining-video-dispatch-to-facebook-from-youtube/"><u>Streamlining Video Dispatch to Facebook From YouTube</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-ultimate-gameplay-journey-top-10-adventures-in-gaming/"><u>The Ultimate Gameplay Journey Top 10 Adventures in Gaming</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-5-secrets-to-successful-and-memorable-titles/"><u>[New] 5 Secrets to Successful and Memorable Titles</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-directors-of-the-airspace-editing-for-impactful-drone-videos-for-2024/"><u>[New] Directors of the Airspace Editing for Impactful Drone Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-best-professional-template-pack-for-premiere-pro/"><u>[New] The Best Professional Template Pack for Premiere Pro</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-legacy-of-memories-scanning-and-storing-vintage-photographs/"><u>[Updated] The Legacy of Memories Scanning and Storing Vintage Photographs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-list-legal-game-music-sources/"><u>[Updated] The Ultimate List Legal Game Music Sources</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-turbulence-tamer-for-mobile-cinematography/"><u>[Updated] Turbulence Tamer for Mobile Cinematography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-best-backgrounds-for-live-streaming-2023/"><u>2024 Approved Best Backgrounds for Live Streaming 2023</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-subscribers-manual-engaging-on-social-media-platforms/"><u>2024 Approved The Subscriber's Manual Engaging on Social Media Platforms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciphering-the-complexities-how-do-these-7-apps-function-with-gpt-4/"><u>Deciphering the Complexities: How Do These 7 Apps Function with GPT-4?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-facial-movements-using-blur-effects-in-picsart/"><u>In 2024, The Art of Facial Movements Using Blur Effects in Picsart</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/instant-image-perfection-advanced-cropping-guide/"><u>Instant Image Perfection - Advanced Cropping Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/introducing-the-next-era-of-ai-openais-new-gpt-4-breakthrough/"><u>Introducing the Next Era of AI: OpenAI's New GPT-^4 Breakthrough</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/key-aspects-to-evaluate-when-investing-in-a-new-projector/"><u>Key Aspects to Evaluate When Investing in a New Projector</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essential-blueprint-for-crafting-compelling-reddit-posts-for-2024/"><u>The Essential Blueprint for Crafting Compelling Reddit Posts for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unboxing-the-essence-of-dji-inspire-2-for-2024/"><u>Unboxing the Essence of DJI Inspire 2 for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-latest-in-pc-components-at-tomtech-hq/"><u>Unveiling the Latest in PC Components at TomTech HQ</u></a></li>
 </ul></div>
 

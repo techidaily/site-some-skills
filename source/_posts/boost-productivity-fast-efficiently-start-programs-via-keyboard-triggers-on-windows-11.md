@@ -1,7 +1,7 @@
 ---
 title: "Boost Productivity Fast: Efficiently Start Programs via Keyboard Triggers on Windows 11"
-date: 2024-12-25T16:21:02.542Z
-updated: 2024-12-28T19:22:25.300Z
+date: 2025-01-01T19:54:46.429Z
+updated: 2025-01-07T09:10:03.048Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 ---
 
 ## Boost Productivity Fast: Efficiently Start Programs via Keyboard Triggers on Windows 11
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -42,14 +38,10 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
 ![Windows 11 with the Steam app pinned to the Taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/windows-steam-taskbar-1.jpeg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  While this method is fairly simple, its biggest drawback is that you can only use the taskbar shortcuts for a maximum of ten applications, with Win+0 being the key combination to launch the tenth.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Use App Properties Shortcuts to Open Apps
@@ -60,21 +52,21 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
 ![Creating a shortcut of an app on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/create-shortcut-1.jpeg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Right-click on the newly created shortcut and select "Properties" to open another window.
 
 ![A screenshot of Windows 11 depicting the Properties option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/windows-11-properties-1.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Within the "Shortcut Key" field, press a key. This creates a shortcut using the Ctrl and Alt keys. For example, in the screenshot below, I pressed "A" which created a shortcut of Ctrl + Alt + A. Once done, click "OK".
 
 ![Setting a shortcut key from the Properties window on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/properties-shortcut-key.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To remove a shortcut, press the Delete key within the "Shortcut Key" field.
 
@@ -106,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
 ![AutoHotkey with the 'New Script' option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/autohotkey-new-script.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, give your script a name and select the "Edit" button.
 
 ![A screenshot of AutoHotkey with the Name and Edit options highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/autohotkey-name.jpeg) 
@@ -113,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
  Choose Notepad (or a development environment of your choosing, if you're an advanced user) as the code editor and press "OK."
 
 ![A screenshot of AutoHotkey with the Notepad and OK options highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/autohotkey-notepad.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You’ll be greeted with an empty script. You can use the following syntax for creating a macro:
 
@@ -154,24 +154,24 @@ Run "C:\Program Files (x86)\Steam\steam.exe"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-elevate-your-gameplay-learn-to-use-kinemaster-effectively-then-compare-top-platforms/"><u>[New] In 2024, Elevate Your Gameplay Learn to Use KineMaster Effectively, Then Compare Top Platforms</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-swiftly-uncover-unfollowers-on-instagram/"><u>[New] In 2024, Swiftly Uncover Unfollowers on Instagram</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-secrets-of-effortless-online-video-downloading-on-pinterest/"><u>[New] Secrets of Effortless Online Video Downloading on Pinterest</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-battle-of-live-streamers-twitch-versus-youtube/"><u>[New] The Battle of Live Streamers Twitch Versus YouTube</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-the-ultimate-photo-frame-tools/"><u>[New] Unveiling the Ultimate Photo Frame Tools</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-elevating-creative-content-vimeo-vs-youtubes-approach-for-2024/"><u>[Updated] Elevating Creative Content Vimeo vs YouTube's Approach for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-upgraded-2023-samsung-bd-j5900/"><u>[Updated] Unveiling the Upgraded 2023 Samsung BD-J5900</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-updated-dialogue-tools-to-engage-audio-audiences/"><u>[Updated] Updated Dialogue Tools to Engage Audio Audiences</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-supreme-display-quality-top-10-ranking-of-4k-screens/"><u>2024 Approved Supreme Display Quality #Top 10 Ranking of 4K Screens</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transform-every-moment-top-ideas-for-productive-podcast-sessions/"><u>2024 Approved Transform Every Moment Top Ideas for Productive Podcast Sessions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/color-grading-movies-with-efficient-luts-usage/"><u>Color Grading Movies with Efficient Luts Usage</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mov-movies-on-xiaomi-redmi-13c-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Failed to play MOV movies on Xiaomi Redmi 13C 5G</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Honor Magic 5 | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-leading-ipad-audio-recorder-software-list-3/"><u>In 2024, Leading iPad Audio Recorder Software List #3</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleash-your-potential-top-6-head-mounted-cameras-by-gopro/"><u>In 2024, Unleash Your Potential Top 6 Head-Mounted Cameras by GoPro</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/learn-how-to-set-up-a-linux-system-alongside-windows-in-minutes/"><u>Learn How to Set Up a Linux System Alongside Windows in Minutes!</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/izing-youtube-clicks-with-imagery-for-2024/"><u>Maximizing YouTube Clicks with Imagery for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-10-sites-for-high-end-vector-graphics-for-2024/"><u>Top 10 Sites for High-End Vector Graphics for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-ranked-ai-enhanced-image-maker-for-2024/"><u>Top-Ranked AI Enhanced Image Maker for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-open-access-select-free-youtube-design-patterns/"><u>[New] In 2024, Open Access Select Free YouTube Design Patterns</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tapping-into-community-spirit-a-guide-to-thriving-fb-gifting-campaigns/"><u>[New] Tapping Into Community Spirit A Guide to Thriving FB Gifting Campaigns</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-powerdirector-guide/"><u>[New] Ultimate PowerDirector Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-venturing-into-video-production-top-5-mac-videographers/"><u>[New] Venturing Into Video Production? Top 5 Mac Videographers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-quick-and-painless-podcast-go-live-technique/"><u>[Updated] The Quick and Painless Podcast Go Live Technique</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-ultimate-tutorial-sending-subtitles-via-srt-to-twitter-facebook-and-more-for-2024/"><u>[Updated] The Ultimate Tutorial Sending Subtitles via SRT to Twitter, Facebook & More for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-visionary-voices-triumph-online/"><u>[Updated] Visionary Voices Triumph Online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streaming-royalty-ranking-the-top-10-platforms-for-real-time-content/"><u>2024 Approved Streaming Royalty Ranking the Top 10 Platforms for Real-Time Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-compreenasive-breakdown-how-to-use-microsofts-movie-maker-on-w11/"><u>2024 Approved The Compreenasive Breakdown How to Use Microsoft's Movie Maker on W11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transformative-notetaking-the-mematic-way/"><u>2024 Approved Transformative Notetaking The Mematic Way</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-iphone-8-plus-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from iPhone 8 Plus</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-harnessing-power-in-pixels-top-10-instagram-video-ad-mastery-techniques/"><u>In 2024, Harnessing Power in Pixels Top 10 Instagram Video Ad Mastery Techniques</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-meizu-21-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Meizu 21 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-syma-x5c-exploration-top-choice-for-novice-aerial-enthusiasts/"><u>In 2024, Syma X5C Exploration Top Choice for Novice Aerial Enthusiasts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-camera-stability-in-photo-and-video-for-2024/"><u>Mastering Camera Stability in Photo & Video for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/metaversal-journey-versus-omniverse-quest/"><u>Metaversal Journey Versus Omniverse Quest</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlining-media-files-from-xmltxt-to-srt-mastery-for-2024/"><u>Streamlining Media Files From XML/TXT to SRT Mastery for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-your-creative-potential-with-inshot-for-pcs-and-laptops-for-2024/"><u>Unlock Your Creative Potential with Inshot for PCs & Laptops for 2024</u></a></li>
 </ul></div>
 
