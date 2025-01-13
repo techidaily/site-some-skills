@@ -1,7 +1,7 @@
 ---
 title: 1. Lost Your Mac Login Credentials? A Step-by-Step Guide on How to Recover
-date: 2025-01-04T01:57:37.751Z
-updated: 2025-01-07T11:12:50.838Z
+date: 2025-01-07T21:31:41.270Z
+updated: 2025-01-13T19:53:43.718Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## 1. Lost Your Mac Login Credentials? A Step-by-Step Guide on How to Recover
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -32,6 +28,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Can't remember your Mac's password? Don't worry. There are a few things you can try to gain access, and with your Apple ID or Recovery Key, you can simply change your password.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The First Things to Try
 
  If your Mac has been unlocked since you last booted it up, then you should be able to log in without the password. You might be able to use your fingerprint, or you can [unlock a Mac with an Apple Watch](https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/). However, even if you do this, you still won't be able to change your password without knowing the original one.
@@ -41,7 +41,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The question mark icon that shows your password hint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-question-mark-icon-that-shows-your-password-hint.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Try Signing in as Another User
@@ -51,10 +51,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Just head to System Settings > Users & Groups, click the "i" alongside the account for which you'd like to change the password, then click the "Reset" button and type in a new password.
 
 ![The setting that allows you to reset the password of another user.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-setting-that-allows-you-to-reset-the-password-of-another-user.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Reset Your Password Using Your Apple ID
 
@@ -69,7 +65,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The reset password box on the macOS lock screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-reset-password-box-on-the-macos-lock-screen.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, you'll see a warning that you'll lose access to your keychain if you change the password, since the password for the keychain will remain the same. This is a problem, but if you ever remember the old password, you will be able to gain access to the keychain again. Click "OK" to continue.
@@ -94,15 +90,15 @@ Close
 
 ![The Options screen when you launch Recovery mode on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-options-screen-when-you-launch-recovery-mode-on-macos.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  From macOS Recovery, you can access a hidden password reset tool and use it to change any user account's password on the Mac. On modern Macs, you'll still need your Apple ID, but you might be able to change the password without it on older machines.
 
  To launch the tool, open the Terminal by clicking Utilities > Terminal in the menu bar.
 
 ![Launch the Terminal through Recovery.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/launch-the-terminal-through-recovery.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  At the Terminal prompt, type:
 
@@ -111,6 +107,10 @@ Close
  Then hit Enter to launch the Reset Password tool. On encrypted Macs, you'll be prompted to enter your Apple ID details, but on older, non-encrypted Macs you'll simply be able to reset your password.
 
 ![The Recovery Assistant password reset screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-recovery-assistant-password-reset-screen.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Erase Your Mac
 
@@ -121,7 +121,7 @@ Close
 ![The Erase Mac settings in macOS Recovery.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-erase-mac-settings-in-macos-recovery.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  If You're Running an Older Version of macOS
@@ -151,22 +151,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-mixease-mac-and-windows-unifier/"><u>[New] MIXEase Mac & Windows Unifier</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-complete-windows-10-know-how-reference/"><u>[New] The Complete WINDOWS 10 Know-How Reference</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-economic-aspects-of-making-a-music-video/"><u>[New] The Economic Aspects of Making a Music Video</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-10-ingenious-ae-techniques-for-headline-hype/"><u>[New] Top 10 Ingenious AE Techniques for Headline Hype</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-free-up-space-superior-cloud-pickers-list/"><u>[New] Ultimate Free Up Space Superior Cloud Pickers' List</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-list-of-phone-editors-for-gopro-content/"><u>[New] Ultimate List of Phone Editors for GoPro Content</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-delving-into-ffmpeg-for-pure-unchanged-auditory-extraction-for-2024/"><u>[Updated] Delving Into FFmpeg for Pure, Unchanged Auditory Extraction for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-examining-the-income-mechanics-of-tseries-on-youtube-for-2024/"><u>[Updated] Examining the Income Mechanics of TSeries on YouTube for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-step-by-step-guide-to-linking-obs-and-streamlabs-mac/"><u>[Updated] Step-by-Step Guide to Linking OBS & Streamlabs (Mac)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-marketing-layers-deconstructing-strategys-packaging/"><u>2024 Approved Marketing Layers Deconstructing Strategy's Packaging</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-photography-journey-with-vsco-editing-tool/"><u>2024 Approved Ultimate Photography Journey with VSCO Editing Tool</u></a></li>
-<li><a href="https://extra-information.techidaily.com/blizzard-brilliance-olympic-peaks-in-beijing-for-2024/"><u>Blizzard Brilliance Olympic Peaks in Beijing for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-newest-driver-update-for-hp-deskjet-3755-inkjet-multi-function-printer-on-windows-1187/"><u>Download the Newest Driver Update for HP DeskJet 3755 Inkjet Multi-Function Printer on Windows 11/8/7</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-compendium-hands-free-device-interaction/"><u>In 2024, The Ultimate Compendium Hands-Free Device Interaction</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-easy-way-to-download-and-use-the-ifunny-meme-app-for-2024/"><u>The Easy Way to Download and Use the iFunny Meme App for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-realme-c33-2023-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Realme C33 2023 Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformacion-de-imagenes-jpeg-a-png-libre-y-descargable-en-internet/"><u>Transformación De Imágenes JPEG a PNG Libre Y Descargable en Internet</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-amplifying-audio-on-social-media-video-tweets/"><u>[New] Amplifying Audio on Social Media Video Tweets</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-master-image-correction-in-just-5-essential-android-editing-tools/"><u>[New] Master Image Correction in Just 5 Essential Android Editing Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-likes-strategies-for-captivating-tiktok-unboxers/"><u>[New] The Ultimate Guide to Likes Strategies for Captivating TikTok Unboxers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlining-your-viewing-vlc-versus-mx-comparison/"><u>[Updated] Streamlining Your Viewing VLC Versus MX Comparison</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tech-trends-unveiled-excellence-in-vr-treadmills/"><u>[Updated] Tech Trends Unveiled Excellence in VR Treadmills</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-top-pick-top-10-android-and-ios-wedding-countdown-clock-apps-of-the-year/"><u>[Updated] The Top Pick Top 10 Android and iOS Wedding Countdown Clock Apps of the Year</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-selecting-9-superior-streamscape-filters/"><u>[Updated] The Ultimate Guide to Selecting 9 Superior Streamscape Filters</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-thriving-on-the-grid-maximizing-your-telegram-impact/"><u>[Updated] Thriving on the Grid Maximizing Your Telegram Impact</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-gif-fetchers-on-ios-iphone-x-compatible-guide-for-2024/"><u>Best GIF Fetchers on iOS IPhone X-Compatible Guide for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/elevate-gaming-nvidias-rtx210-win11-driver-upgrade/"><u>Elevate Gaming: NVIDIA's RTX210 Win11 Driver Upgrade</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/o-get-more-subscribers-on-youtube-for-2024/"><u>How to Get More Subscribers on YouTube for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-infinix-note-30-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Infinix Note 30 Phone?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-picture-perfection-compreenhensive-facetune-review/"><u>In 2024, Unlock Picture Perfection Compreenhensive Facetune Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-full-capabilities-of-morphvox-voice-alteration/"><u>In 2024, Unlocking the Full Capabilities of MorphVOX Voice Alteration</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-finest-zero-cost-digital-darkroom-tools/"><u>In 2024, Unveiling the Finest Zero-Cost Digital Darkroom Tools</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/master-multimedia-chatting-on-tango-enjoy-no-cost-texts-audio-and-video-conversations/"><u>Master Multimedia Chatting on Tango – Enjoy No-Cost Texts, Audio, & Video Conversations</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-movies-tips-for-amazing-slow-motion-on-android-phones-for-2024/"><u>Transform Your Movies Tips for Amazing Slow Motion on Android Phones for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-solve-slow-response-time-from-keyboard-on-windows-10/"><u>Troubleshoot & Solve Slow Response Time From Keyboard on Windows 10</u></a></li>
 </ul></div>
 

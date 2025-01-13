@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Film-Maker’s Quick Guide to Perfect Sea Scenes\""
-date: 2024-08-21T00:19:05.598Z
-updated: 2024-08-22T00:19:05.598Z
+date: 2025-01-11T17:30:41.564Z
+updated: 2025-01-13T19:53:03.522Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/b1557e3d9700a9810b8b9bbec88362c53ba5a3f98
 
 # How to Shoot Underwater Video Easily (with 7 Tips)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -41,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/b1557e3d9700a9810b8b9bbec88362c53ba5a3f98
 
  It’s best to avoid shooting divers in mid-water. See if there is anything you can use to frame them, such as a wall, corals or marine life. It can take time to frame your divers, but try to get the best results you can to avoid being stuck with unsatisfactory footage further down the line.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![frame shot](https://images.wondershare.com/filmora/article-images/frame-shot.JPG)
 
 #### 2\. Get closer
@@ -54,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/b1557e3d9700a9810b8b9bbec88362c53ba5a3f98
 
  This will also make your images clearer and more colourful.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![get closer](https://images.wondershare.com/filmora/article-images/get-closer-underwater.JPG)
 
 #### 3\. Lighting is important
@@ -67,10 +58,11 @@ thumbnail: https://thmb.techidaily.com/b1557e3d9700a9810b8b9bbec88362c53ba5a3f98
 
  You can instead make use of natural sunlight, which should help you get the excellence you require even when you’re shooting at more than 30 metres depth. Deeper white balancing can be helpful during cloudy days.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![lightinng](https://images.wondershare.com/filmora/article-images/lightinng-underwater.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 4\. Stay steady
 
@@ -101,8 +93,9 @@ thumbnail: https://thmb.techidaily.com/b1557e3d9700a9810b8b9bbec88362c53ba5a3f98
 ![shoot shot](https://images.wondershare.com/filmora/article-images/shoot-colour.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Edit your footage
 
  To make your underwater videos good rather than great, it’s important that the editing process is of the highest quality.
@@ -116,10 +109,14 @@ thumbnail: https://thmb.techidaily.com/b1557e3d9700a9810b8b9bbec88362c53ba5a3f98
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -163,10 +160,6 @@ Follow @Ollie Mattison
 
  You can instead make use of natural sunlight, which should help you get the excellence you require even when you’re shooting at more than 30 metres depth. Deeper white balancing can be helpful during cloudy days.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![lightinng](https://images.wondershare.com/filmora/article-images/lightinng-underwater.JPG)
 
 #### 4\. Stay steady
@@ -183,11 +176,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![careful driver](https://images.wondershare.com/filmora/article-images/careful-divers.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 6\. Wide angle
 
  If you wish to include wide-angle shots in your work, make sure the camera is zoomed all the way out. Locking your elbows to your side, try to hold your breath to reduce the chances of shaking and pan shots slowly. You may need to shoot several takes to get it just right and will benefit from the use of a colour correcting filter.
 
 ![wide angle](https://images.wondershare.com/filmora/article-images/wide-angle-underwater.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 7\. Shoot the best colour
 
@@ -195,15 +196,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Virtually all natural colours when you stay shallow. Go beyond this and you will require a colour correction filter to retrieve the colour lost through depth. When shooting close-up subjects beneath 20 metres, use a wide-angle video light to return vibrant, kaleidoscopic colour to your video.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![shoot shot](https://images.wondershare.com/filmora/article-images/shoot-colour.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Edit your footage
 
  To make your underwater videos good rather than great, it’s important that the editing process is of the highest quality.
@@ -214,19 +216,8 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  If you’re planning on making a DVD of your work, consider adding extras to the product such as highlights or photos. Filmora is a popular editing software solution that will help you add an extra dash of magic to your work.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -234,7 +225,6 @@ Ollie Mattison
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -258,8 +248,18 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-ios-compatible-psp-games-the-five-finest/"><u>[New] In 2024, IOS Compatible PSP Games The Five Finest</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-synthesize-and-add-videos-to-your-listing/"><u>[New] Synthesize and Add Videos to Your Listing</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-5-best-apps-for-voice-translation-from-english-to-bangla/"><u>2024 Approved 5 Best Apps for Voice Translation From English to Bangla</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-description-crafting-compelling-podcast-hooks/"><u>2024 Approved The Art of Description Crafting Compelling Podcast Hooks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-guide-to-playstation-45-audio-tweaks/"><u>2024 Approved The Essential Guide to PlayStation 4/5 Audio Tweaks</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-unlocking-photo-magic-the-role-of-luts-in-editing/"><u>2024 Approved Unlocking Photo Magic The Role of LUTs in Editing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-of-deeplucas-ai-powered-video-creation-tool-unveiling-key-attributes-and-benefits-vs-drawbacks/"><u>Comprehensive Analysis of DeepLucas' AI-Powered Video Creation Tool - Unveiling Key Attributes & Benefits vs Drawbacks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-to-transcribe-speech-to-text-in-microsoft-word-learn-it-here-for-2024/"><u>How to Transcribe Speech to Text in Microsoft Word Learn It Here for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/stepwise-simplification-broadcasting-personal-yt-videos-using-gmail-for-2024/"><u>Stepwise Simplification Broadcasting Personal YT Videos Using Gmail for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamlining-windows-photos-with-customized-audio-and-visual-settings-for-2024/"><u>Streamlining Windows Photos with Customized Audio & Visual Settings for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-15-inch-laptops-comprehensive-reviews-by-tech-gurus/"><u>Top Rated 15-Inch Laptops : Comprehensive Reviews by Tech Gurus</u></a></li>
+</ul></div>
 

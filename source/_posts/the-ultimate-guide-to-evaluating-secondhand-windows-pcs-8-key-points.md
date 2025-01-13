@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Evaluating Secondhand Windows PCs – 8 Key Points
-date: 2025-01-02T10:00:06.311Z
-updated: 2025-01-07T09:05:30.454Z
+date: 2025-01-11T17:56:23.965Z
+updated: 2025-01-13T21:59:22.604Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## The Ultimate Guide to Evaluating Secondhand Windows PCs – 8 Key Points
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -28,19 +28,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Buying a used laptop can indeed save you money, but it does come with some risks. This is why you should thoroughly examine the laptop before closing the deal to avoid unpleasant surprises later on. If you doubt the credibility of the seller, here's how you can test the used laptop.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Test the Keyboard and Trackpad
 
  Begin the laptop inspection by testing the keyboard and trackpad first. To test the keyboard, go to a keyboard testing website like [Keyboard Tester](https://www.keyboardtester.com/tester.html) and press each key from the first to the last. If all keys register correctly, the keyboard is likely in good condition. Also, make sure you feel comfortable typing on the keyboard.
 
 ![Keyboard tester typing letters in lowercase with Caps Lock off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-keyboard-tester-typing-letters-in-lowercase-with-caps-lock-off.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To test the trackpad, hover over the screen to gauge its responsiveness. Then, experiment with different trackpad gestures, such as pinch-to-zoom and two-finger scroll, to see which ones are supported. If you have another laptop, you can compare trackpad responsiveness by conducting a touchpad accuracy test on both laptops using the [No-Cursor website](https://no-cursor.com/).
 
  This will help you confirm whether the trackpad on your new laptop is equally or more responsive than the other one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Test the Speakers and Built-In Microphone
 
@@ -60,10 +64,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  If the camera app detects the webcam and the visuals are clear and of satisfactory quality, as the seller claimed, then the camera is working correctly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Check the Health of Your Laptop Battery
 
  The more a laptop is used, the more its battery capacity diminishes. When purchasing a new laptop, you should ensure that it's not heavily worn out. You can check this by generating a battery health report on Windows. [Open the Windows PowerShell utility as an administrator](https://win11.techidaily.com/a-guide-to-quickly-opens-sticky-notes-in-windows-11/), enter the following command, and press Enter:
@@ -78,15 +78,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Checking the laptop battery report.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_5.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Ensure the Laptop Isn't Stolen
 
  If you're thinking about buying a used laptop from an unknown seller, make sure that it hasn't been stolen. One way to check this is to request a purchase receipt from the seller. If they are unable to provide one, this could be a red flag. If the laptop hasn't been reset, is password-protected, or is locked, these signs indicate that it's likely a stolen device.
 
  You can also confirm your suspicions by getting the laptop's serial number and contacting the manufacturer to verify whether the device has been reported stolen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Perform the Physical Inspection
 
@@ -94,15 +94,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Also, watch out for stickers that may be covering up wear and tear underneath, as this is a common practice.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Test the Wired and Wireless Connectivity
 
  The worst scenario you could face is finding your [laptop unable to connect to the internet](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual/) (via Wi-Fi or Ethernet cable), USB ports failing to detect external devices, or Bluetooth malfunctioning—all after completing the purchase. Because of that, confirming there are no wired or wireless connectivity issues is important.
 
  Start by connecting your laptop to Wi-Fi. Then, [test its Ethernet port](https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/) by plugging it directly into the router. If the internet connection works well, test the audio jacks with headphones. Similarly, check the USB ports by connecting a wired device. Finally, make sure Bluetooth is working by pairing a Bluetooth-powered device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Check the Health of RAM and Storage Drive
 
@@ -133,16 +133,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-chrome-extensions-best-5-facebook-video-downloaders-for-chrome-for-2024/"><u>[New] Chrome Extensions | Best 5 Facebook Video Downloaders for Chrome for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-30-list-of-no-cost-high-quality-online-film-effects-tools/"><u>[New] The Ultimate 30 List of No-Cost, High-Quality Online Film Effects Tools</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-typographic-tactics-for-advanced-ae-users/"><u>[New] Typographic Tactics for Advanced AE Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-guide-optimal-sub-to-srt-conversion-with-top-8-tools/"><u>[Updated] Ultimate Guide Optimal Sub to Srt Conversion with Top 8 Tools</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-xiaomi-redmi-note-13-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Xiaomi Redmi Note 13 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ating-authentic-growth-proven-youtube-view-strategies-for-2024/"><u>Navigating Authentic Growth Proven YouTube View Strategies for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/step-into-success-the-essentials-you-need-to-know-about-fb-stories-for-2024/"><u>Step Into Success The Essentials You Need to Know About FB Stories for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-secret-to-striking-visuals-optimal-video-aspect-ratios-for-2024/"><u>The Secret to Striking Visuals Optimal Video Aspect Ratios for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-significance-of-proper-slug-line-usage-for-2024/"><u>The Significance of Proper Slug Line Usage for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-zoom-companion-for-snapchat-enthusiasts-for-2024/"><u>The Ultimate Zoom Companion for Snapchat Enthusiasts for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/tutorial-disabling-automatic-sleep-on-mac-systems-for-extended-work-sessions/"><u>Tutorial: Disabling Automatic Sleep on Mac Systems for Extended Work Sessions</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-elevate-your-biz-game-youtube-channels-that-succeeded/"><u>[New] 2024 Approved Elevate Your Biz Game YouTube Channels That Succeeded</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-fiscal-footprint-of-a-gigantism-icon/"><u>[New] In 2024, The Fiscal Footprint of a Gigantism Icon</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-photos-that-speak-volumes-starting-with-lunapics-tutorial/"><u>[New] Photos That Speak Volumes Starting with LunaPic's Tutorial</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-summit-of-virtual-reality-resolution/"><u>[New] Summit of Virtual Reality Resolution</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-aesthetic-edge-crafting-podcast-logos-with-panache/"><u>[New] The Aesthetic Edge Crafting Podcast Logos with Panache</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-mastering-the-art-of-real-time-photography-on-google-meet/"><u>[Updated] 2024 Approved Mastering the Art of Real-Time Photography on Google Meet</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-quick-ig-update-on-todays-compelling-podcast/"><u>[Updated] Quick IG Update on Today's Compelling Podcast</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tailoring-web-clarity-with-advanced-zoom-tools/"><u>[Updated] Tailoring Web Clarity with Advanced Zoom Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-timelapse-with-iphone-a-step-by-step-guide/"><u>2024 Approved Timelapse with iPhone A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/chromebook-video-editing-software-top-10-online-options-for-2024/"><u>Chromebook Video Editing Software Top 10 Online Options for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/compelling-choices-macs-excellent-snipping-tools-for-2024/"><u>Compelling Choices Mac's Excellent Snipping Tools for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-poco-m6-pro-4g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Poco M6 Pro 4G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-crafting-impressive-android-time-lapses-2enas/"><u>In 2024, The Ultimate Guide to Crafting Impressive Android Time-Lapses (2Enas)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/insights-into-fixing-aesthetic-distortions-encountered-in-rust-ide/"><u>Insights Into Fixing Aesthetic Distortions Encountered in Rust IDE</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-htc-u23-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/step-by-step-guide-updating-your-pcs-sound-card-drivers-on-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Updating Your PC's Sound Card Drivers on Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-voice-manipulation-in-ps-console-titles-for-2024/"><u>The Art of Voice Manipulation in PS Console Titles for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tune-your-chat-status-tune-it-right-for-2024/"><u>Tune Your Chat Status, Tune It Right for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/windows-11-0x807800c5/"><u>Windows 11 バックアップ失敗時のエラー 0X807800C5: 迅速な修正手順</u></a></li>
 </ul></div>
 

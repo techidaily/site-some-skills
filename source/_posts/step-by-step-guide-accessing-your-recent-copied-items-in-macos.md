@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Accessing Your Recent Copied Items in macOS"
-date: 2024-12-30T23:41:18.981Z
-updated: 2025-01-06T18:43:27.485Z
+date: 2025-01-09T19:05:30.819Z
+updated: 2025-01-13T18:41:48.204Z
 tags:
   - desktop
 categories:
@@ -25,18 +25,18 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 
 ![Show clipboard in Finder in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/show-clipboard-in-finder-in-macos.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can't interact with the clipboard in any way, and it mostly shows text. If you copy a file, it will show the filename, although if you copy something like a part of an image (but not the image file itself), it will show you that instead.
 
 ![The Finder clipboard view in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/the-finder-clipboard-view-in-macos.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The clipboard viewer is a [useful Finder feature](https://remote-screen-capture.techidaily.com/in-2024-low-cost-android-calls-highest-ranking-options/) that can be handy if you simply need to check what's on the clipboard right now, especially if you do a lot of [copying and pasting on your Mac](https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-itel-s23plus-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/). But it's pretty limited otherwise.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to See Your Mac Clipboard History
@@ -49,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 
 ![The Maccy website homepage](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/the-maccy-home-page.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  By default, the app saves the last 200 items copied to your clipboard for easy access, and you adjust that up or down to suit your needs. It doesn't just handle text, but the minimalist interface means that that's what it's best suited for. You access the contents of your clipboard via a drop-down list on your menu bar.
 
  To get the best out of Maccy, head to Preferences > General and enable the "Launch at login" and "Paste automatically" options, and you'll need to [grant the app Accessibility access](https://tech-haven.techidaily.com/navigating-local-language-models-advantages-and-disadvantages-explained/) when prompted.
@@ -63,17 +59,21 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 
 ![Selecting items from the clipboard history in Maccy.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/select-items-from-the-clipboard-history-in-maccy.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Maccy has a lot of extra options worth exploring in the Preferences, including some that are useful for privacy. For example, the "Ignore" tab lets you exclude certain apps from having their contents copied to the clipboard, and the "Advanced" tab has a "Clear history on quit" option that ensures nothing will remain on your clipboard for too long.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Pasty: A Premium Clipboard History Tool
 
  If you need a bit more power, there are a lot of paid options to choose from. [Pasty](https://getpasty.app) is a good choice, as it's functional enough to use for free. You can upgrade to the full version through the [App Store](https://apps.apple.com/us/app/clipboard-manager-pasty/id1544620654) for a one-off lifetime payment of $14.99, or take your pick from monthly or yearly subscriptions.
 
 ![Pasty interface visible at the top of a macOS desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/pasty-places-a-bar-across-the-top-of-your-screen-when-activated.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Pasty provides a straightforward onboarding process when you first launch it that helps to get the app set up as you need it.
 
@@ -114,18 +114,20 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-resounding-beats-audio-studio-mac/"><u>[New] In 2024, Resounding Beats Audio Studio Mac</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-hideous-heroes-black-vs-gleaming-guardians-silver/"><u>[Updated] Hideous Heroes (Black) VS Gleaming Guardians (Silver)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-capturing-beats-studio-mac-basics/"><u>[Updated] In 2024, Capturing Beats Studio Mac Basics</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-leading-list-where-to-find-gamers-music-without-costs/"><u>[Updated] The Leading List Where to Find Gamers' Music Without Costs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-strategies-to-enhance-stability-of-win-11s-photo-viewer/"><u>2024 Approved Strategies to Enhance Stability of Win 11'S Photo Viewer</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-artisans-guide-to-unique-photographic-assemblages/"><u>2024 Approved The Artisan's Guide to Unique Photographic Assemblages</u></a></li>
-<li><a href="https://extra-information.techidaily.com/analyzing-the-impact-of-burst-on-live-action-shoots-for-2024/"><u>Analyzing the Impact of Burst on Live-Action Shoots for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/avoid-rough-terrain-limit-driving-over-bumpy-or-uneven-surfaces-that-could-cause-additional-stress-on-your-vehiclecuots-suspension-system/"><u>Avoid Rough Terrain: Limit Driving over Bumpy or Uneven Surfaces that Could Cause Additional Stress on Your Vehicle'cuot;s Suspension System</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-zte-blade-a73-5g-by-drfone-android/"><u>How to Bypass FRP on ZTE Blade A73 5G?</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-infinix-zero-5g-2023-turbo-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Infinix Zero 5G 2023 Turbo Devices | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tech-driven-drones-the-rise-of-syma-x8c/"><u>In 2024, Tech-Driven Drones – The Rise of Syma X8C</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-srt-potential-mac-edition-tutorial/"><u>In 2024, Unlocking SRT Potential Mac Edition Tutorial</u></a></li>
-<li><a href="https://some-skills.techidaily.com/uncomplicated-story-framework-for-2024/"><u>Uncomplicated Story Framework for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-mastering-viral-content-top-50plus-creative-quotes-for-tiktok/"><u>[New] 2024 Approved Mastering Viral Content Top 50+ Creative Quotes for TikTok</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-power-of-prolonged-shutter-iphone-burst-mode/"><u>[New] The Power of Prolonged Shutter IPhone Burst Mode</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-7-strategies-for-delicious-food-vids/"><u>[New] Top 7 Strategies for Delicious Food Vids</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tweetturnstile-how-video-trends-surge-online/"><u>[New] TweetTurnstile How Video Trends Surge Online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-vacation-adventures-reimagined-this-years-top-classics/"><u>[New] Vacation Adventures Reimagined This Year's Top Classics</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-digital-darkroom-mastering-color-opposites/"><u>[Updated] 2024 Approved Digital Darkroom Mastering Color Opposites</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-smooth-video-playback-for-televisions-with-youtube/"><u>[Updated] Smooth Video Playback for Televisions with YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-photographers-toolkit-polarr-edition/"><u>2024 Approved The Essential Photographer's Toolkit - Polarr Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tips-for-dynamic-animations-using-movie-maker/"><u>2024 Approved Tips for Dynamic Animations Using Movie Maker</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-realme-narzo-n53-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Realme Narzo N53 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-mystery-of-facebooks-hidden-activities/"><u>In 2024, Unlocking the Mystery of Facebook's Hidden Activities</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-error-code-0x8007000f-running-tasks-failure/"><u>Mastering Windows' Error Code 0X8007000F: Running Tasks Failure</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/raft-banner-templates-get-them-here-for-2024/"><u>Minecraft Banner Templates Get Them Here for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-key-to-smooth-auditory-transitions-for-2024/"><u>The Key to Smooth Auditory Transitions for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-oppo-a58-4g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Oppo A58 4G Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

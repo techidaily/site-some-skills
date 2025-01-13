@@ -1,7 +1,7 @@
 ---
 title: "Securing Your System: A Step-by-Step Guide to Locking a Windows 10 PC via Command Line"
-date: 2024-12-30T23:42:18.285Z
-updated: 2025-01-06T23:33:50.548Z
+date: 2025-01-11T19:49:40.099Z
+updated: 2025-01-13T17:31:50.647Z
 tags:
   - deals
 categories:
@@ -11,13 +11,17 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
 
 ## Securing Your System: A Step-by-Step Guide to Locking a Windows 10 PC via Command Line
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Lock Your Windows 10 PC Using Command Prompt](https://vp-tips.techidaily.com/new-audiovisual-adaptability-in-free-fire-for-2024/)
 * [Set the Lock Screen Timeout Setting Using Command Prompt](https://eaxpv-info.techidaily.com/new-finding-a-different-way-to-naming-your-channel-with-filmora-for-2024/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -28,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
 
  One of the first rules of cyber security is to always lock your PC before stepping away. While it may not be the quickest way to lock your Windows 10 PC, you can do it using the Command Prompt.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Lock Your Windows 10 PC Using Command Prompt
 
  First, [open the Command Prompt](https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a78-frp-by-drfone-android/) on your PC by opening the Start menu, typing “cmd” in the Windows Search bar, and then selecting “Command Prompt” from the search results.
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
 ![Click the Start button, search for 'cmd,' then open 'Command Prompt.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-cmd.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Command Prompt will now open. Here, run this command to lock your Windows 10 PC.
@@ -48,11 +48,11 @@ Rundll32.exe user32.dll,LockWorkStation
 
 ![Locking your PC with Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-lock-pc-command-prompt.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once executed, your PC will be locked. You'll have to sign back in with your PIN, password, or whatever sign-in method you usually use.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Set the Lock Screen Timeout Setting Using Command Prompt
 
@@ -61,10 +61,6 @@ Rundll32.exe user32.dll,LockWorkStation
  To do this, you’ll need to [open Command Prompt as an admin](https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-14-ultra-drfone-by-drfone-android/). Do so by typing “cmd” in the Windows Search bar and then right-clicking “Command Prompt” from the results. Next, select “Run As Administrator” from the menu that appears.
 
 ![Launching Command Prompt as admin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-launch-cmd.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  With Command Prompt open, run this command.
 
@@ -84,6 +80,10 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 ![Apply the setting to the currently active scheme.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-set-active.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now your [lock screen](https://driver-download.techidaily.com/1722977751917-synaptics-drivers-download-and-update-for-windows-easily/) will timeout after the set amount of time. Give it a try!
 
 <ins class="adsbygoogle"
@@ -101,22 +101,21 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-breaking-down-itunes-video-recording-basics/"><u>[New] 2024 Approved Breaking Down iTunes Video Recording Basics</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-snap-shooting-techniques-for-zoom-calls/"><u>[New] In 2024, Snap Shooting Techniques for Zoom Calls</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-tailoring-the-spectrum-of-light-in-windows-based-video-editing/"><u>[New] Tailoring the Spectrum of Light in Windows-Based Video Editing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-time-saving-tips-making-rapid-google-collage-photo-artwork/"><u>[New] Time-Saving Tips Making Rapid Google Collage Photo Artwork</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unearthing-the-potential-of-htc-vive-for-immersive-gaming/"><u>[New] Unearthing the Potential of HTC Vive for Immersive Gaming</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-5-online-titler-pros-unveiled/"><u>[Updated] Top 5 Online Titler Pros Unveiled</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-software-guide-for-tempo-alteration/"><u>[Updated] Ultimate Software Guide for Tempo Alteration</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1-como-reducir-el-tamano-de-un-archivo-mp3-guia-paso-a-paso-con-software-y-herramientas-en-linea/"><u>1. Cómo Reducir El Tamaño De Un Archivo MP3: Guía Paso a Paso Con Software Y Herramientas en Línea</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-creating-an-individualistic-tiktok-identifier/"><u>2024 Approved Creating an Individualistic TikTok Identifier</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unraveling-the-mystery-of-premium-free-photography-access/"><u>2024 Approved Unraveling the Mystery of Premium Free Photography Access</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-honor-x50i-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Honor X50i? Try These Fixes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-superior-webcams-revolutionizing-podcast-recording/"><u>In 2024, Superior Webcams Revolutionizing Podcast Recording</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/perfect-crossfading-techniques-using-audacity-for-2024/"><u>Perfect Crossfading Techniques Using Audacity for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-list-of-picture-protection-software/"><u>The Ultimate List of Picture Protection Software</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-no-experience-guide-to-earning-on-reddit-13-strategies-inside-for-2024/"><u>The Ultimate, No-Experience Guide to Earning on Reddit - 13 Strategies Inside for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-5-automation-apps-for-managing-your-pinterest-posts/"><u>Top 5 Automation Apps for Managing Your Pinterest Posts</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-the-sims-solved-graphic-hardware-issues-on-pc-and-mac/"><u>Troubleshooting The Sims ([SOLVED]) Graphic Hardware Issues on PC and Mac</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-quickscreencapture-mastery-for-everyday-use/"><u>[New] 2024 Approved QuickScreenCapture Mastery for Everyday Use</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-deleting-a-discord-server-desktop-and-mobile-guide/"><u>[New] In 2024, Deleting a Discord Server Desktop & Mobile Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-unlocking-vidmas-secrets-to-superior-screen-recording-for-2024/"><u>[New] Unlocking Vidma’s Secrets to Superior Screen Recording for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-blueprint-to-establishing-an-online-review-community-for-toys/"><u>[Updated] The Blueprint to Establishing an Online Review Community for Toys</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-insiders-pathway-to-effective-auditory-notes/"><u>[Updated] The Insider’s Pathway to Effective Auditory Notes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-mobile-and-web-photo-booster-at-no-cost/"><u>[Updated] Ultimate Mobile & Web Photo Booster at No Cost</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tutorial-triumph-a-step-towards-a-million-view-goal/"><u>2024 Approved Tutorial Triumph A Step Towards a Million View Goal</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-guide-to-mastering-final-cut-pro-essentials/"><u>2024 Approved Ultimate Guide to Mastering Final Cut Pro Essentials</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-installation-free-qualcomm-atheros-ar938x-driver-download-available-now/"><u>Effortless Installation: Free Qualcomm Atheros AR938X Driver Download Available Now!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-15-pro-max-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 15 Pro Max Passcode Easily Video Inside</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-swift-solution-for-effortless-srt-to-text-txt-transform/"><u>In 2024, The Swift Solution for Effortless SRT to Text (TXT) Transform</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-samsung-galaxy-a05-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Samsung Galaxy A05 Android SIM Unlock APK</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/save-big-with-these-3-superior-under-1k-laptop-bargains-at-costco-amazon-and-dell-during-cyber-monday-2022-zdnet/"><u>Save Big with These 3 Superior Under $1K Laptop Bargains at Costco, Amazon & Dell During Cyber Monday 2022 - ZDNet</u></a></li>
+<li><a href="https://win-webster.techidaily.com/step-by-step-instruction-how-to-enhance-your-samsung-notebook-pro-with-an-ssd-upgrade/"><u>Step-by-Step Instruction: How to Enhance Your Samsung Notebook Pro with an SSD Upgrade</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/troubleshooting-iphone-x-regaining-access-via-facial-id-for-2024/"><u>Troubleshooting iPhone X Regaining Access via Facial ID for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-your-images-true-self-a-canva-step-by-step-for-2024/"><u>Unveiling Your Image’s True Self A Canva Step-by-Step for 2024</u></a></li>
 </ul></div>
 

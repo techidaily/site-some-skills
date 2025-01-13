@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Personalizing Your Windows 11 Taskbar"
-date: 2025-01-01T16:00:36.657Z
-updated: 2025-01-06T16:05:42.126Z
+date: 2025-01-12T17:31:23.148Z
+updated: 2025-01-13T18:18:10.829Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 ---
 
 ## Step-by-Step Guide: Personalizing Your Windows 11 Taskbar
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -42,15 +38,15 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
  We've taken a look at customizing the [Start menu](https://visual-screen-recording.techidaily.com/new-2024-approved-groundbreaking-6-modern-mc-residentials/) and the [Action Center](https://instagram-clips.techidaily.com/new-2024-approved-unlock-efficiency-cutting-edge-techniques-for-cropping-and-exporting-videos/) in Windows 10\. Now, it's time to tackle the taskbar. With just a little bit of work, you can tweak the taskbar to get it running just how you like it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Pin Apps to the Taskbar
 
  The simplest way to customize your taskbar is by pinning various apps and shortcuts to it so that you can access them more quickly in the future. There are two ways to do this. The first is to open the program, either from the Start menu or an existing shortcut. When the app's icon appears on the taskbar to indicate it's running, right-click the icon and select the "Pin to taskbar" option from the context menu.
 
 ![Right-click the icon of an open app and select "Pin to Taskbar."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-pin-app-ot-taskbar.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The second way to pin an app to the taskbar does not require the app to be running first. Find the app on the Start menu, right-click the app, point to "More," and then choose the "Pin to taskbar" option you find there. You could also drag the app icon to the taskbar if you prefer doing it that way.
 
@@ -94,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![Right-click the Taskbar and untick "Show Task View button."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/7-show-task-view-button.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Hide System Icons in the Notification Area
 
  The Notification Area (sometimes called the "System Tray") holds system icons — like your Action Center and clock — and icons for various apps that run in the background. You can easily tweak which system icons appear in the Notification Area. Right-click any open area on the taskbar and then click "Taskbar Settings." On the taskbar settings page, scroll down a bit to the "Notification Area" section and click the "Turn system icons on or off" link.
@@ -107,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
  You'll see a list of system icons. Run through them and toggle each one on or off to suit your needs.
 
 ![Some system icons that can be toggled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/13-system-icons.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Hide Application Icons in the Notification Area
 
@@ -118,12 +114,16 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![Drag icon in or out of the hidden area.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/11-drag-icon-off.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also work with these icons through the settings interface. Right-click any open area of the taskbar and choose the "Settings" option. Scroll down and click the "Select which icons appear on the taskbar" link.
 
 ![Click "Select Which Icons Appear on the Taskbar."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/8-taskbar-settings.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to remove the hidden area and see all the icons all the time, turn on the "Always show all icons in the notification area" option. If you leave that setting off, you can also run through the list and turn individual apps on or off. Just note that turning an app off here doesn't remove it from the Notification Area altogether. When an app is turned off, it shows up in the hidden area. When it's on, it shows up in the main Notification Area.
@@ -131,7 +131,7 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 ![A list of toggleable icons that can appear on your Taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/9-taskbar-icons.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Move the Taskbar to a Different Edge of the Screen
@@ -154,10 +154,6 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![Click the Taskbar's edge and drag to resize it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/17-huge-taskbar.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Use Small Icons to Fit More on the Taskbar
 
  If you want a few more icons on your taskbar, but aren't keen on resizing it, you can configure Windows 10 to show small taskbar icons. Right-click on any empty area of the taskbar and click "Taskbar Settings." In the settings window, turn on the "Use small taskbar icons" option.
@@ -169,7 +165,7 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 ![Tiny taskbar labels and icons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/19-small-taskbar-icons.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Show Labels for Taskbar Icons
@@ -178,6 +174,10 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![The "Combine Taskbar Buttons" options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/20-set-combine-taskbar-labels-to-never.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The menu gives you three choices:
 
 * **Always, hide labels**. This is the Windows default setting. When it's selected, all windows for an app are grouped on the taskbar, and no labels are shown.
@@ -185,7 +185,7 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 * **Never**. When selected, windows are never grouped, and labels are always shown. You can see this setting in action below. Note that instead of a single File Explorer icon and a single Chrome icon, I now have two of each and the titles of the windows are displayed as labels.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Change the Color and Transparency of the Taskbar
@@ -200,11 +200,11 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 ![Tick "Start, Taskbar, and action center."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/22-taskbar-color.png) 
 
- By the way, Windows doesn't offer any controls to adjust the transparency of the taskbar, Start menu, and Action Center. If you don't mind making a quick Registry hack, though, you can [make those items a bit more transparent](https://extra-resources.techidaily.com/best-value-for-money-selecting-the-leading-free-srt-services-for-2024/) than the default.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ By the way, Windows doesn't offer any controls to adjust the transparency of the taskbar, Start menu, and Action Center. If you don't mind making a quick Registry hack, though, you can [make those items a bit more transparent](https://extra-resources.techidaily.com/best-value-for-money-selecting-the-leading-free-srt-services-for-2024/) than the default.
 
 ##  Enable the Peek Feature
 
@@ -213,6 +213,10 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 ![Use peak option on Windows 10 taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/23-use-peak.png) 
 
  With the Peek option turned on, you can move your mouse to the tiny sliver of space at the far right of the taskbar to hide all your windows and show you your desktop. When you move the mouse away, your windows return to their previous state. You can also click this area to automatically minimize all your windows so that you can actually do things on the desktop. Click the area again to restore your windows. You can also use the Windows+D keyboard shortcut to do the same thing as clicking the Peek area.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Add a Toolbar to the Taskbar
 
@@ -235,10 +239,6 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
  If you use multiple displays, you'll be happy to know that Windows 10 includes decent customization controls for using your taskbar across multiple monitors. You can have a taskbar shown on only one display, a single taskbar stretched across all displays and even a separate taskbar for each display that only shows the apps open on that display. To tweak all this, right-click any open area of the taskbar and choose "Taskbar Settings." In the settings window, scroll all the way to the bottom to find the controls for multiple displays.
 
 ![The options for controlling the Taskbar on multiple displays.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/25-multiple-displays.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you leave the "Show taskbar on all displays" option turned off — which is the default setting — then you'll see a single taskbar on your primary monitor only. All open windows for apps are shown on that taskbar, regardless of which display the windows are open on. Turn that option on to have a taskbar shown on all your displays and also open up the other options below.
 
@@ -269,18 +269,17 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-curious-case-of-inverted-images-on-social-media/"><u>[New] The Curious Case of Inverted Images on Social Media</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-gentle-art-of-reducing-audio-amplitude-in-logic-pro/"><u>[New] The Gentle Art of Reducing Audio Amplitude in Logic Pro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlock-optimal-performance-with-these-key-tricks/"><u>[New] Unlock Optimal Performance with These Key Tricks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-the-full-potential-of-fast-fb-videos-with-tools/"><u>[New] Unlocking the Full Potential of Fast FB Videos with Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-synthetic-adventures-starts-here-top-vr-tools-10/"><u>[Updated] Synthetic Adventures Starts Here Top VR Tools (10)</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-orders-judgment-for-trumps-prohibition/"><u>Facebook Orders Judgment for Trump's Prohibition.</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-altering-gender-display-in-digital-photographs-step-by-step-guide/"><u>In 2024, Altering Gender Display in Digital Photographs Step by Step Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-economical-action-recording-next-level-performance-under-200/"><u>In 2024, Economical Action Recording - Next Level Performance Under $200</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-how-to-unlock-instagrams-filter-treasure-trove-without-spending/"><u>In 2024, How to Unlock Instagram's Filter Treasure Trove Without Spending</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Nokia C110? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/insignia-fire-tv-review-featuring-alexa-and-stunning-ultra-hd-on-a-budget/"><u>Insignia Fire TV Review - Featuring Alexa and Stunning Ultra HD on a Budget</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/revolutionizing-marketing-with-interactive-tiktok-content-for-2024/"><u>Revolutionizing Marketing with Interactive TikTok Content for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-the-potential-advanced-techniques-for-podcast-editing-in-garageband-for-2024/"><u>Unlock the Potential Advanced Techniques for Podcast Editing in GarageBand for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-masterclass-review-top-tier-professional-cameras-spin-full-circle-2023/"><u>[Updated] In 2024, Masterclass Review Top-Tier Professional Cameras Spin Full Circle - 2023</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pace-perfection-snappy-windows-11-image-tips/"><u>2024 Approved Pace Perfection Snappy Windows 11 Image Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-encyclopedia-of-hands-on-detection/"><u>2024 Approved The Encyclopedia of Hands-On Detection</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-time-taken-to-watch-an-example-of-a-20mb-video/"><u>2024 Approved Time Taken to Watch An Example of a 20MB Video</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/advanced-traffic-analysis-powered-by-cookiebot/"><u>Advanced Traffic Analysis Powered by Cookiebot</u></a></li>
+<li><a href="https://facebook.techidaily.com/apples-stance-on-metaverse-a-decision-of-distinction/"><u>Apple’s Stance on Metaverse - A Decision of Distinction</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-google-pixel-8-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Google Pixel 8 Pro Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mercedes-benz-introduces-chatgpt-with-voice-control-to-its-vehicles/"><u>Mercedes-Benz Introduces ChatGPT With Voice Control to Its Vehicles</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-game-crashes-resolving-fallout-cuestionamientos-3-pausas-en-windows-10/"><u>Overcome Game Crashes - Resolving Fallout Cuestionamientos 3 Pausas en Windows 10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-full-spectrum-slomo-recording-app-evaluation-for-2024/"><u>The Full Spectrum SloMo Recording App Evaluation for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-list-of-outstanding-storytelling-youtubers-this-year-for-2024/"><u>The Ultimate List of Outstanding Storytelling YouTubers This Year for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tickle-me-tech-iphone-memes-for-2024/"><u>Tickle-Me-Tech IPhone Memes for 2024</u></a></li>
 </ul></div>
 

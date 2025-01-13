@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Windows Spotlight Malfunctions Effortlessly"
-date: 2024-12-31T18:10:20.013Z
-updated: 2025-01-07T01:28:29.752Z
+date: 2025-01-11T22:33:40.391Z
+updated: 2025-01-13T19:43:31.978Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
 ---
 
 ## Troubleshooting Guide: Resolving Windows Spotlight Malfunctions Effortlessly
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -31,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
 
  Windows Spotlight can take 24 hours to cycle a new image, so be patient after applying any of these fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Preliminary Fixes
 
  The first thing to do when Windows Spotlight is stuck is to [check if your internet is working](https://article-posts.techidaily.com/pioneering-medical-messaging-in-digital-advertising/). Without it, Spotlight can't download new images.
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
  If your internet connection is fine, try [updating your Windows computer](https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-realme-v30-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/), as it may contain a patch for any Spotlight bugs. Conversely, if you think a recently installed update caused the issue, [uninstall the Windows update](https://hardware-help.techidaily.com/download-updated-wireless-network-adapter-driver-for-windows-versions-win11-win10-win8-win7/) to reverse the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Turn Windows Spotlight Off and On
@@ -49,13 +49,13 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
 
 ![Windows 11 Settings showing the Personalization options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-settings-showing-the-personalization-options.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click the "Personalize Your Background/Lock Screen" dropdown and select "Picture" to turn it off.
 
 ![Windows 11 Settings showing the Personalization options for lock screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-settings-showing-the-personalization-options-for-lock-screen.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  On Windows 10, go to Settings > Personalization > Lock Screen. Click the "Background" dropdown, and choose "Picture."
 
@@ -70,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
  Press the Windows key, type "PowerShell," then right-click "Windows PowerShell," and choose "Run as Administrator." In the "User Account Control" prompt, select "Yes."
 
 ![Running Windows PowerShell as administrator from Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-running-windows-powershell-as-administrator-from-windows-search.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Type the following command in the PowerShell window and press Enter:
 
@@ -112,7 +108,7 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
  Once done, restart your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Disable Metered Connection
@@ -123,6 +119,10 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
 
 ![Windows 11 Settings app showing the Network & internet screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-settings-app-showing-network-internet-screen-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Ensure the "Metered Connection" switch is set to "Off."
 
 ![Windows 11 Settings app showing metered connection turned off for Ethernet screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-settings-app-showing-turned-off-metered-connection-for-ethernet-screen.png) 
@@ -131,27 +131,19 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
 
 ![Windows 11 Settings app showing the Wi-Fi network screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-settings-app-showing-wi-fi-network-screen.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then, select your Wi-Fi network and turn off "Metered Connection."
 
  On Windows 10, go to Settings > Network & Internet > Status. Under your "Ethernet" or "Wi-Fi" network, click "Properties."
 
 ![Windows 10 Settings app showing the Network & internet screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-10-settings-app-showing-network-internet-screen.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Under "Metered Connections," toggle the "Set as Metered Connection" switch to turn it off.
 
 ![Windows 10 Settings app showing the metered connection for Ethernet screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-110-settings-app-showing-turned-off-metered-connection-for-ethernet-screen.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Enable Background Apps (Windows 10)
 
@@ -174,7 +166,7 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
  You can likely turn off your antivirus from the system tray. To do this, right-click the antivirus app icon in the system tray and choose "Quit", "Shut Down Protection", or similar. Alternatively, turn it off through the antivirus' app interface.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Perform a Network Reset
@@ -186,7 +178,7 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
 ![Windows 11 Settings app showing the Advanced network settings option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-settings-app-showing-the-advanced-network-settings-option.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Under "More Settings," select "Network Reset."
@@ -197,6 +189,10 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
 
 ![Windows 11 Settings app showing the Network reset option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-settings-app-showing-the-network-reset-option.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On Windows 10, go to Settings > Network & Internet > Status. Under "Advanced Network Settings," select "Network Reset."
 
 ![Windows 10 Settings app showing the Network reset option screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-10-settings-app-showing-the-network-reset-option-screen.png) 
@@ -204,6 +200,10 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
  Click "Reset Now" and choose "Yes" to confirm the action.
 
 ![Windows 10 Settings app showing the reset now option screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-10-settings-app-showing-the-reset-now-option-screen.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After the restart, Windows will walk you through setting up your network.
 
@@ -226,20 +226,24 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-secrets-to-successfully-capturing-facebooks-status-videos/"><u>[New] 2024 Approved Secrets to Successfully Capturing Facebook's Status Videos</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-lively-registration-and-unregistration-guide/"><u>[New] In 2024, Lively Registration & Unregistration Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-linking-perfection-incorporating-linktree-into-your-tiktok-profile/"><u>[New] Linking Perfection Incorporating Linktree Into Your TikTok Profile</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-guide-to-top-instagram-metrics-monitors-for-ambitious-marketers-for-2024/"><u>[New] The Guide to Top Instagram Metrics Monitors for Ambitious Marketers for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-tool-for-video-cuts-full-review-of-vivacut-24-edition/"><u>[New] The Ultimate Tool for Video Cuts Full Review of VivaCut '24 Edition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-writers-journey-through-podcast-production/"><u>[Updated] The Writer's Journey Through Podcast Production</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-excellent-7-dslrs-elevating-live-stream-cinematic-style/"><u>2024 Approved Excellent 7 DSLRs Elevating Live-Stream Cinematic Style</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-snapchat-enhancement-the-power-of-spotlight-feature/"><u>2024 Approved Snapchat Enhancement The Power of Spotlight Feature</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-creative-climb-steps-towards-thriving-in-graphic-design/"><u>2024 Approved The Creative Climb Steps Towards Thriving in Graphic Design</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-roadmap-to-proficiency-in-lut-construction/"><u>2024 Approved The Ultimate Roadmap to Proficiency in LUT Construction</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-pip-in-edge-for-a-superior-browsing-experience/"><u>2024 Approved Unlock PIP in Edge for a Superior Browsing Experience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-disappearing-playback-problem-on-sony-a6400/"><u>In 2024, The Disappearing Playback Problem on Sony A6400</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-fcp-x-essentials-how-to-achieve-flawless-green-screen-effects/"><u>New 2024 Approved FCP X Essentials How to Achieve Flawless Green Screen Effects</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-intersection-of-real-and-virtual-defining-mixed-reality-for-2024/"><u>The Intersection of Real and Virtual Defining Mixed Reality for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/zexmt-bluetooth-adapter-secure-your-free-driver-download-for-optimal-performance-on-windows-os/"><u>Zexmt Bluetooth Adapter - Secure Your Free Driver Download for Optimal Performance on Windows OS</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-simplified-steps-for-sequential-youtube-video-viewing-free-for-2024/"><u>[New] 5 Simplified Steps for Sequential YouTube Video Viewing (Free) for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-full-application-review-with-az-video-loggers/"><u>[New] Full Application Review with AZ Video Loggers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-iphone-photography-shadow-techniques/"><u>[New] The Art of iPhone Photography Shadow Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-15-gadget-unboxers-your-ultimate-2024-guide/"><u>[New] Top 15 Gadget Unboxers Your Ultimate 2024 Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-secrets-of-swelling-youtube-supporters/"><u>[New] Unlocking the Secrets of Swelling YouTube Supporters</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-a-comprehensive-guide-to-use-youtube-movie-maker/"><u>[Updated] A Comprehensive Guide to Use YouTube Movie Maker</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-expert-tips-for-crafting-top-notch-video-hashtags/"><u>[Updated] Expert Tips for Crafting Top-Notch Video Hashtags</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-navigating-netizen-networks-examining-your-and-competing-channels/"><u>[Updated] In 2024, Navigating Netizen Networks Examining Your and Competing Channels</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-real-time-screen-replay-on-chrome-pcs/"><u>[Updated] In 2024, Real-Time Screen Replay on Chrome PCs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-blending-audio-and-visuals-in-a-trailer/"><u>[Updated] The Art of Blending Audio and Visuals in a Trailer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-quick-video-wins-essential-ideas-for-vloggers/"><u>2024 Approved Quick Video Wins Essential Ideas for Vloggers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-surprise-uncovered-secrets-to-take-your-window-11-experience-up-a-notch/"><u>2024 Approved Surprise! Uncovered Secrets to Take Your WINDOW 11 Experience Up a Notch</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-symphony-in-softness-playback-reduction-guide/"><u>2024 Approved Symphony in Softness Playback Reduction Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-windows-high-dynamic-range-potential/"><u>2024 Approved Unlocking Windows' High Dynamic Range Potential</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/core-components-for-transformative-facebook-advertisements-for-2024/"><u>Core Components for Transformative Facebook Advertisements for 2024</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/guia-completa-para-realizar-una-copia-de-seguridad-y-reparacion-del-sistema-en-windows-7/"><u>Guía Completa Para Realizar Una Copia De Seguridad Y Reparación Del Sistema en Windows 7</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reimagining-content-craft-with-chatgpt/"><u>Reimagining Content Craft with ChatGPT</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-poco-m6-pro-4g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Poco M6 Pro 4G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-youtubes-finest-story-sages-and-weavers-in-23-for-2024/"><u>Unveiling YouTube's Finest Story Sages and Weavers in '23 for 2024</u></a></li>
 </ul></div>
 

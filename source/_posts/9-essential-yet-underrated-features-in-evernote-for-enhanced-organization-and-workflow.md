@@ -1,7 +1,7 @@
 ---
 title: 9 Essential, Yet Underrated, Features in Evernote for Enhanced Organization and Workflow
-date: 2025-01-01T00:14:22.651Z
-updated: 2025-01-06T22:53:04.418Z
+date: 2025-01-06T21:03:05.130Z
+updated: 2025-01-13T17:50:15.162Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## 9 Essential, Yet Underrated, Features in Evernote for Enhanced Organization and Workflow
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -22,6 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * Additionally, you can track changes to notes over time and use the built-in task management features to create and manage to-do lists.
 
  Evernote has many useful features that many users aren't aware of. You can use it to scan documents, get AI assistance, set reminders for deadlines, and record voice notes, among other things. If you use Evernote for note-taking, utilizing these features can help you unlock the app's full potential.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Digitally Scan and Organize Your Handwritten Notes
 
@@ -36,7 +40,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Scanning handwritten notes in Evernote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-2-scanning-handwritten-notes-in-evernote.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Get AI-Driven Assistance for Refining Your Notes
@@ -57,17 +65,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Recording an audio and transcribing it in Evernote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-3-recording-an-audio-and-transcribing-it-in-evernote.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the desktop app, click the “Insert” menu at the top, then choose "Audio Recording." Allow the app to use your microphone, record your voice memo, and click the red stop icon when done.
 
 ![Recording a voice memo in Evernote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-recording-a-voice-memo-in-evernote.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The memo will be saved in the same note; you can transcribe it by clicking the "Transcribe" button.
 
 ![Transcribing a voice note in Evernote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-transcribing-a-voice-note-in-evernote.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Set Reminders to Keep Track of Deadlines
 
@@ -79,21 +95,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Adding a reminder for a task in Evernote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-adding-a-reminder-for-a-task-in-evernote.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On a smartphone, tap the three horizontal dots in the top-right corner, select "Add Reminder," set the time and date, and tap "Save."
 
 ![Adding a reminder for a task in the Evernote smartphone app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-4-adding-a-reminder-for-a-task-in-the-evernote-smartphone-app.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Use Tags to Find Your Content Quickly
 
@@ -104,7 +108,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Creating a tag in Evernote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-creating-a-tag-in-evernote.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Save Frequently Used Notes as Shortcuts
@@ -114,10 +118,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To add a note to Shortcuts, right-click on it and select "Add to Shortcuts."
 
 ![Adding a task to Shortcuts in Evernote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/6-adding-a-task-to-shortcuts-in-evernote.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Open the note on the smartphone app, click on the three horizontal dots in the top-right corner, and select "Add to Shortcuts."
 
@@ -158,24 +158,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-dissecting-youtube-chatter/"><u>[New] 2024 Approved Dissecting YouTube Chatter</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-an-in-depth-look-at-basic-and-simplified-hdr-photography/"><u>[New] An In-Depth Look at Basic and Simplified HDR Photography</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-legitimate-strategies-to-amass-over-a-million-youtube-views/"><u>[New] Legitimate Strategies to Amass Over a Million YouTube Views</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-reigning-titans-unveiling-reddits-ultimate-10-threads-for-2024/"><u>[New] Reigning Titans Unveiling Reddit's Ultimate 10 Threads for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-heart-of-video-magic-10-key-edits-in-filmora/"><u>[Updated] The Heart of Video Magic 10 Key Edits in Filmora</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-iphone-multimedia-magic/"><u>[Updated] The Ultimate Guide to iPhone Multimedia Magic</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-ranked-zoonotic-patterns/"><u>[Updated] Top-Ranked Zoonotic Patterns</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transitioning-timeless-images-a-tech-savvy-approach/"><u>[Updated] Transitioning Timeless Images A Tech-Savvy Approach</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-xstream-studios-complete-exploration-in-156-words/"><u>2024 Approved Unveiling XStream Studios Complete Exploration in 156 Words</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/data-preservation-toolkit-for-all-os-platforms/"><u>Data Preservation Toolkit – For All OS Platforms</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tailoring-battery-choices-for-exceptional-drone-performance/"><u>In 2024, Tailoring Battery Choices for Exceptional Drone Performance</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tap-into-asmrs-potential-for-emotional-balance/"><u>In 2024, Tap Into ASMR’s Potential for Emotional Balance</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-guide-superior-ios-melody-creators/"><u>In 2024, Ultimate Guide Superior iOS Melody Creators</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-hue-harmonizer-tool/"><u>In 2024, Ultimate Hue Harmonizer Tool</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-your-youtube-potential-idea-generation-guide/"><u>In 2024, Unlock Your YouTube Potential Idea Generation Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-the-mssdll-file-cannot-be-opened-located-or-accessible/"><u>Resolving the mss.dll File Cannot Be Opened, Located or Accessible</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/showdown-analyzing-the-pros-and-cons-of-nintendo-switch-lite-vs-oled-model/"><u>Showdown: Analyzing the Pros & Cons of Nintendo Switch Lite Vs. OLED Model</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-hidden-perils-the-downside-of-ai-based-online-therapy-and-psychiatry/"><u>Unveiling the Hidden Perils: The Downside of AI-Based Online Therapy and Psychiatry</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-from-darkness-to-brilliance-mastering-iphones-hdr-techniques/"><u>[New] In 2024, From Darkness to Brilliance Mastering iPhone's HDR Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-skyward-file-fortresses-identifying-top-cloud-titans/"><u>[New] Skyward File Fortresses Identifying Top Cloud Titans</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-dynamic-edge-technique-adding-motion-blur-to-portraits-using-picsart/"><u>[New] The Dynamic Edge Technique Adding Motion Blur to Portraits Using Picsart</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-secrets-to-excellent-screen-recordings-on-lenovo-for-2024/"><u>[Updated] Secrets to Excellent Screen Recordings on Lenovo for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-8-suggestions-for-high-quality-iphone-videography-projects/"><u>[Updated] Top 8 Suggestions for High-Quality iPhone Videography Projects</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-honor-x50i-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-pinnacle-of-mac-livestream-software-1-5-guide/"><u>2024 Approved The Pinnacle of Mac Livestream Software - #1-5 Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-quick-route-from-srt-to-text-txt-files/"><u>2024 Approved The Ultimate, Quick Route From SRT to Text (TXT) Files</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-honor-x50-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-y100-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo Y100 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/beyond-code-and-algorithms-embracing-a-new-era-of-ai-development-with-creative-insight-and-sharp-business-acumen-zdnets-deep-dive/"><u>Beyond Code and Algorithms: Embracing a New Era of AI Development with Creative Insight and Sharp Business Acumen - ZDNet's Deep Dive</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/compatible-printer-driver-for-canon-ip110-easy-download-and-setup-for-windows-11-10-8-and-7-users/"><u>Compatible Printer Driver for Canon iP110: Easy Download and Setup for Windows 11, 10, 8 & 7 Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhancing-siri-with-apple-ai-anticipate-major-upgrades-by-2er-2025-insights-from-tech-news-source-zdnet/"><u>Enhancing Siri with Apple AI - Anticipate Major Upgrades by 2Er 2025, Insights From Tech News Source ZDNet</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-stabilizing-tech-for-youtube-creators-success/"><u>In 2024, Top 10 Stabilizing Tech for YouTube Creators' Success</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-solutions-for-resolving-silent-playback-on-netflix/"><u>Simple Solutions for Resolving Silent Playback on Netflix</u></a></li>
+<li><a href="https://some-skills.techidaily.com/taxonomy-of-diverse-camera-systems-for-videos-for-2024/"><u>Taxonomy of Diverse Camera Systems for Videos for 2024</u></a></li>
 </ul></div>
 

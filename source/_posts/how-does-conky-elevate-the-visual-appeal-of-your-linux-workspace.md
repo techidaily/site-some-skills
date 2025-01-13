@@ -1,7 +1,7 @@
 ---
 title: How Does Conky Elevate the Visual Appeal of Your Linux Workspace?
-date: 2025-01-01T00:25:27.489Z
-updated: 2025-01-07T06:15:14.319Z
+date: 2025-01-12T21:39:58.165Z
+updated: 2025-01-13T22:40:25.817Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## How Does Conky Elevate the Visual Appeal of Your Linux Workspace?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -70,23 +74,11 @@ Close
 
 ![Conky manager overview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/conky-manager-overview.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Using Conky Manager to Edit Conky Widgets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/using-conky-manager-to-edit-conky-widgets.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close 
 
  By default, the Conky Manager comes with a number of widgets, but they aren’t eye-catching enough. Not to worry though, as there are talented folks who have developed dedicated Conky themes with stylish widgets that you can simply download and start using on your system, no code necessary.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Installing Conky Themes
 
@@ -95,10 +87,14 @@ Close
 ![Download the victorConky theme in a ZIP format.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/download-victorconky-theme.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Extract the victorConky zip file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/extract-the-victorconky-zip-file.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close 
 
@@ -112,12 +108,16 @@ mv victorConky ~/.conky
 
 ![Move the victorConky file to your home directory conky folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/move-victoconky-file-to-home-directory-conky-folder.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, the victorConky widgets should be accessible from the Conky Manager. Open it, and you should see a list of new widgets added. I personally liked the LinuxLarge widget and use it on my system. You can enable it by clicking the checkbox beside it.
 
 ![The victorConky widget enabled and visible on an Ubuntu desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/victorconky-widget-showcase.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Useful Resources
@@ -158,19 +158,17 @@ mv victorConky ~/.conky
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-strategizing-visibility-for-podcasts-through-design/"><u>[New] Strategizing Visibility for Podcasts Through Design</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/he-ultimate-guide-to-advanced-techniques-in-youtube-video-editing-for-2024/"><u>[New] The Ultimate Guide to Advanced Techniques in YouTube Video Editing for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-captivating-displays-for-expert-image-processors-2024-guide/"><u>[Updated] Captivating Displays for Expert Image Processors, 2024 Guide</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-calendar-imprinting-techniques-in-photography/"><u>[Updated] In 2024, Calendar Imprinting Techniques in Photography</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-precision-speed-control-for-elite-pc-users/"><u>[Updated] Precision Speed Control for Elite PC Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-nikon-d500-4k-performance/"><u>[Updated] The Ultimate Guide to Nikon D500 4K Performance</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-drone-vr-integration-guide/"><u>[Updated] Ultimate Drone-VR Integration Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-premier-5-web-titlers-shaping-industry-norms/"><u>[Updated] Unveiling the Premier 5 Web Titlers Shaping Industry Norms</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210611712-9781638121350-angels-to-aliens/"><u>Angels to Aliens | Free Book</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/crafting-team-videos-to-foster-viewership-and-following/"><u>Crafting Team Videos to Foster Viewership and Following</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-easy-home-cinematic-techniques-to-streamline-production/"><u>In 2024, Easy Home Cinematic Techniques to Streamline Production</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-maximizing-instagram-accessing-free-filters-via-searches/"><u>In 2024, Maximizing Instagram Accessing Free Filters via Searches</u></a></li>
-<li><a href="https://some-skills.techidaily.com/investment-worthy-asmr-sound-for-every-fan-for-2024/"><u>Investment-Worthy ASMR Sound for Every Fan for 2024</u></a></li>
-<li><a href="https://win-tips.techidaily.com/wie-man-musik-von-windows-media-player-erfolgreich-in-itunes-ubertragen-kann/"><u>Wie Man Musik Von Windows Media Player Erfolgreich in iTunes Übertragen Kann</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-breakthrough-ideas-to-amplify-brand-impact-on-reddit/"><u>[New] Breakthrough Ideas to Amplify Brand Impact on Reddit</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-ultimate-mic-selection-for-vloggers-and-streamers/"><u>[New] Ultimate Mic Selection for Vloggers and Streamers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-advanced-functionalities-of-zoom-on-windows-10/"><u>[Updated] Unlocking Advanced Functionalities of Zoom on Windows 10</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-final-list-top-blu-ray-players-for-pcmacos-enthusiasts/"><u>2024 Approved Final List Top Blu-Ray Players for PC/macOS Enthusiasts</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-vivo-y100-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Vivo Y100 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125175529-elegoos-high-tech-3d-printer-neptune-x4-pro-now-a-steal-at-284/"><u>Elegoo's High-Tech 3D Printer - Neptune X4 Pro Now a Steal at $284!</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/enhance-financial-data-extraction-with-abbyys-advanced-ocr-technology/"><u>Enhance Financial Data Extraction with ABBYY's Advanced OCR Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/quality-assurance-sweep-keychron-and-lemokey-review/"><u>Quality Assurance Sweep: Keychron & Lemokey Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transforming-workspaces-one-week-on-a-split-ergonomic-keyboard-and-its-impact-zdnet-explored/"><u>Transforming Workspaces: One Week on a Split Ergonomic Keyboard & Its Impact - ZDNet Explored</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tune-up-clips-import-audio-into-inshot-easily-for-2024/"><u>Tune Up Clips Import Audio Into InShot Easily for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-secrets-pro-level-iphone-landscape-tips-for-2024/"><u>Unlocking the Secrets Pro-Level iPhone Landscape Tips for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-magic-behind-shooting-images-with-iphones-hdr-for-2024/"><u>Unveiling the Magic Behind Shooting Images with iPhone’s HDR for 2024</u></a></li>
 </ul></div>
 

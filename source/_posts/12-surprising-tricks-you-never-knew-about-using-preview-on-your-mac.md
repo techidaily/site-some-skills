@@ -1,7 +1,7 @@
 ---
 title: 12 Surprising Tricks You Never Knew About Using Preview on Your Mac
-date: 2025-01-05T17:14:48.985Z
-updated: 2025-01-06T16:49:32.423Z
+date: 2025-01-07T21:49:59.676Z
+updated: 2025-01-13T16:54:18.752Z
 tags:
   - desktop
 categories:
@@ -42,10 +42,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Resize and move objects pasted into an image in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/resize-and-move-objects-pasted-into-an-image-in-preview.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Remove the Background From an Image
 
  An even more powerful editing feature in Preview is the ability to remove the background from your images. It's not as good as something like Photoshop, but it works well with photos or illustrations where there's a clear separation between the foreground and the background.
@@ -53,6 +49,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To use it, go to Tools > Remove Background. When you highlight that option, you'll see a glowing line around the subject in the image that lets you check that it's selecting the right thing. If you're happy, click "Remove Background."
 
 ![The Remove Background setting in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-remove-background-setting-in-preview.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If your image isn't in the PNG format, you'll be prompted to convert it first.
 
@@ -65,7 +65,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The Copy Subejct option in Preview in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-copy-subejct-option-in-preview-in-macos.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The subject will be copied to your clipboard so that you can paste it into another app. Alternatively, go to File > New from Clipboard to create a new image.
@@ -79,7 +79,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Revert to an earlier saved version of an image in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/revert-to-an-earlier-saved-version-of-an-image-in-preview.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Copy Text, Links, Numbers, and More
@@ -92,14 +92,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Select text in an image in Preview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/select-text-in-an-image-in-preview.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Scan Documents
 
  Setting up and using scanners can be a bit of a pain, but Preview makes it easy on a Mac. You don't need any extra software to use your scanner with macOS—you can do it all in Preview.
@@ -107,6 +99,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If you have a scanner connected over Wi-Fi, just go to File > Import From and click the scanner name. Select "Show Details" to get a quick preview scan, then adjust any settings you need and click "Scan" to save the image.
 
 ![The Scan settings in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-scan-settings-in-preview.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Identify Objects in Photos
 
@@ -121,7 +117,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 Close 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Display Photos in a Slideshow
@@ -131,7 +127,7 @@ Close
 ![View images in the slideshow in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/view-images-in-the-slideshow-in-preview.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Create and Encrypt PDFs
@@ -142,7 +138,15 @@ Close
 
 ![The settings to encrypt a PDF in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-settings-to-encrypt-a-pdf-in-preview.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do this with existing PDFs, too. Open the PDF in Preview and go to File > Edit Permissions. Now you can add a password and change the other restrictions that were placed onto the file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Edit PDFs
 
@@ -157,7 +161,7 @@ Close
 ![The Show Markup Toolbar button in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-show-markup-toolbar-button-in-preview.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To [redact information from a file](https://extra-support.techidaily.com/2024-approved-steps-for-writing-engaging-video-blogging-content/), click the Redact button and highlight the words, sentences, or paragraphs that you want to remove. Note that this is permanent and cannot be undone once you've saved your changes.
@@ -174,10 +178,6 @@ Close
 
  You can also annotate the PDF in the usual ways by drawing, adding text boxes, adding shapes, and so on.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Save Frames From GIFs
 
  Ever need to save a single frame from a GIF? You can do that in Preview. Drag the GIF into Preview and you'll see all of its frames in the sidebar. Locate the frame you want and then drag it to your desktop where it will be saved as a separate image file.
@@ -185,7 +185,7 @@ Close
 ![Save a frame from a GIF in Preview.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/save-a-frame-from-a-gif-in-preview.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Batch Convert Images
@@ -221,18 +221,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-explore-our-picks-of-budget-friendly-and-high-quality-video-viewing-tools-pcmobile/"><u>[New] Explore Our Picks of Budget-Friendly and High-Quality Video Viewing Tools (PC/Mobile)</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-ultimate-guide-premium-plugins-boosting-ae-projects/"><u>[New] In 2024, Ultimate Guide Premium Plugins Boosting AE Projects</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-nikon-d500-at-a-glance-the-frontiers-of-4k-hd/"><u>[New] Nikon D500 at a Glance The Frontiers of 4K HD</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-essential-manual-on-motion-detection-techniques/"><u>[New] The Essential Manual on Motion Detection Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-art-of-captioning-images-with-text/"><u>[Updated] The Art of Captioning Images with Text</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-drone-photographers-stabilization-companion/"><u>[Updated] The Drone Photographer's Stabilization Companion</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-gopro-cinematography-luts-15-best/"><u>2024 Approved The Ultimate Guide to GoPro Cinematography LUTs (15 Best)</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/windowsmac/"><u>步驟與技巧：在Windows/Mac上進行系統回復和重建</u></a></li>
-<li><a href="https://article-posts.techidaily.com/master-your-own-passport-photos-with-these-10-tools/"><u>Master Your Own Passport Photos with These 10 Tools</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/passfab-iphone-11-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab iPhone 11 Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-vivo-y100i-power-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Vivo Y100i Power 5G Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-guide-to-iphones-video-length-tailoring-for-2024/"><u>Ultimate Guide to iPhone's Video Length Tailoring for 2024</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/movavi-au-wmv/"><u>オンラインで簡単にセットアップ！ - Movavi AU WMVフリー変換サービス</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-delving-deep-into-ios-video-recording-capabilities-for-2024/"><u>[Updated] Delving Deep Into IO's Video Recording Capabilities for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-liberty-of-youtube-download-customizable-video-themes/"><u>[Updated] In 2024, Liberty of YouTube Download Customizable Video Themes</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-ultimate-blueprint-creating-exceptional-podcast-content-on-idevices/"><u>[Updated] In 2024, The Ultimate Blueprint Creating Exceptional Podcast Content on iDevices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-how-to-use-microsoft-azure-speech-to-text-service/"><u>2024 Approved How to Use Microsoft Azure Speech to Text Service</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-artisans-approach-to-color-balancing/"><u>2024 Approved The Artisan's Approach to Color Balancing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-script-to-screen-animating-stories-using-wmm/"><u>From Script to Screen Animating Stories Using WMM</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-updated-dolby-digital-audio-drivers-now-support-for-windows-111081-systems/"><u>Get Updated Dolby Digital Audio Drivers Now - Support for Windows 11/10/8.1 Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tune-up-your-whatsapp-status-snapshot/"><u>In 2024, Tune Up Your WhatsApp Status Snapshot</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-uniting-zooms-power-with-facebook-live-streaming/"><u>In 2024, Uniting Zoom's Power with Facebook LIVE Streaming</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/premier-video-call-alternatives-zooms-rivalry-explained-for-2024/"><u>Premier Video Call Alternatives Zoom's Rivalry Explained for 2024</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/solving-the-problem-of-your-damaged-storage-unit-expert-tips-from-yl-computing/"><u>Solving the Problem of Your Damaged Storage Unit: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-xiaomi-14-pro-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Xiaomi 14 Pro Location | Dr.fone</u></a></li>
 </ul></div>
 

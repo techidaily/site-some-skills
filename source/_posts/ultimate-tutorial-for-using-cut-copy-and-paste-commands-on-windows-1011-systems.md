@@ -1,7 +1,7 @@
 ---
 title: Ultimate Tutorial for Using Cut, Copy & Paste Commands on Windows 10/11 Systems
-date: 2025-01-05T22:54:04.179Z
-updated: 2025-01-07T06:37:31.536Z
+date: 2025-01-06T17:35:55.326Z
+updated: 2025-01-13T22:00:18.659Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ## Ultimate Tutorial for Using Cut, Copy & Paste Commands on Windows 10/11 Systems
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -40,6 +40,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  In Windows, you can even [synchronize your Clipboard between devices](https://support.microsoft.com/en-us/help/4028529/windows-10-clipboard) using the cloud. But that is an optional setting you have to turn on in System Settings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Difference Between Copy and Cut
 
  When you copy something, Windows makes a copy of the information you want to the Clipboard and also leaves it in its original location. In contrast, when you perform the cut operation, Windows copies the information to the Clipboard but also removes the information from the original location.
@@ -47,7 +51,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  That means you typically use copy to duplicate information, and cut to move the information from one location to another. These fundamental concepts apply across almost every application, so let's go over the various different ways to copy, cut, and paste in Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Copy, Cut, and Paste Using Keyboard Shortcuts
@@ -74,15 +78,15 @@ Microsoft
 
 ![Right-click and image and select "Copy Image."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-6.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can then right-click in a destination document and select Paste to put the contents of the Clipboard in that location.
 
  The same principle works in File Explorer and on your Desktop. Select a file, folder, or group of files you'd like to Copy or Cut. Right-click on the files, and you'll see a context menu pop-up. Select "Copy" if you'd like to duplicate the file somewhere else. Select "Cut" if you'd like to move the file to another location.
 
 ![Select Cut or Copy on the Right-Click Menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/right_click_file_copy.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then navigate to the new location and right-click where you'd like to put the files. The destination right-click can be inside a folder window, on the desktop, a drive on your computer, or even directly on a folder icon itself.
 
@@ -99,18 +103,18 @@ Microsoft
 ![Copy, Cut, and Paste in a typical Windows Ribbon Interface](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/aribbon_copy.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In programs with compressed or hamburger-style menus (like Chrome and Firefox), you can often find the Copy/Cut/Paste functions in a section labeled Edit.
 
 ![Copy, Cut, and Paste in Chrome's Menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/chrome_menu_copy.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Also, many older Windows programs include a series of drop-down menus at the top of the application window. Among them, you'll often find a menu titled Edit (which you can often call up by pressing Alt+E). In that menu, you can usually find Copy, Cut, and Paste commands.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Empty Your Clipboard
 
@@ -121,10 +125,6 @@ Microsoft
  You can also [create a custom shortcut](https://on-screen-recording.techidaily.com/gameplay-memories-preserved-unveiling-6-minecraft-tips/) that will clear your Windows Clipboard.
 
 ![Clearing clipboard data in Windows 10 Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/clear_clipboard_data-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now that you know more about Copy, Cut, and Paste, we hope you have fun duplicating and moving your data with ease.
 
@@ -143,20 +143,20 @@ Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/limb-the-popularity-ladder-essential-youtube-seo-practices-uncovered-for-2024/"><u>[New] Climb the Popularity Ladder Essential YouTube SEO Practices Uncovered for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-premier-livestream-networks-you-need-to-watch/"><u>[New] The Premier Livestream Networks You Need To Watch</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-list-10-best-date-counting-clocks-androidios/"><u>[New] The Ultimate List 10 Best Date-Counting Clocks Android/iOS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-manual-to-assembling-a-top-tier-4k-editing-pc/"><u>[New] The Ultimate Manual to Assembling a Top-Tier 4K Editing PC</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-picks-in-gimbals-to-elevate-your-drone-imagery/"><u>[New] Top Picks in Gimbals to Elevate Your Drone Imagery</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-cut-to-the-chase-vimeos-best-practices-for-video-length-reduction/"><u>[Updated] Cut to the Chase Vimeo's Best Practices for Video Length Reduction</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-elite-mac-gif-recorders-top-picks-list/"><u>[Updated] Elite Mac GIF Recorders Top Picks List</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-perfect-your-igtv-shooting-skills-tips-for-smartphonedslr-cameras-for-2024/"><u>[Updated] Perfect Your IGTV Shooting Skills Tips for Smartphone/DSLR Cameras for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-ride-safely-leading-helmet-cams-reviewed-for-motorcycling/"><u>[Updated] Ride Safely Leading Helmet Cams Reviewed for Motorcycling</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-techniques-to-transform-text-into-a-3d-entity/"><u>[Updated] Techniques to Transform Text Into a 3D Entity</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cutting-edge-techniques-for-vce-22-optimization/"><u>Cutting Edge Techniques for VCE 2.2 Optimization</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-iphone-13-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From iPhone 13 without Password?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-quick-setup-for-smartphones-as-personalized-vr-headsets/"><u>In 2024, The Quick Setup for Smartphones as Personalized VR Headsets</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-to-fixing-unable-to-join-a-party-in-fortnite-error-code-84/"><u>Ultimate Guide to Fixing 'Unable to Join a Party' In Fortnite (Error Code 84)</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/bes-creative-commons-license-explained-simply/"><u>YouTube's Creative Commons License Explained Simply</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-fun-at-no-cost-top-quality-gratuitous-meme-templates-for-2024/"><u>[New] Fun at No Cost Top Quality, Gratuitous Meme Templates for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-intricate-yet-straightforward-guide-exploring-popular-youtube-reactions/"><u>[New] The Intricate Yet Straightforward Guide Exploring Popular YouTube Reactions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-channel-boosting-strategies-effortless-sponsorship-securing-tips/"><u>[Updated] In 2024, Channel Boosting Strategies Effortless Sponsorship Securing Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-strategy-envelope-market-success-inside-out/"><u>[Updated] Strategy Envelope Market Success Inside Out</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-collection-8-amazing-3d-websites-with-gold/"><u>[Updated] The Ultimate Collection 8 Amazing 3D Websites with Gold</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-your-guide-to-getting-started-easy-aspects-of-starting-an-online-product-reviews-podcast-for-2024/"><u>[Updated] Your Guide to Getting Started Easy Aspects of Starting an Online Product Reviews Podcast for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-strategic-use-of-visual-media-in-classroom-teaching/"><u>2024 Approved Strategic Use of Visual Media in Classroom Teaching</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/attempted-switch-from-dpc-error-on-windows-solved/"><u>ATTEMPTED SWITCH FROM DPC Error on Windows [Solved]</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1726225880026-flvwmv-movavi/"><u>FlvかWMVへの無料で簡単なオンライン変換 - Movaviソリューション</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hide-post-display-adjustment-in-windows-power-configuration/"><u>Hide Post-Display Adjustment in Windows Power Configuration</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-thorough-examination-straightforward-dynamic-range-methods/"><u>In 2024, Thorough Examination Straightforward Dynamic Range Methods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-tier-visual-data-vaults/"><u>In 2024, Top-Tier Visual Data Vaults</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-fixes-to-stop-nioh-2-from-crashing-full-version-help-guide/"><u>Step-by-Step Fixes to Stop Nioh 2 From Crashing: Full Version Help Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-choosing-premium-aio-cooling-solutions-2024-edition/"><u>The Ultimate Guide to Choosing Premium AIO Cooling Solutions - 2024 Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-the-power-of-a-new-identity-step-by-step-guide-to-alter-your-game-characters-voice-for-free-for-2024/"><u>Unlock the Power of a New Identity Step-by-Step Guide to Alter Your Game Character's Voice for FREE for 2024</u></a></li>
 </ul></div>
 

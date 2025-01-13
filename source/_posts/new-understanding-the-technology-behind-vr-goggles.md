@@ -1,7 +1,7 @@
 ---
 title: "[New] Understanding the Technology Behind VR Goggles"
-date: 2024-08-21T00:20:12.916Z
-updated: 2024-08-22T00:20:12.916Z
+date: 2025-01-07T16:59:55.501Z
+updated: 2025-01-13T18:04:17.256Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/ab11097b735383eb1301c6c7953b6d3e90027241d
 
 # What is Virtual Reality Headset?
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -30,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/ab11097b735383eb1301c6c7953b6d3e90027241d
  Mar 27, 2024• Proven solutions
 
  A [Virtual Reality](https://tools.techidaily.com/wondershare/filmora/download/) headset, commonly known as VR headset, refers to a device worn over the eyes like a pair of goggles for the purposes of watching VR content or when playing virtual reality video games. Most of the headsets have the ability to track the user’s head movements so that the wherever the user looks, the character in the virtual reality also looks. If done in the right manner, the headsets give an impression of the user being actually inside the game or the movie, hence the name “virtual reality”.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How does Virtual Reality headsets work
 
@@ -41,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/ab11097b735383eb1301c6c7953b6d3e90027241d
 
  And for the final images to be totally convincing, the VR headsets use minimum frame rates of 60fps to do away with shuttering or make the users feel sick.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Top VR headsets overview
 
  The race by tech giants to get their share of the virtual reality market is on and company after company is burning the midnight oil to produce the next best headset.
@@ -51,22 +49,25 @@ thumbnail: https://thmb.techidaily.com/ab11097b735383eb1301c6c7953b6d3e90027241d
  Below is a list of the various VR headsets currently available to purchase:
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### [HTC Vive]( https://www.vive.com/ )
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![ghtc-vive-vr](https://images.wondershare.com/filmora/article-images/htc-vive.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  HTC Vive VR headset is made in collaboration with Valve and it plugs directly into PCs and uses Valve’s humongous gaming ecosystem. The headset has over 70 sensors to allow for 360 degrees head tracking and it also boasts of a 90Hz refresh rate responsible for keeping down the latency, which in turn saves the users from suffering motions sickness. This headset is currently available for purchase from $799.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Samsung Gear VR](http://www.samsung.com/global/galaxy/gear-vr/  )
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![gear-vr](https://images.wondershare.com/filmora/article-images/gear-vr.png)
 
  The Samsung Gear VR is essentially Oculus Rift lite, owing to the fact that the two companies worked on the technology together. The Gear VR uses a Samsung Galaxy smartphone for the display and as the processor. The phone slots in front of the lenses and into a Micro USB slot, and uses the super AMOLED display as the screen. With the Gear, all you have to do is to slot in the phone, put on the headset and start enjoying the virtual reality experience.
@@ -77,23 +78,18 @@ thumbnail: https://thmb.techidaily.com/ab11097b735383eb1301c6c7953b6d3e90027241d
 
  Oculus Rift headset was responsible for the current hysteria in virtual reality. The Rift plugs into the computer’s USB and DVI ports and tracks the movements of the head to provide 3D displays on its stereo screens. The consumer edition of the Rift comes with a 2160 x 1200 resolution as well as a refresh rate of 90Hz. The Rift matches HTC Vive in terms of the refresh rate, but lags behind Sony’s PlayStation VR, though it is a pretty advanced VR headset in terms of the technology used.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Sony PlayStation VR](https://www.playstation.com/en-us/explore/playstation-vr/  )
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![sony-playstation-vr](https://images.wondershare.com/filmora/article-images/sony-playstation-vr.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Sony has finally announced the launch date for the PlayStation VR headset and this is expected to be 13th October 2016\. A new version though, was announced way back in 2015 and it featured a 5-inch LCD display of the original prototype. For the version to be released, it is expected to have a 5.7 inch OLED to allow for low persistence which will in turn translate to less motion blur. The refresh rate for Sony’s PlayStation VR has been ramped up to 120Hz, making it possible to have 120fps gaming.
 
 ### [Google Cardboard](https://vr.google.com/cardboard/  )
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![google-cardboard-vr](https://images.wondershare.com/filmora/article-images/google-cardboard-vr.jpg)
 
  Not to be left behind, Google also has a cardboard virtual reality headset. With this headset, it sounds like popping your smartphone in a cardboard container and putting it over your head for a virtual reality experience. Sounds like a joke, but you will be pleasantly surprised to learn that it works like charm and it is also low cost. If anything, the smartphone you have already has all the gyroscopic sensors as well as the positioning devices needed to track your head movements.
@@ -124,14 +120,15 @@ Follow @Benjamin Arango
 
  And for the final images to be totally convincing, the VR headsets use minimum frame rates of 60fps to do away with shuttering or make the users feel sick.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## Top VR headsets overview
 
  The race by tech giants to get their share of the virtual reality market is on and company after company is burning the midnight oil to produce the next best headset.
 
  Below is a list of the various VR headsets currently available to purchase:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [HTC Vive]( https://www.vive.com/ )
 
@@ -141,40 +138,33 @@ Follow @Benjamin Arango
 
 ### [Samsung Gear VR](http://www.samsung.com/global/galaxy/gear-vr/  )
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![gear-vr](https://images.wondershare.com/filmora/article-images/gear-vr.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Samsung Gear VR is essentially Oculus Rift lite, owing to the fact that the two companies worked on the technology together. The Gear VR uses a Samsung Galaxy smartphone for the display and as the processor. The phone slots in front of the lenses and into a Micro USB slot, and uses the super AMOLED display as the screen. With the Gear, all you have to do is to slot in the phone, put on the headset and start enjoying the virtual reality experience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Oculus Rift](https://www.oculus.com/rift/  )
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![oculus-rift](https://images.wondershare.com/filmora/article-images/oculus-rift.jpg)
 
  Oculus Rift headset was responsible for the current hysteria in virtual reality. The Rift plugs into the computer’s USB and DVI ports and tracks the movements of the head to provide 3D displays on its stereo screens. The consumer edition of the Rift comes with a 2160 x 1200 resolution as well as a refresh rate of 90Hz. The Rift matches HTC Vive in terms of the refresh rate, but lags behind Sony’s PlayStation VR, though it is a pretty advanced VR headset in terms of the technology used.
 
 ### [Sony PlayStation VR](https://www.playstation.com/en-us/explore/playstation-vr/  )
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![sony-playstation-vr](https://images.wondershare.com/filmora/article-images/sony-playstation-vr.jpg)
 
  Sony has finally announced the launch date for the PlayStation VR headset and this is expected to be 13th October 2016\. A new version though, was announced way back in 2015 and it featured a 5-inch LCD display of the original prototype. For the version to be released, it is expected to have a 5.7 inch OLED to allow for low persistence which will in turn translate to less motion blur. The refresh rate for Sony’s PlayStation VR has been ramped up to 120Hz, making it possible to have 120fps gaming.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Google Cardboard](https://vr.google.com/cardboard/  )
 
@@ -184,9 +174,6 @@ Follow @Benjamin Arango
 
  Since the Cardboard has grown so much in terms of popularity, Google has planned to release a better version known as Daydream. This will be a device like the Gear VR, but it has been designed to work with android phones which are currently being revamped to over better VR experiences. It is still not know when the new device will be available, but the Cardboard is retailing at $16.99 at Amazon.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -194,7 +181,6 @@ Benjamin Arango
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -218,8 +204,19 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-discover-10-platforms-offering-free-gaming-melodies/"><u>[New] 2024 Approved Discover 10 Platforms Offering Free Gaming Melodies</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-quick-guide-to-starting-an-instagram-live-show/"><u>[New] In 2024, Quick Guide to Starting an Instagram Live Show</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streaming-made-easy-with-these-11-advanced-recording-tips/"><u>[New] Streaming Made Easy with These 11 Advanced Recording Tips</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-rhythm-ringtone-converting-tamil-music-into-phone-chimes/"><u>[Updated] 2024 Approved Rhythm Ringtone Converting Tamil Music Into Phone Chimes</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-maximize-your-content-creation-top-rated-mac-mp4-slicers-for-2024/"><u>[Updated] Maximize Your Content Creation Top-Rated Mac MP4 Slicers for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-list-of-androids-best-music-video-apps/"><u>2024 Approved The Ultimate List of Android's Best Music Video Apps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-tackle-zooms-heavy-load-on-your-processor-6-fixes/"><u>How to Tackle Zoom's Heavy Load on Your Processor - 6 Fixes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Nokia G310? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/increase-views-with-smart-igtv-title-and-summary-edits/"><u>Increase Views with Smart IGTV Title and Summary Edits</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-dilemma-realtek-hd-audio-manager-failure-to-start-up/"><u>Solving the Dilemma: Realtek HD Audio Manager Failure to Start Up</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-tutorial-sending-subtitles-via-srt-to-twitter-facebook-and-more-for-2024/"><u>The Ultimate Tutorial Sending Subtitles via SRT to Twitter, Facebook & More for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-rotation-video-setup-for-2024/"><u>Ultimate Rotation Video Setup for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Integrating Sound  A Comprehensive Approach to Narration\""
-date: 2024-08-21T00:20:32.295Z
-updated: 2024-08-22T00:20:32.295Z
+date: 2025-01-09T16:55:34.842Z
+updated: 2025-01-13T18:06:02.980Z
 tags: 
   - screen-recording
   - ai video
@@ -24,6 +24,10 @@ And when you learn how to use this technique the right way, your YouTube videos 
 
 I'll be demonstrating how to add voiceovers and narrations in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to help you step up your video creation game.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Voiceover or Narration?
 
 But first, what's the difference between a voiceover and a narration? Truth be told, there is quite a bit of overlap between the two.
@@ -42,27 +46,26 @@ For the purpose of this article, I will be using the term “voiceover and “na
 
 But here's the good news: the way you add either option is the same in Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add either option](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to add narration
 
 So the easiest way to add narration is directly to a project. The benefit of this is that you can record your narration inside Filmora while you watch the preview of your edited video.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add narration to project](https://images.wondershare.com/filmora/guide/stt-tts-srt-09.png)
 
 A good example of this would be narrating a story on top of some still images and video clips from a recent vacation. (In most cases you would want to turn off the sound of the video clip, or at least use ducking to help the viewer focus on the narration.)
 
 You put the playhead where you want to start recording and hit the microphone icon under the preview window.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![hit microphone icon](https://images.wondershare.com/filmora/guide/stt-tts-srt-08.png)
 
 A 3-second countdown will pop up and start recording immediately after this countdown.
@@ -72,8 +75,9 @@ You can record your narration and click stop.
 After recording, you can trim and edit your narration, you can delete it and record it again, and can move it and edit it like any other feature.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Some Tips for Recording Narration
 
 Try playing the clip in the preview window to get a sense of what you want to say fits well with the space available in the project.
@@ -93,16 +97,13 @@ Practice adding it to your videos to see how it adds depth and dimension to your
 It can also help make a connection with your audience because you can be relating to the images on the screen as they watch them. This is effective in building your YouTube audience.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Always use a good mic
 
 When adding voiceover or narration to your project, be sure to use a good USB microphone. A good quality sound will elevate your entire project and just requires a little planning.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![use good microphone](https://images.wondershare.com/filmora/article-images/2022/11/use-good-microphone.jpg)
 
 Also, be sure to check that your external microphone is selected when you start recording. There's nothing worse than nailing the perfect narration and realizing it was recorded with the built-in mic, not your USB microphone.
@@ -143,8 +144,22 @@ Filmora makes it easy to add narration of voice-overs to your video projects. Do
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-speaking-directly-to-text-mastering-the-art-of-voice-to-text-ms-word/"><u>[New] Speaking Directly to Text Mastering the Art of Voice-to-Text (MS Word)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-upload-like-a-pro-the-ultimate-guide-to-photo-videos-and-online-success/"><u>[New] Upload Like a Pro The Ultimate Guide to Photo Videos and Online Success</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-samsung-galaxy-f14-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Samsung Galaxy F14 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-photography-frames/"><u>2024 Approved Top 10 Photography Frames</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-xiaomi-redmi-note-12r-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Xiaomi Redmi Note 12R Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-amd-smbus-drivers-swift-and-straightforward-installation-guide/"><u>Get the Latest AMD SMBus Drivers - Swift and Straightforward Installation Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-syma-x5c-in-depth-guide-optimal-choice-to-lift-off-as-a-beginner/"><u>In 2024, Syma X5C In-Depth Guide Optimal Choice to Lift Off as a Beginner</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-roadmap-how-to-make-your-covers-shine/"><u>In 2024, The Roadmap How To Make Your Covers Shine</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-choice-video-capture-apps-iphone/"><u>In 2024, Top Choice Video Capture Apps iPhone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-pc-performance-ai-assistance-at-hand/"><u>Pioneering PC Performance: AI Assistance at Hand</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/thankful-compilation-professional-and-personalized-otus/"><u>Thankful Compilation Professional & Personalized OTUs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-15-smartest-ways-to-watch-nba-live-in-action-for-2024/"><u>The 15 Smartest Ways to Watch NBA Live in Action for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-30-slept-on-speech-to-text-apps-for-macos-users-for-2024/"><u>Top 30 Slept-On Speech to Text Apps for macOS Users for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/plicated-online-music-conversion-top-6-free-ios-apps-for-video-and-audio-for-2024/"><u>Uncomplicated Online Music Conversion Top 6 Free iOS Apps for Video & Audio for 2024</u></a></li>
+<li><a href="https://win-popular.techidaily.com/1728504795936-xcopy/"><u>XCOPYコマンド使用時にディレクトリ生成が不可能: 解決策として３通りのアプローチ</u></a></li>
+</ul></div>
 

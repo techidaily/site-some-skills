@@ -1,7 +1,7 @@
 ---
 title: NY Times Crossword Puzzle Solutions - Today's Clues & Answers Revealed, May 31St Edition
-date: 2024-12-31T18:37:58.799Z
-updated: 2025-01-06T21:03:45.935Z
+date: 2025-01-10T17:17:39.205Z
+updated: 2025-01-13T19:15:01.750Z
 tags:
   - web
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## NY Times Crossword Puzzle Solutions - Today's Clues & Answers Revealed, May 31St Edition
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -32,7 +32,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Hints for Today's Connections Groups
@@ -47,7 +47,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![May 29th's Connections words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-29th-connections.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you still need help, the actual group names are:
@@ -60,6 +60,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ##  Today's NYT Connections Answers
 
 ![May 31st's Connections groups and word.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-31stconnections-filled.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Corpus (Yellow):** 
 
@@ -78,7 +82,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Hands, Maraca, Polaroid, Snowglobe
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Did We Solve This Connections Game?
@@ -94,10 +98,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Body and canon can refer to "a body of literary works." That brought in works. Of the remaining words, I don't recognize the word oeuvre at all, so I threw that one in for good measure. Together, body, canon, oeuvre, and works were in the Yellow group, "Corpus." 
 
  That left hands, maraca, polaroid, and snowglobe. I wasn't able to figure out the connection between them, but luckily I didn't need to. Purple was "Things People Shake." 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How Do You Guess Connections Groups?
 
@@ -127,18 +127,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-complete-selection-of-free-online-meeting-applications/"><u>[New] 2024 Approved The Complete Selection of FREE Online Meeting Applications</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-flawless-endgame-in-vr-worlds/"><u>[New] In 2024, Flawless Endgame in VR Worlds</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-summit-series-of-ultimate-4k-touch-screens/"><u>[Updated] Summit Series of Ultimate 4K Touch Screens</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tickler-toolkit-image-mashup/"><u>[Updated] Tickler Toolkit Image Mashup</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transform-your-gaming-soundscape-ps5-and-ps4-edition/"><u>[Updated] Transform Your Gaming Soundscape PS5 & PS4 Edition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-online-broadcast-platforms/"><u>2024 Approved Ultimate Online Broadcast Platforms</u></a></li>
-<li><a href="https://win11.techidaily.com/2024-youtube/"><u>2024年用: YouTubeコンテンツをメモリースティックにバックアップする専門的な方法</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-capability-in-mixing-drinks/"><u>ChatGPT's Capability in Mixing Drinks</u></a></li>
-<li><a href="https://discover-help.techidaily.com/1725288243584-digiartydvd/"><u>Digiarty专用DVD/视频编码器软件 - 高效数字化转换工具</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-apex-of-narrative-content-youtubes-finest-in-23/"><u>In 2024, The Apex of Narrative Content YouTube’s Finest in '23</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-8-selections-of-subtitle-editors-making-srt-on-windowsmac-a-breeze/"><u>In 2024, Top 8 Selections of Subtitle Editors Making SRT on Windows/Mac a Breeze</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/rokus-captioning-troubles-fix-the-problem-with-these-easy-steps/"><u>Roku's Captioning Troubles? Fix the Problem with These Easy Steps!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-ultimate-list-of-66-must-follow-travel-bloggers-on-twitter/"><u>Unveiling the Ultimate List of 66 Must-Follow Travel Bloggers on Twitter</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-creative-routes-to-activate-windows-utilities/"><u>5 Creative Routes to Activate Windows Utilities</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/elevate-your-windows-10-switch-from-32-bit-to-64-bit/"><u>Elevate Your Windows 10: Switch From 32-Bit to 64-Bit</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-compiling-shaders-bug-in-call-of-duty-black-ops-cold-war/"><u>How to Fix 'Compiling Shaders' Bug in Call of Duty: Black Ops Cold War</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-13-mini-to-pc-via-usb-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 13 mini to PC via USB? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-art-of-producing-alluring-haul-media/"><u>In 2024, The Art of Producing Alluring Haul Media</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigating-through-clouds-with-msfsx-ultimate-release-why-this-remains-a-top-ranked-flight-simulation-software-for-gamers-and-hobbyists/"><u>Navigating Through Clouds with MSFSX Ultimate Release - Why This Remains a Top-Ranked Flight Simulation Software for Gamers and Hobbyists</u></a></li>
+<li><a href="https://some-skills.techidaily.com/troubleshooting-homekit-connectivity-how-to-restore-response-in-your-smart-devices/"><u>Troubleshooting HomeKit Connectivity: How to Restore Response in Your Smart Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-the-reasons-behind-the-nsas-odd-request-to-regularly-refresh-your-devices/"><u>Understanding the Reasons Behind the NSA's Odd Request to Regularly Refresh Your Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-the-full-potential-of-your-journeys-why-utilizing-google-maps-save-location-function-is-essential/"><u>Unlock the Full Potential of Your Journeys: Why Utilizing Google Maps' Save Location Function Is Essential</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unmatched-user-experience-the-ultimate-blueprint-of-the-perfect-timing-app/"><u>Unmatched User Experience: The Ultimate Blueprint of the Perfect Timing App</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-methods-to-embed-audios-in-mkv-files-new-edition-update-guide/"><u>Updated In 2024, Methods to Embed Audios in MKV Files New Edition Update Guide</u></a></li>
 </ul></div>
 

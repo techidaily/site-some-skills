@@ -1,7 +1,7 @@
 ---
 title: Mandatory Survey Prompt Launched by Microsoft When Exiting OneDrive
-date: 2025-01-05T06:22:29.399Z
-updated: 2025-01-06T16:34:46.644Z
+date: 2025-01-12T19:41:55.624Z
+updated: 2025-01-13T17:47:24.275Z
 tags:
   - deals
 categories:
@@ -18,7 +18,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Microsoft's clingy behavior continues to annoy Windows users. Last month, the company introduced an optional [pop-up survey](https://article-files.techidaily.com/2024-approved-the-ultimate-guide-for-implementing-look-up-tables-in-creative-suite/) that's triggered when installing Chrome from Edge. Now, Windows users are being hit with a _mandatory_ survey when they try to _close_ OneDrive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  UPDATE: 2023/11/10 10:11 EST BY ANDREW HEINZMAN
@@ -32,7 +32,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![The "quit OneDrive" popup prompting a user to complete a survey.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/11-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Neowin](https://www.neowin.net/news/microsoft-wont-let-you-close-onedrive-in-windows-without-you-explaining-it-first/)
@@ -68,24 +68,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-cutting-edge-approaches-for-recording-and-sharing-sporting-games/"><u>[New] In 2024, Cutting-Edge Approaches for Recording & Sharing Sporting Games</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-10-plugins-to-enhance-fcp/"><u>[New] Ultimate 10 Plugins to Enhance FCP</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-mixed-reality-a-comprehensive-insight/"><u>[New] Unveiling Mixed Reality A Comprehensive Insight</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-building-a-brand-with-captivating-haul-videos-and-edits/"><u>[Updated] Building a Brand with Captivating Haul Videos and Edits</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-tech-comforts-with-luxury-desktops/"><u>[Updated] Ultimate Tech Comforts with Luxury Desktops</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-understanding-spending-in-online-advertising/"><u>[Updated] Understanding Spending in Online Advertising</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-champion-of-open-source-media-playback-vlc-vs-mpc/"><u>[Updated] Unveiling the Champion of Open-Source Media Playback (VLC Vs. MPC)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-on-the-spot-aspect-ratio-switcheroo-tips/"><u>2024 Approved On-the-Spot Aspect Ratio Switcheroo Tips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-strategies-for-creating-a-positive-interview-environment/"><u>2024 Approved Strategies for Creating a Positive Interview Environment</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-telegram-marketing-101-a-step-by-step-guide-for-starters/"><u>2024 Approved Telegram Marketing 101 A Step-by-Step Guide for Starters</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-iphone-11-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From iPhone 11? Find the Best Solution Here</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-x100-pro-by-fonelab-android-recover-data/"><u>How to retrieve lost files from X100 Pro?</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oneplus-12-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximizing-your-apple-vision-pro-experience-top-reasons-and-step-by-step-guide-for-securing-a-demo-tech-insights/"><u>Maximizing Your Apple Vision Pro Experience: Top Reasons & Step-by-Step Guide for Securing a Demo | Tech Insights</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/mobile-magnification-premium-highlights-for-iphonesandroids-for-2024/"><u>Mobile Magnification Premium Highlights for IPhones/Androids for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-swift-periscope-broadcasting-for-2024/"><u>The Ultimate Guide to Swift Periscope Broadcasting for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tips-for-truly-tuning-into-your-iphone-podcasts-for-2024/"><u>Tips for Truly Tuning Into Your iPhone Podcasts for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-11-piu-eccellenti-software-di-taglio-video-senza-costo-guida-2024/"><u>Top 11 Più Eccellenti Software Di Taglio Video Senza Costo: Guida 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-overcoming-chromes-profile-glitches-on-pc/"><u>Troubleshooting: Overcoming Chrome's Profile Glitches on PC</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-depth-review-the-full-picture-of-facetunes-new-features/"><u>[New] In-Depth Review The Full Picture of Facetune's New Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-finest-videography-tools/"><u>[New] The Finest Videography Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-superior-psd-design-transformations/"><u>[Updated] Superior PSD Design Transformations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-hidden-treasure-troves-of-snapchat-tones/"><u>[Updated] Unveiling the Hidden Treasure Troves of Snapchat Tones</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-mastering-spotifys-marketplace-for-ultimate-ad-success/"><u>2024 Approved Mastering Spotify's Marketplace for Ultimate Ad Success</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-high-res-screens-for-playstation-5/"><u>2024 Approved Top 5 High-Res Screens for PlayStation 5</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/apemp3/"><u>無償APEファイル変換ガイド：MP3や他形式に簡単リフォーマット</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/digiarty-software-dvd/"><u>Digiarty Software - 包括的なデジタルソフトウェアセット: DVD作成・変換・コピー用</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-7-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 7 After Forgetting the Passcode?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-video-transfer-dvd-making-on-mac/"><u>In 2024, Streamlining Video Transfer DVD Making on Mac</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-the-perfect-inversion-youtube-reverse-guidebook/"><u>In 2024, The Perfect Inversion YouTube Reverse Guidebook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-uncovering-best-in-class-steadicams-for-high-end-dslr-projects/"><u>In 2024, Uncovering Best-in-Class Steadicams for High-End DSLR Projects</u></a></li>
+<li><a href="https://techtrends.techidaily.com/oppo-find-n-rumors-foretelling-the-price-tag-launch-date-specs-whats-next/"><u>Oppo Find N Rumors: Foretelling the Price Tag, Launch Date, Specs – What's Next?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-communication-device-with-new-tunes-for-2024/"><u>Transform Your Communication Device with New Tunes for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-video-guide-to-hairstyles-for-2024/"><u>Ultimate Video Guide to Hairstyles for 2024</u></a></li>
 </ul></div>
 

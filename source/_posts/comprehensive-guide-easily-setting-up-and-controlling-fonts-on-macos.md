@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Easily Setting Up & Controlling Fonts on macOS"
-date: 2024-12-31T08:54:56.878Z
-updated: 2025-01-06T18:54:22.886Z
+date: 2025-01-10T17:53:46.186Z
+updated: 2025-01-13T16:44:43.514Z
 tags:
   - desktop
 categories:
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
  macOS Sonoma can handle many font types, like OpenType, Mac TrueType, Windows TrueType, bitmap, and dfont. As of macOS Catalina, Mac doesn't support PostScript fonts.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to View Your Fonts in Font Book
@@ -37,35 +37,31 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 ![Selecting Font Book from Launchpad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-6.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Font Book can show your fonts in different views:
 
 **1\. Grid View:** Go to View > View As Grid or press ⌘+1\. In this view, each font shows as a thumbnail with a few characters. It's perfect for a quick glance at all your fonts.
 
 ![Grid view in Font Book.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-20-at-5-59-10-pm-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2\. Samples View:** Want a closer look? Choose View > View As Samples or press ⌘+2\. Each font appears in a full-width preview with a "The quick brown fox..." sentence example. You can't see many fonts at once, but it's great for checking out how each font looks in practice.
 
 ![Samples view in Font Book.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-20-at-6-05-00-pm.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3\. List View:** For a details-first approach, go to View > View As List or press ⌘+3\. This sorts your fonts into a list, with font families in expandable sections, similar to folders in Finder. Click to expand or collapse them.
 
 ![List view in Font Book.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-20-at-6-06-13-pm.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Another way to switch between the Grid, Samples, and List views is by clicking the relevant icons on the toolbar.
 
  To check out a font or font family in more detail, double click it. The font pops up in the main part of the window. To change the size of your fonts when previewing them in Font Book, use the slider at the top (with the minus and plus symbol on either side.)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Install a Font
 
@@ -80,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
  Avoid going overboard with font installations. Installing more fonts than you actually use can lead to sluggish performance in certain apps and create an overwhelming font menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  How to Install Fonts for All Users
@@ -89,19 +85,23 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 ![Selecting All Users from Font Book's Installation menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-12-at-2-55-14-pm.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Deactivate or Remove a Font
 
  If you don't want a font to be selectable across your system, it's simple. Find it in Font Book, right-click it, and select "Deactivate." If you change your mind, repeat the steps but select "Activate."
 
 ![The deactivate option in Font Book.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-12-at-2-57-58-pm.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Alternatively, to delete it entirely, select "Remove." However, note that Font Book won't let you deactivate or delete any fonts that macOS needs to operate, like Arial, Times New Roman, and Avenir.
 
  If any font starts misbehaving, like displaying incorrect characters, you can [validate your fonts in Font Book](https://on-screen-recording.techidaily.com/in-2024-speaking-like-a-pro-tips-to-upgrade-your-google-meet-skills/). Just select "Validate" from the context menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Organize Your Fonts Into Collections
 
@@ -140,22 +140,24 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-compilation-of-excellent-video-capture-tools-for-windows-11/"><u>[New] 2024 Approved Compilation of Excellent Video Capture Tools for Windows 11</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-immersive-beginnings-secrets-to-successful-podcast-intros-for-2024/"><u>[New] Immersive Beginnings Secrets to Successful Podcast Intros for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-securing-a-stable-stream-of-earnings-on-youtube/"><u>[Updated] In 2024, Securing a Stable Stream of Earnings on YouTube</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-iphones-best-5-podcasting-apps/"><u>[Updated] The Ultimate Guide to iPhone's Best 5 Podcasting Apps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-turn-off-youtubes-quick-video-buffering-feature/"><u>[Updated] Turn Off YouTube's Quick Video Buffering Feature</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleash-potential-the-best-10-motivational-movies/"><u>[Updated] Unleash Potential The Best 10 Motivational Movies</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-the-full-potential-of-your-hdr-images-with-lightroom/"><u>2024 Approved Unleash the Full Potential of Your HDR Images with Lightroom</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-hidden-potential-boost-productivity-essential-activities-during-podcast-sessions/"><u>2024 Approved Unlock Hidden Potential, Boost Productivity Essential Activities During Podcast Sessions</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-8-plus-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 8 Plus</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-oppo-a1x-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Oppo A1x 5G</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-mastering-your-clips-an-in-depth-look-at-recmeisters-features/"><u>In 2024, Mastering Your Clips An In-Depth Look at Recmeister's Features</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-spotify-listening-with-secure-speed-techniques/"><u>In 2024, Streamlining Spotify Listening with Secure Speed Techniques</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-blueprint-for-finding-and-enjoying-premium-cricket-streams/"><u>In 2024, The Essential Blueprint for Finding and Enjoying Premium Cricket Streams</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/limited-time-offer-get-the-new-apple-pencil-2nd-generation-at-a-steep-discount-only-95-this-labor-day-shop-now-on-zdnet/"><u>Limited Time Offer: Get the New Apple Pencil (2Nd Generation) at a Steep Discount - Only $95 This Labor Day! Shop Now on ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/perfect-viewing-sequence-the-complete-star-wars-saga-on-disneyplus/"><u>Perfect Viewing Sequence: The Complete 'Star Wars' Saga on Disney+</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-funny-photo-editor-for-2024/"><u>Ultimate Funny Photo Editor for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-quick-overview-of-colour-difference-filming/"><u>[New] In 2024, Quick Overview of Colour Difference Filming</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-paid-content-in-product-analysis/"><u>[New] Unveiling Paid Content in Product Analysis</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-building-brands-and-bonds-on-instagram-steps-to-reach-a-thousand-followers-for-2024/"><u>[Updated] Building Brands and Bonds on Instagram Steps to Reach a Thousand Followers for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-fusing-frequencies-smoothly-with-logic-pro-x-methods-for-2024/"><u>[Updated] Fusing Frequencies Smoothly with Logic Pro X Methods for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-swift-restoration-of-photos-viewer-performance-in-windows-10/"><u>[Updated] Swift Restoration of Photos Viewer Performance in Windows 10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-secrets-of-avi-to-gif-transition-filmora-software-windowsmacos/"><u>[Updated] Unveiling the Secrets of AVI to GIF Transition Filmora Software (Windows/macOS)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-try-these-free-online-tempo-trackers-today/"><u>2024 Approved Try These FREE Online Tempo Trackers Today</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-your-analytics-optimized-by-cookiebot-solutions/"><u>Elevate Your Analytics: Optimized by Cookiebot Solutions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-logitech-g510-mouse-drivers-here-optimized-for-win7-win8-and-win10-systems/"><u>Get Your Logitech G510 Mouse Drivers Here: Optimized for Win7, Win8 and Win10 Systems</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/how-to-burn-video-to-dvd-on-mac/"><u>How to Burn Video to DVD on Mac</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-bluetooth-devices-showing-as-connected-but-inaccessible-in-windows-10/"><u>How to Fix Bluetooth Devices Showing as Connected but Inaccessible in Windows 10</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-motorola-moto-g04-to-mac-drfone-by-drfone-android/"><u>How to Mirror Motorola Moto G04 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-meizu-21-pro-phone-by-drfone-android/"><u>How to Unlock a Network Locked Meizu 21 Pro Phone?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-alarm-choices-best-download-junctions/"><u>In 2024, Top Alarm Choices Best Download Junctions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-traverse-times-tapestry-with-public-domain-art/"><u>In 2024, Traverse Time's Tapestry with Public Domain Art</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-secrets-of-avi-to-gif-transition-filmora-software-windowsmacos/"><u>In 2024, Unveiling the Secrets of AVI to GIF Transition Filmora Software (Windows/macOS)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transforming-drones-into-cinematic-experiences-with-editing-for-2024/"><u>Transforming Drones Into Cinematic Experiences with Editing for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/ultimate-guide-to-accessing-copy-free-song-conclusions-for-2024/"><u>Ultimate Guide to Accessing Copy-Free Song Conclusions for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unfailing-focus-top-tripods-for-iphone-and-android-cameras-for-2024/"><u>Unfailing Focus Top Tripods for iPhone & Android Cameras for 2024</u></a></li>
 </ul></div>
 

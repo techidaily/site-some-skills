@@ -1,7 +1,7 @@
 ---
 title: "Predictive Magic with Linux: Unlocking Fortune-Telling Scripts in Terminal"
-date: 2025-01-06T03:26:10.438Z
-updated: 2025-01-06T22:43:41.911Z
+date: 2025-01-08T18:55:28.604Z
+updated: 2025-01-13T18:07:52.239Z
 tags:
   - desktop
 categories:
@@ -47,10 +47,6 @@ fortune
 
 ![Running fortune command in Linux terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fortune-command.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  fortune Options
 
  When you run a fortune without any arguments, it randomly selects an epigram from the fortune's database. However, it also comes with several options that let you enhance your experience. Let's check out some of them:
@@ -75,6 +71,10 @@ fortune literature
 
 fortune -s -o literature
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Create Your Own fortune File
 
  What if I told you that you could create your own fortunes? That's right, it's a straightforward process. All you need is to create your custom fortune file and make it compatible with the fortune command's requirements. In this way, you're not bound to the predefined messages.
@@ -86,10 +86,6 @@ nano funny
  Next, start adding your fortunes and make sure that each fortune is separated by a line with a percent sign % on it.
 
 ![Adding fortunes text to a plain text file using nano text editor in Linux terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/adding-fortunes-saying.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once your file is ready, you need to convert it to a format that fortune can use. You can do this with the strfile command, which generates the necessary "funny.dat" file for the fortune command:
 
@@ -107,6 +103,10 @@ fortune -f
 
 ![Listing all fortune source files using the -f option of fortune command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fortune-listing.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The percentage here gives you a rough idea of how much of the total database size is taken up by a particular file.
 
  Finally, you can use the fortune command to get fortunes from your customs file.
@@ -116,6 +116,10 @@ fortune funny
 ![Displaying random saying from your newly created fortune file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fotune-command-custom.png) 
 
  Every time you run the command, one of your hand-crafted fortunes will appear.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Combine fortune and cowsay for Extra Fun
 
@@ -139,15 +143,15 @@ fortune | cowsay -f tux
 
 ![Tux displays random statements using fortune and cowsay commands.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fortune-cowsay-tux.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also make your tux [colorful by piping the lolcat command](https://youtube-tips.techidaily.com/n-2024-accelerate-yt-growth-strategies-for-1kplus-subscribers/).
 
 fortune | cowsay -f tux | lolcat
 
 ![Making the ouptut of fortune and cowsay colorful using the lolcat command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/cowsay-linux-lolcat-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  View Fortune on Terminal Startup
 
@@ -164,7 +168,7 @@ fortune | cowsay
 ![Adding fortune command along with cowsay to the end of bashrc file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fortune-cowsay-bashrc-file.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This will ensure that every time you open your terminal, you'll see a fortune delivered by a cow.
@@ -177,16 +181,12 @@ source ~/.bashrc
 
 ![Random fortune appearing on a Linux terminal after being launched.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/terminal-fortune-begin.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you want to use different ASCII art creatures, such as tux, just replace the **cowsay** command in the \~/.bashrc file with the **cowsay -f tux** command.
 
 ![Adding new fortune command with tux ASCII art to the end of bashrc file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/terminal-fortune-tux.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use Fortune for Testing
@@ -203,6 +203,10 @@ cat file1
 
 ![Viewing the file using the cat command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/viewing-file-with-cat.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to append multiple fortunes to the same file, you can do so in a loop.
 
         `for i in {1..10};  
@@ -212,10 +216,6 @@ done`
  Another clever use for fortune is [generating random numbers](https://tech-hub.techidaily.com/mastering-the-art-of-influence-crafting-convincing-requests-with-chatgpt/). By using the [wc command](https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-se-2020-without-passcode-easily-drfone-by-drfone-ios/) with the **\-c** option, you can count the characters in each fortune:
 
 fortune | wc -c
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Create a Random Picker Game
 
@@ -240,22 +240,20 @@ fortune | wc -c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-basic-story-blueprint/"><u>[New] Basic Story Blueprint</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-boost-efficiency-learning-free-timers-functionality-for-2024/"><u>[New] Boost Efficiency Learning FREE Timers' Functionality for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-precision-game-recording-in-apex-legends-2023-edition/"><u>[New] In 2024, Precision Game Recording in Apex Legends, 2023 Edition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-streamlining-tech-upgrade-go-big-sur-on-your-mac/"><u>[New] Streamlining Tech Upgrade Go Big Sur! On Your Mac</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-art-of-textual-dimension-mastering-adobe-illustrator/"><u>[New] The Art of Textual Dimension Mastering Adobe Illustrator</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unleashing-creative-potential-in-gopro-4k-edits/"><u>[New] Unleashing Creative Potential in GoPro 4K Edits</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-sculpting-digital-landscapes-with-windows-10s-latest-features/"><u>[Updated] Sculpting Digital Landscapes with Windows 10'S Latest Features</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tips-and-tricks-for-effortless-finding-exceptional-pexel-images/"><u>2024 Approved Tips and Tricks for Effortless Finding Exceptional Pexel Images</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-recordings-expert-tips-for-zoom-changer/"><u>2024 Approved Transform Your Recordings Expert Tips for Zoom Changer</u></a></li>
-<li><a href="https://extra-information.techidaily.com/analyzing-elite-performance-of-parrots-ar-drone-20-for-2024/"><u>Analyzing Elite Performance of Parrot's AR Drone 2.0 for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/audio-transformation-expertise-from-ttml-and-xml-to-dynamic-srts/"><u>Audio Transformation Expertise From TTML & XML to Dynamic SRTs</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-nokia-c12-plus-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Nokia C12 Plus Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-address-complete-cpu-resource-occupation-on-windows-10s-task-manager/"><u>How to Address Complete CPU Resource Occupation on Windows 10'S Task Manager</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-clip-connoisseurs-essential-list-of-retro-vhs-effects/"><u>In 2024, The Clip Connoisseur's Essential List of Retro VHS Effects</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-future-is-now-equip-yourself-with-these-7-devices/"><u>In 2024, The Future Is Now - Equip Yourself with These 7 Devices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-total-command-mastery-powerdirector-review-and-guide/"><u>In 2024, Total Command Mastery PowerDirector Review & Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/strategies-for-sourcing-video-content-with-google-trends-for-2024/"><u>Strategies for Sourcing Video Content with Google Trends for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-essential-techniques-recording-playstation-4-games/"><u>[New] Essential Techniques Recording PlayStation 4 Games</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-top-tunes-prime-sites-for-got-ringtone-downloads/"><u>[New] In 2024, Top Tunes Prime Sites for GoT Ringtone Downloads</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-mastering-googles-podcast-publishing-process/"><u>[New] Mastering Google's Podcast Publishing Process</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-superior-satire-and-smile-mixer-for-2024/"><u>[New] Superior Satire & Smile Mixer for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-capturing-attention-top-6-videos-to-watch/"><u>[New] The Art of Capturing Attention Top 6 Videos to Watch</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-gamers-guide-to-live-platforms-1-9/"><u>[New] Top Gamer's Guide to Live Platforms #1-#9</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-avoiding-blur-on-instagram-with-smart-zooms/"><u>2024 Approved Avoiding Blur on Instagram with Smart Zooms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-troubleshooting-frozen-footage-in-photo-booths/"><u>2024 Approved Troubleshooting Frozen Footage in Photo Booths</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-smartphone-selection-for-superior-video-recording/"><u>2024 Approved Ultimate Smartphone Selection for Superior Video Recording</u></a></li>
+<li><a href="https://win-best.techidaily.com/comment-retracer-votre-piste-avec-windows-amoins-recent-files-methodes-a-4-facons/"><u>Comment Retracer Votre Piste Avec Windows Amoins Recent Files - Méthodes À 4 Façons</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-hottest-free-movie-selections-on-youtube-for-july-2n24/"><u>Discover the Hottest Free Movie Selections on YouTube for July 2N'24!</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ssing-the-benefits-with-creative-commons-licenses-for-2024/"><u>Harnessing the Benefits with Creative Commons Licenses for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tactical-phone-data-shift-android-to-iphone/"><u>In 2024, Tactical Phone Data Shift Android to iPhone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-telescope-truth-expose/"><u>In 2024, Telescope Truth Exposé</u></a></li>
+<li><a href="https://some-skills.techidaily.com/sustaining-system-stability-returning-to-el-capitan-for-2024/"><u>Sustaining System Stability Returning to El Capitan for 2024</u></a></li>
 </ul></div>
 

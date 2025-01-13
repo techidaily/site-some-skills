@@ -1,7 +1,7 @@
 ---
 title: "Boost Productivity Fast: Efficiently Start Programs via Keyboard Triggers on Windows 11"
-date: 2025-01-01T19:54:46.429Z
-updated: 2025-01-07T09:10:03.048Z
+date: 2025-01-09T19:20:00.636Z
+updated: 2025-01-13T22:08:57.733Z
 tags:
   - deals
 categories:
@@ -38,11 +38,11 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
 ![Windows 11 with the Steam app pinned to the Taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/windows-steam-taskbar-1.jpeg) 
 
- While this method is fairly simple, its biggest drawback is that you can only use the taskbar shortcuts for a maximum of ten applications, with Win+0 being the key combination to launch the tenth.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ While this method is fairly simple, its biggest drawback is that you can only use the taskbar shortcuts for a maximum of ten applications, with Win+0 being the key combination to launch the tenth.
 
 ##  How to Use App Properties Shortcuts to Open Apps
 
@@ -56,16 +56,12 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
 ![A screenshot of Windows 11 depicting the Properties option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/windows-11-properties-1.jpeg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Within the "Shortcut Key" field, press a key. This creates a shortcut using the Ctrl and Alt keys. For example, in the screenshot below, I pressed "A" which created a shortcut of Ctrl + Alt + A. Once done, click "OK".
 
 ![Setting a shortcut key from the Properties window on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/properties-shortcut-key.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To remove a shortcut, press the Delete key within the "Shortcut Key" field.
@@ -88,7 +84,15 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
 ![Remapping a shortcut in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/remapping-a-shortcut-in-powertoys.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you ever want to delete a shortcut, return to this screen and click the trash can.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Use AutoHotkey to Open Apps
 
@@ -98,21 +102,17 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
 ![AutoHotkey with the 'New Script' option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/autohotkey-new-script.jpeg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Next, give your script a name and select the "Edit" button.
 
 ![A screenshot of AutoHotkey with the Name and Edit options highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/autohotkey-name.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Choose Notepad (or a development environment of your choosing, if you're an advanced user) as the code editor and press "OK."
 
 ![A screenshot of AutoHotkey with the Notepad and OK options highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/autohotkey-notepad.jpeg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You’ll be greeted with an empty script. You can use the following syntax for creating a macro:
 
@@ -154,24 +154,20 @@ Run "C:\Program Files (x86)\Steam\steam.exe"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-open-access-select-free-youtube-design-patterns/"><u>[New] In 2024, Open Access Select Free YouTube Design Patterns</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-tapping-into-community-spirit-a-guide-to-thriving-fb-gifting-campaigns/"><u>[New] Tapping Into Community Spirit A Guide to Thriving FB Gifting Campaigns</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-powerdirector-guide/"><u>[New] Ultimate PowerDirector Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-venturing-into-video-production-top-5-mac-videographers/"><u>[New] Venturing Into Video Production? Top 5 Mac Videographers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-quick-and-painless-podcast-go-live-technique/"><u>[Updated] The Quick and Painless Podcast Go Live Technique</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-the-ultimate-tutorial-sending-subtitles-via-srt-to-twitter-facebook-and-more-for-2024/"><u>[Updated] The Ultimate Tutorial Sending Subtitles via SRT to Twitter, Facebook & More for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-visionary-voices-triumph-online/"><u>[Updated] Visionary Voices Triumph Online</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streaming-royalty-ranking-the-top-10-platforms-for-real-time-content/"><u>2024 Approved Streaming Royalty Ranking the Top 10 Platforms for Real-Time Content</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-compreenasive-breakdown-how-to-use-microsofts-movie-maker-on-w11/"><u>2024 Approved The Compreenasive Breakdown How to Use Microsoft's Movie Maker on W11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transformative-notetaking-the-mematic-way/"><u>2024 Approved Transformative Notetaking The Mematic Way</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-iphone-8-plus-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from iPhone 8 Plus</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-harnessing-power-in-pixels-top-10-instagram-video-ad-mastery-techniques/"><u>In 2024, Harnessing Power in Pixels Top 10 Instagram Video Ad Mastery Techniques</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-meizu-21-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Meizu 21 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-syma-x5c-exploration-top-choice-for-novice-aerial-enthusiasts/"><u>In 2024, Syma X5C Exploration Top Choice for Novice Aerial Enthusiasts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-camera-stability-in-photo-and-video-for-2024/"><u>Mastering Camera Stability in Photo & Video for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/metaversal-journey-versus-omniverse-quest/"><u>Metaversal Journey Versus Omniverse Quest</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/streamlining-media-files-from-xmltxt-to-srt-mastery-for-2024/"><u>Streamlining Media Files From XML/TXT to SRT Mastery for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-your-creative-potential-with-inshot-for-pcs-and-laptops-for-2024/"><u>Unlock Your Creative Potential with Inshot for PCs & Laptops for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-exceptional-book-trailer-selections/"><u>[New] In 2024, Exceptional Book Trailer Selections</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-photoshop-shake-reduction-is-it-really-useful/"><u>[Updated] Photoshop Shake Reduction - Is It Really Useful?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-creating-flawless-passport-photos-for-free/"><u>[Updated] The Ultimate Guide to Creating Flawless Passport Photos for Free</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-transform-your-virtual-space-with-google-meet-tools-for-2024/"><u>[Updated] Transform Your Virtual Space with Google Meet Tools for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bridging-visual-and-auditory-elements-adding-music-to-premiere-projects-for-2024/"><u>Bridging Visual and Auditory Elements Adding Music to Premiere Projects for 2024</u></a></li>
+<li><a href="https://discover-community.techidaily.com/descubriendo-como-consultar-los-registros-de-copia-de-seguridad-en-aomei-backupper/"><u>Descubriendo Cómo Consultar Los Registros De Copia De Seguridad en AOMEI Backupper</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-touchpad-navigation-efficiency-in-windows-os/"><u>Enhancing Touchpad Navigation Efficiency in Windows OS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-hands-free-navigation-manual/"><u>In 2024, The Complete Hands-Free Navigation Manual</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-conversion-roadmap-turning-sdr-into-hdr-cinema/"><u>In 2024, Ultimate Conversion Roadmap Turning SDR Into HDR Cinema</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/intrepid-selection-best-slow-mo-cameras/"><u>Intrepid Selection Best Slow-Mo Cameras</u></a></li>
+<li><a href="https://some-skills.techidaily.com/merging-yt-chorus-with-visual-storytelling-for-2024/"><u>Merging YT Chorus with Visual Storytelling for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamlining-skype-calls-with-advanced-zoom-use-for-2024/"><u>Streamlining Skype Calls with Advanced Zoom Use for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>Thinking About Changing Your Netflix Region Without a VPN On Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-strategies-for-high-fidelity-video-conversion-to-dvd-for-2024/"><u>Top Strategies for High-Fidelity Video Conversion to DVD for 2024</u></a></li>
 </ul></div>
 

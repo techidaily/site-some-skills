@@ -1,7 +1,7 @@
 ---
 title: "Bridging Operating Systems: A Comprehensive Guide to Using Ubuntu Software on Your Windows 11 Machine"
-date: 2025-01-03T01:20:11.856Z
-updated: 2025-01-06T18:03:45.892Z
+date: 2025-01-06T19:59:08.109Z
+updated: 2025-01-13T19:15:55.094Z
 tags:
   - deals
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
  Did you know using Ubuntu-exclusive apps doesn't require overwriting your operating system? Unlock the true potential of your Windows desktop by using Ubuntu apps on Windows 11, enhancing your PC experience by blending the power of Linux and Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why Use Ubuntu Apps on Windows 11?
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
  Imagine you're a developer working on a cross-platform project. Using Ubuntu apps on Windows means you can quickly and effectively test your new project on Linux and Windows with ease. Take it from me: I write programs in the Go programming language, and being able to test out my code and run it on both Ubuntu and Windows 11 seamlessly is very powerful.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Requirements Before You Begin
 
  Before you can start using Ubuntu on your Windows 11 system, a few requirements must be met to ensure a smooth process. During my testing, WSL wouldn't work until I installed the latest WSL2 Kernel package installed on Windows 11\. If you're having issues with WSL running on Windows 11 like I did, install this kernel package. It will ensure that WSL v2 operating systems run correctly. You can download and install the EXE file [directly from Microsoft](https://learn.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package).
@@ -39,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
  Lastly, ensure you have Administrator rights on your Windows 11 system. Using WSL requires modifying Windows features, and it won't work if you don't have Administrator privileges.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Enabling Windows Subsystem for Linux (WSL)
@@ -75,10 +79,14 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 ![Ubuntu WSL is installing itself to Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-is-installing.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once Ubuntu has finished its setup on Windows 11, you will see an empty terminal window, ready for you to interact with Ubuntu on your Windows 11 system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Basic Configuration Tips
 
@@ -98,10 +106,6 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 cd /mnt/c
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Update your Ubuntu WSL app
 
  It is good practice to update your Ubuntu WSL app from time to time, otherwise programs will stop working. Here's how to do it on Windows 11.
@@ -115,10 +119,6 @@ sudo apt update
 sudo apt upgrade
 
 ![Ubuntu WSL is being updated.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-installing-kdenlive.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Starting and Using Ubuntu
 
@@ -143,7 +143,7 @@ nohup program_name & disown
  Alternatively, applications can be started from the Windows 11 start menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Integration with Windows 11
@@ -179,20 +179,22 @@ wsl --update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-complete-guide-to-selecting-high-performance-fpv-drone-propellers/"><u>[New] The Complete Guide to Selecting High-Performance FPV Drone Propellers</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-basics-of-effective-fb-ad-cta-design-for-2024/"><u>[Updated] Basics of Effective FB Ad CTA Design for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-immerse-in-digital-spaces-pcs-premier-10-vr-playback-systems/"><u>[Updated] In 2024, Immerse in Digital Spaces PC’s Premier 10 VR Playback Systems</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-staying-unseen-in-the-world-of-instagram-live-broadcasts/"><u>2024 Approved Staying Unseen in the World of Instagram Live Broadcasts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-windows-10-picture-and-media-importer/"><u>2024 Approved The Ultimate Guide to Windows 10 Picture & Media Importer</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-poco-c51-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/assemble-slide-decks-into-virtual-screenplays-for-2024/"><u>Assemble Slide Decks Into Virtual Screenplays for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-online-placements-for-youtube-video-popularity/"><u>Best Online Placements for YouTube Video Popularity</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/beyond-earths-reach-how-satellite-internet-elevates-lives-with-starlink/"><u>Beyond Earth's Reach: How Satellite Internet Elevates Lives with Starlink</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-poco-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-insiders-guide-to-dynamic-and-engaging-tiktok-edits/"><u>In 2024, The Insider's Guide to Dynamic and Engaging TikTok Edits</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transformative-video-techniques-for-zoom-mastery/"><u>In 2024, Transformative Video Techniques for Zoom Mastery</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-trick-for-backward-video-effects-in-snapchat-explained/"><u>The Ultimate Trick for Backward Video Effects in Snapchat Explained</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transformative-editing-experience-windows-photos-meets-story-remix-for-2024/"><u>Transformative Editing Experience Windows Photos Meets Story Remix for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-the-potential-of-photography-with-adobe-motion-blur-for-2024/"><u>Unlock the Potential of Photography with Adobe Motion Blur for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-in-depth-look-at-vsdc-plus-top-competitors/"><u>[New] 2024 Approved In-Depth Look at VSDC, Plus Top Competitors</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-streamlining-screen-record-on-mac-via-keyboard-shortcuts/"><u>[New] 2024 Approved Streamlining Screen Record on Mac via Keyboard Shortcuts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-sound-sleuths-guide-to-recording-streaming-media-for-2024/"><u>[New] The Sound Sleuth's Guide to Recording Streaming Media for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-thrifty-choices-for-virtual-reality-heads/"><u>[New] Thrifty Choices for Virtual Reality Heads</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-top-12-html5-video-engines/"><u>[Updated] The Ultimate Guide to Top 12 HTML5 Video Engines</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-top-free-android-calling-tools-ranked-by-cost/"><u>[Updated] Top Free Android Calling Tools Ranked by Cost</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-supreme-audiovisual-hints-pack/"><u>2024 Approved Supreme Audiovisual Hints Pack</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-venture-into-virtual-laughs-top-20plus-funny-metaverse-creations/"><u>2024 Approved Venture Into Virtual Laughs Top 20+ Funny Metaverse Creations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-the-right-apple-laptop-a-comprehensive-guide-comparing-macbook-air-and-macbook-pro/"><u>Choosing the Right Apple Laptop: A Comprehensive Guide Comparing MacBook Air and MacBook Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-internet-anonymity-access-to-free-ip-checker-services/"><u>Explore Internet Anonymity: Access to Free IP Checker Services</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-how-to-choose-the-background-music-for-the-trailer/"><u>In 2024, How to Choose the Background Music for the Trailer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tips-and-tricks-for-iphone-audio-enthusiasts/"><u>In 2024, Tips and Tricks for iPhone Audio Enthusiasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-windows-10-key-skills-you-need/"><u>In 2024, Unlocking Windows 10 Key Skills You Need</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-backup-problems-discover-9-effective-fixes-for-icloud-connectivity/"><u>IPhone Backup Problems? Discover 9 Effective Fixes for iCloud Connectivity</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210313645-9781722526672-the-art-of-tithing/"><u>The Art of Tithing | Free Book</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlimited-picture-pools-the-best-10-resources-for-2024/"><u>Unlimited Picture Pools The Best 10 Resources for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/visual-clarity-at-your-fingertips-removing-backgrounds-using-photopea/"><u>Visual Clarity at Your Fingertips Removing Backgrounds Using Photopea</u></a></li>
 </ul></div>
 

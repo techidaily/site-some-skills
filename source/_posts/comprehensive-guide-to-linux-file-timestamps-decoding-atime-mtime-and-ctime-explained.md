@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Linux File Timestamps – Decoding Atime, Mtime, and Ctime Explained
-date: 2025-01-04T11:23:38.804Z
-updated: 2025-01-07T02:56:47.530Z
+date: 2025-01-06T17:29:34.192Z
+updated: 2025-01-13T19:08:39.088Z
 tags:
   - desktop
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  When does "changed" not mean "modified"? When we're talking about Linux file timestamps. In this guide, we'll explain how the system updates them, and how to alter them yourself.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Difference Between atime, mtime, and ctime
 
  Every Linux file has three [timestamps:](https://en.wikipedia.org/wiki/MAC%5Ftimes) the access timestamp (atime), the modified timestamp (mtime), and the changed timestamp (ctime).
@@ -34,6 +38,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The standard [ext4 Linux file system](https://remote-screen-capture.techidaily.com/new-the-definitive-guide-to-android-mobas-10-winners-for-2024/) also allocates space for a file-creation timestamp in its internal file system structures, but this hasn't been implemented yet. Sometimes, this timestamp is populated, but you can't depend on the values in it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Anatomy of a Timestamp
 
  Linux timestamps hold a number rather than a date and time. This number is the number of seconds since the [Unix epoch](https://en.wikipedia.org/wiki/Unix%5Ftime), which was midnight (00:00:00) on January 1, 1970, in [Coordinated Universal Time (UTC)](https://en.wikipedia.org/wiki/Coordinated%5FUniversal%5FTime). Leap seconds are ignored in Linux timestamps, so they aren't analogous to real time.
@@ -43,7 +51,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  So, how many seconds can be stored in a timestamp? A lot—2,147,483,647, to be precise. That's a big number, but is it enough? If you add that to the Unix epoch, and then translate it to a date and time, you get Tuesday, January 19, 2038, at 03:14:07 a.m. We'll need a different scheme for timestamps before then, though.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Viewing Timestamps
@@ -70,10 +78,6 @@ stat dp.c
 
 ![stat dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/2-7.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The time zones are listed at the bottom of the display. As you can see, they have a very accurate, fractional seconds component. At the end of each timestamp, you also see a -0500 or -0400 .
 
  These are time zone offsets. The file system records the timestamps in UTC and converts them to the local time zone when displayed by stat. The computer we used to research this article is configured as if it were in the Eastern Standard Time (EST) zone of the U.S.
@@ -83,10 +87,6 @@ stat dp.c
  The offsets and time zones aren't stored anywhere. There's neither [an inode](https://fox-http.techidaily.com/enthralling-examination-and-replacement-ideas-for-2024/) nor a file system space devoted to holding these values. You have to calculate these on the fly using the timestamp (which is always in UTC time), the local time zone of the computer displaying the file, and whether DST was in effect.
 
  You also see a "Birth" timestamp, which is reserved for the creation date of the file. This is not implemented, and you see a hyphen "-" instead of a timestamp.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Changing Timestamps
 
@@ -109,10 +109,6 @@ touch -m dp.c
 stat dp.c
 
 ![touch -m dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/4-6.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This time, the modified and changed timestamps were updated.
 
@@ -146,6 +142,10 @@ stat dp
 
 ![The &quot;chmod +x dp&quot; and &quot;stat dp&quot; commands in a terminal window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/10-6.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The changed timestamp was the only one that updated. This is because the file itself wasn't changed—it was neither accessed nor modified. However, the metadata about the file was changed.
 
 ##  How the File System Updates Timestamps
@@ -166,7 +166,7 @@ less /etc/fstab
 ![less /etc/fstab in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/7-6.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The /etc/fstab file is displayed for us, as shown below.
@@ -174,7 +174,7 @@ less /etc/fstab
 ![The /etc/fstab file in less in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/8-5.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Here's the content of the file without the wrap-around:
@@ -185,19 +185,15 @@ less /etc/fstab
 
 ## Use 'blkid' to print the universally unique identifier for a  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## device; this may be used with UUID= as a more robust way to name devices  
 
 ## that works even if disks are added and removed. See fstab(5).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## <file system> <mount point> <type> <options> <dump> <pass>  
 
@@ -216,6 +212,10 @@ UUID=4a143d08-8695-475b-8243-b13b56050fc2 / ext4 errors=remount-ro 0 1
 cat /proc/mounts | grep "sda"
 
 ![cat /proc/mounts | grep "sda" in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/9-6.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now we see the following options:
 
@@ -259,20 +259,24 @@ cat /proc/mounts | grep "sda"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-flipping-photos-for-followers-a-rotational-approach-for-insta-success/"><u>[New] 2024 Approved Flipping Photos for Followers A Rotational Approach for Insta Success</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-complete-insight-the-full-picture-of-bublcam-360/"><u>[New] Complete Insight The Full Picture of Bublcam 360</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-implementing-windows-11s-automatic-hdr-feature/"><u>[New] The Ultimate Guide to Implementing Windows 11'S Automatic HDR Feature</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-tools-and-gear-for-crafting-vlogs/"><u>[New] Tools & Gear for Crafting Vlogs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-high-performance-desktop-pcs/"><u>[New] Ultimate High-Performance Desktop PCs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-cameraphone-trackers-precision-power-performance/"><u>[Updated] Top Camera/Phone Trackers Precision, Power, Performance</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transforming-video-aesthetics-on-tiktok-dual-approach/"><u>[Updated] Transforming Video Aesthetics on TikTok (Dual Approach)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-beyond-ustream-an-examination-of-video-streaming/"><u>2024 Approved Beyond Ustream An Examination of Video Streaming</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/5-crucial-considerations-for-smartwatch-level-fitness-trackers-buyers-guide/"><u>5 Crucial Considerations for Smartwatch-Level Fitness Trackers - Buyer’s Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-vivo-v27-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Vivo V27 Pro Phone When You Forget the Password</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/low-cost-subtitles-and-downloader-companion-for-2024/"><u>Best Low-Cost Subtitles & Downloader Companion for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-clip-to-cohesive-mastering-color-in-fcp-for-2024/"><u>From Clip to Cohesive Mastering Color in FCP for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-the-huawei-mediapad-m5s-impressive-display-and-sound-quality/"><u>In-Depth Look at the Huawei MediaPad M5's Impressive Display & Sound Quality</u></a></li>
-<li><a href="https://os-tips.techidaily.com/one-finger-technique-for-quickly-expanding-views-in-google-maps-for-better-navigation/"><u>One-Finger Technique for Quickly Expanding Views in Google Maps for Better Navigation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-mastering-powerdirector-for-2024/"><u>The Ultimate Guide to Mastering PowerDirector for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-a-beginners-guide-to-instagram-story-feature/"><u>[New] A Beginner's Guide to Instagram Story Feature</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-navigating-the-future-of-fb-advertising-key-predictions/"><u>[New] In 2024, Navigating the Future of FB Advertising – Key Predictions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-perfect-pixels-a-guide-to-using-photoshops-eraser/"><u>[New] Perfect Pixels A Guide to Using Photoshop's Eraser</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-3-twitter-video-tools-for-easy-uploads/"><u>[New] Top 3 Twitter Video Tools for Easy Uploads</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transition-tips-seamlessly-moving-to-macos-sierra/"><u>[New] Transition Tips Seamlessly Moving to MacOS Sierra</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-cutting-costs-with-smart-cloud-storage-choices-for-2024/"><u>[Updated] Cutting Costs with Smart Cloud Storage Choices for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-innovative-tips-for-audio-addition-to-powerpoint-decks/"><u>[Updated] In 2024, Innovative Tips for Audio Addition to PowerPoint Decks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-blurring-out-the-unwanted-in-your-photos/"><u>2024 Approved Blurring Out the Unwanted in Your Photos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-instantaneous-installation-laugh-with-ifunny-memes-easily/"><u>2024 Approved Instantaneous Installation Laugh with iFunny Memes Easily</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-musical-milestones-celebrate-your-growth-with-these-15-vids/"><u>2024 Approved Musical Milestones Celebrate Your Growth with These 15 Vids</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-best-tools-in-magix-video-pro-x-for-editors/"><u>2024 Approved The Best Tools in Magix Video Pro X for Editors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-time-stretched-pixelation-the-ultimate-guide-to-cam-gear/"><u>2024 Approved Time-Stretched Pixelation The Ultimate Guide to Cam Gear</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-the-potential-advanced-techniques-for-podcast-editing-in-garageband/"><u>2024 Approved Unlock the Potential Advanced Techniques for Podcast Editing in GarageBand</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/demystifying-discords-features-and-tools-for-2024/"><u>Demystifying Discord's Features and Tools for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-pinnacle-microphone-selections-for-4k-camera-excellence/"><u>In 2024, Pinnacle Microphone Selections for 4K Camera Excellence</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tiktok-bio-enhancement-with-direct-url-integration/"><u>In 2024, TikTok Bio Enhancement with Direct URL Integration</u></a></li>
+<li><a href="https://win-able.techidaily.com/minecraft-gameplay-improvement-update-graphics-driver-guide-and-resolve-outdated-issues/"><u>Minecraft Gameplay Improvement: Update Graphics Driver Guide & Resolve Outdated Issues</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/precision-engineering-for-dvd-production-in-macos/"><u>Precision Engineering for DVD Production in macOS</u></a></li>
 </ul></div>
 

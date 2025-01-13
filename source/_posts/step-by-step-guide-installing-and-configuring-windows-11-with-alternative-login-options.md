@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Installing and Configuring Windows 11 with Alternative Login Options"
-date: 2025-01-01T17:45:19.170Z
-updated: 2025-01-07T03:29:32.097Z
+date: 2025-01-06T22:09:42.748Z
+updated: 2025-01-13T21:06:26.528Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 ## Step-by-Step Guide: Installing and Configuring Windows 11 with Alternative Login Options
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
  Windows 11 normally requires a Microsoft account when you set it up, but you can bypass Microsoft account creation and use a local account instead. Here's how to set up Windows 11 without a Microsoft account or convert an existing Microsoft account to a local account.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Can You Skip Microsoft Account Creation During Windows 11 Setup?
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 ![The &quot;No Internet&quot; error message the Windows 11 installer gives you.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/Error-disconnecting.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There are a few tricks to try, but Windows is wise to many of these. The first involves cutting off your internet connection when you're prompted to add a Microsoft account. This involves either pulling out your Ethernet cable (if you use one) or hitting Shift+F10 and typing **ipconfig /release** followed by Enter. Hit the "back" arrow to go back one step and create a local username and password then complete the setup as normal.
@@ -63,6 +63,10 @@ oobe\bypassnro
  It isn't case sensitive, but it is critical that you use the correct slash. Once you type in the command, press Enter and your PC will immediately restart.
 
 ![The bypassnro command running in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/oobebypassnrocommand.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, you should _completely disconnect your PC from the Internet_ at this point. If Windows 11 detects an Internet connection it will continue to try and force you to sign in with a Microsoft account. However, if you're disconnected from the Internet you'll see an "I Don't Have Internet" option, or you'll be prompted to create a local account immediately. 
 
@@ -88,10 +92,6 @@ Close
 
 ![Downloading the latest Windows 11 ISO for all versions of Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/download-the-windows-11-iso.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Using Rufus to create a bootable USB drive will completely erase the contents of that drive. Make sure you save any important files on it before you proceed.
 
  Open Rufus after the Windows 11 ISO has finished downloading, click "Select," then navigate to [wherever you saved it](https://buynow-info.techidaily.com/hp-stream-14-analysis-affordable-windows-laptop-with-trade-offs-explored/). If you're using an external SSD as your bootable media, you'll need to tick "List USB Hard Drives" first. Rufus will handle most of the important options, like the [partition scheme](https://instagram-videos.techidaily.com/2024-approved-exclusive-guide-ranking-most-effective-ig-money-makers/) and [file system](https://on-screen-recording.techidaily.com/new-in-2024-streamline-your-filming-process-the-ultimate-logitech-camera-tutorials/), automatically; you don't need to worry about them. Just click "Start."
@@ -105,7 +105,7 @@ Close
 ![Disabling the Microsoft Account requirement via Rufus.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/disable-online-acct.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After that you just need to wait for Rufus to actually make the bootable media. It will take a few minutes at least, especially if you're using an older flash drive.
@@ -144,10 +144,6 @@ Close
 
 ![Select 'Accounts,' then scroll down until you see 'Your Info.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/accounts-your-info.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Scroll towards the bottom and click "Sign In With A Local Account Instead." If you get a huge popup warning you about backing up your BitLocker key,**_do not ignore it_.** Your drive is encrypted, and if something happens, you could lose access to all of your files without the recovery key. Make sure you [back up your BitLocker encryption key](https://instagram-clips.techidaily.com/2024-approved-engaging-users-with-instagrams-interactive-survey-feature/) before proceeding, then click through the next few prompts. You may need to pick a username, password, and password hint, then go to the next page and click "Sign Out And Finish."
 
 ![The popup to switch to a local account on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/switching-to-local.png) 
@@ -165,6 +161,10 @@ Close
  Next to "Account Options" click "Change account type" and a new window will appear. In this window, change account type to "Administrator" and then click OK.
 
 ![Changing the account type from standard to administrator.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/change-accont-type.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can now log in to the other (local) account that you have created. Head to Settings > Accounts > Other users, select the (Microsoft) account you want to remove, and click "Remove" next to the "Account and data" field.
 
@@ -191,14 +191,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-top-8-converter-list-for-sub-to-srt/"><u>[New] Ultimate Top 8 Converter List for Sub to SRT</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-memes-9-essential-elements-for-gif-perfection/"><u>2024 Approved The Art of Memes 9 Essential Elements for GIF Perfection</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/beyond-imagination-vrs-present-future-prospects/"><u>Beyond Imagination VR's Present, Future Prospects</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/get-the-lowdown-on-amazfit-helio-ring-cost-analysis-release-schedule-and-in-depth-spec-sheet-reviewed/"><u>Get the Lowdown on Amazfit Helio Ring: Cost Analysis, Release Schedule & In-Depth Spec Sheet Reviewed</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-list-of-viral-stock-images-and-stories/"><u>In 2024, The Ultimate List of Viral Stock Images & Stories</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-vlogging-battle-gopro-hero5-black-vs-sessions/"><u>In 2024, The Ultimate Vlogging Battle GoPro Hero5 Black VS Sessions</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-visual-vocabulary-expansion-apps-for-crafting-text-on-images/"><u>In 2024, Visual Vocabulary Expansion Apps for Crafting Text on Images</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725290460767-mp4mp3/"><u>MP4ファイルを簡単にMP3に変換！安心で最高のオンラインサービスリスト</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-10-most-retweeted-tiktok-sensations/"><u>[New] 2024 Approved 10 Most Retweeted TikTok Sensations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-pinterests-treasure-trove-with-top-free-video-downloads/"><u>[New] Unlock Pinterest's Treasure Trove with Top Free Video Downloads</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-best-webcam-recorders-for-windows-10/"><u>[Updated] 2024 Approved The Best Webcam Recorders for Windows 10</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-beauty-brilliance-masterclasses-and-product-explorations/"><u>[Updated] Beauty Brilliance Masterclasses and Product Explorations</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-fading-out-the-art-of-ebbing-audio-energy-in-fl-studio/"><u>[Updated] Fading Out The Art of Ebbing Audio Energy in FL Studio</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-podcast-logo-design-for-maximum-impact/"><u>[Updated] The Art of Podcast Logo Design for Maximum Impact</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-document-creation-with-microsoft-word-speech-recognition/"><u>2024 Approved Streamline Document Creation with Microsoft Word Speech Recognition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-techniques-for-enlarging-content-on-youtube-platform/"><u>2024 Approved Techniques for Enlarging Content on YouTube Platform</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-your-editing-potential-the-ultimate-guide-to-background-erasure-in-ps/"><u>2024 Approved Unlock Your Editing Potential The Ultimate Guide to Background Erasure in PS</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-pros-and-cons-of-mapmyride-user-reviews-unveiled/"><u>Exploring the Pros and Cons of MapMyRide: User Reviews Unveiled</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-infinix-hot-30i-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Infinix Hot 30i.</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-your-websites-visual-content-via-cropping/"><u>In 2024, Streamlining Your Website's Visual Content via Cropping</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-8-iphone-selfie-stick-choices-revealed/"><u>In 2024, Top 8 iPhone Selfie Stick Choices Revealed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-your-vision-the-best-360-livestimation-devices/"><u>In 2024, Unleash Your Vision The Best 360° Livestimation Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-elevation-of-professional-display-an-in-depth-examination-of-the-bl2711u/"><u>The Elevation of Professional Display An In-Depth Examination of the BL2711U</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/843565-9781780574387-the-ghost-that-haunted-itself/"><u>The Ghost That Haunted Itself | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/the-missing-link-how-to-find-and-fix-your-pcs-missing-enhancements/"><u>The Missing Link: How to Find and Fix Your PC’s Missing Enhancements</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-the-power-of-pixels-master-color-correction-techniques-11-steps-for-2024/"><u>Unlock the Power of Pixels - Master Color Correction Techniques (11 Steps) for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/your-micromobility-companion-important-dates-fresh-updates-and-hidden-trends/"><u>Your Micromobility Companion: Important Dates, Fresh Updates & Hidden Trends</u></a></li>
 </ul></div>
 

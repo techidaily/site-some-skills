@@ -1,7 +1,7 @@
 ---
 title: Top 7 Linux Innovations Perfectly Suited for Integration Into the Next Version of Windows
-date: 2024-12-30T19:10:43.338Z
-updated: 2025-01-07T11:01:54.546Z
+date: 2025-01-11T18:26:40.194Z
+updated: 2025-01-13T16:06:40.874Z
 tags:
   - desktop
 categories:
@@ -33,19 +33,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The GNOME Software app showing tiles with green ticks on them](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/23.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Dave McKay / How-To Geek
 
  So the first thing Windows 12 should steal from Linux is a nonintrusive user experience. It'd be best if ads were completely removed, but opt-in ads would provide a better user experience than enabled by default, as it is now.
 
  On Windows 11, ads are enabled by default, but they can be disabled. Follow this [guide to know where all the options are](https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-x-flip-drfone-by-drfone-virtual-android/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Multiple Start Menu Variations
 
@@ -61,10 +53,6 @@ Close
 
 ![Image of Arc Menu Extension and Menu Layout Variations on Ubuntu 22.04](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-image-of-arc-menu-extension-and-menu-layout-variations-on-ubuntu-22-04.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Widgets on the Desktop
 
  Windows 7 had widgets and it was wonderful. Sadly, Microsoft [removed them because of security concerns](https://blog-min.techidaily.com/5-ways-to-move-contacts-from-realme-c33-2023-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/), but they made a comeback (sort of) with Windows 11\. The problem is that Windows 11 widgets are [tucked away inside a separate panel](https://buynow-tips.techidaily.com/comprehensive-review-of-the-stylish-and-modern-swagtron-swagger-electric-scooter/) and not embedded directly on the desktop. It would be very nice to see Windows 12 will properly implement desktop widgets, like you can see here on Kubuntu:
@@ -72,7 +60,7 @@ Close
 ![Desktop Widgets on Kubuntu 23.10 Spread across the screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/4-desktop-widgets-on-kubuntu-23-10-spread-across-the-screen.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Having desktop widgets means you have direct access to useful information like reminders, to-do lists, weather updates, a world clock, and more, without having to open multiple apps. It’d be awesome if I turned on the computer every morning and got a snapshot of my entire day right there on the desktop.
@@ -90,7 +78,7 @@ Close
 ![Pop!_OS in-built Tiling Window functionality auto-tiling two windows side by side.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pop-_os-in-built-tiling-window-functionality.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Options to Customize the Taskbar
@@ -109,9 +97,17 @@ Close
 
 ![Virtual Desktops on Windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/8-virtual-desktops-on-windows-11.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To enhance this in Windows 12, it would be awesome to have the option to visualize and manage all virtual desktops directly from the Taskbar. Also, the option to launch apps to different desktops from the Task View would be a game-changer. Look at Ubuntu’s Activities Overview (equivalent to Windows 11’s Task View) to see what I’m talking about.
 
 ![Image Showing Ubuntu 22.04 Activities Overview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/9-image-showing-ubuntu-22-04-activities-overview.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  At the top, there’s a row of mini windows for all open virtual desktops (Workspaces). You can click to switch between them. The center shows your current desktop with all open apps. On the left, the Ubuntu Dash (similar to Windows' Taskbar) lets you drag and drop apps to any virtual desktop.
 
@@ -120,7 +116,11 @@ Close
 ![Ubuntu 22.04 Panel based Virtual Desktop switcher](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/10-ubuntu-22-04-panel-based-virtual-desktop-switcher.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  KDE Activities
@@ -152,22 +152,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-capturing-footage-from-above-drone-filming-tips-for-2024/"><u>[New] Capturing Footage From Above Drone Filming Tips for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-expand-your-creative-toolkit-incorporating-custom-fonts-into-after-effects/"><u>[New] Expand Your Creative Toolkit Incorporating Custom Fonts Into After Effects</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-youtube-live-imagery-a-comprehensive-overview/"><u>[New] Mastering YouTube Live Imagery A Comprehensive Overview</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-elevate-conference-calls-a-guide-to-10-cost-free-apps/"><u>[Updated] Elevate Conference Calls A Guide to 10 Cost-Free Apps</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-how-to-zoom-in-google-meet/"><u>[Updated] In 2024, How to Zoom In Google Meet</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-leading-microphones-selection-for-uncompromised-4k-clarity/"><u>[Updated] Leading Microphones Selection for Uncompromised 4K Clarity</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-leading-cloud-services-with-best-price/"><u>2024 Approved The Leading Cloud Services with Best Price</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-meme-creation-with-kinemaster/"><u>2024 Approved The Ultimate Meme Creation with KineMaster</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-trailblazers-in-the-world-of-virtual-reality/"><u>2024 Approved Trailblazers in the World of Virtual Reality</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Realme V30? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Motorola Moto G Stylus (2023)? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-srt-file-makers-handbook/"><u>In 2024, The Complete SRT File Maker's Handbook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-speed-solutions-for-sluggish-android-videos/"><u>In 2024, Top Speed Solutions for Sluggish Android Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-top-6-head-mount-options-for-dynamic-camera-use/"><u>In 2024, Unveiling the Top 6 Head Mount Options for Dynamic Camera Use</u></a></li>
-<li><a href="https://techtrends.techidaily.com/master-your-selection-discovering/"><u>Master Your Selection: Discovering</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unraveling-sierras-icloud-full-access-guide-for-2024/"><u>Unraveling Sierra's iCloud Full Access Guide for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveil-the-ultimate-8-online-places-to-find-free-3d-text-files-for-2024/"><u>Unveil the Ultimate 8 Online Places to Find FREE 3D Text Files for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-achieve-marketing-excellence-the-top-10-steps-to-mastering-smm/"><u>[New] 2024 Approved Achieve Marketing Excellence The Top 10 Steps to Mastering SMM</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-laughlineart-memogallery/"><u>[New] LaughLineArt MemoGallery</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-toolwiz-photos-app-complete-review/"><u>[New] Toolwiz Photos App – Complete Review</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-amplifying-your-social-media-reach-with-zoom-plus-fb-live/"><u>[Updated] 2024 Approved Amplifying Your Social Media Reach with ZOOM + FB Live</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-from-zero-to-zoom-expert-launching-successful-webinars/"><u>[Updated] In 2024, From Zero to Zoom Expert Launching Successful Webinars</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-superior-mkv-player-pcandroid-experience/"><u>[Updated] Superior MKV Player PC/Android Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-toontech-unveiled-2024-masterpiece/"><u>[Updated] ToonTech Unveiled 2024 Masterpiece</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tune-your-chat-status-tune-it-right/"><u>[Updated] Tune Your Chat Status, Tune It Right</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-marketing-potential-through-strategy-boxing/"><u>[Updated] Unleash Marketing Potential Through Strategy Boxing</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-prime-live-soundscapes-for-fans/"><u>2024 Approved Prime Live Soundscapes for Fans</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-optimal-frames-per-second-in-cinema-slow-mo/"><u>2024 Approved Understanding Optimal Frames Per Second in Cinema Slow-Mo</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-samsung-galaxy-z-fold-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/desktop-puzzle-solved-effortless-techniques-for-retrieving-misplaced-off-screen-windows/"><u>Desktop Puzzle Solved: Effortless Techniques for Retrieving Misplaced Off-Screen Windows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-guide-to-use-luts-in-premiere-pro/"><u>In 2024, Guide to Use LUTs in Premiere Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-understanding-the-foundation-of-motion-visualization/"><u>In 2024, Understanding the Foundation of Motion Visualization</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-division-in-microsoft-excel-a-comprehensive-tutorial/"><u>Master Division in Microsoft Excel: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-premium.techidaily.com/page-unavailable-http-404-error/"><u>Page Unavailable - HTTP 404 Error</u></a></li>
+<li><a href="https://facebook.techidaily.com/restoring-erased-social-media-posts-on-facebook/"><u>Restoring Erased Social Media Posts on Facebook</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-that-annoying-pixel-dance-easy-fix-for-constant-screen-flashing/"><u>Say Goodbye To That Annoying Pixel Dance - Easy Fix for Constant Screen Flashing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unlock Creativity  Essential Green Screen Techniques\""
-date: 2024-08-21T00:18:31.607Z
-updated: 2024-08-22T00:18:31.607Z
+date: 2025-01-07T20:58:46.618Z
+updated: 2025-01-13T18:27:55.457Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/1ce0f809b5f53bee55ecc4e59e4fc7fd703e674d5
 
 # How to Shoot a Green Screen Video
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -79,10 +76,11 @@ There are some mistakes that you can avoid to help your green screen video look 
 
 #### 4 Wrinkles problem in shooting a Green Screen Video
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Wrinkles problem in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-mistake-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Wrinkles in your screen can actually lead to heavy shadows and distorted image quality in your green screen video. If you regularly fold your green screen for storage it's very important that you take an iron out and flat negative green screen to prevent shadows and distortions with your background image. This is a step that many skip over but it's important to have a high-quality green screen without wrinkles and folds that cause shadows.
 
@@ -98,15 +96,17 @@ Till now, I believe we have basic skills on how to shoot a green screen videos, 
 
 Besides compositing chroma keying videos in Filmora, you can also[stabilize your shaky videos](https://tools.techidaily.com/wondershare/filmora/download/), [put videos side by side](https://tools.techidaily.com/wondershare/filmora/download/), [blur the face in the video](https://tools.techidaily.com/wondershare/filmora/download/) and even more. Let's watch the video below and find out how people shoot and edit green screen videos. Remember to download Filmora to have a try by yourself.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -128,19 +128,21 @@ If you are wondering how to compositing the shot green screen video with your ma
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Related:**[Resources for green screen effects](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## 5 Tips for shooting better green screen video
 
 We’ve figured out some useful green screen tricks, have fun and hope you’ll be more creative with the help of Filmora green screen video compositing software.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In the following section, we will share with you five tips when you shooting a video for compositing a green screen video, which covering the lighting tips, the camera tips, the clothing tips, the tips for using green screen sheet, and the tips for resolving motion blur in shooting videos.
 
@@ -168,28 +170,22 @@ Looking for some best cameras for shooting green screen video? Check our picks o
 
 #### 3Clothing tips in shooting a Green Screen Video
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Clothing tips in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-mistake-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 There are some mistakes that you can avoid to help your green screen video look more professional and more realistic. Perhaps one of the simplest mistakes that many people make with green screen video shooting is actually wearing green clothing. If you are wearing clothing or clothing that has buttons or accents that are a similar color green as your selected background green, the image that you project onto the green screen in post-editing will also get picked up by these accents on your clothing or by the clothing itself. This is great if you want to cut off part of an actor's body, but not so professional if you are trying to make an actor appear in a realistic scene.
 
 #### 4 Wrinkles problem in shooting a Green Screen Video
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Wrinkles problem in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-mistake-2.png)
 
 Wrinkles in your screen can actually lead to heavy shadows and distorted image quality in your green screen video. If you regularly fold your green screen for storage it's very important that you take an iron out and flat negative green screen to prevent shadows and distortions with your background image. This is a step that many skip over but it's important to have a high-quality green screen without wrinkles and folds that cause shadows.
 
 #### 5 Motion blur problem in shooting a Green Screen Video
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![Motion blur problem in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-mistake-4.png)
 
 If you are planning on shooting a high action scene in front of a green screen with a camera that only has lower shutter speeds, you can run into real problems. When using a camera with a lower shutter speed consider doing action shots in slow motion or getting subjects to not make any sudden movements in front of the green screen. Motion blur from someone moving rapidly on camera in front of a green screen can really ruin the scene and ruin the realism of the scene. Alternately you could also consider renting a high shutter speed camera to avoid this motion blur if you do plan on shooting a lot of action scenes. Ultimately this is something that you will need to test for yourself before shooting a green screen video, so that you can get a feel for how much action your camera can handle with a green screen without motion blur.
@@ -203,8 +199,9 @@ Besides compositing chroma keying videos in Filmora, you can also[stabilize your
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -212,7 +209,6 @@ Liza Brown
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -236,8 +232,22 @@ Follow @Liza Brown
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-tailoring-rss-files-for-impact-a-podcasters-blueprint/"><u>[New] Tailoring RSS Files for Impact A Podcaster's Blueprint</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-a-comprehensive-guide-to-facebooks-full-screen-feature-for-2024/"><u>[Updated] A Comprehensive Guide to Facebook's Full Screen Feature for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-metaverse-advertising-insights-and-tactics/"><u>[Updated] In 2024, Metaverse Advertising Insights & Tactics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-professionals-blueprint-for-investing-in-high-definition-viewing/"><u>[Updated] The Professional's Blueprint for Investing in High-Definition Viewing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-collection-top-notch-free-meme-designs/"><u>[Updated] Ultimate Collection Top-Notch FREE Meme Designs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-guide-to-harnessing-power-of-movie-maker-in-windows-8/"><u>2024 Approved The Complete Guide to Harnessing Power of Movie Maker in Windows 8</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-oppo-reno-10-pro-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Oppo Reno 10 Pro 5G Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/enhance-your-security-with-windows-defender-updates-insights-from-yl-software-experts/"><u>Enhance Your Security with Windows Defender Updates - Insights From YL Software Experts</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-successfully-remove-stubborn-software-from-your-pc-or-mac/"><u>How To Successfully Remove Stubborn Software From Your PC or Mac</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-brief-scene-structure-summary/"><u>In 2024, Brief Scene Structure Summary</u></a></li>
+<li><a href="https://some-skills.techidaily.com/mastering-batch-background-erasure-in-affinity-photo-for-2024/"><u>Mastering Batch Background Erasure in Affinity Photo for 2024</u></a></li>
+<li><a href="https://win-popular.techidaily.com/stunning-tropical-landscapes-for-desktop-and-mobile-use-premium-hd-graphics-by-yl-software/"><u>Stunning Tropical Landscapes for Desktop & Mobile Use: Premium HD Graphics by YL Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-anatomy-of-apple-m1-chip-redefining-tech-for-2024/"><u>The Anatomy of Apple M1 Chip, Redefining Tech for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-videos-to-tweets-best-converters-revealed-for-2024/"><u>Transform Videos to Tweets Best Converters Revealed for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-full-access-to-itunes-radio-features-for-2024/"><u>Unlocking Full Access to iTunes Radio Features for 2024</u></a></li>
+</ul></div>
 

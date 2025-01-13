@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Updating Software in Windows 11: A Simple Process"
-date: 2025-01-05T21:53:46.039Z
-updated: 2025-01-06T21:25:31.835Z
+date: 2025-01-07T22:27:26.452Z
+updated: 2025-01-13T22:59:49.424Z
 tags:
   - desktop
 categories:
@@ -11,19 +11,11 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 
 ## The Ultimate Guide to Updating Software in Windows 11: A Simple Process
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [How to Update Microsoft Store Apps](https://extra-resources.techidaily.com/the-essential-how-to-securely-downloading-gratis-vlc-on-macos/)
 * [How to Update Non-Microsoft Store Apps](https://extra-hints.techidaily.com/navigate-subtitle-installation-in-wmp-easily/)
 * [How to Update Apps Using Command Prompt](https://youtube-videos.techidaily.com/free-themes-for-dynamic-youtuber-profiles/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -34,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
  Keeping your installed apps up to date is important, and Windows 11 makes it super easy to update both Microsoft Store and non-Microsoft Store apps. We’ll show you how to use graphical methods, as well as a command-line method to bring your apps up to date.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Update Microsoft Store Apps
@@ -55,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 
 !['Update All' highlighted in Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/12-update-apps-microsoft-store.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for the Store to download and install the updates for your apps. Once that’s done, you can launch your apps.
 
 ###  How to Enable Automatic Updates in Microsoft Store
@@ -64,16 +60,12 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 !['Settings' highlighted in the profile menu of Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-microsoft-store-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In Settings, turn on the "App Updates" option.
 
 !['App Updates' highlighted in Microsoft Store Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-microsoft-store-disable-app-updates.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In the future, to prevent the Store from automatically updating apps, turn off the "App Updates" option. We recommend keeping the option turned on, but if you’re on a metered connection, you might not want the Store to use so much of your internet data.
 
@@ -84,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
  Many apps, [like VLC Media Player](https://remote-screen-capture.techidaily.com/expert-mac-graphic-collector-for-2024/) and Spotify, offer an option within the app to download and install the available app updates. For example, in VLC, you can choose Help > Check for Updates in the menu bar to find, download, and install the latest updates.
 
 ![Help > Check for Updates highlighted in VLC Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-update-vlc.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Similarly, in Spotify, you can select Help > About Spotify and choose "Click Here to Download" if an update is available.
 
@@ -98,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
  To use it, open the Start Menu, search for **Command Prompt**, and select "Run as Administrator."
 
 !['Run as Administrator' highlighted for Command Prompt in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-run-cmd-as-admin.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the "User Account Control" (UAC) prompt, select "Yes."
 
@@ -116,7 +116,7 @@ winget upgrade “AppName”
 !['winget upgrade 'Zoom' typed in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/11-update-specific-app-winget.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The command will begin updating the specified app. You’ll see the live progress on the CMD window. It’ll let you know when the app is updated.
@@ -146,21 +146,24 @@ winget upgrade -h -all
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-crafting-the-rhythm-adding-beats-and-melodies-to-your-fb-vids/"><u>[New] In 2024, Crafting the Rhythm Adding Beats and Melodies to Your FB Vids</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-preparing-for-peak-vr-performance/"><u>[New] In 2024, Preparing For Peak VR Performance</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-streamlining-media-playback-with-vlc-mac/"><u>[New] Streamlining Media Playback with VLC (Mac)</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-harmonious-hits-the-timeless-and-inescapable-tiktok-soundtracks-folk-pop-collaboration/"><u>[Updated] Harmonious Hits The Timeless and Inescapable TikTok Soundtracks (Folk-Pop Collaboration)</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-the-complete-manual-for-background-banishment-in-figma/"><u>[Updated] The Complete Manual for Background Banishment in Figma</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-guide-to-elevating-vhs-imagery-on-modern-devices/"><u>[Updated] Ultimate Guide to Elevating VHS Imagery on Modern Devices</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-windowgrabber-3d-top-choice-for-2024/"><u>[Updated] WindowGrabber 3D - Top Choice for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-telescope-truth-expose/"><u>2024 Approved Telescope Truth Exposé</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/addressing-realtek-microphone-failures-effective-solutions-and-advice/"><u>Addressing Realtek Microphone Failures: Effective Solutions and Advice</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/capture-and-save-top-15-insta-downloader-apps/"><u>Capture and Save Top 15 Insta Downloader Apps</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-motorola-g54-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Motorola G54 5G? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-camera-for-video-enthusiasts-nikons-j5-review/"><u>In 2024, The Ultimate Camera for Video Enthusiasts - Nikon's J5 Review</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-10-eye-catching-text-in-media/"><u>In 2024, Top 10 Eye-Catching Text in Media</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-all-about-dji-inspire-2-today/"><u>In 2024, Unlocking All About DJI Inspire 2 Today</u></a></li>
-<li><a href="https://some-skills.techidaily.com/mastering-flight-time-selecting-premium-uav-power-sources-for-2024/"><u>Mastering Flight Time Selecting Premium UAV Power Sources for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-enhancing-your-film-edits-proficient-use-of-kinemaster-and-best-digital-options/"><u>[New] Enhancing Your Film Edits Proficient Use of KineMaster & Best Digital Options</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-discover-the-art-of-sound-modification-in-free-fire-expert-tips-and-tricks-no-charge-for-2024/"><u>[Updated] Discover the Art of Sound Modification in Free Fire Expert Tips and Tricks (No Charge!) For 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-supreme-suggestions-elite-ios-tone-craftsmen/"><u>[Updated] Supreme Suggestions Elite iOS Tone Craftsmen</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-artisans-handbook-to-photomontage-creation/"><u>[Updated] The Artisan's Handbook to PhotoMontage Creation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-toolwiz-photosapp-decoded-in-depth-analysis-of-2023-features/"><u>2024 Approved Toolwiz PhotosApp Decoded - In-Depth Analysis of 2023 Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-vr-inventory-and-imagination-deficit/"><u>2024 Approved Unveiling VR Inventory and Imagination Deficit</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/vering-2024s-best-science-youtubers-for-knowledge-boost/"><u>Discovering 2024'S Best Science Youtubers for Knowledge Boost</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/elevate-your-online-correspondence-with-our-top-picks-for-free-email-services/"><u>Elevate Your Online Correspondence with Our Top Picks for FREE Email Services</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guide-free-access-to-childrens-music-on-youtube/"><u>Guide: Free Access to Children's Music on YouTube</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Honor X50? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-fabric-of-future-cutting-edge-vr-technology/"><u>In 2024, The Fabric of Future Cutting-Edge VR Technology</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-smart-shoppers-guide-to-affordable-cloud-space/"><u>In 2024, The Smart Shopper's Guide to Affordable Cloud Space</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silence-broken-expert-tips-to-resolve-borderlands-3s-sound-malfunction-on-pc/"><u>Silence Broken: Expert Tips to Resolve Borderlands 3'S Sound Malfunction on PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-6-best-digital-canvases-ideal-nft-services-for-artists-for-2024/"><u>The 6 Best Digital Canvases Ideal NFT Services For Artists for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-mememix-download-now-for-2024/"><u>Ultimate Mememix Download Now for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-your-potential-on-telegram-a-comprehensive-marketing-guide-for-2024/"><u>Unleash Your Potential on Telegram A Comprehensive Marketing Guide for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-hp-deskjet-3755-printer-on-windows-10-8-or-7-download-driver-now/"><u>Update Your HP DeskJet 3755 Printer on Windows 10, 8 or 7 - Download Driver Now!</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/vimeo-chapter-how-to-add-chapters-to-vimeo-video-in-2024/"><u>Vimeo Chapter How to Add Chapters to Vimeo Video, In 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/windows-compatible-drivers-for-amd-radeon-r9-series-free-downloads-and-installation-tips/"><u>Windows Compatible Drivers for AMD Radeon R9 Series: Free Downloads and Installation Tips</u></a></li>
 </ul></div>
 

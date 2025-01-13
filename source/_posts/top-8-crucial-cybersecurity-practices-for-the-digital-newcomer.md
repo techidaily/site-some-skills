@@ -1,7 +1,7 @@
 ---
 title: Top 8 Crucial Cybersecurity Practices for the Digital Newcomer
-date: 2025-01-03T16:55:01.895Z
-updated: 2025-01-07T10:10:16.493Z
+date: 2025-01-06T17:41:32.987Z
+updated: 2025-01-13T16:38:27.373Z
 tags:
   - web
 categories:
@@ -24,10 +24,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Entering the tech world can be thrilling but presents numerous risks. From falling prey to hackers to inadvertently sharing sensitive information, your privacy and finances can be compromised. You should adhere to basic security practices to stay safe. Here are some safety tips everyone should know.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1  Recognize Phishing Emails and Texts 
 
 ![A text message stating 'Florida toll services: We've noticed an outstanding toll amount of $12.51 on your record. To avoid a late fee of $50.00, visit UNFRIENDLY URL to settle your balance.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/23.jpg) 
@@ -44,6 +40,10 @@ Andrew Heinzman / How-To Geek
 
 ![iPad mini remotely accessing a Mac desktop using AnyDesk application.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/img_4835.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Hannah Brostrom / How-To Geek
 
 [Tech support scams](https://extra-information.techidaily.com/full-range-virtual-sphere-review/) are among the most common traps scammers use to deceive non-tech-savvy individuals.
@@ -51,10 +51,6 @@ Hannah Brostrom / How-To Geek
  Scammers typically display a fake popup on your screen while you're browsing an unsafe website, claiming that your computer is infected or has a severe issue. They then ask you to call a number listed in the popup, which connects you to the scammers. When you call, they ask for remote access to your computer, claiming they need it to fix the issue.
 
  Once they have access, they may turn your screen black, transfer funds from your bank account (if they can), install malicious software, or use other tactics to defraud you. To protect yourself, ignore such popups and _never_ allow anyone remote access to your device. If you need genuine tech support, always seek assistance from the official website of the company.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3  Avoid Befriending Strangers Online 
 
@@ -65,7 +61,7 @@ Hannah Brostrom / How-To Geek
 ![A bot impersonating a real person on Facebook.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/scammer.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4  Don’t Overshare Your Critical Information 
@@ -86,12 +82,16 @@ Lucas Gouveia / How-To Geek | [Creativa Images](https://www.shutterstock.com/ima
 
  Lastly, enable safe search filters to avoid encountering inappropriate content, be wary of malicious search ads, and regularly clear your browsing data.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6  Be Skeptical of Unverified Callers 
 
 ![A phone with an incoming call and a call forwarding icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-phone-with-an-incoming-call-and-a-call-forwarding-icon.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lucas Gouveia / Justin Duino / How-To Geek
@@ -101,6 +101,10 @@ Lucas Gouveia / Justin Duino / How-To Geek
  If there's anything legal involved, ask them to send a claim in writing through official channels. If unsure, hang up or [block the caller](https://instagram-video-files.techidaily.com/updated-strategies-for-perfecting-igtv-video-titles-for-2024/), find the official number (and don't trust a number they provide!), and call them separately.
 
  Also, be wary of calls from unfamiliar area codes, familiarize yourself with the official contact numbers of companies you deal with, and stay updated on the latest scam alerts from reputable sources like the Federal Trade Commission (FTC). Trust your instincts—if something feels off, it's wise to be extra cautious.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7  Verify News Headlines Before Believing Them 
 
@@ -113,16 +117,12 @@ Lucas Gouveia / How-To Geek | [DONOT6\_STUDIO](https://www.shutterstock.com/imag
  If there are photos or videos attached, use reverse search tools to confirm they aren't old and see if the article links back to the source. Be wary of sensational headlines and read the entire article to understand the context. Also, check the comment section to see if readers have pointed out inaccuracies.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8  Follow Tips for Safe Online Shopping 
 
 ![Hands holding credit card and using laptop to shop online.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/8d330f6d.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Ivan Kruk/Shutterstock.com](https://www.shutterstock.com/image-photo/hands-holding-credit-card-using-laptop-291627674)
 
@@ -151,22 +151,16 @@ Lucas Gouveia / How-To Geek | [DONOT6\_STUDIO](https://www.shutterstock.com/imag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-step-by-step-integrating-apple-music-into-your-videos/"><u>[New] In 2024, Step-by-Step Integrating Apple Music Into Your Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-8-sites-with-easy-access-to-free-3d-text-psd-images/"><u>[New] Top 8 Sites with Easy Access to Free 3D Text PSD Images</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-elevate-user-participation-via-personalized-ig-story-polls-for-2024/"><u>[Updated] Elevate User Participation via Personalized IG Story Polls for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-premier-vhs-inspired-tricks-for-editing-excellence/"><u>[Updated] Premier VHS-Inspired Tricks for Editing Excellence</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-art-of-discrete-audio-erosion-in-audacity/"><u>[Updated] The Art of Discrete Audio Erosion in Audacity</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-tier-extended-reality-experience-makers/"><u>[Updated] Top-Tier Extended Reality Experience Makers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unifiedvision-mixer-hub/"><u>[Updated] UnifiedVision Mixer Hub</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-avoidance-of-unplanned-pauses-during-photobooth-sessions/"><u>2024 Approved Avoidance of Unplanned Pauses During Photobooth Sessions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-guide-to-shooting-with-a-green-screen/"><u>2024 Approved The Complete Guide to Shooting with a Green Screen</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-to-get-rid-of-embarrassing-posts-from-social-media-the-8-best-online-tools/"><u>How to Get Rid of Embarrassing Posts From Social Media: The 8 Best Online Tools</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-functionality-in-wow-comprehensive-solutions-for-voice-chat-glitches/"><u>How To Restore Audio Functionality in WoW - Comprehensive Solutions for Voice Chat Glitches</u></a></li>
-<li><a href="https://program-issues.techidaily.com/league-of-legends-connectivity-fix-overcoming-lag-and-disconnects/"><u>League of Legends Connectivity Fix: Overcoming Lag and Disconnects</u></a></li>
-<li><a href="https://some-skills.techidaily.com/quick-pace-champions-2022-edition-for-2024/"><u>Quick Pace Champions 2022 Edition for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/solving-the-conversation-not-found-issue-in-chatgpt-interactions/"><u>Solving the 'Conversation Not Found' Issue in ChatGPT Interactions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tips-for-producing-compelling-podcast-introductions-for-2024/"><u>Tips for Producing Compelling Podcast Introductions for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/unveiling-the-best-5-tools-for-youtube-video-url-shortening/"><u>Unveiling the Best 5 Tools for YouTube Video URL Shortening</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ssential-guides-to-the-top-10-student-focused-history-vlogs/"><u>[New] Essential Guides to the Top 10 Student-Focused History Vlogs</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-solutions-to-mitigate-vibrational-jello-in-uav-recordings/"><u>[New] Solutions to Mitigate Vibrational Jello in UAV Recordings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-introductory-editor-software-devices/"><u>[New] Ultimate Introductory Editor Software (Devices)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-the-secrets-of-slow-motion-expert-advice-using-photo-apps-and-websites/"><u>[New] Unlock the Secrets of Slow Motion Expert Advice Using Photo Apps & Websites</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-spark-business-visibility-affordable-logos-from-template-to-original/"><u>[Updated] Spark Business Visibility Affordable Logos From Template to Original</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-5-high-definition-4k-gaming-screens/"><u>[Updated] Top 5 High Definition 4K Gaming Screens</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-navigating-complex-editing-a-practical-guide-for-youtube-video-creators-on-pc/"><u>2024 Approved Navigating Complex Editing A Practical Guide for YouTube Video Creators on PC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Xiaomi Redmi 13C? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-to-use-microsoft-azure-speech-to-text-service-for-2024/"><u>How to Use Microsoft Azure Speech to Text Service for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-complete-guide-to-mastering-powerdirector-software-for-2024/"><u>The Complete Guide to Mastering PowerDirector Software for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top 8 Essential Factors to Consider When Purchasing a Pre-Owned Windows Laptop
-date: 2024-12-31T00:25:33.539Z
-updated: 2025-01-07T02:22:25.107Z
+date: 2025-01-06T21:45:19.885Z
+updated: 2025-01-13T22:31:43.081Z
 tags:
   - deals
 categories:
@@ -25,7 +25,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Buying a used laptop can indeed save you money, but it does come with some risks. This is why you should thoroughly examine the laptop before closing the deal to avoid unpleasant surprises later on. If you doubt the credibility of the seller, here's how you can test the used laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Test the Keyboard and Trackpad
@@ -34,16 +34,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Keyboard tester typing letters in lowercase with Caps Lock off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-keyboard-tester-typing-letters-in-lowercase-with-caps-lock-off.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To test the trackpad, hover over the screen to gauge its responsiveness. Then, experiment with different trackpad gestures, such as pinch-to-zoom and two-finger scroll, to see which ones are supported. If you have another laptop, you can compare trackpad responsiveness by conducting a touchpad accuracy test on both laptops using the [No-Cursor website](https://no-cursor.com/).
 
  This will help you confirm whether the trackpad on your new laptop is equally or more responsive than the other one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Test the Speakers and Built-In Microphone
@@ -54,23 +50,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Testing the laptop speaker in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/1-testing-the-laptop-speaker-in-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To [test the built-in microphone](https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-y200e-5g-drfone-by-drfone-virtual-android/), return to the sound settings, click on "Microphone Array," and then click on the "Start Test" button next to Test Your Microphone. Speak for a few seconds, then stop the test. If you see a decent volume percentage recorded, the microphone is working as it should.
 
 ![Testing the laptop microphone in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-testing-the-laptop-microphone-in-settings.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Test the Built-In Camera
 
  If you intend to use the laptop for video communication, test its built-in camera. To do this, type **Camera** in the Windows Search bar and open the Camera app.
 
  If the camera app detects the webcam and the visuals are clear and of satisfactory quality, as the seller claimed, then the camera is working correctly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Check the Health of Your Laptop Battery
 
@@ -86,6 +78,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Checking the laptop battery report.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_5.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Ensure the Laptop Isn't Stolen
 
  If you're thinking about buying a used laptop from an unknown seller, make sure that it hasn't been stolen. One way to check this is to request a purchase receipt from the seller. If they are unable to provide one, this could be a red flag. If the laptop hasn't been reset, is password-protected, or is locked, these signs indicate that it's likely a stolen device.
@@ -97,6 +93,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The appearance of the laptop body is a direct reflection of how carefully the original owner has treated the device. Any signs of scratches, cracks, dents, or loose and damaged hinges indicate rough handling by the previous owner. Missing screws are another indicator that the laptop may have been opened for repair or replacement, which raises a red flag.
 
  Also, watch out for stickers that may be covering up wear and tear underneath, as this is a common practice.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Test the Wired and Wireless Connectivity
 
@@ -133,20 +133,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-immerse-in-digital-spaces-pcs-premier-10-vr-playback-systems/"><u>[New] Immerse in Digital Spaces PC’s Premier 10 VR Playback Systems</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-giggle-genesis-conceptualizing-7-funny-youtube-sessions/"><u>[Updated] Giggle Genesis Conceptualizing 7 Funny YouTube Sessions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-compilation-of-premium-free-srt-translators/"><u>[Updated] The Ultimate Compilation of Premium Free SRT Translators</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleash-creative-potential-with-top-tips-for-gopro-timelapses/"><u>[Updated] Unleash Creative Potential with Top Tips for GoPro Timelapses</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-cost-effective-obs-setup-tips/"><u>2024 Approved Cost-Effective OBS Setup Tips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-the-essence-of-digital-chronicles/"><u>2024 Approved Understanding the Essence of Digital Chronicles</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-creativity-inshot-video-editing-on-your-pc/"><u>2024 Approved Unleash Creativity Inshot Video Editing on Your PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-your-play-top-10-reasons-for-pc-gaming/"><u>Enhance Your Play: Top 10 Reasons for PC Gaming</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-lava-blaze-2-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c02-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Nokia C02 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tunes-twining-a-new-multimedia-approach/"><u>In 2024, Tunes Twining A New Multimedia Approach</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigating-the-world-of-audio-with-apods-for-2024/"><u>Navigating the World of Audio with APods for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/optimized-process-for-melding-gopro-sequences-in-full-dome-videos/"><u>Optimized Process for Melding GoPro Sequences in Full-Dome Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/swift-top-tier-photo-viewing-app-for-2024/"><u>Swift Top-Tier Photo Viewing App for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-selection-childrens-drone-choices-for-2024/"><u>Ultimate Selection Children's Drone Choices for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-future-is-now-how-vivacuts-2024-updates-are-redefining-editing/"><u>[New] The Future Is Now How VivaCut's 2024 Updates Are Redefining Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-android-3d-viewer-experience/"><u>[Updated] Top Android 3D Viewer Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transferring-media-pc-files-to-your-ios-device/"><u>2024 Approved Transferring Media PC Files To Your iOS Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/escalating-threats-the-future-of-generative-ai-and-increasing-security-challenges/"><u>Escalating Threats: The Future of Generative AI and Increasing Security Challenges</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/essential-guide-to-xbox-screen-recording-techniques/"><u>Essential Guide to Xbox Screen Recording Techniques</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-13-mini-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 13 mini Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/insightful-guide-to-xbox-playtime-reports/"><u>Insightful Guide to Xbox Playtime Reports</u></a></li>
+<li><a href="https://fox-access.techidaily.com/navigating-snapchat-spotlight-feature/"><u>Navigating Snapchat Spotlight Feature</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-infinix-smart-7-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Infinix Smart 7? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/pro-moviemakers-manual-for-pc-mac-and-mobile-systems-for-2024/"><u>Pro Moviemaker's Manual for PC, Mac & Mobile Systems for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-leading-lines-crafting-images-on-iphones-for-2024/"><u>The Art of Leading Lines Crafting Images on iPhones for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/turn-back-the-tape-on-twitch-broadcasting-for-2024/"><u>Turn Back the Tape on Twitch Broadcasting for 2024</u></a></li>
 </ul></div>
 

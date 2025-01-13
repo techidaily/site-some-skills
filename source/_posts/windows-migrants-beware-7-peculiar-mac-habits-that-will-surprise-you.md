@@ -1,7 +1,7 @@
 ---
 title: "Windows Migrants Beware: 7 Peculiar Mac Habits That Will Surprise You"
-date: 2025-01-01T16:33:27.883Z
-updated: 2025-01-06T21:54:50.292Z
+date: 2025-01-07T17:32:30.015Z
+updated: 2025-01-13T20:56:22.590Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 ---
 
 ## Windows Migrants Beware: 7 Peculiar Mac Habits That Will Surprise You
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -24,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
  If you've been a Windows user, transitioning to macOS can be pretty daunting. From navigating a new interface to getting used to the keyboard shortcuts, there are many elements that could leave you feeling puzzled. Here are some of the main differences that you need to know about.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Dock Is Not Like the Taskbar
@@ -39,15 +43,15 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 
  You can access any apps that aren't in the Dock via the Launchpad, which is itself in the Dock by default.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Mac and Windows Keyboards Have Different Keys
 
  Mac and Windows keyboards have several keys that have the same functionality but are named differently. For example, the Alt key in Windows is the Option key on a Mac keyboard; Enter on Windows is Return on a Mac; and the Windows backspace key is Delete on a Mac.
 
 ![The Globe, Control, Option, and Command keys on a Mac keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-globe-control-option-and-command-keys-on-a-mac-keyboard.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Some keys, like the Control button, are on both keyboards but have different uses. For instance, keyboard shortcuts that require you to press the Control key on a Windows keyboard often use the Command key instead on a Mac. So, [copy and paste](https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-itel-s23plus-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/) is Ctrl+C and Ctrl+V in Windows, but Command+C and Command+V in macOS.
 
@@ -66,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 | Shortcut icon   | Alias                 |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Taking Screenshots Is Easy
@@ -77,11 +81,11 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 
 ![Use the Command+Shift+5 shortcut to view screenshot and screen record options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_5723.JPG) 
 
- Regardless of the shortcut you use, the screenshot is immediately saved to your macOS desktop for easy access.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Regardless of the shortcut you use, the screenshot is immediately saved to your macOS desktop for easy access.
 
 ##  macOS Has Its Own Equivalents for the Windows Apps
 
@@ -109,15 +113,15 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 
 ![Spotlight search in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/spotlight-search-in-macos.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Spotlight is packed with features](https://screen-capture.techidaily.com/updated-shadowed-swords-and-honored-combatants-must-try-titles-inspired-by-ghost-of-tsushi/). You can use it to find apps, documents, or emails by keying in a few keywords related to what you're searching for, as well as searching for news, sports scores, or weather updates, performing calculations, and much more.
 
  Another key difference in the UI is the menu bar. In macOS, the menu bar is always located at the top of the screen rather than the top of the window and extends across its width. It gives you access to the Apple menu, Finder, the time and date, Wi-Fi and Bluetooth settings, and the battery status, as well as app-specific menu options.
 
 ![The menubar in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-menubar-in-macos.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In comparison, Windows laptops combine the Start menu, system tray, and taskbar into a single bar that's located at the bottom of the screen by default.
 
@@ -126,10 +130,6 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
  The Start menu on a Windows laptop allows you to access applications, system settings, and recent files all from one place. On macOS, this functionality is most closely served by the Launchpad, an iPad-style grid of icons that offers you quick access to all your apps.
 
 ![The Launchpad on a Mac laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/screenshot-2024-03-20-at-3-57-38-am.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Keep in mind that the Launchpad does not let you access your recent files or the system settings, but you can access them through the Dock and the Apple menu icons, respectively, on your Mac.
 
@@ -152,17 +152,24 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-exploring-the-latest-advancements-in-lgs-all-round-360-camera/"><u>[New] Exploring the Latest Advancements in LG's All-Round 360 Camera</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-cutting-edge-strategies-for-real-time-green-screen-applications/"><u>[New] In 2024, Cutting-Edge Strategies for Real-Time Green Screen Applications</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-nostalgia-revue-old-school-review-of-the-goofys-for-2024/"><u>[New] Nostalgia Revue Old-School Review of The Goofys for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-setting-the-mood-fading-to-black/"><u>[New] Setting the Mood Fading To Black</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-complete-manual-for-background-banishment-in-figma/"><u>[New] The Complete Manual for Background Banishment in Figma</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transform-your-images-into-dynamic-visual-stories/"><u>[New] Transform Your Images Into Dynamic Visual Stories</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-mastering-background-removal-in-figma-step-by-step-tutorial/"><u>2024 Approved Mastering Background Removal in Figma Step-by-Step Tutorial</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/how-to-light-your-youtube-video/"><u>How To Light Your YouTube Video</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-realme-c53-easily-by-drfone-android/"><u>In 2024, How To Unlock a Realme C53 Easily?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-walkthrough-on-how-to-rollback-a-windows-11-patch/"><u>The Ultimate Walkthrough on How to Rollback a Windows 11 Patch</u></a></li>
-<li><a href="https://some-skills.techidaily.com/total-control-guide-powerdirector-user-manual-for-2024/"><u>Total Control Guide PowerDirector User Manual for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-innovative-android-for-ultimate-3d-playback/"><u>[New] Innovative Android for Ultimate 3D Playback</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleashing-imagination-creating-motion-pictures-with-windows-movie-maker/"><u>[New] Unleashing Imagination Creating Motion Pictures with Windows Movie Maker</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tips-and-tricks-for-perfect-tweets-with-videos/"><u>[Updated] 2024 Approved Tips and Tricks for Perfect Tweets with Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-list-best-general-knowledge-trivia-series-2024/"><u>[Updated] Ultimate List Best General Knowledge Trivia Series 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-beginners-guide-to-utilizing-look-up-tables-luts/"><u>2024 Approved The Complete Beginner’s Guide to Utilizing Look-Up Tables (LUTs)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-future-of-audio-srt-in-mp4-video-files/"><u>2024 Approved The Future of Audio SRT in MP4 Video Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-insiders-guide-to-creating-viral-memes-on-9gag/"><u>2024 Approved The Insider's Guide to Creating Viral Memes on 9GAG</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-list-of-live-streaming-camera-models/"><u>2024 Approved The Ultimate List of Live-Streaming Camera Models</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-digital-art-with-free-versatile-lut-tools/"><u>2024 Approved Transforming Digital Art with Free, Versatile LUT Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/anthem-windows-10-sound-issue-troubleshooting-steps-for-fixing-missing-voice/"><u>Anthem Windows 10 Sound Issue – Troubleshooting Steps for Fixing Missing Voice</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conversao-gratuita-de-filmes-mov-para-mp4-funcionando-na-web-agora/"><u>Conversão Gratuita De Filmes MOV Para MP4 - Funcionando Na Web Agora!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-top-benefits-of-snapchats-my-ai-beyond-a-simple-fun-app/"><u>Discover the Top Benefits of Snapchat’s 'My AI': Beyond a Simple Fun App</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-perk-predicament-which-console-service-wins/"><u>Gaming Perk Predicament: Which Console Service Wins?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Honor V Purse? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-rank-5-premium-android-image-editing-tools/"><u>In 2024, The Ultimate Rank 5 Premium Android Image Editing Tools</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-your-playlist-on-demand-selecting-6-elite-free-apps-for-downloading-youtube-music/"><u>In 2024, Your Playlist on Demand - Selecting 6 Elite Free Apps for Downloading YouTube Music</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-fixes-for-when-the-xlivedll-file-goes-missing-on-windows-computers/"><u>Quick Fixes for When the Xlive.dll File Goes Missing on Windows Computers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-selection-of-text-enhancers-for-adobe-ae-for-2024/"><u>The Ultimate Selection of Text Enhancers for Adobe AE for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-huawei-nova-y91-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Huawei Nova Y91 without backup.</u></a></li>
 </ul></div>
 

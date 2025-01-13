@@ -1,7 +1,7 @@
 ---
 title: 12 Quick Methods to Access Windows 10 File Explorer
-date: 2025-01-06T06:38:53.397Z
-updated: 2025-01-06T21:51:44.619Z
+date: 2025-01-09T21:53:11.789Z
+updated: 2025-01-13T18:20:51.533Z
 tags:
   - deals
 categories:
@@ -26,10 +26,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [From Command Prompt](https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-realme-narzo-60-5g-phone-by-drfone-android/)
 * [Via PowerShell](https://fox-glue.techidaily.com/updated-2024-approved-must-haves-for-capturing-movies-on-the-move/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Open File Explorer by clicking the Taskbar icon, using the keyboard shortcut Windows+E, or searching for "File Explorer" in Windows Search.
@@ -38,7 +34,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 [File Explorer](https://facebook-video-content.techidaily.com/updated-in-2024-facebook-media-extractor-quick-mp3-downloads/) is an essential file management application. Whether your [mouse is broken](https://some-approaches.techidaily.com/enhance-digital-marketing-success-using-advanced-cookiebot-technology-solutions/) or you just prefer using Command Prompt, there are many ways you can open File Explorer in Windows 10.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Click the Taskbar Icon
@@ -51,9 +47,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Click the File Explorer button on the taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/icon-on-taskbar.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Use the Keyboard Shortcut
 
  Almost every keyboard on a Windows PC has a Windows key (it's the one with the Windows icon). You can open File Explorer by pressing Windows+E.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Via Windows Search
 
@@ -68,16 +72,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Open the Start menu, then navigate to Windows System > File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/windows-system-file-explorer.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also pin File Explorer to the sidebar above the Start button. To do so, click Settings > Personalization > Start, and then click "Choose which folders appear on Start."
 
 ![Click 'Choose Which Folders Appear on Start.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/choose-which-appear-in-start.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  On the next screen, toggle-On the "File Explorer" option.
 
@@ -92,6 +92,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Alternatively, if you pinned File Explorer to the sidebar of the Start menu, you can right-click the File Explorer icon, and then click "Pin to Start."
 
 ![Pin File Explorer to Start Menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/Pin-File-Explorer-to-Start-Menu.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  File Explorer will now appear in the pinned tile section of the Start menu; just click it to launch.
 
@@ -117,15 +121,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Execute explorer in a Run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/launch-explorer-run-window.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Run the Source Application
 
  By default, Windows stores File Explorer's EXE file in the "Windows" folder on the C: drive. Navigate to the "Windows" folder, find "Explorer.exe" in the long list, and then double-click it to open File Explorer.
 
 ![File Explorer exe file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/File-Explorer-exe-file.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Add a Shortcut to the Desktop
 
@@ -138,7 +146,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![File explorer desktop shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/File-explorer-desktop-shortcut.gif) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, you can just double-click the shortcut on your desktop to open File Explorer anytime.
@@ -149,17 +157,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Open Task Manager, then navigate to File > Run New Task.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/task-manager-file-run-new-task.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The "Create New Task" window will appear. Type "Explorer" in the "Open:" text box, click "OK," and File Explorer will open.
 
 ![Enter 'explorer' into the 'Create New Task' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/create-new-task-task-manager.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  From Command Prompt
 
@@ -168,7 +168,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Search for 'command prompt' or 'cmd' in the search bar or the Start menu search, then click 'Command Prompt.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/run-command-prompt-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In Command Prompt, type the following command and press Enter:
@@ -176,10 +176,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 explorer
 
 ![Run 'explorer' in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/explorer-in-cmd.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  File Explorer will open.
 
@@ -194,6 +190,10 @@ explorer
 explorer
 
 ![Run 'explorer' in PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/explorer-in-powerhsell.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  File Explorer will then open.
 
@@ -216,20 +216,17 @@ explorer
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-streamlining-multimedia-experiences-through-youtube-music-links/"><u>[New] Streamlining Multimedia Experiences Through YouTube Music Links</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transformative-video-creation-harness-the-trio-of-windows-photos-and-storyremix/"><u>[New] Transformative Video Creation Harness the Trio of Windows, Photos, and StoryRemix</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-updated-list-of-conversation-catalysts-for-listener-retention/"><u>[New] Updated List of Conversation Catalysts for Listener Retention</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-business-presentation-goldmine-free-and-premium-slide-show-tools/"><u>[Updated] Business Presentation Goldmine Free & Premium Slide Show Tools</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-freenoweb-recorder-app-evaluation-insights/"><u>[Updated] FreenoWeb Recorder App Evaluation Insights</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-instagram-engage-obs-live-streaming/"><u>[Updated] In 2024, Instagram Engage OBS Live Streaming</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-essential-tutorial-infusing-motion-blur-into-faces-using-picsart/"><u>[Updated] The Essential Tutorial Infusing Motion Blur Into Faces Using Picsart</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-final-cut-pro-for-beginners-the-definitive-starter-pack/"><u>2024 Approved Final Cut Pro for Beginners The Definitive Starter Pack</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-comprehensible-path-to-proficient-greenscreen-in-kinemaster/"><u>2024 Approved The Comprehensible Path to Proficient Greenscreen in KineMaster</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-hp-dreamcolor-z32x-review-a-quest-for-perfection/"><u>2024 Approved The HP DreamColor Z32X Review A Quest for Perfection</u></a></li>
-<li><a href="https://solve-help.techidaily.com/identifying-and-troubleshooting-hardware-compatibility-problems-in-windows-a-guide-by-yl-computing/"><u>Identifying and Troubleshooting Hardware Compatibility Problems in Windows - A Guide by YL Computing</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-focusing-on-content-reach-sharing-igtv-across-platforms/"><u>In 2024, Focusing on Content Reach Sharing IGTV Across Platforms</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-nokia-c300-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Nokia C300 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://extra-information.techidaily.com/transforming-images-with-ar-a-guide-to-free-lut-downloads/"><u>Transforming Images with AR A Guide to Free LUT Downloads</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-charger-systems-for-black-gopro-hero5-official-sources-for-2024/"><u>Ultimate Charger Systems for Black GoPro Hero5 Official Sources for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-from-high-speed-to-serenity-making-captivating-slow-movies-on-instagram/"><u>[New] In 2024, From High-Speed to Serenity Making Captivating Slow Movies on Instagram</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-strategies-for-combining-the-best-of-zoom-and-skype-video-calls/"><u>[New] Strategies for Combining the Best of Zoom and Skype Video Calls</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-reclaim-lost-chatter-in-shared-tweeted-films-for-2024/"><u>[Updated] Reclaim Lost Chatter in Shared Tweeted Films for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-youtube-money-matters-how-to-understand-your-partner-payouts/"><u>[Updated] YouTube Money Matters How to Understand Your Partner Payouts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-sci-fi-vr-adventures-new-realms-unveiled/"><u>2024 Approved Top 10 Sci-Fi VR Adventures New Realms Unveiled</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/best-practices-for-checking-and-editing-your-sites-pages-before-publishing-online/"><u>Best Practices for Checking and Editing Your Site's Pages Before Publishing Online</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-htc-u23-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass HTC U23 FRP</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-online-meetings-zoom-and-gmail-sync-strategies/"><u>In 2024, Streamlining Online Meetings Zoom & Gmail Sync Strategies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tag-with-your-favorite-show-podcast-on-ig/"><u>In 2024, Tag with Your Favorite Show Podcast on IG</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-spots-unveiling-stunning-no-cost-tiktok-backgrounds/"><u>In 2024, Top Spots Unveiling Stunning, No-Cost TikTok Backgrounds</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-your-tech-budget-grab-the-ultimate-multi-device-charger-at-35-off-today-a-must-have-hub-for-gadgets-lovers-zdnet/"><u>Slash Your Tech Budget: Grab the Ultimate Multi-Device Charger at 35% Off Today! - A Must-Have Hub for Gadgets Lovers | ZDNet</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-xiaomi-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Xiaomi without backup.</u></a></li>
 </ul></div>
 
