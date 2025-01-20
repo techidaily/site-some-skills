@@ -1,7 +1,7 @@
 ---
 title: "Securing Your System: A Step-by-Step Guide to Locking a Windows 10 PC via Command Line"
-date: 2025-01-11T19:49:40.099Z
-updated: 2025-01-13T17:31:50.647Z
+date: 2025-01-13T20:44:10.690Z
+updated: 2025-01-19T23:59:54.483Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
 ## Securing Your System: A Step-by-Step Guide to Locking a Windows 10 PC via Command Line
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
 * [Set the Lock Screen Timeout Setting Using Command Prompt](https://eaxpv-info.techidaily.com/new-finding-a-different-way-to-naming-your-channel-with-filmora-for-2024/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
 
  One of the first rules of cyber security is to always lock your PC before stepping away. While it may not be the quickest way to lock your Windows 10 PC, you can do it using the Command Prompt.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Lock Your Windows 10 PC Using Command Prompt
 
  First, [open the Command Prompt](https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a78-frp-by-drfone-android/) on your PC by opening the Start menu, typing “cmd” in the Windows Search bar, and then selecting “Command Prompt” from the search results.
@@ -39,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
 ![Click the Start button, search for 'cmd,' then open 'Command Prompt.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-cmd.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Command Prompt will now open. Here, run this command to lock your Windows 10 PC.
@@ -49,10 +53,6 @@ Rundll32.exe user32.dll,LockWorkStation
 ![Locking your PC with Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-lock-pc-command-prompt.png) 
 
  Once executed, your PC will be locked. You'll have to sign back in with your PIN, password, or whatever sign-in method you usually use.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Set the Lock Screen Timeout Setting Using Command Prompt
 
@@ -72,6 +72,10 @@ powercfg.exe /SETACVALUEINDEX SCHEME_CURRENT SUB_VIDEO VIDEOCONLOCK 120
 
 ![Change the timeout to 120.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-changing-timeout-to-120.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This command sets the lock screen timeout setting for your PC if it’s plugged in to a power source. To set the lock screen timeout setting for your PC if it’s running on battery, change`/SETACVALUEINDEX` to`/SETDCVALUEINDEX` and run the command as normal.
 
  Next, run this command:
@@ -79,10 +83,6 @@ powercfg.exe /SETACVALUEINDEX SCHEME_CURRENT SUB_VIDEO VIDEOCONLOCK 120
 powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 ![Apply the setting to the currently active scheme.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-set-active.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now your [lock screen](https://driver-download.techidaily.com/1722977751917-synaptics-drivers-download-and-update-for-windows-easily/) will timeout after the set amount of time. Give it a try!
 
@@ -101,21 +101,24 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-quickscreencapture-mastery-for-everyday-use/"><u>[New] 2024 Approved QuickScreenCapture Mastery for Everyday Use</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-deleting-a-discord-server-desktop-and-mobile-guide/"><u>[New] In 2024, Deleting a Discord Server Desktop & Mobile Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-unlocking-vidmas-secrets-to-superior-screen-recording-for-2024/"><u>[New] Unlocking Vidma’s Secrets to Superior Screen Recording for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-blueprint-to-establishing-an-online-review-community-for-toys/"><u>[Updated] The Blueprint to Establishing an Online Review Community for Toys</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-insiders-pathway-to-effective-auditory-notes/"><u>[Updated] The Insider’s Pathway to Effective Auditory Notes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-mobile-and-web-photo-booster-at-no-cost/"><u>[Updated] Ultimate Mobile & Web Photo Booster at No Cost</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tutorial-triumph-a-step-towards-a-million-view-goal/"><u>2024 Approved Tutorial Triumph A Step Towards a Million View Goal</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-guide-to-mastering-final-cut-pro-essentials/"><u>2024 Approved Ultimate Guide to Mastering Final Cut Pro Essentials</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-installation-free-qualcomm-atheros-ar938x-driver-download-available-now/"><u>Effortless Installation: Free Qualcomm Atheros AR938X Driver Download Available Now!</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-15-pro-max-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 15 Pro Max Passcode Easily Video Inside</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-swift-solution-for-effortless-srt-to-text-txt-transform/"><u>In 2024, The Swift Solution for Effortless SRT to Text (TXT) Transform</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-samsung-galaxy-a05-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Samsung Galaxy A05 Android SIM Unlock APK</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/save-big-with-these-3-superior-under-1k-laptop-bargains-at-costco-amazon-and-dell-during-cyber-monday-2022-zdnet/"><u>Save Big with These 3 Superior Under $1K Laptop Bargains at Costco, Amazon & Dell During Cyber Monday 2022 - ZDNet</u></a></li>
-<li><a href="https://win-webster.techidaily.com/step-by-step-instruction-how-to-enhance-your-samsung-notebook-pro-with-an-ssd-upgrade/"><u>Step-by-Step Instruction: How to Enhance Your Samsung Notebook Pro with an SSD Upgrade</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/troubleshooting-iphone-x-regaining-access-via-facial-id-for-2024/"><u>Troubleshooting iPhone X Regaining Access via Facial ID for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-your-images-true-self-a-canva-step-by-step-for-2024/"><u>Unveiling Your Image’s True Self A Canva Step-by-Step for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-economical-systems-optimized-by-ideal-obs-settings/"><u>[New] In 2024, Economical Systems Optimized by Ideal OBS Settings</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-spectacular-top-ten-nintendo-switch-fighter-games-max-156/"><u>[New] In 2024, Spectacular Top Ten Nintendo Switch Fighter Games (Max 156)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tailored-interventions/"><u>[New] Tailored Interventions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-time-honored-treasures-free-of-restrictions/"><u>[New] Time-Honored Treasures, Free of Restrictions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-guide-to-economical-high-performance-asmr-microphones/"><u>[New] Ultimate Guide to Economical, High-Performance ASMR Microphones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-potential-top-tactics-for-medical-ads-on-social-networks/"><u>[New] Unlocking Potential Top Tactics for Medical Ads on Social Networks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-revised-sony-s3700-experience/"><u>[New] Unveiling the Revised Sony S3700 Experience</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-expert-advice-for-capturing-evening-images-for-2024/"><u>[Updated] Expert Advice for Capturing Evening Images for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-unconfident-to-impactful-embracing-youtube-blogging-for-2024/"><u>[Updated] From Unconfident to Impactful Embracing YouTube Blogging for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-leading-list-for-best-vector-resources/"><u>[Updated] The Leading List for Best Vector Resources</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-top-picks-for-hd-video-playback-on-your-android-device/"><u>[Updated] The Top Picks for HD Video Playback on Your Android Device</u></a></li>
+<li><a href="https://win-premium.techidaily.com/can-i-securely-enhance-my-computer-performance-using-external-programs-insights-by-yl-computing/"><u>Can I Securely Enhance My Computer Performance Using External Programs? – Insights by YL Computing</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-convenient-options-easy-screen-recordings-for-dell-gear/"><u>In 2024, Convenient Options Easy Screen Recordings for Dell Gear</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-verify-your-youtube-account-a-simple-guide/"><u>In 2024, How to Verify Your YouTube Account - a Simple Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-time-tamed-on-film-easy-steps-for-slow-mo-video-using-photo-apps/"><u>In 2024, Time Tamed on Film Easy Steps for Slow-Mo Video Using Photo Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unmatched-8-vr-equipment-companion-guide/"><u>In 2024, Unmatched 8 VR Equipment Companion Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/total-byte-requirement-for-24-hours-of-movie-viewing-for-2024/"><u>Total Byte Requirement for 24 Hours of Movie Viewing for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-how-to-remove-audio-from-mp4/"><u>Updated In 2024, How to Remove Audio From MP4</u></a></li>
 </ul></div>
 

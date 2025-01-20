@@ -1,7 +1,7 @@
 ---
 title: Top 8 Solutions for When Your Laptop Won't Charge Despite Being Connected
-date: 2025-01-10T22:38:13.785Z
-updated: 2025-01-13T20:20:53.004Z
+date: 2025-01-15T21:44:16.278Z
+updated: 2025-01-19T18:41:32.069Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Top 8 Solutions for When Your Laptop Won't Charge Despite Being Connected
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -21,10 +25,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Download Any Available BIOS Update](https://games-able.techidaily.com/virtual-victory-joystick-vs-console-command/)
 * [Reinstall the Battery Drivers](https://twitter-videos.techidaily.com/in-2024-guide-downloading-twitters-videos-on-android-devices/)
 * [Test for a Defective Battery](https://facebook-video-content.techidaily.com/new-fb-profile-picture-dimensions/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -40,6 +40,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![A laptop adapter with a loose connection.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/laptop-adapter.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Aman Kumar / How-To Geek
 
  If you find that the power cord is loosely connected to the adapter brick, apply gentle pressure to firmly insert it into the adapter. Alternatively, you can unplug the power cord completely and then plug it back in again.
@@ -47,6 +51,10 @@ Aman Kumar / How-To Geek
 ##  2\. Connect the Laptop Adapter to a Different Socket
 
 ![Multiple power adaptors and cables plugged into a power strip](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/52731312553_e2b752b4ab_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jason Fitzpatrick / How-To Geek
 
@@ -60,19 +68,11 @@ Jason Fitzpatrick / How-To Geek
 
  Counterfeit chargers often charge laptops at an extremely slow pace or, in some cases, not charge at all. If your original laptop charger is malfunctioning, opt to purchase the same model charger directly from the laptop manufacturer online or in-store instead of resorting to a third-party charger.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  4\. Examine the Charging Port and Pin
 
  If your laptop is still not charging, you should carefully examine your laptop's charging port for any dust or debris that might have accumulated inside. If any dust or debris is present, it will prevent the charger from supplying power to your laptop, ultimately causing the issue at hand.
 
 ![Charging port on a laptop with visible dust surrounding it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/charging-port.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Aman Kumar / How-To Geek
 
@@ -85,6 +85,10 @@ Aman Kumar / How-To Geek
 Aman Kumar / How-To Geek
 
  If the charging pin is broken, you can easily cut the pin and connect a new one. However, if you don't feel confident in cutting and changing the pin yourself, you should contact an expert to do it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. Allow Your Laptop to Cool Down
 
@@ -101,7 +105,7 @@ Aman Kumar / How-To Geek
  Unfortunately, there is no one-size-fits-all set of instructions to update BIOS as different manufacturers have different methods. However, the general rule of thumb is to visit your motherboard manufacturer's website, access your [motherboard model's](https://extra-tips.techidaily.com/flash-flick-narrative-template/) downloads or support page, and then download the available BIOS update. You can check our guide on [how to update your BIOS](https://extra-skills.techidaily.com/in-2024-quick-windows-surfing-guide-unveiled/) for more information about the updating process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  7\. Reinstall the Battery Drivers
@@ -115,10 +119,6 @@ Aman Kumar / How-To Geek
  Right-click on the "Microsoft AC Adapter" driver and select the "Uninstall device" option. Similarly, uninstall the "Microsoft ACPI-Compliant Control Method Battery" driver.
 
 ![The Uninstall Device option in Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/uninstall-device.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once the drivers have been uninstalled, [restart your computer](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/). Upon restart, Windows will automatically reinstall both battery drivers. However, if it fails to reinstall them for any reason, press Windows+i to open the "Settings" app, click on "Windows Update," and then select "Check for Updates." Windows will now install the missing driver, which in this case is the battery driver, on your computer.
 
@@ -143,7 +143,7 @@ Aman Kumar / How-To Geek
 ![The underside of a laptop with the back removed and internal battery revealed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/battery.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Aman Kumar / How-To Geek
@@ -169,24 +169,22 @@ Aman Kumar / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-compiling-top-ios-recording-utilities/"><u>[New] Compiling Top iOS Recording Utilities</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/solved-issue-failed-to-create-conexant-audio-factory-the-smartaudio-will-now-exit/"><u>[Solved] Issue: “Failed to Create Conexant Audio Factory, The SmartAudio Will Now Exit”</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-pioneer-your-personal-brand-in-tiktok-with-dynamic-backgrounds-for-2024/"><u>[Updated] Pioneer Your Personal Brand in TikTok with Dynamic Backgrounds for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-superior-extra-memory-solution-for-sony-a7c/"><u>2024 Approved Superior Extra Memory Solution for Sony A7C</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-essence-of-polarr-revolutionizing-digital-photography/"><u>2024 Approved The Essence of Polarr Revolutionizing Digital Photography</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-power-of-asmr-discovering-its-advantages/"><u>2024 Approved The Power of ASMR Discovering Its Advantages</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-shots-with-understanding-luts/"><u>2024 Approved Transform Your Shots with Understanding LUTs</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-mastering-video-rotation-a-simple-and-efficient-process/"><u>In 2024, Mastering Video Rotation A Simple and Efficient Process</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-communication-the-art-of-using-zoom-in-win11/"><u>In 2024, Streamlining Communication The Art of Using Zoom in Win11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleash-creativity-no-cost-high-quality-text-psds/"><u>In 2024, Unleash Creativity No-Cost, High-Quality Text PSDs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-the-magic-of-motion-in-video-text-elements/"><u>In 2024, Unlock the Magic of Motion in Video Text Elements</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/masterpiece-moments-iphone-plus-androids-best-ig-covers/"><u>Masterpiece Moments IPhone + Android's Best IG Covers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastery-of-modern-tech-comprehensive-reviews-by-toms-hardware-experts/"><u>Mastery of Modern Tech: Comprehensive Reviews by Tom's Hardware Experts</u></a></li>
-<li><a href="https://games-able.techidaily.com/moza-r5-setup-at-499-ideal-newcomers-bundle/"><u>MOZA R5 Setup at $499 - Ideal Newcomer's Bundle</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/multilingual-ease-with-hotkey-integration-in-modern-windows-os/"><u>Multilingual Ease with Hotkey Integration in Modern Windows OS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/switch-to-picture-in-picture-for-youtube-videos-on-iphones-for-2024/"><u>Switch to Picture-in-Picture for YouTube Videos on iPhones for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/through-the-eyes-of-one-a-critical-look-at-3dr-for-2024/"><u>Through the Eyes of One A Critical Look at '3DR' For 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-fun-in-depth-look-at-the-maisto-rc-rock-crawler-perfect-for-families/"><u>Unveiling the Fun - In-Depth Look at the Maisto RC Rock Crawler, Perfect for Families</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/winning-the-battle-against-classpnpsys-glitches-on-windows-11-and-windows-7-computers/"><u>Winning the Battle Against CLASSPNP.SYS Glitches on Windows 11 and Windows 7 Computers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-simplified-process-for-posting-imovie-videos-on-vimeo/"><u>[New] In 2024, Simplified Process for Posting iMovie Videos on Vimeo</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-step-up-your-auditory-game-how-to-add-ringtones-and-sounds-that-stand-out-on-android/"><u>[New] Step Up Your Auditory Game How to Add Ringtones & Sounds that Stand Out on Android</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-supreme-reconciliation-of-vr-realms/"><u>[New] Supreme Reconciliation of VR Realms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tripod-triumphs-unbeatable-stability-for-phones/"><u>[New] Tripod Triumphs Unbeatable Stability for Phones</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-deciphering-youtubes-profit-for-a-mil-of-viewers/"><u>[Updated] In 2024, Deciphering YouTube’s Profit for A Mil of Viewers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-encyclopedia-of-hand-centered-interaction-systems/"><u>[Updated] The Encyclopedia of Hand-Centered Interaction Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-your-day-multitask-mastery-for-the-podcast-aficionado/"><u>2024 Approved Streamline Your Day Multitask Mastery for the Podcast Aficionado</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-comprehending-filmora-edits/"><u>2024 Approved The Ultimate Guide to Comprehending Filmora Edits</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-comprehensive-approach-to-fixing-kernel-memory-page-errors/"><u>A Comprehensive Approach to Fixing Kernel Memory Page Errors</u></a></li>
+<li><a href="https://win-net.techidaily.com/connexion-automatique-a-onedrive-sous-windows-10-and-11/"><u>Connexion Automatique À OneDrive Sous Windows 10 & 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-poco-x6-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco X6 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-motorola-razr-40-ultra-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Motorola Razr 40 Ultra to iPod | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/safety-advisory-chatgpt-for-windowsnot-a-security-risk/"><u>Safety Advisory: ChatGPT for Windows—Not a Security Risk</u></a></li>
+<li><a href="https://some-skills.techidaily.com/sync-music-and-visuals-the-art-of-canva-editing-for-2024/"><u>Sync Music & Visuals The Art of Canva Editing for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-essential-guide-to-ai-categories-public-private-and-personal-understanding-the-key-contrasts/"><u>The Essential Guide to AI Categories: Public, Private, and Personal - Understanding the Key Contrasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-flashy-game-collection-quick-and-lightweight-for-2024/"><u>Ultimate Flashy Game Collection - Quick and Lightweight for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/unraveling-freeze-frames-in-photobooth-recordings/"><u>Unraveling Freeze Frames in Photobooth Recordings</u></a></li>
 </ul></div>
 

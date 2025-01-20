@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  LUT Lovers Delight  Complimentary Sets for DJI's Mini/Air2\""
-date: 2024-08-21T00:24:38.329Z
-updated: 2024-08-22T00:24:38.329Z
+date: 2025-01-16T22:48:35.169Z
+updated: 2025-01-20T01:38:05.165Z
 tags: 
   - screen-recording
   - ai video
@@ -38,14 +38,15 @@ Surf the below discussed LUTS and select the filters that satisfy your needs pre
 
 ## 10 free LUTs for DJI Drone
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Aerial Sky
 
 This LUT focus on the original displays of the aerial space in the recordings. It applies the correct combination of colors, brightness, and saturation to convey the optimal visuals of the content.
 
 ![Free DJI LUTs - Aerial Sky](https://images.wondershare.com/filmora/article-images/2022/05/dji-luts-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Aerial Sky
 
@@ -69,72 +70,58 @@ Sun Set
 
 When the drones zoom through the sky, the blue shade gives out reflective recordings. This blue space LUT fixes the errors in the captures and helps to assign the perfect color gradings as per the requirements. The clarity of the sky and other blue elements like water are well-edited using this LUT. The respective attributes related to the blue shades are available with these blue space effects.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Free DJI LUTs - Blue Space](https://images.wondershare.com/filmora/article-images/2022/05/dji-luts-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Blue Space
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 5\. Matte
 
 If you want your captures to take up the matte texture, then apply this effect without hesitation. It gives you quality outcomes and you will witness the matte finish on the media files. The color gradients are adjusted to reach the matte looks of the content.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Free DJI LUTs - Matte](https://images.wondershare.com/filmora/article-images/2022/05/dji-luts-6.jpg)
 
 Matte
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ### 6\. Wheat Color
 
 The Wheat Color LUT focus on the brown shades. When you capture the landscapes and mountains, apply this effect to turn them into reality. It gives a natural outlook and brings you stunning results in no time.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Free DJI LUTs - Wheat Color](https://images.wondershare.com/filmora/article-images/2022/05/dji-luts-7.jpg)
 
 Wheat Color
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 7\. Vintage
 
 If you are interested in the old and vintage looks, then go for this LUT. When you apply this effect the entire timeline changes to its traditional appearance. It is something different from other LUTs in the collections. Many experienced photographers opt for this LUT to make the best of the captures.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![Free DJI LUTs - Vintage](https://images.wondershare.com/filmora/article-images/2022/05/dji-luts-8.jpg)
 
 Vintage
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 8\. Green Harmony
 
 It is an incredible LUT that adjusts the color gradients to the greenish pattern, and the freshness in the recordings is visible using this LUT. It enhances the content on the whole and displays with optimal brightness and saturation levels.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Free DJI LUTs - Green Harmony](https://images.wondershare.com/filmora/article-images/2022/05/dji-luts-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Green Harmony
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 9\. B&W
 
 It is one of the common LUTs to convert the videos or photos into the black and white format. Many editors and photographers use this black and white format to stay unique. The color gradients were assigned to display only the black and white shades on the content.
@@ -143,9 +130,6 @@ It is one of the common LUTs to convert the videos or photos into the black and 
 
 Black & White
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### 10\. Landscape
 
 When you record or capture the landscapes like plains, mountains, and valleys, this LUT effect portrays realistic images and videos. According to the landscape types, modify the settings in this LUT accordingly to enhance the overall appearance.
@@ -174,30 +158,16 @@ Price: $19
 
 There are nearly 50 different types of drone LUTS available in this collection. You can choose the relevant ones according to the content.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Paid DJI LUTs - Drone LUTS collections](https://images.wondershare.com/filmora/article-images/2022/05/dji-luts-13.jpg)
 
 Drone LUTS collections
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ### 3\. [Cinematic Drone LUT](https://vamify.com/products/drone-luts)
 
 Price: $29.9
 
 Here comes another film like LUTs that adds extra color gradients to the footage. It refines the settings like brightness and saturation levels to meet the picture quality. Many film lovers use this cinematic drone LUT to create the best content from the recordings. This LUT is compatible with all video editor platforms and gives you a hassle-free experience.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![Paid DJI LUTs - Cinematic Drone LUT](https://images.wondershare.com/filmora/article-images/2022/05/dji-luts-14.jpg)
 
 Cinematic Drone LUT
@@ -208,10 +178,11 @@ Price: $47.95
 
 This Cine collection LUTs is like the cinematic drone LUT with few changes in the setting related to the color gradients and brightness levels. This LUT optimizes the existing footage with its in-built effects to bring out the best in the recordings.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Paid DJI LUTs - Cine Collections](https://images.wondershare.com/filmora/article-images/2022/05/dji-luts-15.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Cine Collections
 
@@ -221,12 +192,13 @@ Price: $24.99
 
 It is a unique LUTs effect that works on every detail of the footage. The hue and saturation levels are set to optimal values. The footage changes according to the settings built with this effect.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![Paid DJI LUTs - Chromatica LUTS](https://images.wondershare.com/filmora/article-images/2022/05/dji-luts-16.jpg)
 
 Chromatica LUTS
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. [Buttery LUTS](https://www.shopmoment.com/digital-products/buttery-luts-dji-rec709)
 
@@ -237,6 +209,10 @@ Excellent LUTs to edit the landscape shots, and you can edit small detail on the
 ![Paid DJI LUTs - Buttery LUTS](https://images.wondershare.com/filmora/article-images/2022/05/dji-luts-17.jpg)
 
 Buttery LUTS
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. [Cine Vision LUTs](https://spectrumgrades.com/products/cinevision?%5Fpos=2&%5Fsid=f43190e97&%5Fss=r)
 
@@ -254,25 +230,20 @@ Price: $29
 
 There are nearly 40 different presets available in this pack, and each one is unique with cost-effective attributes. You can apply these LUTs and increase the media file clarity. It is simple to use and compatible with many editing platforms.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![Paid DJI LUTs - DJI Drone LUTs](https://images.wondershare.com/filmora/article-images/2022/05/dji-luts-19.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 DJI Drone LUTs
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 9\. [LUTS pro pack](https://www.ebay.com/itm/LUTs-Pro-Pack-For-DJI-Drones-With-DLOG-DLOG-M-Color-Profiles-All-Mavic-series-/352566871616)
 
 Price: $10.05
 
 Another pro pack adds extra effects to the footage, and you can use this LUT on any footage hassle-free. It exclusively works on the content by increasing the media file quality.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Paid DJI LUTs - LUTS pro pack](https://images.wondershare.com/filmora/article-images/2022/05/dji-luts-20.jpg)
 
 LUTS pro pack
@@ -283,9 +254,6 @@ Price: $10
 
 It is an exclusive drone LUT that works with the footage like a Pro, and the professional and newbie editors feel comfortable applying this effect to any footage. No more extra edits with the LUTs settings, but enable them directly to the footage to witness the changes in depth.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![Paid DJI LUTs - FPV Drone LUT](https://images.wondershare.com/filmora/article-images/2022/05/dji-luts-21.jpg)
 
 FPV Drone LUT
@@ -298,10 +266,13 @@ Grow Together
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Summarize:
 
 Thus, you had an elaborate discussion on the DJI LUTS in detail, and you can use the above-listed free and paid version of the LUTs to enhance the footage quality and clarity. Most LUTs are compatible with any editing platform. Download the favorite ones from the list and start applying them to your memorable footage to sound natural and realistic.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -325,8 +296,18 @@ Thus, you had an elaborate discussion on the DJI LUTS in detail, and you can use
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-youtube-versus-dailymention-identifying-key-gaps/"><u>[New] 2024 Approved YouTube Versus DailyMention Identifying Key Gaps</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-creating-stunning-3d-text-with-ps/"><u>[New] Creating Stunning 3D Text with PS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-windows-10-seamless-media-importation-techniques/"><u>[New] Unlocking Windows 10 Seamless Media Importation Techniques</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-lightened-transition-tactics/"><u>[Updated] 2024 Approved Lightened Transition Tactics</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-explore-the-best-historian-content-top-10-youtube-recommendations-for-2024/"><u>[Updated] Explore the Best Historian Content Top 10 YouTube Recommendations for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-blueprint-to-acquire-clean-images/"><u>[Updated] The Blueprint to Acquire Clean Images</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-video-editing-made-simple-using-windows-10s-built-in-features-easily/"><u>[Updated] Video Editing Made Simple Using Windows 10'S Built-In Features Easily</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-top-picks-free-fb-to-mp4-file-transformers/"><u>2024 Approved Top Picks Free FB to MP4 File Transformers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-viral-tiktok-sounds-into-personalized-calls/"><u>2024 Approved Transforming Viral TikTok Sounds Into Personalized Calls</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-optimal-flight-the-lipo-selection-saga/"><u>2024 Approved Unlocking Optimal Flight The LiPo Selection Saga</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-iphone-xs-advanced-photography-tools/"><u>In 2024, Unveiling iPhone X's Advanced Photography Tools</u></a></li>
+</ul></div>
 

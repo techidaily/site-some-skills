@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering the Art of Video From Still Photos Through Pixiz Techniques"
-date: 2024-08-21T00:25:07.865Z
-updated: 2024-08-22T00:25:07.865Z
+date: 2025-01-18T23:36:44.194Z
+updated: 2025-01-19T22:59:46.108Z
 tags: 
   - screen-recording
   - ai video
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/5f042bcf8e18adcc53cbb8d889707c4f827028b31
 ## Mastering the Art of Video From Still Photos Through Pixiz Techniques
 
 Hello guys, we all love to click photos and make minor edits to make it look more fabulous in the presentation. However, one of the best practices to make your photos look more gorgeous is making a slideshow of them. There are numerous tools available online and offline to make a photo video. Today I will share the two best ones, pixiz **online slideshow maker** and Wondershare Filmora. This article will give you a step-by-step guide to making a **pixiz photo video** and Wondershare Filmora slideshow. Let's begin!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1\. Practical advice about Pixiz
 
@@ -44,52 +48,40 @@ Don't know about Pixiz? Let me introduce you! Pixiz is an online photo editor pl
 * Short videos only
 * Not much customizable
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### How do you make photo videos using Pixiz?
 
 So let's discuss how to make a slideshow using Pixiz Online. You have to follow these steps, and your fantastic photo video will be ready.
 
 Step1Open the [Pixiz Website](https://en.pixiz.com/). Then, click the search bar and enter “slideshow” on the top left.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open pixiz website](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-1.jpg)
 
 Step2Now select any slideshow template by clicking on it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![click on slideshow template](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-2.jpg)
 
 Step3Click on the select photo option and choose a photo.
 
 ![choose a photo](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4You can add more photos, in the same way, one by one (till the maximum number). Check below if the template you've chosen has the option to control the effect and speed (optional). Then, click on the **Go** button.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![click on go button](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-4.jpg)
 
 Step5Now click on download and then save. Your photo video will be saved in GIF format.
 
 ![click on download and save](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2\. The best software for creating slideshows - [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ### About Filmora
 
 The powerful video editing program Filmora is offered by Wondershare. It offers you a wealth of sophisticated video editing features in a straightforward and user-friendly setting. A slideshow, commonly referred to as a photo video, also known as a slideshow. You can also add text, subtitles, effects, and other things to your movie. Although the software for Filmora can be downloaded for free, it has a watermark and few capabilities. The premium edition, on the other hand, has more features without a watermark.
@@ -104,21 +96,23 @@ Step1Download [Wondershare Filmora](https://tools.techidaily.com/wondershare/fil
 
 Step2Now **open** **Filmora** and **click** **new project**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![open filmora](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3**Import** photos by **clicking** (import media) and then drag and drop them.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![import photos](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-7.jpg)
 
 Step4 **Double-click the photo** to open options to make your photos fit the screen (in case there is a gap on the sides). A new box will appear. Under the primary option, click the **transform tab**. You can **increase** the **scale** option to make the photo fit.
 
 ![option to make the photo fit](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step5**Click** on the **Title** option in the top right and select the **title template**. **Drag and drop** the **title template** at the point of the video you want it to appear.
 
@@ -126,20 +120,18 @@ Step5**Click** on the **Title** option in the top right and select the **title t
 
 Step6**Double click the text** to open the box for **making edits in text**, font, color, and other options.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![double click on the text box](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-10.jpg)
 
 Step7Let's add some music. **Click** the **audio tab** at the top right. Now **choose** some **music** and then **drag and drop** to add.
 
 ![add some music](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step8You can **double-click** the music to open the **settings box** and make changes.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![change music](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-12.jpg)
 
 Step9To make your slideshow more appealing, you can also add transitions or effects.
@@ -148,10 +140,11 @@ Step9To make your slideshow more appealing, you can also add transitions or effe
 
 Step10After finishing all the editing, you can export your creation to any format you want.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![export creation to any format](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-14.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -160,7 +153,6 @@ So, Pixiz is an excellent service to make photo videos online by just uploading 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -184,8 +176,19 @@ So, Pixiz is an excellent service to make photo videos online by just uploading 
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-master-iphones-multi-tasked-capture-feature/"><u>[New] Master iPhone's Multi-Tasked Capture Feature</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-the-ultimate-bikers-camera-companion-top-hats-reviewed-and-ranked-2023/"><u>[New] The Ultimate Biker's Camera Companion – Top Hats Reviewed & Ranked 2023</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-total-data-usage-24-hour-videography-in-gbs/"><u>[New] Total Data Usage 24-Hour Videography in GBs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-improving-video-quality-during-iphone-shoots/"><u>2024 Approved Improving Video Quality During iPhone Shoots</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-compendium-for-professionals-in-vivacut-video-editing/"><u>2024 Approved The Ultimate Compendium for Professionals in VivaCut Video Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-15-timeless-classics-in-stop-motion-cinema-history/"><u>2024 Approved Top 15 Timeless Classics in Stop-Motion Cinema History</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elite-gear-high-performance-unmatched-style/"><u>Elite Gear High Performance, Unmatched Style</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-advanced-frameworks-for-documenting-e-learning-sessions/"><u>In 2024, Advanced Frameworks for Documenting E-Learning Sessions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-how-to-burn-video-to-dvd-on-mac/"><u>In 2024, How to Burn Video to DVD on Mac</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-insiders-blueprint-for-commanding-attention-with-posts/"><u>In 2024, The Insider's Blueprint for Commanding Attention with Posts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-8-methods-to-eliminate-blue-discoloration-from-your-television-display/"><u>Top 8 Methods to Eliminate Blue Discoloration From Your Television Display</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-power-of-vsco-color-grading-for-2024/"><u>Unveiling the Power of VSCO Color Grading for 2024</u></a></li>
+</ul></div>
 

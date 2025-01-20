@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unveiling the Magic of Seamless Sound Integration in Videos"
-date: 2024-08-21T00:27:49.108Z
-updated: 2024-08-22T00:27:49.108Z
+date: 2025-01-16T18:54:54.903Z
+updated: 2025-01-19T22:56:54.626Z
 tags: 
   - screen-recording
   - ai video
@@ -42,28 +42,31 @@ For the purpose of this article, I will be using the term “voiceover and “na
 
 But here's the good news: the way you add either option is the same in Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![add either option](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to add narration
 
 So the easiest way to add narration is directly to a project. The benefit of this is that you can record your narration inside Filmora while you watch the preview of your edited video.
 
 ![add narration to project](https://images.wondershare.com/filmora/guide/stt-tts-srt-09.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 A good example of this would be narrating a story on top of some still images and video clips from a recent vacation. (In most cases you would want to turn off the sound of the video clip, or at least use ducking to help the viewer focus on the narration.)
 
 You put the playhead where you want to start recording and hit the microphone icon under the preview window.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![hit microphone icon](https://images.wondershare.com/filmora/guide/stt-tts-srt-08.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 A 3-second countdown will pop up and start recording immediately after this countdown.
 
@@ -72,8 +75,9 @@ You can record your narration and click stop.
 After recording, you can trim and edit your narration, you can delete it and record it again, and can move it and edit it like any other feature.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Some Tips for Recording Narration
 
 Try playing the clip in the preview window to get a sense of what you want to say fits well with the space available in the project.
@@ -84,9 +88,6 @@ You can edit pauses or weak parts out of the voiceover to trim it up. But if it 
 
 Fortunately, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) comes equipped with video b-roll which is another great option. When using b-roll, it's better to use multiple shorter clips than one longer clip in most cases. But adding the same b-roll clip near the beginning and another section of the same b-roll clip, later on, should help you match the length of your narration to the video timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Narration is a great storytelling device
 
 Narration is a fantastic tool to have in your arsenal as a young filmmaker. It allows you to quickly communicate feelings, backstory, and context quickly and effectively.
@@ -99,10 +100,11 @@ It can also help make a connection with your audience because you can be relatin
 
 When adding voiceover or narration to your project, be sure to use a good USB microphone. A good quality sound will elevate your entire project and just requires a little planning.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![use good microphone](https://images.wondershare.com/filmora/article-images/2022/11/use-good-microphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Also, be sure to check that your external microphone is selected when you start recording. There's nothing worse than nailing the perfect narration and realizing it was recorded with the built-in mic, not your USB microphone.
 
@@ -142,8 +144,24 @@ Filmora makes it easy to add narration of voice-overs to your video projects. Do
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-decoding-youtubes-srt-download-with-3-methods/"><u>[New] In 2024, Decoding YouTube's SRT Download with 3 Methods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-instagram-image-addition-playbook/"><u>[New] The Instagram Image Addition Playbook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-ringtone-bazaar-navigating-online-sound-archives/"><u>[New] Ultimate Ringtone Bazaar Navigating Online Sound Archives</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-game-recording-mastery-utilizing-gameye-and-more/"><u>[Updated] Game Recording Mastery Utilizing GamEye and More</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-trailer-highlight-hodgepodge/"><u>[Updated] Ultimate Trailer Highlight Hodgepodge</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-2023s-ultimate-list-of-affordable-live-stream-software-and-apps/"><u>2024 Approved 2023’S Ultimate List of Affordable Live Stream Software and Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-synchronized-tasks-and-engaging-podcast-episodes/"><u>2024 Approved Synchronized Tasks and Engaging Podcast Episodes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-crafting-compelling-and-credible-documentary-scripts/"><u>2024 Approved The Ultimate Guide to Crafting Compelling and Credible Documentary Scripts</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/best-in-class-meme-layout-essentials-for-2024/"><u>Best-in-Class Meme Layout Essentials for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-xiaomi-redmi-note-12-4g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Xiaomi Redmi Note 12 4G</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-change-location-on-yik-yak-for-your-xiaomi-redmi-note-13-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Xiaomi Redmi Note 13 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-path-to-professional-looking-colors-in-gopro-editing/"><u>In 2024, The Path to Professional-Looking Colors in GoPro Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveil-windows-xp-professional-for-video-production/"><u>In 2024, Unveil Windows XP Professional for Video Production</u></a></li>
+<li><a href="https://win-forum.techidaily.com/solutions-for-completely-full-hard-drive-on-windows-11/"><u>Solutions for Completely Full Hard Drive on Windows 11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/take-it-upward-expert-techniques-for-phones-for-2024/"><u>Take It Upward Expert Techniques for Phones for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-spectrums-impact-applying-color-dynamics-for-2024/"><u>The Spectrum's Impact Applying Color Dynamics for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-your-vision-the-best-360-livestimation-devices-for-2024/"><u>Unleash Your Vision The Best 360° Livestimation Devices for 2024</u></a></li>
+</ul></div>
 

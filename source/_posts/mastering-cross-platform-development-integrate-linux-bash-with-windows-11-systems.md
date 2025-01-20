@@ -1,7 +1,7 @@
 ---
 title: "Mastering Cross-Platform Development: Integrate Linux Bash with Windows 11 Systems"
-date: 2025-01-01T19:25:15.761Z
-updated: 2025-01-07T05:07:34.173Z
+date: 2025-01-16T00:03:11.711Z
+updated: 2025-01-19T16:11:09.098Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
 ---
 
 ## Mastering Cross-Platform Development: Integrate Linux Bash with Windows 11 Systems
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -20,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
 * [Use the Ubuntu Monospace Font in the Console](https://facebook-record-videos.techidaily.com/new-in-2024-diy-youtube-openers-technique-one-and-technique-two/)
 * [Use the Ubuntu Monospace Font in the Terminal](https://screen-video-capture.techidaily.com/in-2024-picking-the-right-software-bandicam-versus-camtasia/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  First, enable the Windows Subsystem for Linux (WSL) from the Features window or via the "wsl --install" command. After rebooting your PC, install Ubuntu or any other Linux distribution of your choice from the Microsoft Store.
@@ -29,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
 ##  What You Need to Know About Windows 10's Bash Shell
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  How Windows Subsystem for Linux 1 (WSL1) Works
@@ -45,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
  There are some limitations here. It won't officially work with [graphical Linux desktop applications](https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-instagram-profit-the-ultimate-strategy-blueprint/). Not every command-line application works, either, as the feature isn't perfect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  How Windows Subsystem for Linux 2 (WSL2) Works
@@ -78,6 +86,10 @@ wsl --install
 
 ![Linux distros available on the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/ms-store-linux.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You'll see a list of every Linux distribution currently available in the Windows Store.This includes [Ubuntu, openSUSE Leap, and openSUSE Enterprise](https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-nokia-c300-drfone-by-drfone-virtual-android/), Debian, Kali, and others. You can even find a few remixes of Fedora, though there isn't an official version available as of November 2023.
 
  If you want a specific distro, search for that rather than "Linux." You'll get better results.
@@ -101,10 +113,6 @@ wsl --install
  You can pin this application shortcut to your Start menu, taskbar, or desktop for easier access.
 
 ![Searching for "Ubuntu" in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/ubuntu-search.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The first time you launch the Linux environment, you're be prompted to enter a UNIX username and password. These don't have to match your Windows username and password, but will be used within the Linux environment.
 
@@ -154,6 +162,10 @@ wsl --install
 
 ![Installing GNU Compiler Collection with apt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985e7d80a6b.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Install the Ubuntu Font for a True Ubuntu Experience
 
  If you want a more accurate Ubuntu experience on Windows 10, you can also install the Ubuntu fonts and enable them in the terminal. You don't have to do this, as the default Windows command prompt font looks pretty good to us, but it's an option.
@@ -162,16 +174,12 @@ wsl --install
 
 ![The default font, Consolas.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a9864cb2035c.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To install the font, first download the [Ubuntu Font Family](http://font.ubuntu.com/) from Ubuntu's website. Open the downloaded .zip file and locate the "UbuntuMono-R.ttf" file. This is the Ubuntu monospace font, which is the only one used in the terminal. It's the only font you need to install.
 
 ![Open the font ZIP file, then double-click the font you want to preview or install.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985eba01a04.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Double-click the "UbuntuMono-R.ttf" file and you'll see a preview of the font. Click "Install" to install it to your system.
@@ -195,7 +203,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueType
 ![Create a new string named &quot;000&quot;, then set the value to &quot;Ubuntu Mono&quot;.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a98652a926c4.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch an Ubuntu window, right-click the title bar, and then select the "Properties" command. Click the "Font" tab, and then select "Ubuntu Mono" in the font list.
@@ -203,7 +211,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueType
 ![Right-click the title bar of the terminal application you're using, go to &quot;Properties,&quot; then click &quot;Font.&quot; Select &quot;Ubuntu Mono&quot; from the list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a986560320a0.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use the Ubuntu Monospace Font in the Terminal
@@ -212,19 +220,11 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueType
 
 ![Open the Terminal Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/open-settings-terminal.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Open to Defaults > Appearance, then select "Ubuntu Mono" from the list of available fonts.
 
  The Terminal automatically expands or collapses the labels in the left sidebar depending on the size of your window, much like the Settings app does. You may not see the "Default" text label depending on the size of your window.
 
 ![Enable the Ubuntu Mono font.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/font-ubuntu-mono.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Remember: software you install in the Bash shell is restricted to the Bash shell. You can access these programs from the Command Prompt, PowerShell, or elsewhere in Windows, but only if you [run the bash -c command](https://vp-tips.techidaily.com/building-a-brand-with-captivating-haul-videos-and-edits/).
 
@@ -243,20 +243,16 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueType
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-hone-your-skills-how-to-seamlessly-post-videos-to-instagram-via-desktop/"><u>[New] In 2024, Hone Your Skills How to Seamlessly Post Videos to Instagram via Desktop</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-dissecting-fraps-screen-capture-features/"><u>[Updated] Dissecting Fraps Screen Capture Features</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-get-rid-of-youtube-distractions-ad-blocking-on-chrome-firefox-and-ios/"><u>[Updated] Get Rid of YouTube Distractions Ad-Blocking on Chrome, Firefox & iOS</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-smile-and-watch-your-guide-to-the-top-15-funny-youtubers/"><u>[Updated] Smile and Watch Your Guide to the Top 15 Funny YouTubers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-5-cloud-based-voice-customizers-for-chrome-os-vocal-transformation-tools-reviewed/"><u>[Updated] Top 5 Cloud-Based Voice Customizers for Chrome OS Vocal Transformation Tools Reviewed</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-uncharted-territory-latest-windows-10-apps-and-games/"><u>In 2024, Uncharted Territory Latest Windows 10 Apps & Games</u></a></li>
-<li><a href="https://extra-support.techidaily.com/merging-melodies-and-memories-online-for-2024/"><u>Merging Melodies and Memories Online for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/new-release-gtx-1650-super-driver-updates-compatible-with-windows-11/"><u>New Release: GTX 1650 SUPER Driver Updates Compatible with Windows 11</u></a></li>
-<li><a href="https://win-online.techidaily.com/official-the-simpsons-collection-of-desktop-walls-photos-and-icons-from-yl-software/"><u>Official The Simpsons Collection of Desktop Walls, Photos & Icons From YL Software</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-fixing-silent-realtek-audio-dac-complete-guide/"><u>Solved: Fixing Silent Realtek Audio DAC - Complete Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-sideways-surprise-decoding-instagram-video-strange-behavior-for-2024/"><u>The Sideways Surprise Decoding Instagram Video Strange Behavior for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-voice-maestros-toolkit-free-applications-to-enrich-your-auditory-palette-for-2024/"><u>The Voice Maestro's Toolkit Free Applications to Enrich Your Auditory Palette for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-your-podcast-with-these-google-upload-insights-for-2024/"><u>Transform Your Podcast with These Google Upload Insights for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/understanding-sudden-pause-in-photobooth-videos-for-2024/"><u>Understanding Sudden Pause in Photobooth Videos for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-mycam-in-action-a-detailed-review-of-its-recording-abilities-for-2024/"><u>[New] MyCam in Action A Detailed Review of Its Recording Abilities for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-and-technique-of-professional-android-time-lapses/"><u>[New] The Art and Technique of Professional Android Time-Lapses</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-5-high-definition-screens-for-ps5/"><u>[New] Top 5 High-Definition Screens for PS5</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-techniques-to-lower-audio-levels-in-os-xwindows/"><u>2024 Approved Techniques to Lower Audio Levels in OS X/Windows</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-definitive-guide-to-avoiding-youtube-copyright-issues/"><u>2024 Approved The Definitive Guide to Avoiding YouTube Copyright Issues</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/asfmpeg-avs/"><u>網站無限制地免費改變ASF格式成MPEG - 寶麗家AVS轉換程式</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-baldurs-gate-3-from-crashing-on-your-pc-step-by-step-solution/"><u>How to Prevent Baldur's Gate 3 From Crashing on Your PC - Step-by-Step Solution</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/superior-storytellers-sanctuary-for-2024/"><u>Superior Storyteller's Sanctuary for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-clearing-digital-photo-borders-for-2024/"><u>The Ultimate Guide to Clearing Digital Photo Borders for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-your-windows-environment-the-gpo-overhaul-process/"><u>Transforming Your Windows Environment: The GPO Overhaul Process</u></a></li>
 </ul></div>
 

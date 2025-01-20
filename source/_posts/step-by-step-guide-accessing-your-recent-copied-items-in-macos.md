@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Accessing Your Recent Copied Items in macOS"
-date: 2025-01-09T19:05:30.819Z
-updated: 2025-01-13T18:41:48.204Z
+date: 2025-01-15T19:05:21.869Z
+updated: 2025-01-19T17:24:57.989Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 
  If you do a lot of copying and pasting between documents on your Mac, you might find that only being able to work with one item at a time is a real limitation. Fortunately, there are apps you can use that let you access your entire clipboard history.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Access the Clipboard in Finder
 
  You can view the contents of your clipboard in macOS at any time. Just open the Finder using the icon in your Dock, or by clicking on your desktop, then go to Edit > Show Clipboard.
@@ -30,14 +34,10 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 ![The Finder clipboard view in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/the-finder-clipboard-view-in-macos.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The clipboard viewer is a [useful Finder feature](https://remote-screen-capture.techidaily.com/in-2024-low-cost-android-calls-highest-ranking-options/) that can be handy if you simply need to check what's on the clipboard right now, especially if you do a lot of [copying and pasting on your Mac](https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-itel-s23plus-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/). But it's pretty limited otherwise.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to See Your Mac Clipboard History
 
@@ -55,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 
 ![Maccy preferences](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/maccy-preferences.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can now use the app as a full clipboard replacement. Just click the icon in the menu bar to see a list of all the items you've recently copied. There are keyboard shortcuts assigned to the latest nine items on the list; otherwise, just find the item in the list and click it to paste it into a document. There's also a search box to help you find what you're looking for.
 
 ![Selecting items from the clipboard history in Maccy.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/select-items-from-the-clipboard-history-in-maccy.png) 
@@ -62,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
  Maccy has a lot of extra options worth exploring in the Preferences, including some that are useful for privacy. For example, the "Ignore" tab lets you exclude certain apps from having their contents copied to the clipboard, and the "Advanced" tab has a "Clear history on quit" option that ensures nothing will remain on your clipboard for too long.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Pasty: A Premium Clipboard History Tool
@@ -70,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
  If you need a bit more power, there are a lot of paid options to choose from. [Pasty](https://getpasty.app) is a good choice, as it's functional enough to use for free. You can upgrade to the full version through the [App Store](https://apps.apple.com/us/app/clipboard-manager-pasty/id1544620654) for a one-off lifetime payment of $14.99, or take your pick from monthly or yearly subscriptions.
 
 ![Pasty interface visible at the top of a macOS desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/pasty-places-a-bar-across-the-top-of-your-screen-when-activated.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Pasty provides a straightforward onboarding process when you first launch it that helps to get the app set up as you need it.
 
@@ -90,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 ![Assigning content from the clipboard into a Space on Pasty](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/drag-and-drop-into-spaces-in-pasty.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Pasty also has some useful privacy features, including the ability to pause the app for a set time, to exclude specific apps from having content copied to the clipboard, and to automatically clear the clipboard after anywhere from an hour to a year.
@@ -114,20 +114,18 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-mastering-viral-content-top-50plus-creative-quotes-for-tiktok/"><u>[New] 2024 Approved Mastering Viral Content Top 50+ Creative Quotes for TikTok</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-power-of-prolonged-shutter-iphone-burst-mode/"><u>[New] The Power of Prolonged Shutter IPhone Burst Mode</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-7-strategies-for-delicious-food-vids/"><u>[New] Top 7 Strategies for Delicious Food Vids</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-tweetturnstile-how-video-trends-surge-online/"><u>[New] TweetTurnstile How Video Trends Surge Online</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-vacation-adventures-reimagined-this-years-top-classics/"><u>[New] Vacation Adventures Reimagined This Year's Top Classics</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-digital-darkroom-mastering-color-opposites/"><u>[Updated] 2024 Approved Digital Darkroom Mastering Color Opposites</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-smooth-video-playback-for-televisions-with-youtube/"><u>[Updated] Smooth Video Playback for Televisions with YouTube</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-photographers-toolkit-polarr-edition/"><u>2024 Approved The Essential Photographer's Toolkit - Polarr Edition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tips-for-dynamic-animations-using-movie-maker/"><u>2024 Approved Tips for Dynamic Animations Using Movie Maker</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-realme-narzo-n53-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Realme Narzo N53 Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-mystery-of-facebooks-hidden-activities/"><u>In 2024, Unlocking the Mystery of Facebook's Hidden Activities</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-error-code-0x8007000f-running-tasks-failure/"><u>Mastering Windows' Error Code 0X8007000F: Running Tasks Failure</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/raft-banner-templates-get-them-here-for-2024/"><u>Minecraft Banner Templates Get Them Here for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-key-to-smooth-auditory-transitions-for-2024/"><u>The Key to Smooth Auditory Transitions for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-oppo-a58-4g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Oppo A58 4G Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-captioning-images-with-text/"><u>[New] The Art of Captioning Images with Text</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essential-guide-for-perfecting-crossfade-artistry-with-audacity/"><u>[New] The Essential Guide for Perfecting Crossfade Artistry with Audacity</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-truth-apples-face-id-against-samsung-writers-face-matching/"><u>[New] Unveiling the Truth Apple's Face ID Against Samsung’ Writers' Face-Matching</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-most-popular-fb-videos-download-now/"><u>[Updated] In 2024, Most Popular FB Videos - Download Now</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-economics-of-successful-podcasting/"><u>[Updated] The Economics of Successful Podcasting</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-essential-mac-capturing-apps-beyond-the-traditional-bandicam/"><u>2024 Approved Essential Mac Capturing Apps Beyond the Traditional Bandicam</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-8-hubs-for-3d-graffiti-typefaces/"><u>2024 Approved Top 8 Hubs for 3D Graffiti Typefaces</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-xiaomi-mix-fold-3-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Xiaomi Mix Fold 3 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-error-1015-while-restoring-iphone-14-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to fix error 1015 while restoring iPhone 14 Pro Max | Stellar</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-google-pixel-7a-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Google Pixel 7a Phones with/without a PC</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-iphone-11-pro-max-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your iPhone 11 Pro Max without Security Questions?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/maximize-your-digital-life-with-the-lenovo-tab-m10-hd-2020-an-in-depth-review-on-affordable-web-and-media-tablets/"><u>Maximize Your Digital Life with the Lenovo Tab M10 HD 2020: An In-Depth Review on Affordable Web and Media Tablets</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-iphone-xs-advanced-photography-tools-for-2024/"><u>Unveiling iPhone X's Advanced Photography Tools for 2024</u></a></li>
 </ul></div>
 

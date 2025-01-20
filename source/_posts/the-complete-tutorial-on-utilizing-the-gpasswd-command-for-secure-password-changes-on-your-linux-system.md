@@ -1,7 +1,7 @@
 ---
 title: The Complete Tutorial on Utilizing the Gpasswd Command for Secure Password Changes on Your Linux System
-date: 2025-01-08T19:34:00.223Z
-updated: 2025-01-13T20:21:39.880Z
+date: 2025-01-14T16:30:07.133Z
+updated: 2025-01-19T23:37:33.347Z
 tags:
   - desktop
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## The Complete Tutorial on Utilizing the Gpasswd Command for Secure Password Changes on Your Linux System
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Use gpasswd to manage group members & passwords, avoiding security risks & controlling group access efficiently.
@@ -22,6 +18,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * Execute commands like "sudo gpasswd -a user group" to add users and "sudo gpasswd -d user group" to remove them.
 
  Want an easy solution to managing group members and passwords on Linux? The gpasswd command will help you do that. It's used for managing and administering the "/etc/group" and "/etc/gshadow" passwords, members, and administrators. Let's get started.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Makes the gpasswd Command Useful
 
@@ -49,7 +49,7 @@ gpasswd [option] group
  We'll see how to use these options in the upcoming sections of the guide.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Setting Password for a Group
@@ -74,6 +74,10 @@ sudo gpasswd demogroup
 
 ![The Linux terminal displaying the process of setting a new password for a group using the gpasswd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-7.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now if I try to log into this group, the system will ask for a password. That's because I'm not a member of the group. To log into the group, run:
 
 newgrp demogroup
@@ -81,7 +85,7 @@ newgrp demogroup
 ![The Linux terminal showing the process of logging into a group in Linux using the newgrp command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-4.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Removing Password from Group
@@ -93,10 +97,6 @@ sudo gpasswd -r demogroup
 ![The Linux terminal showing the process of removing the password from a a group in Linux using the gpasswd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/10-3.png) 
 
  If you try to log into the group now as a member, you'll be able to do so without entering the password.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Adding a User to a Group
 
@@ -110,15 +110,15 @@ sudo gpasswd -a zunaid demogroup
 
 ![The Linux terminal showing how to use the gpasswd command to add a member to a group](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can confirm whether the member was added or not. For that, use the below command:
 
 getent group demogroup
 
 ![The Linux terminal shows the current members of the group named demogroup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/6-7.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  As you can see, I've successfully added myself to the group using gpasswd. For adding multiple users, you'll need to issue separate commands for each, like this:
 
@@ -140,6 +140,10 @@ sudo gpasswd -d zunaid demogroup
 
 ![The Linux terminal showing how to remove a user from a group using the gpasswd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/7-6.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Again, you can confirm if the user was removed successfully by [listing the group members](https://hardware-updates.techidaily.com/comprehensive-guide-downloading-and-installing-canon-ip1-10-drivers-on-windows-windows-111087/) with this command:
 
 getent group demogroup
@@ -160,19 +164,11 @@ sudo gpasswd -M user2,user3 demogroup
 
 ![The Linux terminal showing the process of setting the list of members of a group using the gpasswd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/11-3.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now if you check the members list of the group, you should see that the previous members are not there. Instead, you'll find the new members.
 
 getent group demogroup
 
 ![The Linux terminal displaying the current the members of a group in Linux after setting the members list using gpasswd](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/12-2.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Promoting a User as the Group Administrator
 
@@ -184,6 +180,10 @@ sudo gpasswd -A zunaid demogroup
 
 ![The Linux terminal showcasing how to make a user the administrator of a group using the gpasswd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/8-4.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This doesn't give any output to the terminal. However, you can see the list of administrators of the group to confirm if the operation was successful. Do that with this command:
 
 sudo cat /etc/gshadow
@@ -191,7 +191,7 @@ sudo cat /etc/gshadow
 ![The Linux terminal displaying the the administrators of every group in Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/9-3.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  gpasswd Makes Group Management Easy
@@ -213,16 +213,21 @@ sudo cat /etc/gshadow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-complete-guide-to-safaris-picture-in-picture-mode/"><u>[New] The Complete Guide to Safari's Picture-in-Picture Mode</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-action-plan-from-ttml-and-xml-to-srt-translation/"><u>[New] The Ultimate Action Plan From TTML & XML to SRT Translation</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-liberating-laughter-from-lockdown-20-humorous-fb-incarceration-moments/"><u>[Updated] 2024 Approved Liberating Laughter From Lockdown 20 Humorous FB Incarceration Moments</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-practical-methods-reflecting-video-via-vlc-software/"><u>[Updated] In 2024, Practical Methods Reflecting Video via VLC Software</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-fascinating-world-of-stock-pictures-and-meme-lore/"><u>2024 Approved The Fascinating World of Stock Pictures & Meme Lore</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-vivo-s18e-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Vivo S18e to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-a-stunning-video-resume-4-top-tools-and-free-resources/"><u>In 2024, Create a Stunning Video Resume 4 Top Tools and Free Resources</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-understanding-the-technology-behind-vr-goggles/"><u>In 2024, Understanding the Technology Behind VR Goggles</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/lost-iphone-files-on-mac-get-them-back-with-this-powerful-recovery-software/"><u>Lost iPhone Files on Mac? Get Them Back with This Powerful Recovery Software!</u></a></li>
-<li><a href="https://win-best.techidaily.com/ogg-mp3-ott-movavi/"><u>OGG 아이콘을 MP3로 바꾸기: 원자성 OTT 직접 변환기 - Movavi</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-picks-from-walmart-in-july-2024-exclusive-offers/"><u>Top Picks From Walmart in July 2024: Exclusive Offers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-exploring-the-4k-marvel-sony-xperia-xz-premium-reviewed/"><u>[New] 2024 Approved Exploring the 4K Marvel Sony Xperia XZ Premium Reviewed</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ailoring-your-content-to-perfection-youtube-edits-in-sony-vegas-style/"><u>[New] Tailoring Your Content to Perfection YouTube Edits in Sony Vegas Style</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-harness-the-power-of-imagery-top-7-free-thumbnail-makers/"><u>[Updated] In 2024, Harness the Power of Imagery Top 7 Free Thumbnail Makers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-photographers-weigh-in-the-aurora-verdict/"><u>[Updated] Photographers Weigh In The Aurora Verdict</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-tier-hdr-camera-selection-made-easy/"><u>[Updated] Top-Tier HDR Camera Selection Made Easy</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-launching-hit-online-streams/"><u>2024 Approved The Ultimate Guide to Launching Hit Online Streams</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ais-wit-workshop-do-computers-learn-to-chuckle/"><u>AI's Wit Workshop: Do Computers Learn to Chuckle?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-guide-to-video-editing-in-windows-8-movie-maker/"><u>In 2024, The Complete Guide to Video Editing in Windows 8 Movie Maker</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-easy-way-to-snap-spectacular-slow-mo-on-android/"><u>In 2024, The Easy Way to Snap Spectacular Slow Mo on Android</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-samsung-galaxy-f34-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Samsung Galaxy F34 5G</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-timers-without-a-dollar/"><u>In 2024, Ultimate Timers Without a Dollar</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/optimized-with-cookiebot-technology-boost-your-online-traffic/"><u>Optimized with Cookiebot Technology: Boost Your Online Traffic</u></a></li>
+<li><a href="https://article-tips.techidaily.com/talk-translator-essential-offline-text-recognition-software-for-2024/"><u>Talk Translator Essential Offline Text Recognition Software for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-crafting-winning-giveaway-posts-on-facebook-for-2024/"><u>The Art of Crafting Winning Giveaway Posts on Facebook for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-nokia-c110-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Nokia C110 Device</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/when-and-where-do-countries-celebrate-thanksgiving/"><u>When and Where Do Countries Celebrate Thanksgiving?</u></a></li>
 </ul></div>
 

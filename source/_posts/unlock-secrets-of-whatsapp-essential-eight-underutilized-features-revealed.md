@@ -1,7 +1,7 @@
 ---
 title: "Unlock Secrets of WhatsApp: Essential Eight Underutilized Features Revealed!"
-date: 2025-01-12T16:33:12.861Z
-updated: 2025-01-13T16:47:06.349Z
+date: 2025-01-17T20:19:08.307Z
+updated: 2025-01-19T18:46:46.916Z
 tags:
   - web
 categories:
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 
 ![Pinning a message in the WhatsApp app on Android](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-pinning-a-message-in-the-whatsapp-app-on-android.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2  Hide Your Status From Selected Contacts 
 
  WhatsApp allows you to [control who can view your status updates](https://extra-support.techidaily.com/step-by-step-install-and-utilize-ifunny-memes-for-2024/). For instance, if you don't want your colleagues to see your personal status updates, you can block them from viewing it. Similarly, if you only want to share certain status updates with a specific group, like close friends, you can adjust the settings accordingly.
@@ -45,11 +49,7 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 ![Excluding some contacts from seeing my status on WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-excluding-some-contacts-from-seeing-my-status-on-whatsapp.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3  Prevent Others From Seeing You’ve Read Their Messages 
@@ -59,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
  Once you turn it off, the blue check marks won't appear under messages, even if you've seen them. This way, the sender won't know you've read their message, allowing you to respond at your convenience. To disable read receipts, open Settings, go to “Privacy,” and turn off the toggle next to “Read Receipts.”
 
 ![Disabling read receipts in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-disabling-read-receipts-in-whatsapp.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  However, this feature works both ways: you also won't be able to see when others have read your messages. Also, remember that this setting doesn't apply to group chats.
 
@@ -74,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 
 ![Selecting a custom call or text notification tone for a specific contact in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-selecting-a-new-tone-for-specific-contacts-in-whatsapp.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5  Send a Message to Multiple Contacts at Once 
 
  We all have times when we need to [send the same message to multiple contacts](https://some-knowledge.techidaily.com/in-2024-image-malleability-the-art-of-photographic-warping/), whether it’s an event invitation, a holiday greeting, or a life update. Instead of sending the same message individually, you can use WhatsApp's Broadcast Lists feature. This feature lets you create a list of contacts and send a message to all of them at once.
@@ -85,7 +93,7 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 ![Creating a new broadcast list in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-creating-a-new-broadcast-list-in-whatsapp.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6  Use Avatars and Custom Stickers 
@@ -100,14 +108,6 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 
 ![Checking the custom avatar stickers and profile photo in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/6-checking-the-custom-avatar-stickers-and-profile-photo-in-whatsapp.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7  Set Custom Wallpapers for Individual Contacts 
 
  WhatsApp allows you to [use custom wallpapers for your chats](https://tech-savvy.techidaily.com/cybercrimes-calculated-courtship-schemes/), adding a personal touch to your communication. If you currently use the default wallpaper for all contacts, consider using unique wallpapers for different contacts to make each chat more appealing and distinctive.
@@ -116,12 +116,16 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 
 ![Selecting a custom chat wallpaper for a contact in WhatsApp on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-selecting-a-new-whatsapp-wallpaper-in-whatsapp.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To set a custom wallpaper for a contact on Android, open the chat, tap the three vertical dots in the top-right corner, and select "Wallpaper." Then, choose a wallpaper and tap "Set Wallpaper." When prompted, select "For This Chat."
 
 ![Changing a wallpaper for a particular chat in WhatsApp on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-changing-a-wallpaper-for-a-particular-chat-in-whatsapp.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8  Share Your Live Location with Others 
@@ -137,16 +141,12 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 ![Selecting the duration of live location sharing in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/11-selecting-the-duration-or-live-location-sharing-in-whatsapp.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To stop sharing your location with a particular contact, tap "Stop Sharing."
 
 ![Stopping the location sharing in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/10-stopping-the-location-sharing-in-whatsapp.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -167,24 +167,17 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-captivating-videos-start-here-these-7-royalty-free-audios/"><u>[New] 2024 Approved Captivating Videos Start Here These 7 Royalty-Free Audios</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-streamline-your-movies-in-windows-10-with-these-techniques/"><u>[New] Streamline Your Movies in Windows 10 with These Techniques</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-a-stepwise-approach-for-effective-periscope-video-storage/"><u>[Updated] In 2024, A Stepwise Approach for Effective Periscope Video Storage</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-dji-mavic-pro-pioneering-the-aerial-photography-frontier/"><u>[Updated] In 2024, DJI Mavic Pro Pioneering the Aerial Photography Frontier</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-fix-red-eyes-quickly-in-photos-on-ios-without-cost/"><u>[Updated] In 2024, Fix Red Eyes Quickly in Photos on iOS Without Cost</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-survey-diverse-categories-in-visual-media-tech/"><u>[Updated] Survey Diverse Categories in Visual Media Tech</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-most-affordable-cloud-vendors-listed/"><u>2024 Approved Top 10 Most Affordable Cloud Vendors Listed</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Motorola Moto G04? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-enjoy-uninterrupted-youtube-with-effective-adblocking-methods/"><u>In 2024, Enjoy Uninterrupted YouTube with Effective Adblocking Methods</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-rise-of-popular-images-a-deep-dive-into-meme-culture/"><u>In 2024, The Rise of Popular Images A Deep Dive Into Meme Culture</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-streams-best-4k-video-downloaders-summarized/"><u>In 2024, Transform Your Streams Best 4K Video Downloaders Summarized</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultra-clarity-the-new-era-of-hd-monitors-envy-27/"><u>In 2024, Ultra Clarity The New Era of HD Monitors - Envy 27</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-inexpensive-cloud-storage-services/"><u>In 2024, Unveiling Inexpensive Cloud Storage Services</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-vector-image-fundamentals-introduction-and-categories/"><u>In 2024, Vector Image Fundamentals Introduction & Categories</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ransomware-explained-podcasts-aided-by-budget-phones/"><u>Ransomware Explained: Podcasts Aided by Budget Phones</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-oppo-k11x-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Oppo K11x Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-sites-for-fetching-got-ringtone-downloads-for-2024/"><u>Top Sites for Fetching GoT Ringtone Downloads for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-delving-into-vrs-potential-and-limitations-for-2024/"><u>[New] Delving Into VR's Potential and Limitations for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-teleportation-illusions-in-visual-effects-artistry/"><u>[New] Teleportation Illusions in Visual Effects Artistry</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-discovering-phantoms-temporal-expansion-capabilities/"><u>[Updated] 2024 Approved Discovering Phantom's Temporal Expansion Capabilities</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-edge-of-gaming-technology-samsung-ue590-monitor/"><u>[Updated] The Edge of Gaming Technology Samsung UE590 Monitor</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-how-to-activate-a-virtual-grid-display-for-meet-users/"><u>2024 Approved How to Activate a Virtual Grid Display for Meet Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-premier-selection-10-premium-image-replace-kits/"><u>2024 Approved Premier Selection 10 Premium Image Replace Kits</u></a></li>
+<li><a href="https://fox-links.techidaily.com/behind-the-scenes-how-to-master-voice-manipulation-with-free-tools-for-2024/"><u>Behind the Scenes How to Master Voice Manipulation with Free Tools for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-luminary-lessons-teaching-the-power-of-proper-lighting/"><u>In 2024, Luminary Lessons Teaching the Power of Proper Lighting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-8-mobile-mosaics-best-blend-of-affordable-and-premium-android-videomosaic-apps/"><u>In 2024, Top 8 Mobile Mosaics Best Blend of Affordable and Premium Android Videomosaic Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionizing-cycling-experience-the-transformative-impact-of-photochromic-hud-glasses-techradar/"><u>Revolutionizing Cycling Experience - The Transformative Impact of Photochromic HUD Glasses | TechRadar</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-create-dramatic-videos-a-beginners-guide-to-slow-motion-in-windows-live-movie-maker/"><u>Updated Create Dramatic Videos A Beginners Guide to Slow Motion in Windows Live Movie Maker</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/iuocquodsplusodqeocpoodsplusobpplusoctplusodsplusodlplusodqplusobquocouocrplusocuplusocutog6ieq55sx44gr6yg444kt44gg6zplusz5qw944ks44or44k944kz44oz44g457ch5y22/"><u>オンラインでシンプルなアクセス: 自由に選んだ音楽をパソコンへ簡単無料ダウンロード</u></a></li>
 </ul></div>
 

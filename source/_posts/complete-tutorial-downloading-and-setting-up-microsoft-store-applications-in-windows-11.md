@@ -1,7 +1,7 @@
 ---
 title: "Complete Tutorial: Downloading and Setting Up Microsoft Store Applications in Windows 11"
-date: 2025-01-06T11:08:26.510Z
-updated: 2025-01-06T22:22:32.059Z
+date: 2025-01-16T19:53:21.118Z
+updated: 2025-01-19T16:12:13.832Z
 tags:
   - deals
 categories:
@@ -11,14 +11,14 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 ## Complete Tutorial: Downloading and Setting Up Microsoft Store Applications in Windows 11
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Free Apps vs. Paid Apps](https://buynow-tips.techidaily.com/motorola-one-5g-ace-fastest-5g-performance-with-exceptional-battery-longevity/)
 * [How to Install Software Using the Microsoft Store on Windows 10](https://win-howtos.techidaily.com/effective-solutions-for-repairing-unresponsive-functional-keys-on-lenovo-computers/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
  With "free" software, you can download the program without making a purchase, but there is usually a catch. These apps either work with a subscription service (such as Amazon, Netflix, Apple, Adobe, Facebook, or Slack), or they let you use a basic version of an app for free, [sometimes with intrusive advertisements](https://smart-video-editing.techidaily.com/in-2024-top-rated-video-promo-maker-websites/). If you want to unlock a feature later, you might be asked for payment using what are called "in-app purchases."
 
  The second type is "paid" software, which you buy up front before you download and then usually you own the right to use it completely, although there are also paid apps that sell more features later through in-app purchases.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Install Software Using the Microsoft Store on Windows 10
 
@@ -60,13 +56,13 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 ![Search for an app using the search bar at the top of the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-searching-for-the-hulu-app.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you locate a program you'd like to install, first check whether it is a free or paid app. If you don't see a price listed, the app is generally free, or requires a separate purchase (as with a Netflix account). Click the "Get" button to add and app to your account and download it for the first time. If you've downloaded an app previously but unistalled it, you'll see an "Install" button instead. 
 
 ![Click the 'Get' button to add an app to your account, then click 'Install' to actually install it to your PC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-get-app.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the program requires a purchase before downloading, you will see a large "Buy for" button followed by a price. 
 
@@ -77,24 +73,28 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 ![The download is in progress when the 'Get' or 'Install' button changes to a stop button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-download-in-progress.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once the app is installed, you can launch it by clicking "Launch" or "Play" button located just beside the download progress indicator bar. Or you can open the "Start" menu and browse for the app name in an alphabetical list. Click the app's icon when you find it, and it will launch.
 
 ![Netflix in the Start menu under 'N' in the alphabetical list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-netflix-in-start-menu.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you have trouble finding the app you just downloaded in the "Start" menu, open "Start" and begin typing the name of the app to perform a search. When the results appear, click the icon of the app to launch it.
 
 ![Search for the app you installed using the Start menu search, then click the result labeled 'App.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-searching-for-netflix.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Also, if you ever need to [see a complete list of all the apps you've bought or installed](https://tech-revival.techidaily.com/best-8-chatgpt-interactions-to-enhance-productivity-and-decrease-distractions/) from the Microsoft Store, launch the "Microsoft Store" app and click the "Library" button in the bottom left corner of the window. 
 
 ![Click the 'Library' button in the bottom-left corner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-click-the-library-button.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You will see a list of all the apps you have installed through the Microsoft Store, and you can sort it by install date and other criteria. If you want to [uninstall the app later](https://tech-recovery.techidaily.com/top-savings-on-apple-watches-in-april/), you'll need to visit Settings > Apps, select the program, then click "Uninstall."
 
@@ -115,21 +115,20 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-essential-guide-to-crafting-engaging-haul-videos/"><u>[New] The Essential Guide to Crafting Engaging Haul Videos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-ultimate-audio-alerts-high-quality-pages-for-2024/"><u>[New] Ultimate Audio Alerts High-Quality Pages for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-tiktok-video-potential-with-zoom/"><u>[New] Unlocking TikTok Video Potential with Zoom</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-maximizing-creativity-with-picsart-an-in-depth-2024-guide/"><u>[Updated] Maximizing Creativity with PicsArt An In-Depth 2024 Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-power-supplies-for-hero5-official-and-alternative-models/"><u>[Updated] Ultimate Power Supplies for Hero5 Official & Alternative Models</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-sony-xperia-1-v-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Sony Xperia 1 V</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/eliminating-slowdowns-strategies-to-improve-your-world-of-warcraft-experience/"><u>Eliminating Slowdowns: Strategies to Improve Your World of Warcraft Experience</u></a></li>
-<li><a href="https://video-capture.techidaily.com/farmers-fantasy-top-10-game-simulations-unveiled/"><u>Farmers' Fantasy Top 10 Game Simulations Unveiled</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-stop-wwe-2k20-from-crashing-on-your-computer/"><u>Step-by-Step Guide: Stop WWE 2K20 From Crashing on Your Computer</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tailoring-your-vtubers-tone-best-app-recommendations-unveiled-for-2024/"><u>Tailoring Your Vtuber's Tone Best App Recommendations Unveiled for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-best-virtual-playground-for-ps3-games-on-windows-pcs/"><u>The Best Virtual Playground for PS3 Games on Windows PCs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-inverted-images-conundrum-on-instagram-feed-for-2024/"><u>The Inverted Images Conundrum on Instagram Feed for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-20-iconic-anime-theme-melodies-ever-for-2024/"><u>Top 20 Iconic Anime Theme Melodies Ever for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transitioning-artistry-in-inshot-videos-for-2024/"><u>Transitioning Artistry in Inshot Videos for 2024</u></a></li>
-<li><a href="https://techidaily.com/unlock-iphone-11-without-passcode-or-face-id-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 11 without Passcode or Face ID</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-enhancing-yt-experience-handling-several-videos-at-a-time/"><u>[New] In 2024, Enhancing YT Experience Handling Several Videos at a Time</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-sdk-innovations-for-android-the-updated-rankings-of-facebook-video-downloading-tools/"><u>[New] SDK Innovations for Android The Updated Rankings of Facebook Video Downloading Tools</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-enhance-clarity-of-online-dialogues-with-discords-voicemod-feature/"><u>[Updated] In 2024, Enhance Clarity of Online Dialogues with Discord's VoiceMod Feature</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-secrets-of-fisheye-imaging/"><u>[Updated] Unveiling the Secrets of Fisheye Imaging</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-periscope-users-handbook/"><u>2024 Approved The Complete Periscope User's Handbook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unfolding-cinema-narratives/"><u>2024 Approved Unfolding Cinema Narratives</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unzipping-for-srt-methods-and-tips/"><u>2024 Approved Unzipping for SRT Methods and Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-vegaspro-2019-whats-new-and-why-it-matters/"><u>2024 Approved VegasPro 2019 What's New and Why It Matters</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/elevating-your-interview-game-skills-and-tactics-for-2024/"><u>Elevating Your Interview Game Skills & Tactics for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-secret-to-love-in-video-editing-filmoras-best-aspects/"><u>In 2024, The Secret to Love in Video Editing Filmora's Best Aspects</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-the-ultimate-method-for-recorded-instagram-stories/"><u>In 2024, The Ultimate Method for Recorded Instagram Stories</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/integrating-and-utilizing-nvidias-cutting-edge-rtx-ai-bot-in-your-computer-setup/"><u>Integrating and Utilizing NVIDIA's Cutting-Edge RTX AI Bot in Your Computer Setup</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-it-possible-to-get-customized-workout-plans-with-confidence-in-their-safety-through-ai-assistance/"><u>Is It Possible to Get Customized Workout Plans with Confidence in Their Safety Through AI Assistance?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/master-your-skies-with-the-affordable-syma-107g-rc-helicopter-in-depth-analysis-and-tips/"><u>Master Your Skies with the Affordable Syma 107G RC Helicopter - In-Depth Analysis & Tips</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722968540728-step-by-step-tutorial-to-get-your-lenovo-x1-carbon-up-and-running-on-windows-10-and-7/"><u>Step-by-Step Tutorial to Get Your Lenovo X1 Carbon Up and Running on Windows 10 & 7</u></a></li>
 </ul></div>
 

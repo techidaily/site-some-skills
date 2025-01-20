@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up a Swap Space in Linux"
-date: 2025-01-10T20:54:02.972Z
-updated: 2025-01-13T21:26:11.163Z
+date: 2025-01-15T23:48:33.754Z
+updated: 2025-01-20T01:05:28.317Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/213b932fcd2c7374497ebb4064c054acfe0cd4d0b
 ## Step-by-Step Guide: Setting Up a Swap Space in Linux
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/213b932fcd2c7374497ebb4064c054acfe0cd4d0b
  Add swap space to a Linux computer, or increase the swap space that's already present, without messing about with partitions. We show you the easy way to tailor your swap space.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Swap Files vs. Swap Partitions
@@ -69,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/213b932fcd2c7374497ebb4064c054acfe0cd4d0b
  This is much less of a concern nowadays, and [many SSDs that are on sale have life expectancies that will outlast most PCs](https://mondly-stories.techidaily.com/arabic-for-beginners-a-step-by-step-guide/). A swap file on an SSD will have a far better performance than a swap partition on a mechanical hard drive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Checking Existing Swap Space
@@ -81,7 +81,7 @@ free -h
 ![fre -h  in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/1-5.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The output from `free` shows that there is no swap space configured on this machine.
@@ -96,9 +96,17 @@ swapon --show
 
 ![swapon --show in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/2-8.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If there is no output from this command, there's no swap configured.
 
  If these commands had revealed some swap space is already configured, the size of the existing swap space should be factored into decisions regarding the size of the swap file you're going to create.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How Much Swap Space Do I Need?
 
@@ -149,6 +157,10 @@ ls /
 
 ![ls / in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/7-7.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Preparing the Swap File
 
  We need to [prepare the swap file](http://man7.org/linux/man-pages/man8/mkswap.8.html) with the `mkswap` command before it can be used. We don't need to provide any parameters to `mkswap` other than the path and name of the file:
@@ -157,11 +169,11 @@ sudo mkswap /swapfile
 
 ![sudo mkswap /swapfile in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/8-7.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The file is prepared for use as a swap file. Note the warning about file permissions. We'll need to change those so that the root user is the only one who can read and write to the swap file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Using the Swap File
 
@@ -170,10 +182,6 @@ sudo mkswap /swapfile
 sudo chmod 600 /swapfile
 
 ![sudo chmod 600 /swapfile in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/12-4.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This removes all permissions from the file group members and others, but allows the file owner, root, to read and write to the file.
 
@@ -192,6 +200,10 @@ sudo swapon /swapfile
 sudo gedit /etc/fstab
 
 ![sudo gedt /etc/fstab in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/10-6.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The line we need to add to the bottom of the file is:
 
@@ -218,10 +230,6 @@ swapon --show
 
 ![swapon --show in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/13-3.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The columns are:
 
 * **Name**: The name of the swap partition or swap file.
@@ -229,10 +237,6 @@ swapon --show
 * **Size**: The size of the swap resource.
 * **Used**: The amount of used swap space.
 * **Prio**: The priority of this swap space.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The Swap Space Priority
 
@@ -249,10 +253,6 @@ swapon --show
 swapon -- show
 
 ![swapon -- show in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/15-2.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The priority of this swap space has been elevated to 10\. Which is proof positive that the options field in the `/etc/fstab` entry is not ignored.
 
@@ -299,22 +299,21 @@ swapon --show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-the-ultimate-guide-to-the-10-best-windows-cameras/"><u>[New] The Ultimate Guide to the 10 Best Windows Cameras</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unleash-your-creativity-in-full-rotation-best-practices-for-vr-video/"><u>[New] Unleash Your Creativity in Full Rotation Best Practices for VR Video</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-unveil-top-8-sites-providing-free-download-of-3d-text-psdfiles-for-2024/"><u>[New] Unveil Top 8 Sites Providing Free Download of 3D Text PSDFiles for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-swiftly-modify-and-verify-your-age-in-tiktok-accounts/"><u>[Updated] How to Swiftly Modify and Verify Your Age in TikTok Accounts</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-battlefield-bliss-exploring-the-7-best-massive-wars/"><u>[Updated] In 2024, Battlefield Bliss Exploring the 7 Best Massive Wars</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-art-of-tempo-manipulating-video-speed-on-instagram/"><u>[Updated] The Art of Tempo Manipulating Video Speed on Instagram</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-free-video-playback-vlc-or-mpc/"><u>[Updated] The Ultimate Guide to Free Video Playback VLC or MPC?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-advanced-strategies-in-voice-memo-mastery/"><u>2024 Approved Advanced Strategies in Voice Memo Mastery</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-ten-frame-enhancers-for-visual-artistry/"><u>2024 Approved Top Ten Frame Enhancers for Visual Artistry</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/fastest-methods-to-convert-mov-files-into-wmv-format-top-5-tips-for-both-windows-and-mac/"><u>Fastest Methods to Convert MOV Files Into WMV Format: Top 5 Tips for Both Windows & Mac</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-historical-imagery-unleashed-from-copyrights/"><u>In 2024, Historical Imagery Unleashed From Copyrights</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamline-your-media-with-top-8-convertors-1-8/"><u>In 2024, Streamline Your Media with Top 8 Convertors #1-8</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-essential-guide-for-avi-to-gif-editing-a-quick-filmora-workflow-on-windows-and-macos-for-2024/"><u>The Essential Guide for AVI-to-GIF Editing A Quick Filmora Workflow on Windows & macOS for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-perfect-blend-of-tech-joining-airpods-and-your-hp-notebook-seamlessly/"><u>The Perfect Blend of Tech: Joining AirPods and Your HP Notebook Seamlessly</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-role-of-b-roll-in-professional-editing-for-2024/"><u>The Role of B Roll in Professional Editing for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-to-resolve-cs-go-wont-start-up/"><u>Troubleshooting Steps to Resolve 'CS: GO Won't Start Up'</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unleash-clarity-in-depth-tutorial-on-video-enhancer-22-for-2024/"><u>Unleash Clarity In-Depth Tutorial on Video Enhancer 2.2 for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-deciphering-youtube-conversations/"><u>[New] 2024 Approved Deciphering YouTube Conversations</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-sneakily-bypass-online-learning-videos-without-breach/"><u>[New] 2024 Approved Sneakily Bypass Online Learning Videos Without Breach</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-how-to-record-google-meet/"><u>[New] In 2024, How to Record Google Meet</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-notch-20-anime-opening-songs/"><u>[New] Top-Notch 20 Anime Opening Songs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-lighting-setup-tips-to-make-great-videos/"><u>2024 Approved Lighting Setup Tips to Make Great Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-hdr-images-into-professional-grade-time-lapses-with-gopro-studio/"><u>2024 Approved Transform Your HDR Images Into Professional-Grade Time Lapses with GoPro Studio</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-updated-free-hp-deskjet-ink-advantage-printer-driver-for-your-pc/"><u>Download the Updated, Free HP Deskjet Ink Advantage 지오널 Printer Driver for Your PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-strategies-for-an-engaging-zoom-youtube-live-session/"><u>Expert Strategies for an Engaging Zoom YouTube Live Session</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-tecno-spark-10-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Tecno Spark 10 5G FRP</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-potential-from-standard-sdr-to-high-end-hdr/"><u>In 2024, Unleashing Potential From Standard SDR to High-End HDR</u></a></li>
+<li><a href="https://some-skills.techidaily.com/journey-to-metaverse-leading-vr-headsets-reviewed-for-2024/"><u>Journey to Metaverse Leading VR Headsets Reviewed for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/power-up-your-ride-with-the-m-mooc-1000a-jump-starter-in-depth-analysis-of-a-top-choice-car-lifeline/"><u>Power Up Your Ride with the M MOOC 1000A Jump Starter – In-Depth Analysis of a Top Choice Car Lifeline</u></a></li>
+<li><a href="https://some-skills.techidaily.com/sideways-instagram-videos-an-enigma-or-bug-in-2024/"><u>Sideways Instagram Videos An Enigma or Bug, In 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamlining-your-home-routine-how-to-utilize-chatgpt-in-6-different-ways/"><u>Streamlining Your Home Routine: How to Utilize ChatGPT in 6 Different Ways</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-ultimate-guide-prime-online-techniques-for-language-learning/"><u>The Ultimate Guide: Prime Online Techniques for Language Learning</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-how-to-for-ifunnys-meme-app-for-2024/"><u>The Ultimate How-To for iFunny's Meme App for 2024</u></a></li>
 </ul></div>
 

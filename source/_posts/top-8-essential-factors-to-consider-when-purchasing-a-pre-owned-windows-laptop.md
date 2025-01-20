@@ -1,7 +1,7 @@
 ---
 title: Top 8 Essential Factors to Consider When Purchasing a Pre-Owned Windows Laptop
-date: 2025-01-06T21:45:19.885Z
-updated: 2025-01-13T22:31:43.081Z
+date: 2025-01-17T17:07:46.947Z
+updated: 2025-01-19T19:54:44.046Z
 tags:
   - deals
 categories:
@@ -24,23 +24,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Buying a used laptop can indeed save you money, but it does come with some risks. This is why you should thoroughly examine the laptop before closing the deal to avoid unpleasant surprises later on. If you doubt the credibility of the seller, here's how you can test the used laptop.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Test the Keyboard and Trackpad
 
  Begin the laptop inspection by testing the keyboard and trackpad first. To test the keyboard, go to a keyboard testing website like [Keyboard Tester](https://www.keyboardtester.com/tester.html) and press each key from the first to the last. If all keys register correctly, the keyboard is likely in good condition. Also, make sure you feel comfortable typing on the keyboard.
 
 ![Keyboard tester typing letters in lowercase with Caps Lock off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-keyboard-tester-typing-letters-in-lowercase-with-caps-lock-off.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To test the trackpad, hover over the screen to gauge its responsiveness. Then, experiment with different trackpad gestures, such as pinch-to-zoom and two-finger scroll, to see which ones are supported. If you have another laptop, you can compare trackpad responsiveness by conducting a touchpad accuracy test on both laptops using the [No-Cursor website](https://no-cursor.com/).
 
  This will help you confirm whether the trackpad on your new laptop is equally or more responsive than the other one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Test the Speakers and Built-In Microphone
 
@@ -54,15 +50,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Testing the laptop microphone in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-testing-the-laptop-microphone-in-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Test the Built-In Camera
 
  If you intend to use the laptop for video communication, test its built-in camera. To do this, type **Camera** in the Windows Search bar and open the Camera app.
 
  If the camera app detects the webcam and the visuals are clear and of satisfactory quality, as the seller claimed, then the camera is working correctly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Check the Health of Your Laptop Battery
 
@@ -74,13 +70,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Generating the battery health report from Windows PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_2-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Navigate to this location and open the battery report. Then, go to the "Installed Batteries" section and compare the "Design Capacity" with the "Full Charge Capacity." The difference between these values indicates the extent to which the battery's capacity has diminished due to usage. If the full charge capacity is significantly low, you may have to replace the battery.
 
 ![Checking the laptop battery report.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_5.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Ensure the Laptop Isn't Stolen
 
@@ -95,7 +91,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Also, watch out for stickers that may be covering up wear and tear underneath, as this is a common practice.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Test the Wired and Wireless Connectivity
@@ -103,6 +99,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The worst scenario you could face is finding your [laptop unable to connect to the internet](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual/) (via Wi-Fi or Ethernet cable), USB ports failing to detect external devices, or Bluetooth malfunctioning—all after completing the purchase. Because of that, confirming there are no wired or wireless connectivity issues is important.
 
  Start by connecting your laptop to Wi-Fi. Then, [test its Ethernet port](https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/) by plugging it directly into the router. If the internet connection works well, test the audio jacks with headphones. Similarly, check the USB ports by connecting a wired device. Finally, make sure Bluetooth is working by pairing a Bluetooth-powered device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Check the Health of RAM and Storage Drive
 
@@ -133,17 +133,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-future-is-now-how-vivacuts-2024-updates-are-redefining-editing/"><u>[New] The Future Is Now How VivaCut's 2024 Updates Are Redefining Editing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-android-3d-viewer-experience/"><u>[Updated] Top Android 3D Viewer Experience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transferring-media-pc-files-to-your-ios-device/"><u>2024 Approved Transferring Media PC Files To Your iOS Device</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/escalating-threats-the-future-of-generative-ai-and-increasing-security-challenges/"><u>Escalating Threats: The Future of Generative AI and Increasing Security Challenges</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/essential-guide-to-xbox-screen-recording-techniques/"><u>Essential Guide to Xbox Screen Recording Techniques</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-13-mini-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 13 mini Data Permanently | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/insightful-guide-to-xbox-playtime-reports/"><u>Insightful Guide to Xbox Playtime Reports</u></a></li>
-<li><a href="https://fox-access.techidaily.com/navigating-snapchat-spotlight-feature/"><u>Navigating Snapchat Spotlight Feature</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-infinix-smart-7-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Infinix Smart 7? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/pro-moviemakers-manual-for-pc-mac-and-mobile-systems-for-2024/"><u>Pro Moviemaker's Manual for PC, Mac & Mobile Systems for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-leading-lines-crafting-images-on-iphones-for-2024/"><u>The Art of Leading Lines Crafting Images on iPhones for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/turn-back-the-tape-on-twitch-broadcasting-for-2024/"><u>Turn Back the Tape on Twitch Broadcasting for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-perfect-visual-experience-on-youtube-with-professional-techniques/"><u>[New] In 2024, Perfect Visual Experience on YouTube with Professional Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-collection-8-amazing-3d-websites-with-gold/"><u>[New] The Ultimate Collection 8 Amazing 3D Websites with Gold</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-offline-transcription-programs-for-speech/"><u>[New] Top Offline Transcription Programs for Speech</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-essence-of-mixed-reality-explored/"><u>[Updated] The Essence of Mixed Reality Explored</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-8-speed-upters-accelerate-your-android-media/"><u>[Updated] Top 8 Speed Upters - Accelerate Your Android Media</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleashing-creativity-in-hd-windows-powered-visionary-editing-and-viewing/"><u>[Updated] Unleashing Creativity in HD Windows-Powered Visionary Editing & Viewing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/following-review-innovative-outlooks-for-2024/"><u>Following Review Innovative Outlooks for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Tecno Spark 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-dynamic-videos-that-keep-your-audience-spinning-around/"><u>In 2024, Dynamic Videos That Keep Your Audience Spinning Around</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-this-article-will-show-you-how-to-make-a-tattoo-disappear-on-your-body-magically/"><u>In 2024, This Article Will Show You How to Make a Tattoo Disappear on Your Body Magically</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-future-adopting-macos-11-big-sur-for-growth/"><u>In 2024, Unveiling The Future Adopting macOS 11 Big Sur for Growth</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-google-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Google Phone Network-Ready</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-avchd-video-editing-made-easy-top-5-software-solutions-for-2024/"><u>New AVCHD Video Editing Made Easy Top 5 Software Solutions for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/secure-methods-to-transfer-instagram-media-onto-iphone-for-2024/"><u>Secure Methods to Transfer Instagram Media Onto iPhone for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essential-checklist-for-creating-stellar-titles-for-2024/"><u>The Essential Checklist for Creating Stellar Titles for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-most-advanced-virtual-reality-engines-of-2023-for-2024/"><u>The Most Advanced Virtual Reality Engines of 2023 for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-moto-g34-5g-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Moto G34 5G</u></a></li>
 </ul></div>
 

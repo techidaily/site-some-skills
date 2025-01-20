@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlocking Full Photo Viewing Capabilities  Win 11 Edition\""
-date: 2024-08-21T00:28:01.296Z
-updated: 2024-08-22T00:28:01.296Z
+date: 2025-01-14T23:18:48.664Z
+updated: 2025-01-19T17:59:23.820Z
 tags: 
   - screen-recording
   - ai video
@@ -20,15 +20,6 @@ thumbnail: https://thmb.techidaily.com/fb9800d0908e1be810fcc7b3cec05fac87c5747d2
 
 # How to Restore Windows Photo Viewer in Windows 10
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -45,9 +36,6 @@ Stay tuned to learn more!
 * [**Part2: Method 1 to restore Windows Photo Viewer**](#part2)
 * [**Part3: Method 2 to get Windows Photo Viewer back**](#part3)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Why you prefer Windows Photo Viewer
 
 We would like to explain why most people are still not over Windows Photo Viewer? The good old Photo Viewer has quiet loyal fans out there singing its glory. This portion of the article comprises of the highs about Windows Photo Viewer.
@@ -81,9 +69,6 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 2 to get Windows Photo Viewer back
 
 Here comes another way to restore Windows Photo Viewer on your computer. If your computer has been upgraded to Windows 10 from an older version, then Windows Photo Viewer might be lying around somewhere. You can retrieve it to view images.
@@ -96,14 +81,19 @@ Here is the detailed guide –
 
 **Step 3** – Keep scrolling towards the bottom of the screen to find out ‘Windows Photo Viewer’. If ‘Windows Photo Viewer’ is visible, then it has been installed there and you can use it without any problem.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -112,9 +102,14 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -137,8 +132,9 @@ Stay tuned to learn more!
 * [**Part3: Method 2 to get Windows Photo Viewer back**](#part3)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: Why you prefer Windows Photo Viewer
 
 We would like to explain why most people are still not over Windows Photo Viewer? The good old Photo Viewer has quiet loyal fans out there singing its glory. This portion of the article comprises of the highs about Windows Photo Viewer.
@@ -156,12 +152,13 @@ Here is why they want to restore Windows Photo Viewer –
 * There is a solid UI across the image which doesn’t cover it, but works as a nice border.
 * You can delete an image without any confirmation here.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1 to restore Windows Photo Viewer
 
@@ -175,9 +172,6 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 2 to get Windows Photo Viewer back
 
 Here comes another way to restore Windows Photo Viewer on your computer. If your computer has been upgraded to Windows 10 from an older version, then Windows Photo Viewer might be lying around somewhere. You can retrieve it to view images.
@@ -190,9 +184,6 @@ Here is the detailed guide –
 
 **Step 3** – Keep scrolling towards the bottom of the screen to find out ‘Windows Photo Viewer’. If ‘Windows Photo Viewer’ is visible, then it has been installed there and you can use it without any problem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
@@ -206,8 +197,9 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -215,7 +207,6 @@ Shanoon Cox
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -239,8 +230,24 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-dji-spark-compact-drone-mastery-for-photographers/"><u>[New] Unveiling the DJI Spark Compact Drone Mastery for Photographers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-ultimate-fidelity-in-mac-screen-and-audio-recording/"><u>[Updated] 2024 Approved Ultimate Fidelity in Mac Screen & Audio Recording</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-raw-to-stunning-the-role-of-luts-in-premiere-editing/"><u>[Updated] From Raw to Stunning The Role of LUTs in Premiere Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-your-imagery-with-ar-and-accessible-luts/"><u>[Updated] Transform Your Imagery with AR & Accessible LUTs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-android-gamers-rejoice-heres-kinemaster-unleashed/"><u>2024 Approved Android Gamers Rejoice! Here's KineMaster Unleashed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-footage-a-guide-to-gopro-color-tweaks/"><u>2024 Approved Transforming Footage A Guide to GoPro Color Tweaks</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comparing-samsung-galaxy-s10plus-with-s20-in-depth-review-and-analysis/"><u>Comparing Samsung Galaxy S10+ with S20: In-Depth Review & Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/does-chatgpt-signal-a-new-chapter-for-student-essay-standards/"><u>Does ChatGPT Signal a New Chapter for Student Essay Standards?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/enhance-your-gameplay-download-current-gen-nvidia-geforce-windows-drivers/"><u>Enhance Your Gameplay: Download Current-Gen NVIDIA GeForce Windows Drivers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-tecno-spark-20-pro-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Tecno Spark 20 Pro Phones? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-oneplus-open-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best OnePlus Open Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-photographers-toolkit-essential-tips-for-cutting-edge-edits/"><u>In 2024, The Photographer's Toolkit Essential Tips for Cutting-Edge Edits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tickletunes-recommendations-best-online-funnier-downloads/"><u>In 2024, TickleTunes Recommendations Best Online Funnier Downloads</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-obstacles-with-windows-printmanagement-msc-errors/"><u>Overcoming Obstacles with Windows 'Printmanagement' MSC Errors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transformative-tools-unveiling-top-6-nft-platforms-for-artists-for-2024/"><u>Transformative Tools Unveiling Top 6 NFT Platforms For Artists for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-potential-of-onestream-live-streaming-for-2024/"><u>Unlocking the Potential of OneStream Live Streaming for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-future-with-q500-typhoon-for-2024/"><u>Unveiling the Future with Q500 Typhoon for 2024</u></a></li>
+</ul></div>
 

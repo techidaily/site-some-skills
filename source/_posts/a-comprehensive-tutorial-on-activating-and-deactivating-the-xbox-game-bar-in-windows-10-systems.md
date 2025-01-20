@@ -1,7 +1,7 @@
 ---
 title: A Comprehensive Tutorial on Activating and Deactivating the Xbox Game Bar in Windows 10 Systems
-date: 2025-01-12T20:45:04.354Z
-updated: 2025-01-13T19:16:51.925Z
+date: 2025-01-12T20:52:05.861Z
+updated: 2025-01-19T22:59:11.994Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## A Comprehensive Tutorial on Activating and Deactivating the Xbox Game Bar in Windows 10 Systems
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -27,23 +27,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Microsoft's [Game Bar](https://facebook-video-recording.techidaily.com/2024-approved-harnessing-the-power-of-imagery-for-engaging-fb-slideshows/) in Windows 10 is a handy way to call up an overlay of useful widgets using the Windows+G keyboard shortcut. But not everyone needs it, and if you'd like to disable it (or enable it again later), all it takes is a visit to Settings. Here's how.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Disable (Or Enable) the Game Bar on Windows 10
 
  First, open Windows Settings. To do so, open the Start menu and click the small "gear" icon, or press Windows+i on your keyboard. In Settings, click "Gaming."
 
 ![Click the 'Gaming' option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-click-gaming.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Under "Game Bar" settings, click the switch beneath "Enable Game Bar" until it is turned off. That will disable the Game Bar.
 
 ![Click the toggle under 'Game Bar' to disable it completely.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-turn-game-bar-off.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After that, close the Settings app. Try pressing Windows+G, and nothing will pop up. Even if you press the Xbox button on an Xbox controller, nothing will happen. The Game Bar has been fully disabled.
 
@@ -52,7 +48,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The Game Bar toggle in the On position.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-turn-game-bar-on.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Disable the Xbox Button in Windows 10
@@ -64,7 +64,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Untick the box to disable the Game Bar button on your controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-disable-game-bar-button.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Alternately, if you disable the Game Bar completely using the "Enable Game Bar" switch, then the Xbox button on your controller will no longer call up the Game Bar. But that also disables calling up the Game Bar using other methods (such as the Windows+G shortcut).
@@ -84,16 +84,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-comedic-potential-of-the-metaverses-vast-space/"><u>[New] The Comedic Potential of the Metaverse's Vast Space</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-leading-edge-in-game-capture-moving-past-fbx-methods/"><u>[Updated] Leading Edge in Game Capture Moving Past FBX Methods</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-insiders-guide-to-instagram-video-success/"><u>2024 Approved The Insider’s Guide to Instagram Video Success</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-uav-upgrade-path-key-parts-and-add-ons/"><u>2024 Approved The Ultimate UAV Upgrade Path Key Parts and Add-Ons</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-secrets-buying-a-high-quality-360-camera-today/"><u>2024 Approved Unveiling the Secrets Buying a High-Quality 360 Camera Today</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/guide-to-recovering-data-from-a-malfunctioned-hdd/"><u>Guide to Recovering Data From a Malfunctioned HDD</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-bungies-latest-patch-cleared-the-destiny-2-broccoli-crash-for-good/"><u>How Bungie's Latest Patch Cleared the Destiny 2 'Broccoli Crash' For Good</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-quick-tips-for-high-quality-audio-recordings-on-your-imac/"><u>In 2024, Quick Tips for High-Quality Audio Recordings on Your iMac</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-infinix-note-30-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Infinix Note 30 5G</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transform-into-a-metaverse-virtuoso-essential-tools-list/"><u>In 2024, Transform Into a Metaverse Virtuoso - Essential Tools List</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-wireless-power-solutions-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Wireless Power Solutions - Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-perfect-whatsapp-ringtones-for-iphone-and-android-users/"><u>[New] Perfect WhatsApp Ringtones for iPhone & Android Users</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-tales-for-twilight-film-analysis-for-2024/"><u>[New] Tales for Twilight Film Analysis for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tricks-for-capturing-video-tweets-and-converting-to-audible-format/"><u>[Updated] Tricks for Capturing Video Tweets and Converting to Audible Format</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-swift-sonic-speed-changer-tools-index/"><u>2024 Approved Swift Sonic Speed Changer Tools Index</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-11-strategies-for-boosting-your-youtube-videos-visibility/"><u>2024 Approved Top 11 Strategies for Boosting Your YouTube Videos' Visibility</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chrome-upgrade-easier-and-faster-prompting-for-chatgpt-made-possible/"><u>Chrome Upgrade: Easier and Faster Prompting for ChatGPT Made Possible</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-amd-freesync-not-workingnot-supported/"><u>How to Fix AMD FreeSync Not Working/Not Supported</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-two-titans-clash-in-the-vr-arena/"><u>In 2024, Two Titans Clash in the VR Arena</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-secrets-of-pubg-sound-personalization/"><u>In 2024, Unlocking the Secrets of PUBG Sound Personalization</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-how-to-blur-the-video-background-or-some-parts-of-the-video-you-can-know-how-to-blur-videos-with-some-free-online-tools-in-this-article/"><u>New In 2024, How to Blur the Video Background or some Parts of the Video? You Can Know How to Blur Videos with some Free Online Tools in This Article</u></a></li>
+<li><a href="https://review-topics.techidaily.com/reinstall-hardware-drivers-with-device-manager-on-windows-10-by-drivereasy-guide/"><u>Reinstall hardware drivers with Device Manager on Windows 10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-imovies-editing-edge-for-2024/"><u>Understanding iMovie's Editing Edge for 2024</u></a></li>
 </ul></div>
 

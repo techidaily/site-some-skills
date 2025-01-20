@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Linking Your Xbox Gamepad to Windows Computer"
-date: 2025-01-10T20:32:04.781Z
-updated: 2025-01-13T20:47:17.666Z
+date: 2025-01-13T16:04:41.302Z
+updated: 2025-01-19T16:21:35.966Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/c8166e8b96eec7a32e2c5447a156a34a01b3ade6d
 ---
 
 ## Ultimate Guide: Linking Your Xbox Gamepad to Windows Computer
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -33,10 +37,6 @@ Xbox
 
  Once you're done, go ahead and fire up [any game with controller support](https://extra-lessons.techidaily.com/step-by-step-to-mastering-adobes-cloud-storage-capabilities-and-options/) and have fun.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Connect an Xbox Wireless Controller to a PC Through Bluetooth
 
  If you'd rather avoid cable clutter, you can connect it to your PC using Bluetooth. If your PC doesn't have built-in Bluetooth, I strongly recommend purchasing a cheap [USB Bluetooth Dongle](https://www.amazon.com/TP-Link-Bluetooth-Receiver-Controller-UB500/dp/B09DMP6T22?tag=hotoge-20&ascsubtag=UUhtgUeUpU209809&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F729937%2Fhow-to-connect-an-xbox-wireless-controller-to-a-pc%2F&asc%5Fcampaign=Evergreen). This is how I connect my controller to my PC. It works just as well as onboard Bluetooth and doesn't introduce any noticeable input lag. 
@@ -54,7 +54,7 @@ Xbox
 ![Windows 10 Bluetooth menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/add-bluetooth-device.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the "Add a Device" window that appears, select "Bluetooth."
@@ -64,10 +64,6 @@ Xbox
  Next, put your Xbox Wireless Controller in [pairing mode](https://facebook-video-content.techidaily.com/new-2024-approved-master-10-social-media-movies/). First, power up the controller by pressing and holding the Xbox button.
 
 ![The Xbox Wireless controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/xbox-controller.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Xbox](https://www.xbox.com/en-US/accessories/controllers/xbox-wireless-controller)
 
@@ -82,7 +78,7 @@ Xbox
 ![Xbox controller in the add a device menu in Bluetooth Windows settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/select-it.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Congratulations! Your Xbox Wireless Controller is now connected to your PC.
@@ -90,6 +86,10 @@ Xbox
  Select "Done" to finish the process.
 
 ![The "Your Device is ready to go" Bluetooth screen in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/save-it.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you're done playing, it'll turn off automatically after a while, but you can also [turn the Xbox controller off](https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-google-pixel-fold-drfone-by-drfone-virtual/) manually to save battery life. To do this, press and hold the Xbox button or pop the batteries out.
 
@@ -100,7 +100,7 @@ Xbox
 ![The Xbox Wireless adapter next to a controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/wirelsss-adapter.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Xbox](https://www.xbox.com/en-US/accessories/controllers/xbox-wireless-controller-adapter-windows)
@@ -130,21 +130,24 @@ Xbox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-streamlining-video-logging-on-periscope-platforms/"><u>[New] Streamlining Video Logging on Periscope Platforms</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-hunt-for-heated-online-hearings/"><u>[Updated] Hunt for Heated Online Hearings</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-maximizing-your-videos-reach-a-guide-to-legal-yield-boosting/"><u>[Updated] Maximizing Your Video's Reach A Guide to Legal Yield Boosting</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-optimal-10-image-storage-solutions-guarantee-photographic-safety-for-2024/"><u>[Updated] Optimal 10 Image Storage Solutions, Guarantee Photographic Safety for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-android-deluxe-playtime-top-gb-games-on-your-phone/"><u>2024 Approved Android Deluxe Playtime Top GB Games on Your Phone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-take-it-upward-expert-techniques-for-phones/"><u>2024 Approved Take It Upward Expert Techniques for Phones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-roadmap-to-building-stellar-podcast-rss-feeds/"><u>2024 Approved The Roadmap to Building Stellar Podcast RSS Feeds</u></a></li>
-<li><a href="https://win11.techidaily.com/consistent-connections-avoiding-disruptions-in-windows/"><u>Consistent Connections: Avoiding Disruptions in Windows</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-13-pro-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your iPhone 13 Pro</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-apple-iphone-15-plus-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your Apple iPhone 15 Plus Without a Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-realme-c33-2023-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme C33 2023 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tactics-for-integrating-multimedia-into-lessons/"><u>In 2024, Tactics for Integrating Multimedia Into Lessons</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-syma-x5c-your-first-drones-best-friend/"><u>In 2024, The Ultimate Guide to Syma X5C – Your First Drone's Best Friend</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultra-hd-revolution-dissecting-samsungs-ue590-tv/"><u>In 2024, The Ultra HD Revolution - Dissecting Samsung's UE590 TV</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/sj6-mastery-showdown-sjcam-vs-xiaomis-yi-pro-4k/"><u>SJ6 Mastery Showdown SJCam Vs. Xiaomi's Yi Pro 4K</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-sound-trailing-in-premiere-pro-for-2024/"><u>The Ultimate Guide to Sound Trailing in Premiere Pro for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ixels-to-perfection-design-tips-for-captivating-banners/"><u>[New] Pixels to Perfection Design Tips for Captivating Banners</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-scrutinizing-how-content-makers-get-paid-from-youtube-shorts-videos/"><u>[New] Scrutinizing How Content Makers Get Paid From YouTube Shorts Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleash-creative-freedom-crafting-your-own-insta-tones/"><u>[New] Unleash Creative Freedom Crafting Your Own Insta Tones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-prime-monitor-companion-for-gaming-on-xbox-series-x/"><u>[Updated] The Prime Monitor Companion for Gaming on Xbox Series X</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-guide-to-10-premium-vector-websites/"><u>[Updated] Ultimate Guide to 10 Premium Vector Websites</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-discovering-6-interactive-workout-ideas-for-social-media-success/"><u>2024 Approved Discovering 6 Interactive Workout Ideas for Social Media Success</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-perfect-video-quality-in-zoom-sessions/"><u>2024 Approved The Art of Perfect Video Quality in Zoom Sessions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-three-key-strategies-for-acquiring-youtube-srt-files/"><u>2024 Approved Three Key Strategies for Acquiring YouTube SRT Files</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/2024-guide-solving-division-2-startup-issues/"><u>2024 Guide: Solving 'Division 2' Startup Issues</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/dive-deep-into-tiktok-lives-how-to-engage-effectively/"><u>Dive Deep Into TikTok Lives How to Engage Effectively</u></a></li>
+<li><a href="https://fox-http.techidaily.com/essential-tactics-for-effective-fb-giveaway-campaigns/"><u>Essential Tactics for Effective FB Giveaway Campaigns</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Vivo V30? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-sideways-scene-understanding-igs-upside-down-issue/"><u>In 2024, Sideways Scene Understanding IG's Upside-Down Issue</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-humor-kapwings-meme-crafting-app/"><u>In 2024, Unleash Humor Kapwing's Meme Crafting App</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964479571-most-affordable-graphic-cards-sale-alert-save-big-this-octobers-prime-day/"><u>Most Affordable Graphic Cards Sale Alert - Save Big This October's Prime Day!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/must-haves-best-android-picture-adjusters-for-2024/"><u>Must-Haves Best Android Picture Adjusters for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/swift-restoration-of-photos-viewer-performance-in-windows-10-for-2024/"><u>Swift Restoration of Photos Viewer Performance in Windows 10 for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-secrets-of-fisheye-imaging-for-2024/"><u>Unveiling the Secrets of Fisheye Imaging for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/windows-11-couldnt-be-installed-error-code-80240020-solved/"><u>Windows 11 Couldn't Be Installed Error Code 80240020 [Solved]</u></a></li>
 </ul></div>
 

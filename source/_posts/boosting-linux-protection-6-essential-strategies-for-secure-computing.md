@@ -1,7 +1,7 @@
 ---
 title: "Boosting Linux Protection: 6 Essential Strategies for Secure Computing"
-date: 2025-01-11T17:31:07.579Z
-updated: 2025-01-13T20:14:08.275Z
+date: 2025-01-14T00:53:23.009Z
+updated: 2025-01-19T23:08:10.262Z
 tags:
   - desktop
 categories:
@@ -22,7 +22,7 @@ Cybersecurity can be confusing. Here are six easy things you can do, and habits 
  Some of these are settings you can apply, but some of them are habits you need to adopt, or actions that need to be repeated periodically. As you’ve likely heard, cybersecurity isn’t a destination, it’s an ongoing journey.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1  Keep Your System Updated 
@@ -40,12 +40,16 @@ Cybersecurity can be confusing. Here are six easy things you can do, and habits 
  Some of these devices will get automatic updates. For example, Amazon Echo and Google Nest smart speakers receive automatic updates for four and five years from purchase, respectively.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2  Secure User Accounts 
 
 ![The login screen on a laptop running Ubuntu Linux.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/52848723811_08b4c56473_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek  
   
@@ -57,25 +61,21 @@ Hannah Stryker / How-To Geek
 
  You can add two-factor authentication to your own computers too. this is especially valuable if you connect to them remotely, using SSH.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3  Control User Access 
 
  We’ve already mentioned that each user should have their own unique log in and user account. The other golden rule is to use a regular user account for normal user tasks. Only use the root account for system administration.
 
  Most Linux systems disable the root account by default. To access root-level functionality you need to use sudo or run0\. This gives you short-term superuser status then demotes you to a normal user when you’ve completed that specific task.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4  Improve Your Network Security 
 
 [Turn on the firewall](https://extra-support.techidaily.com/new-mastering-video-playback-rate-adjustments-in-snapchat/) in your Linux distribution, and turn on the one in your broadband router too. Use WPA2 or WPA3 encryption for your wireless network, and change the Wi-Fi password from the default, if you can.
 
  Many modern Wi-Fi routers allow you to configure a [guest Wi-Fi network](https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-itel-p55-by-drfone-android/). This allows them to get to the internet, but isolates them from your main network.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5  Check Your Software Management 
 
@@ -88,7 +88,7 @@ Hannah Stryker / How-To Geek
  If you download an application and find it doesn’t suit your needs, uninstall it. Don’t just leave it on your machine. If a project is abandoned, and no longer in development, find a replacement. Using an old version of software that no longer receives security patches increases your exposure to risks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6  Make Backups and Stay Educated 
@@ -118,18 +118,24 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-efficiently-configuring-zoom-for-flawless-calls/"><u>[New] In 2024, Efficiently Configuring Zoom for Flawless Calls</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-essential-tutorial-for-using-speech-to-text-in-microsoft-word/"><u>[New] The Essential Tutorial for Using Speech-to-Text in Microsoft Word</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-innovative-tech-the-most-advanced-5-video-recorders/"><u>[Updated] Innovative Tech The Most Advanced 5 Video Recorders</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-mac-and-windows-compatible-srt-boosters-the-elite-list-of-10/"><u>[Updated] Mac & Windows Compatible SRT Boosters The Elite List of 10</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-top-ten-os-agnostic-video-players/"><u>[Updated] Unveiling Top Ten OS-Agnostic Video Players</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/can-i-browse-through-my-contacts-shared-material-in-messaging/"><u>Can I Browse Through My Contacts' Shared Material in Messaging?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-motorola-moto-e13-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Motorola Moto E13 Phone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-14-plus-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone 14 Plus Without a Home Button</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-next-gen-cinema-at-home-best-3d-blu-ray-devices/"><u>In 2024, Next-Gen Cinema at Home Best 3D Blu-Ray Devices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-list-10-top-ae-text-ideas/"><u>In 2024, Ultimate List 10 Top AE Text Ideas</u></a></li>
-<li><a href="https://extra-information.techidaily.com/seamless-integration-of-skype-meetings-into-zoom-platform/"><u>Seamless Integration of Skype Meetings Into Zoom Platform</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-honor-magic-5-lite-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Honor Magic 5 Lite FRP</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/trouble-with-iphone-6s-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with iPhone 6s Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-the-clear-path-a-step-by-step-approach-to-buying-an-exceptional-4k-monitor/"><u>[New] In 2024, The Clear Path A Step-By-Step Approach to Buying an Exceptional 4K Monitor</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-capturing-conversations-iphoneipad-tips-for-top-quality-interviews/"><u>[New] The Art of Capturing Conversations IPhone/iPad Tips for Top Quality Interviews</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-blueprint-to-dominate-with-your-spotify-ad-campaign/"><u>[New] The Blueprint to Dominate With Your Spotify Ad Campaign</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-iphone-users-guide-to-picture-softening-four-ways/"><u>[Updated] IPhone Users' Guide to Picture Softening (Four Ways)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-essential-tutorial-for-stunning-hdr-portraits/"><u>[Updated] The Essential Tutorial for Stunning HDR Portraits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tips-for-overcoming-iphone-camera-focusing-glitches/"><u>[Updated] Tips for Overcoming iPhone Camera Focusing Glitches</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-flip-flop-your-watching-anchoring-yourself-at-the-end-of-queue/"><u>2024 Approved Flip-Flop Your Watching Anchoring Yourself at the End of Queue</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-kinemaster-unveiled-the-best-game-on-your-android-device/"><u>2024 Approved KineMaster Unveiled The Best Game on Your Android Device</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, All You Need To Know About Mega Greninja For Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-vivo-v27-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Vivo V27 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-techniques-for-swiftly-finding-deleted-reddit-contributions/"><u>In 2024, Techniques for Swiftly Finding Deleted Reddit Contributions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-2022-winter-games-zenith-of-snowboard-cross/"><u>In 2024, The 2022 Winter Games Zenith of Snowboard Cross</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-fb-video-potential-with-speedy-insights/"><u>In 2024, Unleashing FB Video Potential with Speedy Insights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/joyful-sign-uplogout-flowchart-for-2024/"><u>Joyful Sign-Up/Logout Flowchart for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/leading-ipad-voice-recorders-1-2-3-for-2024/"><u>Leading iPad Voice Recorders #1, #2, #3 for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/streamline-your-content-5-efficient-ways-to-manipulate-vimeo-videos/"><u>Streamline Your Content 5 Efficient Ways to Manipulate Vimeo Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/think-about-you/"><u>Think About You</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-choice-10-excellent-camera-lenses-for-2024/"><u>Ultimate Choice 10 Excellent Camera Lenses for 2024</u></a></li>
 </ul></div>
 

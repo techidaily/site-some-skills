@@ -1,7 +1,7 @@
 ---
 title: "Exciting Updates: GIMP Introduces Advanced Gradient Capabilities Ahead of the 3.0 Update"
-date: 2024-12-31T09:10:51.327Z
-updated: 2025-01-06T16:11:20.697Z
+date: 2025-01-12T22:20:54.580Z
+updated: 2025-01-19T16:30:54.359Z
 tags:
   - deals
 categories:
@@ -38,18 +38,24 @@ The latest GIMP release (version 2.10.36) introduces a fun new gradient tool and
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-basketball-enthusiasts-guide-to-online-viewing/"><u>[New] 2024 Approved Basketball Enthusiast's Guide to Online Viewing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-2024s-elite-shotters-pick-ranked-1-10-camera-lenses/"><u>[New] 2024’S Elite Shotters’ Pick Ranked #1-10 Camera Lenses</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-unlocked-potential-of-new-windows-11/"><u>[New] In 2024, The Unlocked Potential of New Windows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-live-streaming-selection-guide/"><u>[New] Ultimate Live Streaming Selection Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-art-of-auditory-identity-crafting-your-own-ringtones-and-sounds-for-android/"><u>[Updated] The Art of Auditory Identity Crafting Your Own Ringtones & Sounds for Android</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-lg-screen-chronicles-a-complete-review-of-4k-quality/"><u>[Updated] The Ultimate LG Screen Chronicles A Complete Review of 4K Quality</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-using-luts-in-spark-ar-and-download-free-luts/"><u>2024 Approved Using LUTs in Spark AR & Download Free LUTs</u></a></li>
-<li><a href="https://fox-http.techidaily.com/next-era-visionaries-explore-10-sci-fi-movies-metaverse-realms/"><u>Next Era Visionaries Explore 10 Sci-Fi Movies' Metaverse Realms</u></a></li>
-<li><a href="https://network-issues.techidaily.com/the-black-screen-banished-from-lenovo-panels/"><u>The Black Screen Banished From Lenovo Panels</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-unmatched-video-capturing-reviews-of-the-best-apps/"><u>[New] In 2024, Unmatched Video Capturing Reviews of the Best Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-listen-and-write-the-gratis-method/"><u>[New] Listen and Write – The Gratis Method</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-snipers-manual-to-capturing-live-online-music/"><u>[New] The Sniper’s Manual to Capturing Live Online Music</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-10-budget-friendly-digital-photography-workspaces-online/"><u>[New] Top 10 Budget-Friendly Digital Photography Workspaces Online</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-cloud-storage-expenses-made-simple-comparison-guide-for-2024/"><u>[Updated] Cloud Storage Expenses Made Simple Comparison Guide for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-podcasters-guide-to-seamless-streaming-setup/"><u>[Updated] The Podcaster’s Guide to Seamless Streaming Setup</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-shades-and-tones-mastering-the-visual-spectrum/"><u>2024 Approved Shades and Tones Mastering the Visual Spectrum</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/assessing-auroraayers-image-processing-strengths/"><u>Assessing Aurora'ayer's Image Processing Strengths</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-install-libdvdcss-on-macoswindows-11-for-dvd-ripping-with-handbrake/"><u>How to Install Libdvdcss on macOS/Windows 11 for DVD Ripping with Handbrake</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-decoding-second-count-in-20mb-video-files/"><u>In 2024, Decoding Second Count in 20MB Video Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-new-horizons-in-media-grasping-the-fundamentals-of-screen-resolution/"><u>In 2024, New Horizons in Media Grasping the Fundamentals of Screen Resolution</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-personalizing-whatsapp-ringtone-on-all-devices-for-2024/"><u>The Ultimate Guide to Personalizing WhatsApp Ringtone on All Devices for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-writings-distinguished-by-genre-based-categories-for-2024/"><u>Ultimate Writings Distinguished by Genre-Based Categories for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-fcpx-2024-tutorial-how-to-perfectly-sync-your-audio-and-video-tracks/"><u>Updated FCPX 2024 Tutorial How to Perfectly Sync Your Audio and Video Tracks</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

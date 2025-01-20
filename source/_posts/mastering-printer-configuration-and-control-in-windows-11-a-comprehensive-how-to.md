@@ -1,7 +1,7 @@
 ---
 title: Mastering Printer Configuration & Control in Windows 11 – A Comprehensive How-To
-date: 2025-01-09T20:22:17.087Z
-updated: 2025-01-13T16:52:35.549Z
+date: 2025-01-16T16:01:53.401Z
+updated: 2025-01-19T16:46:26.342Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Mastering Printer Configuration & Control in Windows 11 – A Comprehensive How-To
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -37,17 +37,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![img_5b760d1fde54b](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760d1fde54b.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also use the old interface at Control Panel > Hardware and Sound > Devices and Printers. Click the "Add a Printer" button to get started.
 
  However you install the printer, Windows will probably download the necessary printer drivers on the fly. If this doesn't work, visit the printer manufacturer's website to download and install the appropriate drivers or software package for your model of printer. For some printers, such as all-in-one printers, you might also need to visit the manufacturer's website for drivers and apps that let you access the added functionality.
 
 ![img_5b760d447a301](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760d447a301.png) 
 
- You can remove a printer from here, too, if you like. In the Settings window, click a printer and click "Remove Device." In the Control Panel, right-click a printer and select "Remove Device."
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You can remove a printer from here, too, if you like. In the Settings window, click a printer and click "Remove Device." In the Control Panel, right-click a printer and select "Remove Device."
 
 ##  How to Change Printing Preferences
 
@@ -55,19 +59,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![img_5b760d784359d](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760d784359d.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the Control Panel, right-click a printer to find various options.
 
 ![img_5b760dc514f59](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760dc514f59.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To change how the printer prints, click the "Printing Preferences" option in the Settings window or context menu. You'll see a variety of options for controlling your prints here, and the settings you see will depend on the ones your printer supports.
 
  For example, if you have a color printer, you'll see options for choosing between color and black and white. You might also see options for choosing the tray from which the printer grabs the paper, selecting the orientation of the document (portrait or landscape), and changing print quality settings. Don't miss the "Advanced" button, which offers many additional settings.
 
 ![img_5b760ec197ec6](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760ec197ec6.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also access these settings while printing. Just select a printer in the Print window and then click the "Preferences" button. Note that some applications have their own print dialogs, so this option might not always be present or the window might look different
 
@@ -79,10 +87,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![img_5b760dc514f59](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760dc514f59.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The General tab of the properties window provides information about the printer's features and what drivers it's using. You can change the printer's name or add location details and comments. For example, you might want to enter a location like "Main Office" or "Second Floor Copy Room" so people can see exactly where a shared network printer is. The "Print Test Page" button here lets you quickly print a test page.
 
 ![img_5b760f54e0215](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760f54e0215.png) 
@@ -90,6 +94,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  On the "Advanced" pane, you'll even see an option that lets you choose when the printer is available. For example, if you only want to use your printer during business hours, you could select 9 am to 5 pm here. People wouldn't be able to print to the printer outside of your selected hours, which is especially useful if you've configured it as a network printer and don't want people printing to it during off hours.
 
 ## ![](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760f9652249.png)How to Print a Test Page
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can quickly check whether your printer is working and configured properly by printing a test page. Locate the printer in Settings > Devices > Printers & Scanners, click it, click the "Manage" button, and click the "Print a test page" link.
 
@@ -99,6 +107,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![img_5b761244d9161](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b761244d9161.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Set Your Default Printer
 
  By default, Windows 10 automatically manages which printer is the default. It sets your default printer as the last printer you last printed to—in other words, whenever you select a printer and print to it, Windows 10 makes that your default printer.
@@ -106,10 +118,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To change this, head to Settings > Devices > Printers & Scanners and uncheck the "Let Windows manage my default printer" option.
 
 ![img_5b76132b50e9d](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b76132b50e9d.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To choose your default printer, click a printer in the Printers & Scanners list, click "Manage," and click the "Set as Default" button.
 
@@ -129,17 +137,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![img_5b76179d0fa59](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b76179d0fa59.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Each pending print job appears in the queue. If no documents are printing, the list will be empty. You can right-click a job to cancel, pause, or restart it. Sometimes print jobs can get "stuck," and you may need to [delete them and try again](https://facebook-record-videos.techidaily.com/new-in-2024-cooking-crusaders-youtube-stars-serving-up-deliciousness/).
 
 ![img_5b761558b26c8](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b761558b26c8.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also click the Printer menu and use the various options to manage your entire queue. For example, you can click Printer > Pause Printing to temporarily pause all print jobs until you unpause them, or click Printer > Cancel All Documents to cancel all pending print jobs.
 
@@ -154,7 +154,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![img_5b76026c81a21](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b76026c81a21.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Set Up a Shared Printer
@@ -168,16 +168,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![img_5b76108e3056f](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b76108e3056f.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  With the default settings, people on your local network can find the printer—but they'll need the username and password of an account on your computer to connect to it. The printer should be automatically detected as an available printer in the normal Add Printer interface. Bear in mind that the printer won't be available while your computer is asleep.
 
  To share a printer over the Internet—for example, to print to your home printer when you're away from home—[set up Google Cloud Print](https://facebook-video-footage.techidaily.com/updated-your-smartphone-as-an-artists-canvas-producing-quality-youtube-video-content/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Troubleshoot a Printer
 
@@ -190,6 +186,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The printer troubleshooter checks for a variety of issues that could cause printing problems on your PC and tried to fix any it finds.
 
 ![img_5b7617390a489](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b7617390a489.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the printer has a built-in display, check the display to see if it's reporting an error message. If you're not sure what the error messages mean, try plugging them into a web search engine or looking them up in your printer's manual.
 
@@ -210,20 +210,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/2-best-vlogging-cameras-for-vloggers/"><u>[New] 12 Best Vlogging Cameras for Vloggers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-editors-playbook-for-drone-imagery/"><u>[New] The Editor's Playbook for Drone Imagery</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unleash-the-potential-master-avi-to-gif-conversion-using-filmora/"><u>[New] Unleash the Potential Master AVI-to-GIF Conversion Using Filmora</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-from-in-the-moment-to-lasting-images-how-to-save-from-snapchat-for-2024/"><u>[Updated] From In-the-Moment to Lasting Images How to Save From Snapchat for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-mirthful-melodies-comical-cover-tunes/"><u>[Updated] Mirthful Melodies Comical Cover Tunes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-perfecting-the-green-screen-essential-techniques/"><u>[Updated] Perfecting the Green Screen Essential Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-strategies-for-sustainable-brand-collaboration-with-youtubers/"><u>[Updated] Strategies for Sustainable Brand Collaboration with YouTubers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-the-secret-to-exceptional-time-lapse-videos-on-galaxy/"><u>2024 Approved Unlock the Secret to Exceptional Time-Lapse Videos on Galaxy</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/behind-the-scenes-expert-techniques-for-video-magic/"><u>Behind the Scenes Expert Techniques for Video Magic</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/creative-freedom-redefined-a-review-of-screenflow-on-macbook-pro-for-2024/"><u>Creative Freedom Redefined A Review of ScreenFlow on MacBook Pro for 2024</u></a></li>
-<li><a href="https://discover-best.techidaily.com/discover-the-ideal-free-dvd-viewing-apps-for-windows-users-our-comprehensive-guide-to-winxdvd-and-more/"><u>Discover the Ideal Free DVD Viewing Apps for Windows Users : Our Comprehensive Guide to WinXDVD and More</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-infinix-zero-5g-2023-turbo-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Infinix Zero 5G 2023 Turbo Pattern Lock Screen</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tailoring-trailer-music-to-evoke-emotion/"><u>In 2024, Tailoring Trailer Music to Evoke Emotion</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-want-to-know-which-are-the-best-wondershare-filmora-luts-to-use-there-are-many-luts-that-you-can-download-each-with-a-different-tone-and-/"><u>New In 2024, Do You Want to Know Which Are the Best Wondershare Filmora LUTs to Use? There Are Many LUTs that You Can Download, Each with a Different Tone and Style</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-playlist-of-film-scores-and-tracks-for-2024/"><u>Ultimate Playlist of Film Scores & Tracks for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-streamline-your-music-library-mp3s-direct-to-youtube-playlist/"><u>[New] 2024 Approved Streamline Your Music Library MP3s Direct to YouTube Playlist</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-enhancing-iphone-shots-employing-leading-lines-for-2024/"><u>[New] Enhancing iPhone Shots Employing Leading Lines for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-professional-iphoneipad-podcast-production/"><u>[New] The Ultimate Guide to Professional iPhone/iPad Podcast Production</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-resource-powerdirector-users/"><u>[New] The Ultimate Resource PowerDirector Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-time-warp-footage-with-phantom-lens-expertise/"><u>[Updated] Time Warp Footage with Phantom Lens Expertise</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/winx-dvd-ripper-platinum-dvd-dvd/"><u>【公式】WinX DVD Ripper Platinum: 最新版 DVDリッピングツールを無料でダウンロード - 常に開発中の完全機能満載DVDコピーソフト</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hero5-black-versus-hero4-silver-comparison/"><u>2024 Approved Hero5 Black Versus Hero4 Silver Comparison</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-audio-compilations-for-video-production/"><u>2024 Approved Ultimate Audio Compilations for Video Production</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-functionality-fix-a-laptop-trackpad-that-wont-work-anymore/"><u>How To Restore Functionality: Fix A Laptop Trackpad That Won't Work Anymore</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210475093-9781667424002-les-treize-ans-de-megan/"><u>Les treize ans de Megan | Free Book</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transforming-ordinary-recordings-into-pro-level-with-audacity-for-2024/"><u>Transforming Ordinary Recordings Into Pro-Level With Audacity for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-idle-management-how-to-schedule-system-shutdown/"><u>Win11 Idle Management: How to Schedule System Shutdown</u></a></li>
 </ul></div>
 

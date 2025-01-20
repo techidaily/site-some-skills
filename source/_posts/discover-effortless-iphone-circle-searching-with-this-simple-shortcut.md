@@ -1,7 +1,7 @@
 ---
 title: Discover Effortless iPhone Circle Searching with This Simple Shortcut
-date: 2025-01-10T21:24:35.919Z
-updated: 2025-01-13T17:19:08.813Z
+date: 2025-01-16T17:27:48.422Z
+updated: 2025-01-19T18:50:47.280Z
 tags:
   - mobile
 categories:
@@ -19,12 +19,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Circle to Search cuts through the traditional Google search experience, helping you find what you need in an instant. The feature isn't natively available on iPhones, but there's a workaround that lets you use Google Lens similarly. Here's how.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is Circle to Search?
 
 ![Person holding the Google Pixel 8a using Circle to Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/person-holding-the-google-pixel-8a-using-circle-to-search-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
@@ -34,6 +38,10 @@ Justin Duino / How-To Geek
  Highlight text with a tap or draw a circle around an image or video, and the search engine brings up all the related results. Although I use an iPhone as my daily driver, I've tried Circle to Search on the Galaxy S23 Ultra, and it's pretty nifty. Unfortunately, the feature is only available on select Android phones, including the [recent Samsung Galaxy S series and Pixel smartphones](https://some-knowledge.techidaily.com/updated-focusing-your-view-a-guide-to-zooming-on-microsoft-teams/).
 
  But that doesn't stop geeks from devising workarounds, right? Although Circle to Search isn't officially available on iOS, here's a quick little hack that combines the Back Tap gesture, [Google Lens visual search](https://facebook-clips.techidaily.com/new-music-syncing-for-iphones-and-androids-in-fb/), and the iPhone's Shortcuts app, mimicking how Circle to Search works on Android phones.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Get Circle to Search Functionality on Your iPhone
 
@@ -53,10 +61,6 @@ Justin Duino / How-To Geek
 
 ![Screenshot of the Take Screenshot button in Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, tap on the search bar at the bottom and type "Search Image with Lens." This option will not appear unless you've downloaded the Google app. Choose the correct option from the results.
 
 ![Search Image with Lens shortcut for iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-1.png) 
@@ -66,7 +70,7 @@ Justin Duino / How-To Geek
 ![Screenshot of iPhone's Shortcut app highlighting the Done option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, we need to link this shortcut to the Back Tap gesture or Action Button on certain iPhone models. Since I use an iPhone 13, I'll use [the Back Tap accessibility feature](https://ai-live-streaming.techidaily.com/updated-in-2024-10-free-football-streaming-sites-to-bookmark/) to trigger the shortcut we've just created.
@@ -75,21 +79,17 @@ Justin Duino / How-To Geek
 
 ![Screenshot of the Back Tap option in iPhone's Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/8-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Choose whether you want to trigger the shortcut from a double or triple tap. I'm going with double tap.
 
 ![Screenshot of the Back Tap option in iPhone's Settings section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/9.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Scroll to the bottom and select "Search Image with Lens" in the Shortcuts menu.
 
 ![Search Image with Lens in iPhone's Back Tap menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/10.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use Back Tap to Invoke Google Lens' Visual Search
 
@@ -120,22 +120,22 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-choosing-your-favorite-5-book-vtts/"><u>[New] The Ultimate Guide to Choosing Your Favorite 5 Book VTTs</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unveiling-the-ultimate-list-of-budget-friendly-video-editors/"><u>[New] Unveiling the Ultimate List of Budget-Friendly Video Editors</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-effortless-embedding-techniques-for-streaming-video-in-presentations/"><u>[Updated] In 2024, Effortless Embedding Techniques for Streaming Video in Presentations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-key-ingredients-of-a-powerful-podcast-launch-video/"><u>[Updated] The Key Ingredients of a Powerful Podcast Launch Video</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unpacking-the-enhancements-in-sony-s6500-bdp/"><u>[Updated] Unpacking the Enhancements in Sony S6500 BDP</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-power-of-grading-insights-from-dr-john-doe/"><u>[Updated] Unveiling the Power of Grading Insights From Dr. John Doe</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-professional-grade-handguns-for-ultimate-video-stability/"><u>2024 Approved Professional Grade Handguns for Ultimate Video Stability</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-stunning-iphone-portraits-through-water-imagery-techniques/"><u>2024 Approved Stunning iPhone Portraits Through Water Imagery Techniques</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-quality-frames-at-low-motion-velocity-for-2024/"><u>Best Quality Frames at Low Motion Velocity for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/directly-casting-windows-desktop-outputs-to-tv-with-googles-chromecast-device/"><u>Directly Casting Windows Desktop Outputs to TV with Google's Chromecast Device</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/explore-the-performance-and-design-of-cycwagens-newest-electric-cargo-bike/"><u>Explore the Performance and Design of CycWagen's Newest Electric Cargo Bike</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-asus-display-a-journey-through-precision-and-color/"><u>In 2024, The Ultimate ASUS Display A Journey Through Precision and Color</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-enhancing-learning-one-talk-show-at-a-time/"><u>In 2024, The Ultimate Guide to Enhancing Learning, One Talk Show at a Time</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transforming-gifs-to-stickers-comprehensive-instruction-for-messaging-apps/"><u>In 2024, Transforming GIFs to Stickers Comprehensive Instruction for Messaging Apps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/steps-to-securing-student-savings-on-your-next-lenovo-purchase/"><u>Steps to Securing Student Savings on Your Next Lenovo Purchase</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-asus-rog-phone-7-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Asus ROG Phone 7.</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-update-halted-in-4-easy-ways/"><u>Windows Update Halted in 4 Easy Ways</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-leading-cloud-services-with-best-price/"><u>[New] The Leading Cloud Services with Best Price</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-tiny-mansions-crafting-ornate-japanese-spaces/"><u>[New] Tiny Mansions Crafting Ornate Japanese Spaces</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-everything-you-need-to-know-before-upgrading/"><u>[Updated] Everything You Need To Know Before Upgrading</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-modern-methods-rapidly-turning-srt-into-txt-format/"><u>[Updated] Modern Methods Rapidly Turning SRT Into TXT Format</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-roadmap-to-irresistible-podcast-intros-and-exits/"><u>[Updated] The Roadmap to Irresistible Podcast Intros and Exits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-sweet-slumber-scenes-video-critique/"><u>2024 Approved Sweet Slumber Scenes Video Critique</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-lg-bp350-review-audiovisual-performance-analysis/"><u>2024 Approved The LG BP350 Review Audiovisual Performance Analysis</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-beginners-guide-to-screen-capturing-gameplay-on-playstation-4/"><u>A Beginner's Guide to Screen Capturing Gameplay on PlayStation 4</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cut-the-clutter-removing-spotlight-icon-in-win11/"><u>Cut the Clutter: Removing Spotlight Icon in Win11</u></a></li>
+<li><a href="https://discover-best.techidaily.com/enablingdisabling-your-pcs-network-adapter-on-windows-a-step-by-step-guide-tips-from-yl-computing/"><u>Enabling/Disabling Your PC's Network Adapter on Windows: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-swiftly-restore-working-airdrop-between-apple-gadgets-and-macs/"><u>In 2024, Swiftly Restore Working AirDrop Between Apple Gadgets & Macs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/integrating-instagram-effects-into-pre-existing-content-for-2024/"><u>Integrating Instagram Effects Into Pre-Existing Content for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/simple-guide-rejuvenating-your-iphone-battery-with-6-effective-steps/"><u>Simple Guide: Rejuvenating Your iPhone Battery with 6 Effective Steps</u></a></li>
+<li><a href="https://fox-http.techidaily.com/sketch-mastery-on-mac-the-freest-software-lineup-for-2024/"><u>Sketch Mastery on Mac The Freest Software Lineup for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/streamlining-your-creative-process-in-gopro-studio-for-2024/"><u>Streamlining Your Creative Process in GoPro Studio for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-conversion-guide-sdr-to-stunning-hdr-visuals-for-2024/"><u>Ultimate Conversion Guide SDR to Stunning HDR Visuals for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-top-techniques-for-mastering-srt-file-generation-for-2024/"><u>Unveiling Top Techniques for Mastering SRT File Generation for 2024</u></a></li>
 </ul></div>
 

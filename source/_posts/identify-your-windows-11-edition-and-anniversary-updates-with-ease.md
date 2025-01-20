@@ -1,7 +1,7 @@
 ---
 title: Identify Your Windows 11 Edition & Anniversary Updates with Ease
-date: 2025-01-08T19:01:09.793Z
-updated: 2025-01-13T18:32:26.762Z
+date: 2025-01-15T00:43:41.179Z
+updated: 2025-01-19T17:24:57.790Z
 tags:
   - desktop
 categories:
@@ -17,11 +17,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [How to Check Windows Version with the Settings App](https://vimeo-videos.techidaily.com/elevating-your-work-with-impeccable-thumbnails/)
 * [Find Your Windows Edition and Build Number with the Winver Dialog](https://digital-screen-recording.techidaily.com/updated-troubleshooting-common-obs-issues/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  Open the Settings app, then navigate to System > About to display all of the information about your Windows version. Alternatively, open the Start Menu, then enter "winver" in the search bar to quickly display basic information about your Windows installation.
 
  You may not have really thought about Windows build numbers in the past unless it was part of your job to do so. Here's how to find out what build—and edition and version—of Windows 10 you're running.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Do Build Versions Mean?
 
@@ -31,10 +39,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  In addition to builds, there also are still different editions of Windows 10—Home, Professional, Enterprise, and so on—with different features.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Check Windows Version with the Settings App
 
  The new Settings app also offers build, edition, and version information in a user-friendly form. Hit Windows+i to open Settings. In the Settings window, navigate to System > About. Scroll down a bit and you'll see the information you're after.
@@ -42,7 +46,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Open the Settings app, then go to System; About to display information about your Windows version.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-7.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Navigate to System > About and scroll down. You'll see the "Version" and "Build" numbers here.
@@ -52,10 +56,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **OS Build.** This line shows the specific operating system build you're running. It gives you sort of a timeline of minor build releases in between the major version number releases. In the screenshot above, the "14393.693" build was actually the 13th build released after version 1607 shipped in July, 2016\. This information is somewhat less important to most people than the major version numbers, but it can still help you identify exactly what you're running. If you're curious, you can check out the whole [history of versions and builds for Windows 10](https://technet.microsoft.com/en-us/windows/release-info.aspx?f=255&MSPPError=-2147217396) on Microsoft's TechNet site.
 * **System Type.** This line tells you whether you're [using the 32-bit version of Windows 10 or the 64-bit version](https://twitter-videos.techidaily.com/updated-snapchat-integration-for-twitters-visual-content/). It also tells you whether your PC is compatible with the 64-bit version or not. For example, "64-bit operating system, x64-based processor" indicates you're using a 64-bit version of Windows 10 on a 64-bit processor. "32-bit operating system, x64-based processor" indicates you're using a 32-bit version of Windows 10, but you could [install the 64-bit version on your hardware if you preferred](https://facebook-record-videos.techidaily.com/understanding-filmoras-creative-certification-protocol-for-2024/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Find Your Windows Edition and Build Number with the Winver Dialog
 
  You can also use the old standby Windows Version (winver) tool to find some of this information. Hit Start, type "winver," and then press Enter. You could also press Windows Key + R, type **winver** into the Run dialog, and press Enter.
@@ -63,7 +63,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Search for 'winver' in the Start Menu search, then click the result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-winver.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The second line in the "About Windows" box tells you which version and build of Windows 10 you have. Remember, the version number is in the form YYMM—so 1607 means the 7th month of 2016\. A couple of lines down, you'll see the edition of Windows 10 you're using—Windows 10 Pro in our example.
@@ -71,7 +71,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The version information in the Windows Version window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-search.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The "About Windows" box does not show whether you're using a 64-bit or 32-bit version of Windows 10, but it does give you a quicker way to check your version and build than navigating through the Settings app.
@@ -93,22 +93,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-direct-stream-from-youtube-to-facebook-without-pauses-or-holds/"><u>[New] 2024 Approved Direct Stream From YouTube to Facebook without Pauses or Holds</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transforming-viral-tiktok-sounds-into-personalized-calls/"><u>[New] Transforming Viral TikTok Sounds Into Personalized Calls</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-essentials-of-narrowing-virtual-room-spaces/"><u>2024 Approved The Essentials of Narrowing Virtual Room Spaces</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-most-simple-approach-to-getting-clownfish-voice-changer-on-windows/"><u>2024 Approved The Most Simple Approach to Getting Clownfish Voice Changer on Windows</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/essential-tips-for-crafting-a-dynamic-karaoke-playlist-rotation-system/"><u>Essential Tips for Crafting a Dynamic Karaoke Playlist Rotation System</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/expert-guide-to-screen-zooming-on-microsoft-teams-for-2024/"><u>Expert Guide to Screen Zooming on Microsoft Teams for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-asus-rog-phone-7-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Asus ROG Phone 7 Get Deleted Phone Number Back with Ease and Safety</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-authentic-praise-amplified-branding/"><u>In 2024, Authentic Praise, Amplified Branding</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pro-tips-for-conquering-photo-and-video-importers-on-windows-10/"><u>In 2024, Pro-Tips for Conquering Photo & Video Importers on Windows 10</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamsavvy-beyond-the-dacast-boundary/"><u>In 2024, StreamSavvy Beyond the DaCast Boundary</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-optimizing-windows-media-players-audio-operations-from-cds/"><u>In 2024, The Art of Optimizing Windows Media Player's Audio Operations From Cds</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-path-to-professional-pictures-with-video-enhance-v22/"><u>In 2024, The Path to Professional Pictures with Video Enhance V2.2</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tomorrows-critique-varied-solutions/"><u>In 2024, Tomorrow’s Critique Varied Solutions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/installing-usb-c-compatibility-with-windows-10-free-driver-downloads/"><u>Installing USB-C Compatibility with Windows 10 - FREE Driver Downloads</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pioneering-hardware-insights-with-toms-technology-blog/"><u>Pioneering Hardware Insights with Tom's Technology Blog</u></a></li>
-<li><a href="https://some-skills.techidaily.com/streamlined-audio-processing-in-windows-media-player-for-2024/"><u>Streamlined Audio Processing in Windows Media Player for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/streamlining-video-editing-in-obs-with-luts-for-2024/"><u>Streamlining Video Editing in OBS With LUTs for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-art-of-influencing-amplifying-instagram-post-reach/"><u>[New] 2024 Approved The Art of Influencing Amplifying Instagram Post Reach</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-elevating-your-youtube-presence-with-customized-subtitles-for-2024/"><u>[New] Elevating Your YouTube Presence with Customized Subtitles for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-5-best-monitors-for-ps5/"><u>[New] Top 5 Best Monitors for Ps5</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-underwater-gopro-filter-setup/"><u>[New] Ultimate Underwater Gopro Filter Setup</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-creativity-an-in-depth-review-and-tutorial-for-powerdirector-2024/"><u>[New] Unlocking Creativity An In-Depth Review & Tutorial for PowerDirector 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ideo-editing-essentials-building-youtube-trailers-in-filmora-for-2024/"><u>[New] Video Editing Essentials Building YouTube Trailers in Filmora for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-premier-screen-picks-for-ps5-and-xbox-games/"><u>[Updated] The Premier Screen Picks for PS5 and Xbox Games</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-5-ways-to-transfer-files-to-your-computer/"><u>2024 Approved 5 Ways To Transfer Files To Your Computer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-asmrists-aiding-the-nighttime-ritual/"><u>2024 Approved Top ASMRists Aiding the Nighttime Ritual</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/1726030295012-mp37/"><u>最高のMP3編集・カットソフトウェア:ユーザーから選ばれた上位7品種</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-oneplus-nord-3-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to OnePlus Nord 3 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210193284-9781633536487-get-out-of-your-own-way-guide-to-life/"><u>Get Out of Your Own Way Guide to Life | Free Book</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-swiftpodcasts-guide-for-iphone-users-download-made-simple/"><u>In 2024, SwiftPodcasts Guide for iPhone Users - Download Made Simple</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-easy-file-movement-to-pcs/"><u>In 2024, The Ultimate Guide Easy File Movement to PCs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-trailblaze-with-our-list-of-the-top-9-resources-for-dynamic-3d-fonts/"><u>In 2024, Trailblaze with Our List of The Top 9 Resources for Dynamic 3D Fonts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-voice-capture-device-analysis/"><u>In 2024, Voice Capture Device Analysis</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rectify-driver-errors-for-jetpro400-in-windows-108/"><u>Rectify Driver Errors: For JetPro400 in Windows 10/8</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/rise-in-rankings-14-high-impact-gaming-videos-for-youtube/"><u>Rise in Rankings 14 High-Impact Gaming Videos for YouTube</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-resolving-iphone-app-malfunctions-and-crashes-top-10-tips/"><u>Ultimate Guide: Resolving iPhone App Malfunctions and Crashes (Top 10 Tips)</u></a></li>
 </ul></div>
 

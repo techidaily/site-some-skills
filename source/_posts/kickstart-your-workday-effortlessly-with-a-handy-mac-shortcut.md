@@ -1,7 +1,7 @@
 ---
 title: Kickstart Your Workday Effortlessly with a Handy Mac Shortcut!
-date: 2025-01-06T19:21:12.805Z
-updated: 2025-01-13T17:01:59.887Z
+date: 2025-01-13T01:01:51.286Z
+updated: 2025-01-19T19:56:33.590Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Kickstart Your Workday Effortlessly with a Handy Mac Shortcut!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -24,7 +24,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  I’ve played around with [Apple’s Shortcuts app](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) to create all kinds of complicated processes. But my favorite shortcut, and the one I use the most by far, is actually ridiculously simple. All it does is open all my work apps, but I recommend it to everyone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Makes This Shortcut So Great
@@ -42,7 +42,7 @@ Your browser does not support the video tag.
  But enough waxing lyrical about why I love this shortcut, here’s how to try it for yourself. Honestly, it couldn’t be easier.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Create a Shortcut That Opens All Your Work Apps
@@ -62,7 +62,7 @@ Close
 ![Several actions to open apps in a Mac Shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/several-actions-to-open-apps-in-a-mac-shortcut.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  At the top of the Shortcuts window, type a name for your shortcut. I call mine “Start Working.” Then click the icon to edit the color and symbol if you want. Finally, click the Shortcut Details button in the top-right corner, shown by an “i” button, to choose how to launch this shortcut. I like to enable“Pin to Menu Bar” so I can run it from the menu bar with a couple of clicks, but you could create a keyboard shortcut if you prefer.
@@ -90,24 +90,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-charting-the-course-of-youtube-success-through-social-blade-analysis/"><u>[New] In 2024, Charting the Course of YouTube Success Through Social Blade Analysis</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-superior-tracking-mounts-for-cameras-phone-sensitive/"><u>[New] Superior Tracking Mounts for Cameras, Phone-Sensitive</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-innovation-in-desktop-computers/"><u>[New] Ultimate Innovation in Desktop Computers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-understanding-vr-headsets-an-overview/"><u>[New] Understanding VR Headsets An Overview</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-the-world-of-premium-banners-for-media/"><u>[New] Unlocking the World of Premium Banners for Media</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-ultimate-list-of-iconic-stop-motion-films/"><u>[Updated] 2024 Approved The Ultimate List of Iconic Stop-Motion Films</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-gamers-guide-expert-advice-on-capturing-your-minecraft-adventures-for-2024/"><u>[Updated] Gamer's Guide Expert Advice on Capturing Your Minecraft Adventures for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-the-quintessential-toptiktok-tweets-in-popularity/"><u>[Updated] The Quintessential #TopTikTok Tweets in Popularity</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-secrets-of-effective-job-interview-techniques/"><u>[Updated] Unlocking the Secrets of Effective Job Interview Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streaming-wars-the-ultimate-twitch-vs-youtube-battle/"><u>2024 Approved Streaming Wars The Ultimate Twitch Vs. YouTube Battle</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-4k-aerial-photography-guide-mi-drone-review/"><u>2024 Approved The Ultimate 4K Aerial Photography Guide MI Drone Review</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/conquer-chronological-chaos-snapchats-video-inversion-for-2024/"><u>Conquer Chronological Chaos Snapchat's Video Inversion for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/elite-choices-the-highest-quality-wireless-mice-of-the-year/"><u>Elite Choices: The Highest Quality Wireless Mice of the Year</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-slomo-recording-tool-assessment-guide/"><u>In 2024, The Ultimate SloMo Recording Tool Assessment Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-11-techniques-for-perfecting-hue-balance/"><u>In 2024, Top 11 Techniques for Perfecting Hue Balance</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-back-4-bloods-pc-crash-problems-with-these-expert-fixes-and-optimizations/"><u>Overcome Back 4 Blood's PC Crash Problems with These Expert Fixes and Optimizations</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/revealing-the-hidden-a-guide-to-displaying-windows-mouse-cursor-during-recordings/"><u>Revealing the Hidden: A Guide to Displaying Windows Mouse Cursor During Recordings</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-guide-converting-afreecatv-content-into-mp4-format-on-macwindows/"><u>Step-by-Step Guide: Converting AfreecaTV Content Into MP4 Format on Mac/Windows</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-windows-and-mac-top-rated-video-tagging-software/"><u>Updated In 2024, Windows and Mac Top-Rated Video Tagging Software</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-cloud-price-wars-best-value-allocation-for-2024/"><u>[New] Cloud Price Wars Best Value Allocation for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-iphonedesktop-video-change-top-8-recommendations/"><u>[New] The Ultimate Guide to iPhone/Desktop Video Change Top 8 Recommendations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-chorus-conductor-android-edition/"><u>[New] Ultimate Chorus Conductor, Android Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-creative-expressions-building-stories-from-photos-in-pixiz/"><u>2024 Approved Unlock Creative Expressions Building Stories From Photos in Pixiz</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/chromium-device-live-screen-recorder/"><u>Chromium Device Live Screen Recorder</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/earn-big-on-ig-ranking-the-most-effective-posts-for-2024/"><u>Earn Big on IG Ranking the Most Effective Posts for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-game-not-starting-errors-ensuring-correct-game-setup/"><u>How to Resolve 'Game Not Starting' Errors: Ensuring Correct Game Setup</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hps-latest-chromebook-range-the-perfect-match-for-remote-workers-and-academic-pursuits-insights/"><u>HP's Latest Chromebook Range: The Perfect Match for Remote Workers and Academic Pursuits | Insights</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721479869950-phone-screen-glimmering-troubles-here-are-7-reliable-fixes-to-stop-it-now/"><u>Phone Screen Glimmering Troubles? Here Are 7 Reliable Fixes to Stop It Now</u></a></li>
+<li><a href="https://some-tips.techidaily.com/testing-the-capabilities-of-magix-image-viewer-for-2024/"><u>Testing the Capabilities of MAGIX Image Viewer for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-visual-communication-video-creation-techniques-in-windows-10-for-2024/"><u>The Art of Visual Communication Video Creation Techniques in Windows 10 for 2024</u></a></li>
 </ul></div>
 

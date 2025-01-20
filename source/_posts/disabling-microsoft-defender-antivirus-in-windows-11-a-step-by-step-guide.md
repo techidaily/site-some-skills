@@ -1,7 +1,7 @@
 ---
 title: "Disabling Microsoft Defender Antivirus in Windows 11: A Step-by-Step Guide"
-date: 2025-01-08T18:28:19.710Z
-updated: 2025-01-13T22:52:45.625Z
+date: 2025-01-13T17:43:45.871Z
+updated: 2025-01-20T01:04:28.205Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
 ## Disabling Microsoft Defender Antivirus in Windows 11: A Step-by-Step Guide
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -63,11 +63,19 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
 
 ![Real-time Protection toggle in the Windows Security app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/real-time-protection-toggle-in-the-windows-security-app.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, disable the “Tamper Protection” toggle. Click “Yes” when the UAC prompt appears.
 
 ![Tamper Protection toggle in the Windows Security app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/tamper-protection-toggle-in-the-windows-security-app.jpg) 
 
  Once you’ve adjusted these settings in the Windows Security app, you’re all set to disable Microsoft Defender Antivirus on Windows 11 permanently.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Disable Microsoft Defender Using the Registry Editor
 
@@ -87,10 +95,6 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
 
 ![Value Data field in the Registry Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/value-data-field-in-the-registry-editor.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After that, [restart your computer](https://instagram-clips.techidaily.com/2024-approved-15-must-use-hashtags-for-popularity-on-instagram-feed/) for the changes to take effect. Upon restart, you’ll see that Microsoft Defender has been permanently disabled on your computer.
 
  To reenable Microsoft Defender Antivirus, type **0** in the “Value Data” field of the “DisableAntiSpyware” value and click “OK.” Afterward, you’ll need to enable “Real-time Protection” and “Tamper Protection” in the Windows Security app, too. 
@@ -98,7 +102,7 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
 ![Enabling Windows Defender through Registry Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/enabling-windows-defender-through-registry-editor.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Disable Microsoft Defender Using the Local Group Policy Editor
@@ -118,7 +122,7 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
 ![Turn Off Microsoft Defender Antivirus policy in the Local Group Policy Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/turn-off-microsoft-defender-antivirus-policy-in-the-local-group-policy-editor.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the Edit window, choose “Enabled.” Then, click “Apply” and “OK” to save the changes.
@@ -132,11 +136,7 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
 ![Disabled option in the Local Group Policy Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/disabled-option-in-the-local-group-policy-editor.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Check the State of Microsoft Defender on Windows 11
@@ -149,13 +149,13 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
 
 ![PowerShell window showing Not Running in result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/powershell-window-showing-not-running-in-result.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, if you get “Normal” as the result, it means Microsoft Defender is still running on your computer. In this case, double-check that you followed the steps correctly.
 
 ![PowerShell window showing Normal in result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/powershell-window-showing-normal-in-result.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -176,18 +176,17 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-fb-video-direction-whats-the-right-angle/"><u>[New] 2024 Approved FB Video Direction What's the Right Angle?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-power-supplies-for-hero5-official-and-alternative-models/"><u>[New] Ultimate Power Supplies for Hero5 Official & Alternative Models</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-obs-and-shadowplay-which-streams-better/"><u>[Updated] Obs and ShadowPlay - Which Streams Better?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streamline-your-gaming-experience-with-top-tools/"><u>[Updated] Streamline Your Gaming Experience with Top Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-archivists-collection-essential-retro-visual-hacks-for-video-editors/"><u>[Updated] The Archivist's Collection Essential Retro Visual Hacks for Video Editors</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-route-to-collecting-pictorial-frame-downloads/"><u>[Updated] The Route to Collecting Pictorial Frame Downloads</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/download-dex-3205-enhanced-beat-matching-and-improved-sync-capabilities-now-available/"><u>Download DEX 3.20.5: Enhanced Beat Matching & Improved Sync Capabilities Now Available!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-v29e-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo V29e To Phone | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-mastering-the-airwaves-dji-drones-and-social-media-live/"><u>In 2024, Mastering the Airwaves DJI Drones and Social Media Live</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-utilizing-azure-speech-to-text-api/"><u>In 2024, Utilizing Azure Speech-to-Text API</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/inicio-rapido-y-seguro-de-windows-11-tres-soluciones-faciles-de-implementar/"><u>Inicio Rápido Y Seguro De Windows 11: Tres Soluciones Fáciles De Implementar</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/pre-order-the-new-microsoft-surface-laptop-go-2-at-just-599-get-yours-today/"><u>Pre-Order the New Microsoft Surface Laptop Go 2 at Just $599 - Get Yours Today!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/strategies-for-structuring-an-efficient-collaborative-office-environment-for-2024/"><u>Strategies for Structuring an Efficient, Collaborative Office Environment for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-elevating-your-itunes-media-library-with-recordings/"><u>[Updated] Elevating Your iTunes Media Library with Recordings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-techniques-to-create-compelling-vlogger-dialogue-plans/"><u>[Updated] Techniques to Create Compelling Vlogger Dialogue Plans</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleashing-your-funny-bone-a-stepwise-guide-to-making-memes-on-9gag/"><u>[Updated] Unleashing Your Funny Bone A Stepwise Guide to Making Memes on 9GAG</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-fundamentals-of-human-interface-recognition/"><u>2024 Approved The Fundamentals of Human Interface Recognition</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/breaking-into-livestreaming-steps-to-successfully-begin-on-tiktok-from-desktop/"><u>Breaking Into Livestreaming Steps to Successfully Begin on TikTok From Desktop</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-9plus-innovative-strategies-for-streaming-live-cricket-events/"><u>In 2024, 9+ Innovative Strategies for Streaming Live Cricket Events</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-prime-video-editors-for-youtube-enthusiasts/"><u>In 2024, Prime Video Editors for YouTube Enthusiasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamline-your-videos-with-these-titans/"><u>In 2024, Streamline Your Videos with These Titans</u></a></li>
+<li><a href="https://some-skills.techidaily.com/pixel-problems-non-existent-videos-on-a6400-for-2024/"><u>Pixel Problems Non-Existent Videos on A6400 for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-samsung-galaxy-a14-4g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Samsung Galaxy A14 4G Device</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-comparison-of-leading-miniature-gaming-machines/"><u>The Ultimate Comparison of Leading Miniature Gaming Machines</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-6s-plus-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 6s Plus i Do? Get Answers here | Dr.fone</u></a></li>
 </ul></div>
 

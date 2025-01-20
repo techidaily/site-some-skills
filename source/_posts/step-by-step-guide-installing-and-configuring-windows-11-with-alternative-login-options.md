@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Installing and Configuring Windows 11 with Alternative Login Options"
-date: 2025-01-06T22:09:42.748Z
-updated: 2025-01-13T21:06:26.528Z
+date: 2025-01-14T17:01:03.910Z
+updated: 2025-01-19T16:08:21.985Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 ---
 
 ## Step-by-Step Guide: Installing and Configuring Windows 11 with Alternative Login Options
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -26,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 
  Windows 11 normally requires a Microsoft account when you set it up, but you can bypass Microsoft account creation and use a local account instead. Here's how to set up Windows 11 without a Microsoft account or convert an existing Microsoft account to a local account.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Can You Skip Microsoft Account Creation During Windows 11 Setup?
 
  Yes, but they both require some advanced preparation. We'll cover them below. On a new PC, you'll be guided through the normal Windows 11 setup process. If you're installing Windows 11 yourself, then typically, you would use the Windows Media Creation tool to [create a bootable DVD or USB drive, then install Windows 11](https://audio-shaping.techidaily.com/updated-unraveling-the-podcast-puzzle-a-step-by-step-approach-to-download-store-and-manage-auditory-media-on-computers-for-2024/) that way. Unfortunately, you'll be stuck logging in with a Microsoft account if you follow either of those normal methods.
@@ -37,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 [Windows 10 lets you use a local account](https://common-error.techidaily.com/step-by-step-tutorial-resolving-minecraft-peer-to-peer-network-issues-for-seamless-play/) if you disconnect from the internet. The latest version of Windows 11, however, will not—if you try the same trick, you'll just get an error message. Even the Professional version of Windows 11 [now requires a Microsoft account](https://some-skills.techidaily.com/new-10-missing-iphone-x-tips-and-tricks-for-you-to-pick-up/).
 
 ![The &quot;No Internet&quot; error message the Windows 11 installer gives you.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/Error-disconnecting.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  There are a few tricks to try, but Windows is wise to many of these. The first involves cutting off your internet connection when you're prompted to add a Microsoft account. This involves either pulling out your Ethernet cable (if you use one) or hitting Shift+F10 and typing **ipconfig /release** followed by Enter. Hit the "back" arrow to go back one step and create a local username and password then complete the setup as normal.
 
@@ -65,7 +53,7 @@ oobe\bypassnro
 ![The bypassnro command running in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/oobebypassnrocommand.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, you should _completely disconnect your PC from the Internet_ at this point. If Windows 11 detects an Internet connection it will continue to try and force you to sign in with a Microsoft account. However, if you're disconnected from the Internet you'll see an "I Don't Have Internet" option, or you'll be prompted to create a local account immediately. 
@@ -105,7 +93,7 @@ Close
 ![Disabling the Microsoft Account requirement via Rufus.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/disable-online-acct.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After that you just need to wait for Rufus to actually make the bootable media. It will take a few minutes at least, especially if you're using an older flash drive.
@@ -117,6 +105,10 @@ Close
  Generally, tapping the F2, Del, or F8 key will bring up a screen that'll let you pick your boot device, but it could be a different key. If you don't know what key to press, and you aren't told which key when your computer is booting up, consult the manual for your computer or motherboard. If you've lost your manual, that isn't a significant problem — you can easily [check what motherboard you have](https://extra-guidance.techidaily.com/2024-approved-navigating-through-gopros-burst-recording-options/) and then find the manual on the manufacturer's website.
 
  It is smooth sailing after you change the boot order. Windows 11 will walk you through the rest of the installation process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Create a Local Account on Windows 11
 
@@ -134,6 +126,10 @@ Close
 
  The account will now be added to your computer. Click on Start followed by your username then select "Sign out" to log in to the account.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Convert an Existing Microsoft Account to a Local Account
 
  The easy workaround using Rufus to install Windows 11 without a Microsoft account only appeared a few months prior to the release of [Windows 11's 2022 Update](https://tech-renaissance.techidaily.com/watch-your-favorite-shows-on-hulu-with-this-simple-setup-for-lg-tvs/), so most people currently using Windows 11 will have Microsoft logins.
@@ -148,9 +144,17 @@ Close
 
 ![The popup to switch to a local account on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/switching-to-local.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You should probably restart your PC even after you sign out just to fix any weird bugs that crop up. You also need to be careful now. Your account is a local-only account, which means that Microsoft won't be able to help you regain access if you forget something.
 
  Additionally, if you attempt to encrypt your drive on a local account, you'll be told you need to sign in to a Microsoft account to finish the process. That is not accurate — your drive will be encrypted even if you do not sign in, so be sure to make a copy of your recovery key.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Remove a Microsoft Account From Windows 11
 
@@ -161,10 +165,6 @@ Close
  Next to "Account Options" click "Change account type" and a new window will appear. In this window, change account type to "Administrator" and then click OK.
 
 ![Changing the account type from standard to administrator.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/change-accont-type.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can now log in to the other (local) account that you have created. Head to Settings > Accounts > Other users, select the (Microsoft) account you want to remove, and click "Remove" next to the "Account and data" field.
 
@@ -191,24 +191,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-10-most-retweeted-tiktok-sensations/"><u>[New] 2024 Approved 10 Most Retweeted TikTok Sensations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlock-pinterests-treasure-trove-with-top-free-video-downloads/"><u>[New] Unlock Pinterest's Treasure Trove with Top Free Video Downloads</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-best-webcam-recorders-for-windows-10/"><u>[Updated] 2024 Approved The Best Webcam Recorders for Windows 10</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-beauty-brilliance-masterclasses-and-product-explorations/"><u>[Updated] Beauty Brilliance Masterclasses and Product Explorations</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-fading-out-the-art-of-ebbing-audio-energy-in-fl-studio/"><u>[Updated] Fading Out The Art of Ebbing Audio Energy in FL Studio</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-art-of-podcast-logo-design-for-maximum-impact/"><u>[Updated] The Art of Podcast Logo Design for Maximum Impact</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-document-creation-with-microsoft-word-speech-recognition/"><u>2024 Approved Streamline Document Creation with Microsoft Word Speech Recognition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-techniques-for-enlarging-content-on-youtube-platform/"><u>2024 Approved Techniques for Enlarging Content on YouTube Platform</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-your-editing-potential-the-ultimate-guide-to-background-erasure-in-ps/"><u>2024 Approved Unlock Your Editing Potential The Ultimate Guide to Background Erasure in PS</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-pros-and-cons-of-mapmyride-user-reviews-unveiled/"><u>Exploring the Pros and Cons of MapMyRide: User Reviews Unveiled</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-infinix-hot-30i-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Infinix Hot 30i.</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-your-websites-visual-content-via-cropping/"><u>In 2024, Streamlining Your Website's Visual Content via Cropping</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-8-iphone-selfie-stick-choices-revealed/"><u>In 2024, Top 8 iPhone Selfie Stick Choices Revealed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleash-your-vision-the-best-360-livestimation-devices/"><u>In 2024, Unleash Your Vision The Best 360° Livestimation Devices</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-elevation-of-professional-display-an-in-depth-examination-of-the-bl2711u/"><u>The Elevation of Professional Display An In-Depth Examination of the BL2711U</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/843565-9781780574387-the-ghost-that-haunted-itself/"><u>The Ghost That Haunted Itself | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/the-missing-link-how-to-find-and-fix-your-pcs-missing-enhancements/"><u>The Missing Link: How to Find and Fix Your PC’s Missing Enhancements</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-the-power-of-pixels-master-color-correction-techniques-11-steps-for-2024/"><u>Unlock the Power of Pixels - Master Color Correction Techniques (11 Steps) for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/your-micromobility-companion-important-dates-fresh-updates-and-hidden-trends/"><u>Your Micromobility Companion: Important Dates, Fresh Updates & Hidden Trends</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-streamlining-your-online-impact-with-correct-fb-video-dimensions/"><u>[Updated] Streamlining Your Online Impact with Correct FB Video Dimensions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-lunapic-enhancement-playbook/"><u>[Updated] The Ultimate LunaPic Enhancement Playbook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-attention-grabber-composer/"><u>[Updated] Top Attention Grabber Composer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-summers-best-10-nostalgic-films-for-the-whole-family/"><u>2024 Approved Summer's Best 10 Nostalgic Films for the Whole Family</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-samsung-galaxy-f15-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Samsung Galaxy F15 5G? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bypass-chatgpt-for-efficient-code-generation-7-exceptional-ai-alternatives/"><u>Bypass ChatGPT for Efficient Code Generation: 7 Exceptional AI Alternatives</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dall-e-3s-latest-update-includes-edit-tools-yet-further-optimization-is-needed/"><u>DALL-E 3'S Latest Update Includes Edit Tools, Yet Further Optimization Is Needed</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-samsung-galaxy-a25-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Samsung Galaxy A25 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-attractive-unboxing-videos-on-ig/"><u>In 2024, The Ultimate Guide to Attractive Unboxing Videos on IG</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-nubia-z50s-pro-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Nubia Z50S Pro</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-unlock-professional-editing-techniques-in-fcp/"><u>In 2024, Unlock Professional Editing Techniques in FCP</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-secrets-of-simultaneous-iphone-shots-and-videos/"><u>In 2024, Unveiling the Secrets of Simultaneous iPhone Shots & Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/innovative-approaches-to-video-voiceover-integration-for-2024/"><u>Innovative Approaches to Video Voiceover Integration for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-stop-windows-ts-constant-restarts-with-simple-solutions/"><u>Step-by-Step Guide: Stop Windows T's Constant Restarts with Simple Solutions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Bridging Operating Systems: A Comprehensive Guide to Using Ubuntu Software on Your Windows 11 Machine"
-date: 2025-01-06T19:59:08.109Z
-updated: 2025-01-13T19:15:55.094Z
+date: 2025-01-15T01:34:17.609Z
+updated: 2025-01-19T21:13:37.985Z
 tags:
   - deals
 categories:
@@ -11,16 +11,16 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 ## Bridging Operating Systems: A Comprehensive Guide to Using Ubuntu Software on Your Windows 11 Machine
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Install WSL2 Kernel, activate Virtual Machine Platform, and make sure you have Admin rights before getting Ubuntu on Windows 11.
 * Enable Windows Subsystem for Linux, then download and install Ubuntu for WSL via Microsoft Store to run Linux apps on Windows 11.
 
  Did you know using Ubuntu-exclusive apps doesn't require overwriting your operating system? Unlock the true potential of your Windows desktop by using Ubuntu apps on Windows 11, enhancing your PC experience by blending the power of Linux and Windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Why Use Ubuntu Apps on Windows 11?
 
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
  Furthermore, if you enjoy crafting and coding, the combination of Windows and Ubuntu significantly benefits you. It simplifies the process of working on Linux-oriented projects without the need to leave the Windows environment. This integration reduces complications and amplifies productivity, whether your pursuits involve coding for enjoyment or constructing significant projects.
 
  Imagine you're a developer working on a cross-platform project. Using Ubuntu apps on Windows means you can quickly and effectively test your new project on Linux and Windows with ease. Take it from me: I write programs in the Go programming language, and being able to test out my code and run it on both Ubuntu and Windows 11 seamlessly is very powerful.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Requirements Before You Begin
 
@@ -43,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
  Lastly, ensure you have Administrator rights on your Windows 11 system. Using WSL requires modifying Windows features, and it won't work if you don't have Administrator privileges.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Enabling Windows Subsystem for Linux (WSL)
@@ -56,9 +52,17 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 ![WSL feature being turned on in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/flameshot-wsl-check-box.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now that the "OK" button has been selected, Windows 11 will begin setting up WSL on your system. This setup process should take a few minutes to complete. When the setup is complete, you must reboot your Windows PC. Select the "Restart now" button to reboot.
 
  Upon rebooting, log back into your Windows 11 desktop. Once you've logged back in, the Windows Subsystem for Linux will be enabled on Windows 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Installing Ubuntu
 
@@ -78,19 +82,15 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 ![Ubuntu WSL is installing itself to Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-is-installing.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once Ubuntu has finished its setup on Windows 11, you will see an empty terminal window, ready for you to interact with Ubuntu on your Windows 11 system.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Basic Configuration Tips
 
  Here are some basic configuration tips to improve the WSL experience on Windows 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Windows and Linux File System Integration
 
@@ -143,7 +143,7 @@ nohup program_name & disown
  Alternatively, applications can be started from the Windows 11 start menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Integration with Windows 11
@@ -179,22 +179,22 @@ wsl --update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-in-depth-look-at-vsdc-plus-top-competitors/"><u>[New] 2024 Approved In-Depth Look at VSDC, Plus Top Competitors</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-streamlining-screen-record-on-mac-via-keyboard-shortcuts/"><u>[New] 2024 Approved Streamlining Screen Record on Mac via Keyboard Shortcuts</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-the-sound-sleuths-guide-to-recording-streaming-media-for-2024/"><u>[New] The Sound Sleuth's Guide to Recording Streaming Media for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-thrifty-choices-for-virtual-reality-heads/"><u>[New] Thrifty Choices for Virtual Reality Heads</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-top-12-html5-video-engines/"><u>[Updated] The Ultimate Guide to Top 12 HTML5 Video Engines</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-top-free-android-calling-tools-ranked-by-cost/"><u>[Updated] Top Free Android Calling Tools Ranked by Cost</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-supreme-audiovisual-hints-pack/"><u>2024 Approved Supreme Audiovisual Hints Pack</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-venture-into-virtual-laughs-top-20plus-funny-metaverse-creations/"><u>2024 Approved Venture Into Virtual Laughs Top 20+ Funny Metaverse Creations</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/choosing-the-right-apple-laptop-a-comprehensive-guide-comparing-macbook-air-and-macbook-pro/"><u>Choosing the Right Apple Laptop: A Comprehensive Guide Comparing MacBook Air and MacBook Pro</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-internet-anonymity-access-to-free-ip-checker-services/"><u>Explore Internet Anonymity: Access to Free IP Checker Services</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-how-to-choose-the-background-music-for-the-trailer/"><u>In 2024, How to Choose the Background Music for the Trailer</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tips-and-tricks-for-iphone-audio-enthusiasts/"><u>In 2024, Tips and Tricks for iPhone Audio Enthusiasts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-windows-10-key-skills-you-need/"><u>In 2024, Unlocking Windows 10 Key Skills You Need</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-backup-problems-discover-9-effective-fixes-for-icloud-connectivity/"><u>IPhone Backup Problems? Discover 9 Effective Fixes for iCloud Connectivity</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210313645-9781722526672-the-art-of-tithing/"><u>The Art of Tithing | Free Book</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlimited-picture-pools-the-best-10-resources-for-2024/"><u>Unlimited Picture Pools The Best 10 Resources for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/visual-clarity-at-your-fingertips-removing-backgrounds-using-photopea/"><u>Visual Clarity at Your Fingertips Removing Backgrounds Using Photopea</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-craft-a-powerhouse-channel-with-studio-expertise/"><u>[Updated] Craft a Powerhouse Channel with Studio Expertise</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-stream-wars-evaluating-streamers-top-contenders-obs-and-wirecast/"><u>2024 Approved Stream Wars Evaluating Streamers' Top Contenders, OBS & Wirecast</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-synchronized-aesthetics-audio-meets-picture/"><u>2024 Approved Synchronized Aesthetics Audio Meets Picture</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-ios-auditory-options/"><u>2024 Approved Top 10 iOS Auditory Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-web-experience-install-windows-compatible-sites/"><u>Elevate Web Experience: Install Windows-Compatible Sites</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhance-your-iphone-photos-with-top-8-selfie-sticks/"><u>Enhance Your Iphone Photos with Top 8 Selfie Sticks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-step-by-step-voice-customization-in-free-fire-guide-included-no-cost/"><u>In 2024, Step-by-Step Voice Customization in Free Fire (Guide Included - No Cost)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-stunning-evaluation-and-different-paths/"><u>In 2024, Stunning Evaluation & Different Paths</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tech-assisted-jogs-top-virtual-reality-walking-machines-explored/"><u>In 2024, Tech-Assisted Jogs Top Virtual Reality Walking Machines Explored</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210055162-9781911134473-magic-of-the-north-gate-2nd-ed/"><u>Magic of the North Gate (2nd ed.) | Free Book</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/reinstalling-programs-made-easy-essential-techniques-for-windows-users-by-yl-software-experts/"><u>Reinstalling Programs Made Easy: Essential Techniques for Windows Users by YL Software Experts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/snickerslide-social-media-memes-made-simple/"><u>SnickerSlide Social Media Memes Made Simple</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamlining-visual-content-applying-texts-to-photos-in-windows-10-for-2024/"><u>Streamlining Visual Content Applying Texts to Photos in Windows 10 for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-iphone-photography-mastering-image-cropping-for-2024/"><u>The Art of iPhone Photography Mastering Image Cropping for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-6-digital-backdrop-eradicators-boosting-image-clarity-for-2024/"><u>Ultimate 6 Digital Backdrop Eradicators Boosting Image Clarity for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-creative-potential-with-green-screen-tips-for-2024/"><u>Unleash Creative Potential with Green Screen Tips for 2024</u></a></li>
 </ul></div>
 

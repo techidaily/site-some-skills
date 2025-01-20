@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Crafting Your Custom Shutdown Icon on Windows 11"
-date: 2025-01-04T02:33:36.213Z
-updated: 2025-01-07T08:02:52.853Z
+date: 2025-01-16T19:48:20.048Z
+updated: 2025-01-19T17:44:18.499Z
 tags:
   - deals
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
 * [Create a Shutdown Icon](https://facebook-video-share.techidaily.com/the-orderly-quest-for-veiled-youtube-vaults-for-2024/)
 * [Other Useful Shortcuts](https://some-tips.techidaily.com/2024-approved-unveiling-prime-cloud-storage-options/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * To create a shutdown shortcut, right-click empty space on your desktop and go to New > Shortcut, then enter **`Shutdown.exe /s /t 00`** into the shortcut creation wizard.
@@ -24,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
 
  It's true that [shutting down your Windows 10 PC](https://screen-activity-recording.techidaily.com/updated-the-ultimate-guide-to-mac-based-sound-capture-in-audacity-for-2024/) the old-fashioned way only takes three clicks. But why spend the extra energy when you can do it in two? All you have to do is create a shutdown icon, and you'll save yourself some time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Create a Shutdown Icon
 
  To create a shutdown icon, right-click your Desktop, hover over "New," and then select "Shortcut."
@@ -31,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
 ![RIght-click your desktop, then go to New > Shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-17.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The "Create Shortcut" menu appears. In the text box under "Type the location of the item," type the following command and then click "Next":
@@ -39,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
         `Shutdown.exe /s /t 00`
     
 ![Enter shutdown command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/Enter-shutdown-command-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In the next window, type a name for your new shortcut if you want. "Shutdown" is the default, so we'll leave it that for this example.
 
@@ -55,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
 ![A restart shortcut on the desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-restart-icon.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, whenever you double-click the icon, your PC will shut down instantly.
@@ -64,16 +68,12 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
 
 ![Right-click the restart button and click "Properties."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-open-properties.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click the "Change Icon" button, then select an icon from the default options available in Windows. Alternatively, you can [make your own icon](https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-motorola-razr-40-drfone-by-drfone-virtual-android/). 
 
 ![Click "Change Icon."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-change-icon.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Other Useful Shortcuts
@@ -106,24 +106,22 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-explore-largest-collection-of-free-vector-graphics-portals/"><u>[New] Explore Largest Collection of Free Vector Graphics Portals</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-do-anti-shake-tools-in-adobe-software-merit-use/"><u>[Updated] 2024 Approved Do Anti-Shake Tools in Adobe Software Merit Use?</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-engaging-audiences-through-text-a-comprehensive-video-guide/"><u>[Updated] Engaging Audiences Through Text A Comprehensive Video Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-techniques-to-realize-time-bending-scenes/"><u>[Updated] Techniques to Realize Time-Bending Scenes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-apple-m1-breakdown-a-glimpse-into-the-future/"><u>[Updated] The Apple M1 Breakdown A Glimpse Into the Future</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-shift-from-standard-definition-to-dynamic-range-brilliance/"><u>[Updated] The Ultimate Shift From Standard Definition to Dynamic Range Brilliance</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-pfr-rate-for-sluggish-film-speed/"><u>[Updated] Top PFR Rate for Sluggish Film Speed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-potential-advanced-techniques-for-slug-line-creation/"><u>[Updated] Unlocking Potential Advanced Techniques for Slug Line Creation</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-and-science-of-enhancing-visual-appeal-with-adobes-look-up-tables-luts/"><u>2024 Approved The Art and Science of Enhancing Visual Appeal with Adobe's Look-Up Tables (LUTs)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-your-typographic-vision-in-after-effects-mastery/"><u>2024 Approved Unleash Your Typographic Vision in After Effects Mastery</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/digital-doctor-for-distorted-images/"><u>Digital Doctor for Distorted Images</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-5-most-important-considerations-when-picking-out-your-perfect-stereo-speakers/"><u>Discover the 5 Most Important Considerations When Picking Out Your Perfect Stereo Speakers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-unheard-sound-from-devices-on-microsoft-windows/"><u>Fixing Unheard Sound From Devices on Microsoft Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-fifa-22-from-crashing-during-playtime-on-pcs/"><u>How to Stop FIFA 22 From Crashing During Playtime on PCs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-guide-to-angular-video-compilation-android/"><u>In 2024, The Essential Guide to Angular Video Compilation (Android)</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/mastering-communication-ease-with-the-midland-gxt1nk0vp4-top-reviews-and-features-uncovered/"><u>Mastering Communication Ease with the Midland GXt1nk0VP4 - Top Reviews & Features Uncovered!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/take-it-upward-expert-techniques-for-phones-for-2024/"><u>Take It Upward Expert Techniques for Phones for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-complete-guide-to-cd-conversion-and-burning-with-wmp-for-2024/"><u>The Complete Guide to CD Conversion & Burning with WMP for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-guide-to-top-video-recorders-for-2024/"><u>Ultimate Guide to Top Video Recorders for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-all-inclusive-review-of-dji-phantom-4-technology-for-2024/"><u>[New] All-Inclusive Review of DJI Phantom 4 Technology for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nlightening-your-youtube-footage-with-proper-lighting-for-2024/"><u>[New] Enlightening Your YouTube Footage with Proper Lighting for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-10-iphone-camera-features-you-should-know-in-ios-11/"><u>[New] In 2024, 10 iPhone Camera Features You Should Know in iOS 11</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-the-comprehensive-m1-max-clip-insight/"><u>[New] In 2024, The Comprehensive M1 Max Clip Insight</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-10-strategies-for-captivating-close-up-cinematography/"><u>[New] Top 10 Strategies for Captivating Close-Up Cinematography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-iphone-shot-potential-adopt-these-10-principles/"><u>[New] Unlocking iPhone Shot Potential Adopt These 10 Principles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-from-gifs-to-stickers-full-guide-for-social-channels/"><u>[Updated] From GIFs to Stickers Full Guide for Social Channels</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-is-there-money-in-evaluating-merchandise-vids-in-2024/"><u>[Updated] Is There Money in Evaluating Merchandise Vids, In 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-freeframe-gallery-a-haven-for-the-pocket-savvy-in-tiktok-artistry/"><u>[Updated] The FreeFrame Gallery A Haven for the Pocket-Savvy in TikTok Artistry</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-psd-transparency-tricks/"><u>[Updated] Ultimate PSD Transparency Tricks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-power-of-reverse-recording-in-phantom-cameras/"><u>[Updated] Unveiling the Power of Reverse Recording in Phantom Cameras</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-checklist-for-selecting-prime-streaming-services-of-cricket/"><u>2024 Approved The Ultimate Checklist for Selecting Prime Streaming Services of Cricket</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-vivo-y17s-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Vivo Y17s Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-guide-to-ios-based-interview-and-journey-podcasts/"><u>In 2024, Ultimate Guide to iOS-Based Interview & Journey Podcasts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-visionary-insights-selecting-from-5-premier-slow-cameras/"><u>In 2024, Visionary Insights Selecting From 5 Premier Slow Cameras</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-subscriber-chatter-best-practices-for-comments-for-2024/"><u>The Art of Subscriber Chatter Best Practices for Comments for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209695014-9781632658098-wicca-spellcraft-for-men/"><u>Wicca Spellcraft for Men | Free Book</u></a></li>
 </ul></div>
 

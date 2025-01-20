@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Linux File Timestamps – Decoding Atime, Mtime, and Ctime Explained
-date: 2025-01-06T17:29:34.192Z
-updated: 2025-01-13T19:08:39.088Z
+date: 2025-01-15T23:44:38.585Z
+updated: 2025-01-19T16:05:26.233Z
 tags:
   - desktop
 categories:
@@ -22,10 +22,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  When does "changed" not mean "modified"? When we're talking about Linux file timestamps. In this guide, we'll explain how the system updates them, and how to alter them yourself.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The Difference Between atime, mtime, and ctime
 
  Every Linux file has three [timestamps:](https://en.wikipedia.org/wiki/MAC%5Ftimes) the access timestamp (atime), the modified timestamp (mtime), and the changed timestamp (ctime).
@@ -39,7 +35,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The standard [ext4 Linux file system](https://remote-screen-capture.techidaily.com/new-the-definitive-guide-to-android-mobas-10-winners-for-2024/) also allocates space for a file-creation timestamp in its internal file system structures, but this hasn't been implemented yet. Sometimes, this timestamp is populated, but you can't depend on the values in it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Anatomy of a Timestamp
@@ -49,10 +45,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  When Linux needs to display a timestamp, it translates the number of seconds into a date and time. This makes it easier for humans to understand. The location and time zone the computer viewing the file is in guides the conversion of the number of seconds to a date and time. It also ensures the month is in the correct language.
 
  So, how many seconds can be stored in a timestamp? A lot—2,147,483,647, to be precise. That's a big number, but is it enough? If you add that to the Unix epoch, and then translate it to a date and time, you get Tuesday, January 19, 2038, at 03:14:07 a.m. We'll need a different scheme for timestamps before then, though.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Viewing Timestamps
 
@@ -132,6 +124,10 @@ stat dp.c
 
 ![touch dp.c -r dice_words.sl3 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/6-5.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And then, we're pretty much back where we started, with a mixture of -0400 and -0500 timestamps.
 
  Let's do something that only affects the changed timestamp. We'll use the chmod command to give an executable file [execute permissions for all users](http://man7.org/linux/man-pages/man1/chmod.1.html):
@@ -141,10 +137,6 @@ chmod +x dp
 stat dp
 
 ![The &quot;chmod +x dp&quot; and &quot;stat dp&quot; commands in a terminal window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/10-6.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The changed timestamp was the only one that updated. This is because the file itself wasn't changed—it was neither accessed nor modified. However, the metadata about the file was changed.
 
@@ -165,37 +157,49 @@ less /etc/fstab
 
 ![less /etc/fstab in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/7-6.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The /etc/fstab file is displayed for us, as shown below.
 
 ![The /etc/fstab file in less in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/8-5.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Here's the content of the file without the wrap-around:
 
         `# /etc/fstab: static file system information.  
 
-## 
-
-## Use 'blkid' to print the universally unique identifier for a  
-
-## device; this may be used with UUID= as a more robust way to name devices  
-
-## that works even if disks are added and removed. See fstab(5).  
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+## Use 'blkid' to print the universally unique identifier for a  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## device; this may be used with UUID= as a more robust way to name devices  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## that works even if disks are added and removed. See fstab(5).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## 
+
 ## <file system> <mount point> <type> <options> <dump> <pass>  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## / was on /dev/sda1 during installation  
 UUID=4a143d08-8695-475b-8243-b13b56050fc2 / ext4 errors=remount-ro 0 1  
@@ -212,10 +216,6 @@ UUID=4a143d08-8695-475b-8243-b13b56050fc2 / ext4 errors=remount-ro 0 1
 cat /proc/mounts | grep "sda"
 
 ![cat /proc/mounts | grep "sda" in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/9-6.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now we see the following options:
 
@@ -259,24 +259,19 @@ cat /proc/mounts | grep "sda"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-a-beginners-guide-to-instagram-story-feature/"><u>[New] A Beginner's Guide to Instagram Story Feature</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-navigating-the-future-of-fb-advertising-key-predictions/"><u>[New] In 2024, Navigating the Future of FB Advertising – Key Predictions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-perfect-pixels-a-guide-to-using-photoshops-eraser/"><u>[New] Perfect Pixels A Guide to Using Photoshop's Eraser</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-3-twitter-video-tools-for-easy-uploads/"><u>[New] Top 3 Twitter Video Tools for Easy Uploads</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transition-tips-seamlessly-moving-to-macos-sierra/"><u>[New] Transition Tips Seamlessly Moving to MacOS Sierra</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-cutting-costs-with-smart-cloud-storage-choices-for-2024/"><u>[Updated] Cutting Costs with Smart Cloud Storage Choices for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-innovative-tips-for-audio-addition-to-powerpoint-decks/"><u>[Updated] In 2024, Innovative Tips for Audio Addition to PowerPoint Decks</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-blurring-out-the-unwanted-in-your-photos/"><u>2024 Approved Blurring Out the Unwanted in Your Photos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-instantaneous-installation-laugh-with-ifunny-memes-easily/"><u>2024 Approved Instantaneous Installation Laugh with iFunny Memes Easily</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-musical-milestones-celebrate-your-growth-with-these-15-vids/"><u>2024 Approved Musical Milestones Celebrate Your Growth with These 15 Vids</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-best-tools-in-magix-video-pro-x-for-editors/"><u>2024 Approved The Best Tools in Magix Video Pro X for Editors</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-time-stretched-pixelation-the-ultimate-guide-to-cam-gear/"><u>2024 Approved Time-Stretched Pixelation The Ultimate Guide to Cam Gear</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-the-potential-advanced-techniques-for-podcast-editing-in-garageband/"><u>2024 Approved Unlock the Potential Advanced Techniques for Podcast Editing in GarageBand</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/demystifying-discords-features-and-tools-for-2024/"><u>Demystifying Discord's Features and Tools for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-pinnacle-microphone-selections-for-4k-camera-excellence/"><u>In 2024, Pinnacle Microphone Selections for 4K Camera Excellence</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tiktok-bio-enhancement-with-direct-url-integration/"><u>In 2024, TikTok Bio Enhancement with Direct URL Integration</u></a></li>
-<li><a href="https://win-able.techidaily.com/minecraft-gameplay-improvement-update-graphics-driver-guide-and-resolve-outdated-issues/"><u>Minecraft Gameplay Improvement: Update Graphics Driver Guide & Resolve Outdated Issues</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/precision-engineering-for-dvd-production-in-macos/"><u>Precision Engineering for DVD Production in macOS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-amplifying-audience-size-on-igtv-proven-approaches-for-success/"><u>[New] 2024 Approved Amplifying Audience Size on IGTV Proven Approaches for Success</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-ultimate-top-viewers-playlist-on-youtube-history/"><u>[New] 2024 Approved Ultimate Top Viewers' Playlist on YouTube History</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-best-virtual-background-for-google-meet-video-call-for-2024/"><u>[New] Best Virtual Background for Google Meet Video Call for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamline-your-online-learning-downloading-youtube-srt-subtitles-using-3-simple-methods/"><u>[New] Streamline Your Online Learning Downloading YouTube SRT Subtitles Using 3 Simple Methods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-pubg-voice-customization/"><u>[New] The Ultimate Guide to PUBG Voice Customization</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-photographic-power-up-grid-software-of-the-decade/"><u>[Updated] 2024 Approved Photographic Power-Up Grid Software of the Decade</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-most-simple-approach-to-getting-clownfish-voice-changer-on-windows/"><u>[Updated] The Most Simple Approach to Getting Clownfish Voice Changer on Windows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-the-metaverse-simplified-avatar-designs/"><u>2024 Approved Unlocking the Metaverse Simplified Avatar Designs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/effortlessly-preserve-and-digitize-your-classic-films-using-winx-dvd-ripper-platinum-in-just-five-minutes/"><u>Effortlessly Preserve and Digitize Your Classic Films Using WinX DVD Ripper Platinum in Just Five Minutes!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elite-list-of-ultimate-qi-chargers-in-depth-analysis-and-ratings-by-professionals-zdnet/"><u>Elite List of Ultimate Qi Chargers : In-Depth Analysis and Ratings by Professionals | ZDNet</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-to-use-zoom-for-skype-easy-solutions-for-2024/"><u>How to Use Zoom for Skype [Easy Solutions] for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-textual-transformation-enrich-your-images-with-words-pcmac-style/"><u>In 2024, Textual Transformation Enrich Your Images with Words, PC/Mac Style</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-for-witcher-nought-launch-problem-in-the-witcher-3-wild-hunt-game/"><u>Troubleshooting Guide for Witcher Nought-Launch Problem in The Witcher 3: Wild Hunt Game</u></a></li>
 </ul></div>
 

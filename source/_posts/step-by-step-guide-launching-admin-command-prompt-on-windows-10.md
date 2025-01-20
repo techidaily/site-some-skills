@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Launching Admin Command Prompt on Windows 10"
-date: 2025-01-05T06:23:40.266Z
-updated: 2025-01-06T17:10:02.806Z
+date: 2025-01-17T21:41:48.971Z
+updated: 2025-01-19T22:31:40.459Z
 tags:
   - deals
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 
 ## Step-by-Step Guide: Launching Admin Command Prompt on Windows 10
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Open Command Prompt as Admin with the Start Menu](https://instagram-video-files.techidaily.com/updated-in-2024-the-comprehensible-guide-to-capturing-instagram-media-via-computer-systems/)
@@ -18,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 * [Open Command Prompt as Admin with the Power User Menu](https://facebook-video-footage.techidaily.com/updated-shegames-supreme-the-10-best-female-youtubers/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -33,25 +37,13 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 
 ![Search &quot;Command Prompt&quot; in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/05/Search-Command.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When you launch the Command Prompt with admin privileges, you'll likely see a "[User Account Control](https://extra-support.techidaily.com/new-proven-techniques-for-amplifying-tiktok-unboxing-success/)" window asking for permission to continue. Go ahead and click "Yes."
 
 ![Click &quot;Yes&quot; when prompted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/05/cpa_2.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you've got the "Administrator: Command Prompt" window open, you can run any command, whether it requires administrative privileges or not.
 
 ![A Command Prompt window with Administrative Privileges.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-cmd-as-admin.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you've set up Windows Terminal on Windows 10 the window may look a little different from our screenshot. It isn't a problem, and it won't affect any commands you try to run. 
 
@@ -62,7 +54,11 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 ![Cmd in a run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-cmd-via-run.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Open Command Prompt as Admin with the Power User Menu
@@ -70,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
  Windows 10 offers a "power user" menu that you can access by pressing Windows+X or just right-clicking the Start button. In the power user menu, choose "Command Prompt (Admin)."
 
 ![Right-click the Start Menu button or press Windows+X, then click &quot;Command Prompt.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/05/from-the-power-user-menu.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You'll probably see PowerShell instead of Command Prompt unless you're using a really old version of Windows 10\. The [Creators Update for Windows 10](https://hardware-help.techidaily.com/exploring-technology-with-tom-your-trusted-source-for-hardware-insights-and-reviews/) swapped PowerShell for Command Prompt in the Power User menu, but you can [switch back to Command Prompt](https://video-screen-grab.techidaily.com/updated-in-2024-gameboy-advance-mastered-android-emulator-selection/) if you want. Ideally, you should give [PowerShell](https://techno-recovery.techidaily.com/x-men-film-series-viewing-guide-the-ultimate-sequence/) a try — it can do most everything Command Prompt can, and a ton of additional useful things.
 
@@ -90,21 +90,21 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-a-step-by-step-guide-to-stunning-image-artistry-mosaics-for-2024/"><u>[New] A Step-By-Step Guide to Stunning Image Artistry Mosaics for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-full-image-potential-incorporating-luts-in-adobe-photoshop-cs6/"><u>[New] Unlocking Full Image Potential Incorporating LUTs in Adobe Photoshop CS6</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-evolving-strategies-the-forecast-for-fb-advertising/"><u>[Updated] Evolving Strategies The Forecast for FB Advertising</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-blueprint-for-virtual-business-growth/"><u>[Updated] The Blueprint for Virtual Business Growth</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-funimate-unlocking-the-secrets-of-easy-downloads/"><u>2024 Approved Funimate Unlocking the Secrets of Easy Downloads</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-masters-of-illusion-top-vr-producers/"><u>2024 Approved Masters of Illusion Top VR Producers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transform-photos-create-masterpieces-with-leading-apps/"><u>2024 Approved Transform Photos, Create Masterpieces with Leading Apps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unraveling-the-mystery-of-iphone-based-podcast-access/"><u>2024 Approved Unraveling the Mystery of iPhone-Based Podcast Access</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/1728471280869-hddwindows-111087/"><u>最適な外部HDD同期ソフトウェア、Windows 11/10/8/7対応</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-15-plus-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone 15 Plus</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transitioning-timeless-images-a-tech-savvy-approach/"><u>In 2024, Transitioning Timeless Images A Tech-Savvy Approach</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reviving-video-vexations-through-sample-assistance/"><u>Reviving Video Vexations: Through Sample Assistance</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/revolutionizing-online-learning-with-zooms-transformative-tools/"><u>Revolutionizing Online Learning with Zoom's Transformative Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-threefold-way-to-extract-and-save-youtubes-subtitles-srt-for-2024/"><u>The Threefold Way to Extract and Save YouTube's Subtitles (SRT) for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-choice-top-tier-webcam-mounts-and-grips-for-2024/"><u>Ultimate Choice Top-Tier Webcam Mounts & Grips for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/variations-in-windows-movie-maker-clones/"><u>Variations in Windows Movie Maker Clones</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-master-the-art-of-technological-advancement-with-this-guide/"><u>[New] In 2024, Master the Art of Technological Advancement with This Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-storage-solutions-ps5s-top-10-external-units/"><u>[New] Storage Solutions PS5's Top 10 External Units</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-structuring-a-compelling-resume-cv-on-linkedin/"><u>[New] Structuring a Compelling Resume (CV) on LinkedIn</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-smart-shoppers-guide-to-affordable-cloud-space/"><u>[New] The Smart Shopper's Guide to Affordable Cloud Space</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unraveling-the-secrets-to-soaring-podcast-rankings-with-seo/"><u>[New] Unraveling the Secrets to Soaring Podcast Rankings with SEO</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-80s-revivalists-handbook-for-dynamic-editing-techniques/"><u>[Updated] The 80S Revivalist's Handbook for Dynamic Editing Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-essence-of-color-in-photography-top-11-tutorials/"><u>[Updated] The Essence of Color in Photography (Top 11 Tutorials)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-essential-techniques-in-building-photomosaics/"><u>2024 Approved Essential Techniques in Building PhotoMosaics</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/merge-mov-files-for-free-5-best-options-for-2024/"><u>Merge MOV Files for Free 5 Best Options for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/off-road-adventures-await-explore-the-top-free-car-racers-for-no-wifi-needed/"><u>Off-Road Adventures Await - Explore the Top Free Car Racers for No WiFi Needed !</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/step-by-step-enabling-screen-capture-on-macos/"><u>Step-by-Step Enabling Screen Capture on MacOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-restoring-bluetooth-visibility-win/"><u>Steps for Restoring Bluetooth Visibility WIN</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tailoring-your-streaming-experience-on-macos-via-mixer-for-2024/"><u>Tailoring Your Streaming Experience on macOS via Mixer for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-complete-drone-racing-playbook-plus-5-elite-fpv-brands/"><u>The Complete Drone Racing Playbook + 5 Elite FPV Brands</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-subtle-art-of-apples-web-presentation-why-you-wont-find-an-on-their-sites-an-in-depth-analysis-by-gadgetguru/"><u>The Subtle Art of Apple's Web Presentation: Why You Won't Find an '!' On Their Sites – An In-Depth Analysis by GadgetGuru</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unified-tint-harmonizer-for-2024/"><u>Unified Tint Harmonizer for 2024</u></a></li>
 </ul></div>
 

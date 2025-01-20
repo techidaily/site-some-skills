@@ -1,7 +1,7 @@
 ---
 title: Seamless Access to Distant Linux Machine Files Made Simple
-date: 2025-01-07T17:54:59.709Z
-updated: 2025-01-13T18:15:05.915Z
+date: 2025-01-13T19:33:23.858Z
+updated: 2025-01-19T17:04:01.944Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Seamless Access to Distant Linux Machine Files Made Simple
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -35,10 +35,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  SSHFS isn’t really suited to executing programs located on the remote computer. Launching an executable from the mounted file system probably won’t work well, as it will try to run on your local computer. That’s the sort of stuff best suited to a regular SSH connection. But, for working with remote files, SSHFS can't be beat.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Installing SSHFS
 
  To use SSHFS, SSH must already be working on the remote computer. We’ve covered how to set up SSH elsewhere. We recommend [using SSH keys instead of passwords](https://youtube-tips.techidaily.com/n-2024-laughter-labyr-writes-making-memorable-parodies/).
@@ -54,7 +50,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Installing SSHFS on Ubuntu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/1-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Fedora users need to type:
@@ -70,7 +66,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Installing SSHFS on Manjaro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/3-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can test that SSHFS is installed and responding, by asking for its version number.
@@ -91,15 +87,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
     
 ![Creating the mount point directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/5-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Let’s take a look at our new directory.
 
         `ls -hl /media/dave`
     
 ![Using ls to check the attributes of the mount point directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/6-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Our directory has been created, and it is owned by root. That won’t matter though, we’ll have [read and write permissions](https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-13-pro-without-itunes-by-drfone-ios/) on the mounted file system.
 
@@ -108,6 +104,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
         `sudo sshfs -o allow_other,default_permissions dave@net-scan.lan: /media/dave/netscan/`
     
 ![Mounting the remote file system on the local mount point.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/7-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The command consists of:
 
@@ -133,10 +133,6 @@ ls`
     
 ![Listing the contents of the remote file system in a terminal window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/8-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  We can see the home directory of the user account on the remote computer. Any changes you make here are made on the remote drive. Any edits or deletions will affect the remote computer.
 
  We ought to be able to create a new file.
@@ -157,6 +153,10 @@ ls /home/dave/Downloads/`
     
 ![Copying files from the remote file system to the local file system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/10-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Accessing Files in a File Browser
 
  Because the mounted file system looks and behaves like any other part of your file system’s directory tree, you can use your file browser to navigate it too.
@@ -169,6 +169,10 @@ ls /home/dave/Downloads/`
 
 ![Editing a file in the remote file system with a local editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/12-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you edit a document, for example, your default local editor is launched.
 
 ##  Breaking the Connection
@@ -178,10 +182,6 @@ ls /home/dave/Downloads/`
         `sudo umount /media/dave/netscan`
     
 ![Unmounting the remote file system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/13-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The Far Away, Up Close
 
@@ -204,24 +204,22 @@ ls /home/dave/Downloads/`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-photographers-guide-to-pc-gaming-scenes/"><u>[New] In 2024, The Photographer’s Guide to PC Gaming Scenes</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-the-ultimate-list-of-5-youtube-competitor-editors/"><u>[New] In 2024, The Ultimate List of 5 YouTube Competitor Editors</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-strategies-for-in-depth-nba-game-watching/"><u>[New] Top Strategies for In-Depth NBA Game Watching</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unleashing-clarity-with-eizos-coloredge-cg318-4k/"><u>[New] Unleashing Clarity with EIZO's ColorEdge CG318-4K</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-race-for-excellence-av1-vs-vp9-codec/"><u>[Updated] The Race for Excellence AV1 Vs. VP9 Codec</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-the-metaverse-essential-gear-to-consider-top-7/"><u>2024 Approved Transforming the Metaverse Essential Gear to Consider (Top 7)</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-12-mini-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 12 mini Without a Passcode</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726030352870-dvd/"><u>品質保持しつつDVD動画のサイズ縮小方法</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discounted-delight-apple-m3-macbook-air-slashed-by-250-in-octobers-exclusive-amazon-prime-event-insights-from-zdnet/"><u>Discounted Delight: Apple M3 MacBook Air Slashed by $250 in October's Exclusive Amazon Prime Event - Insights From ZDNet</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-mastering-screen-recording-mi-11-edition/"><u>In 2024, Mastering Screen Recording Mi 11 Edition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-telegram-edge-advanced-tactics-for-effective-promotion/"><u>In 2024, The Telegram Edge Advanced Tactics for Effective Promotion</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transforming-realities-into-engaging-documentaries-through-scriptwriting/"><u>In 2024, Transforming Realities Into Engaging Documentaries Through Scriptwriting</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-list-seamless-no-download-gif-to-video-converters/"><u>In 2024, Ultimate List Seamless No-Download GIF to Video Converters</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-to-fix-directx-file-downloads/"><u>Methods to Fix DirectX File Downloads</u></a></li>
-<li><a href="https://some-skills.techidaily.com/navigating-multi-screen-browsing-effortlessly-in-google-chrome-for-2024/"><u>Navigating Multi-Screen Browsing Effortlessly in Google Chrome for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/symphony-for-statuses-whatsapps-melodic-feature-for-2024/"><u>Symphony for Statuses WhatsApp's Melodic Feature for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/tech-savvy-tips-for-recording-video-calls-for-2024/"><u>Tech-Savvy Tips for Recording Video Calls for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/windows-11-clipboard-privacy-how-to-securely-wipe-out-past-copied-data/"><u>Windows 11 Clipboard Privacy: How to Securely Wipe Out Past Copied Data</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlining-your-video-workflow-in-windows-11/"><u>[New] Streamlining Your Video Workflow in Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-financial-floor-and-ceiling-in-podcasting-world/"><u>[New] The Financial Floor and Ceiling in Podcasting World</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-leading-photo-framers-of-2024-reviewed/"><u>[New] The Leading Photo Framers of 2024 Reviewed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-hd-cameras-for-wildlife-enthusiasts/"><u>[New] Top HD Cameras For Wildlife Enthusiasts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-avoiding-edgenuitys-grasp-tips-for-quickly-skipping-video-lessons-for-2024/"><u>[Updated] Avoiding Edgenuity's Grasp Tips for Quickly Skipping Video Lessons for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-wealth-reddits-top-13-money-making-methods/"><u>[Updated] Unlocking Wealth Reddit's Top 13 Money-Making Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-convert-m4v-files-to-wav-format-at-no-cost-on-your-windows-pc/"><u>1. Convert M4V Files to WAV Format at No Cost on Your Windows PC</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-ultimate-software-for-mp4-recording/"><u>2024 Approved The Ultimate Software for MP4 Recording</u></a></li>
+<li><a href="https://some-tips.techidaily.com/continue-to-save-on-apple-watch-se-gen-2-following-prime-day-deals-exclusive-info-by-zdnet/"><u>Continue to Save on Apple Watch SE (Gen 2) Following Prime Day Deals – Exclusive Info by ZDNet</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/enhancing-life-with-english-skills/"><u>Enhancing Life with English Skills</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-in-a-sea-of-silence-the-perils-of-pretense-in-profiles/"><u>In 2024, In a Sea of Silence The Perils of Pretense in Profiles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-your-potential-with-periscope-broadcasts/"><u>In 2024, Unleash Your Potential with Periscope Broadcasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-hidden-power-of-windows-11/"><u>In 2024, Unveiling the Hidden Power of Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-overcoming-the-hurdle-of-launching-steam-games-on-windows-11/"><u>Solved! Overcoming the Hurdle of Launching Steam Games on Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transforming-dull-interviews-into-engaging-assessments-for-2024/"><u>Transforming Dull Interviews Into Engaging Assessments for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/troubleshooting-shadowcast-capture-issues-on-windows-pcs/"><u>Troubleshooting Shadowcast Capture Issues on Windows PCs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For OnePlus Ace 3? | Dr.fone</u></a></li>
 </ul></div>
 

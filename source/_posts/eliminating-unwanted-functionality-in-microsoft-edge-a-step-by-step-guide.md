@@ -1,7 +1,7 @@
 ---
 title: "Eliminating Unwanted Functionality in Microsoft Edge: A Step-by-Step Guide"
-date: 2025-01-02T04:00:49.431Z
-updated: 2025-01-07T09:15:43.445Z
+date: 2025-01-12T21:14:17.290Z
+updated: 2025-01-19T20:44:14.301Z
 tags:
   - deals
 categories:
@@ -11,16 +11,16 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 
 ## Eliminating Unwanted Functionality in Microsoft Edge: A Step-by-Step Guide
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Remove Clutter From Edge Home Page](https://win-howtos.techidaily.com/troubleshoot-your-airpods-on-windows-11-guide-updated/)
 * [Stop Edge From Running in the Background](https://sound-optimizing.techidaily.com/updated-2024-approved-leading-platforms-for-seamless-mp3-refinement-and-cutting/)
 * [Change the Look Of Your Edge Browser](https://screen-sharing-recording.techidaily.com/top-5-cost-effective-video-editing-software-for-gamers-for-2024/)
 * [Adjust Edge Web Services](https://buynow-marvelous.techidaily.com/navigating-the-pre-owned-ipad-market-a-buyers-top-five-guide/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -39,19 +39,23 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 ![Show Feed toggle in the Page Settings window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/show-feed-toggle-in-the-page-settings-window.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Edge also has a quick link section with links to various websites. These links are from companies that pay Microsoft to display them on the Edge home page. If you don’t want to see these links, click the gear icon and turn off the “Show Promoted Links” toggle.
 
 ![Show promoted links toggle in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/show-promoted-links-toggle-in-edge.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In addition, the Edge home page also displays your area's [weather information](https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-t2-pro-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/). If you have a dedicated weather app installed or simply want to get rid of it, click the gear icon and turn off the “Show Weather” toggle. There’s also a background toggle in the Page settings menu that controls the [Edge home page background](https://some-knowledge.techidaily.com/new-full-spectrum-kinetic-assessment/). It typically doesn’t use much system resources and offers a new background daily. But if you prefer a plain black or white background (depending on your [Edge theme](https://extra-hints.techidaily.com/2024-approved-a-top-10-curated-list-of-superior-vector-portals/)), you can also disable this toggle.
 
 ![Background toggle in the Edge browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/background-toggle-in-the-edge-browser.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After making these changes, you’ll find the Edge home page much less cluttered.
@@ -64,16 +68,12 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 
 ![Settings option in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/settings-option-in-edge.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the Edge Settings menu, select "System and Performance" from the left sidebar and turn off the "Continue running background extensions and apps when Microsoft Edge is closed" and "Startup Boost" toggles on the right.
 
 ![Startup Boost option in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/startup-boost-option-in-edge.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Change the Look Of Your Edge Browser
@@ -83,10 +83,6 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
  To disable all these settings, open the Edge settings menu, select "Appearance" from the left sidebar, and choose the "System Default" option from the right side. Alternatively, you can also select the "Dark" or "Light" option if you have a particular color preference for the browser.
 
 ![System Default option in Edge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/system-default-option-in-edge.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Next, in the top-left corner of the Edge browser, you will find a square icon called the "Tab Actions Menu" that allows you to manage tabs that are opened in the browser. You can access this menu to switch to [vertical tabs](https://youtube-sure.techidaily.com/n-2024-best-8-youtube-editing-software-for-linux/), look for a particular tab, and do many other tab-related things. However, as a general user, you are rarely going to need to access this menu. Therefore, it's better to disable it.
 
@@ -112,6 +108,10 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
  Furthermore, you should also disable [Workspaces](https://extra-approaches.techidaily.com/2024-approved-smooth-sailing-with-kinemaster-in-film-edits/). It lets you organize open tabs into different categories. This feature is primarily for advanced users like project leaders or those who need to demonstrate Edge features to a large team. If you use Edge for general browsing, you should disable the "Show Workspaces" toggle.
 
 ![Show Workspaces toggle in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/show-workspaces-toggle-in-edge.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Adjust Edge Web Services
 
@@ -142,19 +142,22 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-essentials-of-picking-up-free-pictorial-frames/"><u>[New] In 2024, Essentials of Picking Up Free Pictorial Frames</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-portable-recording-stands-and-lenses/"><u>[New] Portable Recording Stands and Lenses</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-streaming-success-implementing-green-screen-innovations/"><u>[New] Streaming Success Implementing Green Screen Innovations</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-pro-level-drone-racing-techniques-and-quintessential-fpvs/"><u>[Updated] Pro-Level Drone Racing Techniques & Quintessential FPVs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-superior-picks-top-rated-webcam-grips/"><u>[Updated] Superior Picks Top-Rated Webcam Grips</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-spin-up-original-web-memes-instantly/"><u>2024 Approved Spin Up Original Web Memes Instantly</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-ten-cyber-shops-where-every-gift-tells-a-story/"><u>2024 Approved Top Ten Cyber Shops Where Every Gift Tells a Story</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-footage-into-high-quality-content/"><u>2024 Approved Transforming Footage Into High-Quality Content</u></a></li>
-<li><a href="https://program-issues.techidaily.com/arise-tales-episode-overcoming-the-notorious-ue4-fatal-errors-successfully/"><u>Arise Tales Episode: Overcoming the Notorious UE4 Fatal Errors Successfully</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/curb-automated-youtube-content-feeds-for-2024/"><u>Curb Automated YouTube Content Feeds for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/lines-for-authoritative-life-lesson-videos-for-2024/"><u>Guidelines for Authoritative Life Lesson Videos for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-hot-40i-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Infinix Hot 40i Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-mastering-iphone-macro-photography-detailed-images-at-your-fingertips/"><u>In 2024, Mastering iPhone Macro Photography Detailed Images at Your Fingertips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-snipers-manual-to-capturing-live-online-music/"><u>In 2024, The Sniper’s Manual to Capturing Live Online Music</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-direct-mp3-download-for-fb-video-tracks/"><u>[New] 2024 Approved Direct MP3 Download for FB Video Tracks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-sunset-to-silhouette-adobe-guide/"><u>[Updated] Sunset to Silhouette Adobe Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-imaging-expertise-in-adobes-high-dynamic-range/"><u>[Updated] Transform Imaging Expertise in Adobe's High Dynamic Range</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conquer-crashes-and-enjoy-gaming-optimizing-final-performance-on-your-computer/"><u>Conquer Crashes and Enjoy Gaming: Optimizing 'Final' Performance on Your Computer</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/constructing-dreamscapes-expert-insights-into-the-captivating-world-of-cities-skylines/"><u>Constructing Dreamscapes: Expert Insights Into the Captivating World of Cities: Skylines</u></a></li>
+<li><a href="https://article-helps.techidaily.com/discovering-advanced-video-formats-av1-and-vp9-for-2024/"><u>Discovering Advanced Video Formats AV1 & VP9 for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dvd-winx-dvd-copy-pro/"><u>DVDコピーのためのウィンクス - WinX DVD Copy Proの信頼度を知りましょう: 専門家から一般ユーザーへのレビュー比較</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-playbook-to-conquer-spotify-advertising/"><u>In 2024, The Complete Playbook to Conquer Spotify Advertising</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-playbook-for-attracting-hundred-thousand-on-youtube/"><u>In 2024, The Ultimate Playbook for Attracting Hundred Thousand on YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-new-dimensions-in-physical-interaction-tech/"><u>In 2024, Unlocking New Dimensions in Physical Interaction Tech</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722962183645-quick-and-simple-find-and-update-your-canon-printerscanner-drivers-for-windows/"><u>Quick & Simple: Find and Update Your Canon Printer/Scanner Drivers for Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-of-ai-predictions-for-the-next-ten-years-and-beyond-insights-from-zdnet/"><u>The Future of AI: Predictions for the Next Ten Years and Beyond - Insights From ZDNet</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-enhancing-learning-one-talk-show-at-a-time-for-2024/"><u>The Ultimate Guide to Enhancing Learning, One Talk Show at a Time for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tips-for-kickstarting-a-social-philanthropy-blitz-for-2024/"><u>Tips for Kickstarting a Social Philanthropy Blitz for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-honor-70-lite-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Honor 70 Lite 5G</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-tricks-to-amplify-speaker-output-in-windows-10/"><u>Ultimate Tricks to Amplify Speaker Output in Windows 10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-full-potential-of-speech-recognition-in-ms-word-for-efficient-documentation-for-2024/"><u>Unlocking the Full Potential of Speech Recognition in MS Word for Efficient Documentation for 2024</u></a></li>
 </ul></div>
 

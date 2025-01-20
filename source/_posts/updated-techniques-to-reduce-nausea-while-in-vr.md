@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Techniques to Reduce Nausea While In VR"
-date: 2024-08-21T00:28:27.383Z
-updated: 2024-08-22T00:28:27.383Z
+date: 2025-01-14T20:24:44.043Z
+updated: 2025-01-19T18:09:47.208Z
 tags: 
   - screen-recording
   - ai video
@@ -20,18 +20,12 @@ thumbnail: https://thmb.techidaily.com/526c473a4f2f84c7776ce16d41fe4812db866e7d1
 
 # How to reduce Virtual reality (VR) sickness
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
 
  Mar 27, 2024• Proven solutions
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## 8 ways to reduce VR sickness
 
  People are individuals with individual mindsets, and have different response behaviors to different type of sickness they encounter. Past experiments have shown that the age group from 2-12 suffers from the sickness and it reportedly decreases till the age of 21\. The cycle then starts again in the late 50’s. We are now in a dire need of ways to get rid of the sickness in order to fully experience the VR systems and make them user friendly. According to Popular Science, VR sickness and general VR discomfort are currently among the biggest hurdles to overcome before VR is comfortably adopted by the mass market. Scientists have set their goals upon making the VR system a true hit towards the end of this year. The highlights say that the scientists have found ways to eliminate virtual reality sickness, making 2017 to be ‘the year of Virtual Reality’. Until then we can adopt some careful set of rules to avoid that nauseous feeling during the game.
@@ -53,8 +47,9 @@ thumbnail: https://thmb.techidaily.com/526c473a4f2f84c7776ce16d41fe4812db866e7d1
  8. **Properly adjust the head gear.**Make sure your head gear fits you perfectly so there isn’t any calibration problem.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What is Virtual reality sickness?
 
  All we know about the reality of the real world around us is that it comes from the perception of our sensory organs and their co-relation with the sense-managing system of our brain to generate useful information. Thus if we present our sensory system with the kind of information that really isn’t there our brain would begin to explore it and comprehend it as reality to us. Such a type of self-made information and the resulting outcome is what we call ‘virtual reality’.
@@ -62,13 +57,18 @@ thumbnail: https://thmb.techidaily.com/526c473a4f2f84c7776ce16d41fe4812db866e7d1
  You can definitely not deny all the fun you can have with this new technology once you grab on all the cool gadgets and gears. Putting on a virtual reality headset can take you to a completely different world but would it really be fun when you have to vomit after ten minutes? Virtual reality sickness is a big hurdle to the widespread use of the virtual reality technology. The fact that ‘with virtual reality comes the sickness’ has been a major worry factor to the developers and scientists. Virtual Reality sickness brings along symptoms such as headaches, nausea, vomiting, discomfort, sweating, drowsiness, disorientation and apathy. Virtual reality sickness, however, is not a new problem. It has been known since the test pilots, test drivers and astronauts have been practicing their skills in simulators and mock vehicles.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why virtual reality make people sickness
 
  Now the question arises, what is really making us sick? Is it the gadgets or gears? Or some manufacturing flaw? The link connecting virtual reality and the sickness, lies within the human body itself. When you are in a virtual environment, in some cases, your body’s sense of balance does not completely line up with the movements of your head. Also, when the environment around you moves, but your body stays stationary you experience dizziness or nausea. Typically, the bigger the mismatch the worse the sickness. According to the statement delivered by a military pilot, when you go inside a simulator, the movements don’t exactly match the same as they do in the real world, and all of a sudden, what you feel is just not right. Another reason causing the problem is based on virtual reality games and other such systems. In such a VR system you experience environment larger than the room you are in. All these factors can ultimately drive you sick!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -80,9 +80,6 @@ Follow @Benjamin Arango
 
  Mar 27, 2024• Proven solutions
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 8 ways to reduce VR sickness
 
  People are individuals with individual mindsets, and have different response behaviors to different type of sickness they encounter. Past experiments have shown that the age group from 2-12 suffers from the sickness and it reportedly decreases till the age of 21\. The cycle then starts again in the late 50’s. We are now in a dire need of ways to get rid of the sickness in order to fully experience the VR systems and make them user friendly. According to Popular Science, VR sickness and general VR discomfort are currently among the biggest hurdles to overcome before VR is comfortably adopted by the mass market. Scientists have set their goals upon making the VR system a true hit towards the end of this year. The highlights say that the scientists have found ways to eliminate virtual reality sickness, making 2017 to be ‘the year of Virtual Reality’. Until then we can adopt some careful set of rules to avoid that nauseous feeling during the game.
@@ -103,27 +100,31 @@ Follow @Benjamin Arango
 
  8. **Properly adjust the head gear.**Make sure your head gear fits you perfectly so there isn’t any calibration problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Virtual reality sickness?
 
  All we know about the reality of the real world around us is that it comes from the perception of our sensory organs and their co-relation with the sense-managing system of our brain to generate useful information. Thus if we present our sensory system with the kind of information that really isn’t there our brain would begin to explore it and comprehend it as reality to us. Such a type of self-made information and the resulting outcome is what we call ‘virtual reality’.
 
  You can definitely not deny all the fun you can have with this new technology once you grab on all the cool gadgets and gears. Putting on a virtual reality headset can take you to a completely different world but would it really be fun when you have to vomit after ten minutes? Virtual reality sickness is a big hurdle to the widespread use of the virtual reality technology. The fact that ‘with virtual reality comes the sickness’ has been a major worry factor to the developers and scientists. Virtual Reality sickness brings along symptoms such as headaches, nausea, vomiting, discomfort, sweating, drowsiness, disorientation and apathy. Virtual reality sickness, however, is not a new problem. It has been known since the test pilots, test drivers and astronauts have been practicing their skills in simulators and mock vehicles.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why virtual reality make people sickness
 
  Now the question arises, what is really making us sick? Is it the gadgets or gears? Or some manufacturing flaw? The link connecting virtual reality and the sickness, lies within the human body itself. When you are in a virtual environment, in some cases, your body’s sense of balance does not completely line up with the movements of your head. Also, when the environment around you moves, but your body stays stationary you experience dizziness or nausea. Typically, the bigger the mismatch the worse the sickness. According to the statement delivered by a military pilot, when you go inside a simulator, the movements don’t exactly match the same as they do in the real world, and all of a sudden, what you feel is just not right. Another reason causing the problem is based on virtual reality games and other such systems. In such a VR system you experience environment larger than the room you are in. All these factors can ultimately drive you sick!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -147,8 +148,20 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-dive-into-aurora-hdr-a-new-era-for-viewers/"><u>[New] In 2024, Dive Into Aurora HDR A New Era for Viewers?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-30-tones-where-to-find-classical-callouts/"><u>[New] Top 30 Tones Where to Find Classical Callouts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-ultimate-8-ranked-apps-mobile-video-tile-masters-freepaid/"><u>[New] Unveiling the Ultimate #8 Ranked Apps Mobile Video Tile Masters (Free/Paid)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-drive-sales-through-smart-use-of-snapchats-tools-for-2024/"><u>[Updated] Drive Sales Through Smart Use of Snapchat's Tools for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-how-to-do-screen-recording-on-ipad/"><u>[Updated] In 2024, How to Do Screen Recording on iPad?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-your-potential-best-video-editing-hacks/"><u>[Updated] Unlock Your Potential Best Video Editing Hacks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-screenplay-treasures-for-each-movie-division/"><u>2024 Approved Ultimate Screenplay Treasures for Each Movie Division</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-you-rely-on-chatgpt-as-an-effective-proofreading-tool/"><u>Can You Rely on ChatGPT as an Effective Proofreading Tool?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cutting-short-videos-decoding-imovies-size-reduction/"><u>Cutting Short Videos Decoding iMovie’s Size Reduction</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-poco-f5-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Poco F5 5G Device</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/1728485355935-office-365/"><u>Office 365 のメールをどうやって別のアドレスに移行するか？トラブルシューティングガイド</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-samsung-galaxy-s24-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Samsung Galaxy S24 Phone Now with These Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamlining-image-editing-luts-in-adobe-photoshop-cc-for-2024/"><u>Streamlining Image Editing LUTs in Adobe PhotoShop CC for 2024</u></a></li>
+</ul></div>
 

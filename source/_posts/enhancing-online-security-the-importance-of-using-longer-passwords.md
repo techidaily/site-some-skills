@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Online Security: The Importance of Using Longer Passwords"
-date: 2025-01-08T18:32:06.744Z
-updated: 2025-01-13T22:25:46.813Z
+date: 2025-01-13T23:18:40.113Z
+updated: 2025-01-19T19:04:47.253Z
 tags:
   - web
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
 ## Enhancing Online Security: The Importance of Using Longer Passwords
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
 
  The short answer is password entropy. That term sounds way more complicated than it really is unless you’re familiar with cryptography, so let’s take a look at what password entropy is.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  What's Password Entropy?
 
  Password entropy is a measure of how unpredictable and random your password is. Password entropy is measured in bits, the basic unit for measuring information in computing. More bits is better, with most experts agreeing that entropy should be at least 64 bits, though that number is controversial. A higher entropy means your password is more random. When it comes to securing things, random is good.
@@ -37,12 +33,16 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
 
 ![A phone receiving a 2FA code.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/shutterstock_2373964067.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [ronstik](https://www.shutterstock.com/g/ronstik "ronstik") / Shutterstock.com
 
  The best way to attack a password is through a [dictionary attack](https://extra-skills.techidaily.com/2024-approved-smartest-ways-to-track-wedding-dates-ios-and-android-style/), which is a program that will try to “guess” a password by going through common words and phrases. It’s almost literally throwing the book at your password, going through the entire dictionary and also common variations. Once the password is guessed, the attacker has access.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Brute Force and Randomness
@@ -52,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
  As dictionary attacks thrive on predictability (words that already exist), it stands to reason that the only good way to stymie them is to add randomness to passwords. Many people kind of know this, which is why they add a few symbols to their existing passwords to create things like “p@ssword” or “password123.”
 
  However, this doesn’t work as it’s not random. Attackers can easily account for a change like this, and it will take them maybe a nanosecond longer to gain access to an account. For something to be closer to truly random, you have to take humans out of the equation entirely and use a computer to create a random password. The [best password managers](https://facebook-video-content.techidaily.com/updated-how-to-create-facebook-video-ads-with-free-video-creation-kit-for-2024/), programs that create and store passwords for you, have this functionality built in.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How Entropy Affects Password Length
 
@@ -63,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
 * Use of numbers
 
  All of these are important, but length plays a special role, one we need some math to explain.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  How to Calculate Password Entropy
 
@@ -86,7 +86,7 @@ E = log2(RL)
  If we add the digits 0-9 we come to a range of 62, and then once we add the 33 symbol keys, our range is increased to 95\. Using just 8 characters, that gives us an entropy score of 52.56 bits, still well below the cutoff of 64 bits. The only other way to further increase your entropy is to make the password longer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Should Be Your Minimum Password Length?
@@ -110,24 +110,21 @@ E = log2(RL)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-cutting-edge-openings-at-no-cost-the-best-youtube-intro-makers/"><u>[New] In 2024, Cutting-Edge Openings at No Cost The Best YouTube Intro Makers</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-unveiling-the-secrets-of-advanced-camera-settings/"><u>[Updated] In 2024, Unveiling the Secrets of Advanced Camera Settings</u></a></li>
-<li><a href="https://some-skills.techidaily.com/apples-services-interrupted-iphone-applications-failing-due-to-system-outages/"><u>Apple's Services Interrupted: IPhone Applications Failing Due to System Outages</u></a></li>
-<li><a href="https://some-skills.techidaily.com/are-folding-phone-innovations-just-for-show-or-here-to-stay-in-the-tech-world/"><u>Are Folding Phone Innovations Just for Show, or Here to Stay in the Tech World?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/celebrate-the-4th-of-july-with-a-spectacular-offer-from-urban-armor-gear-enjoy-20-savings-across-our-entire-collection/"><u>Celebrate the 4Th of July with a Spectacular Offer From Urban Armor Gear - Enjoy 20% Savings Across Our Entire Collection!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/comparing-pixel-pro-8-and-oneplus-12-which-smartphone-takes-the-crown/"><u>Comparing Pixel Pro 8 & OnePlus 12 – Which Smartphone Takes the Crown?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/discover-effortless-iphone-circle-searching-with-this-simple-shortcut/"><u>Discover Effortless iPhone Circle Searching with This Simple Shortcut</u></a></li>
-<li><a href="https://some-skills.techidaily.com/dry-gangrene-involves-coagulative-and-ischemic-changes-without-a-secondary-infection-while-wet-gangrene-includes-superimposed-bacterial-invasion-leading-to-49/"><u>Dry Gangrene Involves Coagulative and Ischemic Changes without a Secondary Infection, While Wet Gangrene Includes Superimposed Bacterial Invasion Leading to Liquefactive Necrosis.</u></a></li>
-<li><a href="https://some-skills.techidaily.com/exploring-the-need-for-enhanced-capabilities-in-modern-smartphones/"><u>Exploring the Need for Enhanced Capabilities in Modern Smartphones</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/how-to-fix-a-blurry-scanner-output-expert-tips-from-yl-computings-yl-software/"><u>How to Fix a Blurry Scanner Output: Expert Tips From YL Computing's YL Software</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/ideal-danish-films-to-practice-danish-speech/"><u>Ideal Danish Films to Practice Danish Speech</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Vivo S17t? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-xiaomi-13t-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Xiaomi 13T Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/ipadwi-fiiphone/"><u>IPadへ画像移動：Wi-Fi不要でiPhone使用</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/real-time-sharing-iphone-video-and-image-crafting-for-2024/"><u>Real-Time Sharing IPhone Video & Image Crafting for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/seamless-access-to-distant-linux-machine-files-made-simple/"><u>Seamless Access to Distant Linux Machine Files Made Simple</u></a></li>
-<li><a href="https://fox-links.techidaily.com/the-ultimate-guide-to-android-slow-motion-video-magic-for-2024/"><u>The Ultimate Guide to Android Slow Motion Video Magic for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-honor-80-pro-straight-screen-edition-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Honor 80 Pro Straight Screen Edition Screen | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/understanding-chipset-drivers-installation-guide-and-tips/"><u>Understanding Chipset Drivers: Installation Guide & Tips</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-boosting-your-videos-popularity-in-a-competitive-space-like-tiktok/"><u>[New] Boosting Your Video’s Popularity in a Competitive Space Like TikTok</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-dual-screen-playback-recording/"><u>[New] Dual-Screen Playback Recording</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-dissecting-reversed-photo-searches-in-the-virtual-cosmos-fb/"><u>[New] In 2024, Dissecting Reversed Photo Searches in the Virtual Cosmos (FB)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-the-mechanics-of-whatsapp-voice-conversations/"><u>[New] Understanding the Mechanics of WhatsApp Voice Conversations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-spectrum-enhanced-by-blades-newest-quad-hd-cameras/"><u>[Updated] The Spectrum Enhanced by Blade's Newest Quad-HD Cameras</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-hidden-details-roblox-closeup-secrets/"><u>[Updated] Unlocking Hidden Details Roblox Closeup Secrets</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-unveiling-t5s-ability-to-capture-excitement-and-adventure-for-2024/"><u>[Updated] Unveiling T5's Ability to Capture Excitement and Adventure for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-adding-dimension-to-text-in-adobe-illustrator/"><u>2024 Approved Adding Dimension to Text in Adobe Illustrator</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tips-for-adding-personalized-audio-effects-to-windows-10-photos/"><u>2024 Approved Tips for Adding Personalized Audio Effects to Windows 10 Photos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-black-battery-compatibility-with-gopro-hero5/"><u>2024 Approved Ultimate Black Battery Compatibility with GoPro Hero5</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/gain-peace-of-mind-with-instagrams-whatsapp-2fa-delivery/"><u>Gain Peace of Mind with Instagram's WhatsApp 2FA Delivery</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-live-audio-broadcast-networks-for-2024/"><u>Top 10 Live Audio Broadcast Networks for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-windows-11-potential-latest-apps-and-games-for-2024/"><u>Unleash Windows 11 Potential Latest Apps & Games for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-tecno-spark-go-2023-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Tecno Spark Go (2023) Users</u></a></li>
 </ul></div>
 

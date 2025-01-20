@@ -1,7 +1,7 @@
 ---
 title: "1. Seamless Data Transition: Mastering the Art of Using Windows Backup for Upgrading Your PC"
-date: 2025-01-09T18:32:33.081Z
-updated: 2025-01-13T20:12:01.332Z
+date: 2025-01-16T01:38:11.215Z
+updated: 2025-01-19T18:56:50.893Z
 tags:
   - desktop
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 * [Step 2: Manage Your Backup Settings](https://facebook-video-recording.techidaily.com/new-2024-approved-step-into-the-rhythm-of-social-video-editing-with-music/)
 * [Step 3: Backup Your Old PC](https://change-location.techidaily.com/how-to-use-ispoofer-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/)
 * [Step 4: Restore to Your New PC](https://ios-unlock.techidaily.com/in-2024-did-your-iphone-12-passcode-change-itself-unlock-it-now-by-drfone-ios/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -34,20 +38,16 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 
 !['Settings' typed into the taskbar search box and the 'Settings' option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-settings.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then, click "Accounts" and follow the on-screen instructions to sign in.
 
 ![Windows Settings with 'Accounts' highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-accounts.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Step 2: Manage Your Backup Settings
@@ -55,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
  Once you've signed in to your Microsoft account, there are two different ways to transfer your data from your old computer to your new one—OneDrive Backup and Windows Backup.
 
  Always back up your most important files manually to multiple places and don't trust automated tools to do that.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  OneDrive or Windows Backup?
 
@@ -64,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 
  The drawback—and it's a big one—is that it doesn't let you transfer your apps, your settings, or your credentials, so you'll have to set these up again on your new computer. Also, bear in mind that you're limited to 5GB of storage if you have a free Microsoft account.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Use Windows Backup
 
  So, we recommend you use Windows Backup to make the transfer, as this lets you copy more things—from your folders (the same ones that OneDrive would have backed up) to your personal settings and preferences—to your new computer.
@@ -76,15 +76,15 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 
 !['Backup' is typed into the taskbar search box, and the 'Windows Backup' option is highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/open-windows-backup.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the Windows Backup dialog box, you'll see the different things you can include in your transfer. Click the drop-down arrows next to each section to choose which folders, apps, settings, and credentials you want to transfer to your new computer.
 
  You can also see an estimate of how much storage you'll need to perform the backup in the bottom left-hand corner of the window. _Free Microsoft accounts come with just 5GB of folder storage_, so if you need to back up more than that, you must [purchase more storage through a different Microsoft plan](https://www.microsoft.com/en-gb/microsoft-365/onedrive/compare-onedrive-plans). Alternatively, you could perform a manual [backup to an external hard drive](https://instagram-videos.techidaily.com/new-understanding-and-executing-photo-gender-modification-across-platforms-for-2024/), or [use a third-party storage solution](https://instagram-video-recordings.techidaily.com/navigating-the-truth-in-your-photos-an-instagram-selfie-audit/). However, you _cannot_ use an external storage device or a third-party cloud service with Windows Backup. 
 
 ![The Windows Backup window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-backup-window-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * The Folders option backs up the same folders that are automatically stored in your OneDrive sync—your Documents, Pictures, Desktop, Music, and Videos folders. These folders likely contain everything you want to move, but if you have important folders elsewhere, be sure to add them to your OneDrive folder manually, or use an alternative storage solution.
 * TheAppsoption will transfer all the apps you have installed on your old computer to your new computer.
@@ -128,18 +128,19 @@ Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-enhancing-stardew-valley-through-its-best-7-modifications-for-2024/"><u>[New] Enhancing Stardew Valley Through Its Best 7 Modifications for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-demystifying-youtube-shorts-for-total-beginners/"><u>[New] In 2024, Demystifying YouTube Shorts for Total Beginners</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-streamlined-iphones-how-to-grab-your-favorite-podcasts/"><u>[New] Streamlined iPhones How to Grab Your Favorite Podcasts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-hidden-world-exploring-vlc-player-extras/"><u>[New] The Hidden World Exploring VLC Player Extras</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-voice-memo-reference-manual/"><u>[New] The Ultimate Voice Memo Reference Manual</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-mastering-high-definition-facebook-video-downloads/"><u>[Updated] 2024 Approved Mastering High-Definition Facebook Video Downloads</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transformative-tactics-for-advanced-iphone-x-animoji-utilization/"><u>[Updated] Transformative Tactics for Advanced iPhone X Animoji Utilization</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-finest-9-digital-places-for-harvesting-futuristic-3d-typefaces/"><u>2024 Approved The Finest 9 Digital Places for Harvesting Futuristic 3D Typefaces</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-premier-keysuites-elite-gadgets-reviewed/"><u>Discover the Premier Keysuites: Elite Gadgets Reviewed</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-15-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 15 Lock Screen with Notifications? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/personalized-pump-routines-via-ai-assistance/"><u>Personalized Pump Routines via AI Assistance</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/seamless-integration-for-mobile-enthusiasts-running-android-apps-in-a-windows-11-setup/"><u>Seamless Integration for Mobile Enthusiasts: Running Android Apps in a Windows 11 Setup</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-image-hunting-on-pexelscom-for-2024/"><u>The Art of Image Hunting on Pexels.com for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-foundations-of-cinematography-15-must-know-shot-types/"><u>2024 Approved Foundations of Cinematography 15 Must-Know Shot Types</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-tones-techniques-in-free-fire/"><u>2024 Approved Transforming Tones Techniques in Free Fire</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-10plus-proven-techniques-for-selecting-the-finest-cricket-broadcasts/"><u>2024 Approved Unveiling 10+ Proven Techniques for Selecting the Finest Cricket Broadcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazons-unbelievable-offer-iphone-upgrade-to-the-latest-model-for-only-one-cent-discover-how/"><u>Amazon's Unbelievable Offer: IPhone 지Upgrade to the Latest Model for Only One Cent! Discover How</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/demystifying-electric-vehicle-charging-comparing-level-1-2-and-3-systems/"><u>Demystifying Electric Vehicle Charging - Comparing Level 1, 2 and 3 Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-budget-friendly-video-alteration-journeys-explored/"><u>In 2024, Top 10 Budget-Friendly Video Alteration Journeys Explored</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/parkers-recent-film-unveiled-as-newly-released-dvd-version/"><u>Parker's Recent Film Unveiled as Newly Released DVD Version</u></a></li>
+<li><a href="https://win-trending.techidaily.com/professional-cat-themes-for-your-pc-premium-wallpapers-images-and-designs-with-yl-software/"><u>Professional Cat Themes for Your PC: Premium Wallpapers, Images & Designs with YL Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/superior-pcs-for-serious-workers-for-2024/"><u>Superior PCs for Serious Workers for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-enhance-slow-execution-of-excel-workbooks-on-windows/"><u>Tips to Enhance Slow Execution of Excel Workbooks on Windows</u></a></li>
+<li><a href="https://discover-help.techidaily.com/top-6-fixes-for-iphone-safari-browser-issues-in-ios-versions-16-17-and-18/"><u>Top 6 Fixes for iPhone Safari Browser Issues in iOS Versions 16, 17 & 18</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-limits-of-artificial-intelligence-in-copyright-protection/"><u>Understanding the Limits of Artificial Intelligence in Copyright Protection</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-window-11s-best-kept-secrets-for-maximum-productivity-for-2024/"><u>Unlocking WINDOW 11'S Best-Kept Secrets for Maximum Productivity for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-are-the-implications-of-altering-chatgpt/"><u>What Are the Implications of Altering ChatGPT?</u></a></li>
 </ul></div>
 

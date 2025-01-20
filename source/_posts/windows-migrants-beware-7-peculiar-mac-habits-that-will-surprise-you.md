@@ -1,7 +1,7 @@
 ---
 title: "Windows Migrants Beware: 7 Peculiar Mac Habits That Will Surprise You"
-date: 2025-01-07T17:32:30.015Z
-updated: 2025-01-13T20:56:22.590Z
+date: 2025-01-15T22:46:33.166Z
+updated: 2025-01-19T20:08:02.974Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 ## Windows Migrants Beware: 7 Peculiar Mac Habits That Will Surprise You
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 
  If you've been a Windows user, transitioning to macOS can be pretty daunting. From navigating a new interface to getting used to the keyboard shortcuts, there are many elements that could leave you feeling puzzled. Here are some of the main differences that you need to know about.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The Dock Is Not Like the Taskbar
 
  The macOS Dock has evolved significantly over the years and offers functionality like mouse-over magnification and the ability to show suggested and recent apps, among other things. For people who are shifting from Windows to macOS, though, the biggest difference is based around the very idea of what the Dock and Taskbar actually do.
@@ -42,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
  You'll notice that some app icons in the Dock have a dot beneath them. These are the apps that you've got running—and in macOS, apps remain in the background even after you've closed the last window. You have to hit Command+Q to shut them down.
 
  You can access any apps that aren't in the Dock via the Launchpad, which is itself in the Dock by default.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Mac and Windows Keyboards Have Different Keys
 
@@ -69,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 | Recycle Bin     | Trash                 |
 | Shortcut icon   | Alias                 |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Taking Screenshots Is Easy
 
  As a Windows user, you likely used the Windows Logo Key+PrtScn button combination to capture a screenshot of the entire screen. Alternatively, you've also likely used the Snipping Tool app to select and capture a specific area of the screen. On macOS, screenshots require slightly different shortcuts. Still, it's fairly easy to learn [how to screenshot on a Mac](https://youtube-tips.techidaily.com/-color-correction-for-youtube-beauty-for-2024/).
@@ -82,10 +70,14 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 ![Use the Command+Shift+5 shortcut to view screenshot and screen record options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_5723.JPG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Regardless of the shortcut you use, the screenshot is immediately saved to your macOS desktop for easy access.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  macOS Has Its Own Equivalents for the Windows Apps
 
@@ -107,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 
 ![The window resizing buttons on macOS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-1-58-58-pm.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Similarly, Windows has a search bar directly in the taskbar, while Mac uses Spotlight for search.
 
  You can access it by clicking the Spotlight icon (denoted by a magnifying glass) in the top-right corner of the menu bar, or by using the Command+Spacebar shortcut. Some Mac keyboards also have a magnifying glass button, which you can use to launch Spotlight.
@@ -114,7 +110,7 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 ![Spotlight search in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/spotlight-search-in-macos.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Spotlight is packed with features](https://screen-capture.techidaily.com/updated-shadowed-swords-and-honored-combatants-must-try-titles-inspired-by-ghost-of-tsushi/). You can use it to find apps, documents, or emails by keying in a few keywords related to what you're searching for, as well as searching for news, sports scores, or weather updates, performing calculations, and much more.
@@ -130,6 +126,10 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
  The Start menu on a Windows laptop allows you to access applications, system settings, and recent files all from one place. On macOS, this functionality is most closely served by the Launchpad, an iPad-style grid of icons that offers you quick access to all your apps.
 
 ![The Launchpad on a Mac laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/screenshot-2024-03-20-at-3-57-38-am.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Keep in mind that the Launchpad does not let you access your recent files or the system settings, but you can access them through the Dock and the Apple menu icons, respectively, on your Mac.
 
@@ -152,24 +152,22 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-innovative-android-for-ultimate-3d-playback/"><u>[New] Innovative Android for Ultimate 3D Playback</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unleashing-imagination-creating-motion-pictures-with-windows-movie-maker/"><u>[New] Unleashing Imagination Creating Motion Pictures with Windows Movie Maker</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tips-and-tricks-for-perfect-tweets-with-videos/"><u>[Updated] 2024 Approved Tips and Tricks for Perfect Tweets with Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-list-best-general-knowledge-trivia-series-2024/"><u>[Updated] Ultimate List Best General Knowledge Trivia Series 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-beginners-guide-to-utilizing-look-up-tables-luts/"><u>2024 Approved The Complete Beginner’s Guide to Utilizing Look-Up Tables (LUTs)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-future-of-audio-srt-in-mp4-video-files/"><u>2024 Approved The Future of Audio SRT in MP4 Video Files</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-insiders-guide-to-creating-viral-memes-on-9gag/"><u>2024 Approved The Insider's Guide to Creating Viral Memes on 9GAG</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-list-of-live-streaming-camera-models/"><u>2024 Approved The Ultimate List of Live-Streaming Camera Models</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-digital-art-with-free-versatile-lut-tools/"><u>2024 Approved Transforming Digital Art with Free, Versatile LUT Tools</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/anthem-windows-10-sound-issue-troubleshooting-steps-for-fixing-missing-voice/"><u>Anthem Windows 10 Sound Issue – Troubleshooting Steps for Fixing Missing Voice</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/conversao-gratuita-de-filmes-mov-para-mp4-funcionando-na-web-agora/"><u>Conversão Gratuita De Filmes MOV Para MP4 - Funcionando Na Web Agora!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-top-benefits-of-snapchats-my-ai-beyond-a-simple-fun-app/"><u>Discover the Top Benefits of Snapchat’s 'My AI': Beyond a Simple Fun App</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-perk-predicament-which-console-service-wins/"><u>Gaming Perk Predicament: Which Console Service Wins?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Honor V Purse? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-rank-5-premium-android-image-editing-tools/"><u>In 2024, The Ultimate Rank 5 Premium Android Image Editing Tools</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-your-playlist-on-demand-selecting-6-elite-free-apps-for-downloading-youtube-music/"><u>In 2024, Your Playlist on Demand - Selecting 6 Elite Free Apps for Downloading YouTube Music</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quick-fixes-for-when-the-xlivedll-file-goes-missing-on-windows-computers/"><u>Quick Fixes for When the Xlive.dll File Goes Missing on Windows Computers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-selection-of-text-enhancers-for-adobe-ae-for-2024/"><u>The Ultimate Selection of Text Enhancers for Adobe AE for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-huawei-nova-y91-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Huawei Nova Y91 without backup.</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-techniques-for-quality-controlled-skype-call-captures/"><u>[New] In 2024, Techniques for Quality-Controlled Skype Call Captures</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/avigating-the-best-video-formats-for-your-youtube-channel/"><u>[New] Navigating the Best Video Formats for Your YouTube Channel</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-strategies-for-effortless-audio-merging-in-adobe-premiere/"><u>[New] Strategies for Effortless Audio Merging in Adobe Premiere</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-iphone-hdr-techniques-and-tips/"><u>[New] The Ultimate Guide to iPhone HDR Techniques & Tips</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-ultimate-guide-top-8-online-places-for-free-3d-text-files-for-2024/"><u>[New] The Ultimate Guide Top 8 Online Places for Free 3D Text Files for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-your-music-tracks-audafrees-2024-edition/"><u>[New] Unlock Your Music Tracks AudaFree's 2024 Edition</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-swipe-right-to-fb-vids-swipe-left-for-mp4s-for-2024/"><u>[Updated] Swipe Right to FB Vids, Swipe Left for MP4s for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-kinemaster-way-to-enthralling-transitions/"><u>[Updated] The Kinemaster Way to Enthralling Transitions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-tier-reddit-discussions-a-list-of-the-ten-greatest/"><u>[Updated] Top Tier Reddit Discussions - A List of the Ten Greatest</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-photo-vid-mosaic-designer-slideshows-for-sierra/"><u>2024 Approved Photo-Vid Mosaic Designer Slideshows for Sierra</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-through-the-fins-pro-techniques-for-taking-superior-gopro-videos-underwater/"><u>2024 Approved Through the Fins Pro Techniques for Taking Superior GoPro Videos Underwater</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-asus-rog-phone-7-ultimate-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Asus ROG Phone 7 Ultimate and Browser | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-subscriber-supremacy-youtubes-front-runners/"><u>In 2024, Subscriber Supremacy YouTube's Front-Runners</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-google-maps-a-windows-users-manual/"><u>Integrating Google Maps: A Windows User's Manual</u></a></li>
+<li><a href="https://some-skills.techidaily.com/professional-filmmakers-plug-in-picks-for-final-cut-for-2024/"><u>Professional Filmmaker's Plug-In Picks for Final Cut for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-artists-secret-unlocking-efficient-photocolor-adjustments/"><u>The Artist's Secret Unlocking Efficient PhotoColor Adjustments</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/tune-the-frame-diy-music-video-production-with-iphone/"><u>Tune the Frame DIY Music Video Production with iPhone</u></a></li>
 </ul></div>
 

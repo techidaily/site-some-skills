@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unlocking Creative Potential  Using LUTs for Color Grading in AE\""
-date: 2024-08-21T00:25:15.289Z
-updated: 2024-08-22T00:25:15.289Z
+date: 2025-01-14T19:32:48.187Z
+updated: 2025-01-19T21:41:19.320Z
 tags: 
   - screen-recording
   - ai video
@@ -32,10 +32,6 @@ Are you looking to add some extra zing to your videos? If you use Adobe After Ef
 
 Additionally, you will find recommendations on where to get the best after effects luts. So, grab your favorite drink, and let your journey to video editing supremacy begin.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![luts in after effect](https://images.wondershare.com/filmora/article-images/2022/03/after-effects-luts-1.jpg)
 
 #### In this article
@@ -46,9 +42,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 03 [How to use LUTs in After Effects](#part3)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Things to Know Before Using LUTs in After Effect
 
 Do you ever wonder why some Adobe After Effects videos look so great? Regardless of your experience with the software, here are the points to consider when using LUTs in After Effects.
@@ -74,18 +67,20 @@ For example, you need a wide-angle lens to have more depth in your videos. There
 
 Most creators often fail because of after effects luts overuse. Other factors to consider when creating are the location and timing. Your filming environment changes constantly. As such, you should always expect to make adjustments to ensure quality output.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![things to make sure before using luts in AE - match editing with source marterial](https://images.wondershare.com/filmora/article-images/2022/03/after-effects-luts-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 3\. Settle on a creative style
 
 What makes David Fincher famous? His consistent use of desaturated and monochromatic colors in movies to perfection. Similarly, you need to choose a consistent theme for your creations. As such, you get better at it with subsequent creations.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to import LUTs in After Effect?
 
 Do you remember the thing about being unique earlier? You can import LUTs if you feel the presets are not to your standard. Plenty of custom ones are available as free downloads but more on that later. This is how to import LUTs in After Effects.
@@ -109,9 +104,6 @@ C:\\Users\\yourusername\\AppData\\Roaming\\Adobe\\Common\\LUTs\\Creative
 C:\\Users\\yourusername\\AppData\\Roaming\\Adobe\\Common\\LUTs\\Technical
 * The custom LUT files will be available to you as presets next time you launch Adobe Effects. The process only works if you are the primary user. Furthermore, ensure you put each copy in the relevant directories.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to use LUTs in After Effects
 
 Now that you have a variety of Adobe After Effects LUTs at your disposal, here is how you apply them.
@@ -141,6 +133,10 @@ Additionally, you will find recommendations on where to get the best after effec
 
 ![luts in after effect](https://images.wondershare.com/filmora/article-images/2022/03/after-effects-luts-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### In this article
 
 01 [Things to Know Before Using LUTs in After Effect](#part1)
@@ -159,6 +155,10 @@ If you are questioning why there lies your first challenge. You need to check th
 
 ![things to make sure before using luts in AE](https://images.wondershare.com/filmora/article-images/2022/03/after-effects-luts-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Here is how you get the correct white balance when using Adobe After Effects.
 
 1. Open the image you want to edit in the program.
@@ -174,18 +174,12 @@ For example, you need a wide-angle lens to have more depth in your videos. There
 
 Most creators often fail because of after effects luts overuse. Other factors to consider when creating are the location and timing. Your filming environment changes constantly. As such, you should always expect to make adjustments to ensure quality output.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![things to make sure before using luts in AE - match editing with source marterial](https://images.wondershare.com/filmora/article-images/2022/03/after-effects-luts-3.jpg)
 
 #### 3\. Settle on a creative style
 
 What makes David Fincher famous? His consistent use of desaturated and monochromatic colors in movies to perfection. Similarly, you need to choose a consistent theme for your creations. As such, you get better at it with subsequent creations.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to import LUTs in After Effect?
 
 Do you remember the thing about being unique earlier? You can import LUTs if you feel the presets are not to your standard. Plenty of custom ones are available as free downloads but more on that later. This is how to import LUTs in After Effects.
@@ -209,6 +203,10 @@ C:\\Users\\yourusername\\AppData\\Roaming\\Adobe\\Common\\LUTs\\Creative
 C:\\Users\\yourusername\\AppData\\Roaming\\Adobe\\Common\\LUTs\\Technical
 * The custom LUT files will be available to you as presets next time you launch Adobe Effects. The process only works if you are the primary user. Furthermore, ensure you put each copy in the relevant directories.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to use LUTs in After Effects
 
 Now that you have a variety of Adobe After Effects LUTs at your disposal, here is how you apply them.
@@ -229,7 +227,6 @@ Adobe After Effects allows you to use LUTs on multiple clips. However, you need 
 * Then, follow steps one through five to add the LUT.
 
 **●** As you can see, Adobe After Effects give you lots of leverage when using LUTs. And with the information above, you are ready to unleash your full creative potential. Keep checking with us for more insightful guides on video and photo editing.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -253,8 +250,18 @@ Adobe After Effects allows you to use LUTs on multiple clips. However, you need 
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-stardew-insider-exploring-ginger-island-thoroughly-for-2024/"><u>[New] Stardew Insider Exploring Ginger Island Thoroughly for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-leading-choice-for-affordable-high-fidelity-webm-playbacks/"><u>[New] The Leading Choice for Affordable, High-Fidelity WebM Playbacks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-revisit-the-past-easy-access-to-fb-story-archive/"><u>[Updated] In 2024, Revisit the Past Easy Access to FB Story Archive</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-novice-to-connoisseur-of-funimate-games/"><u>2024 Approved From Novice to Connoisseur of Funimate Games</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Oppo F23 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-metaverse-laughs-crafting-funny-virtual-memes/"><u>In 2024, Metaverse Laughs Crafting Funny Virtual Memes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tailor-topical-laughs/"><u>In 2024, Tailor Topical Laughs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-file-management-free-cloud-storage-service-guide/"><u>In 2024, Transform Your File Management - Free Cloud Storage Service Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-video-upload-your-guide-to-igtv-for-2024/"><u>Mastering Video Upload Your Guide to IGTV for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/taking-control-of-your-online-sessions-via-facebook-alerts/"><u>Taking Control of Your Online Sessions via Facebook Alerts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-8-speed-upters-accelerate-your-android-media-for-2024/"><u>Top 8 Speed Upters - Accelerate Your Android Media for 2024</u></a></li>
+</ul></div>
 

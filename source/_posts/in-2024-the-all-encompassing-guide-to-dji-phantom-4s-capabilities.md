@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The All-Encompassing Guide to DJI Phantom 4'S Capabilities\""
-date: 2024-08-21T00:29:34.128Z
-updated: 2024-08-22T00:29:34.128Z
+date: 2025-01-17T23:23:56.655Z
+updated: 2025-01-19T23:28:33.826Z
 tags: 
   - screen-recording
   - ai video
@@ -30,16 +30,10 @@ thumbnail: https://thmb.techidaily.com/ee5c0d7e477d155cf7c4d7a41bb4baf523bd4dd37
 
 **You may also like:** [Top 11 Best DJI Phantom 4 Accessories to Buy >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dji phantom 4](https://images.wondershare.com/filmora/article-images/dji-phandom-4.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01CFXQZD0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CFXQZD0&linkId=edcac98fb2e38b9359b8299650e268df)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Complete Review for DJI Phantom 4
 
 #### **Pros of DJI Phantom 4**
@@ -81,10 +75,11 @@ thumbnail: https://thmb.techidaily.com/ee5c0d7e477d155cf7c4d7a41bb4baf523bd4dd37
 
 #### Design
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![dji phantom 4 review](https://images.wondershare.com/filmora/article-images/dji-phantom-4-design.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Phantom 4 is similar to the previous version in terms of looks. It is white in color and plastic with sturdy legs to rest on. Two sensors are located on the front and back of the drone and more underneath and to the sides. The camera begins to record on takeoff allowing the drone to find a homing position when ready to return home. The camera hangs below the drone with gimbals that keep it sturdy whatever conditions it is flown in. The arms each have lights so that you can find it easily when in flight.
 
@@ -114,9 +109,6 @@ thumbnail: https://thmb.techidaily.com/ee5c0d7e477d155cf7c4d7a41bb4baf523bd4dd37
 
  The Phantom 4 literally does everything you could need it to. It flies well in all kinds of conditions, reaches great speeds to capture sports play and even avoids objects that would otherwise give users and their drones quite an unhappy ending. As the Phantom 4 is so easy to fly it means that users can concentrate on their footage. With the follow me mode users can literally go hands free and still get great results.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -133,16 +125,18 @@ Follow @Max Wales
 
 **You may also like:** [Top 11 Best DJI Phantom 4 Accessories to Buy >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dji phantom 4](https://images.wondershare.com/filmora/article-images/dji-phandom-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01CFXQZD0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CFXQZD0&linkId=edcac98fb2e38b9359b8299650e268df)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Complete Review for DJI Phantom 4
 
 #### **Pros of DJI Phantom 4**
@@ -186,6 +180,10 @@ Follow @Max Wales
 
 ![dji phantom 4 review](https://images.wondershare.com/filmora/article-images/dji-phantom-4-design.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Phantom 4 is similar to the previous version in terms of looks. It is white in color and plastic with sturdy legs to rest on. Two sensors are located on the front and back of the drone and more underneath and to the sides. The camera begins to record on takeoff allowing the drone to find a homing position when ready to return home. The camera hangs below the drone with gimbals that keep it sturdy whatever conditions it is flown in. The arms each have lights so that you can find it easily when in flight.
 
 #### Battery life
@@ -216,12 +214,15 @@ Follow @Max Wales
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -245,8 +246,20 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/uilding-a-studio-quality-setup-at-home/"><u>[New] Building a Studio-Quality Setup at Home</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-aspect-ratio-checklist-for-editors-and-directors/"><u>[New] The Ultimate Aspect Ratio Checklist for Editors and Directors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tutorial-windows-movie-maker-for-effective-animation-designs/"><u>[New] Tutorial Windows Movie Maker for Effective Animation Designs</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-unlocking-the-art-of-iphones-upside-down-photos/"><u>[Updated] In 2024, Unlocking the Art of iPhone's Upside-Down Photos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-simple-definition-of-storytelling/"><u>[Updated] Simple Definition of Storytelling</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-budget-friendly-hd-cameras-for-adrenaline-junkies/"><u>2024 Approved Best Budget-Friendly HD Cameras for Adrenaline Junkies</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-complete-assessment-of-macos-and-screenflow-v4/"><u>2024 Approved Complete Assessment of macOS and ScreenFlow V4</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-new-era-of-mac-os-embracing-big-sur/"><u>2024 Approved The New Era of Mac OS Embracing Big Sur</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-gear-advice-toms-comprehensive-system-analysis/"><u>Advanced Gear Advice - Tom's Comprehensive System Analysis</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-vivo-y78plus-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Vivo Y78+ FRP Bypass Instantly</u></a></li>
+<li><a href="https://win-webster.techidaily.com/professionelle-seagate-festplattenklonen-losung-schnelles-kopieren-auf-leistungsstarke-ssds/"><u>Professionelle Seagate Festplattenklonen Lösung - Schnelles Kopieren Auf Leistungsstarke SSDs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sprinkle-life-into-windows-11-techniques-for-lively-wallpapers/"><u>Sprinkle Life Into Windows 11: Techniques for Lively Wallpapers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-resource-audio-recommendations-for-unboxing-content-creators-for-2024/"><u>Ultimate Resource Audio Recommendations for Unboxing Content Creators for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Better Performance: Discover the 7 Crucial Windows Configurations That Must Stay On for Optimal Use"
-date: 2025-01-10T20:51:12.204Z
-updated: 2025-01-13T21:41:59.695Z
+date: 2025-01-16T18:21:25.036Z
+updated: 2025-01-19T19:45:45.012Z
 tags:
   - desktop
 categories:
@@ -35,20 +35,20 @@ Lucas Gouveia / How-To Geek | Microsoft
 
 ![The Windows Defender Firewall disabled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/firewall.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  A [firewall](https://android-frp.techidaily.com/in-2024-top-5-oppo-k11-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/) acts as a barrier between your computer and harmful internet traffic. Think of it as a soldier on guard, monitoring incoming and outgoing network traffic and blocking anything suspicious. If malware sneaks into your device, this protection can prevent it from sending your data back to hackers so hackers can’t gain unauthorized access.
 
  When you [turn off your system’s firewall](https://screen-recording.techidaily.com/updated-in-2024-comprehensive-iptv-accessibility/), you remove this protection and leave your device vulnerable to viruses that can collect your data and send it to malicious hands. If you don’t want this to happen, never disable your firewall.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Ensure User Account Control Is Active
 
 ![User Account page in the Control Panel on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/52780813472_45b8f2acb1_o-3.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jason Fitzpatrick / How-To Geek  
@@ -59,6 +59,10 @@ Jason Fitzpatrick / How-To Geek
 
 [Disabling UAC](https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-sony-xperia-5-v-by-drfone-android/) allows anyone using your device and any malicious app to make unauthorized changes, potentially compromising your system’s stability. To avoid this risk, never disable UAC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Don't Bypass the Login Window
 
 ![Microsoft account login screen at Windows setup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/windows-setup-microsoft-sign-in.jpg) 
@@ -66,10 +70,6 @@ Jason Fitzpatrick / How-To Geek
  The login screen is your first line of defense against unauthorized access. While Windows allows you to [bypass the sign-in screen](https://network-issues.techidaily.com/gladiator-glitch-gadget-grind/), you should never do this. Disabling it might seem convenient to avoid entering a password or PIN, but it leaves your device vulnerable to anyone who can physically access it. They can access your data and make unauthorized changes.
 
  Even if you don't use your device in a shared environment, you should keep this protection in place since you never know who might get their hands on your device. If your device gets stolen, everything stored on it would be at the thief's mercy. So, tolerate the inconvenience of entering a password (or [use Windows Hello sign-in](https://extra-tips.techidaily.com/updated-capturing-brilliance-essential-angles-in-iphone-photography/)) and keep the login screen enabled.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Keep Virus and Threat Protection Enabled
 
@@ -81,16 +81,12 @@ Jason Fitzpatrick / How-To Geek
 
  Keeping this protection enabled can avoid all this. So, you should always keep it active to safeguard your device and protect other devices on the network.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Don't Disable Ransomware Protection
 
 ![A laptop with the word &quot;Ransomware&quot; in big scary letters.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/9eb60bc8-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _[Zephyr\_P/Shutterstock](https://www.shutterstock.com/image-photo/male-hacker-hand-on-laptop-computer-1141202159)_
@@ -104,6 +100,10 @@ _[Zephyr\_P/Shutterstock](https://www.shutterstock.com/image-photo/male-hacker-h
 ##  Keep Reputation-Based Protection Features Active
 
 ![The SmartScreen filter for MS Edge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-smartscreen-for-microsoft-edge.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Reputation-based protection uses data from millions of users and algorithms to protect your device from malicious and potentially unwanted apps, files, and websites. Features like [Microsoft Defender SmartScreen filters](https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-honor-100-pro-drfone-by-drfone-virtual-android/) protect your device from unrecognized apps from the web, while SmartScreen for Microsoft Edge alerts you to malicious websites.
 
@@ -130,18 +130,22 @@ _[Zephyr\_P/Shutterstock](https://www.shutterstock.com/image-photo/male-hacker-h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-streamlined-file-sharing-from-your-computer-to-iphone/"><u>[New] Streamlined File Sharing From Your Computer To iPhone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-guide-to-top-8-gold-text-in-3d-realms/"><u>[New] Ultimate Guide to Top 8 Gold Text in 3D Realms</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-hues-in-harmony-applying-color-principles/"><u>[Updated] In 2024, Hues in Harmony Applying Color Principles</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveil-the-quickest-ways-to-transform-your-game-characters-speech-in-pubg/"><u>[Updated] Unveil the Quickest Ways to Transform Your Game Characters' Speech in PUBG</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-5-innovative-book-tts-for-lovers-of-literature/"><u>2024 Approved Unveiling 5 Innovative Book TTs for Lovers of Literature</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/connect-your-computers-zoom-meetings-with-your-flat-screen-for-easy-presentations/"><u>Connect Your Computer's Zoom Meetings With Your Flat Screen For Easy Presentations</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/efficient-techniques-for-cleaning-dust-off-your-pc-tips-from-yl-computings-expert-team/"><u>Efficient Techniques for Cleaning Dust Off Your PC - Tips From YL Computing's Expert Team</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/exploring-the-value-of-sns-hdr-and-its-market-rivals/"><u>Exploring the Value of SNS HDR and Its Market Rivals</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-poco-x5-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Poco X5</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tonal-transition-triumphs-for-creative-virtuosos/"><u>In 2024, Tonal Transition Triumphs for Creative Virtuosos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unraveling-the-itunes-radio-download-process/"><u>In 2024, Unraveling the iTunes Radio Download Process</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-quick-fix-how-to-reverse-a-video-clip-in-final-cut-pro-4-simple-steps/"><u>New Quick Fix How to Reverse a Video Clip in Final Cut Pro (4 Simple Steps)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unleash-the-full-potential-top-6-music-video-watching-apps-on-android-for-2024/"><u>Unleash the Full Potential - Top 6 Music Video Watching Apps on Android for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/cript-to-screen-your-guide-to-youtube-storytelling-for-2024/"><u>[New] Script to Screen Your Guide to YouTube Storytelling for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-blueprint-for-a-streamlined-social-media-connection-with-linktree/"><u>[New] The Blueprint for a Streamlined Social Media Connection with Linktree</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-time-saving-techniques-from-complicated-srt-to-simplified-txt/"><u>[New] Time-Saving Techniques From Complicated SRT to Simplified TXT</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-expert-strategies-for-swift-and-smooth-media-navigation/"><u>[Updated] Expert Strategies for Swift and Smooth Media Navigation</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-seek-all-sharing-in-a-group-chat-via-messenger-for-2024/"><u>[Updated] Seek All Sharing in a Group Chat via Messenger for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-complete-sdr-to-hdr-upgrade-blueprint/"><u>[Updated] The Complete SDR to HDR Upgrade Blueprint</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-cloud-storage-pricing-comparisons/"><u>[Updated] The Ultimate Guide to Cloud Storage Pricing Comparisons</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-top-tips-for-effective-story-emoji-integration-on-instagram-for-2024/"><u>[Updated] Top Tips for Effective Story Emoji Integration on Instagram for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024-ultimate-selection-hardcore-ready-computers-reviewed/"><u>2024 Ultimate Selection: Hardcore-Ready Computers Reviewed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easily-concealreveal-data-columns-in-your-microsoft-excel-spreadsheets/"><u>Easily Conceal/Reveal Data Columns in Your Microsoft Excel Spreadsheets</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/get-more-bang-for-your-buck-an-in-depth-look-into-the-arcshell-ar-5s-remarkable-capabilities-at-a-bargain-price/"><u>Get More Bang for Your Buck: An In-Depth Look Into the ArcShell AR-5's Remarkable Capabilities at a Bargain Price</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-x-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone X? Learn All 4 Methods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-easy-way-to-modify-iphone-photo-dimensions/"><u>In 2024, The Easy Way to Modify iPhone Photo Dimensions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-lightroom-for-hdr-image-creation/"><u>In 2024, The Ultimate Guide to Lightroom for HDR Image Creation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-screenplay-structure-unveiled-for-2024/"><u>The Screenplay Structure Unveiled for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-vivo-y17s-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Vivo Y17s to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-wont-my-computer-turn-on-overcoming-boot-loading-hurdles-successfully/"><u>Why Won't My Computer Turn On? Overcoming Boot Loading Hurdles Successfully</u></a></li>
 </ul></div>
 

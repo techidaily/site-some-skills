@@ -1,7 +1,7 @@
 ---
 title: "[New] Unveiling the Secrets to Impactful Patient Storytelling in Video"
-date: 2024-08-21T00:27:28.479Z
-updated: 2024-08-22T00:27:28.479Z
+date: 2025-01-13T00:58:45.171Z
+updated: 2025-01-19T16:02:02.761Z
 tags: 
   - screen-recording
   - ai video
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 If you want to learn how to create video testimonials that convert, then this post is for you. It's time to stop wasting time and money on ineffective videos that don't get results. If you follow the tips below, you'll have a solid strategy for creating professional-looking testimonial videos that your customers will love and share.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Identify Your Perfect Customer
 
 ![identify your perfect customer](https://images.wondershare.com/filmora/article-images/2022/07/identify-your-perfect-customer.jpg)
@@ -36,9 +37,6 @@ It may seem like a daunting task, but there are several ways you can go about de
 
 ## Ask Authentic Questions
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![ask authentic questions](https://images.wondershare.com/filmora/article-images/2022/07/ask-authentic-questions.jpg)
 
 * Open-ended questions are the best way to engage customers and get them to speak naturally.
@@ -47,13 +45,11 @@ It may seem like a daunting task, but there are several ways you can go about de
 * If there's no good reason for asking a question then don't! For example: "How was your experience with our website?"
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Include Strong Opinions
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![include strong opinion](https://images.wondershare.com/filmora/article-images/2022/07/include-strong-opinion.jpg)
 
 * Use the word “I”.
@@ -62,14 +58,8 @@ It may seem like a daunting task, but there are several ways you can go about de
 * You can also use the word "they" for an authoritative tone, or "them", which is more casual and vaguer, depending on what you want to convey.
 * Please avoid saying the word "me" because this makes it sound like you're speaking in the third person—which can come across as unnatural and pretentious.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ## Keep it All Short and Sweet
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![keep video short and sweet](https://images.wondershare.com/filmora/article-images/2022/07/keep-video-short-and-sweet.jpg)
 
 When creating your video testimonial, you want to keep it short and sweet. After all, that's the point of using video testimonials in the first place! Make sure you have a tight script with a few specific questions written down. You should also plan out how you're going to arrange these questions into a flow.
@@ -86,16 +76,21 @@ Lighting, sound, and video quality matter.
 
 This is a given. If you want your testimonial videos to be effective and believable, they need to be properly lit, recorded with good audio quality, and captured in high resolution. While these may seem like obvious must-haves for any video production project—and they are—it's important to remember that there are many factors at play when it comes to how your audience will perceive the final product.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Really Listen to Your Prospects
 
 ![listen to your prospects](https://images.wondershare.com/filmora/article-images/2022/07/listen-to-your-prospects.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When you're listening to your customers, don't just take notes on what they say. Also, look at their body language and eye movement. This can tell you a lot about whether they are telling the truth or not, and it will give you an idea of what may be going on in their head.
 
 If someone says "I love this product," but then shows their eyes darting around nervously, that could mean that they're worried about saying something nice about the product because it's not really meeting their needs. If someone says "It's okay," but he or she is nodding along with enthusiasm when talking about it, that probably means he or she really does like it!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Beware of Skeptics and Negative Nellies
 
@@ -104,6 +99,10 @@ If someone says "I love this product," but then shows their eyes darting around 
 You might have skeptics and negative nellies in your audience. They're the ones who are less likely to buy, but more likely to be negative about everything.
 
 These people will try to poke holes in what you've done and make it sound like your product or service isn't worth buying no matter what you do for them. Luckily for us, there are a few things we can do about this!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -139,8 +138,20 @@ If you're looking to boost your sales with testimonial videos, then you need to 
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-drone-vfx-experience-try-no-cost-luts-on-mini-and-air-drones/"><u>[New] In 2024, Drone VFX Experience – Try No-Cost LUTS on Mini & Air Drones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlining-spotify-listening-with-secure-speed-techniques/"><u>[Updated] Streamlining Spotify Listening with Secure Speed Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-9-live-stream-networks-revealed-secrets/"><u>[Updated] Top 9 Live Stream Networks - Revealed Secrets</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-achieving-expert-control-the-steam-switch-controllers-guide/"><u>2024 Approved Achieving Expert Control The Steam Switch Controllers Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-restoring-macos-sierra-to-os-x-10101-environment/"><u>2024 Approved Restoring MacOS Sierra to OS X 10.10.1 Environment</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-your-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On your Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-facebook-live-vs-youtube-live-vs-twitter-periscope/"><u>In 2024, Facebook Live Vs YouTube Live Vs Twitter Periscope</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-frames-per-second-for-slow-clips/"><u>In 2024, Ultimate Frames Per Second for Slow Clips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-the-secrets-of-internet-humor-with-a-guide-on-9gag/"><u>In 2024, Unlock the Secrets of Internet Humor with a Guide on 9GAG</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategies-for-superior-tabletop-role-playing-via-gpt-utilization/"><u>Strategies for Superior Tabletop Role-Playing via GPT Utilization</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-essential-guide-to-downloading-and-editing-whatsapp-alerts/"><u>The Essential Guide to Downloading & Editing WhatsApp Alerts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-filmmakers-handbook-for-professional-gopro-videographers-for-2024/"><u>The Filmmaker's Handbook for Professional Gopro Videographers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-photoshops-image-curve-secrets-for-2024/"><u>Unveiling Photoshop's Image Curve Secrets for 2024</u></a></li>
+</ul></div>
 

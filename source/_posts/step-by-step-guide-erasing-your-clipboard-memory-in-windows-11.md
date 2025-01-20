@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Erasing Your Clipboard Memory in Windows 11"
-date: 2025-01-07T17:07:11.929Z
-updated: 2025-01-13T20:08:40.287Z
+date: 2025-01-15T23:27:21.720Z
+updated: 2025-01-19T16:16:06.386Z
 tags:
   - desktop
 categories:
@@ -39,40 +39,28 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 ![The Clipboard history pop-up window on Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/clipboard_history_plain.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To remove individual items from Clipboard history, call up the list with Windows+V and then click the three dots (ellipses) beside the item you'd like to delete.
 
 ![Click the ellipses in Clipboard history on Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/click_ellipses.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  A small menu will pop up. Click "Delete" and the item will be removed from the list.
 
 ![Click Delete in Clipboard history on Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/click_delete.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To clear the entire Clipboard history, click any set of three dots (ellipses) in the list and a menu will pop up. Select "Clear All."
 
 ![Click clear all in Clipboard history on Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/click_clear_all.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Any remaining items on the list after you click "Clear All" are pinned in place. If you'd like to remove a pinned item, click the ellipses beside it and select "Unpin." Then you can either delete it or try "Clear All" from the ellipses menu again.
 
  Note that with Clipboard history enabled, new items will continue to appear in the Clipboard history list every time you copy something to the Clipboard. If you would like to prevent Windows from storing your Clipboard history, you will need to disable the feature in Windows Settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Another Way to Clear All Clipboard Data
 
@@ -80,7 +68,15 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 
 ![Tap 'Clear' to clear your clipboard history.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/clear-clipboard-data.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This is equivalent to pushing the "Clear All" button in the Clipboard history window, but it also works with Clipboard history turned off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Disable Clipboard History in Windows 10
 
@@ -93,6 +89,10 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
  On the Settings sidebar, click on "Clipboard." In Clipboard settings, locate the section called "Clipboard history" and toggle the switch to "Off."
 
 ![Select 'Clipboard' to the left, then disable 'Clipboard History.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/clipboard.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once disabled, if you press Windows+V, you will see a small window alerting you that Windows 10 cannot show your Clipboard history because the feature is turned off.
 
@@ -115,22 +115,21 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-premiere-pros-shadowy-showdown/"><u>[New] Premiere Pro's Shadowy Showdown</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-the-ultimate-list-of-cost-free-industry-approved-video-callers/"><u>[New] The Ultimate List of Cost-Free, Industry-Approved Video Callers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-key-to-unlocking-the-best-video-production-talents/"><u>[Updated] The Key to Unlocking the Best Video Production Talents</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-hd-cameras-for-wildlife-enthusiasts/"><u>[Updated] Top HD Cameras For Wildlife Enthusiasts</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-turn-back-the-tape-on-twitch-broadcasting-for-2024/"><u>[Updated] Turn Back the Tape on Twitch Broadcasting for 2024</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/bereit-fur-den-wechsel-mehr-als-nur-10-tipps-um-ihren-pc-bei-der-umstellung-auf-windows-sicher-zu-verwenden/"><u>Bereit Für Den Wechsel: Mehr Als Nur 10 Tipps, Um Ihren PC Bei Der Umstellung Auf Windows Sicher Zu Verwenden</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpts-personalized-command-feature-explained/"><u>ChatGPT's Personalized Command Feature Explained</u></a></li>
-<li><a href="https://win-blog.techidaily.com/gratuito-conversor-de-formatos-mxf-para-wav-online-movavi/"><u>Gratuito Conversor De Formatos MXF Para WAV Online - Movavi</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-techniques-for-correcting-motion-blur-from-drones/"><u>In 2024, Techniques for Correcting Motion Blur From Drones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-image-clarity-techniques-for-online-cropping/"><u>In 2024, Unlocking Image Clarity Techniques for Online Cropping</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-full-capabilities-of-windows-11/"><u>In 2024, Unlocking the Full Capabilities of Windows 11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Motorola Moto G23 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722870796505-resolve-your-python-24-dll-issues-fix-missing-python24dll-error-effortlessly/"><u>Resolve Your Python 24 DLL Issues – Fix Missing python24.dll Error Effortlessly</u></a></li>
-<li><a href="https://some-skills.techidaily.com/synchronized-squawks-and-soarings-the-bebop-parrot-review-for-2024/"><u>Synchronized Squawks & Soarings The Bebop Parrot Review for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-essential-blueprint-for-finding-and-enjoying-premium-cricket-streams-for-2024/"><u>The Essential Blueprint for Finding and Enjoying Premium Cricket Streams for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-your-pcs-potential-exciting-new-windows-10-games-for-2024/"><u>Unlock Your PC’s Potential Exciting New Windows 10 Games for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-itel-a70-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Itel A70 Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-finding-your-voice-on-youtube-a-guide-to-selective-audiences/"><u>[New] Finding Your Voice on YouTube A Guide to Selective Audiences</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-growth-medical-ad-tricks-on-social-media/"><u>[New] Unlocking Growth Medical Ad Tricks on Social Media</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-power-of-free-countdown-tools-for-time-management/"><u>[New] Unveiling the Power of Free Countdown Tools for Time Management</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-step-by-step-ios-download-episodes-like-a-pro/"><u>[Updated] Step-by-Step iOS Download Episodes Like a Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-impact-of-photoshops-stabilization-on-quality-control/"><u>[Updated] The Impact of Photoshop's Stabilization on Quality Control</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-insiders-handbook-to-crafting-shareable-meme-gifs/"><u>[Updated] The Insider's Handbook to Crafting Shareable Meme GIFs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-vegas-pro-2021-unpacked-game-changer-or-just-another-tool/"><u>[Updated] Vegas Pro 2021 Unpacked Game Changer or Just Another Tool?</u></a></li>
+<li><a href="https://games-able.techidaily.com/combating-steams-inability-to-validate-games/"><u>Combating Steam's Inability to Validate Games</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/crafting-a-stellar-visual-identity-the-ultimate-guide-to-yt-design-for-2024/"><u>Crafting a Stellar Visual Identity The Ultimate Guide to YT Design for 2024</u></a></li>
+<li><a href="https://win-docs.techidaily.com/effiziente-methoden-zur-wiederherstellung-verlorener-daten-auf-raw-datentragern-expertenrat-zum-schutz-ihrer-wichtigen-informationen/"><u>Effiziente Methoden Zur Wiederherstellung Verlorener Daten Auf RAW-Datenträgern - Expertenrat Zum Schutz Ihrer Wichtigen Informationen</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-streamline-your-study-avoiding-edgenuity-videos-efficiently/"><u>In 2024, Streamline Your Study Avoiding Edgenuity Videos Efficiently</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-vivo-y100-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Vivo Y100 FRP</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/journey-of-joyrides-top-6-easy-mc-habitats-revealed-for-2024/"><u>Journey of Joyrides Top 6 Easy MC Habitats Revealed for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revive-your-media-expert-solutions-for-mpeg-file-restoration/"><u>Revive Your Media: Expert Solutions for MPEG File Restoration</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-simple-art-of-capturing-breathtaking-slow-motion-shots-with-android-for-2024/"><u>The Simple Art of Capturing Breathtaking Slow-Motion Shots with Android for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-5-android-photo-fixers-for-2024/"><u>Ultimate 5 Android Photo Fixers for 2024</u></a></li>
 </ul></div>
 
