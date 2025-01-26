@@ -1,7 +1,7 @@
 ---
 title: "Bankruptcy Alert: How a Massive $30+ Million Bitcoin Robbery Rocked Crypto.com"
-date: 2025-01-12T22:07:44.903Z
-updated: 2025-01-19T22:08:56.825Z
+date: 2025-01-22T17:14:14.611Z
+updated: 2025-01-25T18:13:20.600Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 ## Bankruptcy Alert: How a Massive $30+ Million Bitcoin Robbery Rocked Crypto.com
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
  A considerable hack occurred on the popular [cryptocurrency exchange](https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-itel-p40plus-phones-by-drfone-android/) Crypto.com. The hack led to over $30 million in crypto being stolen in the form of 4,836.26 Ethereum and 443.93 bitcoin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Happened to Crypto.com?
@@ -43,7 +43,7 @@ Related: [What is Ethereum, and What Are Smart Contracts?](https://extra-informa
 > On Monday, 17 January 2022 at approximately 12:46 AM UTC Crypto.com's risk monitoring systems detected unauthorized activity on a small number of user accounts where transactions were being approved without the 2FA authentication control being inputted by the user. This triggered an immediate response from multiple teams to assess the impact. All withdrawals on the platform were suspended for the duration of the investigation. Any accounts found to be impacted were fully restored. Crypto.com revoked all customer 2FA tokens, and added additional security hardening measures, which required all customers to re-login and set up their 2FA token to ensure only authorized activity would occur. Downtime of the withdrawal infrastructure was approximately 14 hours, and withdrawals were resumed at 5:46 PM UTC, 18 January 2022.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Is Crypto.com Doing to Fix It?
@@ -75,22 +75,24 @@ Related: [Opera Just Launched a Crypto Browser for Some Reason](https://howto.te
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-budget-savvy-shoppers-best-cameras/"><u>[New] Budget-Savvy Shoppers' Best Cameras</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-daily-deeds-for-digital-diaries-tips-on-virtual-journeys-for-2024/"><u>[New] Daily Deeds for Digital Diaries Tips on Virtual Journeys for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-streamlining-submission-a-podcasters-guide/"><u>[New] Streamlining Submission A Podcaster's Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-best-of-editing-filmoras-captivating-features/"><u>[New] The Best of Editing Filmora's Captivating Features</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-the-ultimate-ranking-for-vraction-cams-not-like-gopro-for-2024/"><u>[Updated] The Ultimate Ranking for VR/Action Cams, Not Like GoPro for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-tips-to-improve-visual-integrity-while-watching-youtube-content/"><u>[Updated] Tips to Improve Visual Integrity While Watching YouTube Content</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-xiaomi-civi-3-disney-100th-anniversary-edition-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Xiaomi Civi 3 Disney 100th Anniversary Edition by Name | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discovering-flsun-s1s-dynamic-performance-a-deep-dive-into-its-wonky-delta-mechanism-and-velocity/"><u>Discovering FLSun S1's Dynamic Performance: A Deep Dive Into Its Wonky Delta Mechanism and Velocity</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-vivo-t2-5g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Vivo T2 5G? Try These Fixes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-maximize-efficiency-with-wmp-for-audio-conversion/"><u>In 2024, Maximize Efficiency with WMP for Audio Conversion</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-optimal-transformation-tool-for-hd-videos/"><u>In 2024, Optimal Transformation Tool for HD Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-essence-of-depth-crafting-3d-text-art/"><u>In 2024, The Essence of Depth Crafting 3D Text Art</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-fresh-film-enthusiasts-primer-on-visual-quality/"><u>In 2024, The Fresh Film Enthusiast’s Primer on Visual Quality</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-roadmap-to-instagram-star-status-9-must-do-tactics/"><u>In 2024, The Roadmap to Instagram Star Status 9 Must-Do Tactics</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-ultimate-psd-shadow-gradient/"><u>In 2024, Ultimate PSD Shadow Gradient</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-kinemaster-way-to-enthralling-transitions-for-2024/"><u>The Kinemaster Way to Enthralling Transitions for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/turbocharging-your-journey-10-must-have-srt-converters-for-2024/"><u>Turbocharging Your Journey 10 Must-Have SRT Converters for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-screen-clarity-advanced-zoom-techniques/"><u>[New] Unlocking Screen Clarity Advanced Zoom Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tips-of-recording-time-lapse-video-on-iphone/"><u>[Updated] Tips of Recording Time Lapse Video on iPhone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-detailed-imagery-in-digital-spaces/"><u>[Updated] Unlocking Detailed Imagery in Digital Spaces</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-basics-of-slug-lines-explained/"><u>2024 Approved The Basics of Slug Lines Explained</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-total-physical-action-scrutiny/"><u>2024 Approved Total Physical Action Scrutiny</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unique-content-creation-the-ultimate-guide-to-6-video-types/"><u>2024 Approved Unique Content Creation The Ultimate Guide to 6 Video Types</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-vanguard-designs-evaluation-studio-25-examined-current-year/"><u>2024 Approved Vanguard Designs Evaluation Studio 25 Examined, Current Year</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/coding-warfare-comparing-the-superiority-of-av1-and-vp9/"><u>Coding Warfare Comparing the Superiority of AV1 and VP9</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevate-your-message-with-these-30-video-suggestions/"><u>Elevate Your Message with These 30 Video Suggestions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/end-pc-crashes-in-ark-survival-evolved-with-these-9-proven-remedies-and-adjustments/"><u>End PC Crashes in ARK: Survival Evolved with These 9 Proven Remedies and Adjustments</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/googles-quick-fix-for-photo-collage-enthusiasts-for-2024/"><u>Google's Quick Fix for Photo Collage Enthusiasts for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-vivo-y36-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Vivo Y36 Phone that is Locked?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/iconic-stop-motion-creations-15-greatest-of-all-time/"><u>Iconic Stop-Motion Creations - #15 Greatest of All Time</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-7-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/mastering-the-update-process-fixing-common-challenges-with-amd-radeon-drivers/"><u>Mastering the Update Process: Fixing Common Challenges with AMD Radeon Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-freezing-issues-with-spotify-on-w10w11-oses/"><u>Overcoming Freezing Issues with Spotify on W10/W11 OSes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-economic-aspects-of-making-a-music-video-for-2024/"><u>The Economic Aspects of Making a Music Video for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-content-simple-steps-to-change-numbers-on-tiktok-for-2024/"><u>Transform Your Content Simple Steps to Change Numbers on TikTok for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/your-guide-to-smooth-browsing-select-the-top-7-android-adblockers-for-2024/"><u>Your Guide to Smooth Browsing Select the Top 7 Android AdBlockers for 2024</u></a></li>
 </ul></div>
 

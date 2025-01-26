@@ -1,7 +1,7 @@
 ---
 title: "Exciting Updates: GIMP Introduces Advanced Gradient Capabilities Ahead of the 3.0 Update"
-date: 2025-01-12T22:20:54.580Z
-updated: 2025-01-19T16:30:54.359Z
+date: 2025-01-19T20:06:48.434Z
+updated: 2025-01-25T23:11:11.196Z
 tags:
   - deals
 categories:
@@ -38,24 +38,24 @@ The latest GIMP release (version 2.10.36) introduces a fun new gradient tool and
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-unmatched-video-capturing-reviews-of-the-best-apps/"><u>[New] In 2024, Unmatched Video Capturing Reviews of the Best Apps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-listen-and-write-the-gratis-method/"><u>[New] Listen and Write – The Gratis Method</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-snipers-manual-to-capturing-live-online-music/"><u>[New] The Sniper’s Manual to Capturing Live Online Music</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-10-budget-friendly-digital-photography-workspaces-online/"><u>[New] Top 10 Budget-Friendly Digital Photography Workspaces Online</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-cloud-storage-expenses-made-simple-comparison-guide-for-2024/"><u>[Updated] Cloud Storage Expenses Made Simple Comparison Guide for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-podcasters-guide-to-seamless-streaming-setup/"><u>[Updated] The Podcaster’s Guide to Seamless Streaming Setup</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-shades-and-tones-mastering-the-visual-spectrum/"><u>2024 Approved Shades and Tones Mastering the Visual Spectrum</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/assessing-auroraayers-image-processing-strengths/"><u>Assessing Aurora'ayer's Image Processing Strengths</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-install-libdvdcss-on-macoswindows-11-for-dvd-ripping-with-handbrake/"><u>How to Install Libdvdcss on macOS/Windows 11 for DVD Ripping with Handbrake</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-decoding-second-count-in-20mb-video-files/"><u>In 2024, Decoding Second Count in 20MB Video Files</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-new-horizons-in-media-grasping-the-fundamentals-of-screen-resolution/"><u>In 2024, New Horizons in Media Grasping the Fundamentals of Screen Resolution</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-personalizing-whatsapp-ringtone-on-all-devices-for-2024/"><u>The Ultimate Guide to Personalizing WhatsApp Ringtone on All Devices for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-writings-distinguished-by-genre-based-categories-for-2024/"><u>Ultimate Writings Distinguished by Genre-Based Categories for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-fcpx-2024-tutorial-how-to-perfectly-sync-your-audio-and-video-tracks/"><u>Updated FCPX 2024 Tutorial How to Perfectly Sync Your Audio and Video Tracks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-enhancing-video-tracking-adding-timestamps-in-youtube/"><u>[Updated] Enhancing Video Tracking Adding Timestamps in YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-the-landscape-intricacies-of-using-the-background-eraser-feature/"><u>[Updated] Navigating the Landscape Intricacies of Using the Background Eraser Feature</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-how-to-use-zoom-for-win10-pc/"><u>2024 Approved How to Use Zoom for Win10 PC</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-lenovo-screenshots-made-quickly-and-easy/"><u>2024 Approved Lenovo Screenshots Made Quickly and Easy</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-efforts-crafting-perfect-titles/"><u>2024 Approved Top 5 Efforts Crafting Perfect Titles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-8-innovative-glasses-for-entering-metaverse-worlds/"><u>2024 Approved Top 8 Innovative Glasses for Entering Metaverse Worlds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-tunes-palette-for-video-storytelling/"><u>2024 Approved Top Tunes Palette for Video Storytelling</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/design-dynamics-the-role-of-color-integration-for-2024/"><u>Design Dynamics The Role of Color Integration for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-picks-for-shining-3d-type-designs-with-a-golden-touch/"><u>In 2024, Top Picks for Shining 3D Type Designs with a Golden Touch</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pixel-9xl-vs-iphone-15-pro-photography-face-off-reveals-unexpected-victor-insights-and-analysis/"><u>Pixel 9XL vs iPhone 15 Pro Photography Face-Off Reveals Unexpected Victor – Insights & Analysis</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-why-isnt-my-corsair-void-mic-functioning-how-to-fix-it/"><u>Solved: Why Isn't My Corsair Void Mic Functioning? How to Fix It</u></a></li>
+<li><a href="https://some-skills.techidaily.com/stream-control-tactics-10-ways-to-unwind-live-play-for-2024/"><u>Stream Control Tactics 10 Ways to Unwind Live Play for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-document-creation-with-microsoft-word-speech-recognition-for-2024/"><u>Streamline Document Creation with Microsoft Word Speech Recognition for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-libxml2-dll-not-found-errors-step-by-step-tutorial/"><u>Troubleshooting LibXML2 DLL Not Found Errors | Step-by-Step Tutorial</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/unlock-your-apple-iphone-6-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>Unlock Your Apple iPhone 6 in Minutes with ICCID Code Everything You Need to Know</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

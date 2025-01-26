@@ -1,7 +1,7 @@
 ---
 title: "Combating Synthetic Speech Deception: Tips for Safeguarding Personal Data From AI Voice Cloning Threats"
-date: 2025-01-05T21:58:11.667Z
-updated: 2025-01-07T07:55:07.897Z
+date: 2025-01-18T16:50:36.342Z
+updated: 2025-01-26T00:07:29.687Z
 tags:
   - cutting-edge
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://thmb.techidaily.com/d7bfa61b324ffaea9cbfc11e938036f2476668f1b
 
 ## Combating Synthetic Speech Deception: Tips for Safeguarding Personal Data From AI Voice Cloning Threats
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Voice cloning scams are on the rise and can tap into our emotions to make us act irrationally. Beware and stay alert.
@@ -23,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/d7bfa61b324ffaea9cbfc11e938036f2476668f1b
 
  Cloning someone's voice using AI is now easy enough even scammers can do it. People are already being victimized by this abuse of AI technology, but you don't have to be the next person to fall for the scam. Here's how you can beat them before they get you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How Voice Cloning Scams Work
 
  Imagine getting a phone call from a family member. It's 3AM, they've been in an accident, they've been arrested, they need money to post bail. You get passed to his "lawyer" and are asked to wire money. This is what happened to attorney [Gary Schildhorn](https://www.independent.co.uk/news/world/americas/ai-phone-scam-voice-call-b2459449.html). What about getting a call from your daughter, claiming that she's been kidnapped, but she's asleep in bed. That happened to [Jennifer DeStefano](https://www.cbsnews.com/news/scammers-ai-mimic-voices-loved-ones-in-distress/), and could have ended much worse if the scammers had timed things differently.
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/d7bfa61b324ffaea9cbfc11e938036f2476668f1b
  By [misusing AI software tools](https://youtube-lab.techidaily.com/ed-crafting-visual-wonders-home-made-effects-demystified/) that can create voice profiles from, for example, videos someone might leave on social media, scammers can tap into our emotions to make us behave irrationally. This is already happening and will only increase in sophistication, so there's no better time to arm yourself with knowledge and strategies to combat this.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Signs That You're Being Scammed
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/d7bfa61b324ffaea9cbfc11e938036f2476668f1b
  The most important thing is to be aware that such scams are possible, and to have healthy skepticism when you're confronted by these types of semi-emergency scenarios.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Decide on a Safe Phrase With Family and Friends
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/d7bfa61b324ffaea9cbfc11e938036f2476668f1b
  Then, if you ever receive an emergency call, you can just ask for the safe word and unless the scammer can somehow guess it, you'll stop the whole scam in its tracks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Stop to Think
@@ -63,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/d7bfa61b324ffaea9cbfc11e938036f2476668f1b
  A hallmark of scams, both old and new, is to stop you from having time to think. The less time we have to make decisions, the worse our decisions tend to be. They don't want you thinking too much or you might notice gaps in the story or realize you're being asked to do unreasonable or illogical things. So, once you're off the phone, take five minutes and just think about everything that's been said. Does it really all make sense?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Get Third-Party Information Verification
@@ -89,18 +89,14 @@ thumbnail: https://thmb.techidaily.com/d7bfa61b324ffaea9cbfc11e938036f2476668f1b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-speed-enhancement-tips-for-periscope-livestimation/"><u>[New] In 2024, Speed Enhancement Tips for Periscope Livestimation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-navigating-nearby-your-personal-guide-for-on-the-go-assistance/"><u>[New] Navigating Nearby - Your Personal Guide for On-the-Go Assistance</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-seamless-time-stamp-integration-on-youtube-videos/"><u>[New] Seamless Time-Stamp Integration on YouTube Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-best-yoga-series-online-stay-active-and-healthy/"><u>[Updated] In 2024, Best Yoga Series Online - Stay Active & Healthy</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1-all-in-one-video-editing-with-manycam-a-comprehensive-guide-to-streamlining-your-livestreams/"><u>1. All-in-One Video Editing with ManyCam: A Comprehensive Guide to Streamlining Your Livestreams</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-50plus-overlays-for-engaging-media-content/"><u>2024 Approved Top 50+ Overlays for Engaging Media Content</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-better-videos-a-22-enhancer-users-manual/"><u>2024 Approved Unlock Better Videos A 2.2 Enhancer User's Manual</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-utilizing-slug-lines-for-better-content-structure/"><u>2024 Approved Utilizing Slug Lines for Better Content Structure</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-guide-twitter-video-enhancers/"><u>In 2024, Ultimate Guide Twitter Video Enhancers</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-ultimate-tutorial-looping-techniques-for-maximum-watcher-satisfaction/"><u>In 2024, Ultimate Tutorial Looping Techniques for Maximum Watcher Satisfaction</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-profit-13-simple-money-making-ideas-on-reddit/"><u>In 2024, Unlocking Profit 13 Simple Money-Making Ideas on Reddit</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/optimized-project-management-with-cache-tab-solutions/"><u>Optimized Project Management with Cache Tab Solutions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-visual-verdict-sj6-meets-xiaomis-yi-visionaries-for-2024/"><u>The Ultimate Visual Verdict SJ6 Meets Xiaomi’s Yi Visionaries for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-elevate-your-gameplay-stream-xbox-seamlessly-to-facebook-for-2024/"><u>[Updated] Elevate Your Gameplay Stream Xbox Seamlessly to Facebook for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-animators-dream-tools-premium-choices-for-3d-mastery/"><u>[Updated] The Animator’s Dream Tools Premium Choices for 3D Mastery</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-digital-library-year-round-free-texts/"><u>2024 Approved The Ultimate Digital Library Year-Round Free Texts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-much-wealth-can-you-generate-on-youtube-using-cpm/"><u>In 2024, How Much Wealth Can You Generate on YouTube Using CPM?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-future-of-packaging-experiential-gifting-excellence-for-2024/"><u>The Future of Packaging Experiential Gifting Excellence for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-invisible-hand-mastering-windows-11s-media-imports-for-2024/"><u>The Invisible Hand Mastering Windows 11'S Media Imports for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-success-discover-7-key-methods-for-efficient-ai-prompt-engineering/"><u>Unlock Success: Discover 7 Key Methods for Efficient AI Prompt Engineering</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtube-mastery-made-simple-the-top-20-must-know-strategies-for-2024/"><u>YouTube Mastery Made Simple The Top 20 Must-Know Strategies for 2024</u></a></li>
 </ul></div>
 

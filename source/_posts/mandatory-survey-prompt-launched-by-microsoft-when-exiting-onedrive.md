@@ -1,7 +1,7 @@
 ---
 title: Mandatory Survey Prompt Launched by Microsoft When Exiting OneDrive
-date: 2025-01-18T00:23:58.341Z
-updated: 2025-01-19T21:47:46.281Z
+date: 2025-01-23T19:14:44.249Z
+updated: 2025-01-25T23:35:17.882Z
 tags:
   - deals
 categories:
@@ -18,7 +18,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Microsoft's clingy behavior continues to annoy Windows users. Last month, the company introduced an optional [pop-up survey](https://article-files.techidaily.com/2024-approved-the-ultimate-guide-for-implementing-look-up-tables-in-creative-suite/) that's triggered when installing Chrome from Edge. Now, Windows users are being hit with a _mandatory_ survey when they try to _close_ OneDrive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  UPDATE: 2023/11/10 10:11 EST BY ANDREW HEINZMAN
@@ -32,7 +32,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![The "quit OneDrive" popup prompting a user to complete a survey.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/11-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Neowin](https://www.neowin.net/news/microsoft-wont-let-you-close-onedrive-in-windows-without-you-explaining-it-first/)
@@ -68,17 +68,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-fancy-filter-fest-snapping-with-snapchats-colorful-cartoons/"><u>[New] 2024 Approved The Fancy Filter Fest Snapping with Snapchat's Colorful Cartoons</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-video-transformation-pics-and-tunes-fusion/"><u>[New] 2024 Approved Video Transformation Pics and Tunes Fusion</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mobile-artistry-ios-and-androids-creme-de-la-creme-of-image-stickers/"><u>[New] Mobile Artistry IOS and Android's Crème De La Crème of Image Stickers</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-navigating-instagrams-posting-video-count-for-2024/"><u>[New] Navigating Instagram's Posting Video Count for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-photos-removing-backdrops-with-ease/"><u>2024 Approved Transform Your Photos Removing Backdrops with Ease</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-images-with-dynamic-mosaic-designs/"><u>2024 Approved Transforming Images with Dynamic Mosaic Designs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dynamic-car-insurance-pricing-how-safe-driving-reduces-rates-based-on-telematics-tracking/"><u>Dynamic Car Insurance Pricing: How Safe Driving Reduces Rates Based on Telematics Tracking</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-honor-x50-gt-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Honor X50 GT Phones? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/master-your-multimedia-with-winx-mediatrans-effortless-photo-music-and-video-transfer-between-pcs-to-iosandroid/"><u>Master Your Multimedia with WinX MediaTrans™ - Effortless Photo, Music, and Video Transfer Between PCs to iOS/Android</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/quick-fixes-for-fallout-4-missing-save-files-on-pc-restore-your-game-progress/"><u>Quick Fixes for Fallout 4 Missing Save Files on PC - Restore Your Game Progress</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tapping-into-community-spirit-a-guide-to-thriving-fb-gifting-campaigns-for-2024/"><u>Tapping Into Community Spirit A Guide to Thriving FB Gifting Campaigns for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-5-display-choices-to-enhance-ps5xbox-playtime-for-2024/"><u>Top 5 Display Choices to Enhance PS5/Xbox Playtime for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-detailed-analysis-and-overview-of-du-recorders-capabilities-for-2024/"><u>[New] Detailed Analysis and Overview of Du Recorder’s Capabilities for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-benefits-of-high-dynamic-range-in-professional-videography/"><u>[New] The Benefits of High Dynamic Range in Professional Videography</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-digital-sound-capturing-101-your-path-to-proficiency/"><u>[Updated] 2024 Approved Digital Sound Capturing 101 Your Path to Proficiency</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-mastering-windows-11-movie-maker-a-step-by-step-guide/"><u>[Updated] 2024 Approved Mastering Windows 11 Movie Maker A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-securely-steering-towards-the-one-million-view-mark-on-youtube/"><u>[Updated] Securely Steering Towards the One-Million View Mark on YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-secrets-pro-level-iphone-landscape-tips/"><u>[Updated] Unlocking the Secrets Pro-Level iPhone Landscape Tips</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-best-cheap-action-cameras-to-purchase-for-under-100/"><u>2024 Approved The Best Cheap Action Cameras to Purchase for Under $100</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-tempo-trackers-guide-accessible-free-tools/"><u>2024 Approved The Tempo Tracker’s Guide – Accessible, Free Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-flawless-subtitles-with-precision-and-tips-for-2024/"><u>Crafting Flawless Subtitles with Precision and Tips for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-11-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 11 To Android devices? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-tecno-pop-7-pro-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Tecno Pop 7 Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-steadicams-to-elevate-your-dslr-filming-capabilities/"><u>In 2024, Top Steadicams to Elevate Your DSLR Filming Capabilities</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-imovies-inherent-cropping-rules/"><u>In 2024, Unveiling iMovie's Inherent Cropping Rules</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-insiders-guide-to-finesse-and-control-on-insta-stories-for-2024/"><u>The Insider's Guide to Finesse and Control on Insta Stories for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-cast-any-video-a-step-by-step-guide-to-chromecast-compatibility/"><u>Updated Cast Any Video A Step-by-Step Guide to Chromecast Compatibility</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Boost Productivity: Switch From Complex Excel Formulas to Efficient ChatGPT Solutions"
-date: 2025-01-03T08:14:49.381Z
-updated: 2025-01-07T10:26:26.875Z
+date: 2025-01-18T23:29:06.952Z
+updated: 2025-01-25T16:56:27.177Z
 tags:
   - cutting-edge
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/c4aba1f1071f6153eef4e836db7e5ca4bdc93515f
 * [ChatGPT Can Troubleshoot and Tweak Your Formulas](https://screen-mirroring-recording.techidaily.com/2024-approved-clear-vision-in-gaming-captures-overcoming-obs-black-screens/)
 * [You Still Need to Check the Formulas Manually](https://mondly-stories.techidaily.com/initiation-into-japanese-conversational-manners/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * You can use ChatGPT to create Excel formulas even without prior knowledge of the tool.
@@ -26,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/c4aba1f1071f6153eef4e836db7e5ca4bdc93515f
  In a fast-paced work environment, you need to maximize efficiency, and AI tools like ChatGPT can make short work of tedious tasks, such as creating Excel formulas. If you haven't yet tried ChatGPT for custom Excel formulas, you're missing out on a serious game changer.
 
  The tips provided in this article aren't limited to Excel; they're also applicable to other spreadsheet tools, such as Google Sheets and Apple Numbers. Additionally, this guide focuses on the free version of ChatGPT based on the GPT 3.5 model. If you have access to GPT 4, you can use the Advanced Data Analysis tool to take screenshots and upload Excel files directly to GPT 4 for a more seamless experience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Get a Quick Excel Formula From ChatGPT
 
@@ -52,7 +52,7 @@ Close
 ![ChatGPT giving formulas to calculate the average profit margin and most profitable item in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/most-profitable.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After implementing the formula, I was once again left with exactly what I was looking for. I double-checked the numbers by calculating everything manually to confirm the formulas worked correctly.
@@ -60,7 +60,7 @@ Close
 ![A list of articles about ceramic and glass coffee mugs in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/asd.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you're already an Excel aficionado and prefer making formulas yourself, you can ask ChatGPT to suggest the best function for your unique scenario. Let's say I wanted to import information about the revenue and profits from my orders sheet to a tax sheet. ChatGPT gave me four viable formulas that I could use, along with a brief explanation of how they work.
@@ -72,7 +72,7 @@ Close
  If you've subscribed to Copilot Pro, you can [add GPT-4 Turbo directly to Excel](https://extra-skills.techidaily.com/in-2024-photoshop-facebackground-anonymity-guide/). This integration allows Copilot to analyze your data and suggest relevant formulas in addition to providing direct access to GPT.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  You Can Create Formatting Rules With ChatGPT
@@ -89,10 +89,6 @@ Close
 
 ![A list of articles about ceramic and glass coffee mugs in Excel, organized by color.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/newnew.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  ChatGPT Can Troubleshoot and Tweak Your Formulas
 
  Don't worry if one of the formulas ChatGPT gave you isn't working as intended—it happens to me all the time. The fix can range from telling ChatGPT, "Hey, this doesn't work." to explaining the problem in detail until ChatGPT figures out the issue.
@@ -104,6 +100,10 @@ Close
  You can also use ChatGPT to identify what's causing an error. Let's say an event organizer was trying to calculate the total number of passengers from each city using a simple addition formula and encountered the #VALUE! error because they mixed text and numbers. After explaining the issue to ChatGPT, it immediately recognized the error and gave a fix accompanied by a simple explanation.
 
 Close 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  You Still Need to Check the Formulas Manually
 
@@ -130,22 +130,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-efficiently-piecing-together-google-collage-projects/"><u>[New] In 2024, Efficiently Piecing Together Google Collage Projects</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-key-drone-upgrades-and-supplies/"><u>[New] The Ultimate Guide Key Drone Upgrades & Supplies</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-cutting-down-high-bitrate-obs-streams/"><u>[Updated] Cutting Down High-Bitrate OBS Streams</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-digital-distinction-design-molding-an-animated-profile-for-2024/"><u>[Updated] Digital Distinction Design Molding an Animated Profile for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streamline-your-listening-experience-how-to-get-apple-podcasts-downloaded/"><u>[Updated] Streamline Your Listening Experience How to Get Apple Podcasts Downloaded</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-next-gen-videostreaming-hubs-triumph-beyond-youtube/"><u>2024 Approved Next-Gen Videostreaming Hubs Triumph Beyond Youtube</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-crescendo-camera-making-music-videos-on-mobile-devices/"><u>2024 Approved The Crescendo Camera Making Music Videos on Mobile Devices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-diagnosing-and-correcting-a-5-cuffs-gateway-malfunction/"><u>Expert Tips for Diagnosing & Correcting a 5 Cuffs Gateway Malfunction</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streaming-showdown-the-ultimate-guide-for-xsplit-and-obs-fans/"><u>In 2024, Streaming Showdown The Ultimate Guide for XSplit and OBS Fans</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-textual-transformation-in-adobe-after-effects/"><u>In 2024, Textual Transformation in Adobe After Effects</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-platform-prowess-twitch-vs-youtube-comparison/"><u>In 2024, The Platform Prowess Twitch vs YouTube Comparison</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-uncovering-notable-versions-within-microsofts-movie-maker/"><u>In 2024, Uncovering Notable Versions Within Microsoft's Movie Maker</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-top-10-timing-apps-for-weddings-on-smartphones/"><u>In 2024, Unveiling the Top 10 Timing Apps for Weddings on Smartphones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/mastering-user-generated-content-music-posting-on-instagram-for-2024/"><u>Mastering User-Generated Content Music Posting on Instagram for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-stabilizing-overwatch-2-performance-on-your-gaming-pc/"><u>Step-by-Step Solutions: Stabilizing Overwatch ^2 Performance on Your Gaming PC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-for-safe-dvd-duplication-across-windows-versions-1087/"><u>Step-by-Step Tutorial for Safe DVD Duplication Across Windows Versions 10/8/7</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-real-value-of-paying-a-premium-for-advanced-ai-outputs/"><u>The Real Value of Paying a Premium for Advanced AI Outputs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-behind-the-photo-instagram-selfie-credibility-explored-for-2024/"><u>[New] Behind the Photo Instagram Selfie Credibility Explored for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-techniques-for-youtube-video-format-switching/"><u>[New] Ultimate Techniques for YouTube Video Format Switching</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-diving-deep-into-sj-cam-s6-features-and-performance-for-2024/"><u>[Updated] Diving Deep Into SJ-CAM S6 Features and Performance for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-essential-guide-to-documentary-storytelling-mechanics/"><u>[Updated] The Essential Guide to Documentary Storytelling Mechanics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-uncovering-potential-through-skilled-interviewing/"><u>[Updated] Uncovering Potential Through Skilled Interviewing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streaming-success-without-xsplit/"><u>2024 Approved Streaming Success Without Xsplit</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/delving-into-twitter-archives-processes-explained-for-2024/"><u>Delving Into Twitter Archives Processes Explained for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-your-next-favorite-book-using-these-5-cutting-edge-ai-recommendation-services/"><u>Discover Your Next Favorite Book Using These 5 Cutting-Edge AI Recommendation Services</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-transform-your-talk-explore-gratis-options-for-audio-effect-applications/"><u>In 2024, Transform Your Talk Explore Gratis Options for Audio Effect Applications</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/leading-economical-screen-snapper-kit/"><u>Leading Economical Screen Snapper Kit</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-high-dynamic-range-in-photoshop-artistry/"><u>Mastering High Dynamic Range in Photoshop Artistry</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/maximizing-your-marketing-mettle-on-youtube/"><u>Maximizing Your Marketing Mettle on Youtube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-global-linguists-guide-to-top-28-applications-for-seamless-translation-for-2024/"><u>The Global Linguist's Guide to Top 28 Applications for Seamless Translation for 2024</u></a></li>
 </ul></div>
 

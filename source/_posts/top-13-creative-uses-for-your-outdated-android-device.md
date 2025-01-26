@@ -1,7 +1,7 @@
 ---
 title: Top 13 Creative Uses for Your Outdated Android Device
-date: 2025-01-15T00:51:55.775Z
-updated: 2025-01-19T23:31:31.459Z
+date: 2025-01-23T20:36:30.629Z
+updated: 2025-01-25T23:45:00.364Z
 tags:
   - mobile
 categories:
@@ -35,11 +35,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  You probably won't get a lot of mileage from a 16GB phone, but even a 32GB phone can [store](https://www.kingston.com/en/memory-cards/storage-chart) 26,786 12MP photos, 10,417 songs that are 3MB each, or 168 minutes of 1080p video. The real-world numbers would be slightly lower since the operating system takes up a few gigabytes, but those are still substantial numbers. Not to mention that many old Android phones have SD card slots, allowing you to [expand the storage](https://some-skills.techidaily.com/updated-thankful-discoveries-unlimited-outro-options/) significantly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2  Use It as a Mini Smart Speaker 
 
  An old Android phone that supports Google Assistant is the perfect smart home speaker; in a way, it's even better because you can use it unplugged. You just have to enable all of [Assistant's hands-free features](https://extra-guidance.techidaily.com/new-instagram-artists-and-intellectual-property-rights/) so that you can use it even when the phone is locked, and you're all set.
 
  You could permanently connect it to a Bluetooth speaker if you want it to be as loud as a real smart speaker, but it's not necessary. Plus, you'd have to keep both devices plugged in or charged, so it's too much of a bother if you ask me.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3  Give It to Your Kid 
 
@@ -61,16 +69,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Android Auto on a bike.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240615_124052773-2-1.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Joe Fedewa / How-To Geek
 
  If you want the [Android Auto experience on your bicycle](https://games-able.techidaily.com/top-tier-games-subscription-matchup-psplus-vs-xbox-game-pass/), just use your old Android phone. This way, you won't damage your main phone in the case of an accident, and the constant vibrations won't break your camera's optical image stabilization (OIS).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7  Leave It in Your Kitchen 
@@ -78,26 +82,18 @@ Joe Fedewa / How-To Geek
  A [kitchen tablet](https://facebook-video-content.techidaily.com/new-facebook-videos-vertical-or-horizontal-in-2024/) or phone left permanently on a phone holder above your counter is the best way to find and follow recipes or just watch YouTube. Simply [set the screen timeout](https://facebook-record-videos.techidaily.com/new-in-2024-10-free-youtube-thumbnail-downloaderssavers-online-download-youtube-thumbnail/) to 30 minutes and create a home screen dedicated to your favorite cooking apps and websites. You'll always have a device ready to go in an instant, and the best part is that you won't even care if you get tomato sauce all over the screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8  Use It as a PC Webcam 
 
 ![Woman in a meeting on a laptop using a phone as a webcam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ditch-the-webcam-i-use-my-android-phone-camera-to-look-better-on-video-calls.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lucas Gouveia / How-To Geek | [fizkes](https://www.shutterstock.com/image-photo/view-over-businesslady-shoulder-seated-workplace-1704165919) / Shutterstock
 
  Cheap webcams suck. What's worse is that the drivers with some cameras (like mine) are a nightmare to install. Since even old smartphones have pretty good cameras, they can make for a solid webcam. Just grab a simple [monitor phone mount](https://www.amazon.com/dp/B0BN3YLBLL?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003775&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthings-to-do-with-an-old-android-phone%2F&asc%5Fcampaign=Evergreen) and use a spare USB port to charge the phone.
 
  There's actually a [native webcam option](https://some-knowledge.techidaily.com/2024-approved-horned-gods-hearing-essential-websites-for-got-sound-files/) in the latest Pixel and Motorola phones; a universal wireless webcam solution is also present in [Windows 11](https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-iphone-6s-by-drfone-ios/). You can also try some [third-party solutions](https://win11-tips.techidaily.com/boosted-efficiency-expert-tips-for-optimizing-bar-use/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9  Turn It Into a Security Camera or Baby Monitor 
 
@@ -113,6 +109,10 @@ Jason Montoya / How-To Geek
 
  Offloading a couple of games and emulators to the old phone also saves on storage. Not playing games on your main phone also means a longer battery life and no annoying notifications.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 11  Use It as a PC Media or DAW Controller 
 
  The [Unified Remote](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003775/https://play.google.com/store/apps/details?id=com.Relmtech.Remote) app allows you to control your PC from your phone. One useful function is that you can use the phone as a general media remote. It essentially gives you media keys if you don't have dedicated media keys on your keyboard. There used to be a more advanced app called PCVolumeControl, but the project seems to have been abandoned.
@@ -124,7 +124,7 @@ Jason Montoya / How-To Geek
  Extremely slow Android phones and tablets are the perfect [digital photo frame](https://youtube-help.techidaily.com/2024-approved-the-monetary-journey-of-ajey-nagar-on-youtube/). If your old phone is so old and laggy that you can't use it for anything functional, you can at least use it as a decorative piece because it doesn't demand any advanced processing. Place it on a stand, plug it in to charge, and turn on a photo gallery app that supports slideshows (either from the cloud or device storage), such as [Fotoo](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003775/https://play.google.com/store/apps/details?id=com.bo.fotoo&cjevent=119f1894380a11ef80b07fba0a18ba74).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 13  Sell It 
@@ -148,20 +148,18 @@ Jason Montoya / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-rev-up-with-hubsans-x4-fpv-quadcopter-review/"><u>[New] Rev Up with Hubsan's X4 FPV Quadcopter Review</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-brilliant-filters-to-illuminate-videography/"><u>[Updated] 2024 Approved Brilliant Filters to Illuminate Videography</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-blueprint-for-channel-empowerment-via-studio-mastery/"><u>[Updated] In 2024, The Blueprint for Channel Empowerment via Studio Mastery</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unravel-the-mystery-of-tempo-control-in-instagram-stories/"><u>[Updated] Unravel the Mystery of Tempo Control in Instagram Stories</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-places-to-go-the-best-online-hubs-for-text-effects/"><u>In 2024, Places to Go The Best Online Hubs for Text Effects</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-future-of-computing-in-windows-11/"><u>In 2024, The Future of Computing in Windows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-6-nft-makers-for-artists-to-unleash-imagination/"><u>In 2024, Top 6 NFT Makers for Artists to Unleash Imagination</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-quick-picture-viewer-on-windows-10/"><u>In 2024, Ultimate Quick Picture Viewer on Windows 10</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-window-to-world-class-video-playback/"><u>In 2024, Ultimate Window to World-Class Video Playback</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-understanding-spending-in-online-advertising/"><u>In 2024, Understanding Spending in Online Advertising</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/navigating-periscope-understanding-features-pricing-and-registration-steps/"><u>Navigating Periscope Understanding Features, Pricing & Registration Steps</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-nubia-red-magic-9-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Nubia Red Magic 9 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-productivity-apps-for-ipads-enhancing-efficiency-in-your-daily-routine-insights/"><u>Top Productivity Apps for iPads: Enhancing Efficiency in Your Daily Routine - Insights</u></a></li>
-<li><a href="https://network-issues.techidaily.com/transform-your-monitors-layout-on-w11/"><u>Transform Your Monitor's Layout on W11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-beat-stress-away-the-ultimate-gaming-list-for-2024/"><u>[New] Beat Stress Away The Ultimate Gaming List for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-ultimate-5-remote-viewing-recorders/"><u>[New] Ultimate 5 Remote Viewing Recorders</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unique-locations-enhancing-youtube-traction/"><u>[New] Unique Locations Enhancing YouTube Traction</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-essential-info-for-tweeting-videos-aspect-ratios-required/"><u>[Updated] In 2024, Essential Info for Tweeting Videos Aspect Ratios Required</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-pitch-preservation-recording-sounds-and-voices/"><u>[Updated] In 2024, Pitch Preservation Recording Sounds & Voices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-language-of-cinema-writing-as-an-art/"><u>[Updated] The Language of Cinema Writing as an Art</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-skyward-voyage-of-gopro-karma-analysis/"><u>[Updated] The Skyward Voyage of GoPro Karma Analysis</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-productivity-playlist-podcast-inspired-tasks/"><u>[Updated] The Ultimate Productivity Playlist Podcast-Inspired Tasks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-strategies-for-optimizing-your-ms-teams-experience-with-copilot-assistance/"><u>Expert Strategies for Optimizing Your MS Teams Experience with Copilot Assistance</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-15-by-drfone-ios/"><u>In 2024, The Easy Way to Remove an Apple ID from Your MacBook For your iPhone 15</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unified-media-exchange-android-ios/"><u>In 2024, Unified Media Exchange Android-iOS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/optimizing-your-youtube-stream-with-wirecast-for-2024/"><u>Optimizing Your YouTube Stream with WireCast for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-your-devices-potential-how-to-download-and-customize-whatsapp-ringtones-for-2024/"><u>Unleash Your Device's Potential How to Download and Customize WhatsApp Ringtones for 2024</u></a></li>
 </ul></div>
 

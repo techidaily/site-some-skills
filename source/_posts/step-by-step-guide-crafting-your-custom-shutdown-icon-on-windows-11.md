@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Crafting Your Custom Shutdown Icon on Windows 11"
-date: 2025-01-16T19:48:20.048Z
-updated: 2025-01-19T17:44:18.499Z
+date: 2025-01-23T16:10:20.748Z
+updated: 2025-01-25T16:26:08.122Z
 tags:
   - deals
 categories:
@@ -17,7 +17,7 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
 * [Other Useful Shortcuts](https://some-tips.techidaily.com/2024-approved-unveiling-prime-cloud-storage-options/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
  It's true that [shutting down your Windows 10 PC](https://screen-activity-recording.techidaily.com/updated-the-ultimate-guide-to-mac-based-sound-capture-in-audacity-for-2024/) the old-fashioned way only takes three clicks. But why spend the extra energy when you can do it in two? All you have to do is create a shutdown icon, and you'll save yourself some time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Create a Shutdown Icon
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
 ![RIght-click your desktop, then go to New > Shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-17.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The "Create Shortcut" menu appears. In the text box under "Type the location of the item," type the following command and then click "Next":
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
 ![A restart shortcut on the desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-restart-icon.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, whenever you double-click the icon, your PC will shut down instantly.
@@ -68,13 +68,13 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
 
 ![Right-click the restart button and click "Properties."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-open-properties.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click the "Change Icon" button, then select an icon from the default options available in Windows. Alternatively, you can [make your own icon](https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-motorola-razr-40-drfone-by-drfone-virtual-android/). 
 
 ![Click "Change Icon."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-change-icon.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Other Useful Shortcuts
 
@@ -106,22 +106,19 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-all-inclusive-review-of-dji-phantom-4-technology-for-2024/"><u>[New] All-Inclusive Review of DJI Phantom 4 Technology for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/nlightening-your-youtube-footage-with-proper-lighting-for-2024/"><u>[New] Enlightening Your YouTube Footage with Proper Lighting for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-10-iphone-camera-features-you-should-know-in-ios-11/"><u>[New] In 2024, 10 iPhone Camera Features You Should Know in iOS 11</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-the-comprehensive-m1-max-clip-insight/"><u>[New] In 2024, The Comprehensive M1 Max Clip Insight</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-10-strategies-for-captivating-close-up-cinematography/"><u>[New] Top 10 Strategies for Captivating Close-Up Cinematography</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-iphone-shot-potential-adopt-these-10-principles/"><u>[New] Unlocking iPhone Shot Potential Adopt These 10 Principles</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-from-gifs-to-stickers-full-guide-for-social-channels/"><u>[Updated] From GIFs to Stickers Full Guide for Social Channels</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-is-there-money-in-evaluating-merchandise-vids-in-2024/"><u>[Updated] Is There Money in Evaluating Merchandise Vids, In 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-freeframe-gallery-a-haven-for-the-pocket-savvy-in-tiktok-artistry/"><u>[Updated] The FreeFrame Gallery A Haven for the Pocket-Savvy in TikTok Artistry</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-psd-transparency-tricks/"><u>[Updated] Ultimate PSD Transparency Tricks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-power-of-reverse-recording-in-phantom-cameras/"><u>[Updated] Unveiling the Power of Reverse Recording in Phantom Cameras</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-checklist-for-selecting-prime-streaming-services-of-cricket/"><u>2024 Approved The Ultimate Checklist for Selecting Prime Streaming Services of Cricket</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-vivo-y17s-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Vivo Y17s Get Deleted Phone Number Back with Ease and Safety</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-guide-to-ios-based-interview-and-journey-podcasts/"><u>In 2024, Ultimate Guide to iOS-Based Interview & Journey Podcasts</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-visionary-insights-selecting-from-5-premier-slow-cameras/"><u>In 2024, Visionary Insights Selecting From 5 Premier Slow Cameras</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-subscriber-chatter-best-practices-for-comments-for-2024/"><u>The Art of Subscriber Chatter Best Practices for Comments for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209695014-9781632658098-wicca-spellcraft-for-men/"><u>Wicca Spellcraft for Men | Free Book</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-eliminating-audio-absence-in-live-obs-sessions-for-2024/"><u>[New] Eliminating Audio Absence in Live OBS Sessions for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-epic-playground-the-top-10-alternatives-to-grand-theft-auto-v/"><u>[New] Epic Playground The Top 10 Alternatives to Grand Theft Auto V</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pioneering-companies-for-haptic-rich-views/"><u>[New] Pioneering Companies for Haptic-Rich Views</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-survey-spectrum-of-video-and-film-equipment/"><u>[New] Survey Spectrum of Video and Film Equipment</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-premier-sky-depot-for-enterprise-files-for-2024/"><u>[Updated] Premier Sky Depot for Enterprise Files for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-best-bargains-in-drone-tech-for-under-100/"><u>[Updated] The Best Bargains in Drone Tech for Under $100</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-essential-iphone-hdr-photography-skills/"><u>[Updated] The Essential iPhone HDR Photography Skills</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-your-shots-with-ease-in-photoshop/"><u>2024 Approved Transforming Your Shots with Ease in Photoshop</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-handbook-for-using-googles-ai-for-transcription-in-word-processors/"><u>2024 Approved Ultimate Handbook for Using Google's AI for Transcription in Word Processors</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/facebook-360-video-how-to-make-and-upload-360-video-to-facebook-for-2024/"><u>Facebook 360 Video How to Make and Upload 360 Video to Facebook for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-armory-strengthened-fixed-opengl-error/"><u>GPU Armory Strengthened: Fixed OpenGL Error</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-redmi-13c-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Xiaomi Redmi 13C 5G?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-venture-into-the-future-the-lg-360-vr-headset-explored/"><u>In 2024, Venture Into the Future The LG 360 VR Headset Explored</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-honor-x50iplus-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Honor X50i+ Device</u></a></li>
 </ul></div>
 

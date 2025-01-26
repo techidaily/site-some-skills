@@ -1,7 +1,7 @@
 ---
 title: 1. Lost Your Mac Login Credentials? A Step-by-Step Guide on How to Recover
-date: 2025-01-12T20:44:41.414Z
-updated: 2025-01-19T20:55:43.287Z
+date: 2025-01-23T22:24:55.271Z
+updated: 2025-01-25T18:25:13.770Z
 tags:
   - desktop
 categories:
@@ -36,14 +36,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The question mark icon that shows your password hint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-question-mark-icon-that-shows-your-password-hint.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Try Signing in as Another User
 
  If you have more than one user account on your Mac, try signing in with a different one. Accounts with admin permissions can reset the password for other accounts (but Standard accounts can't).
@@ -53,7 +45,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The setting that allows you to reset the password of another user.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-setting-that-allows-you-to-reset-the-password-of-another-user.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Reset Your Password Using Your Apple ID
@@ -69,12 +61,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The reset password box on the macOS lock screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-reset-password-box-on-the-macos-lock-screen.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, you'll see a warning that you'll lose access to your keychain if you change the password, since the password for the keychain will remain the same. This is a problem, but if you ever remember the old password, you will be able to gain access to the keychain again. Click "OK" to continue.
 
 ![The warning before resetting your password on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-warning-before-resetting-your-password-on-macos.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Alternatively, you might only see the option to "Restart and show password reset options." If so, select this instead. In some rarer instances, you might also have the option to "Reset it using your recovery key."
 
@@ -85,6 +81,10 @@ Close
  Now, select the user for which you want to reset the password. Finally, enter a new password, and make sure to add a hint so that you don't forget it next time.
 
 ![The screen to reset the password on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-screen-to-reset-the-password-on-macos.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Reset the Password From macOS Recovery
 
@@ -100,6 +100,10 @@ Close
 
 ![Launch the Terminal through Recovery.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/launch-the-terminal-through-recovery.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  At the Terminal prompt, type:
 
         `resetpassword`
@@ -108,14 +112,6 @@ Close
 
 ![The Recovery Assistant password reset screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-recovery-assistant-password-reset-screen.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Erase Your Mac
 
  If you still can't get into your Mac, your last resort is to erase it and start again from scratch. This will reinstall macOS and wipe all your data, so isn't something you should consider unless you have no other option.
@@ -123,6 +119,10 @@ Close
  To do it, boot into Recovery mode again. Go to Recovery Assistant > Erase Mac, then read the warning before clicking "Erase Mac" again, followed by "Next."
 
 ![The Erase Mac settings in macOS Recovery.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/the-erase-mac-settings-in-macos-recovery.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  If You're Running an Older Version of macOS
 
@@ -151,24 +151,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-art-of-timestamped-media-on-the-gotube-platform/"><u>[New] The Art of Timestamped Media on the GoTube Platform</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transforming-virtual-worlds-enhancing-spark-ar-with-custom-luts/"><u>[New] Transforming Virtual Worlds Enhancing Spark AR with Custom LUTs</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-experts-choice-top-10-high-definition-screen-recorders/"><u>[Updated] 2024 Approved Expert's Choice Top 10 High-Definition Screen Recorders</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-10-christian-melodies-download-and-personalize-guide/"><u>[Updated] Top 10 Christian Melodies Download & Personalize Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-swift-solutions-shifting-ios-media-files/"><u>2024 Approved Swift Solutions Shifting iOS Media Files</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-the-full-potential-of-speech-recognition-in-ms-word-for-efficient-documentation/"><u>2024 Approved Unlocking the Full Potential of Speech Recognition in MS Word for Efficient Documentation</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722884485536-decoding-the-mystery-of-emojis-10-shocking-facts-revealed/"><u>Decoding the Mystery of Emojis: 10 Shocking Facts Revealed!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-vivo-y27-4g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Vivo Y27 4G Phone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-review-and-insight-into-movavi-editor-plus-now-available/"><u>In 2024, Review & Insight Into Movavi Editor Plus, Now Available</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-guide-the-leading-7-nft-conversion-services/"><u>In 2024, Ultimate Guide The Leading 7 NFT Conversion Services</u></a></li>
-<li><a href="https://win-blog.techidaily.com/persona-4-golden-comprehensive-guide-to-overcoming-game-crashing-problems/"><u>Persona 4 Golden - Comprehensive Guide to Overcoming Game Crashing Problems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-simple-steps-to-download-the-latest-wacom-intuos-pro-driver-for-windows-10/"><u>Quick and Simple Steps to Download the Latest Wacom Intuos Pro Driver for Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-dolby-atmos-problems-starting-the-missing-dolby-sound-driver-in-your-pcs-operating-system/"><u>Resolving Dolby Atmos Problems: Starting The Missing Dolby Sound Driver In Your PC's Operating System</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-to-experience-the-wizarding-world-in-proper-film-sequence/"><u>Step-by-Step Instructions to Experience the Wizarding World in Proper Film Sequence.</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-artists-roadmap-to-professional-growth-for-2024/"><u>The Artist's Roadmap to Professional Growth for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-extended-size-mousepads-a-comprehensive-guide/"><u>Top Rated Extended-Size Mousepads : A Comprehensive Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-rated-free-downloadable-mac-media-players-compatible-with-mojave-and-catalina/"><u>Top Rated Free Downloadable Mac Media Players Compatible with Mojave & Catalina</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unleash-potential-secrets-for-career-growth-in-designing-for-2024/"><u>Unleash Potential Secrets for Career Growth in Designing for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-top-editors-perfect-entries-any-device-for-2024/"><u>Unveiling Top Editors Perfect Entries, Any Device for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-recording-your-lol-adventures/"><u>[New] 2024 Approved The Ultimate Guide to Recording Your LOL Adventures</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-photo-edits-a-newcomers-guide-to-lunapic/"><u>[New] The Art of Photo Edits A Newcomer’s Guide to LunaPic</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-quiet-quality-of-comfort-asmr-expert-choices/"><u>[New] The Quiet Quality of Comfort ASMR Expert Choices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-30-list-of-no-cost-high-quality-online-film-effects-tools/"><u>[Updated] The Ultimate 30 List of No-Cost, High-Quality Online Film Effects Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-total-sphere-camera-systems/"><u>[Updated] Total Sphere Camera Systems</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1-how-can-upgrading-your-systems-hardware-accelerate-your-pc-performance-insights-from-yl-computing/"><u>1. How Can Upgrading Your System's Hardware Accelerate Your PC Performance - Insights From YL Computing</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-mastering-the-art-of-obs-and-fb-live/"><u>2024 Approved Mastering the Art of OBS and FB Live</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-techniques-for-depicting-realism-in-docuscripts/"><u>2024 Approved Techniques for Depicting Realism in Docuscripts</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-xiaomi-redmi-k70-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Xiaomi Redmi K70 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/bringing-jujutsu-kaisen-characters-to-life-online-for-2024/"><u>Bringing Jujutsu Kaisen Characters to Life Online for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-does-onetastic-improve-your-microsoft-onenote-experience-our-in-depth-analysis/"><u>How Does Onetastic Improve Your Microsoft OneNote Experience? Our In-Depth Analysis</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-source-guide-4-top-skype-ringtones/"><u>In 2024, The Ultimate Source Guide 4 Top Skype Ringtones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-veritable-value-of-voice-podcasters-earnings-analysis/"><u>In 2024, The Veritable Value of Voice Podcasters’ Earnings Analysis</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-vegas-pro-21-the-new-standard-for-sportsbook-simplicity-and-complexity/"><u>In 2024, Vegas Pro '21 - The New Standard for Sportsbook Simplicity & Complexity</u></a></li>
+<li><a href="https://win-dash.techidaily.com/konica-minolta-windows-driver-downloads-compatible-with-windows-os-versions-from-7-to-11/"><u>Konica Minolta Windows Driver Downloads - Compatible with Windows OS Versions From 7 to 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-choices-a-guide-to-pre-purchase-considerations-for-smartwatches-number-5/"><u>Navigating the Choices: A Guide to Pre-Purchase Considerations for Smartwatches (Number 5)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-vn-video-editor-pro-review-can-it-replace-your-go-to-video-editor/"><u>New 2024 Approved VN Video Editor Pro Review Can It Replace Your Go-To Video Editor?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-dolby-digital-problems-in-windows-1/"><u>Solve Dolby Digital Problems in Windows 1</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-access-royalty-free-clip-art-tips-for-2024/"><u>Unlocking Access Royalty-Free Clip Art Tips for 2024</u></a></li>
 </ul></div>
 
