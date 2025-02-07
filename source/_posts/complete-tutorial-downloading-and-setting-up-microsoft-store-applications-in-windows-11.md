@@ -1,7 +1,7 @@
 ---
 title: "Complete Tutorial: Downloading and Setting Up Microsoft Store Applications in Windows 11"
-date: 2025-01-22T16:22:51.527Z
-updated: 2025-01-26T00:53:31.143Z
+date: 2025-02-04T16:57:59.467Z
+updated: 2025-02-07T17:16:32.274Z
 tags:
   - deals
 categories:
@@ -17,7 +17,7 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 * [How to Install Software Using the Microsoft Store on Windows 10](https://win-howtos.techidaily.com/effective-solutions-for-repairing-unresponsive-functional-keys-on-lenovo-computers/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
  Windows 10 includes the Microsoft Store, which lets you download free or paid software from the internet. Here's how to install apps from the Store.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Free Apps vs. Paid Apps
 
  Before using the Microsoft Store---or any modern app store---it's important to understand the difference between the two types of software in the store: free and paid.
@@ -39,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
  With "free" software, you can download the program without making a purchase, but there is usually a catch. These apps either work with a subscription service (such as Amazon, Netflix, Apple, Adobe, Facebook, or Slack), or they let you use a basic version of an app for free, [sometimes with intrusive advertisements](https://smart-video-editing.techidaily.com/in-2024-top-rated-video-promo-maker-websites/). If you want to unlock a feature later, you might be asked for payment using what are called "in-app purchases."
 
  The second type is "paid" software, which you buy up front before you download and then usually you own the right to use it completely, although there are also paid apps that sell more features later through in-app purchases.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Install Software Using the Microsoft Store on Windows 10
 
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 ![Search for an app using the search bar at the top of the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-searching-for-the-hulu-app.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you locate a program you'd like to install, first check whether it is a free or paid app. If you don't see a price listed, the app is generally free, or requires a separate purchase (as with a Netflix account). Click the "Get" button to add and app to your account and download it for the first time. If you've downloaded an app previously but unistalled it, you'll see an "Install" button instead. 
@@ -69,12 +69,16 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 ![Click the 'Get' button to add an app to your account, then click 'Install' to actually install it to your PC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-get-app.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the program requires a purchase before downloading, you will see a large "Buy for" button followed by a price. 
 
 ![Buy Microsoft Flight Simulator for 59.99 USD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-buy-for-x-price.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After following the purchase steps, the download will begin. You will see the "Get" or "Install" button change to a small circle that indicates your download's progress. You can also click this button to stop a download in progress if you change your mind, or if it is taking up too much time or bandwidth. 
 
@@ -87,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
  If you have trouble finding the app you just downloaded in the "Start" menu, open "Start" and begin typing the name of the app to perform a search. When the results appear, click the icon of the app to launch it.
 
 ![Search for the app you installed using the Start menu search, then click the result labeled 'App.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-searching-for-netflix.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Also, if you ever need to [see a complete list of all the apps you've bought or installed](https://tech-revival.techidaily.com/best-8-chatgpt-interactions-to-enhance-productivity-and-decrease-distractions/) from the Microsoft Store, launch the "Microsoft Store" app and click the "Library" button in the bottom left corner of the window. 
 
@@ -115,14 +115,17 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-world-of-google-ar-accessories-and-beyond/"><u>[Updated] 2024 Approved The World of Google AR Accessories, and Beyond</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-mastering-instagram-reels-incorporating-tracks-seamlessly/"><u>[Updated] Mastering Instagram Reels Incorporating Tracks Seamlessly</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-photographers-resource-efficient-online-photo-cropping/"><u>[Updated] The Photographer's Resource Efficient Online Photo Cropping</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-highlight-reel-of-2022-skating-stars/"><u>[Updated] Ultimate Highlight Reel of 2022 Skating Stars</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-get-ready-to-lip-sync-discover-the-5-best-apps-for-stunning-videos/"><u>New In 2024, Get Ready to Lip Sync Discover the 5 Best Apps for Stunning Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-reinstate-the-mia-dxgidll-in-windows-11/"><u>Steps to Reinstate the MIA Dxgi.dll in Windows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-essential-shoppers-guide-to-modern-360cams-for-2024/"><u>The Essential Shopper's Guide to Modern 360Cams for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-windows-11s-troubling-0x80072efd-problem/"><u>Troubleshooting and Fixing Windows 11'S Troubling 0X80072EFD Problem</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/winx-dvd-ripper-dvdavi/"><u>WinX DVD Ripperの基本操作ガイド - 無料アプリを使ってDVDからAVIへの変換方法</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-download-free-youtube-pics-and-templates/"><u>[New] 2024 Approved Download Free YouTube Pics & Templates</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamline-your-multi-tasking-pip-settings-in-safari/"><u>[Updated] Streamline Your Multi-Tasking PIP Settings in Safari</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-climbing-the-feed-ladder-the-most-effective-hashtags-for-likes-and-followers-on-insta/"><u>2024 Approved Climbing the Feed Ladder The Most Effective Hashtags for Likes and Followers on Insta</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-leveraging-likeability-for-business-profits-on-fb/"><u>2024 Approved Leveraging Likeability for Business Profits on FB</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-trailblazers-crafting-immersive-virtual-landscapes/"><u>2024 Approved Trailblazers Crafting Immersive Virtual Landscapes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tricks-for-non-engagement-with-edgenuity-video-content/"><u>2024 Approved Tricks for Non-Engagement with Edgenuity Video Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-vanguard-ventures-newcomers-to-the-panzoid-world/"><u>2024 Approved Vanguard Ventures Newcomers to the Panzoid World</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/immediate-purchase-options-for-apples-new-releases-from-wwdc-showcase-where-to-preorder/"><u>Immediate Purchase Options for Apple's New Releases From WWDC Showcase: Where to Preorder</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-evolution-of-hd-tech-a-look-at-hp-envy-27/"><u>In 2024, The Evolution of HD Tech - A Look at HP Envy 27</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-your-experience-tips-to-address-splitgates-frame-rate-drops-and-hitches/"><u>Optimizing Your Experience: Tips to Address Splitgate's Frame Rate Drops and Hitches</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-key-to-wealth-in-web-videos-view-count-imperative-for-2024/"><u>The Key to Wealth in Web Videos View Count Imperative for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/try-different-usb-ports-on-your-computer-including-usb-30-and-usb-c-ports-if-available/"><u>Try Different USB Ports on Your Computer, Including USB 3.0 and USB-C Ports if Available</u></a></li>
 </ul></div>
 

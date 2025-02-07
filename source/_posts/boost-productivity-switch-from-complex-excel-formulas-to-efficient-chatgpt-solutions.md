@@ -1,7 +1,7 @@
 ---
 title: "Boost Productivity: Switch From Complex Excel Formulas to Efficient ChatGPT Solutions"
-date: 2025-01-18T23:29:06.952Z
-updated: 2025-01-25T16:56:27.177Z
+date: 2025-02-01T18:24:17.031Z
+updated: 2025-02-07T19:39:55.434Z
 tags:
   - cutting-edge
 categories:
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/c4aba1f1071f6153eef4e836db7e5ca4bdc93515f
 * [You Still Need to Check the Formulas Manually](https://mondly-stories.techidaily.com/initiation-into-japanese-conversational-manners/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/c4aba1f1071f6153eef4e836db7e5ca4bdc93515f
 
 ![A list of orders for mugs, spoons, teapots, and kettles in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/test-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  My goal is to calculate the revenue and profit for each order. While the formula required to do this isn't complex, let's just assume that I knew nothing about Excel, and it was my first day on the job. I'd turn to ChatGPT and ask it for a formula:
 
 Close 
@@ -51,17 +55,9 @@ Close
 
 ![ChatGPT giving formulas to calculate the average profit margin and most profitable item in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/most-profitable.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After implementing the formula, I was once again left with exactly what I was looking for. I double-checked the numbers by calculating everything manually to confirm the formulas worked correctly.
 
 ![A list of articles about ceramic and glass coffee mugs in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/asd.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you're already an Excel aficionado and prefer making formulas yourself, you can ask ChatGPT to suggest the best function for your unique scenario. Let's say I wanted to import information about the revenue and profits from my orders sheet to a tax sheet. ChatGPT gave me four viable formulas that I could use, along with a brief explanation of how they work.
 
@@ -70,10 +66,6 @@ Close
  These are just a few basic examples demonstrating what you can do with ChatGPT and Excel. You can use your AI buddy to build upon formulas and organize your data in any way you can imagine. There's even a new [experimental function for custom GPT prompts](https://fox-glue.techidaily.com/getting-acquainted-with-quantum-hdr-techniques-for-2024/). The point is that you never have to think about which formula to use or even know how it works. Still, it helps to know a thing or two about Excel to get the most out of it. Check out our [Excel for Beginners](https://vp-tips.techidaily.com/professional-stability-essentials-for-youtube-videographers/) guide for a quick crash course.
 
  If you've subscribed to Copilot Pro, you can [add GPT-4 Turbo directly to Excel](https://extra-skills.techidaily.com/in-2024-photoshop-facebackground-anonymity-guide/). This integration allows Copilot to analyze your data and suggest relevant formulas in addition to providing direct access to GPT.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  You Can Create Formatting Rules With ChatGPT
 
@@ -89,6 +81,14 @@ Close
 
 ![A list of articles about ceramic and glass coffee mugs in Excel, organized by color.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/newnew.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  ChatGPT Can Troubleshoot and Tweak Your Formulas
 
  Don't worry if one of the formulas ChatGPT gave you isn't working as intended—it happens to me all the time. The fix can range from telling ChatGPT, "Hey, this doesn't work." to explaining the problem in detail until ChatGPT figures out the issue.
@@ -102,7 +102,7 @@ Close
 Close 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You Still Need to Check the Formulas Manually
@@ -130,18 +130,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-behind-the-photo-instagram-selfie-credibility-explored-for-2024/"><u>[New] Behind the Photo Instagram Selfie Credibility Explored for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-techniques-for-youtube-video-format-switching/"><u>[New] Ultimate Techniques for YouTube Video Format Switching</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-diving-deep-into-sj-cam-s6-features-and-performance-for-2024/"><u>[Updated] Diving Deep Into SJ-CAM S6 Features and Performance for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-essential-guide-to-documentary-storytelling-mechanics/"><u>[Updated] The Essential Guide to Documentary Storytelling Mechanics</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-uncovering-potential-through-skilled-interviewing/"><u>[Updated] Uncovering Potential Through Skilled Interviewing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streaming-success-without-xsplit/"><u>2024 Approved Streaming Success Without Xsplit</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/delving-into-twitter-archives-processes-explained-for-2024/"><u>Delving Into Twitter Archives Processes Explained for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-your-next-favorite-book-using-these-5-cutting-edge-ai-recommendation-services/"><u>Discover Your Next Favorite Book Using These 5 Cutting-Edge AI Recommendation Services</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-transform-your-talk-explore-gratis-options-for-audio-effect-applications/"><u>In 2024, Transform Your Talk Explore Gratis Options for Audio Effect Applications</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/leading-economical-screen-snapper-kit/"><u>Leading Economical Screen Snapper Kit</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-high-dynamic-range-in-photoshop-artistry/"><u>Mastering High Dynamic Range in Photoshop Artistry</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/maximizing-your-marketing-mettle-on-youtube/"><u>Maximizing Your Marketing Mettle on Youtube</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-global-linguists-guide-to-top-28-applications-for-seamless-translation-for-2024/"><u>The Global Linguist's Guide to Top 28 Applications for Seamless Translation for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ural-adventures-discovering-the-top-15-instructional-music-videos-for-2024/"><u>[New] Aural Adventures Discovering the Top 15 Instructional Music Videos for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-how-to-record-audio-with-audacity-on-mac/"><u>[New] How to Record Audio with Audacity on Mac?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-best-alternative-editors-for-youtube-creators-seeking-new-horizons/"><u>[New] In 2024, Best Alternative Editors for YouTube Creators Seeking New Horizons</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tamil-tunes-steps-for-ringtones-and-editing-songs-as-alerts/"><u>[New] Tamil Tunes Steps for Ringtones & Editing Songs as Alerts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-total-horizon-capture-versus-focused-dimensionality/"><u>[New] Total Horizon Capture Versus Focused Dimensionality</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-elevating-your-earning-game-with-youtube-monetization-strategies/"><u>[Updated] 2024 Approved Elevating Your Earning Game with YouTube Monetization Strategies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-essential-companion-for-advanced-win10-users/"><u>[Updated] The Essential Companion for Advanced Win10 Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-pinnacle-of-visual-expression-best-mac-drawing-tools/"><u>[Updated] The Pinnacle of Visual Expression - Best Mac Drawing Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-brightness-and-saturation-in-ps-basics/"><u>[Updated] Unlocking Brightness and Saturation in PS Basics</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-photo-visionaries-guide-unveiling-the-best-6-high-res-cameras/"><u>2024 Approved Photo Visionaries Guide Unveiling the Best 6 High-Res Cameras</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-sunset-symphony-cinematic-darkening-in-pro/"><u>2024 Approved Sunset Symphony Cinematic Darkening in Pro</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-artisans-path-to-creating-3d-luts/"><u>The Artisan’s Path to Creating 3D LUTs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformative-tactics-for-advanced-iphone-x-animoji-utilization-for-2024/"><u>Transformative Tactics for Advanced iPhone X Animoji Utilization for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-on-the-eufy-turbo-robovac-save-big-at-just-360-before-labor-day-ends-shopping-guide-by-techadvisor/"><u>Unbeatable Deal on the Eufy Turbo RoboVac: Save Big At Just $360 Before Labor Day Ends – Shopping Guide by TechAdvisor</u></a></li>
 </ul></div>
 

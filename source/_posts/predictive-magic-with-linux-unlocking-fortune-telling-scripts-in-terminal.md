@@ -1,7 +1,7 @@
 ---
 title: "Predictive Magic with Linux: Unlocking Fortune-Telling Scripts in Terminal"
-date: 2025-01-24T00:59:09.287Z
-updated: 2025-01-25T19:21:33.938Z
+date: 2025-02-05T16:19:39.530Z
+updated: 2025-02-07T20:20:41.446Z
 tags:
   - desktop
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/10904fe0da235375b0e6b719e293bea0266e1856f
 * For additional fun, you could pipe a fortune with cowsay, or display a random fortune every time you launch your terminal.
 
  Ever thought your terminal could be a source of daily wisdom or humor? It's true! With the fortune command, you can receive a random quote, joke, or piece of advice every time you execute it. Whether you're working or enjoying a break, a short fortune can lift your mood and encourage new ideas.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Is the fortune Command?
 
@@ -48,11 +52,7 @@ fortune
 ![Running fortune command in Linux terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fortune-command.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  fortune Options
@@ -91,15 +91,15 @@ nano funny
 
 ![Adding fortunes text to a plain text file using nano text editor in Linux terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/adding-fortunes-saying.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once your file is ready, you need to convert it to a format that fortune can use. You can do this with the strfile command, which generates the necessary "funny.dat" file for the fortune command:
 
 strfile -c % funny funny.dat
 
 ![Converting plain text file to fortune supported file using strfile command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/file-conversoin-strfile.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now, [move both files to the directory](https://some-knowledge.techidaily.com/in-2024-immersive-innovations-the-distinct-worlds-of-mr-ar-and-vr/) where fortune looks for its data. This location can vary, but it often looks like "/usr/share/games/fortunes/" or "/usr/local/share/games/fortunes/".
 
@@ -111,6 +111,10 @@ fortune -f
 
 ![Listing all fortune source files using the -f option of fortune command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fortune-listing.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The percentage here gives you a rough idea of how much of the total database size is taken up by a particular file.
 
  Finally, you can use the fortune command to get fortunes from your customs file.
@@ -120,6 +124,10 @@ fortune funny
 ![Displaying random saying from your newly created fortune file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fotune-command-custom.png) 
 
  Every time you run the command, one of your hand-crafted fortunes will appear.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Combine fortune and cowsay for Extra Fun
 
@@ -143,10 +151,6 @@ fortune | cowsay -f tux
 
 ![Tux displays random statements using fortune and cowsay commands.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fortune-cowsay-tux.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also make your tux [colorful by piping the lolcat command](https://youtube-tips.techidaily.com/n-2024-accelerate-yt-growth-strategies-for-1kplus-subscribers/).
 
 fortune | cowsay -f tux | lolcat
@@ -167,10 +171,6 @@ fortune | cowsay
 
 ![Adding fortune command along with cowsay to the end of bashrc file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fortune-cowsay-bashrc-file.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This will ensure that every time you open your terminal, you'll see a fortune delivered by a cow.
 
  After saving changes, press Ctrl+X to exit the editor. To see the changes happen, you can either [restart your terminal](https://data-wizards.techidaily.com/formatting-your-macs-storage-simplified-an-instructional-video/) or execute:
@@ -181,17 +181,13 @@ source ~/.bashrc
 
 ![Random fortune appearing on a Linux terminal after being launched.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/terminal-fortune-begin.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to use different ASCII art creatures, such as tux, just replace the **cowsay** command in the \~/.bashrc file with the **cowsay -f tux** command.
 
 ![Adding new fortune command with tux ASCII art to the end of bashrc file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/terminal-fortune-tux.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Use Fortune for Testing
 
@@ -217,6 +213,10 @@ done`
 
 fortune | wc -c
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Create a Random Picker Game
 
  You can also use fortune to randomize data for other purposes. Say you have a list of friends, coworkers, or contest participants—just put their names into a file and let fortune pick a winner. To accomplish this, you'll need to make your own fortune file, as explained above.
@@ -240,18 +240,22 @@ fortune | wc -c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-how-to-animate-and-make-your-own-effects/"><u>[New] 2024 Approved How to Animate and Make Your Own Effects</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-crafting-your-path-to-optimal-hdr-camera-selection/"><u>[New] Crafting Your Path to Optimal HDR Camera Selection</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-understanding-the-underrated-downsides-of-vr/"><u>[New] Understanding the Underrated Downsides of VR</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-tonal-transformation-for-android-users/"><u>[Updated] The Ultimate Tonal Transformation for Android Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleash-the-potential-a-comprehensively-curated-list-of-nft-creating-engines/"><u>[Updated] Unleash the Potential A Comprehensively Curated List of NFT-Creating Engines</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Vivo Y77t? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On OnePlus Ace 3? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transformative-visual-experiences-with-tiktok-enhancements/"><u>In 2024, Transformative Visual Experiences with TikTok Enhancements</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleash-the-potential-effective-pip-use-on-microsoft-edge-browser/"><u>In 2024, Unleash the Potential Effective PIP Use on Microsoft Edge Browser</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/revolutionize-your-video-presence-with-personalized-shorts-thumbnails-for-2024/"><u>Revolutionize Your Video Presence with Personalized Shorts Thumbnails for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/snap-happy-with-iphone-burst-mode-for-2024/"><u>Snap-Happy with iPhone Burst Mode for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/the-comprehensible-guide-to-mac-based-ootd-videography/"><u>The Comprehensible Guide to Mac-Based OOTD Videography</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-tunes-palette-for-video-storytelling-for-2024/"><u>Top Tunes Palette for Video Storytelling for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-brawlers-domain-vs-twitch-territory/"><u>[New] The Brawler's Domain Vs. Twitch Territory</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-audio-into-artistic-vision-via-canva-editing-tools/"><u>[Updated] Transforming Audio Into Artistic Vision via Canva Editing Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-uncovering-notable-versions-within-microsofts-movie-maker/"><u>[Updated] Uncovering Notable Versions Within Microsoft's Movie Maker</u></a></li>
+<li><a href="https://fox-within.techidaily.com/1-is-your-iphone-messaging-data-saved-on-icloud-cloud-storage/"><u>1. Is Your iPhone Messaging Data Saved on iCloud Cloud Storage?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlined-signal-synchronizer-for-podcasters/"><u>2024 Approved Streamlined Signal Synchronizer For Podcasters</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-obs-potential-strategies-involving-lut-filters/"><u>2024 Approved Unlocking OBS Potential Strategies Involving LUT Filters</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-top-10-destinations-for-high-end-vectors/"><u>2024 Approved Unveiling Top 10 Destinations for High-End Vectors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-bluetooth-30-driver-update-compatible-with-qualcomm-atheros-ar3011-chips/"><u>Download Bluetooth 3.0 Driver Update: [Compatible with] Qualcomm Atheros AR3011 Chips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-windows-11-version-22h2-update-not-appearing/"><u>Fixing Windows 11 Version 22H2 Update Not Appearing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-bypass-tools-to-bypass-lock-screen-honor-play-8t-by-drfone-android-unlock-android-unlock/"><u>Honor Bypass Tools to Bypass Lock Screen(Honor Play 8T)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-realms-rhythms-top-sites-ranked-for-game-of-thrones-audio-calls/"><u>In 2024, The Realm's Rhythms Top Sites Ranked for Game of Thrones Audio Calls</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-energy-savings-optimizing-low-power-mode-on-macos-monterey/"><u>Mastering Energy Savings: Optimizing Low Power Mode on macOS Monterey</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-screen-mirroring-tips-to-fix-miracast-rejected-by-device/"><u>Mastering Screen Mirroring: Tips to Fix 'Miracast Rejected by Device'</u></a></li>
+<li><a href="https://win-top.techidaily.com/samsungamalization/"><u>Samsungデータ移動完了後のクローン作成についamalizationプロセス</u></a></li>
+<li><a href="https://win-answers.techidaily.com/seamless-mxf-to-mov-file-transformation-for-windows-mac-users-and-web-applications/"><u>Seamless MXF-to-MOV File Transformation for Windows, Mac Users & Web Applications</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-platform-debate-which-appliance-prevails-podcast-or-youtube-in-2024/"><u>The Platform Debate Which Appliance Prevails – Podcast or YouTube, In 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-10-cost-free-passport-image-makers-for-2024/"><u>The Ultimate Guide 10 Cost-Free Passport Image Makers for 2024</u></a></li>
 </ul></div>
 

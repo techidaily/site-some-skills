@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Tutorial: Enabling Your Laptop's Hibernation Mode with the Lid Shut"
-date: 2025-01-19T23:52:33.934Z
-updated: 2025-01-25T22:04:02.203Z
+date: 2025-02-03T16:24:03.477Z
+updated: 2025-02-07T17:00:10.619Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 ## Windows 11 Tutorial: Enabling Your Laptop's Hibernation Mode with the Lid Shut
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 * [Does Keeping Your Laptop Running Hurt the Battery?](https://tech-haven.techidaily.com/innovative-plot-development-with-chatgpts-nine-insights/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -31,22 +31,22 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 
  If you'd like to use your Windows 11 laptop with an [external monitor](https://desktop-recording.techidaily.com/updated-in-2024-in-depth-guide-to-2023s-leading-web-capture-applications/), mouse, and keyboard, it's often nice to keep the lid closed. Here's how to close the lid [without](https://youtube-docs.techidaily.com/ring-the-art-of-youtube-closings-inclusive-guide-for-2024/) putting your PC to sleep.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Prevent Your Laptop from Shutting Down When You Close the Screen
 
  First, open Windows Settings by pressing Windows+i on your keyboard. Or you can right-click the Start button and select "Settings."
 
 ![In Windows 11, right-click the Start button and select "Settings."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/win11_right_click_start_settings.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In Settings, click the search bar and type "lid," then click the "Change what closing the lid does" result that appears beneath it.
 
 ![In Settings, type "lid" in the search box, then click "Change what closing the lid does."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/search_lid_1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A "System Settings" window will open (this is part of [Control Panel](https://facebook-clips.techidaily.com/seamless-media-exchange-transferring-facebook-content-to-whatsapp-for-2024/), which is the legacy setup program for Windows.) Under "Power and sleep buttons and lid settings," you'll see several options that let you choose what happens when you press the power or sleep buttons on your device.
@@ -62,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 ![Click "Save Changes."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/click_save_changes.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  These changes will apply to all of your [power plans](https://apple-account.techidaily.com/how-to-unlink-your-iphone-11-pro-max-from-your-apple-id-by-drfone-ios/). When you're ready, close the "System Settings" and "Settings" windows. To test it out, plug your laptop into an external monitor and close the lid. If the video stays on, you'll know that you configured it properly. 
@@ -86,20 +86,24 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-why-you-should-know-your-apples-m1-max-clip/"><u>[New] 2024 Approved Why You Should Know Your Apple's M1 Max Clip</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-step-by-step-guide-for-using-movie-maker-on-w11/"><u>[New] The Ultimate Step-By-Step Guide for Using Movie Maker on W11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unleash-creativity-with-top-10-phone-apps-adding-stickers-to-images/"><u>[New] Unleash Creativity with Top 10 Phone Apps Adding Stickers to Images</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-daily-dharma-the-best-yoga-channels-for-self-growth-for-2024/"><u>[Updated] Daily Dharma The Best Yoga Channels for Self-Growth for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-photoshop-shake-control-necessary-tool-or-unnecessary/"><u>[Updated] Photoshop Shake Control Necessary Tool or Unnecessary?</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-the-freeframe-forum-a-collectors-paradise-for-budget-friendly-backgrounds-for-2024/"><u>[Updated] The FreeFrame Forum A Collector's Paradise for Budget-Friendly Backgrounds for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-secrets-of-macos-11-big-sur-enhancements/"><u>[Updated] Unveiling the Secrets of macOS 11 Big Sur Enhancements</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-avoiding-vr-nausea/"><u>2024 Approved The Ultimate Guide to Avoiding VR Nausea</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Sony Xperia 10 V? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-videos-with-magix-video-pro-x/"><u>In 2024, Transform Your Videos with Magix Video Pro X</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovation-alert-apple-delves-into-ai-enhanced-domestic-robots-showcasing-two-revolutionary-products-update/"><u>Innovation Alert: Apple Delves Into AI-Enhanced Domestic Robots, Showcasing Two Revolutionary Products Update</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-nokia-c12-plus-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Nokia C12 Plus Reset Code | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-5-innovations-in-ios-18-revealed-at-apples-wwdc-2024-the-ai-revolution-continues/"><u>Top 5 Innovations in iOS 18 Revealed at Apple's WWDC 2024: The AI Revolution Continues!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-7-budget-friendly-high-res-4k-cameras-for-2024/"><u>Top 7 Budget-Friendly High-Res 4K Cameras for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-9-ultimate-photo-management-apps-the-complete-guide/"><u>Top 9 Ultimate Photo Management Apps: The Complete Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-complete-blueprint-for-iphone-podcast-downloads/"><u>[New] The Complete Blueprint for iPhone Podcast Downloads</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-comprehensive-roadmap-to-effective-reddit-sharing/"><u>[New] The Comprehensive Roadmap to Effective Reddit Sharing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-ai-powered-image-editor/"><u>[New] Ultimate AI-Powered Image Editor</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-uncover-roblox-hidden-treasures-with-zoom-techniques/"><u>[New] Uncover Roblox Hidden Treasures with Zoom Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unraveling-the-mystery-of-vr-gear-selection-wireless-elegance-versus-cable-convenience/"><u>[New] Unraveling the Mystery of VR Gear Selection Wireless Elegance versus Cable Convenience</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-principles-of-crafting-alluring-video-scripts/"><u>[Updated] Principles of Crafting Alluring Video Scripts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-your-digital-assets-top-7-tools-to-create-nfts/"><u>[Updated] Transform Your Digital Assets - Top 7 Tools to Create NFTs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-grasping-core-principles-in-narrative-designs/"><u>2024 Approved Grasping Core Principles in Narrative Designs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveil-the-finest-vr-cycling-worlds/"><u>2024 Approved Unveil the Finest VR Cycling Worlds</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-xiaomi-13-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ignite-your-youtube-streams-no-subscriber-count-needed/"><u>In 2024, Ignite Your Youtube Streams – No Subscriber Count Needed</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-spin-and-share-easy-iphone-filmmaking-techniques/"><u>In 2024, Spin and Share Easy iPhone Filmmaking Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamed-audiovideo-crafts-meetup-for-2024/"><u>Streamed Audio/Video Crafts Meetup for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/the-art-of-drives-manual-tweaks-for-xp-users/"><u>The Art of Drives: Manual Tweaks for XP Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-checklist-for-fpv-drone-propeller-selection-for-2024/"><u>The Ultimate Checklist for FPV Drone Propeller Selection for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-portable-charger-showdown-spotlight-on-poweradd-pilot-pro2/"><u>The Ultimate Portable Charger Showdown - Spotlight on POWERADD Pilot Pro2</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-vivo-t2x-5g-by-drfone-android/"><u>Universal Unlock Pattern for Vivo T2x 5G</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/windows-11google-drive/"><u>Windows 11におけるGoogle Driveの利用手順：セットアップガイド</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-wisdom-three-routes-to-your-games-data/"><u>Windows Wisdom: Three Routes to Your Games' Data</u></a></li>
 </ul></div>
 

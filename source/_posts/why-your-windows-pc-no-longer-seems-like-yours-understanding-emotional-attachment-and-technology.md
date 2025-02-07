@@ -1,7 +1,7 @@
 ---
 title: "Why Your Windows PC No Longer Seems Like Yours: Understanding Emotional Attachment & Technology"
-date: 2025-01-22T20:34:39.841Z
-updated: 2025-01-25T22:11:50.041Z
+date: 2025-02-02T17:38:52.895Z
+updated: 2025-02-07T20:29:39.603Z
 tags:
   - deals
 categories:
@@ -19,15 +19,15 @@ thumbnail: https://thmb.techidaily.com/3a45d2f58796a5984d88b42acb22f94c8f8721b15
 
  An operating system is the most personal part of a "personal" computer, and it used to be that as a Windows user I didn't feel like I was renting my computer from Microsoft, but in recent years that feeling has all but evaporated. To me, Windows feels cheaper and more commercial than ever, and that's not a recipe for a good user experience.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The Offline Glory Days of Windows
 
  The first version of Windows I ever used, coming from MS-DOS, was Windows 3.1\. While Windows 3.1 might look incredibly primitive today, it's hard to explain just how big of a leap this was for a kid who had to memorize the Command Line instructions just to play some games. Things didn't really kick off for me until Windows 95 and our first taste of the internet, but even then, 99% of my Windows time up until Windows 7 was spent disconnected from the net.
 
 ![exit-windows-3.1-to-dos](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2014/05/exit-windows-3.1-to-dos.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In retrospect, this was actually a good thing in some ways, because it meant that Microsoft couldn't remotely mess with my Windows installation. Patches and updates came in the form of Windows service packs, and those were on actual physical floppy disks or CD-ROMs. If my computer worked yesterday, and I didn't change anything myself, it would almost certainly keep working until I inadvertently broke it myself.
 
@@ -44,7 +44,7 @@ Jerome Thomas / How-To Geek
  Basically, it now feels like Windows is partly subsidized by advertising, and regular users can't just have the operating system they paid for without being sold more software and services. It's not (yet) the most egregious way to go about it, but for someone who prefers absolute minimilism in their computer interfaces, it's not working for my feng shui.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Updates Breaking My PC
@@ -57,13 +57,13 @@ Jerome Thomas / How-To Geek
 
  When I have my computer set up a certain way, I'd like it to stay that way permanently. Yet search the forums on sites like [Reddit](https://www.reddit.com/r/Windows10/comments/n1hoz0/windows%5Fplease%5Fstop%5Fchanging%5Fmy%5Fsettings%5Fwith/) or Microsoft's own [community forums](https://answers.microsoft.com/en-us/windows/forum/all/windows-updates-keeps-changing-my-settings/1870494e-b7be-41a8-84e6-d2e7e55c88d5), and you'll find numerous complaints about settings changing after updates. It can be innocuous stuff or more serious or impactful things, such as privacy settings. If anyone is going to flip the switches on my computer to control how it behaves and what's allowed, it should be me.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  My Mac Doesn’t Feel Subsidized
 
 ![MacBook on a desk showing a colorful wallpaper with in a dark room.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/macbook-on-a-desk-showing-a-colorful-wallpaper-with-in-a-dark-room.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
 
@@ -74,7 +74,7 @@ Sergio Rodriguez / How-To Geek
  When I use my Windows 11 laptop (which was more expensive than my Mac, mind you), it feels like those Amazon Kindles that are subsidized by ad money. Except, at least Amazon gave us the choice.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Linux Respects Its Users
@@ -84,7 +84,7 @@ Sergio Rodriguez / How-To Geek
  I've had an on-again-off-again relationship with Linux over the years, and daily drove it during seven years of university, and never did I feel that I was being exploited or not in control. In fact, I was probably in too much control, which is why you can break Linux in so many creative ways just by being a dummy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Can Windows Make a Comeback?
@@ -110,22 +110,17 @@ Sergio Rodriguez / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-top-picks-for-faith-based-ringtones-online/"><u>[New] Top Picks for Faith-Based Ringtones Online</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unleash-creativity-inshot-video-editing-on-your-pc/"><u>[New] Unleash Creativity Inshot Video Editing on Your PC</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-vr-headset-showdown-the-best-of-2023-for-pc/"><u>[Updated] 2024 Approved VR Headset Showdown The Best of 2023 for PC</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-exploration-2024s-videoshow-application/"><u>[Updated] Ultimate Exploration 2024'S VideoShow Application</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-step-by-step-guide-transforming-your-yt-gaming-content-with-hashtags/"><u>2024 Approved Step-by-Step Guide Transforming Your YT Gaming Content with Hashtags</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-iphone-snaps-into-stunning-hdr-photos/"><u>2024 Approved Transform Your iPhone Snaps Into Stunning HDR Photos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-flat-text-into-3d-masterpieces-photo/"><u>2024 Approved Transforming Flat Text Into 3D Masterpieces PHOTO</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-youtube-community-interaction/"><u>2024 Approved Understanding YouTube Community Interaction</u></a></li>
-<li><a href="https://solve-info.techidaily.com/5-schritte-fur-die-erfolgreiche-implementierung-von-rpa-mit-abbyy-prozessintelligenz-pdf/"><u>5-Schritte Für Die Erfolgreiche Implementierung Von RPA Mit ABBYY Prozessintelligenz - PDF</u></a></li>
-<li><a href="https://win-blog.techidaily.com/advanced-techniques-to-combat-slow-frame-rates-and-interruptions-in-splitgate/"><u>Advanced Techniques to Combat Slow Frame Rates & Interruptions in Splitgate</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/breaking-through-limits-adata-raises-ddr5-memory-performance-to-a-remarkable-8118-mts/"><u>Breaking Through Limits: Adata Raises DDR5 Memory Performance to a Remarkable 8118 MT/S</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-v30-lite-5g-by-fonelab-android-recover-video/"><u>How to recover old videos from your V30 Lite 5G</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Samsung Galaxy M34 | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/innovating-education-with-virtual-immersion/"><u>Innovating Education with Virtual Immersion</u></a></li>
-<li><a href="https://some-skills.techidaily.com/streaming-showdown-twitchs-challenge-to-youtube-for-2024/"><u>Streaming Showdown Twitch's Challenge to YouTube for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/top-zero-cost-video-plays-ultimate-guide-to-free-hardware-accelerated-players/"><u>Top Zero-Cost Video Plays: Ultimate Guide to Free Hardware-Accelerated Players</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unleash-your-auditory-adventures-installing-apple-podcasts-app-for-2024/"><u>Unleash Your Auditory Adventures Installing Apple Podcasts App for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-full-potential-with-final-cut-pro/"><u>[New] Unlocking Full Potential with Final Cut Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-rise-and-fall-of-vegas-pro-a-critical-look/"><u>[Updated] The Rise and Fall of Vegas Pro A Critical Look</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-crafting-a-unique-online-presence-youtube-edition/"><u>2024 Approved Crafting a Unique Online Presence YouTube Edition</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-foodie-frenzy-tiktoks-most-shared-meals-and-munchies/"><u>2024 Approved Foodie Frenzy TikTok's Most Shared Meals and Munchies</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-step-into-virtuality-comparing-best-vr-treadmills/"><u>2024 Approved Step Into Virtuality Comparing Best VR Treadmills</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-70-lite-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-syncing-scenes-merging-pc-and-cloud-images/"><u>In 2024, Syncing Scenes Merging PC & Cloud Images</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-best-free-online-video-cutters-top-picks-and-reviews/"><u>New In 2024, Best Free Online Video Cutters Top Picks and Reviews</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/simplified-downloading-latest-synaptics-touchpad-drivers-available-now/"><u>Simplified Downloading: Latest Synaptics Touchpad Drivers Available Now</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-vivid-visuals-on-your-computer-with-windows-hdr-for-2024/"><u>The Art of Vivid Visuals on Your Computer with Windows HDR for 2024</u></a></li>
 </ul></div>
 

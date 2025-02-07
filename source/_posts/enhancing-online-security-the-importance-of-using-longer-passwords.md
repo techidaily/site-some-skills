@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Online Security: The Importance of Using Longer Passwords"
-date: 2025-01-20T17:07:47.242Z
-updated: 2025-01-25T22:25:24.020Z
+date: 2025-02-06T20:10:52.288Z
+updated: 2025-02-07T20:21:38.928Z
 tags:
   - web
 categories:
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
 
  The short answer is password entropy. That term sounds way more complicated than it really is unless you’re familiar with cryptography, so let’s take a look at what password entropy is.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What's Password Entropy?
 
  Password entropy is a measure of how unpredictable and random your password is. Password entropy is measured in bits, the basic unit for measuring information in computing. More bits is better, with most experts agreeing that entropy should be at least 64 bits, though that number is controversial. A higher entropy means your password is more random. When it comes to securing things, random is good.
@@ -30,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
 ![A phone receiving a 2FA code.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/shutterstock_2373964067.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [ronstik](https://www.shutterstock.com/g/ronstik "ronstik") / Shutterstock.com
@@ -38,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
  The best way to attack a password is through a [dictionary attack](https://extra-skills.techidaily.com/2024-approved-smartest-ways-to-track-wedding-dates-ios-and-android-style/), which is a program that will try to “guess” a password by going through common words and phrases. It’s almost literally throwing the book at your password, going through the entire dictionary and also common variations. Once the password is guessed, the attacker has access.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Brute Force and Randomness
@@ -50,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
  However, this doesn’t work as it’s not random. Attackers can easily account for a change like this, and it will take them maybe a nanosecond longer to gain access to an account. For something to be closer to truly random, you have to take humans out of the equation entirely and use a computer to create a random password. The [best password managers](https://facebook-video-content.techidaily.com/updated-how-to-create-facebook-video-ads-with-free-video-creation-kit-for-2024/), programs that create and store passwords for you, have this functionality built in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Entropy Affects Password Length
@@ -65,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
  All of these are important, but length plays a special role, one we need some math to explain.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  How to Calculate Password Entropy
@@ -84,10 +88,6 @@ E = log2(RL)
  If we add uppercase letters, we double your range to 52 as uppercase letters count as separate for our purposes. This gives you an entropy score of 45.60 bits. That’s still not great, but we’re getting there.
 
  If we add the digits 0-9 we come to a range of 62, and then once we add the 33 symbol keys, our range is increased to 95\. Using just 8 characters, that gives us an entropy score of 52.56 bits, still well below the cutoff of 64 bits. The only other way to further increase your entropy is to make the password longer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What Should Be Your Minimum Password Length?
 
@@ -110,16 +110,18 @@ E = log2(RL)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/apidly-rendering-fortnite-cover-images/"><u>[New] Rapidly Rendering Fortnite Cover Images</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-superior-pcs-for-serious-workers/"><u>[New] Superior PCs for Serious Workers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-explore-the-best-dvd-players-for-your-portable-laptop/"><u>[Updated] Explore the Best DVD Players for Your Portable Laptop</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-optimal-choices-for-endless-data-preservation/"><u>[Updated] Optimal Choices for Endless Data Preservation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-mystery-of-off-facebook-activity-what-to-know-and-do/"><u>[Updated] The Mystery of Off-Facebook Activity What to Know & Do</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-calculating-20mb-video-length-in-secs/"><u>2024 Approved Calculating 20MB Video Length in Secs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-synthesize-and-add-videos-to-your-listing/"><u>2024 Approved Synthesize and Add Videos to Your Listing</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/effizientes-datensynchronisieren-auf-windows-server-die-besten-zwei-ansatze-erklart/"><u>Effizientes Datensynchronisieren Auf Windows-Server: Die Besten Zwei Ansätze Erklärt</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-infinix-smart-7-hd-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Infinix Smart 7 HD FRP?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-understanding-imovies-editing-edge/"><u>In 2024, Understanding iMovie's Editing Edge</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-meizu-21-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Meizu 21</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/arn-on-youtube-beginners-path-to-profitability/"><u>[New] Earn on YouTube Beginner's Path to Profitability</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-art-of-storytelling-integrating-captions-into-your-instagram-videos/"><u>[New] The Art of Storytelling Integrating Captions Into Your Instagram Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-windows-mobile-video-playback-guide/"><u>[New] The Ultimate Windows Mobile Video Playback Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-audio-aesthetics-high-quality-dj-template-videos-downloaded/"><u>[Updated] 2024 Approved Audio Aesthetics High-Quality DJ Template Videos Downloaded</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pinning-down-content-5-superior-free-video-downloader-tools/"><u>[Updated] Pinning Down Content 5 Superior Free Video Downloader Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-live-streaming-mic-guide-choosing-from-the-best-6/"><u>2024 Approved The Ultimate Live-Streaming Mic Guide Choosing From the Best 6</u></a></li>
+<li><a href="https://win-answers.techidaily.com/grounded-system-failures-on-computers-effective-fixes-and-insights/"><u>Grounded System Failures on Computers: Effective Fixes and Insights</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-motorola-razr-40-ultra-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Motorola Razr 40 Ultra Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-beginners-guide-to-iphone-slow-movement-videography/"><u>In 2024, The Beginner's Guide to iPhone Slow Movement Videography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-hidden-youtube-comments/"><u>In 2024, Unveiling Hidden YouTube Comments</u></a></li>
+<li><a href="https://some-skills.techidaily.com/leading-brands-of-steadicams-for-professional-drones-in-film-for-2024/"><u>Leading Brands of Steadicams for Professional Drones in Film for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/leapfrog-your-lenovo-yoga-900-with-improved-drivers/"><u>Leapfrog Your Lenovo Yoga 900 with Improved Drivers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/siri-not-responding-master-these-7-fixes-for-a-seamless-iphoneipad-experience/"><u>Siri Not Responding? Master These 7 Fixes for a Seamless iPhone/iPad Experience</u></a></li>
 </ul></div>
 

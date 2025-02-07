@@ -1,7 +1,7 @@
 ---
 title: "1. Seamless Data Transition: Mastering the Art of Using Windows Backup for Upgrading Your PC"
-date: 2025-01-24T16:56:42.512Z
-updated: 2025-01-25T20:36:03.837Z
+date: 2025-02-06T20:07:16.326Z
+updated: 2025-02-07T19:12:22.362Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 ---
 
 ## 1. Seamless Data Transition: Mastering the Art of Using Windows Backup for Upgrading Your PC
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -38,16 +34,12 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 
 !['Settings' typed into the taskbar search box and the 'Settings' option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-settings.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then, click "Accounts" and follow the on-screen instructions to sign in.
 
 ![Windows Settings with 'Accounts' highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-accounts.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Step 2: Manage Your Backup Settings
@@ -55,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
  Once you've signed in to your Microsoft account, there are two different ways to transfer your data from your old computer to your new one—OneDrive Backup and Windows Backup.
 
  Always back up your most important files manually to multiple places and don't trust automated tools to do that.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  OneDrive or Windows Backup?
 
@@ -64,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 
  The drawback—and it's a big one—is that it doesn't let you transfer your apps, your settings, or your credentials, so you'll have to set these up again on your new computer. Also, bear in mind that you're limited to 5GB of storage if you have a free Microsoft account.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Use Windows Backup
 
  So, we recommend you use Windows Backup to make the transfer, as this lets you copy more things—from your folders (the same ones that OneDrive would have backed up) to your personal settings and preferences—to your new computer.
@@ -75,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
  To open Windows Backup, type **Backup** into your taskbar search box, and click "Windows Backup."
 
 !['Backup' is typed into the taskbar search box, and the 'Windows Backup' option is highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/open-windows-backup.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the Windows Backup dialog box, you'll see the different things you can include in your transfer. Click the drop-down arrows next to each section to choose which folders, apps, settings, and credentials you want to transfer to your new computer.
 
@@ -94,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 ![The Windows Backup screen with the 'Back Up' button highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/backup-button.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Depending on which options you've selected, this might take some time, but you can carry on with other tasks while this is happening. Just try to avoid making changes to any of the folders, apps, settings, or credentials you've chosen to back up during this process.
@@ -104,6 +100,10 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
  When setting up your new computer, when prompted, login with the same Microsoft account you used to create your backup on your old computer. You will then be able to select your old PC's details, which includes the backup you performed, and click "Restore From This PC."
 
 ![The 'Restore Backup' screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/restore-backup.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Microsoft
 
@@ -128,22 +128,16 @@ Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-a-guide-to-homemade-film-crafting-youtube-and-beyond/"><u>[New] 2024 Approved A Guide to Homemade Film Crafting, YouTube & Beyond</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/mp-up-your-media-get-free-soundtracks/"><u>[New] Amp Up Your Media Get Free Soundtracks</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-mastering-youtube-monetization-a-cpm-perspective/"><u>[New] In 2024, Mastering YouTube Monetization A CPM Perspective</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-hue-harmonizer-software/"><u>[New] Ultimate Hue Harmonizer Software</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-insiders-guide-to-instagram-video-success/"><u>[Updated] The Insider’s Guide to Instagram Video Success</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-10-techniques-for-youtube-to-mp4-conversion/"><u>[Updated] Top 10 Techniques for YouTube to MP4 Conversion</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-haul-video-production-and-editing-techniques/"><u>2024 Approved The Art of Haul Video Production and Editing Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-straightforward-guide-to-photo-uploads-on-instagram/"><u>2024 Approved The Straightforward Guide to Photo Uploads on Instagram</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnose-and-repair-ps4-dualshock-not-charging-issues-easily/"><u>Diagnose and Repair PS4 Dualshock Not Charging Issues Easily</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-realme-12-pro-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Realme 12 Pro 5G Devices</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-xiaomi-redmi-13c-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Xiaomi Redmi 13C 5G?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-innovative-tech-discovering-the-top-9-microphone-recorders-online/"><u>In 2024, Innovative Tech Discovering the Top 9 Microphone Recorders Online</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-innovators-defining-next-gen-vr-experiences/"><u>In 2024, Top Innovators Defining Next-Gen VR Experiences</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transforming-your-imagery-a-thorough-analysis-of-the-background-erase-tool-in-photoshop/"><u>In 2024, Transforming Your Imagery A Thorough Analysis of the Background Erase Tool in Photoshop</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-essential-10-fcp-plugins/"><u>The Ultimate Guide to Essential 10 FCP Plugins</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-peaceful-slumber-top-notch-asmr-artists-for-rest-for-2024/"><u>Unlocking Peaceful Slumber Top-Notch ASMR Artists for Rest for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-free-recording-exploring-apowersofts-screen-capture/"><u>[Updated] 2024 Approved Free Recording Exploring Apowersoft's Screen Capture</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-prime-windows-rapid-photo-displayer/"><u>[Updated] Prime Window's Rapid Photo Displayer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlining-content-sharing-between-pc-and-iphone/"><u>[Updated] Streamlining Content Sharing Between PC and iPhone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-understanding-and-implementing-slug-line-rules/"><u>[Updated] Understanding and Implementing Slug Line Rules</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/1728493484105-4/"><u>「ごみ箱から飛び出したファイル、これで救える4つの蘇生技術」</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-discontinues-apple-pay-later-feature-new-financial-solution-under-development-revealed/"><u>Apple Discontinues Apple Pay Later Feature; New Financial Solution Under Development Revealed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ascending-perils-in-artificial-intelligence-an-analysis-of-eight-worsening-security-issues-with-generative-ai/"><u>Ascending Perils in Artificial Intelligence: An Analysis of Eight Worsening Security Issues with Generative AI</u></a></li>
+<li><a href="https://games-able.techidaily.com/cross-platform-server-switch-from-bedrock-to-java-with-geysermc/"><u>Cross-Platform Server Switch: From Bedrock to Java with GeyserMC</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-ios-gamescape-my-affinity-for-arcade/"><u>Exploring the iOS Gamescape – My Affinity for Arcade</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-mastering-android-streaming-virtual-reality-content/"><u>In 2024, Mastering Android Streaming Virtual Reality Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unboxing-flight-comprehensive-guide-to-dji-phantom-4/"><u>In 2024, Unboxing Flight Comprehensive Guide to DJI Phantom 4</u></a></li>
 </ul></div>
 

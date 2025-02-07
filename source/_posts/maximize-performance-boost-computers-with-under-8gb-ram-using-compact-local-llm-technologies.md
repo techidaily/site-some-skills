@@ -1,7 +1,7 @@
 ---
 title: "Maximize Performance: Boost Computers with Under 8GB RAM Using Compact Local LLM Technologies"
-date: 2025-01-03T10:53:57.048Z
-updated: 2025-01-06T18:06:57.178Z
+date: 2025-02-02T16:59:51.950Z
+updated: 2025-02-07T16:54:59.928Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 ## Maximize Performance: Boost Computers with Under 8GB RAM Using Compact Local LLM Technologies
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 * Local LLM-powered chatbots DistilBERT, ALBERT, GPT-2 124M, and GPT-Neo 125M can work well on PCs with 4 to 8GBs of RAM.
 
  Local AI chatbots, powered by large language models (LLMs), work only on your computer after correctly downloading and setting them up. They usually need a lot of computer memory (RAM) to work well. However, a few great models can perform on computers with as little as 4GB of RAM.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Why Use Local LLM Chatbots?
 
@@ -40,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 
  Local chatbots can help mitigate such costs. Not all of them are free, though. Some require licensing and or usage fees, like OpenAI's GPT-3\. However, several open-source local chatbot models are free to download and work with. These should be used strategically for easier problems. So, you upscale to the admittedly more advanced online ones only when you absolutely must.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  These LLM Chatbots Run on Low RAM PCs
 
  I've had to get multiple free LLM-powered chatbots working on low-RAM PCs primarily because, until recently, that's all I could afford.
@@ -58,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 
 ![Hugging Face ALBERT Homepage](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/hugging-face-albert-homepage.PNG) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  I highly recommend starting as a beginner with DistilBERT and ALBERT, even if you have a high-memory PC. Beginning with these two models allowed me to learn the basics without being overwhelmed by the complexity of larger models.
 
  If you feel ambitious or have a machine with 8GBs or more, you could leapfrog the BERTs and work with OpenAI's GPT-2 models. Which are like the Swiss Army knives of the local AI world. GPT-2 models come in different sizes, some more suited for low-RAM PCs than others.
@@ -66,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 
 ![GPT-2 124 model repository homepage](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/gpt-2-model-homepage.PNG) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  My favorite lightweight LLM by far is the [GPT-Neo 125M](https://huggingface.co/EleutherAI/gpt-neo-125m) because of its adjustable customization options. It was developed by the respected developers at EleutherAI and is like the open-source cousin of GPT-2.
 
  The Neo 125M is designed to balance performance and resource requirements. This model’s performance is on par with GPT-2, but it's adjusted to use memory more efficiently. It’s powerful enough for many tasks yet light enough to run on only 8GBs, although it struggles with anything less than that.
@@ -77,11 +77,11 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 ![GPT-Neo 125 Model Repository](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/gpt-neo-125-source-code.PNG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Get Started with Local LLM Chatbots
@@ -115,24 +115,22 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-screenshare-catcher-fb-groups/"><u>[New] In 2024, ScreenShare Catcher - Fb Groups</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-key-pillars-top-6-social-platforms-benefiting-businesses/"><u>[New] Key Pillars Top 6 Social Platforms Benefiting Businesses</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-tamil-tunes-steps-for-ringtones-and-editing-songs-as-alerts/"><u>[New] Tamil Tunes Steps for Ringtones & Editing Songs as Alerts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unleash-the-power-of-pause-tips-for-slow-motion-video-using-photo-apps/"><u>[New] Unleash the Power of Pause Tips for Slow-Motion Video Using Photo Apps</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-capture-youtube-video-in-screenshot-forms-for-free/"><u>[Updated] 2024 Approved Capture YouTube Video in Screenshot Forms for Free</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-finest-html5-video-tools-for-content-creators/"><u>[Updated] The Finest HTML5 Video Tools for Content Creators</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unzipping-subtitles-turning-zip-archives-into-srt-files/"><u>2024 Approved Unzipping Subtitles Turning Zip Archives Into .SRT Files</u></a></li>
-<li><a href="https://howto.techidaily.com/amd-raises-projected-revenue-for-instinct-mi1300-series-to-4b-but-still-shadows-nvidias-staggering-40b-estimate/"><u>AMD Raises Projected Revenue for Instinct MI1300 Series to $4B, But Still Shadows Nvidia's Staggering $40B Estimate</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ting-online-presence-how-to-flawlessly-transmit-upside-down-videos-on-youtube-for-2024/"><u>Elevating Online Presence How to Flawlessly Transmit Upside-Down Videos on Youtube for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-buffer-free-browsing-chromium-and-youtube/"><u>Enhancing Buffer-Free Browsing: Chromium & YouTube</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-nokia-c32-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Nokia C32</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-exclusive-gaming-delight-with-single-platform-play-in-apex-legends/"><u>In 2024, Exclusive Gaming Delight with Single-Platform Play in Apex Legends</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-leading-edge-approaches-in-spotifys-advertising-realm/"><u>In 2024, Leading Edge Approaches in Spotify's Advertising Realm</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-venturing-virtuality-a-review-of-lgs-360-headset/"><u>In 2024, Venturing Virtuality A Review of LG's 360 Headset</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-blenders-persistent-shutdown-issues-on-your-windows-machine-a-complete-guide/"><u>Overcoming Blender's Persistent Shutdown Issues on Your Windows Machine – A Complete Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/star-wars-squadrons-review-immersive-space-combat/"><u>Star Wars: Squadrons Review: Immersive Space Combat</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-powerhouse-of-4k-reviewing-the-nikon-j5-camera-for-2024/"><u>The Powerhouse of 4K Reviewing the Nikon J5 Camera for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-tier-applications-for-animation-and-modeling-craft-for-2024/"><u>Top-Tier Applications for Animation & Modeling Craft for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unleash-potential-discovering-free-onlineoffline-animations-for-2024/"><u>Unleash Potential Discovering Free Online/Offline Animations for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-mastering-appearance-in-apples-audio-library-for-2024/"><u>[New] Mastering Appearance in Apple's Audio Library for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-perfecting-your-pics-with-facetune-a-full-guide/"><u>[New] Perfecting Your Pics with Facetune - A Full Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-creative-potential-with-xps-movie-creation-toolkit/"><u>[New] Unlock Creative Potential with XP’s Movie Creation Toolkit</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-fashion-filming-simplified-for-macos-users/"><u>[Updated] Fashion Filming Simplified for MacOS Users</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mirthmaker-join-and-start-your-humor-storytelling/"><u>[Updated] MirthMaker Join & Start Your Humor Storytelling</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-twitter-video-tools-effortless-video-uploading/"><u>[Updated] Top Twitter Video Tools Effortless Video Uploading</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleashing-potential-with-the-q500-drone/"><u>[Updated] Unleashing Potential with the Q500 Drone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-10-key-steps-for-optimal-stream-service-picks/"><u>2024 Approved The 10 Key Steps for Optimal Stream Service Picks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-top-2-secrets-to-convert-instagram-videos-into-premium-mp4/"><u>2024 Approved Top 2 Secrets to Convert Instagram Videos Into Premium MP4</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-ranked-text-enhancers-for-after-effects/"><u>2024 Approved Top-Ranked Text Enhancers for After Effects</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-windows-10s-full-potential-with-zoom-services/"><u>2024 Approved Unveiling Windows 10'S Full Potential with Zoom Services</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/bringing-dimensions-to-life-the-1-list-of-pcs-top-vr-360-players/"><u>Bringing Dimensions to Life The #1 List of PC's Top VR 360 Players</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Realme GT 5 (240W)? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-sony-xperia-5-v-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Sony Xperia 5 V Phone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlined-qanda-guide-for-attractive-podcasts/"><u>In 2024, Streamlined Q&A Guide for Attractive Podcasts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-cheat-sheet-for-identifying-and-fixing-all-blue-screen-errors/"><u>Ultimate Cheat Sheet for Identifying and Fixing All Blue Screen Errors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-hidden-sights-in-google-meet-conferences-for-2024/"><u>Unveiling Hidden Sights in Google Meet Conferences for 2024</u></a></li>
 </ul></div>
 

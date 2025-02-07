@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Erasing Your Clipboard Memory in Windows 11"
-date: 2025-01-23T19:50:17.521Z
-updated: 2025-01-25T20:26:53.186Z
+date: 2025-02-03T17:14:26.193Z
+updated: 2025-02-07T16:13:18.082Z
 tags:
   - desktop
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 * [Another Way to Clear All Clipboard Data](https://extra-skills.techidaily.com/2024-approved-navigating-through-gopro-models-and-specifications/)
 * [How to Disable Clipboard History in Windows 10](https://android-frp.techidaily.com/top-5-meizu-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Clipboard history in Windows 10 stores the 25 most recent items you've copied, including text, HTML, and images.
@@ -30,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 
  Clipboard history, first introduced in Windows 10's [October 2018 Update](https://facebook-record-videos.techidaily.com/new-in-2024-essential-youtube-video-editing-techniques/), stores a list of the 25 most recent items that you've copied to the Clipboard. These items can include text, HTML, and images smaller than 4 MB in size. Unless an item is pinned to the Clipboard, the Clipboard history list gets erased every time you restart your device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Clear Clipboard History in Windows 10
 
  Unlike other [potentially privacy-invasive features in Windows 10](https://video-capture.techidaily.com/updated-in-2024-the-ultimate-agri-game-guide-for-social-playtime-with-pals/), the Clipboard history feature only works if it has been enabled from Settings > System > Clipboard.
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
  When Clipboard history is enabled, pressing Windows+V will bring up a small window that lists the most recent items you have copied to the Clipboard.
 
 ![The Clipboard history pop-up window on Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/clipboard_history_plain.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To remove individual items from Clipboard history, call up the list with Windows+V and then click the three dots (ellipses) beside the item you'd like to delete.
 
@@ -54,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 
 ![Click Delete in Clipboard history on Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/click_delete.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To clear the entire Clipboard history, click any set of three dots (ellipses) in the list and a menu will pop up. Select "Clear All."
 
 ![Click clear all in Clipboard history on Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/click_clear_all.png) 
@@ -62,21 +62,17 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 
  Note that with Clipboard history enabled, new items will continue to appear in the Clipboard history list every time you copy something to the Clipboard. If you would like to prevent Windows from storing your Clipboard history, you will need to disable the feature in Windows Settings.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Another Way to Clear All Clipboard Data
 
  You can also clear your clipboard data in Windows Settings. Navigate to Settings > System > Clipboard and locate the "Clear Clipboard Data" section. Click on the "Clear" button, and the clipboard will be erased.
 
 ![Tap 'Clear' to clear your clipboard history.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/clear-clipboard-data.png) 
 
- This is equivalent to pushing the "Clear All" button in the Clipboard history window, but it also works with Clipboard history turned off.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ This is equivalent to pushing the "Clear All" button in the Clipboard history window, but it also works with Clipboard history turned off.
 
 ##  How to Disable Clipboard History in Windows 10
 
@@ -86,12 +82,16 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 
 ![Click 'Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/click-settings.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the Settings sidebar, click on "Clipboard." In Clipboard settings, locate the section called "Clipboard history" and toggle the switch to "Off."
 
 ![Select 'Clipboard' to the left, then disable 'Clipboard History.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/clipboard.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once disabled, if you press Windows+V, you will see a small window alerting you that Windows 10 cannot show your Clipboard history because the feature is turned off.
@@ -115,19 +115,20 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-understanding-facebook-reels-and-their-production-techniques/"><u>[New] 2024 Approved Understanding Facebook Reels and Their Production Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unraveling-the-mystery-of-iphone-based-podcast-access/"><u>[New] Unraveling the Mystery of iPhone-Based Podcast Access</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-snicker-studio-cybernetic-cackles/"><u>[Updated] Snicker Studio Cybernetic Cackles</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-your-digital-library-using-funimate/"><u>2024 Approved Streamline Your Digital Library Using Funimate</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-synchronizing-podcast-drops-with-audience-behavior/"><u>2024 Approved Synchronizing Podcast Drops with Audience Behavior</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/how-to-troubleshoot-persistent-static-sounds-on-your-gadgets-expert-tips-by-yl-computing-and-yl-software/"><u>How to Troubleshoot Persistent Static Sounds on Your Gadgets: Expert Tips by YL Computing & YL Software</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-itel-a60-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Itel A60 Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-tvplus-on-iphone-12-pro-max-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple TV+ on iPhone 12 Pro Max</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-discovering-and-perfecting-your-individual-style/"><u>In 2024, Discovering & Perfecting Your Individual Style</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722994015275-league-of-legends-troubles-master-these-easy-fixes-for-a-seamless-gaming-experience/"><u>League of Legends Troubles? Master These Easy Fixes for a Seamless Gaming Experience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/mastering-audio-ease-out-methods-in-premiere-pro-for-2024/"><u>Mastering Audio Ease-Out Methods in Premiere Pro for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/streamlined-approach-for-customizing-snapchat-video-rate-for-2024/"><u>Streamlined Approach for Customizing Snapchat Video Rate for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-wsappx-effective-methods-to-address-increased-cpu-load-and-hard-drive-usage/"><u>Troubleshooting WSAPPX: Effective Methods to Address Increased CPU Load and Hard Drive Usage</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-unveiling-the-secrets-of-efficient-audio-recordings/"><u>[New] 2024 Approved Unveiling the Secrets of Efficient Audio Recordings</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-diy-techniques-transforming-smartphones-into-webcams/"><u>[New] In 2024, DIY Techniques Transforming Smartphones Into Webcams</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-premiering-popularity-amazon-prime-tweets-of-23/"><u>[New] Premiering Popularity Amazon Prime Tweets of '23</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlining-your-streams-choosing-between-xsplit-and-obs/"><u>[New] Streamlining Your Streams Choosing Between XSplit and OBS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-titanfall-2-fps-drops-quickly-and-easily/"><u>[SOLVED] Titanfall 2 FPS Drops | Quickly & Easily</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-obs-settings-for-smooth-skype-video-streaming/"><u>[Updated] In 2024, OBS Settings for Smooth Skype Video Streaming</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unbound-zen-audio-releases/"><u>[Updated] Unbound Zen Audio Releases</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1424562-9781780284408-celtic-wisdom/"><u>Celtic Wisdom | Free Book</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-resource-for-advanced-periscope-techniques/"><u>In 2024, The Ultimate Resource for Advanced Periscope Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-5-hd-cameras-for-big-game-capture/"><u>In 2024, Top 5 HD Cameras for Big Game Capture</u></a></li>
+<li><a href="https://some-skills.techidaily.com/thankful-views-complete-outro-template-library-for-2024/"><u>Thankful Views Complete Outro Template Library for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-aurora-hdr-experience-is-it-transformative-for-2024/"><u>The Aurora HDR Experience Is It Transformative for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-microsoft-azure-transcription-capabilities-for-2024/"><u>Unlocking Microsoft Azure Transcription Capabilities for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-beyond-pinnacle-the-best-video-editing-apps-for-mac-this-year/"><u>Updated 2024 Approved Beyond Pinnacle The Best Video Editing Apps for Mac This Year</u></a></li>
 </ul></div>
 

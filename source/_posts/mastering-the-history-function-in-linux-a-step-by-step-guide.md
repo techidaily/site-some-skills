@@ -1,7 +1,7 @@
 ---
 title: "Mastering the 'History' Function in Linux: A Step-by-Step Guide"
-date: 2025-01-19T16:27:48.342Z
-updated: 2025-01-25T21:39:26.297Z
+date: 2025-02-04T20:21:52.403Z
+updated: 2025-02-07T17:24:57.838Z
 tags:
   - desktop
 categories:
@@ -60,6 +60,10 @@ history | tail -n 10
 
 ![history | tail -n 10 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/4-7.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Repeating Commands
 
  If you want to reuse a command from the history list, type an exclamation point (!), and the number of the command with no spaces in-between.
@@ -69,6 +73,10 @@ history | tail -n 10
 !37
 
 ![!37 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/5-7.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To repeat the last command, type two exclamation points, again, without spaces:
 
@@ -86,10 +94,6 @@ sudo !!
 
 ![mv ./my_script.sh /usr/local/bin/  in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/7-8.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  So, you can type the corresponding number from the list to repeat a command or use the double exclamation points to repeat the last command you used. However, what if you want to repeat the fifth or eighth command?
 
  You can use one exclamation point, a hyphen (-), and the number of any previous command (again, without spaces) to repeat it.
@@ -99,6 +103,10 @@ sudo !!
 !-13
 
 ![!-13 ina terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/8-8.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Searching for Commands by String
 
@@ -110,10 +118,6 @@ sudo !!
 
 ![!sudo in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/9-9.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  There's an element of danger in this, though. If the last command that started with `sudo` isn't the one you think it is, you'll launch the wrong command.
 
  To provide a safety net, though, you can use the `:p` (print) modifier, as shown below:
@@ -121,6 +125,10 @@ sudo !!
 !sudo:p
 
 ![!sudo:p in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/10-8.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This instructs `history` to print the command to the terminal window, rather than executing it. This allows you to see the command before you use it. If it is the command you want, press the Up arrow, and then hit Enter to use it.
 
@@ -131,10 +139,6 @@ sudo !!
 !?aliases
 
 ![!?aliases in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/12-6.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This will find any command that contains the string "aliases," regardless of where it appears in the string.
 
@@ -154,10 +158,6 @@ sudo !!
 
 ![Ctrl+r search with a matching command in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/15-4.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When you press Enter, the displayed command will execute.
 
 ![gedit launched by a Ctrl+r search command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/16-4.png) 
@@ -170,11 +170,19 @@ sudo !!
 
 ![Command shown on the command line allowing editing](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/18-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can use other Linux tools to search the history list. For example, to pipe the output from `history` into `grep` and [search for commands that contain the string](http://man7.org/linux/man-pages/man1/grep.1.html) "aliases" you could use this command:
 
 history | grep aliases
 
 ![history | grep aliases in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/19-3.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Modifying the Last Command
 
@@ -194,10 +202,6 @@ sudo systemctl start shhd
 
  The command is executed with "shhd" corrected to "sshd."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Deleting Commands from the History List
 
  You can also delete commands from the history list with the `-d` (delete) option. There's no reason to keep your misspelled command in the history list.
@@ -212,10 +216,6 @@ history | grep shhd
 
 ![history | grep shhd in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/21-2.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also pass a range of commands to the `-d` option. To delete all list entries from 22 to 32 (inclusive), type this command:
 
 history -d 22 32
@@ -223,10 +223,6 @@ history -d 22 32
  To delete only the last five commands, you can type a negative number, like so:
 
 history -d -5
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Manually Updating the History File
 
@@ -258,12 +254,16 @@ history -c
 
 ![history -c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/24-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you additionally want to force these changes to the history file, use the `-w` option, like so:
 
 history -w
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Security and the History File
@@ -312,6 +312,10 @@ gedit .bashrc
 
 ![.bashrc in the gedit editor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/28-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  These two values interact in the following ways:
 
 * When you log in or start a terminal window session, the history list is populated from the `.bash_history` file.
@@ -352,7 +356,7 @@ export HISTTIMEFORMAT="%c "
 ![history listing with timestamps in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/30-2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's a very long-winded timestamp. However, you can use tokens other than `%c` to refine it. The other tokens you can use are:
@@ -385,10 +389,6 @@ export HISTTIMEFORMAT="%T "
 
 ![The &quot;export HISTTIMEFORMAT=&quot;%T&quot; command in gedit.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/33-2.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Our output is now more manageable.
 
 ![history list with timestamps in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/34-1.png) 
@@ -418,22 +418,22 @@ export HISTTIMEFORMAT="%T "
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-essential-blueprint-to-utilizing-google-docs-voice-recognition/"><u>[New] The Essential Blueprint to Utilizing Google Docs Voice Recognition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-smooth-slide-advanced-techniques-for-inshot-transitions/"><u>[New] The Smooth Slide Advanced Techniques for Inshot Transitions</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-enhancing-your-multimedia-interaction-with-vlc-mac/"><u>[Updated] Enhancing Your Multimedia Interaction with VLC (Mac)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-navigating-googles-augmented-reality-adornments/"><u>[Updated] Navigating Google's Augmented Reality Adornments</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streamlining-speech-to-text-processing-in-powerpoint/"><u>[Updated] Streamlining Speech-To-Text Processing in Powerpoint</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-ar-a-modern-illusionists-toolkit/"><u>[Updated] Unveiling AR A Modern Illusionist's Toolkit</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-revive-your-lost-iphone-x-with-these-tips/"><u>2024 Approved Revive Your LOST iPhone X with These Tips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-phone-with-funimate-the-ultimate-apk-guide/"><u>2024 Approved Transform Your Phone with Funimate - The Ultimate APK Guide</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/footage-to-frame-crafting-youtube-thumbnails-on-mobile-devices-for-2024/"><u>From Footage to Frame Crafting YouTube Thumbnails on Mobile Devices for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-vivo-y78t-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Vivo Y78t to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-properly-download-and-update-your-canon-mf85er0-c-printer-drivers-for-various-windows-versions/"><u>How to Properly Download and Update Your Canon MF85er0 C Printer Drivers for Various Windows Versions</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Lava Yuva 3 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-sunshine-strategies-enhancing-indoor-luminary-quality/"><u>In 2024, Sunshine Strategies Enhancing Indoor Luminary Quality</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-creativity-harnessing-the-full-potential-of-movie-maker-windows-8/"><u>In 2024, Unleashing Creativity Harnessing the Full Potential of Movie Maker (Windows 8)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/personalized-navigation-with-cookiebot-technology/"><u>Personalized Navigation with Cookiebot Technology</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revamping-privacy-learn-how-to-alter-your-fb-access-code/"><u>Revamping Privacy: Learn How to Alter Your FB Access Code</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-clash-between-creativity-and-ai-sarah-silverman-other-artists-sue-tech-titans-for-copyright-violations/"><u>The Clash Between Creativity and AI: Sarah Silverman, Other Artists Sue Tech Titans for Copyright Violations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-infallible-technique-for-embedding-profile-urls-in-tiktok/"><u>[New] The Infallible Technique for Embedding Profile URLs in TikTok</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-uncompromised-audio-with-ffmpegs-extraction-features/"><u>[New] Uncompromised Audio with FFmpeg's Extraction Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-mystery-of-facebooks-hidden-activities/"><u>[New] Unlocking the Mystery of Facebook's Hidden Activities</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-essential-skills-for-youtube-success-8-free-online-courses/"><u>[Updated] Essential Skills for YouTube Success 8 Free Online Courses</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-swift-and-secure-efficient-downloads-of-podcasts-onto-iphone-for-2024/"><u>[Updated] Swift and Secure Efficient Downloads of Podcasts Onto iPhone for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-synchronizing-realism-advanced-green-screen-applications-for-viewers/"><u>[Updated] Synchronizing Realism Advanced Green Screen Applications for Viewers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-using-vlc-for-mp4-and-format-shifting/"><u>[Updated] The Ultimate Guide to Using VLC for MP4 & Format Shifting</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-deleted-history-uncovered-your-guide-to-online-video-retrieval/"><u>2024 Approved Deleted History Uncovered Your Guide to Online Video Retrieval</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-future-of-human-computer-conversation-systems/"><u>2024 Approved The Future of Human-Computer Conversation Systems</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/comment-actualiser-votre-sauvegarde-en-directe-sur-windows-7-8-ou-10-une-strategie-facile-a-suivre/"><u>Comment Actualiser Votre Sauvegarde en Directe Sur Windows 7, 8 Ou 10 - Une Stratégie Facile À Suivre</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/conversione-rapida-e-gratuita-di-audio-avi-a-mp3-online-utilizzo-facile-del-servizio-easyconvertaudio/"><u>Conversione Rapida E Gratuita Di Audio AVI a MP3 Online - Utilizzo Facile Del Servizio EasyConvertAudio</u></a></li>
+<li><a href="https://solve-info.techidaily.com/experience-tailored-browsing-with-cookiebot-technology-driven-content/"><u>Experience Tailored Browsing with Cookiebot Technology Driven Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-8-steps-to-make-your-instagram-unboxing-reels-viral/"><u>In 2024, Top 8 Steps to Make Your Instagram Unboxing Reels Viral</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/integrate-authentic-french-in-your-daily-chit-chat/"><u>Integrate Authentic French in Your Daily Chit-Chat</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essential-manual-for-simplified-live-streamers-for-2024/"><u>The Essential Manual for Simplified Live Streamers for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unfolding-the-latest-samsung-galaxy-z-fold-discover-pricing-launch-details-and-features/"><u>Unfolding the Latest Samsung Galaxy Z Fold - Discover Pricing, Launch Details & Features</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-ai-shortcomings-why-plagiarism-software-isnt-always-accurate/"><u>Unveiling AI Shortcomings: Why Plagiarism Software Isn't Always Accurate</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Evolving Screen Ratios: A Shift From Classic 4:3 Monitors to Modern 16:9 and Its Effects on Work Efficiency"
-date: 2025-01-20T00:58:12.894Z
-updated: 2025-01-25T20:19:02.789Z
+date: 2025-02-04T17:19:57.800Z
+updated: 2025-02-07T16:34:27.252Z
 tags:
   - web
 categories:
@@ -20,12 +20,16 @@ thumbnail: https://thmb.techidaily.com/35eb7ec70c3d68bdd6223aba9efbf03bc030e84e6
  If you were born in the 90s or earlier, you might remember those big boxy computer monitors with an almost square display. Then, at some point, we gradually shifted to widescreen monitors. So, why did we make the shift, and how does it affect the way we use our personal computers?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The History of 4:3 Monitors and Shift to 16:9 Monitors
 
  In the early days, there wasn't a specific aspect ratio for computer monitors. You'd see all sorts of form factors—boxy, rectangular, and everything in between. But gradually, everyone settled on the 4:3 aspect ratio.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  The Era of the 4:3 Monitor
 
@@ -39,6 +43,10 @@ Santi S / Shutterstock.com
 
  However, computing habits started to change. People started to desire widescreen displays over square ones.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  The Move to 16:9 Monitors
 
  During the early 2000s, computers started to show significant advancements in their graphical capabilities. People began to want more from their PCs, primarily media consumption. [Windows Media Player](https://facebook-video-share.techidaily.com/updated-revolutionize-earning-with-youtube-short-tactics/) was already very popular. People used to watch movies and TV shows on their computers using attached [DVD drives](https://extra-support.techidaily.com/updated-premier-digital-discussion-director/).
@@ -49,19 +57,11 @@ Santi S / Shutterstock.com
 
 ![The Razer Aether monitor light bar lighting up a desk.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-razer-aether-monitor-light-bar-lighting-up-a-desk_53629693315_o.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Jerome Thomas / How-To Geek
 
  More powerful computers also meant you could run multiple apps together. A wider screen allowed for better multitasking, as you could now open and work with [multiple apps side by side](https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-magic-v2-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/).
 
  Granted, this shift didn't happen overnight—but by the 2010s, widescreens were the norm. You could (and still can) find a few manufacturers making 4:3 monitors for industrial and CCTV use. However, you'd be hard-pressed to find these in somebody's home or even in an office setup.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  From 4:3 to 16:9 Monitors: How Did It Change Computing?
 
@@ -87,6 +87,10 @@ Jerome Thomas / How-To Geek
 
 ![The default Windows 11 taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/52881834365_511de40661_o-3.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek  
   
  Developers and designers created this convention back in the 4:3 monitor era. Since you had more vertical screen space, you could have OS elements on the top and bottom, and app windows could still show sufficient information. You also had modest horizontal space for some split-screen action.
@@ -98,10 +102,6 @@ Hannah Stryker / How-To Geek
 Hannah Stryker / How-To Geek  
   
  Ubuntu has done this. Their desktop experience puts the Ubuntu dock on the left side of the screen. I’d argue that this is the more logical UI choice, but because of familiarity and habit, we still have the bottom placement of the taskbar in popular operating systems.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Impact on Game Design
 
@@ -117,6 +117,10 @@ Hannah Stryker / How-To Geek
 
  This just goes to show some of the ways the UI of video games, and even the overall game design can be influenced by the output screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Ergonomic Considerations
 
  It might seem like I’m championing the boxy aspect ratios, but I do acknowledge their ergonomic shortcomings, especially when considering large-screen monitors. The human visual field is naturally wider than it is tall. We're built to [scan horizontally rather than vertically](https://www.researchgate.net/figure/The-FOV-of-human-eyes-is-approximately-135-vertically-and-200-horizontally%5Ffig3%5F263161973). This biological limitation makes widescreen monitors a natural and more ergonomic fit—we see more of what’s on-screen without moving our heads.
@@ -124,10 +128,6 @@ Hannah Stryker / How-To Geek
  For instance, imagine a 32-inch 4:3 monitor. It’d be a literal pain in the neck, as you’d need to bob your head up and down to view the entirety of the screen. Even a 32-inch 16:9 monitor can be a bit too tall, which is why [ultrawide displays rocking a 21:9 aspect ratio are becoming popular](https://location-social.techidaily.com/does-find-my-friends-work-on-realme-c55-drfone-by-drfone-virtual-android/) for displays larger than 27 inches.
 
 ![Portrait Orientation of Samsung's Epic Odyssey Ark 55-inch Monitor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/76f86454.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _[Samsung](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fmonitors%2Fgaming%2F55-odyssey-ark-4k-uhd-165hz-1ms-quantum-mini-led-curved-gaming-screen-ls55bg970nnxgo%2F)_
 
@@ -160,24 +160,18 @@ HP
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-top-apps-for-instagram-strategy-mastery-and-expansion/"><u>[New] 2024 Approved Top Apps for Instagram Strategy Mastery and Expansion</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-complete-handbook-for-telegram-web-newbies/"><u>[New] The Complete Handbook for Telegram Web Newbies</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-leading-selection-no-cost-outstanding-lut-links/"><u>[New] The Leading Selection No-Cost, Outstanding LUT Links</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-8-photo-montage-synthesizer-online/"><u>[New] Ultimate 8 Photo Montage Synthesizer Online</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-selections-top-rated-webcam-platforms/"><u>[New] Ultimate Selections Top-Rated Webcam Platforms</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-cutting-edge-techniques-mastering-youtube-subtitlecc-additions/"><u>[Updated] 2024 Approved Cutting-Edge Techniques Mastering YouTube Subtitle/CC Additions</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-best-auto-tracking-cameras/"><u>2024 Approved Best Auto Tracking Cameras</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-path-to-flawless-video-subtitles-via-internet-services/"><u>2024 Approved The Ultimate Path to Flawless Video Subtitles via Internet Services</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-s17t-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo S17t | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/how-to-screen-record-skype-with-obs/"><u>How to Screen Record Skype with OBS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-sound-speeds-in-spotify-without-compromise/"><u>In 2024, Streamlining Sound Speeds in Spotify Without Compromise</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tips-for-iphone-users-converting-standard-speed-to-slow-scenes/"><u>In 2024, Tips for iPhone Users Converting Standard Speed to Slow Scenes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/itunes-pciphone/"><u>ITunes以外で高確率: PCを使ってiPhoneに映像転送する人気手法解明!</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/optimize-your-windows-11-photo-viewing-include-audio-files-and-artistic-layers-for-2024/"><u>Optimize Your Windows 11 Photo Viewing Include Audio Files and Artistic Layers for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/solutions-for-fixing-nonfunctional-apple-internalexternal-usb-superdrives/"><u>Solutions for Fixing Nonfunctional Apple Internal/External USB SuperDrives</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-ranked-animation-set-for-typography-for-2024/"><u>Top-Ranked Animation Set for Typography for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-timely-response-error-in-system-services-code-1053/"><u>Troubleshooting Guide for Timely Response Error in System Services (Code 1053)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unraveling-asmr-for-mental-and-physical-health-for-2024/"><u>Unraveling ASMR for Mental and Physical Health for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-precision-adjustments-for-premium-zoom-audio/"><u>[New] In 2024, Precision Adjustments for Premium Zoom Audio</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-power-of-multitasking-mastering-ffpm/"><u>[New] The Power of Multitasking Mastering FFPM</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tomorrows-examination-innovative-approaches/"><u>[New] Tomorrow’s Examination Innovative Approaches</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-top-fun-girl-games-for-kids/"><u>[New] Top Fun Girl Games for Kids</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-saving-gifs-from-twitter-ios-and-android-guide/"><u>[Updated] In 2024, Saving GIFs From Twitter IOS & Android Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-the-world-of-no-cost-picture-frame-movies/"><u>2024 Approved Unlocking the World of No-Cost Picture Frame Movies</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723000358426-dayz-frame-rate-woes-speedily-resolve-with-easy-to-follow-tips/"><u>DayZ Frame Rate Woes? Speedily Resolve with Easy-to-Follow Tips!</u></a></li>
+<li><a href="https://win-updates.techidaily.com/essential-safety-protocols-for-secure-crypto-transactions-insights-from-yl-computing/"><u>Essential Safety Protocols for Secure Crypto Transactions: Insights From YL Computing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-full-review-of-lgs-high-definition-monitoring-experience/"><u>In 2024, The Full Review of LG's High Definition Monitoring Experience</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/inside-track-to-superior-srt-upgrades/"><u>Inside Track to Superior SRT Upgrades</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-common-office-crash-on-windows-xpvista/"><u>Remedying Common Office Crash on Windows XP/Vista</u></a></li>
+<li><a href="https://facebook.techidaily.com/revive-your-feed-10-steps-to-get-facebook-videos-rolling/"><u>Revive Your Feed: 10 Steps to Get Facebook Videos Rolling</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-most-popular-free-soundtrack-sites-for-gamers-for-2024/"><u>The Most Popular Free Soundtrack Sites for Gamers for 2024</u></a></li>
 </ul></div>
 

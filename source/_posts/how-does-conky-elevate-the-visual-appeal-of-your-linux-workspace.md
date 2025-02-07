@@ -1,7 +1,7 @@
 ---
 title: How Does Conky Elevate the Visual Appeal of Your Linux Workspace?
-date: 2025-01-18T23:44:00.388Z
-updated: 2025-01-25T19:07:26.698Z
+date: 2025-01-31T17:16:21.540Z
+updated: 2025-02-07T19:41:59.963Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## How Does Conky Elevate the Visual Appeal of Your Linux Workspace?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -60,15 +56,19 @@ sudo apt install conky-manager2
 
 ![Installing Conky and Conky Manager in a Linux terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/installing-conky-and-conky-manager.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You’ve successfully installed Conky and Conky Manager on your system. Now, you can technically run the Conky app directly, and you’ll get the following widget on your desktop. It’s a barebone experience where you’ll have to write scripts to tweak the appearance, behavior, and functionality of this widget.
 
 ![Conky and Conky Manager in Application Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/conky-and-conky-manager-in-application-menu.png) 
 
-![Default Conky Widget and its script in a notepad window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/default-conky-widget-and-script.png) 
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Default Conky Widget and its script in a notepad window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/default-conky-widget-and-script.png) 
 
 Close 
 
@@ -78,25 +78,25 @@ Close
 
 ![Conky manager overview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/conky-manager-overview.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Using Conky Manager to Edit Conky Widgets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/using-conky-manager-to-edit-conky-widgets.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close 
 
  By default, the Conky Manager comes with a number of widgets, but they aren’t eye-catching enough. Not to worry though, as there are talented folks who have developed dedicated Conky themes with stylish widgets that you can simply download and start using on your system, no code necessary.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Installing Conky Themes
 
  For this demonstration, I’ll install the victorConky Theme. To do this, visit its [download page](https://www.pling.com/p/1287775), click on “Files,” and download the .zip file. Once downloaded, visit the containing folder and extract the file.
 
 ![Download the victorConky theme in a ZIP format.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/download-victorconky-theme.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Extract the victorConky zip file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/extract-the-victorconky-zip-file.png) 
 
@@ -106,15 +106,15 @@ Close
 
 ![Install necessary fonts for VictorConky theme.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/install-necessary-fonts-for-victorconky-theme.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once done, you’ll need to move the victorConky file to the “.conky” folder in the [home directory](https://instagram-clips.techidaily.com/crafting-captivating-ig-stories-with-youtube-content-for-2024/), so that it becomes accessible via the Conky Manager. To do this, open the terminal in the download directory (or wherever you extracted the file to) and enter the following command:
 
 mv victorConky ~/.conky
 
 ![Move the victorConky file to your home directory conky folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/move-victoconky-file-to-home-directory-conky-folder.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, the victorConky widgets should be accessible from the Conky Manager. Open it, and you should see a list of new widgets added. I personally liked the LinuxLarge widget and use it on my system. You can enable it by clicking the checkbox beside it.
 
@@ -158,22 +158,18 @@ mv victorConky ~/.conky
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-a-sincere-look-at-high-quality-audio-streaming-recordcast/"><u>[New] 2024 Approved A Sincere Look at High-Quality Audio Streaming RecordCast</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-craft-your-storyline-three-ways-to-border-instagram-videos-for-2024/"><u>[New] Craft Your Storyline Three Ways to Border Instagram Videos for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-blueprint-to-fullscreen-brilliance-in-adobe-premiere/"><u>[New] The Ultimate Blueprint to Fullscreen Brilliance in Adobe Premiere</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-4-sites-for-free-skype-tones/"><u>[New] Top 4 Sites for Free Skype Tones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unparalleled-video-gear-top-5-slow-cams/"><u>[New] Unparalleled Video Gear Top 5 Slow Cams</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-examining-vlc-for-screen-capture/"><u>[Updated] 2024 Approved Examining VLC for Screen Capture</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-frame-reconfigurator-for-videos/"><u>[Updated] Frame Reconfigurator for Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-must-have-tech-for-clear-streamed-content/"><u>[Updated] Must-Have Tech for Clear Streamed Content</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-from-canvas-to-crypto-top-7-artwork-conversion-platforms/"><u>2024 Approved From Canvas to Crypto Top 7 Artwork Conversion Platforms</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-supreme-boundless-data-depot/"><u>2024 Approved Supreme Boundless Data Depot</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tales-that-transcend-leading-academies-ranked-top-8/"><u>2024 Approved Tales That Transcend Leading Academies Ranked Top 8</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-path-to-professional-pictures-with-video-enhance-v22/"><u>2024 Approved The Path to Professional Pictures with Video Enhance V2.2</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unique-business-symbols-edit-refine-and-download-logos-from-template-basics/"><u>2024 Approved Unique Business Symbols Edit, Refine, and Download Logos From Template Basics</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-10-action-cams-steady-shooting-excellence-for-2024/"><u>Best 10 Action Cams Steady Shooting Excellence for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/digitalize-your-driving-documents-adding-a-drivers-license-to-iphone-wallet-by-location/"><u>Digitalize Your Driving Documents: Adding a Driver's License to iPhone Wallet by Location</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-nokia-130-musicmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Nokia 130 MusicMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/principles-of-crafting-alluring-vlog-storylines/"><u>Principles of Crafting Alluring Vlog Storylines</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tales-on-the-silver-screen-writing-for-cinema/"><u>[New] Tales on the Silver Screen Writing for Cinema</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unravel-the-mystery-of-scouring-exceptional-photos-on-pexels/"><u>[Updated] Unravel the Mystery of Scouring Exceptional Photos on Pexels</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-step-by-step-guide-to-radial-blur-effect-on-images/"><u>2024 Approved Step-by-Step Guide to Radial Blur Effect on Images</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-your-video-collection-converting-mp4-with-vlc/"><u>2024 Approved Streamlining Your Video Collection Converting MP4 with VLC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-decipherment-insiders-look-at-xvideo-hub-review/"><u>2024 Approved The Ultimate Decipherment Insider's Look at XVideo Hub Review</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/balanced-photography-top-phones-and-cameras-tripod-for-2024/"><u>Balanced Photography Top Phones & Cameras Tripod for 2024</u></a></li>
+<li><a href="https://techidaily.com/harness-the-potential-of-cognitive-computing-in-business-with-abbyy-comprenos-top-tier-language-technology-tools/"><u>Harness the Potential of Cognitive Computing in Business with ABBYY Compreno's Top-Tier Language Technology Tools</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-from-your-apple-iphone-15-pro-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock from your Apple iPhone 15 Pro and iPad?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Samsung Galaxy S24+? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-making-impeccable-square-videos-in-imovie-for-instagram/"><u>In 2024, Making Impeccable Square Videos in iMovie for Instagram</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-gear-for-tempo-tinkering-in-stories/"><u>In 2024, The Ultimate Gear for Tempo Tinkering in Stories</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-12-html5-videophones-for-optimal-viewing/"><u>In 2024, Top 12 HTML5 Videophones for Optimal Viewing</u></a></li>
 </ul></div>
 

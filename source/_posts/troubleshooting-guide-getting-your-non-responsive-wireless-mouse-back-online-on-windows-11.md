@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Getting Your Non-Responsive Wireless Mouse Back Online on Windows 11"
-date: 2025-01-24T23:44:33.345Z
-updated: 2025-01-25T21:00:11.374Z
+date: 2025-02-01T19:30:58.431Z
+updated: 2025-02-07T19:51:23.796Z
 tags:
   - deals
 categories:
@@ -25,39 +25,39 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
  Has your wireless Windows mouse suddenly stopped responding? It's a frustrating issue that's tricky to diagnose; the fault could lie with the hardware itself (like the mouse or the USB receiver) or with your computer software. But don't worry—follow our advice to get your mouse working again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  1\. Undertake Basic Device Diagnosis
 
  Before doing anything else, you should determine whether [your mouse is connected to your PC](https://some-skills.techidaily.com/the-most-reliable-gopro-cases-1-10-showdown-for-2024/). So, perform some basic hardware diagnosis, like ensuring the mouse is switched on (the power switch is usually on the bottom of the mouse) and that the USB receiver is connected to the computer.
 
  If the mouse still doesn't work after these basic checks, try these other hardware-orientated fixes:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Reconnect the USB Receiver
 
  Disconnect the USB receiver, wait ten seconds, then plug it back in. This is age-old advice, but it may kick Windows to recognize the mouse.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Use a Different USB Port
 
  The USB port you're using for the receiver may be faulty, so use a different one to check. If your computer only has one USB port, you could use an adapter or a dongle that connects to a different port to provide more USB connections.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Check the Mouse Battery
 
  The battery is typically the reason for wireless mice not working. Check the battery is fully inserted in the compartment and that it's positioned correctly. Also, replace it with a new battery if you're unsure how much charge it has left (or plug it in to charge if the battery isn't replaceable).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Unplug Other USB Devices
 
  Other USB devices connected to your computer can cause interference. Disconnect these in turn; if it doesn't fix your mouse, plug them back in again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Check for Hardware Damage
 
@@ -69,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
  Alternatively, if everything works on another device, it means the issue is with your computer rather than the mouse or receiver.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  2\. Disable USB Power Management
 
  A USB receiver requires an adequate amount of power from the computer to work properly. Windows has a setting which disables USB devices to save power, and this can cause issues.
@@ -81,17 +77,9 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
 ![Windows 11 right-click Start Menu highlighting Device Manager option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-start-menu-options.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In Device Manager, scroll down and double-click the "Universal Serial Bus Controllers" section to expand it. Right-click "USB Root Hub" and select "Properties."
 
 ![Windows 11 Device Manager highlighting the USB controller right-click menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-device-manager-window.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In the Properties window, select the "Power Management" tab and uncheck "Allow the Computer to Turn Off This Device to Save Power." Click "OK".
 
@@ -118,7 +106,7 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
  Shut down your computer, unplug and reconnect the USB mouse receiver, then turn the computer back on.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  4\. Update or Rollback the Mouse Drivers
@@ -133,22 +121,22 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
  If Windows Update doesn't detect any available driver updates, manually install them. To do this, go directly to the mouse manufacturer's website. They should have a driver section, or they might have dedicated software—in either case, download and run the executable, then follow the prompts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  How to Roll Back the Mouse Drivers
 
  To [roll back the drivers](https://youtube-tips.techidaily.com/24-crafting-your-youtube-legacy-a-deep-dive-into-creator-studio-mastery/), press Windows+X and select "Device Manager." Double-click the "Mice and Other Pointing Devices" section to expand it. Right-click the wireless mouse and select "Properties."
 
 ![Windows 11 Device Manager window highlighting 'Mice and other pointing devices' right-click menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-device-manager-window-2.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the Properties window, select the "Driver" tab and click "Roll Back Driver."
 
 ![Windows 11 mouse Properties window highlighting 'Roll Back Driver' option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-mouse-properties-window.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click "Yes" on the warning pop-up and wait until Windows automatically restores to the previous version.
@@ -161,6 +149,10 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
 ![Windows 11 Device Manager window highlighting 'USB Root Hub' right-click menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-device-manager-window-3.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Select "Uninstall" in the pop-up window.
 
 ![Windows 11 Uninstall Pop-Up Warning window highlighting Uninstall button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-uninstall-pop-up-warning-window.jpg) 
@@ -168,6 +160,10 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
  Repeat the above steps for each USB Root Hub on the list.
 
  Restart your computer, and it will automatically scan and reinstall the USB controllers. If it doesn't, go back to Device Manager and select Action > Scan for Hardware Changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Update Windows 11
 
@@ -191,19 +187,23 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
 ![Windows 11 Settings window highlighting 'Bluetooth & devices' and Bluetooth toggle switch.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-settings-window.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After turning on Bluetooth, select "Add Device" and then select "Bluetooth" from the list.
 
 ![Windows 11 Add a device window highlighting Bluetooth option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-add-a-device-window.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Your PC will start searching for Bluetooth devices. Choose your wireless mouse from the list.
 
 ![Windows 11 Add a device window highlighting Bluetooth mouse.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-add-a-device-window-1.jpg) 
 
  Wait until the connection is established. After a few seconds, your mouse is ready to use via Bluetooth.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  9\. Perform a System Restore
 
@@ -230,24 +230,20 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-revisiting-social-media-written-history-on-your-laptopsphones/"><u>[New] 2024 Approved Revisiting Social Media' Written History on Your Laptops/Phones</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-secrets-of-facebook-cover-vids-for-aspiring-social-media-stars/"><u>[New] 2024 Approved Secrets of Facebook Cover Vids for Aspiring Social Media Stars</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-creative-freedom-redefined-a-review-of-screenflow-on-macbook-pro/"><u>[New] In 2024, Creative Freedom Redefined A Review of ScreenFlow on MacBook Pro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-finest-html5-video-tools-for-content-creators/"><u>[New] The Finest HTML5 Video Tools for Content Creators</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-groundbreaking-feedback-vllo-review/"><u>[Updated] Groundbreaking Feedback VLLO Review</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-art-of-sharing-horizontals-in-igtvs-vertical-world/"><u>[Updated] In 2024, The Art of Sharing Horizontals in IGTV's Vertical World</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlock-the-full-potential-of-pixiz-in-video-making/"><u>[Updated] Unlock the Full Potential of Pixiz in Video Making</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-excellent-shot-capture-best-action-cam-tech/"><u>2024 Approved Excellent Shot Capture - Best Action Cam Tech</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tips-and-tricks-for-effective-azure-speech-to-text-use/"><u>2024 Approved Tips and Tricks for Effective Azure Speech-to-Text Use</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-tips-on-how-to-edit-youtube-channel-description/"><u>2024 Approved Tips on How to Edit YouTube Channel Description</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-rated-economical-timer-services/"><u>2024 Approved Top-Rated Economical Timer Services</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transition-mastery-in-cinematic-productions-with-kinemaster/"><u>2024 Approved Transition Mastery in Cinematic Productions with Kinemaster</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-speed-meets-strategy-key-moments-at-the-games/"><u>In 2024, Speed Meets Strategy Key Moments at the Games</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-sunbeam-effect-android-screen-brightening/"><u>In 2024, Sunbeam Effect Android Screen Brightening</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-2019-game-changer-in-vegaspro/"><u>In 2024, The 2019 Game-Changer in VegasPro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-top-tier-displays-optimize-your-xbox-series-x-gaming/"><u>In 2024, Unveiling Top-Tier Displays - Optimize Your Xbox Series X Gaming</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-visual-storytelling-instagrams-photo-integration/"><u>In 2024, Visual Storytelling Instagram's Photo Integration</u></a></li>
-<li><a href="https://techidaily.com/why-are-your-photos-lost-from-iphone-13-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why are your photos lost from iPhone 13 Pro Max? | Stellar</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-unveiling-the-power-of-slug-lines/"><u>[New] 2024 Approved Unveiling the Power of Slug Lines</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/roadcast-excellence-incorrante-video-loops-into-television-for-2024/"><u>[New] Broadcast Excellence Incorrante Video Loops Into Television for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-velocity-victories-olympics-year-2022/"><u>[New] Velocity Victories Olympics, Year 2022</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-essential-tools-for-mobile-movie-making/"><u>[Updated] 2024 Approved Essential Tools for Mobile Movie Making</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-your-copy-with-strategic-slug-line-usage/"><u>[Updated] Transform Your Copy with Strategic Slug Line Usage</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-secrets-of-kinemaster-usage-and-ranking-alternatives-1-10/"><u>[Updated] Unveiling the Secrets of KineMaster Usage & Ranking Alternatives 1-10</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-memo-menagerie-the-ultimate-list-of-meme-generators/"><u>2024 Approved Memo Menagerie The Ultimate List of Meme Generators</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-taxonomy-of-video-and-film-capture-systems/"><u>2024 Approved Taxonomy of Video and Film Capture Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-pcb-creation-cytrons-uno-rp2040-board-evaluated-for-savvy-electronics-enthusiasts/"><u>Affordable PCB Creation: Cytron's Uno RP2040 Board Evaluated for Savvy Electronics Enthusiasts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722093656695-ignite-your-online-discovery-journey-experience-why-perplexity-ai-is-the-top-secret-to-winning-at-google-searches/"><u>Ignite Your Online Discovery Journey: Experience Why Perplexity AI Is the Top Secret to Winning at Google Searches!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-the-art-of-enticing-instagram-followers-a-puzzle-post-primer/"><u>In 2024, The Art of Enticing Instagram Followers A Puzzle Post Primer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-best-android-photos-tactics/"><u>In 2024, Unveiling Best Android Photos Tactics</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/keep-it-secret-live-stream-on-instagram-anonymously/"><u>Keep It Secret Live Stream on Instagram Anonymously</u></a></li>
+<li><a href="https://fox-where.techidaily.com/optimizing-team-access-essential-guide-to-subscriptions-and-licenses/"><u>Optimizing Team Access: Essential Guide to Subscriptions and Licenses</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-creative-shots-with-photoshops-radial-distortion-for-2024/"><u>Unlock Creative Shots with Photoshop's Radial Distortion for 2024</u></a></li>
 </ul></div>
 

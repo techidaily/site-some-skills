@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Easily Setting Up & Controlling Fonts on macOS"
-date: 2025-01-23T19:49:52.033Z
-updated: 2025-01-25T21:40:00.955Z
+date: 2025-02-04T18:25:45.572Z
+updated: 2025-02-07T16:54:55.042Z
 tags:
   - desktop
 categories:
@@ -23,13 +23,13 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
  We'll guide you through Font Book on Mac, your go-to tool for managing and organizing your font collection. You’ll learn how to install, tweak, and deactivate fonts.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  What Fonts Does macOS Support?
 
  macOS Sonoma can handle many font types, like OpenType, Mac TrueType, Windows TrueType, bitmap, and dfont. As of macOS Catalina, Mac doesn't support PostScript fonts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to View Your Fonts in Font Book
 
@@ -43,12 +43,16 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 ![Grid view in Font Book.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-20-at-5-59-10-pm-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2\. Samples View:** Want a closer look? Choose View > View As Samples or press ⌘+2\. Each font appears in a full-width preview with a "The quick brown fox..." sentence example. You can't see many fonts at once, but it's great for checking out how each font looks in practice.
 
 ![Samples view in Font Book.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-20-at-6-05-00-pm.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3\. List View:** For a details-first approach, go to View > View As List or press ⌘+3\. This sorts your fonts into a list, with font families in expandable sections, similar to folders in Finder. Click to expand or collapse them.
@@ -58,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
  Another way to switch between the Grid, Samples, and List views is by clicking the relevant icons on the toolbar.
 
  To check out a font or font family in more detail, double click it. The font pops up in the main part of the window. To change the size of your fonts when previewing them in Font Book, use the slider at the top (with the minus and plus symbol on either side.)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Install a Font
 
@@ -78,11 +86,7 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 ![Selecting All Users from Font Book's Installation menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-12-at-2-55-14-pm.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Deactivate or Remove a Font
@@ -95,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
  If any font starts misbehaving, like displaying incorrect characters, you can [validate your fonts in Font Book](https://on-screen-recording.techidaily.com/in-2024-speaking-like-a-pro-tips-to-upgrade-your-google-meet-skills/). Just select "Validate" from the context menu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Organize Your Fonts Into Collections
 
  A font collection is a way of grouping fonts, like if they share a common theme, style, or purpose. It allows you to easily access and manage these fonts.
@@ -103,17 +111,9 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 ![Creating a new font collection.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-24-at-1-07-32-am.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Select the fonts you want to include in your collection (you can choose them from an existing collection, if needed.) To do that, click and drag to highlight multiple fonts, or use the Command key to select non-contiguous fonts. Then, drag the fonts to the collection, or right-click and use the "Add to" menu.
 
 ![Selecting fonts to be included in a new font collection.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-24-at-1-11-20-am.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Finally, double-click the collection name to retitle it and make it easy for you to identify later.
 
@@ -140,16 +140,17 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/utting-edge-design-top-5-3d-intro-makers-for-2024/"><u>[New] Cutting-Edge Design Top 5 3D Intro Makers for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-sound-fidelity-preservation-computer-sounds-and-dialogue-for-2024/"><u>[New] Sound Fidelity Preservation Computer Sounds & Dialogue for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-10-accessory-hits-for-sj-series-drivers/"><u>[New] Top 10 Accessory Hits for SJ-Series Drivers</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-direct-upload-from-twitter-to-tumblr-for-2024/"><u>[Updated] Direct Upload From Twitter to Tumblr for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-and-simple-18-vlogging-projects/"><u>2024 Approved Innovative & Simple 18 Vlogging Projects</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-innovative-cloud-storage-options-in-2s024/"><u>2024 Approved Unveiling Innovative Cloud Storage Options in 2S024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/best-free-avi-video-editing-software-for-2024/"><u>Best Free AVI Video Editing Software for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-canon-printer-mf82eb-driver-for-windows-supported-versions-78110/"><u>Get Canon Printer MF82eb Driver for WINDOWS - Supported Versions: 7/8.1/10</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-notch-tricks-to-nail-every-green-screen-shot-for-2024/"><u>Top-Notch Tricks to Nail Every Green Screen Shot for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/understanding-and-utilizing-phantoms-time-dilation-for-2024/"><u>Understanding and Utilizing Phantom’s Time-Dilation for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-why-steam-cant-synch-files-in-pc-settings/"><u>Unraveling Why Steam Can't Synch Files in PC Settings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-no-distractions-just-high-quality-webcam-recording/"><u>[New] No Distractions, Just High-Quality Webcam Recording</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-sjcam-sj7-star-action-camera-complete-review-for-2024/"><u>[New] SJCam SJ7 Star Action Camera Complete Review for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-in-depth-skype-audio-capture-guide-with-obs-software/"><u>[Updated] 2024 Approved In-Depth Skype Audio Capture Guide with OBS Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-good-to-great-elevate-your-tiktok-edits/"><u>[Updated] From Good to Great Elevate Your TikTok Edits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-sustaining-wellbeing-in-virtual-reality/"><u>[Updated] Sustaining Wellbeing in Virtual Reality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-swiftly-upload-to-twitter-premium-video-convertors-guide/"><u>2024 Approved Swiftly Upload to Twitter Premium Video Convertors Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-artists-blueprint-10-tips-for-podcast-cover-success/"><u>2024 Approved The Artist's Blueprint 10 Tips for Podcast Cover Success</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-under-the-lens-hero-4-meets-hero-5/"><u>2024 Approved Under the Lens Hero 4 Meets Hero 5</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/easy-driver-reinstallation-tips-for-pcs-controlling-your-system-with-confidence-digitalwise/"><u>Easy Driver Reinstallation Tips for PCs: Controlling Your System with Confidence - DigitalWise</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/educational-electronics-buying-guide-picking-the-right-device-for-study/"><u>Educational Electronics Buying Guide: Picking the Right Device for Study</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/how-to-fix-incorrectly-installed-device-drivers-tips-from-yl-computings-expert-team/"><u>How to Fix Incorrectly Installed Device Drivers: Tips From YL Computing's Expert Team</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-quick-conversion-tactics-extracting-mp3-from-vids-on-social-media/"><u>In 2024, Quick Conversion Tactics Extracting MP3 From Vids on Social Media</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Complete Reinstallation Tutorial for NVIDIA & AMD Graphics Drivers From Scratch
-date: 2025-01-24T23:54:57.007Z
-updated: 2025-01-26T01:16:57.919Z
+date: 2025-02-04T18:58:46.061Z
+updated: 2025-02-07T17:40:53.879Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Complete Reinstallation Tutorial for NVIDIA & AMD Graphics Drivers From Scratch
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -26,10 +22,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Here's everything you need to know about clean installing your Nvidia or AMD graphics driver on Windows.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  When You Need to Clean Install Your Graphics Driver
 
  You don't need to clean install your GPU driver for every update. Oftentimes, simply overwriting your existing driver when updating through Nvidia or AMD's software is fine.
@@ -37,6 +29,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  However, sometimes this straightforward update can cause performance issues like stuttering, crashes, and [a black screen](https://ai-video-tools.techidaily.com/the-ultimate-fcpx-freebie-list-10-plugins-you-cant-miss-for-2024/). If this happens to you, and you need to [recover from a bad GPU driver update](https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/), it's worth trying a clean driver installation.
 
  Additionally, a fresh installation is recommended when you replace your graphics card, regardless of whether it's the same brand as your old one. Removing all traces of your old GPU is always a good idea to prevent compatibility issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What to Do Before You Clean Install Your Graphics Driver
 
@@ -47,7 +43,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Windows 11 Run dialog with Sysdm.cpl command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/open-system-properties-using-run-command.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In System Properties, select the "Hardware" tab, then click "Device Installation Settings."
@@ -57,6 +53,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Next, click "No (your device might not work as expected)", then click "Save Changes". Click "OK" to apply the changes and close the prompt.
 
 ![Device Installation settings dialog with the No option selected in Windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/disable-automatic-device-driver-download-and-updates.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you've completed this guide and freshly installed your GPU driver, repeat these instructions to re-enable automatic driver updates.
 
@@ -74,6 +74,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Download page for AMD Cleanup Utility](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/download-page-for-amd-cleanup-utility.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, run the "amdcleanuputility.exe" file, then click "Yes" if prompted by User Account Control.
 
  If you're not in Safe Mode, you'll be prompted to boot into Safe Mode. Click "Yes" to restart your computer in Safe Mode.
@@ -83,6 +87,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  After the restart, wait for the cleanup utility to launch automatically, then click "OK" to continue.
 
 ![Running AMD cleanup utility Prompt in Safe Mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/running-amd-cleanup-utility-in-safe-mode-3.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once the driver is removed, click "Finish," then click "Yes" to restart your computer.
 
@@ -98,6 +106,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Nvidia Graphics Driver Intaller prompt with Nvidia Graphics Driver and GeForce Experience Option Selected](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/nvidia-graphics-driver-intaller-prompt-2.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Under "Installation options," choose "Custom (Advanced)" and click "Next."
 
 ![Nvidia Graphics Driver installer prompt with the Custom Option selected](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/nvidia-graphics-driver-installer-choose-custom-installation-option-2.jpg) 
@@ -110,16 +122,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Nvidia Graphics driver installer prompt with the Restart Now button visible](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/nvidia-driver-installer-finished.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once restarted, the Nvidia installer resumes installing the drivers. When the installer has finished, click "Close."
 
  Since the clean installation resets your profile and any custom configurations, sign in to the GeForce Experience client and reconfigure your necessary settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. Using Display Driver Uninstaller (DDU)
@@ -136,13 +144,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![DDU options prompt in Safe Mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/display-driver-uninstaller-options-dialog-1.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the right pane, click the "Select device type" dropdown, and choose "GPU."
 
 ![Display Driver Uninstaller prompt with the Select device type option selected](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ddu-select-device-type-option-2.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then, click the "Select device" dropdown and select your GPU manufacturer.
 
@@ -152,7 +160,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Display Driver Uninstaller prompt with Clean and Restart Option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ddu-clean-and-restart-option-2.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After the restart, your computer may fall back to the basic graphics driver for the graphics chip, to ensure your display still renders an image.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Reinstall AMD and Nvidia Drivers
 
@@ -166,27 +182,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![AMD softare adrenaline edition setup wizard showing additional options for install type](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/amd-softare-adrenaline-edition-setup-wizard-additional-options-install-type-4.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Here, click the "Install Type" dropdown and choose from "Full Install," "Minimal Install," or "Driver Only." Then, click "Install" to initiate the installation process.
 
  After the driver is installed, restart your computer to complete the process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Nvidia Driver
 
  To begin, launch the Nvidia installer. Choose to install the complete software package or only the graphics driver, then click "Agree and Continue."
 
 ![Nvidia Graphics Driver Intaller prompt with Nvidia Graphics Driver and GeForce Experience Option Selected](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/nvidia-graphics-driver-intaller-prompt-2.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Next, select an "Express" install with the recommended settings, or opt for "Custom" where you can toggle additional software components.
 
@@ -195,10 +199,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Click "Next" to install the driver. This process may take some time to complete, and your display may momentarily flash a few times during the installation.
 
 ![Nvidia graphics driver prompt for Custom Installation showing the Next button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/nvidia-graphics-driver-custom-installation-2.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once installed, click "Close" and wait for the GeForce Experience app to launch. Since this is a fresh install, you'll need to sign in with your Nvidia account before you can start using the software.
 
@@ -221,24 +221,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-budgeting-essentials-for-your-music-video/"><u>[New] Budgeting Essentials for Your Music Video</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-art-and-craft-of-documentary-writing/"><u>[New] The Art and Craft of Documentary Writing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-insiders-look-at-mac-preview-software/"><u>[New] The Insider's Look at Mac Preview Software</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocked-treasures-art-without-intellectual-property-restrictions/"><u>[New] Unlocked Treasures Art Without Intellectual Property Restrictions</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-unlocking-the-secret-to-a-streamlined-tiktok-bio-with-linktree/"><u>[New] Unlocking the Secret to a Streamlined TikTok Bio with Linktree</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-ffmpegs-potential-for-original-formatted-audio-retrieval/"><u>[New] Unveiling FFmpeg's Potential for Original Formatted Audio Retrieval</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-grab-free-video-profile-backgrounds-for-2024/"><u>[Updated] Grab Free Video Profile Backgrounds for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-definitive-srt-file-generation-manual/"><u>2024 Approved The Definitive SRT File Generation Manual</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-essentials-to-initiate-in-google-meet/"><u>2024 Approved The Essentials to Initiate in Google Meet</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-illustrators-journey-navigating-for-success-in-designing/"><u>2024 Approved The Illustrator's Journey Navigating for Success in Designing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/conquer-kinemaster-rule-the-meme-world-for-2024/"><u>Conquer KineMaster, Rule the Meme World for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-the-ultimate-no-experience-guide-to-earning-on-reddit-13-strategies-inside/"><u>In 2024, The Ultimate, No-Experience Guide to Earning on Reddit - 13 Strategies Inside</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unique-voice-customization-for-chrome-os-5-top-cloud-audio-editors-reviewed/"><u>In 2024, Unique Voice Customization for Chrome OS 5 Top Cloud Audio Editors Reviewed</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/keep-your-windows-7-computer-up-to-date-with-the-newest-amd-radeon-graphics-card-drivers/"><u>Keep Your Windows 7 Computer Up-to-Date with the Newest AMD Radeon Graphics Card Drivers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726028227449-mp3youtube/"><u>MP3形式でYouTubeのオーディオコンテンツを簡単にダウンロードする方法</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-insiders-guide-to-captivating-youtube-headlines-for-2024/"><u>The Insider's Guide to Captivating YouTube Headlines for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/troubleshooting-iphone-x-a-guide-to-restore-face-id-for-2024/"><u>Troubleshooting iPhone X - A Guide to Restore Face ID for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-the-power-of-livestreaming-on-youtube-regardless-of-subscriber-numbers-for-2024/"><u>Unlock the Power of Livestreaming on YouTube, Regardless of Subscriber Numbers for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-secrets-of-the-turing-test-will-ai-ever-triumph-over-it/"><u>Unveiling the Secrets of the Turing Test – Will AI Ever Triumph Over It?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-selecting-the-ideal-imagery-for-remote-meetings/"><u>[New] 2024 Approved Selecting the Ideal Imagery for Remote Meetings</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-mastering-adobe-illustrator-adding-smooth-motion-blurs/"><u>[New] In 2024, Mastering Adobe Illustrator Adding Smooth Motion Blurs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-premium-podcasters-at-universities-for-2024/"><u>[New] Premium Podcasters at Universities for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unwrapping-ustreams-offerings-and-competitors/"><u>[New] Unwrapping Ustream's Offerings and Competitors</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-best-screen-replayer-for-high-impact-youtubing-experience/"><u>[Updated] Best Screen Replayer for High-Impact YouTubing Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-telegrams-launchpad-for-aspiring-advertisers-a-starters-handbook/"><u>2024 Approved Telegram's Launchpad for Aspiring Advertisers A Starter's Handbook</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/boost-your-farming-skills-with-stardews-top-7-mods-for-2024/"><u>Boost Your Farming Skills with Stardew's Top 7 Mods for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/decoding-xvideotech-review-an-all-encompassing-study-guide/"><u>Decoding XVideoTech Review An All-Encompassing Study Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/delightful-dialogue-love-linguistics/"><u>Delightful Dialogue: Love Linguistics</u></a></li>
+<li><a href="https://win11.techidaily.com/reverting-back-to-original-touch-key-settings-on-windows/"><u>Reverting Back to Original Touch Key Settings on Windows</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/the-secret-to-staying-spotlight-ready-on-tiktok/"><u>The Secret to Staying Spotlight-Ready on TikTok</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-photo-perfection-discover-our-6-best-background-erasers-for-2024/"><u>Ultimate Photo Perfection – Discover Our 6 Best Background Erasers for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-ultimate-vr-experience-the-htc-vive-story-for-2024/"><u>Unveiling the Ultimate VR Experience The HTC Vive Story for 2024</u></a></li>
 </ul></div>
 

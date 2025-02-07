@@ -1,7 +1,7 @@
 ---
 title: Discover Effortless iPhone Circle Searching with This Simple Shortcut
-date: 2025-01-20T21:01:21.379Z
-updated: 2025-01-25T19:33:24.754Z
+date: 2025-01-31T20:22:35.911Z
+updated: 2025-02-07T16:14:33.506Z
 tags:
   - mobile
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Circle to Search cuts through the traditional Google search experience, helping you find what you need in an instant. The feature isn't natively available on iPhones, but there's a workaround that lets you use Google Lens similarly. Here's how.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Is Circle to Search?
@@ -28,7 +28,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Person holding the Google Pixel 8a using Circle to Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/person-holding-the-google-pixel-8a-using-circle-to-search-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
@@ -39,11 +39,19 @@ Justin Duino / How-To Geek
 
  But that doesn't stop geeks from devising workarounds, right? Although Circle to Search isn't officially available on iOS, here's a quick little hack that combines the Back Tap gesture, [Google Lens visual search](https://facebook-clips.techidaily.com/new-music-syncing-for-iphones-and-androids-in-fb/), and the iPhone's Shortcuts app, mimicking how Circle to Search works on Android phones.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Get Circle to Search Functionality on Your iPhone
 
  To set up the workaround, you must have the [Google app on your iPhone](https://ai-video-tools.techidaily.com/updated-2024-approved-ken-burns-effect-tutorial-add-movement-to-your-photos/). If you don't already have it, download it from the App Store. Once you've installed the Google app, it's time to create a shortcut.
 
 ![Screenshot of the Google app for iPhone for App Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-3.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Open the [iPhone's Shortcuts app](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) and hit the "+" plus icon in the top right corner.
 
@@ -53,24 +61,16 @@ Justin Duino / How-To Geek
 
 ![Screenshot of the Add Action button in iPhone's Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-2.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On the following screen, type "take screenshot" in the search bar (at the top) and select the right option.
 
 ![Screenshot of the Take Screenshot button in Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now, tap on the search bar at the bottom and type "Search Image with Lens." This option will not appear unless you've downloaded the Google app. Choose the correct option from the results.
 
 ![Search Image with Lens shortcut for iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  With the selected actions, the shortcut flow should look like the screenshot attached below. Once you're set, tap "Done" in the top right corner.
@@ -120,21 +120,24 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-mastering-the-art-of-editing-an-instagram-guide/"><u>[New] Mastering the Art of Editing An Instagram Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-essence-of-mixed-reality-explored/"><u>[New] The Essence of Mixed Reality Explored</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-secret-to-success-with-filmora-top-10-editing-traits/"><u>[New] The Secret to Success with Filmora Top 10 Editing Traits</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-photo-to-film-adding-melodies-for-emotion/"><u>[Updated] 2024 Approved Photo to Film Adding Melodies for Emotion</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-mastering-the-art-of-autoplay-videos/"><u>[Updated] In 2024, Mastering the Art of Autoplay Videos</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-unveiling-magixs-image-organizer-insights-for-2024/"><u>[Updated] Unveiling MAGIX's Image Organizer Insights for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/applications-of-virtual-reality-for-2024/"><u>Applications of Virtual Reality for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/clear-and-crisp-restoring-iphone-camera-functionality-when-focusing-falters/"><u>Clear and Crisp: Restoring iPhone Camera Functionality When Focusing Falters</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hide-your-identity-share-your-life-instagram-live-secrets/"><u>In 2024, Hide Your Identity, Share Your Life - Instagram Live Secrets</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-the-commercial-viability-of-creative-video-content/"><u>In 2024, The Commercial Viability of Creative Video Content</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tips-for-integrating-supplemental-film-content/"><u>In 2024, Tips for Integrating Supplemental Film Content</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-5-display-choices-for-ps5/"><u>In 2024, Ultimate 5 Display Choices For PS5</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-6-android-apps-for-immersive-music-videos-for-2024/"><u>Top 6 Android Apps for Immersive Music Videos for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/unparalleled-narratives-yt-channels-worth-watching-in-23-for-2024/"><u>Unparalleled Narratives YT Channels Worth Watching in '23 for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-hidden-treasure-troves-of-snapchat-tones-for-2024/"><u>Unveiling the Hidden Treasure Troves of Snapchat Tones for 2024</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/1728467961367-windowsaomei-backupper/"><u>Windows上でAOMEI Backupperでデータ救出:パーティションとボリューム復活法</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-how-to-save-and-archive-google-voice-chats/"><u>[New] In 2024, How to Save and Archive Google Voice Chats</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-navigating-the-world-of-fbx-for-gamers-for-2024/"><u>[New] Navigating the World of FBX for Gamers for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essential-companion-for-advanced-win10-users/"><u>[New] The Essential Companion for Advanced Win10 Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-the-mechanics-of-vlc-media-player-on-macos/"><u>[New] Understanding the Mechanics of VLC Media Player on macOS</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-vivo-t2-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Vivo T2 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-visual-narratives-with-the-leading-frames/"><u>2024 Approved Crafting Visual Narratives with the Leading Frames</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-swiftly-navigate-ios-magnification-features/"><u>2024 Approved Swiftly Navigate iOS Magnification Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-movie-color-correction-through-luts-application/"><u>In 2024, Streamlining Movie Color Correction Through Luts Application</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-realme-gt-neo-5-se-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Realme GT Neo 5 SE to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unboxing-the-essence-of-dji-inspire-2/"><u>In 2024, Unboxing the Essence of DJI Inspire 2</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-top-tiktok-edit-techniques-for-max-impact/"><u>In 2024, Unveiling Top TikTok Edit Techniques for Max Impact</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-motorola-razr-40-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Motorola Razr 40 and Browser | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/quick-fix-for-paused-facebook-livestreams-2023s-tips-and-tricks-for-2024/"><u>Quick Fix for Paused Facebook Livestreams, 2023'S Tips & Tricks for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/reinventing-screens-post-11-windows-dreamscape/"><u>Reinventing Screens: Post-11 Windows Dreamscape</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essentials-of-professional-level-audio-crossfade-for-2024/"><u>The Essentials of Professional-Level Audio Crossfade for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tips-and-tricks-for-professional-audio-in-audacity-for-2024/"><u>Tips and Tricks for Professional Audio in Audacity for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveil-the-ultimate-selection-of-artificial-intelligence-apps-for-mobile-platforms-iphone-and-android/"><u>Unveil the Ultimate Selection of Artificial Intelligence Apps for Mobile Platforms (iPhone & Android)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-best-live-stream-tools-for-gamers-for-2024/"><u>Unveiling Best Live-Stream Tools for Gamers for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/upcoming-feature-pay-with-a-tap-using-third-party-ios-applications/"><u>Upcoming Feature: Pay with a Tap Using Third-Party iOS Applications</u></a></li>
 </ul></div>
 

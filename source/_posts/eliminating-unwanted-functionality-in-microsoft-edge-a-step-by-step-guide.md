@@ -1,7 +1,7 @@
 ---
 title: "Eliminating Unwanted Functionality in Microsoft Edge: A Step-by-Step Guide"
-date: 2025-01-18T20:06:36.578Z
-updated: 2025-01-25T16:30:20.410Z
+date: 2025-02-02T18:59:52.014Z
+updated: 2025-02-07T17:25:53.749Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 ---
 
 ## Eliminating Unwanted Functionality in Microsoft Edge: A Step-by-Step Guide
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -34,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 
 ![Show Feed toggle in the Page Settings window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/show-feed-toggle-in-the-page-settings-window.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Edge also has a quick link section with links to various websites. These links are from companies that pay Microsoft to display them on the Edge home page. If you don’t want to see these links, click the gear icon and turn off the “Show Promoted Links” toggle.
 
 ![Show promoted links toggle in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/show-promoted-links-toggle-in-edge.jpg) 
@@ -48,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 
  After making these changes, you’ll find the Edge home page much less cluttered.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Stop Edge From Running in the Background
 
  Unlike most browsers, Microsoft Edge doesn't completely close when you click the close icon. It continues running in the background, using up system resources. Because of this, you might sometimes notice that Microsoft Edge won't open normally the next time you try.
@@ -60,16 +56,16 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 
 ![Settings option in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/settings-option-in-edge.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the Edge Settings menu, select "System and Performance" from the left sidebar and turn off the "Continue running background extensions and apps when Microsoft Edge is closed" and "Startup Boost" toggles on the right.
 
 ![Startup Boost option in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/startup-boost-option-in-edge.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Change the Look Of Your Edge Browser
@@ -80,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 
 ![System Default option in Edge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/system-default-option-in-edge.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, in the top-left corner of the Edge browser, you will find a square icon called the "Tab Actions Menu" that allows you to manage tabs that are opened in the browser. You can access this menu to switch to [vertical tabs](https://youtube-sure.techidaily.com/n-2024-best-8-youtube-editing-software-for-linux/), look for a particular tab, and do many other tab-related things. However, as a general user, you are rarely going to need to access this menu. Therefore, it's better to disable it.
 
 ![Tab Action menu in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/tab-action-menu-in-edge.jpg) 
@@ -87,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
  To do that, open the Edge Settings menu, select "Appearance," and disable the "Show Tab Actions Menu" toggle on the right. You should also disable the "Show Tab Preview on Hover" toggle, as it shows a [preview of the tabs](https://remote-screen-capture.techidaily.com/the-evolution-of-video-capturing-insights-into-the-latest-apeaksoft-software/) when you hover over them. I really can't find any use case for this feature and I don't think anyone ever actually hovers over a tab to view its content, as the content will be too small to see.
 
 ![Show tab action menu option in Edge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/show-tab-action-menu-option-in-edge.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The next section you should edit in the Edge browser is its toolbar. By default, the Edge toolbar contains a lot of unnecessary options like [Collections](https://twitter-videos.techidaily.com/updated-in-2024-how-to-deafen-silent-tweets-impact/) that you're rarely going to use. It's better to get rid of those options and only keep the necessary ones. I would recommend disabling the toggle for all these options:
 
@@ -106,11 +110,7 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 ![Show Workspaces toggle in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/show-workspaces-toggle-in-edge.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Adjust Edge Web Services
@@ -142,22 +142,18 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-breaking-down-barriers-to-effective-airdrop-on-iosmacos/"><u>[New] 2024 Approved Breaking Down Barriers to Effective AirDrop on iOS/macOS</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-detailed-analysis-life-in-spiral-with-gear-360-cam/"><u>2024 Approved Detailed Analysis Life in Spiral with Gear 360 Cam</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-drone-experience-yuneec-q500/"><u>2024 Approved The Ultimate Drone Experience Yuneec Q500</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-secrets-of-phantoms-time-reversal-mode/"><u>2024 Approved The Ultimate Secrets of Phantom's Time Reversal Mode</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-power-supplies-for-black-gopro-hero5-cameras-authentic-and-imposters/"><u>2024 Approved Top Power Supplies for Black GoPro Hero5 Cameras - Authentic & Imposters</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-guide-to-iphones-video-length-tailoring/"><u>2024 Approved Ultimate Guide to iPhone's Video Length Tailoring</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Oppo A1 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-your-visibility-with-a-cutting-edge-set-of-banners-in-2024/"><u>Boost Your Visibility with a Cutting-Edge Set of Banners, In 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/cambia-webm-ai-tuoi-file-audio-converti-online-in-formati-aac-and-mp3-con-freeconvert/"><u>Cambia Webm Ai Tuoi File Audio: Converti Online in Formati AAC & MP3 Con FreeConvert</u></a></li>
-<li><a href="https://win-able.techidaily.com/efficiently-manage-emails-with-6-tailored-quick-step-solutions-for-ms-outlook-users/"><u>Efficiently Manage Emails with 6 Tailored Quick Step Solutions for MS Outlook Users</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/elevate-your-contents-visibility-with-these-gadgets/"><u>Elevate Your Content's Visibility with These Gadgets</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-review-the-ultimate-guide-to-eufy-t8200-no-subscription-video-doorbells/"><u>Expert Review: The Ultimate Guide to Eufy T8200 No-Subscription Video Doorbells</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-optimizing-your-online-presence-zooming-into-tiktok-videos/"><u>In 2024, Optimizing Your Online Presence Zooming Into TikTok Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-taking-video-action-with-gopro-burst-technology/"><u>In 2024, Taking Video Action with GoPro Burst Technology</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-minecraft-realms-worth-your-time-or-not/"><u>Understanding Minecraft Realms – Worth Your Time or Not?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-apple-m1-a-computing-revolution-in-2024/"><u>Unveiling the Apple M1 A Computing Revolution, In 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-hidden-gems-that-challenge-vlc-for-2024/"><u>Unveiling the Hidden Gems That Challenge VLC for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-mastering-your-videos-top-youtube-friendly-cameras/"><u>[New] Mastering Your Videos Top YouTube-Friendly Cameras</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-5-must-have-video-editing-software-for-macos-sierra/"><u>[New] Top 5 Must-Have Video Editing Software for macOS Sierra</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-iphones-ultimate-live-photography-potential/"><u>[New] Unlocking iPhone's Ultimate Live Photography Potential</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-streamlining-board-collaboration-a-compreenasion-of-using-whiteboards-on-all-zoom-platforms/"><u>[Updated] 2024 Approved Streamlining Board Collaboration - A Compreenasion of Using Whiteboards on All Zoom Platforms</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-essential-guide-sync-your-screen-to-facebook-streams/"><u>[Updated] In 2024, Essential Guide Sync Your Screen to Facebook Streams</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-movavis-enhanced-toolset-examining-plus-edition-2024/"><u>[Updated] Movavi's Enhanced Toolset Examining Plus Edition 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-reality-beyond-boundaries-grasping-the-metaverse-through-6-models/"><u>[Updated] Reality Beyond Boundaries Grasping the Metaverse Through 6 Models</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-uncomplicated-story-framework/"><u>[Updated] Uncomplicated Story Framework</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-oppo-reno-11f-5g-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Oppo Reno 11F 5G.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-static-text-into-dynamic-elements-on-a-budget/"><u>In 2024, Transforming Static Text Into Dynamic Elements on a Budget</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/photographys-top-10-digital-notebooks-for-smartphones/"><u>Photography's Top 10 Digital Notebooks for Smartphones</u></a></li>
 </ul></div>
 

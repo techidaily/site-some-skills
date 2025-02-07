@@ -1,7 +1,7 @@
 ---
 title: "The Appeal of E-Ink Technology in Phones: Exploring My Motivations for Going Digital Paperback"
-date: 2025-01-18T22:37:00.249Z
-updated: 2025-01-25T18:34:00.576Z
+date: 2025-01-31T19:02:07.271Z
+updated: 2025-02-07T17:58:25.974Z
 tags:
   - mobile
 categories:
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/c8e68cffef41fc4061ac722c7019bbd23a7bd7418
 
  E-readers have shown us the appeal of e-ink screens. The Light Phone 2 crammed this eye-friendly display technology into a phone. I want to see this technology come to smartphones. Let me tell you why.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  ​Easier on the Eyes
 
  I have carried around a [Light Phone 2](https://www.thelightphone.com/) for years. I loved the look of that tiny, credit-card sized phone with its minimal e-ink display. After a while, I returned to using a smartphone, but I wish that choice didn't mean having to give up e-ink.
@@ -34,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/c8e68cffef41fc4061ac722c7019bbd23a7bd7418
  Like with using pen and paper, e-ink leaves me more dependent on external light sources. That means I'm more likely to use my phone in a setting with better lighting and put it down when the lighting isn't cooperating.
 
  I know, not using your device in the dark sounds downright primitive at this point. That's why e-ink devices come with front-lighting. This makes the screen glow, but the light comes from the sides of the screen rather than behind. It shines down onto the text you're reading, rather than out toward your face.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  E-Ink Helps Form Healthier Habits
 
@@ -49,16 +49,12 @@ thumbnail: https://thmb.techidaily.com/c8e68cffef41fc4061ac722c7019bbd23a7bd7418
 
  This might sound like an e-ink phone would be unusable, but rather it just means you would have to use it differently.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Less Streaming, More Reading
 
 ![reading on the onyx boox palma](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/reading-on-the-onyx-boox-palma_53279899430_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
@@ -69,13 +65,13 @@ Sergio Rodriguez / How-To Geek
 
  I love the idea of a portable eReader that can be used to place calls, send texts, and draft email. It's good for the stuff I find most important about using a phone and discourages many of the things I consider distractions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  A Less-Distracting Interface
 
 ![Boox Tab Ultra C being held in a hand showing its home screen icons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/C183E45A-A48E-4841-968E-DF39B15CD066.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  \- _Tyler Hayes / HowToGeek_
 
@@ -90,7 +86,7 @@ Sergio Rodriguez / How-To Geek
 ![Boox Tab Ultra C Pro with annotations on the screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/boox-tab-ultra-c-pro.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -102,6 +98,10 @@ Jerome Thomas / How-To Geek
  A foldable e-ink phone would take this to the next level, but I wouldn't complain about seeing an e-ink version of a slab like the Galaxy S Ultra. That would be a delight to write on, too.
 
  You wouldn't be limited to writing, either. Color e-ink is an established technology at this point, one making advancements each year. If working on an iPad feels like using markers, drawing with e-ink feels like bringing out the color pencils. I'm not saving one is better than the other. Both have their place, and it's great to have the option. We do have this choice when it comes to tablets (shout out to the [Boox Tab Ultra C](https://extra-tips.techidaily.com/chucklecraft-suite-for-2024/) and similar slates), but it would be great to see this come to phones.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Get More Life Out of Our Batteries
 
@@ -126,22 +126,24 @@ Jerome Thomas / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-affiliate-allies-for-small-channels-an-easy-approach/"><u>[New] In 2024, Affiliate Allies for Small Channels An Easy Approach</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-synthizing-screenshots-and-slides-seamlessly/"><u>[New] Synthizing Screenshots & Slides Seamlessly</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-complete-guide-to-scheduling-and-recording-online-meetings-with-slack-and-filmora/"><u>[Updated] 2024 Approved The Complete Guide to Scheduling & Recording Online Meetings with Slack & Filmora</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-slide-show-tools-for-iphone-series-10-13-upgrades/"><u>[Updated] Ideal Slide Show Tools For iPhone Series 10-13 Upgrades</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-best-ios-psp-emulators-our-top-5-selections/"><u>[Updated] In 2024, Best iOS PSP Emulators Our Top 5 Selections</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-tools-and-techniques-for-adding-frames-to-images-online/"><u>[Updated] Top Tools & Techniques for Adding Frames to Images Online</u></a></li>
-<li><a href="https://win-top.techidaily.com/1-essential-guide-to-restoring-files-mastering-crucial-ssd-data-recovery-techniques/"><u>1. Essential Guide to Restoring Files: Mastering Crucial SSD Data Recovery Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-seamless-blend-enhancing-your-ae-projects-with-luts/"><u>2024 Approved The Seamless Blend Enhancing Your AE Projects with LUTs</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comparative-analysis-tp-link-archer-ax6000-vs-nighthawk-ax12-which-delivers-superior-wifi-performance/"><u>Comparative Analysis: TP-Link Archer AX6000 Vs. Nighthawk AX12 - Which Delivers Superior WiFi Performance?</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-13-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 13 to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-picture-shading-with-adobe-tools/"><u>In 2024, Streamlining Picture Shading with Adobe Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-social-media-success-a-comprehensive-10-step-plan/"><u>In 2024, Unlock Social Media Success A Comprehensive 10-Step Plan</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-video-sharing-showdown-deciding-between-vimeo-youtube-and-dailymotion/"><u>In 2024, Video Sharing Showdown Deciding Between Vimeo, YouTube & DailyMotion</u></a></li>
-<li><a href="https://some-skills.techidaily.com/list-of-different-video-camera-types-for-2024/"><u>List of Different Video Camera Types for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/superior-mkv-reader-laptoptablet-edition-for-2024/"><u>Superior MKV Reader (Laptop/Tablet Edition) for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/the-zoom-recorders-handbook-from-basics-to-expertise-for-2024/"><u>The Zoom Recorder's Handbook From Basics to Expertise for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-your-footage-with-pro-tips-for-gopro-time-lapses-for-2024/"><u>Transform Your Footage with Pro Tips for GoPro Time Lapses for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-20plus-speedy-controls-mastering-your-pcs-fps/"><u>[New] Top 20+ Speedy Controls Mastering Your PC's FPS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-2024-vista-into-vivacuts-video-editing-world/"><u>[Updated] The Ultimate 2024 Vista Into VivaCut's Video Editing World</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-ultra-clear-video-in-zoom-meetings/"><u>[Updated] Unlocking Ultra-Clear Video in Zoom Meetings</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-warranty-and-lifespan-higher-quality-led-systems-may-come-with-a-higher-upfront-price-but-can-offer-longer-lifespans-and-better-performance-wh/"><u>2024 Approved __Warranty and Lifespan Higher Quality LED Systems May Come with a Higher Upfront Price but Can Offer Longer Lifespans and Better Performance, Which Should Be Considered in the Overall Cost Evaluation.</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-secrets-of-getting-up-close-in-roblox-environments/"><u>2024 Approved The Secrets of Getting Up Close in Roblox Environments</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tips-and-tricks-for-effortless-finding-exceptional-pexel-images/"><u>2024 Approved Tips and Tricks for Effortless Finding Exceptional Pexel Images</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/best-high-definition-complete-games-of-the-2018-mlb-yankees-season-top-10-downloads-for-fans/"><u>Best High-Definition Complete Games of the 2018 MLB Yankees Season: Top 10 Downloads for Fans</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ing-a-customized-soundscape-youtube-playlist-building-on-the-internetapps/"><u>Crafting a Customized Soundscape YouTube Playlist Building on the Internet/Apps</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/discover-asus-groundbreaking-rog-nuc-the-first-gaming-desktop-with-up-to-intel-core-i9-and-nvidia-rtx-4070-available-starting-at-1629/"><u>Discover Asus' Groundbreaking ROG NUC: The First Gaming Desktop with Up to Intel Core I9 & NVIDIA RTX 4070 - Available Starting at $1,629</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-tecno-pop-7-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-resolve-microsoft-database-file-missing-dll-msstdfmtdll-issues/"><u>How To Resolve Microsoft Database File - Missing DLL (Msstdfmt.dll) Issues</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-navigating-the-world-of-cost-free-graphic-designs/"><u>In 2024, Navigating the World of Cost-Free Graphic Designs</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-oneplus-ace-2v-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to OnePlus Ace 2V FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-8-gold-text-wonders-in-the-vast-world-of-3d-sites/"><u>In 2024, Top 8 Gold-Text Wonders in the Vast World of 3D Sites</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/next-level-number-crunching-top-7-ai-applications-for-effortless-mathematics/"><u>Next-Level Number Crunching: Top 7 AI Applications for Effortless Mathematics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-power-of-asmr-discovering-its-advantages-for-2024/"><u>The Power of ASMR Discovering Its Advantages for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-meme-design-collection-for-2024/"><u>The Ultimate Meme Design Collection for 2024</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-nokia-c12-plus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Nokia C12 Plus Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

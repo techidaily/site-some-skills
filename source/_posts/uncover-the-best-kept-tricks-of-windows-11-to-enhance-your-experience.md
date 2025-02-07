@@ -1,7 +1,7 @@
 ---
 title: Uncover the Best-Kept Tricks of Windows 11 to Enhance Your Experience
-date: 2025-01-22T21:44:33.091Z
-updated: 2025-01-25T19:38:10.186Z
+date: 2025-02-05T18:20:41.849Z
+updated: 2025-02-07T17:18:51.392Z
 tags:
   - deals
 categories:
@@ -42,10 +42,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Activity history settings on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-activity-history.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This setting tracks the websites you browse and the apps you use on your system. Use the toggle button to turn it off. Then click the "Clear History" button to delete previously collected activity history.
 
 ![The option to turn off activity history on Windows being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/turn-off-activity-history-on-windows-1.png) 
@@ -74,11 +70,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Windows Live Captions feature generating captions for a YouTube video](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-live-captions-feature.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can play around the settings of the caption box to suit your preferences.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Voice Typing Anywhere
 
@@ -90,10 +86,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Voice Access on Windows turned on](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/voice-access-on-windows.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You'll be guided through a tutorial on using Voice Access. You can say different commands to perform actions or type using your voice when the mouse cursor is active on a typing box. Try using it on the Notepad.
 
 ##  Focus Sessions
@@ -102,25 +94,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Different system settings on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/different-system-settings-on-windows.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Set a duration for your session and select or deselect any of the options depending on your preferences. Then press the "Start Focus Session" button.
 
 ![Windows Focus Sessions settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-focus-sessions-1.png) 
 
- Once you start a session, you'll see a new window with a clock, timer, task list, and other options. You can also integrate Spotify with Focus Sessions.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Once you start a session, you'll see a new window with a clock, timer, task list, and other options. You can also integrate Spotify with Focus Sessions.
 
 ##  End Tasks From the Task Bar
 
  Anytime an app freezes on Windows, the most common way to end that running task is to use the Task Manager. But Windows 11 lets you end it from the task bar. You need to enable the option first. Go to Settings > System > For Developers.
 
 ![Various Windows system settigns being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-for-developers-settigns.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Turn on "End Task."
 
@@ -131,7 +123,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Ending a task from the taskbar on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ending-task-from-the-taskbar-on-windows.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Minimize Windows by Shaking
@@ -141,7 +133,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Different Windows System settings being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-multitasking-settings.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Turn on the "Title Bar Windows Shake" option.
@@ -151,7 +143,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Be cautious though, because sometimes this can become a problem when you're just trying to move a window, but it's registered as a shake.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Scrolling Over the Volume Icon to Change the Volume
@@ -159,10 +151,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  A lot of apps and software already have this feature, so Windows might be a little late for the party. But yes, now you can simply go to the volume option on the taskbar and scroll your mouse wheel to increase or decrease the volume. If you use your touchpad quite often, this should be even more useful. You don't need to hold the scroll bar and drag it.
 
 ![Scrolling to change volume on Windows-anim](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/scroll-to-change-volume-on-windows-anim.gif) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Instant Photo Transfer From Android
 
@@ -172,9 +160,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The option to turn on the Get new photo notifications setting being displyaed on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/7-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After that, take a photo or screenshot on your Android device while connected to the PC. You should see a notification on your Windows PC.
 
 ![A notification being displayed on Windows 11 after taking a photo on Android](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/android-photo-notification-on-windows-11-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can tap the notification to open the photo on the Snipping Tool and start editing. This also works if you're on mobile data on your Android. Check out the full tutorial on [instantly transferring your Android photos to your Windows PC](https://video-capture.techidaily.com/new-in-2024-unveiling-the-secrets-of-live-broadcasting-on-instagram-through-obs/).
 
@@ -184,10 +180,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Windows Start button hidden shortcuts being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-start-button-hidden-shortcuts.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  One advantage of pressing Windows+X instead of right-clicking the Start button is that you'll notice all the options in the menu have an underlined letter. Pressing that underlined letter on your keyboard will open that option. For example, if you press Windows+X and then T, it will open the [Task Manager](https://some-skills.techidaily.com/new-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/). No need to touch the mouse.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  OCR in the Snipping Tool
@@ -225,24 +225,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-superior-online-emporiums-where-boxes-reflect-your-style/"><u>[New] Superior Online Emporiums Where Boxes Reflect Your Style</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-complete-guide-to-gopro-hero5/"><u>[Updated] 2024 Approved The Complete Guide to GoPro Hero5</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitter-mastery-adding-visuals-to-your-tweet/"><u>[Updated] In 2024, Twitter Mastery Adding Visuals to Your Tweet</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-synthesizing-sound-and-slides-incorporating-melodies-in-ppt/"><u>[Updated] Synthesizing Sound and Slides Incorporating Melodies in PPT</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-heart-of-video-editing-filmoras-favorites/"><u>[Updated] The Heart of Video Editing Filmora's Favorites</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiled-the-premier-places-to-obtain-snapchat-audio/"><u>[Updated] Unveiled The Premier Places to Obtain Snapchat Audio</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-syncing-social-media-zoom-and-facebook-live-interactions/"><u>2024 Approved Syncing Social Media Zoom and Facebook Live Interactions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-great-digital-debate-meta-vs-omni/"><u>2024 Approved The Great Digital Debate Meta Vs. Omni</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-premier-intro-list-for-panzoids/"><u>2024 Approved The Premier Intro List for Panzoids</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-7-steps-for-stellar-cooking-films/"><u>2024 Approved The Ultimate Guide 7 Steps for Stellar Cooking Films</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ng-edge-techniques-for-excellent-sound-no-mic-included-for-2024/"><u>Cutting-Edge Techniques for Excellent Sound, No Mic Included for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Will iSpoofer update On Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-zooming-into-clarity-a-blueprint-for-crisp-screenshots/"><u>In 2024, Zooming Into Clarity A Blueprint for Crisp Screenshots</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/install-macos-monterey-beta-sequoia-on-your-mac-now-the-complete-tutorial-by-zdnet-experts/"><u>Install macOS Monterey Beta (Sequoia) on Your Mac Now: The Complete Tutorial by ZDNet Experts</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/los-top-12-reproductores-y-grabadores-de-video-4k-sin-coste-para-computadora-o-mac/"><u>Los Top 12 Reproductores Y Grabadores De Video 4K Sin Coste Para Computadora O Mac</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-problems-active-status-of-your-win11-license/"><u>Solving Problems: Active Status of Your Win11 License</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-potential-your-guide-to-effective-improvements-for-2024/"><u>Unlocking Potential Your Guide to Effective Improvements for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-restarting-saga-ends-here-your-ultimate-guide-to-fix-auto-repair-loop/"><u>Windows 10 Restarting Saga Ends Here: Your Ultimate Guide to Fix Auto Repair Loop</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/xbox-one-s-ssdhdd/"><u>Xbox One S 内置 SSD/HDD 容量扩增无需支付</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-superior-screenplays-distributed-among-classified-types/"><u>[New] Superior Screenplays Distributed Among Classified Types</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-techniques-to-reduce-nausea-while-in-vr/"><u>[New] Techniques to Reduce Nausea While In VR</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-seamless-tutorial-for-image-background-cleanup-on-canva/"><u>[New] The Seamless Tutorial for Image Background Cleanup on Canva</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-mastering-social-media-marketing-essential-24-trend-alerts/"><u>[Updated] In 2024, Mastering Social Media Marketing Essential '24 Trend Alerts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-taking-your-photos-to-new-heights-mastering-ios-11s-features/"><u>[Updated] Taking Your Photos to New Heights Mastering iOS 11'S Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-blending-audio-with-video-in-premiere-pro/"><u>[Updated] The Art of Blending Audio with Video in Premiere Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-compendium-of-vr-glove-technology/"><u>[Updated] The Ultimate Compendium of VR Glove Technology</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tailoring-your-presents-10-leading-e-commerce-platforms-unveiled/"><u>2024 Approved Tailoring Your Presents 10 Leading E-Commerce Platforms Unveiled</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-future-without-vlc-media-player-insights/"><u>2024 Approved The Future Without VLC - Media Player Insights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-the-potential-of-vr-video-on-your-iphone/"><u>2024 Approved Unlock the Potential of VR Video on Your iPhone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-ban-by-italy-an-immediate-explancion/"><u>ChatGPT Ban by Italy: An Immediate Explanción</u></a></li>
+<li><a href="https://win-able.techidaily.com/common-launch-errors-in-farming-simulator-22-and-how-to-correct-them/"><u>Common Launch Errors in Farming Simulator 22 and How to Correct Them</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-vivo-x100-by-fonelab-android-recover-data/"><u>How to recover lost data from Vivo X100?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/improve-graphics-and-stability-new-nvidia-geforce-210-drivers-released-for-windows-11/"><u>Improve Graphics and Stability: New NVIDIA GeForce 210 Drivers Released for Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-safe-use-of-deep-learning-algos/"><u>Mastering Safe Use of Deep Learning Algos</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-challenge-of-an-unopening-geforce-experience-interface-a-complete-walkthrough/"><u>Overcoming the Challenge of an Unopening GeForce Experience Interface - A Complete Walkthrough</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleashing-creativity-in-ar-a-comprehensive-guide-to-lut-tools-for-2024/"><u>Unleashing Creativity in AR A Comprehensive Guide to LUT Tools for 2024</u></a></li>
 </ul></div>
 

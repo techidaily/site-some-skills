@@ -1,7 +1,7 @@
 ---
 title: "[New] Transition Techniques for Flawless Inshot Videos"
-date: 2024-08-21T00:43:04.968Z
-updated: 2024-08-22T00:43:04.968Z
+date: 2025-02-06T17:38:06.105Z
+updated: 2025-02-07T16:29:22.169Z
 tags: 
   - screen-recording
   - ai video
@@ -28,6 +28,10 @@ As an all-in-one visual content editing app, InShot video editor can be relied u
 
 02 [How to Add Transitions on InShot App (iPhone)](#part2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Do Transitions on InShot?App (Android Phone)
 
 With the pandemic at hand, meeting people became utterly impossible. The critical events such as ceremonies, birthdays, and other gatherings shifted to mobile calls and videos. People mostly used video editors to send videos and photos clipped together in one comprehensive video.
@@ -53,24 +57,19 @@ For starters, launch InShot from your Android phone. Choose the desired pictures
 ![select video option](https://images.wondershare.com/filmora/article-images/2021/add-transitions-on-inshot-app-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 2: Opening the Transition tab
 
 To launch the "Transition," tab hit a small icon on the timeline. After the choice is made, tap on the "Tick" mark located on the right side of the interface. Now, slide the timeline up to the frame where different videos meet.
 
 ![open transition feature](https://images.wondershare.com/filmora/article-images/2021/add-transitions-on-inshot-app-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 3: Desired Transition and Time
 
 InShot provides the user with "Basic" transitions that are used for minimalistic video events. The "Light" and "Glitch" transitions are used to give the video a classy look. Choose the desired transition and decide the time for each transition by using the sliding bar on the interface. Press the "Tick" button to apply the InShot transition.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![apply your desired transition](https://images.wondershare.com/filmora/article-images/2021/add-transitions-on-inshot-app-3.jpg)
 
 ## Part 2: How to Add Transitions on InShot App (iPhone)
@@ -89,58 +88,32 @@ As far as the sharing status is concerned, a high video resolution is ensured. Y
 
 InShot app is compatible with iPhone 11 or later, iPad 11 or later, Mac 11 or later, and M1 Chip. If you want to know how to add transitions in InShot?through an iPhone device, follow the procedure below vividly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Step 1: Launch InShot App
 
 To initiate the process, launch InShot from your iPhone. The interface pops up in a couple of seconds. Choose "Video" from the menu options.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![click on video option](https://images.wondershare.com/filmora/article-images/2021/add-transitions-on-inshot-app-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 2: Choosing the Targeted Video
 
 Pick the targeted videos that you want to incorporate in the video with transitions. Tap on green tick afterward.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![import your videos](https://images.wondershare.com/filmora/article-images/2021/add-transitions-on-inshot-app-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 3: Picking the Transition
 
 Moving on, the user is expected to slide the timeline up to the frame where different videos meet. Touch the small icon to launch the menu of "Transitions." The choice for different transitions appears such as Basic, Dissolve, Super, Glitch, Slice, and Light. The Basic transitions are available free, while others are only available in Pro.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![select the desired transition](https://images.wondershare.com/filmora/article-images/2021/add-transitions-on-inshot-app-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 4: Saving Process
 
 After the effect is picked, choose the time of the transition by sliding it accordingly. Hit tick sign after that. The user can save the video afterward.
@@ -166,8 +139,9 @@ Detailed tutorials provided by the official channel
 02 [How to Add Transitions on InShot App (iPhone)](#part2)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: How to Do Transitions on InShot?App (Android Phone)
 
 With the pandemic at hand, meeting people became utterly impossible. The critical events such as ceremonies, birthdays, and other gatherings shifted to mobile calls and videos. People mostly used video editors to send videos and photos clipped together in one comprehensive video.
@@ -186,39 +160,26 @@ While we are on the subject of multiple features presented by InShot, it is vita
 
 Follow the extensive guidelines below to use the InShot video editor?and know how to add transitions on InShot.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 1: Launching the Interface
 
 For starters, launch InShot from your Android phone. Choose the desired pictures and videos that you want to make a part in the video. Tap on the "Video" and hit "New Project" to start making a new output video from the interface that appears.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![select video option](https://images.wondershare.com/filmora/article-images/2021/add-transitions-on-inshot-app-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 2: Opening the Transition tab
 
 To launch the "Transition," tab hit a small icon on the timeline. After the choice is made, tap on the "Tick" mark located on the right side of the interface. Now, slide the timeline up to the frame where different videos meet.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open transition feature](https://images.wondershare.com/filmora/article-images/2021/add-transitions-on-inshot-app-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 3: Desired Transition and Time
 
 InShot provides the user with "Basic" transitions that are used for minimalistic video events. The "Light" and "Glitch" transitions are used to give the video a classy look. Choose the desired transition and decide the time for each transition by using the sliding bar on the interface. Press the "Tick" button to apply the InShot transition.
@@ -241,26 +202,35 @@ As far as the sharing status is concerned, a high video resolution is ensured. Y
 
 InShot app is compatible with iPhone 11 or later, iPad 11 or later, Mac 11 or later, and M1 Chip. If you want to know how to add transitions in InShot?through an iPhone device, follow the procedure below vividly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 1: Launch InShot App
 
 To initiate the process, launch InShot from your iPhone. The interface pops up in a couple of seconds. Choose "Video" from the menu options.
 
 ![click on video option](https://images.wondershare.com/filmora/article-images/2021/add-transitions-on-inshot-app-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### Step 2: Choosing the Targeted Video
 
 Pick the targeted videos that you want to incorporate in the video with transitions. Tap on green tick afterward.
 
 ![import your videos](https://images.wondershare.com/filmora/article-images/2021/add-transitions-on-inshot-app-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 3: Picking the Transition
 
 Moving on, the user is expected to slide the timeline up to the frame where different videos meet. Touch the small icon to launch the menu of "Transitions." The choice for different transitions appears such as Basic, Dissolve, Super, Glitch, Slice, and Light. The Basic transitions are available free, while others are only available in Pro.
 
 ![select the desired transition](https://images.wondershare.com/filmora/article-images/2021/add-transitions-on-inshot-app-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 4: Saving Process
 
@@ -284,7 +254,6 @@ Detailed tutorials provided by the official channel
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -307,8 +276,26 @@ Detailed tutorials provided by the official channel
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-empowerment-in-film-a-selection-of-inspiring-titles/"><u>[New] 2024 Approved Empowerment in Film A Selection of Inspiring Titles</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-navigate-through-creating-stellar-educational-video-content-for-online-platforms/"><u>[Updated] 2024 Approved Navigate Through Creating Stellar Educational Video Content for Online Platforms</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-client-reviews-the-heart-of-modern-marketing-strategies/"><u>[Updated] Client Reviews The Heart of Modern Marketing Strategies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovative-image-integration-software-for-visual-enthusiasts/"><u>[Updated] Innovative Image Integration Software for Visual Enthusiasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-strategies-to-keep-windows-11-photos-app-running-smoothly/"><u>[Updated] Strategies to Keep Windows 11 Photos App Running Smoothly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-strategies-for-effortless-audio-merging-in-adobe-premiere/"><u>2024 Approved Strategies for Effortless Audio Merging in Adobe Premiere</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unearthing-the-potential-in-magixs-image-sorter/"><u>2024 Approved Unearthing the Potential in MAGIX's Image Sorter</u></a></li>
+<li><a href="https://win-web.techidaily.com/freeware-de-copia-di-avanti-per-disco-usb-externo-con-compatibilidad-para-windows-11-guia-completa/"><u>Freeware De Copia Di Avanti per Disco USB Externo Con Compatibilidad Para Windows 11 - Guía Completa</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-determine-output-impedance-in-amplifiers-and-devices/"><u>How to Determine Output Impedance in Amplifiers and Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-ideas-into-reality-get-movie-maker-for-w11-users/"><u>In 2024, Transform Ideas Into Reality Get Movie Maker for W11 Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamlining-avi-to-gif-transitions-on-pcmac-via-filmora-pro-for-2024/"><u>Streamlining AVI to GIF Transitions on PC/Mac via Filmora Pro for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/techs-choice-best-online-screen-capturing-tools/"><u>Tech's Choice Best Online Screen Capturing Tools</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-all-in-one-garmin-vivomove-hr-smartwatch-style-meets-fitness-tracking-excellence/"><u>The All-in-One Garmin Vivomove HR Smartwatch – Style Meets Fitness Tracking Excellence</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-selecting-the-ideal-livestream-service-for-2024/"><u>The Art of Selecting the Ideal Livestream Service for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-nikon-j5s-4k-capability-for-2024/"><u>The Ultimate Guide to Nikon J5's 4K Capability for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-live-broadcast-tech-for-industry-experts-for-2024/"><u>Top Live Broadcast Tech for Industry Experts for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-lost-reddit-content-instant-access-techniques-for-2024/"><u>Unveiling Lost Reddit Content Instant Access Techniques for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-truth-behind-customer-service-at-apple-stores-an-eye-opening-account-featured-in-zdnet/"><u>Unveiling the Truth Behind Customer Service at Apple Stores – An Eye-Opening Account Featured in ZDNet</u></a></li>
+</ul></div>
 

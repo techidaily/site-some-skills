@@ -1,7 +1,7 @@
 ---
 title: "Boosting Linux Protection: 6 Essential Strategies for Secure Computing"
-date: 2025-01-22T21:22:51.841Z
-updated: 2025-01-25T19:40:52.427Z
+date: 2025-02-04T17:52:29.783Z
+updated: 2025-02-07T19:30:05.228Z
 tags:
   - desktop
 categories:
@@ -22,7 +22,7 @@ Cybersecurity can be confusing. Here are six easy things you can do, and habits 
  Some of these are settings you can apply, but some of them are habits you need to adopt, or actions that need to be repeated periodically. As you’ve likely heard, cybersecurity isn’t a destination, it’s an ongoing journey.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1  Keep Your System Updated 
@@ -39,12 +39,16 @@ Cybersecurity can be confusing. Here are six easy things you can do, and habits 
 
  Some of these devices will get automatic updates. For example, Amazon Echo and Google Nest smart speakers receive automatic updates for four and five years from purchase, respectively.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2  Secure User Accounts 
 
 ![The login screen on a laptop running Ubuntu Linux.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/52848723811_08b4c56473_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek  
@@ -58,7 +62,7 @@ Hannah Stryker / How-To Geek
  You can add two-factor authentication to your own computers too. this is especially valuable if you connect to them remotely, using SSH.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3  Control User Access 
@@ -73,10 +77,6 @@ Hannah Stryker / How-To Geek
 
  Many modern Wi-Fi routers allow you to configure a [guest Wi-Fi network](https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-itel-p55-by-drfone-android/). This allows them to get to the internet, but isolates them from your main network.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5  Check Your Software Management 
 
  You should only ever install software from trusted sources such as your Linux distribution’s official repositories, a project’s official website, or from their official Git repositories.
@@ -88,7 +88,7 @@ Hannah Stryker / How-To Geek
  If you download an application and find it doesn’t suit your needs, uninstall it. Don’t just leave it on your machine. If a project is abandoned, and no longer in development, find a replacement. Using an old version of software that no longer receives security patches increases your exposure to risks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6  Make Backups and Stay Educated 
@@ -118,20 +118,16 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-crafting-engaging-podcast-summaries-techniques-and-examples/"><u>[New] Crafting Engaging Podcast Summaries Techniques & Examples</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-science-behind-sharing-memes-unveiled/"><u>[New] The Science Behind Sharing Memes Unveiled</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-8-top-collaborative-video-collage-tools-on-android-affordable/"><u>[New] The Ultimate 8 Top Collaborative Video Collage Tools on Android (Affordable)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-the-top-rated-srt-translators-for-zero-cost/"><u>[New] Unveiling the Top-Rated SRT Translators for Zero Cost</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-accelerate-engagement-the-best-12-ways-to-increase-video-popularity-for-2024/"><u>[Updated] Accelerate Engagement - The Best 12 Ways to Increase Video Popularity for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-streamlining-the-demo-process-in-adobe-captivate-for-2024/"><u>[Updated] Streamlining the Demo Process in Adobe Captivate for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-6-creative-editors-on-the-latest-macos-big-sur/"><u>2024 Approved Top 6 Creative Editors on the Latest macOS Big Sur</u></a></li>
-<li><a href="https://driver-error.techidaily.com/direct-fix-overcoming-mtp-device-failures/"><u>Direct Fix: Overcoming MTP Device Failures</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/fix-your-faded-memories-with-these-free-photo-recovery-applications/"><u>Fix Your Faded Memories with These Free Photo Recovery Applications</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-oppo-find-n3-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Oppo Find N3 FRP In 3 Different Ways</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-recording-titans-duel/"><u>In 2024, Recording Titans Duel</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-the-power-of-voice-ms-words-speech-recognition-features/"><u>In 2024, Unleashing the Power of Voice MS Word's Speech Recognition Features</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-thawing-out-a-locked-windows-10-system/"><u>Step-by-Step Tutorial: Thawing Out A Locked Windows 10 System</u></a></li>
-<li><a href="https://some-skills.techidaily.com/streamline-your-journey-to-zoom-mastery-for-2024/"><u>Streamline Your Journey to Zoom Mastery for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-picks-in-affordable-home-cinema-setups-with-4k-for-2024/"><u>Top Picks in Affordable Home Cinema Setups with 4K for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlining-conferencing-using-zoom-to-extend-skype-capabilities/"><u>[New] Streamlining Conferencing Using Zoom to Extend Skype Capabilities</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-harvesting-hits-and-heads-how-to-profit-from-your-youtube-presence-without-ads/"><u>[Updated] Harvesting Hits and Heads How to Profit From Your YouTube Presence Without Ads</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-asus-rog-phone-8-pro-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Asus ROG Phone 8 Pro without App | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/cultivate-inner-peace-and-physical-strength-with-these-channels-for-2024/"><u>Cultivate Inner Peace & Physical Strength with These Channels for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-xs-max-by-restoring-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone XS Max by restoring</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-expert-recommendations-the-best-handhited-hd-players/"><u>In 2024, Expert Recommendations The Best Handhited HD Players</u></a></li>
+<li><a href="https://some-skills.techidaily.com/iphone-nightscape-techniques-unlocked-for-2024/"><u>IPhone Nightscape Techniques Unlocked for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/iphone-x876-owners-must-have-gif-apps-guide-for-2024/"><u>IPhone X/8/7/6 Owners' Must-Have GIF Apps Guide for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/lens-and-light-essential-camera-movements-every-novice-needs-for-2024/"><u>Lens & Light Essential Camera Movements Every Novice Needs for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essence-of-scripting-for-film-for-2024/"><u>The Essence of Scripting for Film for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-new-era-of-community-management-unveiled-by-facebook/"><u>The New Era of Community Management Unveiled by Facebook</u></a></li>
 </ul></div>
 

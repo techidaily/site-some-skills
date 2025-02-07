@@ -1,7 +1,7 @@
 ---
 title: "Navigating Numbers: The Limitations of Using ChatGPT for Mathematical Tasks"
-date: 2025-01-05T02:19:22.693Z
-updated: 2025-01-07T06:09:29.356Z
+date: 2025-02-01T16:48:00.936Z
+updated: 2025-02-07T17:39:58.212Z
 tags:
   - cutting-edge
 categories:
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/dccea8e74312ef3978115e47791b42d8d3af59dde
 
 Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.techidaily.com/new-capture-clarity-editing-insights-for-professional-results/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  ChatGPT Can't Count
 
  ChatGPT and Bing don't seem reliable for counting lists of items. It seems like a basic task---but don't rely on getting a trustworthy answer.
@@ -43,7 +47,7 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 ![ChatGPT 3.5 failing at counting a list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-count-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Even when you correct ChatGPT and it apologizes and offers up a new answer, you won't necessarily get a correct answer.
@@ -54,13 +58,13 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 
 ![ChatGPT repeatedly failing to count.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-count-2.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  We tried GPT 4 via Microsoft's Bing Chat and experienced a similar problem. Bing decided to write some Python code to solve this tricky problem, but it also failed to get the right answer. (Bing didn't actually run the code.)
 
 ![Bing Chat failing to count.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/bing-count.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  ChatGPT Struggles With Math Logic Problems
 
@@ -84,28 +88,24 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 
 ![ChatGPT acknowledging the answer was wrong but arguing about it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-fruit-4.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  For the record, Microsoft's Bing Chat based on GPT 4 struggled with this problem as well, giving us a clearly incorrect answer. GPT 4's logic quickly goes off the rails here, too.
 
 ![Bing Chat giving a confused response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-fruit.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We recommend not attempting to follow every twist and turn of logic---it's clear that the answer is incorrect.
 
 ![Bing Chat giving a confused response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-fruit.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When we pointed out Bing's answer was incorrect, it kept arguing with us in circles, offering wrong answer after wrong answer.
 
 ![Bing Chat giving a confused response.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-fruit.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  ChatGPT Can't Reliably Do Arithmetic, Either
@@ -131,22 +131,21 @@ Related: [Bing Chat: How to Use the AI Chatbot](https://facebook-video-recording
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-unleashing-the-full-potential-of-your-phone-into-vr-realm/"><u>[New] Unleashing the Full Potential of Your Phone Into VR Realm</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-best-drone-buys-the-top-5-pro-picks/"><u>[Updated] Best Drone Buys - The Top 5 Pro Picks</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-crafting-visual-narratives-effective-titling/"><u>[Updated] In 2024, Crafting Visual Narratives Effective Titling</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-essential-checklist-purging-backdrops-with-affinity-photo/"><u>[Updated] The Essential Checklist Purging Backdrops with Affinity Photo</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-top-5-affordable-drones-under-500/"><u>[Updated] Top 5 Affordable Drones Under $500</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-master-the-art-of-livestreaming-three-key-approaches-subscriber-less-style/"><u>2024 Approved Master the Art of Livestreaming Three Key Approaches, Subscriber-Less Style</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-d500-experience-achieving-excellence-with-4k-hd/"><u>2024 Approved The D500 Experience Achieving Excellence with 4K HD</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-zero-price-screen-capture-software-for-windows-10-users/"><u>2024 Approved Top 5 Zero Price Screen Capture Software for Windows 10 Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-the-secrets-of-srt-editing-on-a-mac/"><u>2024 Approved Unlocking the Secrets of SRT Editing on a Mac</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-pics-windows-11s-fast-photo-viewer/"><u>In 2024, Quick Pics Windows 11'S Fast Photo Viewer</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-best-ways-to-watch-360-videos-on-android/"><u>In 2024, Unveiling the Best Ways to Watch 360 Videos on Android</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ltimate-youtube-financial-framework-for-content-creators/"><u>The Ultimate YouTube Financial Framework for Content Creators</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/transform-your-games-into-a-live-stream-spectacle-for-2024/"><u>Transform Your Games Into a Live Stream Spectacle for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/trasforma-i-tuoi-gif-in-3gp-rapidamente-e-gratis-lefficiente-metodo-online-di-movavi/"><u>Trasforma I Tuoi GIF in 3GP Rapidamente E Gratis: L'Efficiente Metodo Online Di Movavi</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-secrets-of-video-filter-application-techniques-for-2024/"><u>Unveiling the Secrets of Video Filter Application Techniques for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-streamline-your-videos-10-top-rated-free-online-video-trimmers/"><u>Updated In 2024, Streamline Your Videos 10 Top-Rated Free Online Video Trimmers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/vanguard-designs-evaluation-studio-25-examined-current-year-for-2024/"><u>Vanguard Designs Evaluation Studio 25 Examined, Current Year for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-essential-online-capture-for-tech-enthusiasts-for-2024/"><u>[New] Essential Online Capture for Tech Enthusiasts for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-flipping-frames-innovative-techniques-for-backward-viewing-on-yt/"><u>[Updated] In 2024, Flipping Frames Innovative Techniques for Backward Viewing on YT</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-navigate-motion-sickness-in-virtual-reality-with-ease/"><u>[Updated] Navigate Motion Sickness in Virtual Reality with Ease</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-insiders-guide-to-creating-stunning-iphone-hdr-photos/"><u>[Updated] The Insider's Guide to Creating Stunning iPhone HDR Photos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-charger-systems-for-black-gopro-hero5-official-sources/"><u>[Updated] Ultimate Charger Systems for Black GoPro Hero5 Official Sources</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-cutting-through-the-noise-top-15-non-gopro-cameras/"><u>2024 Approved Cutting Through the Noise Top 15 Non-GoPro Cameras</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-step-by-step-tutorial-on-pairing-various-bluetooth-speakers-to-one-device/"><u>A Step-by-Step Tutorial on Pairing Various Bluetooth Speakers to One Device</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-infinix-gt-10-pro-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Infinix GT 10 Pro is off? | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhancing-your-website-with-cookiebot-technology/"><u>Enhancing Your Website with Cookiebot Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-guide-to-seamless-videos-with-funimate/"><u>In 2024, Guide to Seamless Videos with Funimate</u></a></li>
+<li><a href="https://techidaily.com/is-your-xiaomi-13t-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Xiaomi 13T Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/symphonic-syncopation-perfecting-audio-transitions-for-2024/"><u>Symphonic Syncopation Perfecting Audio Transitions for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-complete-mac-book-on-srt-file-handling-for-2024/"><u>The Complete Mac Book on SRT File Handling for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/toms-tech-insights-expert-reviews-and-comparisons/"><u>Tom's Tech Insights: Expert Reviews & Comparisons</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-ps-simple-grading-techniques-for-perfection-for-2024/"><u>Unlocking PS Simple Grading Techniques for Perfection for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-secrets-of-google-podcast-uploads-for-2024/"><u>Unlocking the Secrets of Google Podcast Uploads for 2024</u></a></li>
 </ul></div>
 

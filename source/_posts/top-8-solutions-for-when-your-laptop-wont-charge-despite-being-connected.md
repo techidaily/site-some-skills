@@ -1,7 +1,7 @@
 ---
 title: Top 8 Solutions for When Your Laptop Won't Charge Despite Being Connected
-date: 2025-01-18T21:26:52.603Z
-updated: 2025-01-25T20:59:23.946Z
+date: 2025-02-03T16:22:08.704Z
+updated: 2025-02-07T16:49:42.450Z
 tags:
   - deals
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Reinstall the Battery Drivers](https://twitter-videos.techidaily.com/in-2024-guide-downloading-twitters-videos-on-android-devices/)
 * [Test for a Defective Battery](https://facebook-video-content.techidaily.com/new-fb-profile-picture-dimensions/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * If your laptop isn't charging even when it's plugged in, make sure the power cord is firmly connected to the adapter brick. If that doesn't work, try plugging the charger's adapter plug into a different outlet and carefully examining the charging port and pin.
@@ -36,10 +40,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![A laptop adapter with a loose connection.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/laptop-adapter.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Aman Kumar / How-To Geek
 
  If you find that the power cord is loosely connected to the adapter brick, apply gentle pressure to firmly insert it into the adapter. Alternatively, you can unplug the power cord completely and then plug it back in again.
@@ -47,10 +47,6 @@ Aman Kumar / How-To Geek
 ##  2\. Connect the Laptop Adapter to a Different Socket
 
 ![Multiple power adaptors and cables plugged into a power strip](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/52731312553_e2b752b4ab_o.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Jason Fitzpatrick / How-To Geek
 
@@ -64,6 +60,10 @@ Jason Fitzpatrick / How-To Geek
 
  Counterfeit chargers often charge laptops at an extremely slow pace or, in some cases, not charge at all. If your original laptop charger is malfunctioning, opt to purchase the same model charger directly from the laptop manufacturer online or in-store instead of resorting to a third-party charger.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. Examine the Charging Port and Pin
 
  If your laptop is still not charging, you should carefully examine your laptop's charging port for any dust or debris that might have accumulated inside. If any dust or debris is present, it will prevent the charger from supplying power to your laptop, ultimately causing the issue at hand.
@@ -71,7 +71,7 @@ Jason Fitzpatrick / How-To Geek
 ![Charging port on a laptop with visible dust surrounding it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/charging-port.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Aman Kumar / How-To Geek
@@ -86,6 +86,10 @@ Aman Kumar / How-To Geek
 
  If the charging pin is broken, you can easily cut the pin and connect a new one. However, if you don't feel confident in cutting and changing the pin yourself, you should contact an expert to do it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. Allow Your Laptop to Cool Down
 
  The issue can also arise if your [laptop has overheated](https://video-content-creator.techidaily.com/updated-trim-vlc-videos-on-mac-with-ease-no-quality-loss-guaranteed-for-2024/). Your laptop may have overheated if you've been engaged in CPU- and GPU-intensive tasks. In such cases, your laptop may intentionally halt the charging process to safeguard your battery.
@@ -94,19 +98,11 @@ Aman Kumar / How-To Geek
 
  In this situation, there's not much you can do. Simply shut down your laptop and allow it to cool down. Once you feel the temperature has decreased, reconnect the charger, and your laptop should start charging again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  6\. Download Any Available BIOS Update
 
  The [BIOS (Basic Input/Output System)](https://buynow-info.techidaily.com/experience-the-rotibox-beanie-hat-your-ideal-bluetooth-headset-with-outstanding-comfort-and-clear-sound-quality/) is a low-level system software that controls various hardware functions, including power management and battery charging. If your laptop is running an extremely outdated BIOS version, it might encounter difficulties correctly recognizing the AC adapter, potentially leading to the charging issue at hand. The solution, in this case, is to update the system BIOS.
 
  Unfortunately, there is no one-size-fits-all set of instructions to update BIOS as different manufacturers have different methods. However, the general rule of thumb is to visit your motherboard manufacturer's website, access your [motherboard model's](https://extra-tips.techidaily.com/flash-flick-narrative-template/) downloads or support page, and then download the available BIOS update. You can check our guide on [how to update your BIOS](https://extra-skills.techidaily.com/in-2024-quick-windows-surfing-guide-unveiled/) for more information about the updating process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  7\. Reinstall the Battery Drivers
 
@@ -121,12 +117,16 @@ Aman Kumar / How-To Geek
 ![The Uninstall Device option in Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/uninstall-device.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once the drivers have been uninstalled, [restart your computer](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/). Upon restart, Windows will automatically reinstall both battery drivers. However, if it fails to reinstall them for any reason, press Windows+i to open the "Settings" app, click on "Windows Update," and then select "Check for Updates." Windows will now install the missing driver, which in this case is the battery driver, on your computer.
 
 ![The Windows update menu in the Settings app with an arrow pointing to the Check for Updates button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/check-for-updates.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After reinstalling the driver, reconnect the charger and check if your laptop starts charging.
 
@@ -169,21 +169,22 @@ Aman Kumar / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-comedy-gold-examining-the-goofy-vhs-experience/"><u>[New] 'Comedy Gold' Examining the Goofy VHS Experience</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-bestow-photographic-frames-with-outer-radial-smearing/"><u>[New] 2024 Approved Bestow Photographic Frames with Outer Radial Smearing</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-diving-deep-into-gopro-variants-comprehensive-guide/"><u>[New] Diving Deep Into Gopro Variants Comprehensive Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-photo-keepers-companion-unlimited-free-options-and-elite-subscription-saviors/"><u>[New] The Photo Keeper’s Companion Unlimited Free Options & Elite Subscription Saviors</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unparalleled-harmony-collector-android-based/"><u>[New] Unparalleled Harmony Collector, Android-Based</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-battle-of-av1-and-vp9-outcomes-revealed/"><u>[Updated] The Battle of AV1 and VP9 Outcomes Revealed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unraveling-visual-clarity-for-the-new-digital-age/"><u>[Updated] Unraveling Visual Clarity for the New Digital Age</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-unseen-social-media-hits-top-10-meme-pages/"><u>[Updated] Unseen Social Media Hits – Top 10 Meme Pages</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-secrets-of-gopro-chrono-photography/"><u>[Updated] Unveiling the Secrets of GoPro Chrono Photography</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-enhancements-in-vegaspro-with-its-2019-release/"><u>2024 Approved The Enhancements in VegasPro with Its 2019 Release</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/budget-friendly-powerhouse-a-review-of-dell-g5-5090s-exceptional-performance-and-wide-range-of-features/"><u>Budget-Friendly Powerhouse: A Review of Dell G5 5090'S Exceptional Performance & Wide Range of Features</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/comprehensive-report-why-mafia-complete-pack-is-postponed-now-sorted-out/"><u>Comprehensive Report: Why Mafia: Complete Pack Is Postponed, Now Sorted Out</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/hp-printer-setup-missing-driver-in-windows-os/"><u>HP Printer Setup: Missing Driver in Windows OS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-understanding-the-price-tag-on-youtube-promo/"><u>In 2024, Understanding the Price Tag on Youtube Promo</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-solutions-how-to-resolve-the-unable-to-perform-audio-check-message/"><u>Quick Solutions: How to Resolve the 'Unable to Perform Audio Check' Message</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unlocking-hdr-potential-with-photo-hdr-techniques/"><u>Unlocking HDR Potential with Photo-HDR Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlining-windows-photos-with-customized-audio-and-visual-settings/"><u>[New] Streamlining Windows Photos with Customized Audio & Visual Settings</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-stand-out-in-a-sea-of-content-our-offer-includes-50-free-banners/"><u>[Updated] 2024 Approved Stand Out in a Sea of Content - Our Offer Includes 50 Free Banners</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-storage-enhancement-for-sony-alpha-7s-ii/"><u>[Updated] Ultimate Storage Enhancement for Sony Alpha 7S II</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-the-potential-of-your-films-with-final-cut-pro/"><u>[Updated] Unlock the Potential of Your Films with Final Cut Pro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-littoral-filmmakers-script-vision/"><u>2024 Approved Littoral Filmmaker's Script Vision</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/boosting-your-profile-top-25-high-gainning-instagram-tags/"><u>Boosting Your Profile Top 25 High-Gainning Instagram Tags</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/enhancing-visual-impact-editing-videos-for-instagram-for-2024/"><u>Enhancing Visual Impact Editing Videos for Instagram for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-missing-wordle-streaks-in-game-devices/"><u>Fixing Missing Wordle Streaks in Game Devices</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tutorial-for-downloading-movie-maker-6-on-windows/"><u>In 2024, Tutorial for Downloading Movie Maker 6 on Windows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tailoring-your-vtubers-tone-best-app-recommendations-unveiled-for-2024/"><u>Tailoring Your Vtuber's Tone Best App Recommendations Unveiled for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-20-iconic-anime-theme-melodies-ever-for-2024/"><u>Top 20 Iconic Anime Theme Melodies Ever for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/total-exploration-the-dji-phantom-4-experience-reviewed-for-2024/"><u>Total Exploration The DJI Phantom 4 Experience Reviewed for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transitioning-artistry-in-inshot-videos-for-2024/"><u>Transitioning Artistry in Inshot Videos for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-for-when-netflix-titles-dont-stream-properly/"><u>Troubleshooting Tips for When Netflix Titles Don't Stream Properly</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-mpeg-video-splitter-reviews-5-best-free-tools/"><u>Updated In 2024, MPEG Video Splitter Reviews 5 Best Free Tools</u></a></li>
 </ul></div>
 

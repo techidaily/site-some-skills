@@ -1,7 +1,7 @@
 ---
 title: "Week in Review: AT&T Data Incident & Latest Samsung Smartphone Launch"
-date: 2025-01-23T16:14:13.013Z
-updated: 2025-01-25T22:48:50.769Z
+date: 2025-02-06T16:39:17.089Z
+updated: 2025-02-07T19:00:13.558Z
 tags:
   - mobile
 categories:
@@ -19,15 +19,15 @@ This was a busy week for tech news, with Samsung releasing new phones and access
 
  Even if you aren't an AT&T customer, this breach probably affects you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [Thunderbird's Big "Nebula" Update Is Now Available](https://win-dash.techidaily.com/fresh-release-enhanced-biometric-drivers-for-seamless-windows-integration/) 
 
  Thundebird, the email client from Mozilla, just got its big update for the year with several usability improvements and new features.
 
 ![A screenshot of the updated Thunderbird 128 interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/23.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Mozilla
 
@@ -35,17 +35,21 @@ Mozilla
 
  The best Samsung earbuds money can buy, complete with ANC and deep integration with Galaxy smartphones.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [The Samsung Galaxy Buds 3 Look A Lot Like AirPods](https://sound-issues.techidaily.com/troubleshooting-silent-microphones-a-step-by-step-guide-to-restoring-voice-chat-in-discord/) 
 
  Samsung’s new lower-cost wireless earbuds took a few notes from Apple’s AirPods.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [These Features Are Now Rolling out to All Windows 11 PCs](https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-xiaomi-14-drfone-by-drfone-fix-android-problems-fix-android-problems/) 
 
  An updated Start menu, the return of "show desktop," new emoji, and more are rolling out to all Windows 11 PCs after a few months in Insider testing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Spotify Is Now a Social Media Platform](https://apple-account.techidaily.com/how-to-change-credit-card-from-your-iphone-se-2020-apple-id-and-apple-pay-by-drfone-ios/) 
 
@@ -55,6 +59,10 @@ Mozilla
 
  Samsung's new book-style folding phone has arrived, with an updated aspect ratio and some hardware improvements.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Samsung's Galaxy Z Flip 6 Gets the Upgrade We Wanted](https://twitter-videos.techidaily.com/no-cash-all-fun-turning-twitter-vids-into-gifs-for-2024/) 
 
  Finally, Samsung's most trendy phone has a good camera.
@@ -63,21 +71,17 @@ Mozilla
 
 Justin Duino / How-To Geek
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [T-Mobile Home Internet Reverses Its Recent Price Increase](https://buynow-info.techidaily.com/the-epicurean-pandemonium-of-overcooked-2-demystified-in-our-latest-review/) 
 
  The affordable 5G internet service is back down to $50 a month.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [Winamp Music Player Is Now on iPhone and Android](https://facebook.techidaily.com/broaden-your-reach-upload-fb-material-to-popular-app-platforms-now/) 
 
  The classic Winamp desktop music player now has a mobile version, but it might not be what you expect. iCloud integration is especially interesting for iPhone users.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [The Galaxy Watch Ultra is Samsung's Most Expensive Wearable Yet](https://ai-video-apps.techidaily.com/updated-2024-approved-the-complete-guide-to-reversing-tiktok-videos-tips-and-tricks/) 
 
@@ -86,14 +90,10 @@ Justin Duino / How-To Geek
 ![Person holding the Samsung Galaxy Watch Ultra](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/person-holding-the-samsung-galaxy-watch-ultra.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Samsung's Galaxy Watch 7 is Finally Here](https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-oppo-reno-9a-drfone-by-drfone-virtual-android/) 
 
@@ -122,24 +122,19 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-exclusive-selection-of-high-caliber-free-luts/"><u>[New] Exclusive Selection of High-Caliber Free LUTs</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-premium-video-experience-best-tools-to-upgrade-your-downloads/"><u>[New] Premium Video Experience Best Tools to Upgrade Your Downloads</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-art-of-adjustment-elevating-your-photography/"><u>[New] The Art of Adjustment Elevating Your Photography</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-top-tier-360-pro-cams/"><u>[New] The Ultimate Guide to Top-Tier 360 Pro Cams</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-uncovering-the-webs-leading-marketplaces-for-ringtones/"><u>[New] Uncovering the Web's Leading Marketplaces for Ringtones</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-writing-powerful-endings-techniques-and-real-world-examples/"><u>[New] Writing Powerful Endings Techniques & Real-World Examples</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-ultimate-digital-library-year-round-free-texts/"><u>[Updated] 2024 Approved The Ultimate Digital Library Year-Round Free Texts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-essential-skills-editing-blurring-and-background-removal/"><u>[Updated] The Essential Skills Editing, Blurring, and Background Removal</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-intersection-of-design-and-efficiency-in-professional-environments/"><u>[Updated] The Intersection of Design & Efficiency in Professional Environments</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-stream-to-stardom-mastering-live-with-xsplit-or-obs/"><u>2024 Approved Stream to Stardom Mastering Live with XSplit or OBS?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-elite-guide-to-gopro-side-by-side-shopping/"><u>2024 Approved The Elite Guide to GoPro Side-By-Side Shopping</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/acquiring-drone-racing-skills-and-exploring-top-fpv-drones/"><u>Acquiring Drone Racing Skills & Exploring Top FPV Drones</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-premier-laptops-from-ifa-2023/"><u>Discover Premier Laptops From IFA 2023</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-optimize-visual-output-with-free-luts-in-your-obs-studio-setup/"><u>In 2024, Optimize Visual Output with Free LUTs in Your OBS Studio Setup</u></a></li>
-<li><a href="https://review-topics.techidaily.com/motorola-g54-5g-won-t-play-mov-videos-how-to-fix-by-aiseesoft-video-converter-play-mov-on-android/"><u>Motorola G54 5G won't play MOV videos, how to fix ?</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/online-gratuit-omzetten-van-mpeg-archives-professioneel-met-movavi/"><u>Online Gratuit Omzetten Van MPEG-Archives - Professioneel Met Movavi</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-essential-steps-to-compress-youtube-video-spaces/"><u>The Essential Steps to Compress YouTube Video Spaces</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-free-artistic-software-on-mac-for-2024/"><u>The Ultimate Guide to Free Artistic Software on Mac for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/value-packed-skyspace-service-big-data-at-low-cost-for-2024/"><u>Value-Packed SkySpace Service Big Data at Low Cost for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-elevate-your-screen-with-picture-in-picture-effects-on-macos/"><u>[New] 2024 Approved Elevate Your Screen with Picture in Picture Effects on macOS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-photographicperfection-how-to-fine-tune-insta-images-and-videos/"><u>[New] 2024 Approved PhotographicPerfection How to Fine-Tune Insta Images & Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-documentarians-guide-to-captivating-audience/"><u>[New] The Documentarian's Guide to Captivating Audience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleash-your-creativity-on-youtube-live-from-smartphone/"><u>[New] Unleash Your Creativity on YouTube Live From Smartphone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-direct-link-between-twitter-and-tumblr-videos/"><u>[Updated] In 2024, Direct Link Between Twitter and Tumblr Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-syma-x5c-insights-choosing-the-best-drone-for-aviation-rookies/"><u>[Updated] Syma X5C Insights Choosing the Best Drone for Aviation Rookies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-experts-gopro-buyers-companion/"><u>2024 Approved The Expert's Gopro Buyer’s Companion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-4k-experience-deep-dive-into-samsungs-ue590/"><u>2024 Approved The Ultimate 4K Experience - Deep Dive Into Samsung's UE590</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-clean-visuals-step-by-step-guide-to-backdrop-erasure/"><u>2024 Approved Unleash Clean Visuals Step-By-Step Guide to Backdrop Erasure</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/address-and-repair-advrcntr2dll-not-found-issues-in-your-nero-installation/"><u>Address and Repair 'Advrcntr2.dll Not Found' Issues in Your Nero Installation</u></a></li>
+<li><a href="https://app-tips.techidaily.com/comprehensive-guide-for-singaporean-small-businesses-harnessing-genai-for-employee-development-zdnet/"><u>Comprehensive Guide for Singaporean Small Businesses: Harnessing GenAI for Employee Development | ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-steelseries-arctis-prime-microphone-working-again-a-step-by-step-guide/"><u>How to Get Your SteelSeries Arctis Prime Microphone Working Again: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-image-protection-wonderfox-photo-watermark-the-top-choice-for-speed-and-unmatched-quality/"><u>Ultimate Image Protection: WonderFox Photo Watermark – The Top Choice for Speed & Unmatched Quality</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/be-tech-basics-essential-equipment-guide/"><u>YouTube Tech Basics Essential Equipment Guide</u></a></li>
 </ul></div>
 

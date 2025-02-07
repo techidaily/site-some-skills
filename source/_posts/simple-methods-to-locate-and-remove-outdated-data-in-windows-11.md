@@ -1,7 +1,7 @@
 ---
 title: Simple Methods to Locate & Remove Outdated Data in Windows 11
-date: 2025-01-19T23:11:37.838Z
-updated: 2025-01-26T00:21:43.723Z
+date: 2025-01-31T17:45:04.637Z
+updated: 2025-02-07T16:25:04.257Z
 tags:
   - desktop
 categories:
@@ -25,6 +25,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  If you’re running out of storage on your PC, the best thing to do is to find and remove old, unwanted files. Windows 11 offers multiple ways to find those storage-hogging items, and we’ll show you what those ways are and how to use them in this guide.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Using Storage Sense
 
  Storage Sense is a built-in Windows 11 feature that helps automatically [clean up old files](https://youtube-clips.techidaily.com/culinary-carousel-swirling-up-top-food-network-names-for-2024/). You can configure various options in the feature so it only deletes the files using the specified criteria. You can run the feature manually, or you can set it to run automatically at the specified time.
@@ -34,16 +38,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 !['System' and 'Storage' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/1-storage-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the Storage Management section, turn on the toggle next to "Storage Sense," then click "Storage Sense."
 
 !['Storage Sense' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/2-enable-storage-sense.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You’ll now configure Storage Sense's behavior. At the top, enable the option in the "Cleanup of Temporary Files" section so that temporary files are automatically deleted.
 
@@ -56,7 +56,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Storage Sense configuration options in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-configure-storage-sense.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To run the feature now, click "Run Storage Sense Now." It will start removing the chosen files.
@@ -69,6 +69,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![File cleanup options in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/4-pc-manager-file-cleanup-options.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The first option is "Downloaded Files," which lets you remove the files you’ve downloaded using the installed web browsers. Click it, and it’ll open a window listing your recent file downloads. You can sort these files by their type using the tabs at the top.
 
  Then, select the files you’re happy to let go of. At the bottom, you’ll see the storage space you’ll reclaim after deleting these files. To remove the files, click "Permanently Delete."
@@ -76,7 +80,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Downloaded files and 'Permanently Delete' highlighted in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/5-delete-downloaded-files.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The second option in PC Manager is "Large Files." As you can guess, it lets you find and remove large files. You can specify the file size here so it only finds files larger than that.
@@ -96,10 +100,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Duplicate files and 'Permanently Delete' highlighted in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/8-remove-duplicate-files.jpg) 
 
  And you’re all set.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Using Command Prompt
 
@@ -132,13 +132,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Save the ForFiles command as a batch file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/10-save-batch-file.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you want to run your command, right-click your batch script and choose "Run as Administrator."
 
 !['Run as Administrator' highlighted for a batch file in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/11-run-batch-file.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can integrate this batch script with Task Manager, and Task Manager will run the script at your specified time. This basically automates the entire process of finding and removing old files from your specified folders.
 
@@ -161,18 +161,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-beginning-with-youtube-essential-steps-to-create-your-space/"><u>[New] 2024 Approved Beginning with YouTube Essential Steps to Create Your Space</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-mastering-the-art-of-4k-videography-with-prime-optics/"><u>[New] 2024 Approved Mastering the Art of 4K Videography with Prime Optics</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-unlock-the-power-of-online-interaction-essential-tips-for-successful-zoom-chats/"><u>[New] 2024 Approved Unlock the Power of Online Interaction Essential Tips for Successful Zoom Chats</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-laugh-loops-unlocked-zero-cost-humor-hub/"><u>[New] In 2024, Laugh Loops Unlocked Zero-Cost Humor Hub</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-thanks-for-curating-premium-and-free-outro-themes/"><u>[New] Thanks for Curating Premium & Free Outro Themes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-apples-podcast-potential-an-instructional-guide/"><u>[New] Unlocking Apple's Podcast Potential An Instructional Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-seamless-integration-of-snap-camera-in-video-conferencing-tools/"><u>[Updated] 2024 Approved Seamless Integration of Snap Camera in Video Conferencing Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-synching-worlds-instagram-to-tiktok-essentials/"><u>2024 Approved Synching Worlds Instagram to TikTok Essentials</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unmask-the-tricks-of-photo-and-video-upload-in-win11/"><u>2024 Approved Unmask the Tricks of Photo & Video Upload in Win11</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/how-to-retain-and-store-visual-elements-from-microsoft-word-templates/"><u>How to Retain and Store Visual Elements From Microsoft Word Templates</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-vivo-s17-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Vivo S17 Pro Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ng-vr-game-experts-you-cant-miss-for-2024/"><u>Leading VR Game Experts You Can't Miss for 2024</u></a></li>
-<li><a href="https://win-docs.techidaily.com/windows-11-outlook/"><u>Windows 11 と Outlook メール同期不能時の問題解消手順</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-infinite-possibilities-on-a-track-top-5-racing-simulators-reviewed/"><u>[New] 2024 Approved Infinite Possibilities on a Track Top 5 Racing Simulators Reviewed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlining-your-workflow-with-zooms-pre-meeting-protocol/"><u>[New] Streamlining Your Workflow with Zoom's Pre-Meeting Protocol</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-captivating-your-online-audience/"><u>[New] The Art of Captivating Your Online Audience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-time-saving-tips-making-rapid-google-collage-photo-artwork/"><u>[New] Time-Saving Tips Making Rapid Google Collage Photo Artwork</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-secrets-to-adding-seconds-to-youtube-clips/"><u>[New] Unveiling Secrets to Adding Seconds to YouTube Clips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-voice-changers-guide-free-easy-pathways-for-auditory-enhancements/"><u>[Updated] The Voice Changer's Guide Free, Easy Pathways for Auditory Enhancements</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-animators-companion-expertly-reviewed-3d-modeling-software/"><u>2024 Approved The Animator's Companion Expertly Reviewed 3D Modeling Software</u></a></li>
+<li><a href="https://win-help.techidaily.com/bring-back-your-vanished-files-expert-data-resurrection-using-ifind-recovery-suite/"><u>Bring Back Your Vanished Files: Expert Data Resurrection Using iFinD Recovery Suite</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-disguise-techniques-in-picart/"><u>In 2024, Disguise Techniques in PicArt</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-nubia-red-magic-8s-pro-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Nubia Red Magic 8S Pro FRP?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-pro-max-3-ways-to-unlock-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 14 Pro Max 3 Ways To Unlock</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-leaving-with-honor-a-disconnect-guide-for-servers/"><u>In 2024, Leaving with Honor A Disconnect Guide for Servers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-rise-of-immersive-consumer-spaces/"><u>In 2024, The Rise of Immersive Consumer Spaces</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-affordable-innovative-ae-templates/"><u>In 2024, The Ultimate Guide to Affordable, Innovative AE Templates</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-streamline-your-podcast-on-google/"><u>In 2024, The Ultimate Guide to Streamline Your Podcast on Google</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/las-herramientas-mas-potentes-contra-problemas-de-almacenamiento-deficiente-del-vss-una-guia-exhaustiva/"><u>Las Herramientas Más Potentes Contra Problemas De Almacenamiento Deficiente Del VSS: Una Guía Exhaustiva</u></a></li>
+<li><a href="https://win-blog.techidaily.com/seamless-action-gaming-addressing-hlalyx-tech-snags-for-crystal-clear-play-on-pc/"><u>Seamless Action Gaming: Addressing HL:Alyx Tech Snags for Crystal Clear Play on PC</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-moving-images-from-your-iphone-5-5s-or-5c-to-pc-easily/"><u>Step-by-Step Guide: Moving Images From Your iPhone 5, 5S or 5C to PC Easily</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-list-the-finest-steam-deck-experiences-of-202n/"><u>Ultimate List: The Finest Steam Deck Experiences of 202N</u></a></li>
 </ul></div>
 

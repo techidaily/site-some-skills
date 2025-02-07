@@ -1,7 +1,7 @@
 ---
 title: "Bridging Operating Systems: A Comprehensive Guide to Using Ubuntu Software on Your Windows 11 Machine"
-date: 2025-01-24T19:11:53.901Z
-updated: 2025-01-25T19:14:18.510Z
+date: 2025-02-05T19:36:57.827Z
+updated: 2025-02-07T19:52:26.903Z
 tags:
   - deals
 categories:
@@ -11,20 +11,12 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 ## Bridging Operating Systems: A Comprehensive Guide to Using Ubuntu Software on Your Windows 11 Machine
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Install WSL2 Kernel, activate Virtual Machine Platform, and make sure you have Admin rights before getting Ubuntu on Windows 11.
 * Enable Windows Subsystem for Linux, then download and install Ubuntu for WSL via Microsoft Store to run Linux apps on Windows 11.
 
  Did you know using Ubuntu-exclusive apps doesn't require overwriting your operating system? Unlock the true potential of your Windows desktop by using Ubuntu apps on Windows 11, enhancing your PC experience by blending the power of Linux and Windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Why Use Ubuntu Apps on Windows 11?
 
@@ -66,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 ![The user is searching for Ubuntu WSL 22.04.3 LTS in the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-ubuntu-22.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After selecting "Ubuntu 22.04.3 LTS," you will be directed to its feature page in the Microsoft Store. Locate the "Get" button and click on it. Selecting the "Get" button will initiate the Ubuntu download for Windows 11.
 
  Downloading Ubuntu 22.04.3 LTS on Windows 11 should be swift, given the program's size is only about 560 MB. Once the download is complete, Ubuntu will be accessible in the Windows Start Menu.
@@ -84,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
  Here are some basic configuration tips to improve the WSL experience on Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Windows and Linux File System Integration
 
  Windows and Linux File System Integration simplifies moving files between your Ubuntu WSL setup and your Windows 11 desktop. Here's how to utilize this feature.
@@ -94,12 +86,16 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 ![Ubuntu WSL's file access in the Windows 11 Explorer app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-selecting-ub.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To access Windows files from Ubuntu, navigate to the **/mnt/c** folder using the cd command. This method provides interaction with the Windows 11 **C:/** drive.
 
 cd /mnt/c
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Update your Ubuntu WSL app
@@ -115,6 +111,10 @@ sudo apt update
 sudo apt upgrade
 
 ![Ubuntu WSL is being updated.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-installing-kdenlive.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Starting and Using Ubuntu
 
@@ -137,13 +137,13 @@ nohup program_name & disown
 ![Linux apps Kdenlive and Wireshark are running inside of Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/wsl-kdenlive-and-wireshark-open.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Alternatively, applications can be started from the Windows 11 start menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Integration with Windows 11
@@ -179,19 +179,21 @@ wsl --update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-a-practical-pathway-for-profit-tracking-the-straightforward-steps-to-analyze-youtube-earnings/"><u>[New] 2024 Approved A Practical Pathway for Profit Tracking The Straightforward Steps to Analyze YouTube Earnings</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-enhancing-your-youtube-content-with-right-camera-gear-for-2024/"><u>[New] Enhancing Your YouTube Content with Right Camera Gear for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unraveling-the-secrets-to-high-quality-zoom-streams-for-youtube/"><u>[New] Unraveling the Secrets to High-Quality Zoom Streams for YouTube</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-samsung-ue590-masterclass-cutting-edge-gaming-display/"><u>[Updated] Samsung UE590 Masterclass Cutting-Edge Gaming Display</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-uncovering-ustream-plus-other-live-streamers/"><u>[Updated] Uncovering Ustream + Other Live Streamers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-artisans-secret-to-viral-youtube-success/"><u>2024 Approved The Artisan's Secret to Viral YouTube Success</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-the-ultimate-ios-movie-experience-top-8-free-plus-paid-picks/"><u>2024 Approved The Ultimate iOS Movie Experience Top 8 Free + Paid Picks</u></a></li>
-<li><a href="https://network-issues.techidaily.com/direct-fix-route-no-current-nvidia-output/"><u>Direct Fix Route: No Current NVIDIA Output</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/elevate-your-facebook-profile-choosing-top-apps-for-like-growth/"><u>Elevate Your Facebook Profile Choosing Top Apps for Like Growth</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-blitz-photograph-examiner-windows-edition/"><u>In 2024, Blitz Photograph Examiner - Windows Edition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-uav-connoisseurs-guide-to-essential-equipment/"><u>In 2024, The UAV Connoisseur's Guide to Essential Equipment</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/lighten-your-livestreams-selecting-5-brightening-tech-for-2024/"><u>Lighten Your Livestreams Selecting 5 Brightening Tech for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-comedic-potential-of-the-metaverses-vast-space-for-2024/"><u>The Comedic Potential of the Metaverse's Vast Space for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-no1-free-dailymotion-to-mp4-converter-online/"><u>Updated 2024 Approved No.1 Free Dailymotion to MP4 Converter Online</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-a-practical-approach-to-streaming-fb-content-on-your-apple-setup/"><u>[New] 2024 Approved A Practical Approach to Streaming FB Content on Your Apple Setup</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-uncovering-average-earnings-in-podcasting/"><u>[New] Uncovering Average Earnings in Podcasting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-assortment-of-gopro-modifications/"><u>[Updated] Ultimate Assortment of Gopro Modifications</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-online-free-video-editing-hacks/"><u>2024 Approved Top Online Free Video Editing Hacks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/best-free-video-splitters-for-mkv-files-updated-2023-for-2024/"><u>Best Free Video Splitters for MKV Files (Updated 2023) for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/google-photos-and-your-creativity-quick-collages-made-simple/"><u>Google Photos & Your Creativity Quick Collages Made Simple</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-vivo-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Vivo Devices</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Poco X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-skype-sessions-with-proactive-zoom-tactics/"><u>In 2024, Transforming Skype Sessions with Proactive Zoom Tactics</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/interactive-realities-compared-metaverse-and-multiverse-for-2024/"><u>Interactive Realities Compared Metaverse and Multiverse for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/navigating-the-path-iphone-file-exchange-for-2024/"><u>Navigating the Path IPhone File Exchange for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/optimizing-your-vlc-livestream-over-the-net/"><u>Optimizing Your VLC Livestream over the Net</u></a></li>
+<li><a href="https://video-capture.techidaily.com/premier-eco-friendly-camera-systems-for-filmmakers-for-2024/"><u>Premier Eco-Friendly Camera Systems for Filmmakers for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-peoples-take-on-vllo-for-2024/"><u>The People's Take on VLLO for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-serenity-with-asmr-for-uninterrupted-slumber-for-2024/"><u>Unlock Serenity with ASMR for Uninterrupted Slumber for 2024</u></a></li>
 </ul></div>
 

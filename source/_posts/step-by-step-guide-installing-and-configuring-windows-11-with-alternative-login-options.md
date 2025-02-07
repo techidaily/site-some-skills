@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Installing and Configuring Windows 11 with Alternative Login Options"
-date: 2025-01-23T22:59:51.418Z
-updated: 2025-01-25T22:02:13.149Z
+date: 2025-02-05T18:34:38.353Z
+updated: 2025-02-07T18:46:05.370Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 ---
 
 ## Step-by-Step Guide: Installing and Configuring Windows 11 with Alternative Login Options
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -25,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 * [How to Remove a Microsoft Account From Windows 11](https://screen-mirroring-recording.techidaily.com/2024-approved-the-ultimate-method-for-iptv-screen-recordings/)
 
  Windows 11 normally requires a Microsoft account when you set it up, but you can bypass Microsoft account creation and use a local account instead. Here's how to set up Windows 11 without a Microsoft account or convert an existing Microsoft account to a local account.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Can You Skip Microsoft Account Creation During Windows 11 Setup?
 
@@ -46,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 
  Mac users who are [setting up Windows 11 inside of Parallels Desktop](https://some-knowledge.techidaily.com/in-2024-fast-forward-features-unveiled-the-editors-guidebook/) can skip the Microsoft account linking process. The virtualization software allows you to set up Windows "hands-free" and leaves you with a local account.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Bypass Windows 11 Microsoft Account Requirement Using Command Prompt
 
  To bypass the Microsoft Account requirement, proceed with the first few steps of the installation process normally until you reach this screen:
@@ -59,6 +55,10 @@ oobe\bypassnro
  It isn't case sensitive, but it is critical that you use the correct slash. Once you type in the command, press Enter and your PC will immediately restart.
 
 ![The bypassnro command running in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/oobebypassnrocommand.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, you should _completely disconnect your PC from the Internet_ at this point. If Windows 11 detects an Internet connection it will continue to try and force you to sign in with a Microsoft account. However, if you're disconnected from the Internet you'll see an "I Don't Have Internet" option, or you'll be prompted to create a local account immediately. 
 
@@ -106,6 +106,10 @@ Close
 
  It is smooth sailing after you change the boot order. Windows 11 will walk you through the rest of the installation process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Create a Local Account on Windows 11
 
  You can create additional Windows accounts that aren't linked to existing Microsoft Accounts, though it's easy to miss the cues. To do this, launch the Settings app and then navigate to Accounts > Other users. Click on the "Add Account" button to create another user account.
@@ -123,7 +127,7 @@ Close
  The account will now be added to your computer. Click on Start followed by your username then select "Sign out" to log in to the account.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Convert an Existing Microsoft Account to a Local Account
@@ -137,24 +141,16 @@ Close
 ![Select 'Accounts,' then scroll down until you see 'Your Info.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/accounts-your-info.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Scroll towards the bottom and click "Sign In With A Local Account Instead." If you get a huge popup warning you about backing up your BitLocker key,**_do not ignore it_.** Your drive is encrypted, and if something happens, you could lose access to all of your files without the recovery key. Make sure you [back up your BitLocker encryption key](https://instagram-clips.techidaily.com/2024-approved-engaging-users-with-instagrams-interactive-survey-feature/) before proceeding, then click through the next few prompts. You may need to pick a username, password, and password hint, then go to the next page and click "Sign Out And Finish."
 
 ![The popup to switch to a local account on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/switching-to-local.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You should probably restart your PC even after you sign out just to fix any weird bugs that crop up. You also need to be careful now. Your account is a local-only account, which means that Microsoft won't be able to help you regain access if you forget something.
 
  Additionally, if you attempt to encrypt your drive on a local account, you'll be told you need to sign in to a Microsoft account to finish the process. That is not accurate — your drive will be encrypted even if you do not sign in, so be sure to make a copy of your recovery key.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Remove a Microsoft Account From Windows 11
 
@@ -165,6 +161,10 @@ Close
  Next to "Account Options" click "Change account type" and a new window will appear. In this window, change account type to "Administrator" and then click OK.
 
 ![Changing the account type from standard to administrator.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/change-accont-type.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can now log in to the other (local) account that you have created. Head to Settings > Accounts > Other users, select the (Microsoft) account you want to remove, and click "Remove" next to the "Account and data" field.
 
@@ -191,22 +191,15 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-sonic-sleuths-den-acquire-and-scrutinize-audio-files/"><u>[New] 2024 Approved Sonic Sleuths' Den Acquire & Scrutinize Audio Files</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-essential-20-hysterical-detention-cell-gifs-to-amplify-your-online-joy/"><u>[New] Essential 20 Hysterical Detention Cell Gifs to Amplify Your Online Joy</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-kinemaster-guide-to-green-screening/"><u>[New] The Ultimate KineMaster Guide to Green Screening</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-black-battery-compatibility-with-gopro-hero5/"><u>[New] Ultimate Black Battery Compatibility with GoPro Hero5</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-the-best-ps5-and-xbox-gaming-monitors/"><u>[New] Unveiling the Best PS5 & Xbox Gaming Monitors</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-spotlight-on-facebook-discover-the-most-watched-vids/"><u>[Updated] Spotlight on Facebook Discover the Most Watched Vids</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlock-virtual-worlds-top-10-pc-games-for-ultimate-vr-experience/"><u>[Updated] Unlock Virtual Worlds Top 10 PC Games for Ultimate VR Experience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-strategies-and-techniques-in-documentary-scriptwriting/"><u>2024 Approved Strategies and Techniques in Documentary Scriptwriting</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-takes-2022-skating-spectaculars/"><u>2024 Approved Top Takes - 2022 Skating Spectaculars</u></a></li>
-<li><a href="https://win-answers.techidaily.com/end-halo-infinite-freezing-issues-in-pc-with-these-quick-fixes-guide/"><u>End Halo Infinite Freezing Issues in PC with These Quick Fixes [Guide]</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-achieving-audiovisual-consistency-in-premiers/"><u>In 2024, Achieving Audiovisual Consistency in Premiers</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-decoding-the-cost-per-thousand-views-on-youtube-for-successful-earning/"><u>In 2024, Decoding the Cost Per Thousand Views on YouTube for Successful Earning</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-identify-the-best-8-services-to-enhance-youtube-engagement/"><u>In 2024, Identify the Best 8 Services to Enhance YouTube Engagement</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-superior-communication-optimal-use-of-zoom-in-skype-sessions/"><u>In 2024, Unlocking Superior Communication Optimal Use of ZOOM in Skype Sessions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-secrets-of-google-podcast-uploads/"><u>In 2024, Unlocking the Secrets of Google Podcast Uploads</u></a></li>
-<li><a href="https://techtrends.techidaily.com/learn-how-to-stream-espnplus-seamlessly-through-your-lg-smart-tv-the-easy-way/"><u>Learn How to Stream ESPN+ Seamlessly Through Your LG Smart TV – The Easy Way</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/secrets-of-single-stream-success-online-broadcast-tips-and-tricks/"><u>Secrets of Single-Stream Success Online Broadcast Tips and Tricks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-gentle-art-of-reducing-audio-amplitude-in-logic-pro/"><u>[New] The Gentle Art of Reducing Audio Amplitude in Logic Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-optimal-performance-with-these-key-tricks/"><u>[New] Unlock Optimal Performance with These Key Tricks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-full-potential-of-fast-fb-videos-with-tools/"><u>[New] Unlocking the Full Potential of Fast FB Videos with Tools</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-a-comprehensive-approach-to-adding-text-overlays-vimeo/"><u>[Updated] 2024 Approved A Comprehensive Approach to Adding Text Overlays (Vimeo)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/decoding-off-facebook-activities-review-and-security-implications/"><u>Decoding Off-Facebook Activities Review and Security Implications</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-ai-conversational-agents-a-guide-to-9-common-misunderstandings/"><u>Demystifying AI Conversational Agents: A Guide to 9 Common Misunderstandings</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/essential-factors-to-assess-prior-to-investing-in-a-fresh-printer/"><u>Essential Factors to Assess Prior to Investing in a Fresh Printer</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-oppo-a59-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Oppo A59 5G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-8-subtitle-converters-speed-up-your-video-production-from-sub-to-quickly-released-srtr-format-for-2024/"><u>Top 8 Subtitle Converters Speed Up Your Video Production - From SUB to Quickly-Released SRTR Format for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/unlocking-profit-13-simple-money-making-ideas-on-reddit-for-2024/"><u>Unlocking Profit 13 Simple Money-Making Ideas on Reddit for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlock Secrets of WhatsApp: Essential Eight Underutilized Features Revealed!"
-date: 2025-01-19T21:38:38.691Z
-updated: 2025-01-25T21:43:36.942Z
+date: 2025-02-02T16:15:27.916Z
+updated: 2025-02-07T19:16:19.174Z
 tags:
   - web
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 ---
 
 ## Unlock Secrets of WhatsApp: Essential Eight Underutilized Features Revealed!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -25,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
  From setting a custom notification sound for contacts or group chats to hiding your status updates from specific contacts, WhatsApp offers many hidden features that many users don't fully utilize. Some features can enhance your privacy, while others can improve your chat experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1  Pin or Star Messages to Easily Access Them 
@@ -48,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 
 ![Excluding some contacts from seeing my status on WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-excluding-some-contacts-from-seeing-my-status-on-whatsapp.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3  Prevent Others From Seeing You’ve Read Their Messages 
 
  When you read a message on WhatsApp, blue check marks appear under it, indicating to the sender that you've seen it. This can create an expectation for you to respond immediately, which might be problematic if you're busy and can't reply right away. To tackle this dilemma, WhatsApp allows you to [disable the read receipts feature](https://screen-capture.techidaily.com/new-from-raw-footage-to-excellence-the-webcam-edition/).
@@ -60,14 +60,10 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 
 ![Disabling read receipts in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-disabling-read-receipts-in-whatsapp.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  However, this feature works both ways: you also won't be able to see when others have read your messages. Also, remember that this setting doesn't apply to group chats.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4  Create Custom Notifications for Specific Chats 
@@ -77,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
  To set a custom notification, open the chat with the person, tap on their name, go to “Notifications,” and select your preferred tone.
 
 ![Selecting a custom alert tone for a contact in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-selecting-a-custom-alert-tone-in-whatsapp.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On Android, you can choose separate tones for messages and calls. On the iPhone, you can only select a single tone for all alerts.
 
@@ -92,6 +92,14 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 
 ![Creating a new broadcast list in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-creating-a-new-broadcast-list-in-whatsapp.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6  Use Avatars and Custom Stickers 
 
  WhatsApp lets you create an avatar either automatically by taking a selfie or manually by choosing your skin tone, hairstyle, and other features. Once created, you'll have access to custom stickers featuring your avatar, which you can use in chats. You can also use different images of your avatar for your profile picture.
@@ -105,11 +113,7 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 ![Checking the custom avatar stickers and profile photo in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/6-checking-the-custom-avatar-stickers-and-profile-photo-in-whatsapp.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7  Set Custom Wallpapers for Individual Contacts 
@@ -125,7 +129,7 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 ![Changing a wallpaper for a particular chat in WhatsApp on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-changing-a-wallpaper-for-a-particular-chat-in-whatsapp.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8  Share Your Live Location with Others 
@@ -143,10 +147,6 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
  To stop sharing your location with a particular contact, tap "Stop Sharing."
 
 ![Stopping the location sharing in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/10-stopping-the-location-sharing-in-whatsapp.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -167,24 +167,17 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-a-step-by-step-breakdown-creating-your-best-yt-shorts/"><u>[Updated] 2024 Approved A Step-by-Step Breakdown Creating Your Best YT Shorts</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-photoshop-techniques-for-dynamic-realistic-text/"><u>[Updated] Photoshop Techniques for Dynamic, Realistic Text</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-dynamic-edge-technique-adding-motion-blur-to-portraits-using-picsart/"><u>[Updated] The Dynamic Edge Technique Adding Motion Blur to Portraits Using Picsart</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-path-to-prominence-elevating-brands-with-telegram-strategies/"><u>[Updated] The Path to Prominence Elevating Brands with Telegram Strategies</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-for-a-solo-show-that-stands-out/"><u>[Updated] The Ultimate Guide for a Solo Show that Stands Out</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-transform-photos-with-expert-color-techniques/"><u>[Updated] Transform Photos with Expert Color Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-guide-to-directors-success-powerdirector-2024/"><u>[Updated] Ultimate Guide to Directors' Success - PowerDirector 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-potential-top-tactics-for-medical-ads-on-social-networks/"><u>[Updated] Unlocking Potential Top Tactics for Medical Ads on Social Networks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-full-potential-top-9-methods-in-vr-cinematography/"><u>[Updated] Unlocking the Full Potential Top 9 Methods in VR Cinematography</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-potential-of-wide-angle-360-photos/"><u>[Updated] Unlocking the Potential of Wide Angle 360 Photos</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpts-game-time-discover-the-six-most-exciting-playable-options/"><u>ChatGPT's Game Time! Discover the Six Most Exciting Playable Options</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-action-camera-showdown-unmatched-seventh-lineup-wetproof/"><u>In 2024, Action Camera Showdown Unmatched Seventh Lineup Wetproof</u></a></li>
-<li><a href="https://driver-install.techidaily.com/new-drivers-for-geforce-gtx-1060-available/"><u>New Drivers for GeForce GTX 1060 Available</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-a-steal-with-top-notch-screen-tech-exclusive-laptop-sale-covered-by-zdnet-awaits-your-clicks-now/"><u>Score a Steal with Top-Notch Screen Tech: Exclusive Laptop Sale Covered by ZDNet Awaits Your Clicks Now!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-3-tactics-transforming-pin-videos-into-mp3-sounds-for-2024/"><u>Top 3 Tactics Transforming Pin Videos Into MP3 Sounds for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-black-friday-laptop-savings-guide-premier-deals-awaiting-in-oct-24/"><u>Ultimate Black Friday Laptop Savings Guide: Premier Deals Awaiting in Oct '24</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-visual-potential-with-smart-photo-text-tools-online-for-2024/"><u>Unlock Visual Potential with Smart Photo Text Tools Online for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-the-videos-you-record-with-your-phone-often-dont-last-very-long-which-makes-it-a-bit-difficult-to-tell-the-entire-story-of-the-scene-y/"><u>Updated 2024 Approved The Videos You Record with Your Phone Often Dont Last Very Long, Which Makes It a Bit Difficult to Tell the Entire Story of the Scene You Captured. Thats Why in This Article We Are Going to Present</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-virtual-world-cinema-lineup/"><u>[New] Ultimate Virtual World Cinema Lineup</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-best-budget-friendly-hd-cameras-for-adrenaline-junkies/"><u>[Updated] Best Budget-Friendly HD Cameras for Adrenaline Junkies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamline-multitasking-switch-between-pip-and-normal-screen-mode-ios/"><u>[Updated] Streamline Multitasking Switch Between PIP and Normal Screen Mode (iOS)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-turbocharged-titans-compile-the-finest-srt-enhancements-for-pcs-and-macs/"><u>[Updated] Turbocharged Titans Compile the Finest SRT Enhancements for PCs & Macs</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-digital-content-arena-competing-titans-vimeo-youtube-dailymotion/"><u>In 2024, Digital Content Arena Competing Titans - Vimeo, YouTube, DailyMotion</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-innovative-techniques-for-superior-canva-visuals/"><u>In 2024, Innovative Techniques for Superior Canva Visuals</u></a></li>
+<li><a href="https://some-skills.techidaily.com/live-stream-on-youtube-without-1000-subscribers-on-a-mobile-for-2024/"><u>Live Stream on YouTube without 1000 Subscribers on a Mobile for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-your-laptops-lifespan-with-windows-ng-battery-insight-techniques/"><u>Maximize Your Laptop's Lifespan with Windows nG Battery Insight Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-the-world-of-spotifys-advertising-landscape-for-2024/"><u>Navigating the World of Spotify's Advertising Landscape for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-mini-tablet-picks-comprehensive-reviews-by-tech-gurus/"><u>Top-Rated Mini Tablet Picks - Comprehensive Reviews by Tech Gurus</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-ideas-into-impactful-podcast-content-writing-tips-and-samples-for-2024/"><u>Transform Your Ideas Into Impactful Podcast Content Writing Tips & Samples for 2024</u></a></li>
 </ul></div>
 

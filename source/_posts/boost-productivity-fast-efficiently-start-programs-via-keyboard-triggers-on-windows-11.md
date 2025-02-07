@@ -1,7 +1,7 @@
 ---
 title: "Boost Productivity Fast: Efficiently Start Programs via Keyboard Triggers on Windows 11"
-date: 2025-01-24T17:10:04.710Z
-updated: 2025-01-25T20:47:15.697Z
+date: 2025-02-03T18:46:48.728Z
+updated: 2025-02-07T17:09:10.452Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 ---
 
 ## Boost Productivity Fast: Efficiently Start Programs via Keyboard Triggers on Windows 11
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
  To pin an app to the taskbar, search for the program in the Start menu, right-click it, and select "Pin to Taskbar". Alternatively, find the program in File Explorer, then hold the Shift key and right-click it, and select "Pin to Taskbar."
 
 ![Pinning an app to the Taskbar on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pin-to-taskbar-2.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once pinned to the taskbar, click and drag the icons to move them to a different position.
 
@@ -49,20 +57,20 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 ![Creating a shortcut of an app on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/create-shortcut-1.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Right-click on the newly created shortcut and select "Properties" to open another window.
 
 ![A screenshot of Windows 11 depicting the Properties option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/windows-11-properties-1.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Within the "Shortcut Key" field, press a key. This creates a shortcut using the Ctrl and Alt keys. For example, in the screenshot below, I pressed "A" which created a shortcut of Ctrl + Alt + A. Once done, click "OK".
 
 ![Setting a shortcut key from the Properties window on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/properties-shortcut-key.jpeg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To remove a shortcut, press the Delete key within the "Shortcut Key" field.
 
@@ -76,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
 ![PowerToys Keyboard Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/powertoys-keyboard-manager.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To create your shortcut, first click "Add Shortcut Remapping." Click the pencil next to "Shortcut" and press the keys for your shortcut, then "OK" when done.
 
  Next, use the "Action" dropdown and click "Run Program", then click "Select Program" and find the program you want your shortcut to open.
@@ -89,14 +93,10 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 ![Remapping a shortcut in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/remapping-a-shortcut-in-powertoys.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you ever want to delete a shortcut, return to this screen and click the trash can.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Use AutoHotkey to Open Apps
 
@@ -154,20 +154,18 @@ Run "C:\Program Files (x86)\Steam\steam.exe"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-essence-of-whatsapp-call-conversations/"><u>[New] The Essence of WhatsApp Call Conversations</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-fresh-talent-and-stunts-in-skating-highlights/"><u>[Updated] In 2024, Fresh Talent and Stunts in Skating Highlights</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-maximizing-your-youtube-presence-via-featured-channel-strategy/"><u>[Updated] Maximizing Your Youtube Presence via Featured Channel Strategy</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-precision-viewing-at-a-glance-quick-minigame-tips/"><u>2024 Approved Precision Viewing at a Glance Quick Minigame Tips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-superior-solutions-top-bdr-softwares-for-windows-macos/"><u>2024 Approved Superior Solutions Top BDR Softwares for Windows, macOS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-mix-of-soundtracks-and-visuals-adding-srt-to-mp4/"><u>2024 Approved The Ultimate Mix of Soundtracks and Visuals Adding SRT to MP4</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-voice-memo-reference-manual/"><u>2024 Approved The Ultimate Voice Memo Reference Manual</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/capturing-closer-action-tips-for-zooming-in-on-videoleap-for-2024/"><u>Capturing Closer Action Tips for Zooming In on Videoleap for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-resolve-exception-reached-error-during-debugging/"><u>How to Resolve 'Exception Reached' Error During Debugging</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-asus-rog-phone-8-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Asus ROG Phone 8 Pro Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-google-pixel-8-pro-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Google Pixel 8 Pro Phone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-battle-for-yggdrasil-ragnarok-begins/"><u>In 2024, Battle for Yggdrasil Ragnarok Begins</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-editors-edge-insider-strategies-to-supercharge-your-photos/"><u>In 2024, The Editor's Edge Insider Strategies to Supercharge Your Photos</u></a></li>
-<li><a href="https://program-issues.techidaily.com/smooth-gaming-experience-with-a-patched-up-a-total-war-saga-troy-for-pc-users/"><u>Smooth Gaming Experience with a Patched-Up A Total War Saga: Troy for PC Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-scrolling-through-engaging-youtube-remarks-for-2024/"><u>The Ultimate Guide to Scrolling Through Engaging YouTube Remarks for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-spectacular-stop-motion-animations-15-list/"><u>[New] In 2024, Spectacular Stop-Motion Animations #15 List</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-summit-of-virtual-reality-resolution/"><u>[Updated] Summit of Virtual Reality Resolution</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-superior-photo-inspector-fast-and-reliable/"><u>[Updated] Superior Photo Inspector, Fast & Reliable</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-finest-places-to-source-high-quality-vectors/"><u>[Updated] The Finest Places to Source High-Quality Vectors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transcending-boundaries-the-vr-evolutionary-journey/"><u>2024 Approved Transcending Boundaries The VR Evolutionary Journey</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-samsung-galaxy-a05-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-switching-off-text-on-screen-while-watching-prime-video-content/"><u>Guide to Switching Off Text on Screen While Watching Prime Video Content</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-restore-or-replace-msvcr70dll-handling-file-not-found-issues/"><u>How To Restore or Replace MSVCR70.dll: Handling File Not Found Issues</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-media-with-apple-music-and-video-mixes/"><u>In 2024, Streamlining Media with Apple Music & Video Mixes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/love-algorithms-how-gpt-transforms-relationships/"><u>Love Algorithms: How GPT Transforms Relationships</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/score-big-with-amazing-deals-find-quality-tribit-speakers-and-earbuds-at-unbeatable-prices-on-prime-day/"><u>Score Big with Amazing Deals - Find Quality Tribit Speakers & Earbuds at Unbeatable Prices on Prime Day</u></a></li>
+<li><a href="https://some-skills.techidaily.com/strategies-to-ensure-iphone-camera-focus-for-2024/"><u>Strategies to Ensure iPhone Camera Focus for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/trim-vertical-lines-on-computer-screens/"><u>Trim Vertical Lines on Computer Screens</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Tutorial: Enabling Specific Ports in Windows Firewall Settings"
-date: 2025-01-21T21:10:47.129Z
-updated: 2025-01-25T17:23:33.060Z
+date: 2025-02-05T16:57:09.235Z
+updated: 2025-02-07T20:01:29.244Z
 tags:
   - deals
 categories:
@@ -24,11 +24,19 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 
  Firewalls are there to protect you from threats on the internet (both traffic from the internet and from local applications trying to gain access when they shouldn't). Sometimes, though, you'll want to allow otherwise restricted traffic through your firewall. To do so, you'll have to open a port.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Do Ports Do? 
 
  When a device connects to another device on a network (including the internet), it specifies a port number that lets the receiving device know how to handle the traffic. Where an [IP address](https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/) shows traffic how to get to a particular device on a network, the port number lets the receiving device know which program gets that traffic. By default, most unsolicited traffic from the internet is blocked by Windows Firewall. If you're running something like a game server, you might need to open a port to allow that specific kind of traffic through the firewall.
 
  This article shows you how to open a port on a particular PC's firewall to let traffic in. If you have a router on your network (which you likely do), you will also need to allow the same traffic through that router by [forwarding the port](https://tech-revival.techidaily.com/unlock-chatgpts-potential-with-simple-plugin-signups/) there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Open a Port on Windows 10
 
@@ -40,13 +48,13 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 
 ![Click on "Advanced Settings" on the left-hand side.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-click-advanced-setting.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This launches Windows Defender Firewall with Advanced Security. Click the "Inbound Rules" category on the left. In the far right pane, click the "New Rule" command.
 
 ![Click the "Inbound Rule" item, then click "New Rule."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-inbound-service-rules.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you need to open a rule for outgoing traffic, instead of clicking "Inbound Rule," you'd click "Outbound Rule." Most apps are pretty good about creating their own outbound rules when you install them, but you might occasionally run into one that cannot.
 
@@ -57,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 ![Select "Port," then hit "Next."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-port-click-next.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On the next screen, you'll have to choose whether the port you're opening uses the Transmission Control Protocol (TCP) or User Datagram Protocol (UDP). Unfortunately, we can't tell you specifically which to use because different apps use different protocols. Port numbers can range from 0-65535, with ports up to 1023 being reserved for privileged services. You can find an unofficial list of (most) TCP/UDP ports on [the Wikipedia page](https://en.wikipedia.org/wiki/List%5Fof%5FTCP%5Fand%5FUDP%5Fport%5Fnumbers), and you can also search for the app you're using. If you can't determine the specific protocol to use for your app, you can create two new inbound rules — one for TCP and one for UDP.
@@ -73,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 ![/wordpress/wp-content/uploads/2018/11/2018-11-10_12h22_57.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/11/2018-11-10_12h22_57.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  For this guide, we'll be using the "Allow the Connection" option, as we trust the connection for which we're creating a rule. If you want a little more piece of mind, the "Allow the connection if it is secure" rule uses [Internet Protocol security (IPsec)](https://www.howtogeek.com/211329/which-is-the-best-vpn-protocol-pptp-vs.-openvpn-vs.-l2tpipsec-vs.-sstp/) to authenticate the connection. You can try that option, but many apps do not support it. If you try the more secure option and it doesn't work, you can always come back and change to the less secure one.
@@ -86,17 +94,9 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 
 ![Choose which networks the rule applies to.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/8-choose-relevant.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the final window, give your new rule a name and an optional, more detailed description. Click "Finish" when you're done.
 
 ![Enter a rule name and description.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/9-click-finish-after-entering-description.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you want to disable the rule at any point, locate it in the list of Inbound or Outbound Rules, right-click it, and then click "Disable Rule."
 
@@ -119,24 +119,24 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-windows-11-video-editing-simplified-utilizing-storyremix-features/"><u>[New] In 2024, Windows 11 Video Editing Simplified Utilizing StoryRemix Features</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-strategies-for-time-loop-visual-tricks/"><u>[New] Strategies for Time-Loop Visual Tricks</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-unlocking-image-clarity-techniques-for-online-cropping-for-2024/"><u>[New] Unlocking Image Clarity Techniques for Online Cropping for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiled-top-10-superior-gopro-housing-options/"><u>[New] Unveiled Top 10 Superior GoPro Housing Options</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-the-1-to-5-of-windows-free-screen-capture-apps/"><u>[New] Unveiling the #1 to #5 of Windows Free Screen Capture Apps</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-demystifying-the-world-of-youtube-shorts/"><u>[Updated] Demystifying the World of YouTube Shorts</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-ultimate-path-to-perfected-morphvox-control/"><u>[Updated] In 2024, The Ultimate Path to Perfected MorphVOX Control</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-potential-in-audio-design-with-magix-fusion-x/"><u>[Updated] Unlocking Potential in Audio Design with Magix Fusion X</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-projects-using-azures-speech-service/"><u>2024 Approved Streamlining Projects Using Azure's Speech Service</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-technology-showcase-highlights-of-the-5-best-slow-cams/"><u>2024 Approved Technology Showcase Highlights of the 5 Best Slow Cams</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-blueprint-for-a-streamlined-social-media-connection-with-linktree/"><u>2024 Approved The Blueprint for a Streamlined Social Media Connection with Linktree</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tips-for-producing-compelling-podcast-introductions/"><u>2024 Approved Tips for Producing Compelling Podcast Introductions</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/abbyy-und-der-schatz-der-prozessintelligenz-erkenntnisse-aufdecken/"><u>ABBYY Und Der Schatz Der Prozessintelligenz: Erkenntnisse Aufdecken</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/asus-rog-zephyrus-g16-analysis-a-rollercoaster-of-performance-for-gamers/"><u>Asus ROG Zephyrus G16 Analysis: A Rollercoaster of Performance for Gamers</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-xiaomi-redmi-note-12-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Xiaomi Redmi Note 12 5G Phones with/without a PC</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-meizu-21-pro-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Meizu 21 Pro online without jailbreak</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-metaverse-meme-phenomenon-a-comprehensive-overview/"><u>In 2024, The Metaverse Meme Phenomenon A Comprehensive Overview</u></a></li>
-<li><a href="https://win-premium.techidaily.com/step-by-step-guide-transferring-files-from-miniature-to-large-sd-cards-for-raspberry-pi-with-windows-10/"><u>Step-by-Step Guide: Transferring Files From Miniature to Large SD Cards for Raspberry Pi with Windows 10</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1032142-9780810870277-the-a-to-z-of-witchcraft/"><u>The A to Z of Witchcraft | Free Book</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-one-minute-color-magic/"><u>[New] 2024 Approved One Minute Color Magic</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-your-casual-gopro-footage-to-a-pro-level/"><u>[New] Transform Your Casual Gopro Footage to a Pro Level</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-comprehensive-capture-and-review-with-az/"><u>[Updated] 2024 Approved Comprehensive Capture & Review with AZ</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-from-lurkers-to-leaders-top-30-strategies-for-facebook-pros/"><u>[Updated] From Lurkers to Leaders Top 30 Strategies for Facebook Pros</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-expertly-ranked-best-internet-sound-recorders-2023/"><u>[Updated] In 2024, Expertly Ranked Best Internet Sound Recorders 2023</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-vimeo-record-how-to-use-vimeo-record-to-capture-screen-and-webcam/"><u>[Updated] In 2024, Vimeo Record How to Use Vimeo Record to Capture Screen and Webcam</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-superior-3d-tools-for-animated-designers/"><u>[Updated] Superior 3D Tools for Animated Designers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-science-of-choosing-music-for-movie-previews/"><u>[Updated] The Science of Choosing Music for Movie Previews</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-top-free-sources-discovering-copyright-free-soundtracks/"><u>[Updated] The Top Free Sources Discovering Copyright-Free Soundtracks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-effective-reddit-sharing/"><u>[Updated] The Ultimate Guide to Effective Reddit Sharing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-images-with-complete-understanding-of-facetune/"><u>2024 Approved Transforming Images with Complete Understanding of Facetune</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-secrets-of-automatic-transcription-in-google-docs/"><u>2024 Approved Unveiling the Secrets of Automatic Transcription in Google Docs</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/chronicle-crafters-collective-select-seventeen-for-2024/"><u>Chronicle Crafters Collective - Select Seventeen for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-captivating-content-the-power-of-hashtagging-in-gaming-yt/"><u>Crafting Captivating Content The Power of Hashtagging in Gaming YT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-wallet-power-with-premium-w11-pro-deals/"><u>Elevate Wallet Power with Premium W11 Pro Deals</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transformative-tones-expert-chromatic-conversion/"><u>In 2024, Transformative Tones Expert Chromatic Conversion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-secrets-of-medical-ad-success-on-fb/"><u>In 2024, Unveiling the Secrets of Medical Ad Success on FB</u></a></li>
+<li><a href="https://win11.techidaily.com/silent-storage-strategies-for-stealthy-windows-users/"><u>Silent Storage Strategies for Stealthy Windows Users</u></a></li>
 </ul></div>
 

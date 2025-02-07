@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Linux File Timestamps – Decoding Atime, Mtime, and Ctime Explained
-date: 2025-01-21T18:19:13.152Z
-updated: 2025-01-25T18:28:59.543Z
+date: 2025-02-02T16:19:57.189Z
+updated: 2025-02-07T19:40:51.744Z
 tags:
   - desktop
 categories:
@@ -33,10 +33,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Changed timestamps aren't referring to changes made to the contents of a file. Rather, it's the time at which the metadata related to the file was changed. File permission changes, for example, will update the changed timestamp.
 
  The standard [ext4 Linux file system](https://remote-screen-capture.techidaily.com/new-the-definitive-guide-to-android-mobas-10-winners-for-2024/) also allocates space for a file-creation timestamp in its internal file system structures, but this hasn't been implemented yet. Sometimes, this timestamp is populated, but you can't depend on the values in it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The Anatomy of a Timestamp
 
@@ -92,10 +88,6 @@ stat dp.c
 
 ![touch -a dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/3-8.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The access timestamp changed, as expected. However, the changed timestamp was updated as well; this is normal.
 
  To change the modified timestamp, you can use the -m (modified time) option:
@@ -105,6 +97,10 @@ touch -m dp.c
 stat dp.c
 
 ![touch -m dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/4-6.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This time, the modified and changed timestamps were updated.
 
@@ -118,6 +114,10 @@ stat dp.c
 
 ![touch -d "2020-01-15 10:30:45" dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/5-6.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We've now set the access and modified timestamps to a date in the past. The changed timestamp was also updated to the current time of the computer.
 
  You can also use the -r (reference) option, as shown below, if you want to set the timestamps of one file to the timestamp values of another:
@@ -129,7 +129,7 @@ stat dp.c
 ![touch dp.c -r dice_words.sl3 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/6-5.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  And then, we're pretty much back where we started, with a mixture of -0400 and -0500 timestamps.
@@ -143,14 +143,10 @@ stat dp
 ![The &quot;chmod +x dp&quot; and &quot;stat dp&quot; commands in a terminal window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/10-6.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The changed timestamp was the only one that updated. This is because the file itself wasn't changed—it was neither accessed nor modified. However, the metadata about the file was changed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How the File System Updates Timestamps
 
@@ -173,10 +169,6 @@ less /etc/fstab
 
 ![The /etc/fstab file in less in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/8-5.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Here's the content of the file without the wrap-around:
 
         `# /etc/fstab: static file system information.  
@@ -184,14 +176,10 @@ less /etc/fstab
 ## 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use 'blkid' to print the universally unique identifier for a  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## device; this may be used with UUID= as a more robust way to name devices  
 
@@ -199,7 +187,15 @@ less /etc/fstab
 
 ## 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## <file system> <mount point> <type> <options> <dump> <pass>  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## / was on /dev/sda1 during installation  
 UUID=4a143d08-8695-475b-8243-b13b56050fc2 / ext4 errors=remount-ro 0 1  
@@ -216,6 +212,10 @@ UUID=4a143d08-8695-475b-8243-b13b56050fc2 / ext4 errors=remount-ro 0 1
 cat /proc/mounts | grep "sda"
 
 ![cat /proc/mounts | grep "sda" in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/9-6.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now we see the following options:
 
@@ -259,18 +259,22 @@ cat /proc/mounts | grep "sda"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/he-hidden-face-technique-for-anonymous-content-sharing/"><u>[New] The Hidden Face Technique for Anonymous Content Sharing</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-tuxera-nero-reader-comprehensive-multimedia-tool/"><u>[New] Tuxera Nero Reader Comprehensive Multimedia Tool</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlock-your-social-media-superpowers-top-9-instagram-techniques-to-skyrocket-popularity/"><u>[New] Unlock Your Social Media Superpowers Top 9 Instagram Techniques to Skyrocket Popularity</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-no-fuss-guide-for-exploring-loved-and-trending-youtube-comments/"><u>[Updated] The No-Fuss Guide for Exploring Loved and Trending YouTube Comments</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transforming-mundane-interviews-into-memorable-experienrances/"><u>[Updated] Transforming Mundane Interviews Into Memorable Experienrances</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/down-of-profit-earning-potential-from-each-youtube-sponsored-post-for-2024/"><u>Breakdown of Profit Earning Potential From Each YouTube Sponsored Post for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bust-the-silence-effective-fixes-for-hyperx-cloud-headset-microphone-failures/"><u>Bust the Silence: Effective Fixes for HyperX Cloud Headset Microphone Failures</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/buy-and-upgrade-your-iphone-with-our-superior-eraser/"><u>Buy and Upgrade Your iPhone with Our Superior Eraser</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/enhancing-your-nba-viewing-with-smart-techniques/"><u>Enhancing Your NBA Viewing with Smart Techniques</u></a></li>
-<li><a href="https://driver-download.techidaily.com/getting-your-internet-back-repairing-and-updating-the-ralink-rt3290-wifi-drivers-on-legacy-windows-systems/"><u>Getting Your Internet Back: Repairing and Updating the Ralink RT3290 WiFi Drivers on Legacy Windows Systems</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s24-phone-without-pin-by-drfone-android/"><u>How to Unlock Samsung Galaxy S24 Phone without PIN</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-vivo-s17e-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Vivo S17e Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-soundtrack-of-stills-visual-audio-crafting/"><u>In 2024, The Soundtrack of Stills Visual-Audio Crafting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-sky-battle-drone-racing-fundamentals-and-top-5-fpv-titans/"><u>[New] The Ultimate Sky Battle Drone Racing Fundamentals & Top 5 FPV Titans</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tune-into-the-beats-with-these-free-online-scanners/"><u>[New] Tune Into the Beats with These Free Online Scanners</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-9plus-ingenious-methods-for-online-cricket-viewing/"><u>[New] Unveiling 9+ Ingenious Methods for Online Cricket Viewing</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-innovative-approaches-applying-luts-in-photoshop-cc-post-processing-for-2024/"><u>[Updated] Innovative Approaches Applying LUTs in Photoshop CC Post-Processing for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-zoom-like-a-pro-top-video-gear-for-slow-motion-effects/"><u>[Updated] Zoom Like a Pro Top Video Gear for Slow Motion Effects</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-the-power-of-time-markings-in-your-youtube-content/"><u>2024 Approved Unlock the Power of Time Markings in Your YouTube Content</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/accessing-and-saving-discord-media-free-methods-revealed-for-2024/"><u>Accessing and Saving Discord Media Free Methods Revealed for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-13-mini-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>Apple iPhone 13 mini Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-honor-magic-6-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-decoding-facebooks-algorithm-the-way-to-access-vids/"><u>In 2024, Decoding Facebook's Algorithm The Way to Access Vids</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-iphone-landscapes-pro-techniques-you-must-know/"><u>In 2024, The Art of iPhone Landscapes Pro Techniques You Must Know</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-7-strategies-for-delicious-food-vids/"><u>In 2024, Top 7 Strategies for Delicious Food Vids</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-superiority-in-choosing-drones-lipo-energizers/"><u>In 2024, Unveiling Superiority in Choosing Drones' LiPo Energizers</u></a></li>
+<li><a href="https://techidaily.com/solved-the-file-is-corrupted-and-cannot-be-opened-excel-by-stellar-guide/"><u>Solved - The File is Corrupted and Cannot be Opened - Excel</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/step-by-step-guide-for-building-impressive-iphone-photo-collagues-for-2024/"><u>Step-by-Step Guide for Building Impressive iPhone Photo Collagues for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-complete-guide-to-iphone-sound-personalization-for-2024/"><u>The Complete Guide to iPhone Sound Personalization for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/traversing-the-timeline-of-facebook-narratives-mobile-plus-laptop-for-2024/"><u>Traversing the Timeline of Facebook Narratives (Mobile + Laptop) for 2024</u></a></li>
 </ul></div>
 

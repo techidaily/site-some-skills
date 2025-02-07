@@ -1,7 +1,7 @@
 ---
 title: "Exploring Solana: The Emerging 'Ethereum Killer' Explained"
-date: 2025-01-21T16:06:10.290Z
-updated: 2025-01-25T18:20:09.517Z
+date: 2025-02-03T18:28:18.265Z
+updated: 2025-02-07T17:56:24.025Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/d0531d40b03cde46602b7231bfc17c15ddbf08155
 ## Exploring Solana: The Emerging 'Ethereum Killer' Explained
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/d0531d40b03cde46602b7231bfc17c15ddbf08155
 * [A Cheaper Alternative](https://video-capture.techidaily.com/updated-2024-approved-preparing-to-engage-in-googles-video-meetings/)
 
  Solana is a high-speed and permissionless [layer](https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-motorola-razr-40-by-drfone-android/) 1 public [blockchain](https://facebook-videos.techidaily.com/updated-2024-approved-top-playlist-hits-social-medias-1-10-video-winners/) that is sometimes called an "Ethereum Killer" because it features cheap fees and fast transactions compared to the often [expensive "gas" fees due to high traffic on Ethereum](https://screen-video-capture.techidaily.com/new-unleashing-creativity-how-to-master-io-screen-capture-for-2024/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Background of Solana
 
@@ -50,6 +54,10 @@ Related: [Proof of Work vs. Proof of Stake: What's the Difference?](https://grap
 
 ![Solana Token Distribution](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Screen-Shot-2022-06-28-at-2.50.26-PM.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _[The Tie Labs](https://research.thetie.io/solana-ecosystem/)_
 
  The current total supply is approximately 523k SOL, with a circulating supply of about 342k SOL as of June 2022 (via [Solana](https://explorer.solana.com/supply/)). When the Solana network first launched, it had an initial total supply of 500k SOL. However, the Solana Foundation [previously burned 11 million SOL](https://medium.com/solana-labs/solana-will-reduce-its-token-supply-to-account-for-market-making-allocation-b8366288acef/). This reduced the total supply down to around 488k SOL.
@@ -68,10 +76,6 @@ _[The Tie Labs](https://research.thetie.io/solana-ecosystem/)_
 
 ![Solana Token Distribution](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Screen-Shot-2022-06-28-at-2.50.26-PM.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _[The Tie Labs](https://research.thetie.io/solana-ecosystem/)_
 
  Non-fungible token (NFT) sales on the Solana blockchain crossed the $1 billion mark in total volume in January of 2022\. Studying the data shows that overall volume and the number of unique buyers has steadily increased over time, while the average price of each sale has gone down.
@@ -80,15 +84,15 @@ _[The Tie Labs](https://research.thetie.io/solana-ecosystem/)_
 
 ![Solana Token Distribution](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Screen-Shot-2022-06-28-at-2.50.26-PM.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _[The Tie Labs](https://research.thetie.io/solana-ecosystem/)_
 
  The cheap fees have also made Solana a go-to choice for many builders in the space who require high performance and cheap fees as part of their business model. Many projects are leveraging these features for cultural, events, music, and artistic use cases that require this kind of throughput to make their projects viable.
 
  The performance of Solana has attracted game developers and there are several high-profile games in production that make use of NFTs including [STEPN](https://stepn.com/), a move-to-earn game, and [Star Atlas](https://staratlas.com/), which is an [MMORPG](https://driver-error.techidaily.com/re-establish-connection-with-devices-in-winnt-40/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Centralization Concerns** 
 
@@ -101,7 +105,7 @@ _[The Tie Labs](https://research.thetie.io/solana-ecosystem/)_
 ![Solana Uptime Jan - March 2022](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Screen-Shot-2022-06-28-at-1.11.14-PM.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _[Solana Status](https://status.solana.com/uptime?page=2)_
@@ -111,10 +115,6 @@ _[Solana Status](https://status.solana.com/uptime?page=2)_
  When the network has gone down, it has been typically due to the failure of the validators to reach consensus and agree on the accuracy of the chain. These inconsistencies have sometimes come from a flood of bots flooding the network with transactions.
 
  Many people in web3 are critical of Solana because of these outages. Some people decry that Solana is not ready for the scale that it hopes to achieve. Others state that these are growing pains, and that the network is experiencing an iterative period of stress tests which are helping Solana become more battle-hardened and robust as weaknesses are exposed and then patched and resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Final Thoughts** 
 
@@ -141,20 +141,21 @@ _[Solana Status](https://status.solana.com/uptime?page=2)_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-toggle-your-youtube-video-with-picture-in-picture-on-ios/"><u>[New] In 2024, Toggle Your YouTube Video with Picture-in-Picture on iOS</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-perfecting-elite-canon-time-lapse-cinematic/"><u>[New] Perfecting Elite Canon Time-Lapse Cinematic</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-essential-tutorial-for-adding-videos-to-youtube-plays/"><u>[New] The Essential Tutorial for Adding Videos to YouTube Plays</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-chuckle-chronicles-top-10-humoristic-youtube-video-plans-for-2024/"><u>[Updated] Chuckle Chronicles Top 10 Humoristic YouTube Video Plans for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-unleash-creativity-capturing-sims-4-adventures/"><u>[Updated] In 2024, Unleash Creativity Capturing Sims 4 Adventures</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-mx-player-pro-next-gen-streaming-tool/"><u>[Updated] MX Player Pro Next-Gen Streaming Tool</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-audio-excellence-in-ios-settings/"><u>[Updated] Unlocking Audio Excellence in iOS Settings</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-itunes-radio-downloading-blueprint/"><u>2024 Approved The Complete iTunes Radio Downloading Blueprint</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-360-view-camera-analysis/"><u>2024 Approved Ultimate 360-View Camera Analysis</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-visual-potential-incorporating-new-fonts-in-ae/"><u>2024 Approved Unleashing Visual Potential Incorporating New Fonts in AE</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-hot-30i-phone-without-pin-by-drfone-android/"><u>How to Unlock Infinix Hot 30i Phone without PIN</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-htc-u23-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your HTC U23 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rehabilitating-the-non-deletable-character-in-microsoft-os/"><u>Rehabilitating the Non-Deletable Character in Microsoft OS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-adding-time-markers-on-youtubes-for-2024/"><u>The Ultimate Guide to Adding Time Markers on YouTubes for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unleashing-superzoom-power-in-the-portable-canon-sx720hs/"><u>Unleashing Superzoom Power in the Portable Canon SX720HS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-complete-srt-file-makers-handbook/"><u>[New] The Complete SRT File Maker's Handbook</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-streamlined-processes-for-effective-apple-display-recording/"><u>[Updated] Streamlined Processes for Effective Apple Display Recording</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-creativity-with-these-essential-vector-editors/"><u>2024 Approved Unleash Creativity with These Essential Vector Editors</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-oneplus-nord-ce-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-the-m1-and-m3-macbook-pro-models-is-it-time-for-an-upgrade-insights-from-zdnet/"><u>Comparing the M1 and M3 MacBook Pro Models: Is It Time for an Upgrade? - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-dungeons-and-dragons-adventures-with-chatgpt-a-step-by-step-guide/"><u>Elevate Your Dungeons & Dragons Adventures with ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-list-of-radar-detectors-endorsed-by-professionals-discover-on-zdnet/"><u>Elite List of Radar Detectors Endorsed by Professionals | Discover on ZDNet</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-exploring-magix-music-creators-capabilities/"><u>In 2024, Exploring Magix Music Creator's Capabilities</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-invisible-web-seo-secrets-for-podcasters/"><u>In 2024, The Invisible Web SEO Secrets for Podcasters</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-mystery-of-free-graphic-imagery/"><u>In 2024, Unveiling the Mystery of Free Graphic Imagery</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premium-pc-gpus-for-high-res-editing/"><u>Premium PC GPUs for High-Res Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-smooth-slide-advanced-techniques-for-inshot-transitions-for-2024/"><u>The Smooth Slide Advanced Techniques for Inshot Transitions for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-insights-into-audio-memos-for-2024/"><u>The Ultimate Insights Into Audio Memos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-sea-snag-footage-top-5-picks-for-2024/"><u>Ultimate Sea Snag Footage - Top 5 Picks for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/unified-event-tracking-harmonizing-phone-and-tablet-with-pc-zoom/"><u>Unified Event Tracking Harmonizing Phone & Tablet with PC Zoom</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/unveiling-the-secrets-to-effective-macbook-air-screen-capture/"><u>Unveiling the Secrets to Effective MacBook Air Screen Capture</u></a></li>
 </ul></div>
 

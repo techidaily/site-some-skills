@@ -1,7 +1,7 @@
 ---
 title: "Windows Migrants Beware: 7 Peculiar Mac Habits That Will Surprise You"
-date: 2025-01-24T21:00:24.100Z
-updated: 2025-01-25T22:17:31.616Z
+date: 2025-02-05T16:29:28.093Z
+updated: 2025-02-07T19:30:34.461Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 ---
 
 ## Windows Migrants Beware: 7 Peculiar Mac Habits That Will Surprise You
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -23,15 +27,15 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 
  If you've been a Windows user, transitioning to macOS can be pretty daunting. From navigating a new interface to getting used to the keyboard shortcuts, there are many elements that could leave you feeling puzzled. Here are some of the main differences that you need to know about.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The Dock Is Not Like the Taskbar
 
  The macOS Dock has evolved significantly over the years and offers functionality like mouse-over magnification and the ability to show suggested and recent apps, among other things. For people who are shifting from Windows to macOS, though, the biggest difference is based around the very idea of what the Dock and Taskbar actually do.
 
 ![The Dock on a Mac laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/screenshot-2024-03-20-at-3-52-28-am.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Windows Taskbar is a comprehensive tool that displays everything from program icons to the time and date, and the search bar in one horizontal location. In comparison, the Dock simply focuses on displaying [app icons that you can pin,](https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-htc-u23-by-fonelab-android-recover-data/) as well as recently minimized windows and folders.
 
@@ -39,15 +43,15 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 
  You can access any apps that aren't in the Dock via the Launchpad, which is itself in the Dock by default.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Mac and Windows Keyboards Have Different Keys
 
  Mac and Windows keyboards have several keys that have the same functionality but are named differently. For example, the Alt key in Windows is the Option key on a Mac keyboard; Enter on Windows is Return on a Mac; and the Windows backspace key is Delete on a Mac.
 
 ![The Globe, Control, Option, and Command keys on a Mac keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-globe-control-option-and-command-keys-on-a-mac-keyboard.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Some keys, like the Control button, are on both keyboards but have different uses. For instance, keyboard shortcuts that require you to press the Control key on a Windows keyboard often use the Command key instead on a Mac. So, [copy and paste](https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-itel-s23plus-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/) is Ctrl+C and Ctrl+V in Windows, but Command+C and Command+V in macOS.
 
@@ -65,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 | Recycle Bin     | Trash                 |
 | Shortcut icon   | Alias                 |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Taking Screenshots Is Easy
 
  As a Windows user, you likely used the Windows Logo Key+PrtScn button combination to capture a screenshot of the entire screen. Alternatively, you've also likely used the Snipping Tool app to select and capture a specific area of the screen. On macOS, screenshots require slightly different shortcuts. Still, it's fairly easy to learn [how to screenshot on a Mac](https://youtube-tips.techidaily.com/-color-correction-for-youtube-beauty-for-2024/).
@@ -74,14 +82,10 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 ![Use the Command+Shift+5 shortcut to view screenshot and screen record options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/img_5723.JPG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Regardless of the shortcut you use, the screenshot is immediately saved to your macOS desktop for easy access.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  macOS Has Its Own Equivalents for the Windows Apps
 
@@ -90,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 ![Some of the Mac apps in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/some-of-the-mac-apps-in-macos.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Instead of the Task Manager on Windows, you can use Activity Monitor to view information about your laptop's hard drive utilization, memory usage, and other data.
@@ -118,10 +122,6 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
  Another key difference in the UI is the menu bar. In macOS, the menu bar is always located at the top of the screen rather than the top of the window and extends across its width. It gives you access to the Apple menu, Finder, the time and date, Wi-Fi and Bluetooth settings, and the battery status, as well as app-specific menu options.
 
 ![The menubar in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-menubar-in-macos.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In comparison, Windows laptops combine the Start menu, system tray, and taskbar into a single bar that's located at the bottom of the screen by default.
 
@@ -152,21 +152,24 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-decoding-chroma-techniques-from-raw-footage-to-final-cut/"><u>[New] 2024 Approved Decoding Chroma Techniques From Raw Footage to Final Cut</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-10-key-steps-for-optimal-stream-service-picks/"><u>[New] The 10 Key Steps for Optimal Stream Service Picks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-the-top-5-virtual-title-designers/"><u>[New] Unlocking the Top 5 Virtual Title Designers</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-free-makers-hub-for-top-tier-fb-visuals/"><u>[Updated] In 2024, Free Maker's Hub for Top-Tier FB Visuals</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-vivo-g2-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Vivo G2 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-video-streams-across-networks-using-vlc/"><u>2024 Approved Navigating Video Streams Across Networks Using VLC</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-uncover-the-health-perks-of-asmr-sounds/"><u>2024 Approved Uncover the Health Perks of ASMR Sounds</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/concrete-densifiers-increase-the-density-of-the-surface-layer-enhancing-durability-and-reducing-dusting/"><u>Concrete Densifiers Increase the Density of the Surface Layer, Enhancing Durability and Reducing Dusting.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723202547685-expert-tips-for-a-cheating-free-gaming-experience-on-apex-legends-fix-those-errors/"><u>Expert Tips for a Cheating-Free Gaming Experience on Apex Legends - Fix Those Errors!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-advanced-capabilities-of-the-samsung-galaxy-tab-s5e-android-tablet/"><u>Exploring the Advanced Capabilities of the Samsung Galaxy Tab S5e Android Tablet</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-meizu-21-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Meizu 21 Pro to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-prevalent-windows-rainmeter-troubles/"><u>Navigating Through Prevalent Windows Rainmeter Troubles</u></a></li>
-<li><a href="https://some-skills.techidaily.com/strategies-for-secure-unmarked-photography-procurement-for-2024/"><u>Strategies for Secure, Unmarked Photography Procurement for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/subtitles-revolution-srt-to-sub-upgrade-for-2024/"><u>Subtitles Revolution SRT to SUB Upgrade for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-insiders-guide-to-slow-motion-with-photos-and-web-tools-for-2024/"><u>The Insider's Guide to Slow Motion with Photos & Web Tools for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unleash-creativity-in-memes-genrator-assistance-for-2024/"><u>Unleash Creativity in Memes Gen'rator Assistance for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-boosting-story-reach-through-linked-profile-ties/"><u>[New] Boosting Story Reach Through Linked Profile Ties</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essential-guide-to-playstation-45-audio-tweaks/"><u>[New] The Essential Guide to PlayStation 4/5 Audio Tweaks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-viral-click-title-genie/"><u>[New] Ultimate Viral Click Title Genie</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-fcp-a-guide-to-obtaining-copy-without-cost/"><u>[Updated] Unlocking FCP A Guide to Obtaining Copy Without Cost</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-oneplus-11-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On OnePlus 11 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-gt-5-240w-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme GT 5 (240W) Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-syncopating-sounds-how-to-edit-music-effectively-in-canva/"><u>In 2024, Syncopating Sounds How to Edit Music Effectively in Canva</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-top-3-prime-video-hosts-beyond-youtube/"><u>In 2024, Top 3 Prime Video Hosts - Beyond YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-audio-respeeders-fast-fix-for-pace-modification/"><u>In 2024, Top Audio Respeeders Fast-Fix for Pace Modification</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-digital-picks-free-alarm-ringtones-download/"><u>In 2024, Top Digital Picks Free Alarm Ringtones Download</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-your-way-back-into-a-locked-out-facebook/"><u>Navigating Your Way Back Into a Locked-Out Facebook</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reducing-loudness-on-your-ps4-console-diagnosis-and-repair-guide/"><u>Reducing Loudness on Your PS4 Console: Diagnosis and Repair Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revamped-sound-experience-lgs-complimentary-audio-enhancement-tailored-for-apple-fans-unveiled/"><u>Revamped Sound Experience: LG's Complimentary Audio Enhancement Tailored for Apple Fans Unveiled</u></a></li>
+<li><a href="https://some-skills.techidaily.com/strategies-to-exclude-recommended-podcasts-in-spotify-for-2024/"><u>Strategies to Exclude Recommended Podcasts in Spotify for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-art-of-sound-design-for-captivating-canvas-clips/"><u>The Art of Sound Design for Captivating Canvas Clips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-artisans-blueprint-for-striking-image-collage-for-2024/"><u>The Artisan's Blueprint for Striking Image Collage for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-complete-rundown-on-dji-inspire-2-for-2024/"><u>The Complete Rundown on DJI Inspire 2 for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-echo-of-past-interactions-unraveling-your-facebook-history-for-2024/"><u>The Echo of Past Interactions Unraveling Your Facebook History for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/unmute-netflix-effortless-fixes-to-bring-back-sound/"><u>Unmute Netflix: Effortless Fixes to Bring Back Sound</u></a></li>
 </ul></div>
 

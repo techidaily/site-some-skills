@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Straightforward Route  Scrolling Through Popular YouTube Feedbacks\""
-date: 2024-08-21T00:44:58.404Z
-updated: 2024-08-22T00:44:58.404Z
+date: 2025-02-04T19:38:23.682Z
+updated: 2025-02-07T19:09:55.285Z
 tags: 
   - screen-recording
   - ai video
@@ -22,9 +22,6 @@ People nowadays can express their feelings and opinions online through social me
 
 People can watch, like, share, comment on, and upload videos using the YouTube service. You can access this video service on PCs, laptops, tablets, and mobile phones.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Are YouTube's Primary Purposes?
 
 * Users can look up and view videos.
@@ -33,6 +30,10 @@ People can watch, like, share, comment on, and upload videos using the YouTube s
 * Share, like, and comment on other YouTube videos
 * Users can follow or subscribe to other YouTube channels.
 * To arrange videos and combine them together, make playlists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Use YouTube?
 
@@ -69,8 +70,9 @@ Given how many students have smartphones, video is an excellent medium for conne
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to See Liked Comments on YouTube?
 
 YouTube is a service that is available for free, and it may be a terrific place for teenagers to find interest. Many young people use YouTube to watch comedy shows, how-to videos, recipes, hacks, and music videos. Teenagers also use the video-sharing platform to subscribe to other YouTubers and famous personalities and to follow their favorite vloggers (video bloggers).
@@ -93,28 +95,26 @@ Step2 Scroll down a little bit and click the **More** button.
 
 ![your youtube dashboard more](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-dashboard-more.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Click the **Comments** section.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![click comments your youtube dashboard](https://images.wondershare.com/filmora/article-images/2022/11/click-comments-your-youtube-dashboard.jpg)
 
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![your youtube comments date](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-comments-date.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To see videos/comments you liked or disliked, please follow these steps as continuation:
 
 Step4 In the **Google My Activity** tab, click **Other activity**.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![other activity youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/other-activity-youtube-comments.jpg)
 
 Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Click **View Comment Likes and Dislikes**.
@@ -125,19 +125,16 @@ Now you will see the videos you liked or disliked and also the comments you like
 
 ![date likes videos youtube](https://images.wondershare.com/filmora/article-images/2022/11/date-likes-videos-youtube.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This article tells you that you can't see who liked or disliked a comment, but you can see how many likes or dislikes a comment got. Then go to any video you want, scroll down to the comment section, and see how many likes or dislikes a comment received.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![likes comment received](https://images.wondershare.com/filmora/article-images/2022/11/likes-comment-received.jpg)
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## How to Respond to Comments
 
 Don't ignore someone who has questioned you or written you a heartfelt note. Keep the conversation (and engagement) going by responding to comments.
@@ -184,7 +181,6 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -207,8 +203,26 @@ Additionally, video creators can manually highlight commenters to mark them for 
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-advanced-techniques-for-screen-recorders-in-video-games/"><u>[New] Advanced Techniques for Screen Recorders in Video Games</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-how-to-rewind-a-twitch-live-stream/"><u>[New] In 2024, How to Rewind A Twitch Live Stream</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-complete-blueprint-adding-professional-effects-to-your-videos/"><u>[New] The Complete Blueprint Adding Professional Effects to Your Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-insiders-guide-to-finesse-and-control-on-insta-stories/"><u>[New] The Insider's Guide to Finesse and Control on Insta Stories</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transition-techniques-for-flawless-inshot-videos/"><u>[New] Transition Techniques for Flawless Inshot Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-5-iphone-x87-photoshoot-background-swappers/"><u>[New] Ultimate 5 iPhone X/8/7 Photoshoot Background Swappers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-easy-to-understand-techniques-for-first-time-filmmakers-using-green-screens/"><u>[Updated] Easy-to-Understand Techniques for First-Time Filmmakers Using Green Screens</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-how-to-fix-full-screen-error-in-obs/"><u>[Updated] In 2024, How to Fix Full Screen Error in OBS</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-illustrator-way-how-to-create-stunning-motion-effects/"><u>[Updated] The Illustrator Way How to Create Stunning Motion Effects</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transitioning-from-srt-to-subtitles/"><u>[Updated] Transitioning From SRT to Subtitles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-virtual-realms-on-your-phone-with-simple-steps/"><u>[Updated] Unlock Virtual Realms on Your Phone with Simple Steps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-best-android-photos-tactics/"><u>[Updated] Unveiling Best Android Photos Tactics</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-guidelines-to-gradually-reduce-audio-amplitude-in-logic-pro/"><u>2024 Approved Guidelines to Gradually Reduce Audio Amplitude in Logic Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-artisans-path-to-memetic-fame-via-gifs/"><u>2024 Approved The Artisan's Path to Memetic Fame via GIFs</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/desormais-en-cinq-minutes-limpact-des-nouvelles-mesures-douanieres-sur-les-livraisons-entre-le-royaume-uni-et-lue/"><u>Désormais en Cinq Minutes ! L'impact Des Nouvelles Mesures Douanières Sur Les Livraisons Entre Le Royaume-Uni Et L'UE</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/exploring-excel-spreadsheet-attributes-a-guide-by-yl-computing/"><u>Exploring Excel Spreadsheet Attributes: A Guide by YL Computing</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-itel-a60-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Itel A60 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essence-of-effortless-live-broadcasts-with-one-device-use/"><u>In 2024, The Essence of Effortless Live Broadcasts with One-Device Use</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-humorous-side-of-ai-plus-tracing-the-journey-of-laptop-innovation-and-vpn-enhancements/"><u>The Humorous Side of AI - Plus, Tracing the Journey of Laptop Innovation & VPN Enhancements</u></a></li>
+</ul></div>
 

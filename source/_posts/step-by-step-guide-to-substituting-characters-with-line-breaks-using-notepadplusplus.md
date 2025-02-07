@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Substituting Characters with Line Breaks Using Notepad++
-date: 2025-01-22T19:36:00.906Z
-updated: 2025-01-26T01:05:00.403Z
+date: 2025-02-05T16:24:50.498Z
+updated: 2025-02-07T19:36:40.894Z
 tags:
   - deals
 categories:
@@ -11,14 +11,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Step-by-Step Guide to Substituting Characters with Line Breaks Using Notepad++
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Convert Any Character into a Newline with Notepad++](https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/)
 * [How to Convert a Newline Character into Any Other Separator](https://techtrends.techidaily.com/perfect-progression-watching-the-wizarding-worlds-cinematic-journey-step-by-step/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -44,6 +44,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Replace menu in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/replace-notepad-plus-plus1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the Replace window that opens, click the "Find What" text entry box and type the current item separator. In our example case, our items are separated by a comma and a space, so we'll type a comma and then press Space. If your items are separated by pipes only, type the pipe character ("|").
 
  In the "Replace With" box, type this:
@@ -54,19 +58,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Replace window in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/convert-comma-new-line.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And just like magic, each item in your list will now be on its own line.
 
 ![New-line separated list in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/comma-new-line.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you want to reverse the process, just open Search > Replace in the menu again. In the "Find What" box, enter "\\n". In the Replace with box, type the character that you want to replace it with. Make sure "Extended" is selected and click "Replace All," and your list will go back to being separated by a standard character, such as a comma or pipe.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Convert a Newline Character into Any Other Separator
 
@@ -75,6 +75,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To do this, open Notepad++ and the text file that you want to convert or paste your items list into.
 
 ![New-line items list in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/paste-list.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In your Notepad++ window, click the "Edit" menu and select Blank Operations > EOL to Space. Here, EOL means "End of Line," and this option converts the invisible newline characters into spaces.
 
@@ -85,16 +89,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![List items on one line in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/items-one-line.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To convert this into a comma-separated list using Notepad++, click Search > Replace in the menu.
 
 ![Replace option in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/search-replace.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In the "Replace" window, click the "Find What" box and press Space. Then, place your cursor in "Replace With" and type the character that you'd like to replace space with, such as comma (",") or a command and a space for a human-readable format.
 
@@ -125,24 +125,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-vegas-pros-latest-features-in-21/"><u>[Updated] The Ultimate Guide to Vegas Pro's Latest Features in '21</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-versatile-pc-software-beyond-inshot/"><u>[Updated] Versatile PC Software Beyond Inshot</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transformative-visuals-the-pixiz-process-for-photo-video-fusion/"><u>2024 Approved Transformative Visuals The Pixiz Process for Photo-Video Fusion</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-standard-calls-into-visual-masterpieces-with-zoom/"><u>2024 Approved Transforming Standard Calls Into Visual Masterpieces with Zoom</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unparalleled-top-5-agile-camcorders-guide/"><u>2024 Approved Unparalleled Top 5 Agile Camcorders Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-leading-10-free-subtitle-editors-for-srt-files/"><u>2024 Approved Unveiling Leading 10 FREE Subtitle Editors for SRT Files</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-magic-transforming-scenes-with-gopro-timelapse/"><u>2024 Approved Unveiling the Magic Transforming Scenes with GoPro Timelapse</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/9-ways-to-fix-video-stuttering-issues-on-windows/"><u>9 Ways to Fix Video Stuttering Issues on Windows</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/a-quick-walkthrough-of-new-user-registration-on-twitter-for-2024/"><u>A Quick Walkthrough of New User Registration on Twitter for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-skagen-falster-3-evaluation-timeless-design-meets-modern-technology/"><u>Comprehensive Skagen Falster 3 Evaluation - Timeless Design Meets Modern Technology</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/deciphering-the-lg-watch-styles-heritage-a-detailed-assessment-of-iconic-wear-os-cuisine-20-timepiece-offerings/"><u>Deciphering the LG Watch Style's Heritage: A Detailed Assessment of Iconic Wear OS Cuisine 2.0 Timepiece Offerings</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-hd-upgrade-tool-windows-mac-and-online-conversion/"><u>In 2024, Ultimate HD Upgrade Tool Windows, Mac & Online Conversion</u></a></li>
-<li><a href="https://some-skills.techidaily.com/launching-at-optimal-times-a-podcast-guide-for-2024/"><u>Launching at Optimal Times A Podcast Guide for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-crashes-in-call-of-duty-modern-warfare-for-a-seamless-gaming-experience/"><u>Overcoming Crashes in Call of Duty: Modern Warfare for a Seamless Gaming Experience</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/reviving-your-ipad-effortlessly-with-these-tips-for-a-successful-icloud-backup-restoration-process/"><u>Reviving Your iPad Effortlessly with These Tips for a Successful iCloud Backup Restoration Process</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/mline-editing-workflow-with-youtube-video-editor-for-2024/"><u>Streamline Editing Workflow with YouTube Video Editor for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-definitive-solution-for-coredll-error-fixes/"><u>The Definitive Solution for Coredll Error Fixes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-7-free-educational-apps-perfect-for-students-school-year/"><u>Top 7 FREE Educational Apps Perfect for Students' School Year</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-expert-advice-for-capturing-evening-images-for-2024/"><u>[New] Expert Advice for Capturing Evening Images for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-mastering-photo-editing-unveiling-clear-images-with-photopea-for-2024/"><u>[New] Mastering Photo Editing Unveiling Clear Images with Photopea for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-dji-fpv-revolution-a-review-of-eyewear-innovation/"><u>[New] The DJI FPV Revolution A Review of Eyewear Innovation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-6-video-tactics-for-captivating-audiences/"><u>[New] Top 6 Video Tactics for Captivating Audiences</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-guide-to-weaving-gopro-footage-into-circular-films/"><u>2024 Approved Ultimate Guide to Weaving GoPro Footage Into Circular Films</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-better-videos-a-22-enhancer-users-manual/"><u>2024 Approved Unlock Better Videos A 2.2 Enhancer User's Manual</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-utilizing-slug-lines-for-better-content-structure/"><u>2024 Approved Utilizing Slug Lines for Better Content Structure</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-cash-growth-forecasts-at-no-cost/"><u>2024 Approved YouTube Cash Growth Forecasts at No Cost</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/finding-affordable-ai-solutions-like-sora/"><u>Finding Affordable AI Solutions Like Sora</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-screen-mirroring-apple-iphone-se-2022-to-tv-or-pc-drfone-by-drfone-ios/"><u>How Screen Mirroring Apple iPhone SE (2022) to TV or PC? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-unmute-silent-windows-volume/"><u>How to Unmute Silent Windows Volume</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-visual-verdict-sj6-meets-xiaomis-yi-visionaries-for-2024/"><u>The Ultimate Visual Verdict SJ6 Meets Xiaomi’s Yi Visionaries for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-does-my-laptoppc-keep-powering-down-find-out-here/"><u>Why Does My Laptop/PC Keep Powering Down? Find Out Here!</u></a></li>
 </ul></div>
 

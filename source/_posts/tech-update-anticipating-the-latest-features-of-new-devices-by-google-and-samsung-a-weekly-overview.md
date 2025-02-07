@@ -1,7 +1,7 @@
 ---
 title: "Tech Update: Anticipating the Latest Features of New Devices by Google & Samsung - A Weekly Overview"
-date: 2025-01-18T19:05:01.162Z
-updated: 2025-01-25T22:14:48.060Z
+date: 2025-01-31T19:37:35.009Z
+updated: 2025-02-07T17:11:40.573Z
 tags:
   - desktop
 categories:
@@ -13,23 +13,19 @@ thumbnail: https://thmb.techidaily.com/bc4c1fafbeb0a4b8e3066f1ca761f451b6c08fbe8
 
 This was a surprisingly busy week for tech news, with announcements for Google and Samsung’s next hardware events, and a whole lot of software updates. Here are the biggest stories you might have missed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The Big News
 
 ### [You Can Now Add Checkboxes in Microsoft Excel](https://screen-capture.techidaily.com/new-become-a-pro-at-setting-up-vrecorder-fast/) 
 
  Excel finally has a built-in option to use checkboxes in spreadsheet cells. Checkboxes will be useful in to-do lists, attendance sheets, and more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Apple Loosens Its Grip on iPhone Replacement Parts](https://driver-download.techidaily.com/get-updated-nvidia-driver-pack-for-geforce-rtx-2070-on-windows-os/) 
 
  Third-party components will no longer disable True Tone or battery health.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Steam Can Now Screen Record Your Games](https://techtrends.techidaily.com/explore-66-premier-twitter-profiles-offering-unbeatable-travel-advice-offers-and-epic-adventures/) 
 
@@ -38,7 +34,7 @@ This was a surprisingly busy week for tech news, with announcements for Google a
 ![Saving a game recording in Steam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/feature.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Valve
@@ -46,6 +42,10 @@ Valve
 ### [Samsung's New Foldables Are Coming July 10th](https://on-screen-recording.techidaily.com/2024-approved-the-elite-selection-of-top-12-tycoons-perfect-for-strategic-souls/) 
 
  Samsung confirmed its next Unpacked event for July 10th, and we’re expecting new folding phones and other hardware.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Google Chrome Now Has Better Web Search and Sports Scores](https://snapchat-videos.techidaily.com/updated-change-snapchat-voice-in-minutes-using-twin-methods/) 
 
@@ -60,7 +60,7 @@ Valve
  The official ChatGPT desktop application doesn’t need a Plus subscription anymore, but the app is still limited to macOS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Moto Tag Is an AirTag Clone for Android Users](https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-infinix-smart-8-hd-phone-by-drfone-android/) 
@@ -71,6 +71,10 @@ Valve
 
 Motorola
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Google's Pixel 9 is Coming August 13th](https://facebook-clips.techidaily.com/updated-fb-video-extraction-creating-mp3s-in-minutes/) 
 
  Google's next hardware event is nearing.
@@ -78,10 +82,6 @@ Motorola
 ### [Paramount+ Is Raising Prices Again](https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-nokia-g22-drfone-by-drfone-virtual-android/) 
 
  The last Paramount+ price hike occurred in June of 2023, and now another one is happening.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The Other Stuff
 
@@ -104,22 +104,18 @@ Motorola
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-a-stepwise-approach-to-film-color-grading-with-look-up-tables-luts-from-cg-central/"><u>[New] A Stepwise Approach to Film Color Grading with Look-Up Tables (Luts) From CG Central</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-essential-guide-to-podcast-creation-in-garageband/"><u>[New] The Essential Guide to Podcast Creation in GarageBand</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unforgettable-stop-motion-films-an-overview/"><u>[New] Unforgettable Stop-Motion Films - An Overview</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-complete-beginners-manual-to-using-final-cut-pro/"><u>[Updated] The Complete Beginner's Manual to Using Final Cut Pro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-role-of-rhythm-and-pitch-in-trailer-tunes/"><u>[Updated] The Role of Rhythm and Pitch in Trailer Tunes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlock-creative-expression-master-device-based-filters-and-effects/"><u>[Updated] Unlock Creative Expression Master Device-Based Filters and Effects</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-path-to-costless-image-archives/"><u>[Updated] Unveiling the Path to Costless Image Archives</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-capturecrafter-chronicles-your-2023-software-digest/"><u>2024 Approved CaptureCrafter Chronicles Your 2023 Software Digest</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-profit-making-on-youtube-breakdown-of-critical-view-criteria/"><u>2024 Approved Profit-Making on YouTube Breakdown of Critical View Criteria</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-cheat-sheet-mastering-googles-voice-transcription-tool/"><u>2024 Approved The Complete Cheat Sheet Mastering Google's Voice Transcription Tool</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/climate-denial-and-the-role-of-media-bias-explored/"><u>Climate Denial and the Role of Media Bias Explored</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/effective-solutions-for-when-your-outlook-mailbox-says-its-full-post-deletions/"><u>Effective Solutions for When Your Outlook Mailbox Says It's Full Post-Deletions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-compelling-footage-on-your-gopro/"><u>In 2024, Crafting Compelling Footage on Your GoPro</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-instant-aspect-ratio-tuning-for-youtube-on-mac/"><u>In 2024, Instant Aspect Ratio Tuning for Youtube on Mac</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-10-online-photo-editing-tools-to-unblur-photos-effectively-for-2024/"><u>Top 10 Online Photo Editing Tools to Unblur Photos Effectively for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-resolving-xbox-one-connection-issues/"><u>Troubleshooting Guide: Resolving Xbox One Connection Issues</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ling-content-wizards-streamlined-steps-to-launch-channels-via-mobile-apps-for-2024/"><u>Unveiling Content Wizards Streamlined Steps to Launch Channels via Mobile Apps for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-unlocking-potential-snapchats-business-toolkit/"><u>[New] 2024 Approved Unlocking Potential Snapchat's Business Toolkit</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-curious-case-of-inverted-images-on-social-media/"><u>[New] The Curious Case of Inverted Images on Social Media</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-best-beams-microphones-for-education/"><u>[Updated] Best Beams Microphones for Education</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-master-list-essential-6-fb-lite-downloads/"><u>[Updated] In 2024, Master List Essential 6 FB Lite Downloads</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-synthetic-adventures-starts-here-top-vr-tools-10/"><u>[Updated] Synthetic Adventures Starts Here Top VR Tools (10)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-tracing-gaps-in-your-instagram-circle-for-2024/"><u>[Updated] Tracing Gaps in Your Instagram Circle for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-poco-f5-5g-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Poco F5 5G.</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-guide-to-twitters-video-converters/"><u>In 2024, The Essential Guide to Twitters Video Converters</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-illustrator-way-how-to-create-stunning-motion-effects/"><u>In 2024, The Illustrator Way How to Create Stunning Motion Effects</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211236607-9781736106679-las-ensenanzas-energeticas-de-los-tres/"><u>Las Enseñanzas Energéticas de Los Tres | Free Book</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-honor-magic-vs-2-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Honor Magic Vs 2 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-the-potential-advanced-techniques-for-podcast-editing-in-garageband-for-2024/"><u>Unlock the Potential Advanced Techniques for Podcast Editing in GarageBand for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/wavbogg-movavi-online-free/"><u>WAVB/OGG 파일을 전환하기 - Movavi는 Online Free 무료 도구를 제공합니다</u></a></li>
 </ul></div>
 

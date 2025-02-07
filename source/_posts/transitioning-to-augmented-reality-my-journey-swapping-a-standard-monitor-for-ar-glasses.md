@@ -1,7 +1,7 @@
 ---
 title: "Transitioning to Augmented Reality: My Journey Swapping a Standard Monitor for AR Glasses"
-date: 2024-12-31T04:01:54.863Z
-updated: 2025-01-07T05:20:54.202Z
+date: 2025-02-04T20:28:28.302Z
+updated: 2025-02-07T19:32:38.397Z
 tags:
   - cutting-edge
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
 ## Transitioning to Augmented Reality: My Journey Swapping a Standard Monitor for AR Glasses
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * No more strain than looking at a monitor.
@@ -18,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 * Boosts productivity with a spacious desk, encourages a better work environment.
 
  I have what could politely be called an unconventional work setup. Instead of a PC, I use Samsung DeX. I do much of my work from the inside screen on my Samsung Galaxy Z Fold 5, and I connect to a larger screen when I need more space. When I saw the XReal Air 2 Pro glasses work seamlessly with DeX, I figured I was the ideal candidate to give it a try. So I bought a pair, and here's what I've experienced.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  My Eyes Adjusted Quicker Than I Expected
 
@@ -27,14 +35,10 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
 ![XREAL Air 2 Pro AR glasses resting on the bridge of a nose.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/1000060992.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Bertel King / How-To Geek
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  I Sit With Better Posture
@@ -50,6 +54,10 @@ Bertel King / How-To Geek
  Wearing the glasses, I generally just leave out a Bluetooth keyboard and mouse. I can also experiment with what else I keep on my desk. I can place a houseplant directly behind the keyboard, since that has no impact on my ability to see what I'm working on. I can place an essential oil diffuser there for the smells. This creates a space that feels more calming as I go about work.
 
 ![A desk without a monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/1000061003.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Bertel King / How-To Geek
 
@@ -68,7 +76,7 @@ Bertel King / How-To Geek
  To play games, I also grab a controller. For work, I also pack a keyboard and mouse. None of these things are particularly big. The keyboard is the only one I don't bring with me when packing up a laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Awkward Social Interactions
@@ -76,10 +84,6 @@ Bertel King / How-To Geek
  There's something intuitively weird about looking at someone wearing glasses who's just sitting there, staring at the wall or gazing up at the ceiling. It's obvious when someone is watching a movie on a computer monitor. No one has any idea what's going on in my glasses, unless they hear the sound coming through the speakers or get close enough to my face to see light from the tiny displays.
 
  Wearing AR glasses is a bit like making a switch from Bluetooth speakers to Bluetooth earbuds. The former tunes people in to what you're listening to, while the latter is completely private. The thing is, while we've had decades to get used to this with audio, it's pretty new for video. When I'm alone, AR glasses are awesome, but I feel weird when I'm wearing them around others.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Great for Working Around Kids
 
@@ -96,10 +100,6 @@ Bertel King / How-To Geek
  The biggest downside is that AR glasses are a solitary experience. I wish my wife and I could watch a movie on the ceiling together. After all, I rarely watch movies alone.
 
  Playing video games is arguably even better. Games that don't play nice with my foldable's aspect ratio look just fine on the standard 16:9 ratio of the glasses. With just a game controller, I can feel like I'm sitting in front of a console wherever I am.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  All Isn't Perfect
 
@@ -126,17 +126,24 @@ Bertel King / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-elite-10-customizations-elevating-terria-for-2024/"><u>[New] Elite 10 Customizations Elevating Terria for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transform-your-photos-removing-backdrops-with-ease/"><u>[Updated] Transform Your Photos Removing Backdrops with Ease</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-upgrade-your-photo-edits-the-ultimate-guide-to-pixlr-power/"><u>[Updated] Upgrade Your Photo Edits The Ultimate Guide to Pixlr Power</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-your-quick-guide-to-google-voice-call-history-for-2024/"><u>[Updated] Your Quick Guide to Google Voice Call History for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-uniting-social-spheres-from-instagram-to-tiktok-triumphs/"><u>2024 Approved Uniting Social Spheres From Instagram to TikTok Triumphs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-kinemaster-potential-how-to-engage-and-top-alternatives-compared/"><u>2024 Approved Unlocking KineMaster Potential How To Engage and Top Alternatives Compared</u></a></li>
-<li><a href="https://techtrends.techidaily.com/diy-repairs-easily-correcting-common-tv-malfunctions/"><u>DIY Repairs: Easily Correcting Common TV Malfunctions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-pratique-nettoyer-les-distorsions-en-forme-de-champignon-sur-vos-videos-gopro-via-movavi-corrector/"><u>Guide Pratique: Nettoyer Les Distorsions en Forme De Champignon Sur Vos Vidéos GoPro via Movavi Corrector</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-lava-blaze-pro-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Lava Blaze Pro 5G to Roku | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-future-of-human-computer-conversation-systems/"><u>In 2024, The Future of Human-Computer Conversation Systems</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-samsung-galaxy-m54-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Samsung Galaxy M54 5G Phone Pattern Lock</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-4-no-cost-digital-calendar-apps-you-must-try-today/"><u>Top 4 No-Cost Digital Calendar Apps You Must Try Today</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-gently-reducing-volume-level-in-fl-beats-for-2024/"><u>[New] Gently Reducing Volume Level in FL Beats for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-first-step-in-vlogging-tools-you-need/"><u>[New] The First Step in Vlogging Tools You Need</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-instructors-blueprint-for-video-assisted-learning/"><u>[New] The Instructor's Blueprint for Video-Assisted Learning</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-crafting-compelling-video-narratives-using-captivate/"><u>[Updated] 2024 Approved Crafting Compelling Video Narratives Using Captivate</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-best-video-titling-solutions-online-now-for-2024/"><u>[Updated] Best Video Titling Solutions Online Now for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-ultimate-guide-undoing-your-yt-playback-sequence/"><u>[Updated] In 2024, The Ultimate Guide Undoing Your YT Playback Sequence</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-navigate-the-tiktok-twitter-connection-for-2024/"><u>[Updated] Navigate the TikTok-Twitter Connection for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-strategies-for-swiftly-locating-forgotten-reddit-threads/"><u>[Updated] Strategies for Swiftly Locating Forgotten Reddit Threads</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-magix-mixcrafts-features/"><u>[Updated] The Ultimate Guide to Magix Mixcraft's Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unearthing-the-best-free-mac-apps-for-speech-to-text/"><u>[Updated] Unearthing the Best Free Mac Apps for Speech to Text</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-the-power-of-montage-in-digital-media/"><u>[Updated] Unlock the Power of Montage in Digital Media</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-strategies-for-securing-youtubers-as-sponsors/"><u>2024 Approved Strategies for Securing YouTubers as Sponsors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-gif-odyssey-navigating-the-most-effective-9-tools-of-memetic-crafting/"><u>2024 Approved The GIF Odyssey Navigating the Most Effective 9 Tools of Memetic Crafting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-power-of-language-20-words-and-phrases-that-transform-your-marketing/"><u>2024 Approved The Power of Language 20 Words and Phrases That Transform Your Marketing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-top-4-new-ipados-18-updates-unveiled-at-apples-wwdc-2024-compatibility-breakdown-for-various-ipad-models/"><u>Discover the Top 4 New iPadOS 18 Updates Unveiled at Apple's WWDC 2024: Compatibility Breakdown for Various iPad Models</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/easy-guide-finding-and-installing-right-device-drivers-for-your-computer-expert-tips-from-yl-computing/"><u>Easy Guide: Finding & Installing Right Device Drivers for Your Computer - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-sony-xperia-1-v-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Sony Xperia 1 V</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ipad-pro-or-macbook-air-top-picks-compared-to-find-your-ideal-device-today/"><u>IPad Pro or MacBook Air – Top Picks Compared to Find Your Ideal Device Today</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-seamless-transitions-the-art-of-color-matching-in-powerdirector/"><u>Updated In 2024, Seamless Transitions The Art of Color Matching in PowerDirector</u></a></li>
 </ul></div>
 

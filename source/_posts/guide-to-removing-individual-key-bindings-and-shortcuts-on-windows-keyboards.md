@@ -1,7 +1,7 @@
 ---
 title: Guide to Removing Individual Key Bindings and Shortcuts on Windows Keyboards
-date: 2025-01-23T17:52:10.010Z
-updated: 2025-01-25T22:35:45.672Z
+date: 2025-02-03T18:26:04.765Z
+updated: 2025-02-07T19:25:40.432Z
 tags:
   - desktop
 categories:
@@ -25,7 +25,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Want to disable a specific keyboard key or shortcut? Microsoft PowerToys, an official Microsoft app, makes this task quite simple. Here's a quick guide on using the Keyboard Manager in Microsoft PowerToys to disable a specific key or shortcut.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Install Microsoft PowerToys if You Haven't Already
@@ -34,10 +34,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Searching for the 'Microsoft PowerToys' app in Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-searching-for-the-microsoft-powertoys-app-in-microsoft-store.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then, click the "Install" button to install the app.
 
 ![Installing the Microsoft PowerToys app from the Microsoft Store on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-installing-the-microsoft-powertoys-app-from-the-microsoft-store-on-windows.jpg) 
@@ -45,7 +41,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Let the installation process complete, and you will come across a User Account Control (UAC) window. Click "Yes" there, and the app will be successfully installed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Disable a Specific Keyboard Key With Microsoft PowerToys
@@ -55,7 +51,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Opening the Keyboard Manager settings in the Microsoft PowerToys app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-opening-the-keyboard-manager-settings-in-the-microsoft-powertoys-app-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Turn on the toggle next to Enable Keyboard Manager if it's currently turned off. Afterward, click on "Remap a Key."
@@ -70,6 +66,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Microsoft PowerToys giving a warning when disabling a key in the Keyboard Manager on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-microsoft-powertoys-giving-a-warning-when-disabling-a-key-in-the-keyboard-manager-on-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Disable a Specific Shortcut With Microsoft PowerToys
 
  To disable a specific shortcut, open Keyboard Manager settings and click "Remap a Shortcut."
@@ -80,13 +80,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Disabling a particular shortcut using Keyboard Manager in Microsoft PowerToys on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-disabling-a-particular-shortcut-using-keyboard-manager-in-microsoft-powertoys-on-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to re-enable the disabled key or shortcut, go to the same settings, click the recycle bin icon next to it, and click "OK."
 
 ![Deleting the key remapping in the Keyboard Manager in the Microsoft PowerToys app to reenable the disabled key on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8-deleting-the-key-remapping-in-the-keyboard-manager-in-the-microsoft-powertoys-app-to-reenable-the-disabled-key-on-windows.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Like remapping keyboard keys and shortcuts using Keyboard Manager, [Microsoft PowerToys offers various other features](https://facebook-video-footage.techidaily.com/updated-2024-approved-auto-play-youtube-iphoneandroid-no-notification/) geared toward power users.
 
@@ -105,19 +105,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-complete-beginners-manual-to-using-final-cut-pro/"><u>[New] The Complete Beginner's Manual to Using Final Cut Pro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-text-preset-mastery/"><u>[New] The Ultimate Guide to Text Preset Mastery</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-top-7-mac-friendly-video-players-reviewed-for-2024/"><u>[New] Top 7 Mac-Friendly Video Players Reviewed for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transformative-power-of-vlc-from-mp4-to-a-multitude-of-formats/"><u>[New] Transformative Power of VLC From MP4 to a Multitude of Formats</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-plot-pointers-institute-quintessential-quotient/"><u>[Updated] 2024 Approved Plot Pointers Institute - Quintessential Quotient</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-canvas-reborn-spotlight-on-top-6-in-digital-arts/"><u>[Updated] The Canvas Reborn Spotlight on Top 6 in Digital Arts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unseen-wonders-in-vlcs-arsenal-of-features/"><u>[Updated] Unseen Wonders in VLC's Arsenal of Features</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-creativity-with-pexels-finding-fabulous-images/"><u>2024 Approved Unleashing Creativity with Pexels Finding Fabulous Images</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-itel-a60s-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Itel A60s | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-vivo-s17-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Vivo S17</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-tecno-phantom-v-flip-lock-screen-password-by-drfone-android/"><u>How To Change Tecno Phantom V Flip Lock Screen Password?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/installation-guide-get-your-corsair-k70-downloads-for-optimal-performance/"><u>Installation Guide: Get Your Corsair K70 Downloads for Optimal Performance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mp4-windows-11mov/"><u>MP4への変換 - Windows 11内蔵フォトアプリでMOV動画を効率良く変換する方法</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722974596401-quick-install-download-your-pioneer-dj-ddjsx2-controller-software/"><u>Quick Install: Download Your Pioneer DJ DDJSX2 Controller Software!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-essentials-for-an-alluring-video-blog-narrative/"><u>[Updated] In 2024, Essentials for an Alluring Video Blog Narrative</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pixel-perfection-masterful-methods-for-stunning-imagery/"><u>[Updated] Pixel Perfection Masterful Methods for Stunning Imagery</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-iphones-best-5-podcasting-apps/"><u>[Updated] The Ultimate Guide to iPhone's Best 5 Podcasting Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transformative-youtube-title-genesis-tools/"><u>[Updated] Transformative YouTube Title Genesis Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-your-subtitle-workflow-with-leading-online-tools/"><u>2024 Approved Streamlining Your Subtitle Workflow with Leading Online Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-screen-changers-for-vivid-virtual-imagery/"><u>2024 Approved Top Screen Changers for Vivid Virtual Imagery</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-top-7-utilities-of-samsungs-texting-service/"><u>Discover the Top 7 Utilities of Samsung's Texting Service</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-nokia-130-music-to-mac-drfone-by-drfone-android/"><u>How to Mirror Nokia 130 Music to Mac? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-tecno-spark-10-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Tecno Spark 10 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-spotify-listening-with-secure-speed-techniques/"><u>In 2024, Streamlining Spotify Listening with Secure Speed Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-hero-series-advance-from-4-to-5/"><u>In 2024, The Hero Series Advance From 4 to 5</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-11-pro-max-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone 11 Pro Max Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/introducing-10-elusive-instagram-story-visionaries/"><u>Introducing 10 Elusive Instagram Story Visionaries</u></a></li>
+<li><a href="https://article-helps.techidaily.com/navigate-away-from-windows-10-photos-app-failures-with-precision/"><u>Navigate Away From Windows 10 Photos App Failures with Precision</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-path-to-professional-looking-colors-in-gopro-editing-for-2024/"><u>The Path to Professional-Looking Colors in GoPro Editing for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/zooms-commitment-no-unauthorized-usage-of-user-data-in-ai-development/"><u>Zoom's Commitment: No Unauthorized Usage of User Data in AI Development</u></a></li>
 </ul></div>
 

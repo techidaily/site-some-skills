@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting and Repairing Ethernet Issues in Windows 11: A Comprehensive Guide"
-date: 2025-01-19T18:30:27.341Z
-updated: 2025-01-25T20:56:59.879Z
+date: 2025-02-02T19:34:08.886Z
+updated: 2025-02-07T19:35:20.341Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/77e8784ddc309f16b18e178f4d3e63a6403d2aa17
 ---
 
 ## Troubleshooting and Repairing Ethernet Issues in Windows 11: A Comprehensive Guide
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -23,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/77e8784ddc309f16b18e178f4d3e63a6403d2aa17
 * [Update or Reinstall Ethernet Adapter Drivers](https://extra-guidance.techidaily.com/new-quick-guide-integrating-titles-into-videos-within-windows-photos/)
 * [Disable Proxy Server Over LAN](https://youtube-docs.techidaily.com/024-approved-how-to-prevent-thumbnail-absence-in-shorts-uploads/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Connect your device to the internet via Wi-Fi to ensure your internet connection is active. Then, test the Ethernet connection on another device to eliminate any potential issues with your router or Ethernet cable.
@@ -30,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/77e8784ddc309f16b18e178f4d3e63a6403d2aa17
 * If you're using a proxy server, turn it off. Open the Internet Options window, go to the "Connections" tab, and click "LAN Settings." Uncheck the box beside "Use a Proxy Server for Your LAN."
 
  Is the Ethernet connection not working on your Windows PC? If so, your problem could be anything from your Internet Service to your PC's ethernet card. Below are some potential solutions you can try to resolve this issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Run the Network and Internet Troubleshooter
 
@@ -43,20 +47,12 @@ thumbnail: https://thmb.techidaily.com/77e8784ddc309f16b18e178f4d3e63a6403d2aa17
 
 ![Opening other troubleshooters settings on windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-opening-other-troubleshooters-settings-on-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Next, click the "Run" button next to Network and Internet. Follow the on-screen instructions in the Get Help app to identify and fix the problem.
 
 ![Running the network and internet troubleshooter in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/run-option.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Preliminary Checks
@@ -65,9 +61,17 @@ thumbnail: https://thmb.techidaily.com/77e8784ddc309f16b18e178f4d3e63a6403d2aa17
 
 ![Turning off the flight mode on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-turning-off-the-flight-mode-on-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, ensure your Ethernet cable is correctly plugged in. Also, confirm that the cable is connected to the correct port on your router. You can also try unplugging and re-plugging the Ethernet cable at both ends (router and PC) to see if it makes a difference. Also, if you have a VPN connection enabled on your device, turn it off.
 
  If these basic troubleshooting steps do not resolve the issue, you can apply the remaining solutions listed below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Check if the Internet Is Working
 
@@ -80,7 +84,7 @@ Hannah Stryker / How-To Geek
  If you can successfully connect to the internet via Wi-Fi, your internet connection is active, and the problem likely lies with your device's Ethernet connection.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Test the Ethernet Connection on Another Device
@@ -113,10 +117,6 @@ Ismar Hrnjicevic / How-To Geek
 
 ![Enabling the disabled ethernet connection adapter in device manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/enabling-the-disabled-ethernet-connection-adapter-in-device-manager.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Update or Reinstall Ethernet Adapter Drivers
 
  Outdated drivers can also cause problems with the Ethernet connection. To ensure this isn't the case, you should update the Ethernet adapter drivers. Download the latest drivers from the website of your device manufacturer—if you have a prebuilt, you're looking for the same brand as your PC. If you built your own PC, you should check your motherboard manufacturer's website. If the driver comes in an executable format, just run it to install it. Otherwise, you must manually update the driver from Device Manager.
@@ -124,6 +124,10 @@ Ismar Hrnjicevic / How-To Geek
  To do this, right-click the Start button and select "Device Manager." Expand the "Network Adapters" category, right-click the Ethernet adapter driver, and select "Update Driver."
 
 ![Updating the ethernet driver in Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/updating-the-ethernet-driver-in-device-manager.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Select "Browse My Computer for Drivers," then select the downloaded driver file from the Downloads folder and let Windows update it.
 
@@ -135,23 +139,19 @@ Ismar Hrnjicevic / How-To Geek
 
  Then, follow the previous instructions to reinstall it manually.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Disable Proxy Server Over LAN
 
  Using a proxy server over a LAN might be the cause of the issue at hand. If you're using a proxy server, you should turn it off. Type "Internet Options" in the Windows Search bar and open it.
 
 ![Opening the 'Internet Options' Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/1-opening-the-internet-options-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then, move to the "Connections" tab and click the "LAN Settings" button. If the box beside"Use a Proxy Server for Your LAN" is checked, uncheck it to turn off the proxy server. Click "Apply" and hit "OK."
 
 ![Turning off the proxy server from LAN settings on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/2-turning-off-the-proxy-server-from-lan-settings-on-windows.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -172,20 +172,22 @@ Ismar Hrnjicevic / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-ensuring-your-content-is-safe-for-tiktok-uploading/"><u>[Updated] In 2024, Ensuring Your Content Is Safe for TikTok Uploading</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-beginners-guide-to-earning-on-reddit-top-13-simple-money-making-ideas/"><u>[Updated] The Beginner's Guide to Earning on Reddit Top 13 Simple Money-Making Ideas</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-converting-speech-to-text-with-google-docs/"><u>[Updated] The Ultimate Guide to Converting Speech to Text with Google Docs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-creative-utilization-of-b-footage-in-media/"><u>2024 Approved The Creative Utilization of B-Footage in Media</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-strategy-for-posting-srt-content-socially/"><u>2024 Approved The Ultimate Strategy for Posting SRT Content Socially</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1728490316561-sd/"><u>信頼性の高いSDデータバックアップ方法とベストソフトウェア選び指南</u></a></li>
-<li><a href="https://fox-http.techidaily.com/essential-tactics-for-effective-fb-giveaway-campaigns/"><u>Essential Tactics for Effective FB Giveaway Campaigns</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/follow-friendly-flight-tech-our-top-picks-for-pilots/"><u>Follow-Friendly Flight Tech Our Top Picks for Pilots</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-monotonous-to-magnificent-font-integration-in-ae-for-2024/"><u>From Monotonous to Magnificent Font Integration in AE for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y200e-5g-phone-without-pin-by-drfone-android/"><u>How to Unlock Vivo Y200e 5G Phone without PIN</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-text-temporal-tinkering-tools/"><u>In 2024, Text Temporal Tinkering Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-intricacies-of-crafting-a-virtual-experience/"><u>In 2024, The Intricacies of Crafting a Virtual Experience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-mp4-devices/"><u>In 2024, The Ultimate Guide to MP4 Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-insta-without-an-account-a-comprehensive-tutorial/"><u>Navigating Insta Without an Account – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-windows-11-a-step-by-step-guide-to-removing-your-pin-code/"><u>Unlocking Windows 11: A Step-by-Step Guide to Removing Your Pin Code</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-implementing-azure-transcript-api-in-software/"><u>[New] Implementing Azure Transcript API in Software</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-cross-platform-sharing-tweeting-videos-across-fb/"><u>2024 Approved Cross-Platform Sharing Tweeting Videos Across FB</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tailoring-a-streamlined-download-process-for-youtubes-srt/"><u>2024 Approved Tailoring a Streamlined Download Process for YouTube's SRT</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-future-of-computing-in-windows-11/"><u>2024 Approved The Future of Computing in Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-the-upside-to-asmrs-sensory-experience/"><u>2024 Approved Understanding the Upside to ASMR's Sensory Experience</u></a></li>
+<li><a href="https://win-help.techidaily.com/excellent-methods-for-moving-songs-from-ipad-to-pc-effortlessly/"><u>Excellent Methods for Moving Songs From iPad to PC Effortlessly</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-iphone-14-by-drfone-ios/"><u>How To Create an Apple Developer Account From iPhone 14</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-vanished-desktop-icons-in-windows-10-solved/"><u>How To Restore Vanished Desktop Icons In Windows 10 (Solved!)</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-streamlined-process-chromeandroidios-tiktok-posting/"><u>In 2024, Streamlined Process Chrome/Android/iOS TikTok Posting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-understanding-android-lightroom/"><u>In 2024, The Ultimate Guide to Understanding Android Lightroom</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-5-kid-friendly-flying-toys/"><u>In 2024, Top 5 Kid-Friendly Flying Toys</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-understanding-the-edge-of-av1-in-video-encoding/"><u>In 2024, Understanding the Edge of AV1 in Video Encoding</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/swift-recording-pro-with-voice-commentary-feature/"><u>Swift Recording Pro with Voice Commentary Feature</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-experts-playbook-for-transforming-srt-into-diverse-formats-for-2024/"><u>The Expert's Playbook for Transforming SRT Into Diverse Formats for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-ultimate-solution-for-helldivers-2s-black-screen-dilemma-at-game-launch/"><u>The Ultimate Solution for Helldivers 2’S Black Screen Dilemma at Game Launch</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-srt-expertise-essential-insights-for-2024/"><u>Unlocking SRT Expertise Essential Insights for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-is-behind-xboxs-rule-enforcement/"><u>What Is Behind Xbox’s Rule Enforcement?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up a Swap Space in Linux"
-date: 2025-01-20T00:55:58.377Z
-updated: 2025-01-25T17:01:15.024Z
+date: 2025-02-05T19:24:04.244Z
+updated: 2025-02-07T17:00:26.591Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/213b932fcd2c7374497ebb4064c054acfe0cd4d0b
 ---
 
 ## Step-by-Step Guide: Setting Up a Swap Space in Linux
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -41,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/213b932fcd2c7374497ebb4064c054acfe0cd4d0b
  At one time, there was a performance hit for using a swap file compared to a swap partition. That's no longer the case with improvements in the performance of mechanical (spinning) hard drives and more efficiency in the swap functions within the Linux operating system. In fact, some Linux distributions now default to creating swap files rather than swap partitions.
 
  Swap isn't just used as a means to free up RAM when you're running low on memory. It's an important part of a well functioning system. Without any swap, sane memory management becomes very difficult for the kernel to achieve. Let's look at the easy way to add some swap space.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Before We Dive In: Btrfs and SSDs
 
@@ -80,16 +88,12 @@ swapon --show
 
 ![swapon --show in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/2-8.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If there is no output from this command, there's no swap configured.
 
  If these commands had revealed some swap space is already configured, the size of the existing swap space should be factored into decisions regarding the size of the swap file you're going to create.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Much Swap Space Do I Need?
@@ -129,17 +133,9 @@ sudo dd if=/dev/zero of=/swapfile bs=1024 count=1048576
 
 ![sudo dd if=/dev/zero of=/swapfile bs=1024 count=1048576 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/5-6.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Some statistics are provided when the file is created.
 
 ![output from sudo dd if=/dev/zero of=/swapfile bs=1024 count=1048576 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/6-8.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  We can see the number of blocks (records) that were written to the file, the size of the file, the time taken to create the file, and the effective data transfer rate.
 
@@ -150,7 +146,7 @@ ls /
 ![ls / in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/7-7.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Preparing the Swap File
@@ -161,7 +157,15 @@ sudo mkswap /swapfile
 
 ![sudo mkswap /swapfile in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/8-7.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The file is prepared for use as a swap file. Note the warning about file permissions. We'll need to change those so that the root user is the only one who can read and write to the swap file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Using the Swap File
 
@@ -182,7 +186,7 @@ sudo swapon /swapfile
  The swap file is now active.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Adding the Swap File to fstab
@@ -211,7 +215,7 @@ sudo gedit /etc/fstab
  Save the changes and close the editor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Checking Swap Usage
@@ -221,10 +225,6 @@ sudo gedit /etc/fstab
 swapon --show
 
 ![swapon --show in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/13-3.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The columns are:
 
@@ -250,11 +250,11 @@ swapon -- show
 
 ![swapon -- show in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/15-2.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The priority of this swap space has been elevated to 10\. Which is proof positive that the options field in the `/etc/fstab` entry is not ignored.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Swap Space Made Easy
 
@@ -299,18 +299,24 @@ swapon --show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-dji-aerial-palette-changes-get-20-free-with-pay-options-available-for-2024/"><u>[New] DJI Aerial Palette Changes - Get 20 FREE with Pay Options Available for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-expert-review-best-15-cameras-in-4k-resolution-for-2024/"><u>[New] Expert Review Best 15 Cameras in 4K Resolution for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-unleashing-the-iphones-full-potential-with-10-composition-principles/"><u>[New] Unleashing the iPhone's Full Potential with 10 Composition Principles</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-inverting-screen-time-with-android-videos/"><u>[Updated] In 2024, Inverting Screen Time with Android Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlimited-chuckles-craftsmanship-no-monetary-requirement/"><u>[Updated] Unlimited Chuckles Craftsmanship No Monetary Requirement</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-user-insights-on-vllo/"><u>[Updated] User Insights on VLLO</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-picsart-app-insights-comprehensive-review-and-walkthrough/"><u>2024 Approved PicsArt App Insights Comprehensive Review and Walkthrough</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-nubia-z50s-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Nubia Z50S Pro? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/review-of-audews-portable-air-compressor-unmatched-portability-and-dependability/"><u>Review of Audew's Portable Air Compressor: Unmatched Portability & Dependability</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tap-into-asmrs-potential-for-emotional-balance-for-2024/"><u>Tap Into ASMR’s Potential for Emotional Balance for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-editing-hacks-for-flawless-image-edits-on-canva-for-2024/"><u>Ultimate Editing Hacks for Flawless Image Edits on Canva for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unforgettable-mothers-day-campaign-a-masterclass-in-heartwarming-brand-promotion-zdnet/"><u>Unforgettable Mother’s Day Campaign - A Masterclass in Heartwarming Brand Promotion | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-creativity-using-chatgpt-for-presentations/"><u>Unleashing Creativity: Using ChatGPT for Presentations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-joining-the-digital-conversation-zooming-effortlessly-with-android/"><u>[New] Joining the Digital Conversation Zooming Effortlessly with Android</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-leading-10-capture-applications-for-online-tutorials/"><u>[New] Leading 10 Capture Applications for Online Tutorials</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-swift-google-collage-compilation/"><u>[New] The Ultimate Guide to Swift Google Collage Compilation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-turbo-tracker-fastest-image-browser-w10/"><u>[New] Turbo Tracker - Fastest Image Browser W10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-superior-communication-optimal-use-of-zoom-in-skype-sessions/"><u>[New] Unlocking Superior Communication Optimal Use of ZOOM in Skype Sessions</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-event-ensemble-curating-best-dj-templates/"><u>[Updated] In 2024, Event Ensemble Curating Best DJ Templates</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-prime-camera-choices-revealing-the-best/"><u>[Updated] The Prime Camera Choices – Revealing the Best</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-guide-to-softening-volume-levels-on-lumafusion/"><u>2024 Approved The Guide to Softening Volume Levels on Lumafusion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-latest-take-on-the-sony-bd-play-s3700-review/"><u>2024 Approved The Latest Take on the Sony BD PLAY S3700 Review</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/download-the-latest-dexride-dj-software-dex-314-now-fully-compatible-with-macos-catalina-and-enhanced-features/"><u>Download the Latest Dexride DJ Software (DEX 3.14) - Now Fully Compatible With macOS Catalina and Enhanced Features!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-8-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone 8 Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-spectrum-of-hand-tracking-technologies/"><u>In 2024, Unveiling the Spectrum of Hand Tracking Technologies</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-zte-axon-40-lite-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your ZTE Axon 40 Lite Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-vivo-y78plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-key-disparities-in-360-degree-and-vr-videos-for-2024/"><u>The Key Disparities in 360-Degree & VR Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-link-between-office-spaces-and-organizational-success-for-2024/"><u>The Link Between Office Spaces and Organizational Success for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/ultimate-guide-selecting-the-top-8-tripods-for-high-res-cameras/"><u>Ultimate Guide Selecting the Top 8 Tripods for High-Res Cameras</u></a></li>
+<li><a href="https://facebook.techidaily.com/will-digital-footprints-ever-fade-away/"><u>Will Digital Footprints Ever Fade Away?</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/zdnet-reveals-free-artificial-intelligence-companion-by-microsoft-and-khan-academy-exclusively-for-teachers-in-the-usa/"><u>ZDNet Reveals: Free Artificial Intelligence Companion by Microsoft and Khan Academy Exclusively for Teachers in the USA</u></a></li>
 </ul></div>
 

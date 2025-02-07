@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Updating Software in Windows 11: A Simple Process"
-date: 2025-01-24T01:02:45.050Z
-updated: 2025-01-25T18:09:28.819Z
+date: 2025-02-04T16:28:17.256Z
+updated: 2025-02-07T16:32:32.791Z
 tags:
   - desktop
 categories:
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 * [How to Update Non-Microsoft Store Apps](https://extra-hints.techidaily.com/navigate-subtitle-installation-in-wmp-easily/)
 * [How to Update Apps Using Command Prompt](https://youtube-videos.techidaily.com/free-themes-for-dynamic-youtuber-profiles/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * To update Microsoft Store apps, open the Store app, select "Library," and choose "Update" next to an app or select "Update All."
@@ -28,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 * To update apps from command line, use the winget command in an elevated Command Prompt window.
 
  Keeping your installed apps up to date is important, and Windows 11 makes it super easy to update both Microsoft Store and non-Microsoft Store apps. We’ll show you how to use graphical methods, as well as a command-line method to bring your apps up to date.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Update Microsoft Store Apps
 
@@ -47,15 +47,7 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 
 !['Update All' highlighted in Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/12-update-apps-microsoft-store.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait for the Store to download and install the updates for your apps. Once that’s done, you can launch your apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  How to Enable Automatic Updates in Microsoft Store
 
@@ -64,14 +56,22 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 !['Settings' highlighted in the profile menu of Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-microsoft-store-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In Settings, turn on the "App Updates" option.
 
 !['App Updates' highlighted in Microsoft Store Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-microsoft-store-disable-app-updates.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the future, to prevent the Store from automatically updating apps, turn off the "App Updates" option. We recommend keeping the option turned on, but if you’re on a metered connection, you might not want the Store to use so much of your internet data.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Update Non-Microsoft Store Apps
 
@@ -88,7 +88,11 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 !['Download' options highlighted on the 7-Zip website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-update-7-zip.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Update Apps Using Command Prompt
@@ -106,10 +110,6 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 winget upgrade
 
 !['winget upgrade' command typed in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-list-update-apps-winget.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You’ll see the installed apps, their current versions, and the latest versions you can update them to.
 
@@ -146,14 +146,18 @@ winget upgrade -h -all
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-definitive-iphone-podcast-download-guide/"><u>[New] The Definitive iPhone Podcast Download Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-video-content-delivery-a-curated-list-of-players/"><u>2024 Approved Streamline Video Content Delivery A Curated List of Players</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultraview-app-functionality-survey/"><u>2024 Approved UltraView App Functionality Survey</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/exploring-the-features-of-cloud-enabled-security-inside-microsofts-windows-defender-yl-computing/"><u>Exploring the Features of Cloud-Enabled Security: Inside Microsoft's Windows Defender - YL Computing</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-fb-video-marketing-made-simple-free-toolkit-unlocks-potential/"><u>In 2024, FB Video Marketing Made Simple Free Toolkit Unlocks Potential</u></a></li>
-<li><a href="https://fox-links.techidaily.com/straightforward-guide-to-flipper-sound-manipulation-on-windows-os-for-2024/"><u>Straightforward Guide to Flipper Sound Manipulation on Windows OS for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-sound-transition-in-logic-pro-x-for-2024/"><u>The Art of Sound Transition in Logic Pro X for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-leading-list-of-16-youtube-openers-for-audience-expansion/"><u>[Updated] 2024 Approved Leading List of 16 YouTube Openers for Audience Expansion</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-navigating-the-new-era-youtubes-shorts-fund-explained/"><u>[Updated] 2024 Approved Navigating the New Era YouTube's Shorts Fund Explained</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-elite-driving-sims-best-five-titles/"><u>[Updated] In 2024, Elite Driving Sims Best Five Titles</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-obsessed-with-broadcasting-choose-between-xsplit-and-obs/"><u>[Updated] In 2024, Obsessed with Broadcasting? Choose Between XSplit & OBS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-great-digital-debate-meta-vs-omni/"><u>[Updated] The Great Digital Debate Meta Vs. Omni</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-troubleshooting-iphone-x-regaining-access-via-facial-id/"><u>[Updated] Troubleshooting iPhone X Regaining Access via Facial ID</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-textual-dimension-mastering-adobe-illustrator/"><u>2024 Approved The Art of Textual Dimension Mastering Adobe Illustrator</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/comment-installer-windows-11-gratuitement-via-une-cle-usb-2-methodes-efficielles-et-une-recette-secrete/"><u>Comment Installer Windows 11 Gratuitement Via Une Clé USB : 2 Méthodes Efficielles Et Une Recette Secrète</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-itel-p40plus-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Itel P40+ Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-microsoft-hololens-review-a-glimpse-of-holographic-future/"><u>In 2024, Microsoft HoloLens Review- a Glimpse of Holographic Future</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streaming-galore-top-nine-game-portals/"><u>In 2024, Streaming Galore Top Nine Game Portals</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tailored-strategies-for-free-clock-usage-optimization/"><u>In 2024, Tailored Strategies for FREE Clock Usage Optimization</u></a></li>
+<li><a href="https://fox-info.techidaily.com/leveraging-patient-stories-a-guide-to-powerful-videography/"><u>Leveraging Patient Stories A Guide to Powerful Videography</u></a></li>
 </ul></div>
 
