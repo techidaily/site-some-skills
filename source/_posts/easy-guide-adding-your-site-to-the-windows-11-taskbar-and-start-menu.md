@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Adding Your Site to the Windows 11 Taskbar and Start Menu"
-date: 2025-02-09T22:35:54.581Z
-updated: 2025-02-16T18:11:48.504Z
+date: 2025-02-12T16:18:21.929Z
+updated: 2025-02-16T18:40:42.907Z
 tags:
   - desktop
 categories:
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 * [Pin a Website from Firefox](https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-iphone-6s-by-drfone-ios/)
 * [Pin a Microsoft Edge Website](https://facebook-video-files.techidaily.com/new-innovative-downloaders-unveiled-top-8-of-2023/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * In Google Chrome, click the three vertical dots, go to Save and Share, and select Create Shortcut to pin a website.
@@ -33,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 
  Having quick access to frequently-used or hard to remember websites can save you time and frustration. Whether you use Chrome, Firefox, or Edge, you can add a shortcut to any site right to your Windows 10 taskbar or Start menu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Pin a Website from Google Chrome
 
  Navigate to the website you want to pin. Click the three vertical dots in the top right of Chrome, hover your mouse over "Save and Share," then select "Create Shortcut."
@@ -44,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 ![Click the three-dot menu icon, click 'Save and Share,' then select 'Create Shortcut.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-three-dot-menu-click-save-and-share-click-create-shortcut.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the pop-up menu, change the name of the shortcut if desired, and click "Create." This will automatically create an icon on your Windows desktop and pin the link to your taskbar. 
@@ -59,11 +51,23 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 
 ![Right-click the icon and select 'Pin to Start.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-pin-to-start.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Pin a Website from Firefox
 
  Create a shortcut to Firefox on your desktop. You can do this by typing "Firefox" into your Start menu, right-clicking on the icon, and clicking "Open File Location."
 
 ![Open Firefox File Location](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/ff1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the new File Explorer window, right-click Firefox and click "Create Shortcut." A prompt will appear, saying, "Windows can't create a shortcut here. Do you want the shortcut to be placed on the desktop instead?" Click "Yes."
 
@@ -75,25 +79,21 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
     
 ![Direct Firefox Shortcut to Specific Website](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/ff3.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click "OK."
 
  From your desktop, right-click on the shortcut, and click either "Pin to Start" or "Pin to Taskbar." You can now delete the shortcut on your desktop.
 
 ![Right-click the Firefox icon and select 'Pin to Start' or 'Pin to Taskbar.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-pin-to-start-pin-to-taskbar.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Pin a Microsoft Edge Website
 
 [Microsoft's Chromium-based Edge browser](https://common-error.techidaily.com/how-to-restore-your-mouse-visibility-in-windows-11-expert-troubleshooting-guide/) works similarly to Google Chrome. To pin any website to a taskbar, simply open the "Settings and More" menu (Alt+F, or click on the three horizontal dots in the top right of your browser). Hover your mouse over "More tools" and click "Pin to Taskbar" or "Pin to Start." 
 
 ![Click the three-dot menu icon, hover over 'More Tools,' then select 'Pin to Start' or 'Pin to Taskbar.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-three-dot-mor-tools-pin-to-taskbar-pin-to-start.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Additionally, Edge has a neat feature called "Launch Taskbar Pinning Wizard," which you can see right below "Pin to Taskbar." Click this, and Edge will guide you through a short menu that lets you pin the most popular websites and Microsoft web apps to your taskbar
 
@@ -114,20 +114,18 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-unleash-creativity-building-a-memorable-podcast-logo/"><u>[New] 2024 Approved Unleash Creativity Building a Memorable Podcast Logo</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-editors-almanac-key-takeaways-from-filmora-editioning/"><u>[New] The Editor’s Almanac Key Takeaways From Filmora Editioning</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unleash-potential-transforming-vhs-photos-through-technology/"><u>[New] Unleash Potential Transforming VHS Photos Through Technology</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-ultimate-selection-6-prime-stores-for-your-next-laptop-purchase/"><u>Discover the Ultimate Selection: 6 Prime Stores for Your Next Laptop Purchase</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-analysis-how-i-found-differences-in-performance-between-ring-and-nest-doorbells/"><u>Expert Analysis: How I Found Differences in Performance Between Ring and Nest Doorbells</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-htc-u23-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change HTC U23 Pro Lock Screen Password?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-oppo-find-n3-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Oppo Find N3 Phone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tune-and-time-lapses-creating-music-videos-with-your-phone/"><u>In 2024, Tune & Time Lapses Creating Music Videos with Your Phone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-gestures-in-tech-landscape/"><u>In 2024, Unveiling Gestures in Tech Landscape</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-the-recent-software-enhancement-on-your-logitech-extreme-3d-pro-controller/"><u>Install the Recent Software Enhancement on Your Logitech Extreme 3D Pro Controller</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solved-scan-to-computer-is-no-longer-activated-on-windows-11/"><u>Solved: Scan to Computer Is No Longer Activated on Windows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-surveillance-avoidance-tips-for-instagrams-livestreams-for-2024/"><u>The Ultimate Surveillance Avoidance Tips for Instagram's Livestreams for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/travel-video-setup-must-have-items-checklist-for-2024/"><u>Travel Video Setup Must-Have Items Checklist for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unraveling-adobes-storage-system-guide-and-comparison-chart-for-2024/"><u>Unraveling Adobe's Storage System Guide & Comparison Chart for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-realme-10t-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Realme 10T 5G? Here is How | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-editsuite-evaluation-detailed-article/"><u>[New] EditSuite Evaluation – Detailed Article</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-audiovisual-alchemy-formulating-your-youtube-playlist-for-2024/"><u>[Updated] Audiovisual Alchemy Formulating Your YouTube Playlist for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-razers-hd-webcam-thorough-review-guide/"><u>[Updated] In 2024, Razer's HD Webcam Thorough Review Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-thanks-for-curating-premium-and-free-outro-themes/"><u>[Updated] Thanks for Curating Premium & Free Outro Themes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-teachers-handbook-bridging-traditional-and-digital-media/"><u>2024 Approved Teacher's Handbook Bridging Traditional & Digital Media</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-pathway-to-seamless-system-enhancement-in-macos-11-big-sur/"><u>2024 Approved The Pathway to Seamless System Enhancement in macOS 11 Big Sur</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-full-potential-mac-plus-obs-plus-streamlabs/"><u>2024 Approved Unlock Full Potential Mac + OBS + Streamlabs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-for-taming-your-systems-roaring-fan-an-easy-fix/"><u>Guide for Taming Your System's Roaring Fan – An Easy Fix</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oppo-find-n3-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Oppo Find N3 Device</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-15-pro-max-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>iPhone 15 Pro Max Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/prompt-audio-device-driver-updates-logitech-style/"><u>Prompt Audio Device Driver Updates, Logitech Style</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/transforming-your-view-with-the-hp-envy-27-monitor-for-2024/"><u>Transforming Your View with the HP Envy 27 Monitor for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/windows-10-new-features-at-a-glance-for-2024/"><u>Windows 10 New Features at a Glance for 2024</u></a></li>
 </ul></div>
 

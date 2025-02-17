@@ -1,7 +1,7 @@
 ---
 title: Simple Methods to Locate & Remove Outdated Data in Windows 11
-date: 2025-02-14T03:22:11.153Z
-updated: 2025-02-17T07:19:00.625Z
+date: 2025-02-11T05:16:55.884Z
+updated: 2025-02-17T00:47:31.998Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Simple Methods to Locate & Remove Outdated Data in Windows 11
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -33,12 +37,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 !['System' and 'Storage' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/1-storage-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the Storage Management section, turn on the toggle next to "Storage Sense," then click "Storage Sense."
 
 !['Storage Sense' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/2-enable-storage-sense.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You’ll now configure Storage Sense's behavior. At the top, enable the option in the "Cleanup of Temporary Files" section so that temporary files are automatically deleted.
@@ -51,15 +59,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Storage Sense configuration options in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-configure-storage-sense.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To run the feature now, click "Run Storage Sense Now." It will start removing the chosen files.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  With Microsoft PC Manager
 
@@ -68,10 +68,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To use the app, open Windows Search, type **PC Manager**, and choose the app in the search results. When it opens, from the left sidebar, select "Storage." On the right pane, in the Files Cleanup section, you’ll see various options.
 
 ![File cleanup options in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/4-pc-manager-file-cleanup-options.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The first option is "Downloaded Files," which lets you remove the files you’ve downloaded using the installed web browsers. Click it, and it’ll open a window listing your recent file downloads. You can sort these files by their type using the tabs at the top.
 
@@ -88,6 +84,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  When you see the files listed, choose the ones you want to remove and click "Permanently Delete."
 
 ![Large files and 'Permanently Delete' highlighted in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/7-delete-large-files.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And that’s it.
 
@@ -106,7 +106,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 !['Run as Administrator' highlighted for Command Prompt in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/9-open-command-prompt.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the User Account Control prompt, choose "Yes."
@@ -137,7 +137,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 !['Run as Administrator' highlighted for a batch file in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/11-run-batch-file.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can integrate this batch script with Task Manager, and Task Manager will run the script at your specified time. This basically automates the entire process of finding and removing old files from your specified folders.
@@ -161,20 +161,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-top-tunes-palette-for-video-storytelling/"><u>[New] Top Tunes Palette for Video Storytelling</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-customizing-video-assets-for-instagram-mastery/"><u>[Updated] 2024 Approved Customizing Video Assets for Instagram Mastery</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-facetune-photo-enhancement/"><u>[Updated] The Ultimate Guide to Facetune Photo Enhancement</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultra-clarity-the-new-era-of-hd-monitors-envy-27/"><u>[Updated] Ultra Clarity The New Era of HD Monitors - Envy 27</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-tips-for-meme-magic-with-kinemaster/"><u>2024 Approved Top Tips for Meme Magic with KineMaster</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-secrets-of-lightroom-on-android-platforms/"><u>2024 Approved Unveiling the Secrets of Lightroom on Android Platforms</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/advanced-text-tools-and-ae-plug-ins-for-2024/"><u>Advanced Text Tools & AE Plug-Ins for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/blueprinting-breathtaking-film-prologues/"><u>Blueprinting Breathtaking Film Prologues</u></a></li>
-<li><a href="https://some-tips.techidaily.com/download-windows-11-insider-build-15031-resolve-initializing-issue-for-smooth-installation/"><u>Download Windows 11 Insider Build 15031? Resolve 'Initializing' Issue for Smooth Installation</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-discover-the-ideal-screencasting-software-for-teachers/"><u>In 2024, Discover the Ideal Screencasting Software for Teachers</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-samsung-galaxy-f15-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Samsung Galaxy F15 5G to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Nubia Z50 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-top-tips-mastering-music-on-instagram/"><u>In 2024, Top Tips Mastering Music on Instagram</u></a></li>
-<li><a href="https://some-skills.techidaily.com/strategize-and-succeed-a-stepwise-approach-to-impactful-reddit-sharing-for-2024/"><u>Strategize & Succeed A Stepwise Approach to Impactful Reddit Sharing for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-for-sticking-notebooks-front-and-center/"><u>Tips for Sticking Notebooks Front and Center</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-360-degree-cams-face-off-the-ultimate-test/"><u>[New] 2024 Approved 360 Degree Cams Face-Off The Ultimate Test</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-premium-sporting-cameras-for-adventure/"><u>[New] 2024 Approved Premium Sporting Cameras for Adventure</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-tech-tips-for-perfect-video-captures/"><u>[New] Tech Tips for Perfect Video Captures</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-educational-videography-mastery-in-cutting-and-pacing/"><u>[Updated] 2024 Approved Educational Videography Mastery in Cutting & Pacing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-effortless-gif-to-video-conversion-best-5-top-online-services/"><u>[Updated] 2024 Approved Effortless GIF-to-Video Conversion Best 5 Top Online Services</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-from-gifs-to-stickers-full-guide-for-social-channels/"><u>[Updated] From GIFs to Stickers Full Guide for Social Channels</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-complete-guide-to-toolwiz-photography-software/"><u>[Updated] In 2024, Complete Guide to Toolwiz Photography Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-superior-text-styling-methods/"><u>[Updated] Superior Text Styling Methods</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-10-text-manipulators-boosting-affects-craft/"><u>[Updated] Top 10 Text Manipulators Boosting Affects Craft</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-tactics-for-flawless-solo-streaming-experiences/"><u>2024 Approved Top Tactics for Flawless Solo Streaming Experiences</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-windows-11s-core-enhancements/"><u>2024 Approved Unveiling Windows 11'S Core Enhancements</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-intersection-of-design-and-efficiency-in-professional-environments/"><u>In 2024, The Intersection of Design & Efficiency in Professional Environments</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-streaming-services-a-must-know/"><u>In 2024, Top 10 Streaming Services - A Must Know</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/strategies-for-creating-hit-memes/"><u>Strategies for Creating Hit Memes</u></a></li>
 </ul></div>
 

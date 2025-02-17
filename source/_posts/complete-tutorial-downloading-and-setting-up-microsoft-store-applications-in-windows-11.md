@@ -1,7 +1,7 @@
 ---
 title: "Complete Tutorial: Downloading and Setting Up Microsoft Store Applications in Windows 11"
-date: 2025-02-13T18:42:54.258Z
-updated: 2025-02-17T01:57:40.459Z
+date: 2025-02-11T01:16:01.595Z
+updated: 2025-02-17T05:35:38.457Z
 tags:
   - deals
 categories:
@@ -11,18 +11,10 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 ## Complete Tutorial: Downloading and Setting Up Microsoft Store Applications in Windows 11
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Free Apps vs. Paid Apps](https://buynow-tips.techidaily.com/motorola-one-5g-ace-fastest-5g-performance-with-exceptional-battery-longevity/)
 * [How to Install Software Using the Microsoft Store on Windows 10](https://win-howtos.techidaily.com/effective-solutions-for-repairing-unresponsive-functional-keys-on-lenovo-computers/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -48,17 +40,21 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 ![Search for 'Microsoft store' in the Start menu search bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-microsoft-store.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When the "Microsoft Store" app opens, you will see a screen that includes many flashy banners that advertise the latest deals and other promotions.
 
 ![The Microsoft Store advertises all kinds of apps and media.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-the-microsoft-store.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you're looking for a specific type of app, click one of the categories to the left-hand side. Some categories, most notably Movies & TV, also allow you to purchase media, like movies. 
 
 ![The app types listed on the left.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-app-types-on-left.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or you can search for a specific app by clicking the search button. In the search bar that appears, type what you'd like to find, then click an item in the list of results.
 
@@ -68,12 +64,16 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 ![Click the 'Get' button to add an app to your account, then click 'Install' to actually install it to your PC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-get-app.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the program requires a purchase before downloading, you will see a large "Buy for" button followed by a price. 
 
 ![Buy Microsoft Flight Simulator for 59.99 USD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-buy-for-x-price.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After following the purchase steps, the download will begin. You will see the "Get" or "Install" button change to a small circle that indicates your download's progress. You can also click this button to stop a download in progress if you change your mind, or if it is taking up too much time or bandwidth. 
@@ -81,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 ![The download is in progress when the 'Get' or 'Install' button changes to a stop button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-download-in-progress.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once the app is installed, you can launch it by clicking "Launch" or "Play" button located just beside the download progress indicator bar. Or you can open the "Start" menu and browse for the app name in an alphabetical list. Click the app's icon when you find it, and it will launch.
@@ -115,16 +115,15 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-best-android-apps-youtube-video-downloads-compared/"><u>[New] In 2024, Best Android Apps YouTube Video Downloads Compared</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-cultivate-creativity-youtubes-top-inspirational-videos/"><u>[New] In 2024, Cultivate Creativity YouTube's Top Inspirational Videos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-disabling-the-autoplay-feature-in-apple-music-app/"><u>Guide: Disabling the Autoplay Feature in Apple Music App</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-comfortable-viewing-looping-youtube-videos-on-big-displays/"><u>In 2024, Comfortable Viewing Looping YouTube Videos on Big Displays</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-master-the-charm-of-darker-digital-images/"><u>In 2024, Master the Charm of Darker Digital Images</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tailor-topical-laughs/"><u>In 2024, Tailor Topical Laughs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-file-management-free-cloud-storage-service-guide/"><u>In 2024, Transform Your File Management - Free Cloud Storage Service Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-untapped-potential-to-augment-your-youtube-audience/"><u>In 2024, Unveiling Untapped Potential to Augment Your Youtube Audience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-most-reliable-gopro-cases-1-10-showdown-for-2024/"><u>The Most Reliable GoPro Cases - #1-10 Showdown for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-8-speed-upters-accelerate-your-android-media-for-2024/"><u>Top 8 Speed Upters - Accelerate Your Android Media for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-trending-programming-languages-today-and-understanding-their-popularity-surge/"><u>Top Trending Programming Languages Today & Understanding Their Popularity Surge</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-breaking-barriers-download-and-store-your-fmb-conversations-for-2024/"><u>[New] Breaking Barriers Download & Store Your FMB Conversations for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-total-byte-requirement-for-a-days-movie-watching/"><u>[Updated] Total Byte Requirement for a Day's Movie Watching</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-leveraging-viewership-the-mechanics-of-product-sponsored-youtube-videos/"><u>2024 Approved Leveraging Viewership The Mechanics of Product-Sponsored YouTube Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-download-sites-showcasing-exquisite-text-effects/"><u>2024 Approved Top Download Sites Showcasing Exquisite Text Effects</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-xiaomi-redmi-note-12-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Xiaomi Redmi Note 12 5G? Try These Fixes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-note-30-vip-racing-edition-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Infinix Note 30 VIP Racing Edition Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Tecno Spark 20? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/inventory-guide-to-videography-devices-for-2024/"><u>Inventory Guide to Videography Devices for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-selecting-and-using-b-roll-in-productions-for-2024/"><u>The Art of Selecting and Using B-Roll in Productions for 2024</u></a></li>
 </ul></div>
 

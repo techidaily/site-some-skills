@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Manually Applying Patches and Updates in Windows 11
-date: 2025-02-12T20:44:04.446Z
-updated: 2025-02-16T18:20:47.872Z
+date: 2025-02-12T22:27:46.815Z
+updated: 2025-02-17T02:49:44.537Z
 tags:
   - desktop
 categories:
@@ -43,6 +43,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 !['Stop' selected for the Windows Update service.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/2-stop-windows-update-service.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Keep the Services window open, as you’ll return here shortly. Open the Run dialog box again by pressing Windows+R. Type the following path in the box and press Enter. If you’ve installed Windows on a drive other than C, replace the drive letter in the path.
 
         `C:\Windows\SoftwareDistribution\`
@@ -51,15 +55,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The trash can icon selected for the Windows Update cache files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/3-clear-windows-update-cache.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You’ve removed all the update files. Close File Explorer, return to the Services window, right-click the "Windows Update" service, and choose "Start."
 
 !['Start' selected for the Windows Update service.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/4-start-windows-update-service.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You’re set.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  From Windows Settings
 
@@ -69,19 +77,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 !['Windows Update' highlighted in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/5-windows-update-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On the right pane, click "Download & Install All" to download and install the available updates. To only download and install specific updates, click the button next to those updates.
 
 !['Download & Install All' highlighted on the Windows Update screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/6-download-install-all-windows-updates.jpg) 
 
  Wait while Windows obtains and installs the selected updates, then [reboot your Windows 11 PC](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  From Microsoft Update Catalog
 
@@ -103,11 +103,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An update name highlighted on the Microsoft Update Catalog site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/10-download-windows-update.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After downloading the update, run the update file and follow the on-screen instructions. The file will extract the update files and install the update on your system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Using Command Prompt
 
@@ -120,6 +120,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  After successfully downloading the update, [open Command Prompt](https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-14-ultra-drfone-by-drfone-android/). Do this by pressing the Windows key, typing **Command Prompt**, and selecting "Run as Administrator."
 
 !['Run as Administrator' highlighted for Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/11-launch-cmd-as-admin.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the User Account Control prompt, select "Yes."
 
@@ -134,7 +138,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The command to install a Windows update typed in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/12-install-windows-update-cmd.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Run the following command to check if the update was successfully installed:
@@ -149,6 +153,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
     
  And your Windows PC is now up-to-date.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Using Windows PowerShell
 
  PowerShell allows you to find all the available updates for your PC and then download and install those updates. Unlike with Command Prompt, you don’t need to manually download the updates first.
@@ -157,15 +165,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 !['Run as Administrator' highlighted for PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/13-launch-powershell-as-admin.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In PowerShell, type the following command (called a [cmdlet](https://extra-guidance.techidaily.com/new-prophotomaster-the-ai-enhanced-editing-edge/)) and press Enter. This cmdlet installs the Windows Update module to allow you to manage Windows updates from PowerShell.
 
         `Install-Module PSWindowsUpdate`
     
 ![The cmdlet to install the Windows Update module typed in PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/14-install-windows-update-module-powershell.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When PowerShell prompts, type **Y** and press Enter. Then, run the following cmdlet, type **Y**, and press Enter:
 
@@ -181,10 +189,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
     
 ![The cmdlet to find the latest Windows updates typed in PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/15-find-windows-updates-powershell.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To download and install all the available updates, use the following cmdlet:
 
         `Install-WindowsUpdate`
@@ -194,10 +198,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
         `Install-WindowsUpdate -KBArticleID UPDATENUMBER`
     
 ![The cmdlet to install a specific Windows update typed in PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/16-install-windows-update-powershell.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  PowerShell will install all or select updates (as you specified). Then, give your PC a restart to bring the changes into effect.
 
@@ -220,17 +220,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-ice-warriors-battle-the-spectacular-winter-olympics-snowboard-showdown/"><u>[New] Ice Warriors Battle - The Spectacular Winter Olympics Snowboard Showdown</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-art-of-color-transformation-an-expert-written-by-dr-jane-smith/"><u>[New] The Art of Color Transformation An Expert' Written by Dr. Jane Smith</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-expert-advice-on-valheim-seed-selection/"><u>[Updated] In 2024, Expert Advice on Valheim Seed Selection</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mobile-live-streaming-on-yt-without-thousands-in-followers/"><u>[Updated] Mobile Live Streaming on YT Without Thousands in Followers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-art-of-podcast-titling-a-step-by-step-guide/"><u>[Updated] The Art of Podcast Titling A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-elite-8-virtual-handhelds-overview/"><u>[Updated] The Elite 8 Virtual Handhelds Overview</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tiktok-bgs-exploring-affordable-eye-catching-visuals/"><u>[Updated] TikTok BGs Exploring Affordable, Eye-Catching Visuals</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/1-windows-1011-hdd-ssd/"><u>1. Windows 10/11 ドライブの分割画像を新しい HDD/ SSDへ移行する手順</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-tips-to-eradicate-fluctuating-display-on-windows-1011/"><u>Expert Tips to Eradicate Fluctuating Display on Windows 10/11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-path-to-artistic-expression-discover-free-tools-for-voice-modification/"><u>In 2024, The Path to Artistic Expression – Discover Free Tools for Voice Modification</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/no-sound-no-errors-uncovering-reasons-for-a-quiet-scanner-startup-guidance-by-yl-computing-expertise/"><u>No Sound, No Errors: Uncovering Reasons for a Quiet Scanner Startup – Guidance by YL Computing Expertise</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-your-guide-to-affordable-comedy-audio-tracks-5-sites-every-content-maker-should-know/"><u>Updated 2024 Approved Your Guide to Affordable Comedy Audio Tracks 5 Sites Every Content Maker Should Know</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-hidden-narratives-unlocked-a-complete-snapguide/"><u>[New] 2024 Approved Hidden Narratives Unlocked A Complete Snapguide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-strategies-to-escalate-your-instagram-presence/"><u>[New] 2024 Approved Strategies to Escalate Your Instagram Presence</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-beginners-guide-to-iphone-screen-capture/"><u>[Updated] 2024 Approved Beginner's Guide to iPhone Screen Capture</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-mac-users-guide-to-snapchat-integration/"><u>[Updated] Mac Users' Guide to Snapchat Integration</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-swift-to-stillness-the-art-of-timelapse-with-a-galaxy/"><u>[Updated] Swift to Stillness The Art of Timelapse with a Galaxy</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-indestructible-link-methodology-for-tiktok-bio-info/"><u>[Updated] The Indestructible Link Methodology for TikTok Bio Info</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-upload-wizardry-selecting-the-best-youtube-to-twitter-convertors/"><u>[Updated] Upload Wizardry Selecting the Best YouTube to Twitter Convertors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-exclusive-windows-11s-media-importers/"><u>2024 Approved The Ultimate Exclusive Windows 11'S Media Importers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-5-slow-motion-capturers/"><u>2024 Approved Ultimate 5 Slow Motion Capturers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-windows-10-sound-capabilities/"><u>2024 Approved Unlocking Windows 10 Sound Capabilities</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unravel-the-secrets-of-saving-and-playing-gifs-on-your-ios-device/"><u>2024 Approved Unravel the Secrets of Saving & Playing GIFs on Your iOS Device</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unraveling-360-degree-vision-a-new-cinematic-experience/"><u>2024 Approved Unraveling 360-Degree Vision A New Cinematic Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-fix-for-accidental-tiktok-reposts-undo-feature-walkthrough/"><u>Easy Fix for Accidental TikTok Reposts – Undo Feature Walkthrough</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-installation-of-fandango-streaming-service-for-amazon-firestick-users/"><u>Easy Installation of Fandango Streaming Service for Amazon Firestick Users</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-elite-selection-30plus-ultimate-free-templates-guide/"><u>In 2024, Elite Selection 30+ Ultimate Free Templates Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-iphone-photography-playbook/"><u>In 2024, The Ultimate iPhone Photography Playbook</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Oppo F23 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastering-youtube-live-imagery-a-comprehensive-overview-for-2024/"><u>Mastering YouTube Live Imagery A Comprehensive Overview for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/plating-perfection-30-unique-and-appealing-recipe-channels-for-2024/"><u>Plating Perfection 30 Unique and Appealing Recipe Channels for 2024</u></a></li>
 </ul></div>
 

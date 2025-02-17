@@ -1,7 +1,7 @@
 ---
 title: Discover Perplexity – The Unique AI Chatbot Worth Paying For
-date: 2025-02-03T17:19:51.522Z
-updated: 2025-02-07T16:29:36.276Z
+date: 2025-02-12T18:39:56.490Z
+updated: 2025-02-16T18:51:21.147Z
 tags:
   - cutting-edge
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Discover Perplexity – The Unique AI Chatbot Worth Paying For
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -29,15 +25,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Choosing AI Models In Perplexity](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1-choosing-ai-models-in-perplexity.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For image generation, you have access to [DALL-E 3](https://some-skills.techidaily.com/tailored-titling-for-stellar-online-video-content-for-2024/), which is the same model ChatGPT uses to generate images. You can also change that to Playground 2.5 or [Stable Diffusion XL](https://games-able.techidaily.com/pro-tips-amassing-steams-best-free-gaming-treasures/). I find Stable Diffusion XL‘s output more satisfying.
 
 ![Choosing AI Image Generation Models in Perplexity](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-choosing-ai-image-generation-models-in-perplexity.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Also, Perplexity constantly updates its model library, so you’ll always have access to the latest and greatest options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  More Models in Perplexity Playground
 
@@ -45,15 +45,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Perplexity Playground Option from Footer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-perplexity-playground-option-from-footer.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The Playground allows you to test a wider array of AI models and compare their performance. You can start a conversation with one model and switch to another midway through.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  A Broader and More Practical Messaging Cap
 
@@ -67,6 +59,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Perplexity’s cap is much more practical because, when using AI for research or ideation, the conversation thread can get quite long—typically 120-150 messages. Perplexity can handle this in one session, whereas other chatbots might require breaks, disrupting your workflow. Also, you still have 150 messages left with Perplexity for the rest of the day, which is enough for casual web searches and questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Seamlessly Switch Between Web Search and Chatbot Mode
 
  Perplexity is primarily an AI search engine, and I’ve found its [web search experience superior to Google’s](https://twitter-videos.techidaily.com/new-2024-approved-step-by-step-live-tweeting-tactics/). However, you don’t need to use Perplexity solely as a search engine. You can also use it as a simple chatbot.
@@ -74,6 +70,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To do this, click on Focus>Writing before asking Perplexity a question. This disables internet access and lets you interact directly with the AI model without it pulling data from the internet. This flexibility makes Perplexity an excellent tool for both web searches and pure AI chatbot interactions.
 
 ![Perplexity Switch to Writing Mode, No Internet Access](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/5-perplexity-switch-to-writing-mode-no-internet-access.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Perplexity Gives Internet Access to Claude and All Supported Models
 
@@ -87,16 +87,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Search Through All Perplexity Threads Inside The Library](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/6-search-through-all-perplexity-threads-inside-the-library.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Perplexity saves all chats (which it calls "Threads") inside its Library. From here you can use the search bar to browse through old threads. However, the main feature I want to spotlight is Collections. It helps you organize and group all your threads, making them easier to find when you need them.
 
 ![Perplexity Collection of Threads on Planning Trip to Bali](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/7-perplexity-collection-of-threads-on-planning-trip-to-bali.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  So, let’s say you are planning a trip to Bali. You’ll most likely search for different things in the planning process. A couple of search threads might be dedicated to finding the best places to sight-see. Then there’s searching for the best restaurants, the best hotels, best places to buy souvenirs, etc.
@@ -116,6 +112,10 @@ Close
  To use this feature in Perplexity, go to Settings>Profile and share as much as you'd like about yourself. You can also add your location and set your preferred language so that the search results are tailored to those specifications.
 
 ![Adding Personal Information in Perplexity for Personalized Answers](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/0-adding-personal-information-in-perplexity-for-personalized-answers.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Dibakar Ghosh | How-To Geek
 
@@ -140,20 +140,22 @@ Dibakar Ghosh | How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-elevating-your-youtube-presence-subscriber-growth-tactics/"><u>[New] 2024 Approved Elevating Your YouTube Presence Subscriber Growth Tactics</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-comic-editor-app/"><u>[New] Ultimate Comic Editor App</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-how-frequent-uploads-can-skyro-cookie-sales-on-your-youtube-channel/"><u>[Updated] In 2024, How Frequent Uploads Can Skyro Cookie Sales on Your YouTube Channel</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-techniques-for-depicting-realism-in-docuscripts/"><u>[Updated] In 2024, Techniques for Depicting Realism in Docuscripts</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-the-ultimate-guide-to-enhancing-zoom-meetings-with-effects/"><u>[Updated] In 2024, The Ultimate Guide to Enhancing Zoom Meetings With Effects</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-skype-call-recording-for-windows-os-x-users/"><u>[Updated] Skype Call Recording for Windows, OS X Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-essential-guide-to-saving-web-radio-broadcasts/"><u>[Updated] The Essential Guide to Saving Web Radio Broadcasts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-mastering-googles-text-conversion-service-a-detailed-walkthrough/"><u>2024 Approved Mastering Google's Text Conversion Service A Detailed Walkthrough</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-the-essence-of-luts-for-professional-photography/"><u>2024 Approved Understanding the Essence of LUTs for Professional Photography</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-essential-tips-for-vlc-based-online-streaming/"><u>In 2024, Essential Tips for VLC-Based Online Streaming</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-vivo-x-flip-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Vivo X Flip Data? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-itel-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Itel</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-matching-fpv-drones-with-ideal-blades/"><u>In 2024, The Art of Matching FPV Drones with Ideal Blades</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-notch-drones-for-professionals-our-curated-list/"><u>In 2024, Top-Notch Drones for Professionals – Our Curated List</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-profiting-off-reddit-13-ways-here-for-2024/"><u>The Ultimate Guide to Profiting Off Reddit - 13 Ways Here for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamline-your-music-movement-between-services/"><u>[New] Streamline Your Music Movement Between Services</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-toolwiz-for-professionals-a-thorough-app-assessment/"><u>[New] Toolwiz for Professionals A Thorough App Assessment</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-a-closer-look-at-earnings-comparing-dailymotion-and-youtube-revenues-for-2024/"><u>[Updated] A Closer Look at Earnings Comparing Dailymotion and YouTube Revenues for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-video-platform-review-is-vimeo-best-over-youtubes-and-dailymotions/"><u>[Updated] In 2024, Video Platform Review Is Vimeo Best Over YouTubes and DailyMotions?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-precision-and-proficiency-youtube-edits-in-adobe-premiere-for-2024/"><u>[Updated] Precision & Proficiency YouTube Edits in Adobe Premiere for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-blueprint-to-fullscreen-brilliance-in-adobe-premiere/"><u>[Updated] The Ultimate Blueprint to Fullscreen Brilliance in Adobe Premiere</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-add-music-to-powerpoint/"><u>2024 Approved Add Music to PowerPoint</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-plan-to-grow-your-subscriber-base/"><u>2024 Approved The Ultimate Plan to Grow Your Subscriber Base</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-much-cash-can-you-score-for-watching-a-million-videos/"><u>In 2024, How Much Cash Can You Score for Watching A Million Videos?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-checklist-lipo-batteries-for-drone-excellence/"><u>In 2024, The Ultimate Checklist LiPo Batteries for Drone Excellence</u></a></li>
+<li><a href="https://some-skills.techidaily.com/superior-6-tools-for-video-language-shift-for-2024/"><u>Superior 6 Tools for Video Language Shift for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/tailoring-facebook-visibility-for-privacy/"><u>Tailoring Facebook Visibility for Privacy</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-journey-of-a-youtube-video-from-creation-to-live-streaming-for-2024/"><u>The Journey of a YouTube Video From Creation to Live Streaming for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/time-travel-tech-how-to-reverse-ios-video-for-2024/"><u>Time Travel Tech How to Reverse iOS Video for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/transforming-memories-from-still-photos-to-motion-pictures/"><u>Transforming Memories From Still Photos to Motion Pictures</u></a></li>
+<li><a href="https://some-skills.techidaily.com/turn-mess-into-mastery-efficient-edits-on-bulky-tiktok-drafts-for-2024/"><u>Turn Mess Into Mastery Efficient Edits on Bulky TikTok Drafts for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/uncover-top-8-spots-to-find-free-3d-text-psdfiles-for-2024/"><u>Uncover Top 8 Spots to Find Free 3D Text PSDFiles for 2024</u></a></li>
 </ul></div>
 

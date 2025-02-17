@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Linux File Timestamps – Decoding Atime, Mtime, and Ctime Explained
-date: 2025-02-09T19:49:35.345Z
-updated: 2025-02-16T22:39:02.277Z
+date: 2025-02-14T04:34:59.871Z
+updated: 2025-02-17T06:27:12.634Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Comprehensive Guide to Linux File Timestamps – Decoding Atime, Mtime, and Ctime Explained
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -70,6 +66,10 @@ stat dp.c
 
 ![stat dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/2-7.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The time zones are listed at the bottom of the display. As you can see, they have a very accurate, fractional seconds component. At the end of each timestamp, you also see a -0500 or -0400 .
 
  These are time zone offsets. The file system records the timestamps in UTC and converts them to the local time zone when displayed by stat. The computer we used to research this article is configured as if it were in the Eastern Standard Time (EST) zone of the U.S.
@@ -79,6 +79,10 @@ stat dp.c
  The offsets and time zones aren't stored anywhere. There's neither [an inode](https://fox-http.techidaily.com/enthralling-examination-and-replacement-ideas-for-2024/) nor a file system space devoted to holding these values. You have to calculate these on the fly using the timestamp (which is always in UTC time), the local time zone of the computer displaying the file, and whether DST was in effect.
 
  You also see a "Birth" timestamp, which is reserved for the creation date of the file. This is not implemented, and you see a hyphen "-" instead of a timestamp.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Changing Timestamps
 
@@ -93,7 +97,7 @@ stat dp.c
 ![touch -a dp.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/3-8.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The access timestamp changed, as expected. However, the changed timestamp was updated as well; this is normal.
@@ -140,10 +144,6 @@ stat dp
 
  The changed timestamp was the only one that updated. This is because the file itself wasn't changed—it was neither accessed nor modified. However, the metadata about the file was changed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How the File System Updates Timestamps
 
  When a file system is mounted, there are options you can use to specify how that file system should operate or be treated. These are stored in the /etc/fstab file, which is read and processed at boot time. You can also set options to dictate the scheme they should use to update the access timestamp.
@@ -172,15 +172,19 @@ less /etc/fstab
 ## 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use 'blkid' to print the universally unique identifier for a  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## device; this may be used with UUID= as a more robust way to name devices  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## that works even if disks are added and removed. See fstab(5).  
@@ -188,14 +192,10 @@ less /etc/fstab
 ## 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## <file system> <mount point> <type> <options> <dump> <pass>  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## / was on /dev/sda1 during installation  
 UUID=4a143d08-8695-475b-8243-b13b56050fc2 / ext4 errors=remount-ro 0 1  
@@ -213,6 +213,10 @@ cat /proc/mounts | grep "sda"
 
 ![cat /proc/mounts | grep "sda" in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/9-6.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now we see the following options:
 
 * **rw**: The file system will be mounted as a read and write file system.
@@ -225,10 +229,6 @@ cat /proc/mounts | grep "sda"
 * When no access timestamp options are used in /etc/fstab, and you're using Linux kernel 2.6.30 or newer.
 
  Our /etc/fstab entry for the ext4 file system didn't specify any access timestamp update options, so Linux made the sensible choice and used relatime.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Timestamps Are Important
 
@@ -259,24 +259,17 @@ cat /proc/mounts | grep "sda"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-advanced-3d-shaping-crafting-perfect-mc-circles-and-spheres/"><u>[New] Advanced 3D Shaping Crafting Perfect MC Circles & Spheres</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/he-benefits-of-tubebuddy-manage-your-youtube-channel-more-easily/"><u>[New] The Benefits of TubeBuddy | Manage Your YouTube Channel More Easily</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-5-online-titler-pros-unveiled/"><u>[New] Top 5 Online Titler Pros Unveiled</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-understanding-the-foundation-of-motion-visualization/"><u>[New] Understanding the Foundation of Motion Visualization</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-advanced-functionalities-of-zoom-on-windows-10/"><u>[Updated] Unlocking Advanced Functionalities of Zoom on Windows 10</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-easy-recording-techniques-for-live-gameplay/"><u>2024 Approved Easy Recording Techniques for Live Gameplay</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exclusive-score-big-on-prime-day-with-the-hp-victus-15-at-just-530-from-best-buy-game-on/"><u>Exclusive: Score Big on Prime Day With The HP Victus 15 at Just $530 From Best Buy - Game On!</u></a></li>
-<li><a href="https://discover-community.techidaily.com/fixing-the-0x45d-error-in-windows-7-a-comprehensive-guide/"><u>Fixing the 0X45D Error in Windows 7 - A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-resolve-iphone-out-of-characters-problem-a-detailed-guide/"><u>How to Resolve 'iPhone Out of Characters' Problem: A Detailed Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-honor-play-7t-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Honor Play 7T</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-script-conversion-from-text-formats-to-engaging-srt/"><u>In 2024, Streamlining Script Conversion From Text Formats to Engaging SRT</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-iphone-12-pro-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From iPhone 12 Pro Making It Possible</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-iphones-customization-altering-ringtone-sounds/"><u>In 2024, Unleashing iPhone's Customization Altering Ringtone Sounds</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-full-potential-of-zoom-on-your-google-meet-calls/"><u>In 2024, Unlocking the Full Potential of Zoom on Your Google Meet Calls</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-smooth-gameplay-tips-to-fix-lag-problems-in-avatar-frontiers-of-pandora/"><u>Mastering Smooth Gameplay: Tips to Fix Lag Problems in Avatar: Frontiers of Pandora</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-itel-s23plus-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Itel S23+? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tune-up-clips-import-audio-into-inshot-easily-for-2024/"><u>Tune Up Clips Import Audio Into InShot Easily for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-the-secrets-pro-level-iphone-landscape-tips-for-2024/"><u>Unlocking the Secrets Pro-Level iPhone Landscape Tips for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-magic-behind-shooting-images-with-iphones-hdr-for-2024/"><u>Unveiling the Magic Behind Shooting Images with iPhone’s HDR for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unmask-subject-with-backdrop-blanket-removal/"><u>[New] Unmask Subject with Backdrop Blanket Removal</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-path-of-peacefulness-how-to-gently-dim-music-tracks/"><u>[Updated] The Path of Peacefulness How To Gently Dim Music Tracks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-podcast-outros-and-examples/"><u>[Updated] The Ultimate Guide to Podcast Outros & Examples</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tips-for-adding-youtube-music-to-video/"><u>2024 Approved Tips For Adding YouTube Music To Video</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-instructions-to-launch-chatgpt-on-windows-systems/"><u>Easy Instructions to Launch ChatGPT on Windows Systems</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-nokia-g22-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Honor Play 40C? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/infusing-vitality-into-text-an-animated-adventure-for-2024/"><u>Infusing Vitality Into Text An Animated Adventure for 2024</u></a></li>
+<li><a href="https://win-bits.techidaily.com/los-mas-efectivos-programas-de-respaldo-y-restauracion-wd-gratis-para-su-pc/"><u>Los Más Efectivos Programas De Respaldo Y Restauración WD Gratis Para Su PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/rapid-deployment-steps-for-the-newest-wacom-intuos-graphic-tool-driver/"><u>Rapid Deployment Steps for the Newest Wacom Intuos Graphic Tool Driver</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-cyber-kidnapping-save-your-device-at-50-chatgpt-joins-forces-with-us-on-the-airwaves/"><u>Unraveling Cyber Kidnapping: Save Your Device at $50 - ChatGPT Joins Forces with Us on the Airwaves</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Disabling Microsoft Defender Antivirus in Windows 11: A Step-by-Step Guide"
-date: 2025-02-11T19:35:00.313Z
-updated: 2025-02-17T06:05:26.918Z
+date: 2025-02-15T19:07:55.524Z
+updated: 2025-02-16T21:45:06.400Z
 tags:
   - desktop
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
 
 ## Disabling Microsoft Defender Antivirus in Windows 11: A Step-by-Step Guide
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [When Should You Permanently Disable Microsoft Defender Antivirus](https://article-knowledge.techidaily.com/2024-approved-ultimate-guide-newest-lg-bp550-specs/)
@@ -22,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
 * [Disable Microsoft Defender Using the Registry Editor](https://screen-sharing-recording.techidaily.com/new-remote-recording-mastery-a-comprehensive-approach/)
 * [Disable Microsoft Defender Using the Local Group Policy Editor](https://fox-access.techidaily.com/a-compreenas-guide-to-producing-slow-motion-content-with-photos-and-internet-for-2024/)
 * [How to Check the State of Microsoft Defender on Windows 11](https://screen-mirroring-recording.techidaily.com/new-broadcast-software-beyond-standard-obs/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -59,16 +51,12 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
 
 ![Typing Windows Security in the Start Menu search bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/typing-windows-defender-in-the-start-menu-search-bar.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Choose "Virus & Threat Protection" from the left sidebar, then click "Manage Settings" on the right.
 
 ![Virus & Threat Protection option in the Windows Security App.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/virus-threat-protection-option-in-the-windows-security-app.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Turn off the “Real-Time Protection” toggle. If UAC pops up, click “Yes” to confirm your decision.
@@ -82,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
  Once you’ve adjusted these settings in the Windows Security app, you’re all set to disable Microsoft Defender Antivirus on Windows 11 permanently.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Disable Microsoft Defender Using the Registry Editor
@@ -107,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
 
 ![Value Data field in the Registry Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/value-data-field-in-the-registry-editor.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After that, [restart your computer](https://instagram-clips.techidaily.com/2024-approved-15-must-use-hashtags-for-popularity-on-instagram-feed/) for the changes to take effect. Upon restart, you’ll see that Microsoft Defender has been permanently disabled on your computer.
 
  To reenable Microsoft Defender Antivirus, type **0** in the “Value Data” field of the “DisableAntiSpyware” value and click “OK.” Afterward, you’ll need to enable “Real-time Protection” and “Tamper Protection” in the Windows Security app, too. 
@@ -114,7 +106,7 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
 ![Enabling Windows Defender through Registry Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/enabling-windows-defender-through-registry-editor.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Disable Microsoft Defender Using the Local Group Policy Editor
@@ -143,6 +135,10 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
 
 ![Disabled option in the Local Group Policy Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/disabled-option-in-the-local-group-policy-editor.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Check the State of Microsoft Defender on Windows 11
 
  Once you’ve disabled Microsoft Defender using the above method, you must check its state to confirm if it has actually been disabled. To do this, open the Start menu, type **PowerShell** in the search bar, and press Enter. Then, in the PowerShell window, type the following command and hit Enter:
@@ -152,6 +148,10 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
  If you get “Not Running” as the result, then it confirms that you have disabled Microsoft Defender.
 
 ![PowerShell window showing Not Running in result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/powershell-window-showing-not-running-in-result.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  However, if you get “Normal” as the result, it means Microsoft Defender is still running on your computer. In this case, double-check that you followed the steps correctly.
 
@@ -176,19 +176,21 @@ thumbnail: https://thmb.techidaily.com/7d0feaf90637aa15b789896b9b4144f8ee9d0a151
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-ultimate-list-of-win-11-hd-webcam-recording-kits/"><u>[New] Ultimate List of Win 11 HD Webcam Recording Kits</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-innovative-techniques-for-capturing-every-play-of-your-ps3-games/"><u>[Updated] 2024 Approved Innovative Techniques for Capturing Every Play of Your PS3 Games</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-converting-zip-to-subrip-srt-format-a-step-by-step-guide/"><u>[Updated] Converting ZIP to SubRip (SRT) Format A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-trailblazers-top-intro-list-for-zooids/"><u>[Updated] Trailblazers Top Intro List for Zooids</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-8-srt-translators-the-ultimate-budget-friendly-guide/"><u>2024 Approved Top 8 SRT Translators – The Ultimate Budget-Friendly Guide</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/capturing-playthroughs-on-windows-10-easy-way/"><u>Capturing Playthroughs on Windows 10 Easy Way</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-android-and-ios-wedding-timer-apps-top-10-selection-revealed/"><u>In 2024, Android & iOS Wedding Timer Apps Top 10 Selection Revealed</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-in-the-rings-rhythm-a-clash-with-streamers/"><u>In 2024, In the Ring's Rhythm A Clash with Streamers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-future-of-quick-text-conversion-from-srt/"><u>In 2024, The Future of Quick Text Conversion From SRT</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleash-your-vision-the-best-tiktok-editing-guide/"><u>In 2024, Unleash Your Vision The Best TikTok Editing Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/innovative-tech-insights-discovering-toms-computer-hardware-excellence/"><u>Innovative Tech Insights: Discovering Tom's Computer Hardware Excellence</u></a></li>
-<li><a href="https://some-skills.techidaily.com/totv-multimedia-player-wmp-alternative-for-2024/"><u>TOTV Multimedia Player WMP Alternative for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-the-secrets-of-successful-setup-fixing-discord-install-issues-in-win-1011/"><u>Unlocking the Secrets of Successful Setup: Fixing Discord Install Issues in Win 10/11</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-androids-role-in-virtual-reality-content-consumption/"><u>[New] Android's Role in Virtual Reality Content Consumption</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-titles-essential-hd-video-playback-tools-freepaid/"><u>[New] Top Titles Essential HD Video Playback Tools (Free/Paid)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-photographers-weigh-in-the-aurora-verdict/"><u>[Updated] Photographers Weigh In The Aurora Verdict</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-tiletime-effortless-video-mosaics-on-both-oses/"><u>[Updated] TileTime Effortless Video Mosaics on Both OSes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-launching-hit-online-streams/"><u>2024 Approved The Ultimate Guide to Launching Hit Online Streams</u></a></li>
+<li><a href="https://windows11.techidaily.com/eradicating-microsoft-edge-on-win11/"><u>Eradicating Microsoft Edge on Win11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-realme-gt-neo-5-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Realme GT Neo 5 Face Lock?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-for-tackling-windows-11s-0x800713f-mail-fault/"><u>Guidelines for Tackling Windows 11'S 0X800713F Mail Fault</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/harness-the-power-of-combining-zoom-with-facebook-live-features-for-2024/"><u>Harness the Power of Combining Zoom with Facebook Live Features for 2024</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/hyper-v-erklart-eine-lernreise-ins-herz-von-windows-virtualisierung/"><u>Hyper-V Erklärt - Eine Lernreise Ins Herz Von Windows Virtualisierung</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-crafting-superior-srt-documents/"><u>In 2024, The Art of Crafting Superior SRT Documents</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-guide-to-video-editing-in-windows-8-movie-maker/"><u>In 2024, The Complete Guide to Video Editing in Windows 8 Movie Maker</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-easy-way-to-snap-spectacular-slow-mo-on-android/"><u>In 2024, The Easy Way to Snap Spectacular Slow Mo on Android</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-power-of-creativity-magix-video-pro-x-demystified/"><u>In 2024, The Power of Creativity Magix Video Pro X Demystified</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-free-mkv-editor-top-10-programs-to-split-and-trim-videos-for-2024/"><u>New Free MKV Editor Top 10 Programs to Split and Trim Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-vr-showdown-scoring-the-best-oculus-models-for-2024/"><u>Ultimate VR Showdown Scoring the Best Oculus Models for 2024</u></a></li>
 </ul></div>
 

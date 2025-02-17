@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Boosting Graphics Performance with Hardware-Accelerated GPU Scheduling in Windows"
-date: 2025-02-15T22:01:45.732Z
-updated: 2025-02-16T23:58:08.321Z
+date: 2025-02-15T22:09:30.368Z
+updated: 2025-02-16T23:16:03.572Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/c055207526e0593f6267057e6bfa17ba8927fb82b
 ## Step-by-Step Tutorial: Boosting Graphics Performance with Hardware-Accelerated GPU Scheduling in Windows
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/c055207526e0593f6267057e6bfa17ba8927fb82b
 * [Turn On Hardware-Accelerated GPU Scheduling in Windows 10](https://extra-resources.techidaily.com/in-2024-5-leading-edge-4k-tvs-for-gamers/)
 * [Enable Hardware-Accelerated GPU Scheduling in Windows 11](https://hardware-help.techidaily.com/download-insignia-ns-pcy5bma2-print-driver-software-compatible-with-windows-11107/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Hardware-Accelerated Scheduling reduces the load on your CPU and can improve your PC's performance.
@@ -35,15 +31,15 @@ thumbnail: https://thmb.techidaily.com/c055207526e0593f6267057e6bfa17ba8927fb82b
 
  Windows 10 and Windows 11 come with an advanced setting, called Hardware-Accelerated GPU Scheduling, which can [boost gaming](https://tiktok-videos.techidaily.com/unleash-potential-in-tiktok-videos-free-editors-for-mac/) and video performance using your PC's GPU. We'll show you how to enable the feature and thereby potentially get a performance increase.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  What Is Hardware-Accelerated GPU Scheduling?
 
  Usually, your computer's processor offloads some visual and graphics-intensive data to the [GPU to render](https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-oppo-reno-8t-phones-by-drfone-android/) so that games, multimedia, and other apps run smoothly. The [CPU](https://facebook-clips.techidaily.com/echoes-of-now-strategies-for-downloading-current-events/) gathers the frame data, assigns commands, and prioritizes them one by one so that the GPU can render the frame.
 
  With the Hardware-Accelerated GPU Scheduling feature, the GPU's scheduling processor and memory ([VRAM](https://extra-support.techidaily.com/new-premium-selection-of-apple-and-android-camera-slow-motion-apps/)) take over the same work and runs it in batches to render the frames. This allows your GPU to reduce the load on your CPU and improve latency, potentially making your PC run better.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Should You Enable Hardware-Accelerated GPU Scheduling?
 
@@ -63,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/c055207526e0593f6267057e6bfa17ba8927fb82b
 
  There are two ways to enable Hardware-Accelerated GPU Scheduling on Windows 10: use the Settings app or the Registry Editor. Both accomplish the same thing, though the Settings app is much easier. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Using Settings
 
  Start by [launching the Settings app](https://facebook-video-footage.techidaily.com/updated-2024-approved-5-easy-ways-to-multiply-your-youtube-follower-base/) on your PC. You can do this by pressing Windows+i.
@@ -74,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/c055207526e0593f6267057e6bfa17ba8927fb82b
  In Settings, select "System."
 
 ![Open the Settings app, then click "Settings."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-system.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the sidebar on the left, click "Display."
 
@@ -83,17 +79,21 @@ thumbnail: https://thmb.techidaily.com/c055207526e0593f6267057e6bfa17ba8927fb82b
 
 ![Click "Graphics Settings" under the "Display" section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-graphics-settings.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the following screen, toggle on the "Hardware-Accelerated GPU Scheduling" option.
 
 ![Click the toggle to enable GPU scheduling.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-click-toggle.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To disable the feature in the future, simply toggle off the "Hardware-Accelerated GPU Scheduling" option again.
 
  Close the Settings app and [reboot your PC](https://article-posts.techidaily.com/comparing-the-creme-de-la-creme-gopro-hero5-black-to-hero4-silver-for-2024/) to bring your changes into effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Using the Registry Editor
 
@@ -111,10 +111,6 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers
 
 ![Select the "HwSchMode" key.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-hw-sched-regeidt.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On the entry edit box, select the "Value Data" field and enter **`2`**. In the "Base" section, choose "Hexadecimal." Then, select "OK."
 
 ![Enter "2" into the Value Data field, then click "OK."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-change-value-to-2.png) 
@@ -122,6 +118,10 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers
  In the future, to disable the feature, enter `1` in the "Value Data" field, choose "Hexadecimal," and select "OK."
 
  Close Registry Editor, restart your PC, and you have Hardware-Accelerated GPU Scheduling enabled on your computer. Enjoy!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Enable Hardware-Accelerated GPU Scheduling in Windows 11
 
@@ -133,13 +133,13 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers
 
 ![Select 'Graphics' under Related Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-12.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Choose "Change Default Graphics Settings."
 
 ![Select' Change Default Graphics Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-10.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then, toggle on the switch under "Hardware-Accelerated GPU Scheduling" and select "Yes" from the User Access Control prompt that shows up.
 
@@ -168,24 +168,17 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-understanding-asmrs-potential-benefits-for-you/"><u>[New] Understanding ASMR's Potential Benefits for You</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-exploring-the-distinctions-of-srgb-and-rgb-for-2024/"><u>[Updated] Exploring the Distinctions of Srgb and Rgb for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-fb-cover-videos-demystified-what-everyone-should-know/"><u>[Updated] In 2024, FB Cover Videos Demystified What Everyone Should Know</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-screensizesync-adjusting-images-for-max-impact-in-instagram-for-2024/"><u>[Updated] ScreenSizeSync Adjusting Images for Max Impact in Instagram for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-creating-flawless-passport-photos-for-free/"><u>[Updated] The Ultimate Guide to Creating Flawless Passport Photos for Free</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-funimate-guidebook/"><u>2024 Approved The Essential Funimate Guidebook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-checklist-for-fpv-drone-propeller-selection/"><u>2024 Approved The Ultimate Checklist for FPV Drone Propeller Selection</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-from-iphone-14-plusipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock from iPhone 14 Plus/iPad/iPod</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-artistry-the-top-new-additions-to-paint-suite/"><u>Crafting Artistry: The Top New Additions to Paint Suite</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exceptional-performance-meets-style-in-our-favorite-marathon-battery-13-laptop-zdnets-comprehensive-evaluation/"><u>Exceptional Performance Meets Style in Our Favorite Marathon-Battery 13 Laptop - ZDNET's Comprehensive Evaluation</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-hands-free-navigation-manual/"><u>In 2024, The Complete Hands-Free Navigation Manual</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-conversion-roadmap-turning-sdr-into-hdr-cinema/"><u>In 2024, Ultimate Conversion Roadmap Turning SDR Into HDR Cinema</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-the-art-of-vlookup-techniques-for-searching-across-multiple-data-entries/"><u>Mastering the Art of VLOOKUP: Techniques for Searching Across Multiple Data Entries</u></a></li>
-<li><a href="https://some-skills.techidaily.com/merging-yt-chorus-with-visual-storytelling-for-2024/"><u>Merging YT Chorus with Visual Storytelling for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210329498-9781736712337-reflections-on-doing-your-great-work-in-any-occupation/"><u>Reflections on Doing Your Great Work in Any Occupation | Free Book</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-complete-guide-to-digital-artistry-with-polarr-photo-tools-for-2024/"><u>The Complete Guide to Digital Artistry with Polarr Photo Tools for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-formula-for-booming-subscriber-counts-in-youtubers-world-for-2024/"><u>The Formula for Booming Subscriber Counts in Youtubers' World for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/echanics-behind-youtube-income-for-2024/"><u>The Mechanics Behind YouTube Income for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-acclaimed-websites-for-google-pixel-tonal-sounds/"><u>[New] Acclaimed Websites for Google Pixel Tonal Sounds</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-skullduggery-scribblers-den/"><u>[New] Skullduggery Scribbler's Den</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleash-your-videos-potential-thriving-in-youtube-rankings/"><u>[New] Unleash Your Video's Potential Thriving in YouTube Rankings</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-how-to-preserve-and-access-your-favorite-discord-livestreams-easily/"><u>[Updated] 2024 Approved How to Preserve and Access Your Favorite Discord Livestreams Easily</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-sculpting-unique-fb-ad-visuals/"><u>[Updated] Sculpting Unique FB Ad Visuals</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-fast-forwarding-safely-expedite-your-spotify-experience/"><u>[Updated] The Art of Fast-Forwarding Safely Expedite Your Spotify Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-tale-of-htc-vive-and-total-immersion/"><u>[Updated] The Ultimate Tale of HTC Vive and Total Immersion</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-enrolling-in-the-apple-podcast-network/"><u>2024 Approved Enrolling in the Apple Podcast Network</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tips-for-embedding-music-in-social-media-videos/"><u>2024 Approved Tips for Embedding Music in Social Media Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-spectacquad-p2715q-a-deep-dive-into-4k-screen-technology-for-2024/"><u>The Spectacquad P2715Q A Deep Dive Into 4K Screen Technology for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-notch-hardware-at-toms-reviews/"><u>Unveiling Top-Notch Hardware at Tom's Reviews</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/voice-history-holder-iphone-2024-innovation/"><u>Voice History Holder - iPhone 2024 Innovation</u></a></li>
 </ul></div>
 

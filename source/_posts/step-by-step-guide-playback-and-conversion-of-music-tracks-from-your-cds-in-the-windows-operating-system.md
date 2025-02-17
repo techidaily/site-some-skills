@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Playback and Conversion of Music Tracks From Your CDs in the Windows Operating System"
-date: 2025-02-11T06:00:00.534Z
-updated: 2025-02-16T17:11:12.876Z
+date: 2025-02-16T05:02:14.070Z
+updated: 2025-02-17T03:48:37.064Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/50f9025d1cd24e51aee5d683c09c648b774d15c54
 ---
 
 ## Step-by-Step Guide: Playback and Conversion of Music Tracks From Your CDs in the Windows Operating System
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -30,19 +34,11 @@ thumbnail: https://thmb.techidaily.com/50f9025d1cd24e51aee5d683c09c648b774d15c54
 
  Got a Mac? Check out [our guide for ripping an audio CD on Mac](https://eaxpv-info.techidaily.com/updated-in-2024-free-webinar-creation-and-management-on-youtube/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You Need a Disc Drive
 
  You need a disc drive connected to your PC to read and rip CDs, so if you don't already have one, you'll need to get that first. The [ASUS ZenDrive Silver](https://www.amazon.com/ASUS-ZenDrive-External-Compatible-BackItUp/dp/B076CY7PW5?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003523&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhow-to-rip-an-audio-cd-on-windows%2F&asc%5Fcampaign=Evergreen) is a basic option with support for reading and writing CDs and DVDs. It should come with a USB Type-C cable in the box, but if not, you might need a [USB Type-A-to-C adapter](https://www.amazon.com/Amazon-Basics-Converter-High-Speed-Certified/dp/B01GGKYXVE?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003523&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhow-to-rip-an-audio-cd-on-windows%2F&asc%5Fcampaign=Evergreen) or [USB hub](https://extra-approaches.techidaily.com/2024-approved-joint-venture-campaigns-for-brands-on-video-platforms/) to connect it to laptops without a Type-A port.
 
 ![ASUS external disc drive with the tray open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/51y-aw6sijl-_ac_sl1000_.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #####  ASUS ZenDrive Silver
 
@@ -53,6 +49,10 @@ The ASUS ZenDrive Silver is a basic and affordable external optical drive, with 
  If you have a desktop PC with an empty drive bay, an internal drive like the [LG WH16NS40](https://www.amazon.com/LG-Super-Internal-Blu-ray-Rewriter/dp/B00E7B08MS?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003523&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhow-to-rip-an-audio-cd-on-windows%2F&asc%5Fcampaign=Evergreen) is also an option. However, an external drive doesn't require opening up your PC, and can be easily shared across different computers.
 
  The disc drive can be useful for more than just ripping CDs, too. You can play DVDs and some Blu-ray movies with applications like [VLC Media Player](https://www.videolan.org/vlc/), or read data discs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Rip a CD With Media Player
 
@@ -70,22 +70,22 @@ The ASUS ZenDrive Silver is a basic and affordable external optical drive, with 
 
 ![Media Player screenshot showing settings for audio format and bitrate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/clipboard-jun-7-2024-at-4-17-pm.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The settings panel gives you options for changing the music format and bitrate. Most people should stick to the default AAC format and 256 kbps bitrate, but the other options can be helpful in specific use cases. For example, if you plan to copy music to a music player or other device that only supports MP3 files, you might want to import music in that format instead of AAC to avoid converting it again later. A lossless format like FLAC or ALAC would give you the highest quality possible, but the difference isn't all that noticeable with typical speakers or headphones.
 
  When you're ready, click the "Rip CD" button to start copying the audio to your PC. You'll see progress indicators on each track until the rip is complete.
 
 ![Screenshot of Rip CD button in Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/untitled.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can access the your newly-ripped music from the Music tab in the Media Player app. It's easier to find if you switch to the Albums tab and sort by Date added.
 
 ![Screenshot of Music page in Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/clipboard-jun-7-2024-at-4-38-pm.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Ripped audio doesn't include album art or other metadata, but you can fix that with a few clicks. Open the album you just ripped, click the "Edit info" button, then click "Update album info online."
@@ -97,10 +97,6 @@ The ASUS ZenDrive Silver is a basic and affordable external optical drive, with 
 ![Music Player asking user to check if metadata is correct.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/clipboard-jun-7-2024-at-4-44-pm.png) 
 
  Media Player can't always find album artwork automatically, but you can use a website like [Music Hoarders Covers](https://covers.musichoarders.xyz/) to find the right image, and then import that into Media Player. After you find the image, just click the "Edit info" button on the album again, then click the pencil button to select the right file.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Rip a CD on Older Windows PCs
 
@@ -123,22 +119,26 @@ wmplayer
 ![Rip CD button in Windows Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/rip.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After the rip is complete, your music will be accessible from the "Music" tab in the left sidebar.
 
 ![Screenshot of Music tab in Windows Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/music.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Ripped audio doesn't include album art or other metadata, but you can fix that with a few clicks. Right-click the album you just ripped, then select "Find album info."
 
 ![Find album info menu in Windows Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/music-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Windows Media Player will check for metadata online, and if it finds more data, it will ask you for confirmation before writing changes to the files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Backing up Your Music
 
@@ -169,24 +169,22 @@ shell:My Music
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-fine-tuning-your-videos-shape-with-aspect-ratio/"><u>[New] 2024 Approved Fine-Tuning Your Video's Shape with Aspect Ratio</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-learn-ipads-screen-sharing-basics/"><u>[New] 2024 Approved Learn iPad's Screen Sharing Basics</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-stability-secrets-for-dynamic-photo-shoots/"><u>[New] 2024 Approved Stability Secrets for Dynamic Photo Shoots</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-unveiling-advanced-features-of-vlc-for-mac-users/"><u>[New] In 2024, Unveiling Advanced Features of VLC for Mac Users</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-12-innovative-techniques-for-livestreaming-classes-without-spending-for-2024/"><u>[Updated] 12 Innovative Techniques for Livestreaming Classes Without Spending for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleash-your-vision-the-best-360-livestimation-devices/"><u>[Updated] Unleash Your Vision The Best 360° Livestimation Devices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-syncopated-screecher-symphony/"><u>2024 Approved Syncopated Screecher Symphony</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-quick-and-the-funny-with-kinemaster-memes/"><u>2024 Approved The Quick and the Funny with KineMaster Memes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-ios-cropping-enhancing-your-images/"><u>2024 Approved The Ultimate Guide to iOS Cropping Enhancing Your Images</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-live-streaming-selection-guide/"><u>2024 Approved Ultimate Live Streaming Selection Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tap-into-the-funny-kapwing-for-meme-makers/"><u>In 2024, Tap Into the Funny Kapwing for Meme Makers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-most-affordable-gaming-tunes-top-10-lists/"><u>In 2024, The Most Affordable Gaming Tunes Top 10 Lists</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-uncover-the-leading-free-online-subtitle-makers-srt/"><u>In 2024, Uncover the Leading Free Online Subtitle Makers (Srt)</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-the-most-recent-version-of-magiccard-rio-professional-driver-software-on-your-windows-pc/"><u>Install the Most Recent Version of Magiccard Rio Professional Driver Software on Your Windows PC</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210971286-9781088258675-isabel-de-aragon/"><u>Isabel de Aragón | Free Book</u></a></li>
-<li><a href="https://discover-help.techidaily.com/praktische-tipps-fur-das-umgehen-von-sicherheitsmassnahmen-bei-disney-dvds-und-extrahieren-der-dvd-seiten/"><u>Praktische Tipps Für Das Umgehen Von Sicherheitsmaßnahmen Bei Disney-DVDs Und Extrahieren Der DVD-Seiten</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-persistent-delay-on-windows-10-keyboards/"><u>Resolved: Fixing Persistent Delay on Windows 10 Keyboards</u></a></li>
-<li><a href="https://fox-within.techidaily.com/resolving-visibility-issues-how-to-make-your-external-hdd-appear-on-windows-file-explorer-expert-tips-from-yl-computing/"><u>Resolving Visibility Issues: How to Make Your External HDD Appear on Windows File Explorer - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-the-power-of-a-new-identity-step-by-step-guide-to-alter-your-game-characters-voice-for-free-for-2024/"><u>Unlock the Power of a New Identity Step-by-Step Guide to Alter Your Game Character's Voice for FREE for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-accelerating-windows-document-analysis/"><u>[New] Accelerating Windows Document Analysis</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-revolutionizing-video-recording-insights-on-camstudios-latest-release/"><u>[New] In 2024, Revolutionizing Video Recording - Insights on CamStudio's Latest Release</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-scaling-movies-on-a-mac-for-impeccable-instagram-shares/"><u>[New] Scaling Movies on a Mac for Impeccable Instagram Shares</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-collection-8-amazing-3d-websites-with-gold/"><u>[New] The Ultimate Collection 8 Amazing 3D Websites with Gold</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-offline-transcription-programs-for-speech/"><u>[New] Top Offline Transcription Programs for Speech</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-five-best-racing-games-on-the-market-today/"><u>[Updated] The Five Best Racing Games on the Market Today</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-8-speed-upters-accelerate-your-android-media/"><u>[Updated] Top 8 Speed Upters - Accelerate Your Android Media</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleashing-creativity-in-hd-windows-powered-visionary-editing-and-viewing/"><u>[Updated] Unleashing Creativity in HD Windows-Powered Visionary Editing & Viewing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cartooncast-comprehensive-24-guidebook-for-2024/"><u>CartoonCast Comprehensive '24 Guidebook for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatxt-powered-content-development-techniques/"><u>ChaTxt-Powered Content Development Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-engaging-dialogues-for-your-vlog-showcase/"><u>Crafting Engaging Dialogues for Your Vlog Showcase</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deciding-the-winner-an-in-depth-comparison-of-huggingchat-and-chatgpt-capabilities/"><u>Deciding the Winner: An In-Depth Comparison of HuggingChat and ChatGPT Capabilities</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-use-periscope-the-complete-guide/"><u>How to Use Periscope The Complete Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-future-adopting-macos-11-big-sur-for-growth/"><u>In 2024, Unveiling The Future Adopting macOS 11 Big Sur for Growth</u></a></li>
+<li><a href="https://some-skills.techidaily.com/sync-music-and-visuals-the-art-of-canva-editing-for-2024/"><u>Sync Music & Visuals The Art of Canva Editing for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essential-checklist-for-creating-stellar-titles-for-2024/"><u>The Essential Checklist for Creating Stellar Titles for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-flashy-game-collection-quick-and-lightweight-for-2024/"><u>Ultimate Flashy Game Collection - Quick and Lightweight for 2024</u></a></li>
 </ul></div>
 

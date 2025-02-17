@@ -1,7 +1,7 @@
 ---
 title: Top 8 Solutions for When Your Laptop Won't Charge Despite Being Connected
-date: 2025-02-09T21:20:30.775Z
-updated: 2025-02-17T02:34:29.441Z
+date: 2025-02-13T07:54:49.830Z
+updated: 2025-02-16T22:01:16.067Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Top 8 Solutions for When Your Laptop Won't Charge Despite Being Connected
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -25,6 +21,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Download Any Available BIOS Update](https://games-able.techidaily.com/virtual-victory-joystick-vs-console-command/)
 * [Reinstall the Battery Drivers](https://twitter-videos.techidaily.com/in-2024-guide-downloading-twitters-videos-on-android-devices/)
 * [Test for a Defective Battery](https://facebook-video-content.techidaily.com/new-fb-profile-picture-dimensions/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -40,25 +40,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![A laptop adapter with a loose connection.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/laptop-adapter.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Aman Kumar / How-To Geek
 
  If you find that the power cord is loosely connected to the adapter brick, apply gentle pressure to firmly insert it into the adapter. Alternatively, you can unplug the power cord completely and then plug it back in again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  2\. Connect the Laptop Adapter to a Different Socket
 
 ![Multiple power adaptors and cables plugged into a power strip](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/52731312553_e2b752b4ab_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jason Fitzpatrick / How-To Geek
 
  Your laptop may not charge if the socket in which the adapter plug is currently connected is not functioning. To verify this, insert the adapter plug into a different socket and check if your laptop starts charging. If it does, this confirms that the original socket or its corresponding switch is not working. You can contact an electrician, in this case, to have this socket repaired.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Use the Original Charger
 
@@ -74,6 +74,10 @@ Jason Fitzpatrick / How-To Geek
 
 ![Charging port on a laptop with visible dust surrounding it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/charging-port.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Aman Kumar / How-To Geek
 
  You can use a toothpick to clean the grime. However, be very gentle while cleaning, as the charging ports are very sensitive, and you might damage them if you try to remove the grime too harshly. You can also use canned air if necessary.
@@ -82,13 +86,13 @@ Aman Kumar / How-To Geek
 
 ![The charging pin on a laptop adapter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/charging-pin.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Aman Kumar / How-To Geek
 
  If the charging pin is broken, you can easily cut the pin and connect a new one. However, if you don't feel confident in cutting and changing the pin yourself, you should contact an expert to do it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  5\. Allow Your Laptop to Cool Down
 
@@ -97,10 +101,6 @@ Aman Kumar / How-To Geek
  As it turns out, lithium-ion or lithium-polymer batteries can start to degrade if you try to charge them at high temperatures. Additionally, charging a laptop when it's overheated can increase the risk of [battery explosions](https://fox-cloud.techidaily.com/masterful-8-tools-for-flawless-sub-and-srt-conversion/). To prevent these scenarios, manufacturers design laptops to automatically stop charging when the device overheats.
 
  In this situation, there's not much you can do. Simply shut down your laptop and allow it to cool down. Once you feel the temperature has decreased, reconnect the charger, and your laptop should start charging again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  6\. Download Any Available BIOS Update
 
@@ -116,10 +116,6 @@ Aman Kumar / How-To Geek
 
 ![Batteries node in the Device Manager app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/batteries-node.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Right-click on the "Microsoft AC Adapter" driver and select the "Uninstall device" option. Similarly, uninstall the "Microsoft ACPI-Compliant Control Method Battery" driver.
 
 ![The Uninstall Device option in Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/uninstall-device.jpg) 
@@ -127,6 +123,10 @@ Aman Kumar / How-To Geek
  Once the drivers have been uninstalled, [restart your computer](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/). Upon restart, Windows will automatically reinstall both battery drivers. However, if it fails to reinstall them for any reason, press Windows+i to open the "Settings" app, click on "Windows Update," and then select "Check for Updates." Windows will now install the missing driver, which in this case is the battery driver, on your computer.
 
 ![The Windows update menu in the Settings app with an arrow pointing to the Check for Updates button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/check-for-updates.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After reinstalling the driver, reconnect the charger and check if your laptop starts charging.
 
@@ -169,18 +169,24 @@ Aman Kumar / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-how-to-archive-video-discussions-with-ease-and-security/"><u>[New] 2024 Approved How to Archive Video Discussions with Ease & Security</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-key-elements-of-attractive-fb-video-commercials/"><u>[New] In 2024, Key Elements of Attractive FB Video Commercials</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unique-gifting-made-simple-discover-top-10-custom-box-sellers/"><u>[New] Unique Gifting Made Simple Discover Top 10 Custom Box Sellers</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-effective-strategies-for-removing-youtube-media-from-computers/"><u>[Updated] 2024 Approved Effective Strategies for Removing YouTube Media From Computers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-eraser-guru-expert-tips-for-psx-users/"><u>2024 Approved The Eraser Guru Expert Tips for PSX Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-art-of-converting-still-images-into-engaging-videos-with-pixiz/"><u>2024 Approved Unveiling the Art of Converting Still Images Into Engaging Videos with Pixiz</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-shockingly-fast-crafting-a-google-image-collaboration/"><u>In 2024, Shockingly Fast Crafting a Google Image Collaboration</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-streamline-screen-recording-for-gaming-joy/"><u>In 2024, Streamline Screen Recording for Gaming Joy</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-tools-for-timely-subtitle-conversion-win-and-mac-edition-best-8-srtr-creators-from-sub/"><u>In 2024, Top Tools for Timely Subtitle Conversion - Win & Mac Edition Best 8 SRTR Creators From SUB</u></a></li>
-<li><a href="https://some-skills.techidaily.com/launch-your-content-with-free-intros-for-2024/"><u>Launch Your Content with Free Intros for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-cura-solving-the-6-most-recurring-issues-quickly-and-easily/"><u>Mastering Cura: Solving the 6 Most Recurring Issues Quickly & Easily</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Honor Magic 5 | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/revealing-veiled-youtube-reviewers-opinions-for-2024/"><u>Revealing Veiled YouTube Reviewers' Opinions for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-choosing-frame-rate-wisely-is-30-or-60-fps-better/"><u>[New] 2024 Approved Choosing Frame Rate Wisely Is 30 or 60 FPS Better?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-perfect-pairing-finding-top-beats-for-unwrapping-videos-for-2024/"><u>[New] Perfect Pairing Finding Top Beats for Unwrapping Videos for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/kyrocketing-sales-how-ad-revenue-transforms-youtube-videos/"><u>[New] Skyrocketing Sales How Ad Revenue Transforms YouTube Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-the-power-of-filmora-for-effective-avi-to-gif-conversion/"><u>[New] Unlock the Power of Filmora for Effective AVI-to-GIF Conversion</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-ultimate-guide-to-converting-youtube-to-avi-videos/"><u>[Updated] In 2024, The Ultimate Guide to Converting YouTube to AVI Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-superior-pc-experience-innovation-at-your-fingertips/"><u>[Updated] Superior PC Experience Innovation at Your Fingertips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-pathway-to-high-quality-images-on-deal/"><u>[Updated] Unveiling the Pathway to High-Quality Images on Deal</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-crafting-a-compelling-movie-mini-epic/"><u>2024 Approved Crafting a Compelling Movie Mini-Epic</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-revolutionize-your-content-creation-the-mi-11s-screen-record-capabilities/"><u>2024 Approved Revolutionize Your Content Creation The Mi 11'S Screen Record Capabilities</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-subscriber-chatter-best-practices-for-comments/"><u>2024 Approved The Art of Subscriber Chatter Best Practices for Comments</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conversione-online-a-wma-da-file-ape-senza-costi-utilizzo-di-servizi-movavi-gratuiti/"><u>Conversione Online a WMA Da File APE Senza Costi: Utilizzo Di Servizi Movavi Gratuiti</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-stay-ahead-of-the-curve-with-iphone-and-androids-best-photo-sticker-apps/"><u>In 2024, Stay Ahead of the Curve with iPhone and Android's Best Photo Sticker Apps</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-oppo-find-x6-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Oppo Find X6 Phone Hassle-Free</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-engaging-sound-stories-podcast-scriptwriting-demystified/"><u>In 2024, Unlocking Engaging Sound Stories Podcast Scriptwriting Demystified</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-tecno-pova-6-pro-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Tecno Pova 6 Pro 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/speedy-journey-to-numeral-knowledge-in-japan/"><u>Speedy Journey to Numeral Knowledge in Japan</u></a></li>
+<li><a href="https://some-skills.techidaily.com/synchronized-intro-editing-across-all-your-devices-this-year-for-2024/"><u>Synchronized Intro Editing Across All Your Devices This Year for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-checklist-for-perfectly-crafted-podcast-titles-including-ideas-for-2024/"><u>The Ultimate Checklist for Perfectly Crafted Podcast Titles, Including Ideas for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-streaming-platforms-for-authors-for-2024/"><u>Ultimate Streaming Platforms for Authors for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Online Security: The Importance of Using Longer Passwords"
-date: 2025-02-15T20:59:40.888Z
-updated: 2025-02-16T16:20:38.967Z
+date: 2025-02-13T20:08:06.517Z
+updated: 2025-02-16T23:04:14.548Z
 tags:
   - web
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
 ## Enhancing Online Security: The Importance of Using Longer Passwords
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
  The short answer is password entropy. That term sounds way more complicated than it really is unless you’re familiar with cryptography, so let’s take a look at what password entropy is.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What's Password Entropy?
@@ -37,13 +37,13 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
 
 ![A phone receiving a 2FA code.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/shutterstock_2373964067.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [ronstik](https://www.shutterstock.com/g/ronstik "ronstik") / Shutterstock.com
 
  The best way to attack a password is through a [dictionary attack](https://extra-skills.techidaily.com/2024-approved-smartest-ways-to-track-wedding-dates-ios-and-android-style/), which is a program that will try to “guess” a password by going through common words and phrases. It’s almost literally throwing the book at your password, going through the entire dictionary and also common variations. Once the password is guessed, the attacker has access.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Brute Force and Randomness
 
@@ -52,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
  As dictionary attacks thrive on predictability (words that already exist), it stands to reason that the only good way to stymie them is to add randomness to passwords. Many people kind of know this, which is why they add a few symbols to their existing passwords to create things like “p@ssword” or “password123.”
 
  However, this doesn’t work as it’s not random. Attackers can easily account for a change like this, and it will take them maybe a nanosecond longer to gain access to an account. For something to be closer to truly random, you have to take humans out of the equation entirely and use a computer to create a random password. The [best password managers](https://facebook-video-content.techidaily.com/updated-how-to-create-facebook-video-ads-with-free-video-creation-kit-for-2024/), programs that create and store passwords for you, have this functionality built in.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How Entropy Affects Password Length
 
@@ -63,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2d
 * Use of numbers
 
  All of these are important, but length plays a special role, one we need some math to explain.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  How to Calculate Password Entropy
 
@@ -86,7 +86,7 @@ E = log2(RL)
  If we add the digits 0-9 we come to a range of 62, and then once we add the 33 symbol keys, our range is increased to 95\. Using just 8 characters, that gives us an entropy score of 52.56 bits, still well below the cutoff of 64 bits. The only other way to further increase your entropy is to make the password longer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Should Be Your Minimum Password Length?
@@ -110,17 +110,20 @@ E = log2(RL)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-evaluating-rapid-subscriptions-impact-on-video-engagement/"><u>[New] 2024 Approved Evaluating Rapid Subscription's Impact on Video Engagement</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-broadcasting-brevity-news-outro-tips-for-2024/"><u>[New] Broadcasting Brevity News Outro Tips for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/roducing-teaser-videos-with-a-twist/"><u>[New] Producing Teaser Videos with a Twist</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-blueprint-for-seamless-eco-screen-integration/"><u>2024 Approved The Ultimate Blueprint for Seamless Eco-Screen Integration</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-and-managing-facebooks-hidden-history/"><u>2024 Approved Understanding & Managing Facebook's Hidden History</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/how-to-preview-off-facebook-activities-and-should-i-leave-it-on-check-for-2024/"><u>How to Preview Off-Facebook Activities and Should I Leave It On? Check for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-non-functional-google-meet-mic-on-windows-11-and-10-systems/"><u>How to Resolve Non-Functional Google Meet Mic on Windows 11 and 10 Systems</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-6-premium-video-translation-tools/"><u>In 2024, Top 6 Premium Video Translation Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-the-secrets-of-finding-high-quality-instagram-tones-and-crafting-perfect-chimes/"><u>In 2024, Unlock the Secrets of Finding High-Quality Instagram Tones and Crafting Perfect Chimes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-2023s-enhanced-sony-s3700-overview/"><u>In 2024, Unveiling 2023'S Enhanced Sony S3700 Overview</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-x-chair-x4-executive-chair-is-it-a-top-pick-for-your-workspace/"><u>In-Depth Analysis of the X-Chair X4 Executive Chair: Is It a Top Pick for Your Workspace?</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-true-potential-fix-windows-screen-modes/"><u>Unlocking True Potential: Fix Windows Screen Modes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-a-comprehensive-guide-to-the-best-makeup-tutorials-on-youtube/"><u>[New] 2024 Approved A Comprehensive Guide to the Best Makeup Tutorials on YouTube</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-mobile-entertainment-made-easy-download-funimate-apk/"><u>[New] 2024 Approved Mobile Entertainment Made Easy Download Funimate APK</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlining-your-social-media-presence-with-zoom-and-fb-live/"><u>[New] Streamlining Your Social Media Presence with ZOOM & FB Live</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-7-comedy-youtube-video-ideas-that-funny-people-can-try/"><u>[Updated] 2024 Approved 7 Comedy YouTube Video Ideas That Funny People Can Try</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-experts-choice-7-premium-videos-on-mac/"><u>[Updated] Expert's Choice 7 Premium Videos on Mac</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-secrets-to-effortless-iphone-photo-sorting-and-synchronizing-with-icloud/"><u>[Updated] The Secrets to Effortless iPhone Photo Sorting & Synchronizing with iCloud</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-key-elements-for-effective-spotify-ad-execution/"><u>2024 Approved The Key Elements for Effective Spotify Ad Execution</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-secret-to-success-with-filmora-top-10-editing-traits/"><u>2024 Approved The Secret to Success with Filmora Top 10 Editing Traits</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-huawei-nova-y71-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Huawei Nova Y71?</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-v29e-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-play-7t-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Honor Play 7T Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-30-tones-where-to-find-classical-callouts/"><u>In 2024, Top 30 Tones Where to Find Classical Callouts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/increase-conversions-with-these-top-marketing-phrases-for-2024/"><u>Increase Conversions with These Top Marketing Phrases for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/toolwiz-scrutiny-expert-analysis-on-mobile-photo-tools-for-2024/"><u>Toolwiz Scrutiny Expert Analysis on Mobile Photo Tools for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/total-control-over-youtube-playback-silence-previews-for-2024/"><u>Total Control Over YouTube Playback Silence Previews for 2024</u></a></li>
 </ul></div>
 

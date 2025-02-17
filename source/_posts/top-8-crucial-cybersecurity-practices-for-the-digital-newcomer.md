@@ -1,7 +1,7 @@
 ---
 title: Top 8 Crucial Cybersecurity Practices for the Digital Newcomer
-date: 2025-02-13T23:44:33.442Z
-updated: 2025-02-17T02:50:14.426Z
+date: 2025-02-10T19:56:59.924Z
+updated: 2025-02-17T07:09:03.750Z
 tags:
   - web
 categories:
@@ -28,10 +28,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A text message stating 'Florida toll services: We've noticed an outstanding toll amount of $12.51 on your record. To avoid a late fee of $50.00, visit UNFRIENDLY URL to settle your balance.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/23.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Andrew Heinzman / How-To Geek
 
  Phishing is a common tactic hackers use to infect or gain unauthorized access to your devices or accounts. To protect yourself, you have to be familiar with the [signs of fraudulent emails](https://on-screen-recording.techidaily.com/new-2024-approved-permanent-name-shift-on-google-meet-devices/) and texts. Check the sender's email address or phone number to ensure it's legitimate. Scammers use slight variations, such as replacing "PayPal" with "PayPak" or "PayPaI" (with a capital I and not a lowercase L), which can be _easily_ overlooked.
@@ -39,10 +35,6 @@ Andrew Heinzman / How-To Geek
  Fraudulent emails and texts often include generic greetings like "Dear Customer" instead of using your name. They may contain spelling and grammar mistakes, force you to take urgent action, add malicious links, attach malicious files that you should not download, or direct you to websites that look official but have slightly different URLs.
 
  By being viligant for these signs, you can identify phishing attempts and avoid falling victim to them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2  Never Allow Remote Access to Your Device 
 
@@ -56,6 +48,10 @@ Hannah Brostrom / How-To Geek
 
  Once they have access, they may turn your screen black, transfer funds from your bank account (if they can), install malicious software, or use other tactics to defraud you. To protect yourself, ignore such popups and _never_ allow anyone remote access to your device. If you need genuine tech support, always seek assistance from the official website of the company.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3  Avoid Befriending Strangers Online 
 
  Social media and online communities are rife with scammers. Therefore, it's crucial never to befriend strangers you’ve never met. Only connect with people you know in real life. Also, ensure you don’t connect with an impersonator. Always verify that the profile is authentic, check mutual connections, and don’t accept friend requests from newly created profiles.
@@ -65,16 +61,16 @@ Hannah Brostrom / How-To Geek
 ![A bot impersonating a real person on Facebook.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/scammer.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4  Don’t Overshare Your Critical Information 
 
 ![A hacker stealing a credit card in an online store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-hacker-stealing-a-credit-card-in-an-online-store.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lucas Gouveia / How-To Geek | [Creativa Images](https://www.shutterstock.com/image-photo/picture-male-hacker-stealing-credit-card-2102624236) / Shutterstock
 
@@ -90,12 +86,16 @@ Lucas Gouveia / How-To Geek | [Creativa Images](https://www.shutterstock.com/ima
 
  Lastly, enable safe search filters to avoid encountering inappropriate content, be wary of malicious search ads, and regularly clear your browsing data.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6  Be Skeptical of Unverified Callers 
 
 ![A phone with an incoming call and a call forwarding icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-phone-with-an-incoming-call-and-a-call-forwarding-icon.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lucas Gouveia / Justin Duino / How-To Geek
@@ -116,13 +116,13 @@ Lucas Gouveia / How-To Geek | [DONOT6\_STUDIO](https://www.shutterstock.com/imag
 
  If there are photos or videos attached, use reverse search tools to confirm they aren't old and see if the article links back to the source. Be wary of sensational headlines and read the entire article to understand the context. Also, check the comment section to see if readers have pointed out inaccuracies.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8  Follow Tips for Safe Online Shopping 
 
 ![Hands holding credit card and using laptop to shop online.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/8d330f6d.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Ivan Kruk/Shutterstock.com](https://www.shutterstock.com/image-photo/hands-holding-credit-card-using-laptop-291627674)
 
@@ -151,17 +151,17 @@ Lucas Gouveia / How-To Geek | [DONOT6\_STUDIO](https://www.shutterstock.com/imag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/alancing-act-watching-multiple-videos-on-one-screen-for-2024/"><u>[New] Balancing Act Watching Multiple Videos on One Screen for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-power-supplies-for-hero5-official-and-alternative-models/"><u>[New] Ultimate Power Supplies for Hero5 Official & Alternative Models</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-unlocking-the-secrets-of-integrating-online-videos-in-slides-for-2024/"><u>[New] Unlocking the Secrets of Integrating Online Videos in Slides for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-budget-friendly-interactive-face-to-face-games/"><u>[Updated] Budget-Friendly Interactive Face-to-Face Games</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streamline-your-gaming-experience-with-top-tools/"><u>[Updated] Streamline Your Gaming Experience with Top Tools</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-streamlining-massive-video-transfers-iphone-mac-edition/"><u>[Updated] Streamlining Massive Video Transfers IPhone-Mac Edition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-archivists-collection-essential-retro-visual-hacks-for-video-editors/"><u>[Updated] The Archivist's Collection Essential Retro Visual Hacks for Video Editors</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-route-to-collecting-pictorial-frame-downloads/"><u>[Updated] The Route to Collecting Pictorial Frame Downloads</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-editessence-system/"><u>2024 Approved EditEssence System</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-do-digital-video-recorders-work-and-why-are-they-important/"><u>How Do Digital Video Recorders Work and Why Are They Important?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-from-iphone-12-proipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock from iPhone 12 Pro/iPad/iPod</u></a></li>
-<li><a href="https://some-skills.techidaily.com/strategies-for-structuring-an-efficient-collaborative-office-environment-for-2024/"><u>Strategies for Structuring an Efficient, Collaborative Office Environment for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-get-save-and-enjoy-discover-these-6-excellent-linkedin-downloader-tools/"><u>[New] 2024 Approved Get, Save, and Enjoy Discover These 6 Excellent LinkedIn Downloader Tools</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-yt-thumbnails-downloading-via-browser-app-and-command-line/"><u>[New] 2024 Approved YT Thumbnails Downloading via Browser, App & Command Line</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-essential-mac-screen-recorder-alternatives-to-bandicam/"><u>[New] In 2024, Essential Mac Screen Recorder Alternatives to Bandicam</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-golden-nuggets-revealing-the-hottest-reddit-topics-10/"><u>[Updated] Golden Nuggets Revealing the Hottest Reddit Topics (10)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-compreenasive-studio-guide-deep-xvideoinsight/"><u>[Updated] The Compreenasive Studio Guide Deep XVideoInsight</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-turning-youtube-viewers-into-brand-partners/"><u>2024 Approved The Ultimate Guide to Turning Youtube Viewers Into Brand Partners</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1728466195406-aomei-backupper/"><u>使用AOMEI Backupper進行徹底抹除:高效清空硬碟指南</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-trailblazing-top-zooid-beginnings-list/"><u>In 2024, Trailblazing Top Zooid Beginnings List</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/seamlessly-manage-bi-directional-files-transfer-with-onedrive-2-methods-unveiled/"><u>Seamlessly Manage Bi-Directional Files Transfer with OneDrive: 2 Methods Unveiled</u></a></li>
+<li><a href="https://solve-info.techidaily.com/strategies-for-profit-in-digital-assets-by-yl-software-your-guide-to-successful-trading/"><u>Strategies for Profit in Digital Assets by YL Software – Your Guide to Successful Trading</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-game-changing-imac-m1-review-stunning-aesthetics-paired-with-unprecedented-processing-ability/"><u>The Game-Changing iMac M1 Review: Stunning Aesthetics Paired with Unprecedented Processing Ability</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-new-wave-of-coding-excellence-av1-vs-vp9-face-off-for-2024/"><u>The New Wave of Coding Excellence AV1 vs VP9 Face-Off for 2024</u></a></li>
 </ul></div>
 

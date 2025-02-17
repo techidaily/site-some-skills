@@ -1,7 +1,7 @@
 ---
 title: Efficient File Comparison Techniques Using Notepad++
-date: 2025-02-14T17:08:23.011Z
-updated: 2025-02-17T04:25:36.615Z
+date: 2025-02-15T07:13:50.436Z
+updated: 2025-02-16T22:38:13.484Z
 tags:
   - desktop
 categories:
@@ -29,23 +29,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![The installation path and 'Next' highlighted in Notepad++'s installation wizard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-notepad-plus-plus-installation-path.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Enable the "Plugins Admin" option in the component list on the "Choose Components" screen. Then, at the bottom, select "Next."
 
 !['Plugins Admin' and 'Next' highlighted in the Notepad++ installation wizard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-install-plugins-admin-notepad-plus-plus.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On the screen that follows, optionally, enable "[Create Shortcut on Desktop](https://extra-approaches.techidaily.com/updated-skys-limit-for-your-visual-stories-unlimited-free-options-and-premium-choices/)" to add the app’s shortcut to your desktop. Then, click "Install."
 
 !['Create Shortcut on Desktop' and 'Install' highlighted in the Notepad++ installation wizard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-create-notepad-plus-plus-desktop-shortcut.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When you’ve installed the app, click "Finish."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Step 2\. Install the Compare Plugin Using Plugins Admin
 
@@ -60,10 +60,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  If you’d like to add other plugins, enable those plugins’ boxes before clicking "Install."
 
 !['Available,' 'Compare,' and 'Install' highlighted on the 'Plugins Admin' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-install-compare-plugin-notepad-plus-plus.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Notepad++ will display a prompt saying the app will relaunch if you install the plugin. If you’ve saved your unsaved work in the app, choose "Yes" in the prompt to allow the app to close and install your plugin.
 
@@ -82,12 +78,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Open' highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-open-files-notepad-plus-plus.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After opening both files, from the app’s menu bar, select Plugins > Compare > Compare.
 
 !['Compare' highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8-compare-files-notepad-plus-plus.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Compare plugin will do its job, which is to start highlighting the differences in your files. You’ll instantly see your files’ differences highlighted.
 
@@ -97,10 +97,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Rotate to Left' and 'Rotate to Right' options highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/10-change-view-mode-notepad-plus-plus.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To change the colors used to highlight differences, from the app’s menu bar, select Plugins > Compare > Settings.
 
 !['Settings' highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/11-compare-plugin-settings-notepad-plus-plus.png) 
@@ -109,12 +105,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Color Settings' and 'OK' highlighted on the 'Compare Plugin Settings' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/12-change-color-settings-compare-plugin-notepad-plus-plus.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After using the plugin, when you want to close the plugin’s functionality, select Plugins > Compare > Clear All Compares from the menu bar.
 
 !['Clear All Compares' highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/13-clear-comparison-notepad-plus-plus.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  And that’s how you quickly know the difference between two files using a free and open-source app on your computer. Notepad++ is a great [plain text editor](https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-lava-yuva-3-drfone-by-drfone-virtual-android/), and it can natively do all sorts of useful things besides compare files, like [replace specific characters with new lines](https://screen-mirror.techidaily.com/the-top-10-apple-iphone-6-plus-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/). It shines even more when you start adding plugins.
@@ -134,24 +134,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-teaching-through-media-pro-video-editing-hacks/"><u>[New] Teaching Through Media Pro Video Editing Hacks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-80s-effects-compendium-for-professional-editors/"><u>[New] Top 80S Effects Compendium for Professional Editors</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-cut-the-clutter-ultimate-guide-to-trimming-down-oversized-tiktoks/"><u>[Updated] 2024 Approved Cut the Clutter Ultimate Guide to Trimming Down Oversized TikToks</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-art-of-instagram-filter-selection-tips-for-the-year-2023/"><u>[Updated] In 2024, The Art of Instagram Filter Selection Tips for the Year 2023</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streamlining-cd-manipulation-with-wmp/"><u>[Updated] Streamlining Cd Manipulation with WMP</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-fundamentals-of-quality-streaming-how-to-do-it-right-with-wirecast-and-youtube/"><u>[Updated] The Fundamentals of Quality Streaming How to Do It Right with WireCast and Youtube</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-the-ultimate-cinemagraph-guide-top-5-must-know-tactics-for-2024/"><u>[Updated] The Ultimate Cinemagraph Guide - Top 5 Must-Know Tactics for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-online-destinations-for-3d-shimmering-letters/"><u>[Updated] Ultimate Online Destinations for 3D Shimmering Letters</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-blueprint-for-iphone-podcast-downloads/"><u>2024 Approved The Complete Blueprint for iPhone Podcast Downloads</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-toolwiz-photosapp-for-photographers/"><u>2024 Approved The Ultimate Guide to Toolwiz PhotosApp for Photographers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-tips-for-pop-culture-meme-success/"><u>2024 Approved Top Tips for Pop Culture Meme Success</u></a></li>
-<li><a href="https://facebook.techidaily.com/activate-the-fortress-facebooks-personal-safety-toolkit/"><u>Activate the Fortress: Facebook's Personal Safety Toolkit</u></a></li>
-<li><a href="https://games-able.techidaily.com/crack-the-code-spotting-exceptional-games-in-apple-arcade/"><u>Crack the Code: Spotting Exceptional Games in Apple Arcade</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamlined-iphones-how-to-grab-your-favorite-podcasts/"><u>In 2024, Streamlined iPhones How to Grab Your Favorite Podcasts</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/missed-out-on-your-chatgpt-talks-heres-how-you-can-get-them-back/"><u>Missed Out on Your ChatGPT Talks? Here's How You Can Get Them Back!</u></a></li>
-<li><a href="https://discover-able.techidaily.com/should-you-update-your-systems-bios-for-optimal-ssd-performance/"><u>Should You Update Your System's BIOS for Optimal SSD Performance?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/time-lapse-software-how-to-create-time-lapse-video-2-methods/"><u>Time Lapse Software How to Create Time Lapse Video 2 Methods</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unboxing-viva-a-user-guide-to-its-videos-for-2024/"><u>Unboxing Viva A User Guide to Its Videos for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-guiding-steps-for-effective-gopro-time-lapse-capture/"><u>[New] Guiding Steps for Effective GoPro Time-Lapse Capture</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streaming-giants-clash-a-detailed-twitchyoutube-analysis/"><u>[New] Streaming Giants Clash A Detailed Twitch/YouTube Analysis</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2023s-best-web-based-recording-tech-handpicked/"><u>[Updated] 2023'S Best Web-Based Recording Tech Handpicked</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-best-8-private-video-downloaders/"><u>[Updated] Best 8 Private Video Downloaders</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-mastering-photo-color-reversal-techniques/"><u>2024 Approved Mastering Photo Color Reversal Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-teleportation-illusions-in-visual-effects-artistry/"><u>2024 Approved Teleportation Illusions in Visual Effects Artistry</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-your-mobile-device-a-comprehensive-tone-customization-strategy/"><u>2024 Approved Transforming Your Mobile Device A Comprehensive Tone Customization Strategy</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-workplace-cloud-keep/"><u>2024 Approved Ultimate Workplace Cloud Keep</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-secrets-of-montage-image-assembly/"><u>2024 Approved Unveiling the Secrets of Montage Image Assembly</u></a></li>
+<li><a href="https://win-studio.techidaily.com/discover-excellent-utilities-for-optimizing-your-systems-performance-guided-by-yl-solutions/"><u>Discover Excellent Utilities for Optimizing Your System's Performance - Guided by YL Solutions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/hue-harmony-the-definitive-guide-to-video-coloring/"><u>Hue Harmony The Definitive Guide to Video Coloring</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-stream-undoing-masterclass-twenty-one-tactics-to-learn-and-use/"><u>In 2024, Stream Undoing Masterclass Twenty-One Tactics to Learn and Use</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamline-twitters-from-video-to-audible-format/"><u>In 2024, Streamline Twitters From Video to Audible Format</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/prime-sites-where-your-presents-stand-out-in-a-sea-of-boxes-for-2024/"><u>Prime Sites Where Your Presents Stand Out in a Sea of Boxes for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1126065-9781609255756-spirit-faces/"><u>Spirit Faces | Free Book</u></a></li>
+<li><a href="https://some-skills.techidaily.com/twitch-triumph-or-hitbox-heritage-in-2024/"><u>Twitch Triumph or Hitbox Heritage, In 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unofficial-methods-to-install-windows-11-on-non-recommended-cpu-hardware/"><u>Unofficial Methods to Install Windows 11 on Non-Recommended CPU Hardware</u></a></li>
 </ul></div>
 

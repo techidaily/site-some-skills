@@ -1,7 +1,7 @@
 ---
 title: Top 8 Essential Factors to Consider When Purchasing a Pre-Owned Windows Laptop
-date: 2025-02-11T06:56:04.236Z
-updated: 2025-02-17T05:37:53.049Z
+date: 2025-02-15T02:54:24.340Z
+updated: 2025-02-17T02:28:28.418Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Top 8 Essential Factors to Consider When Purchasing a Pre-Owned Windows Laptop
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -34,6 +38,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  This will help you confirm whether the trackpad on your new laptop is equally or more responsive than the other one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Test the Speakers and Built-In Microphone
 
  Next, you should test the built-in microphone and speaker. While you can simply play and record something to check if the audio input and output devices are working fine, Windows also offers a way to test them in Settings. On Windows 11, right-click on the Start button and select "Settings." Then, navigate to System > Sound.
@@ -53,7 +61,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If the camera app detects the webcam and the visuals are clear and of satisfactory quality, as the seller claimed, then the camera is working correctly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Check the Health of Your Laptop Battery
@@ -67,26 +75,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Generating the battery health report from Windows PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_2-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Navigate to this location and open the battery report. Then, go to the "Installed Batteries" section and compare the "Design Capacity" with the "Full Charge Capacity." The difference between these values indicates the extent to which the battery's capacity has diminished due to usage. If the full charge capacity is significantly low, you may have to replace the battery.
 
 ![Checking the laptop battery report.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_5.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Ensure the Laptop Isn't Stolen
 
  If you're thinking about buying a used laptop from an unknown seller, make sure that it hasn't been stolen. One way to check this is to request a purchase receipt from the seller. If they are unable to provide one, this could be a red flag. If the laptop hasn't been reset, is password-protected, or is locked, these signs indicate that it's likely a stolen device.
 
  You can also confirm your suspicions by getting the laptop's serial number and contacting the manufacturer to verify whether the device has been reported stolen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Perform the Physical Inspection
 
@@ -100,15 +100,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Start by connecting your laptop to Wi-Fi. Then, [test its Ethernet port](https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/) by plugging it directly into the router. If the internet connection works well, test the audio jacks with headphones. Similarly, check the USB ports by connecting a wired device. Finally, make sure Bluetooth is working by pairing a Bluetooth-powered device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Check the Health of RAM and Storage Drive
 
  Finally, [check the health of the RAM](https://hardware-help.techidaily.com/step-by-step-installation-amd-gpio-pin-driver-for-hexagon-devices/) and storage drive to ensure they're not faulty. To test the RAM, you can use the Windows Memory Diagnostic tool, which detects and displays potential issues with it. To run the test, open Command Prompt as an administrator, type **mdsched.exe**, and press Enter. Then, click "Restart Now and Check for Problems."
 
 ![Running the memory diagnostic test from Windows Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/3-running-the-memory-diagnostic-test-from-windows-command-prompt.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Windows will restart and run the test. Once it finishes testing the RAM, it'll restart again and display the test results. If you don't see them, you can use the Windows Event Viewer to search for potential issues identified during the test. Open Event Viewer and go to Windows Logs > System. Click "Find," type **MemoryDiagnostic**, and click "Find Next."
 
@@ -133,24 +133,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-essential-guide-the-top-10-inexpensive-youtube-channels-for-visual-creators/"><u>[New] In 2024, Essential Guide The Top 10 Inexpensive YouTube Channels for Visual Creators</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-simplifying-video-workflows-with-showmores-top-recording-tool-for-2024/"><u>[New] Simplifying Video Workflows with ShowMore's Top Recording Tool for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-streamline-iphone-videos-size-and-length-optimization/"><u>[New] Streamline iPhone Videos Size & Length Optimization</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-10-affordable-and-easy-online-passport-pics-tools/"><u>[New] Top 10 Affordable & Easy Online Passport Pics Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-8-montage-apps-for-androidiphone/"><u>[New] Top 8 Montage Apps for Android/iPhone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-avoiding-pitfalls-securing-your-skype-recordings-in-obs-for-2024/"><u>[Updated] Avoiding Pitfalls Securing Your Skype Recordings in OBS for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-vlc-capture-tool-assessment/"><u>[Updated] In 2024, VLC Capture Tool Assessment</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-illustrator-guide-to-dynamic-text-art/"><u>[Updated] The Illustrator Guide to Dynamic Text Art</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlock-creative-potential-utilizing-luts-to-enhance-video-quality/"><u>[Updated] Unlock Creative Potential Utilizing LUTs to Enhance Video Quality</u></a></li>
-<li><a href="https://fox-place.techidaily.com/1728464791032-os/"><u>如何在没有OS的情况下进行数据恢复：硬盘备份方法</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-breaking-down-youtube-promotion-costs/"><u>In 2024, Breaking Down Youtube Promotion Costs</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-razr-40-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Motorola Razr 40 Phone without Google Account?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-swift-cinematic-skills-the-quickest-5-diy-hacks-for-success/"><u>In 2024, Swift Cinematic Skills The Quickest 5 DIY Hacks for Success</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-dynamic-edge-technique-adding-motion-blur-to-portraits-using-picsart/"><u>In 2024, The Dynamic Edge Technique Adding Motion Blur to Portraits Using Picsart</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-12-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone 12 Apps to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-blueprint-to-fullscreen-brilliance-in-adobe-premiere-for-2024/"><u>The Ultimate Blueprint to Fullscreen Brilliance in Adobe Premiere for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-your-viewers-experience-with-top-mac-streamers-for-2024/"><u>Transform Your Viewers' Experience with Top Mac Streamers for 2024</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/troubleshooting-a-non-responsive-printer-expert-tips-and-solutions-from-yl-computing/"><u>Troubleshooting a Non-Responsive Printer: Expert Tips & Solutions From YL Computing</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-make-your-own-gif-loops-with-these-top-free-tools/"><u>Updated 2024 Approved Make Your Own GIF Loops with These Top Free Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-pro-techniques-for-iphone-nature-photography-at-a-new-level/"><u>[New] Pro Techniques for iPhone Nature Photography at a New Level</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tips-for-seamless-integration-of-supplementary-footage/"><u>[New] Tips for Seamless Integration of Supplementary Footage</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-tune-treasure-trove-save-and-study-sound-files-for-2024/"><u>[New] Tune Treasure Trove Save & Study Sound Files for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-cinema-chronicles-the-quintessential-cinematographic-tips-for-24-for-2024/"><u>[Updated] Cinema Chronicles The Quintessential Cinematographic Tips for '24 for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-dissecting-the-digital-language-meanings-of-fb-messengers-blue-emoji/"><u>[Updated] Dissecting the Digital Language Meanings of FB Messenger’s Blue Emoji</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-comparing-the-best-in-class-for-4k-screen-reality/"><u>[Updated] In 2024, Comparing the Best in Class for 4K Screen Reality</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-nightly-serenity-with-asmr-top-choices-to-listen-to/"><u>[Updated] In 2024, Nightly Serenity with ASMR Top Choices to Listen To</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-using-vlc-for-mp4-and-format-shifting/"><u>2024 Approved The Ultimate Guide to Using VLC for MP4 & Format Shifting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-windows-playback-system/"><u>2024 Approved Ultimate Windows Playback System</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capturing-the-moment-expert-tips-for-amazing-android-slow-mo-videos-for-2024/"><u>Capturing the Moment Expert Tips for Amazing Android Slow Mo Videos for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-considerations-for-gamers-selecting-the-perfect-console-from-top-five-points/"><u>Essential Considerations for Gamers: Selecting the Perfect Console From Top Five Points</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-your-tunes-curated-list-of-websites-for-youtuberingtones/"><u>In 2024, Unlock Your Tunes Curated List of Websites For YouTubeRingtones</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-y100t-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Vivo Y100t Users</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/navigating-the-best-youtube-news-networks-today/"><u>Navigating the Best YouTube News Networks Today</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-handbook-to-zooms-online-presentation-features-for-2024/"><u>The Ultimate Handbook to Zoom's Online Presentation Features for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tickletunes-recommendations-best-online-funnier-downloads-for-2024/"><u>TickleTunes Recommendations Best Online Funnier Downloads for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-video-potential-top-9-tips-for-vr-storytelling-for-2024/"><u>Unlocking Video Potential Top 9 Tips for VR Storytelling for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveil-the-finest-vr-cycling-worlds-for-2024/"><u>Unveil the Finest VR Cycling Worlds for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96317109-9781401944810-what-if-this-is-heaven/"><u>What If This Is Heaven? | Free Book</u></a></li>
 </ul></div>
 

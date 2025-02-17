@@ -1,7 +1,7 @@
 ---
 title: Discover the Most Loved Google Doodle Titles to Enjoy Today
-date: 2025-02-15T07:32:12.649Z
-updated: 2025-02-16T21:36:30.184Z
+date: 2025-02-11T23:50:24.552Z
+updated: 2025-02-17T01:47:58.748Z
 tags:
   - web
 categories:
@@ -36,21 +36,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![google pac-man](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/2021-04-29_17-02-09.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Everyone knows Pac-Man. It's a classic for a reason. The Doodle version is just as fun as always.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  #3: [Quick, Draw!](http://quickdraw.withgoogle.com/) 
 
 ![quick, draw](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/2021-04-29_17-03-58.png) 
 
- Quick, Draw! was so popular that it got its own website. You get 20 seconds to draw something, and then Google's neural network tries to guess what it is.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Quick, Draw! was so popular that it got its own website. You get 20 seconds to draw something, and then Google's neural network tries to guess what it is.
 
 ##  #4: [The Scoville Game](https://quickdraw.withgoogle.com/) 
 
@@ -66,10 +66,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![google baskeball](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/2021-04-29_17-13-44.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This is another classic sports game. See how many shots you can make in 24 seconds.
 
 ##  #6: [Halloween](https://www.google.com/doodles/basketball-2012) 
@@ -77,10 +73,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![google doodle halloween 2016](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/2021-04-29_17-15-18.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This fun game from Halloween 2016 has you swiping a wand around as a cat to defeat ghosts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  #7: [Garden Gnome](https://www.google.com/doodles/halloween-2016) 
 
@@ -94,26 +94,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 [![rabbit coding game](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/2021-04-29_17-18-14.png)](https://www.google.com/doodles/celebrating-garden-gnomes)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [](https://www.google.com/doodles/celebrating-garden-gnomes) 
 
  Coding Rabbit is a great game to introduce your kids to coding. The goal is to use basic, block-based coding concepts to help a rabbit to a carrot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  #9: [Cricket](https://www.google.com/doodles/celebrating-50-years-of-kids-coding) 
 
 ![cricket game](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/2021-04-29_17-19-47.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Play Cricket with virtual crickets! Just like the baseball game, this one is super addictive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  #10: [Rubik's Cube](https://www.google.com/doodles/icc-champions-trophy-2017-begins) 
@@ -145,16 +145,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-aerial-choreography-the-fresh-take-on-bebops-parrot/"><u>[New] In 2024, Aerial Choreography – The Fresh Take on Bebop's Parrot</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-virtual-evolution-dichotomy-metaverse-and-omniverse-compared/"><u>[New] The Virtual Evolution Dichotomy Metaverse & Omniverse Compared</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-instagram-a-comprehensive-guide-to-video-posting/"><u>[Updated] Instagram A Comprehensive Guide to Video Posting</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-snap-scissor-and-save-how-the-iphone-revolutionizes-image-cropping/"><u>[Updated] Snap, Scissor & Save How the iPhone Revolutionizes Image Cropping</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-switch-to-picture-in-picture-while-watching-youtube/"><u>[Updated] Switch to Picture in Picture While Watching YouTube</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-ten-web-retailers-for-exquisite-wrapped-delights/"><u>2024 Approved Top Ten Web Retailers for Exquisite Wrapped Delights</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-google-chromes-pip-potential-on-all-platforms/"><u>2024 Approved Unlocking Google Chrome's PIP Potential on All Platforms</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/converting-your-music-library-to-audiobooks-on-itunes-easy-methods-revealed/"><u>Converting Your Music Library to Audiobooks on iTunes: Easy Methods Revealed</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/dissecting-vidmas-recording-features-a-technical-breakdown/"><u>Dissecting Vidma's Recording Features - A Technical Breakdown</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-11-pro-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On Apple iPhone 11 Pro</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-make-fortnite-thumbnail-with-motion-blur/"><u>New 2024 Approved How to Make Fortnite Thumbnail with Motion Blur?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-virtual-horizons-redefining-the-movie-experience/"><u>[New] 2024 Approved Virtual Horizons Redefining the Movie Experience</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-alternatives-spotlighted-by-az-screen-recorder/"><u>[New] Alternatives Spotlighted by AZ Screen Recorder</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-next-gen-editors-the-ultimate-selection-of-instagram-tools/"><u>[Updated] Next-Gen Editors The Ultimate Selection of Instagram Tools</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-the-beginner-pro-marketing-playbook-secrets-of-facebook-success-for-2024/"><u>[Updated] The Beginner-Pro Marketing Playbook Secrets of Facebook Success for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-superior-pfv-optimization-in-tardy-action/"><u>2024 Approved Superior PFV Optimization in Tardy Action</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transformative-visual-experiences-with-tiktok-enhancements/"><u>2024 Approved Transformative Visual Experiences with TikTok Enhancements</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-virtual-realms-on-your-phone-with-simple-steps/"><u>2024 Approved Unlock Virtual Realms on Your Phone with Simple Steps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/a-curated-selection-best-stop-motion-movies-ever-made-for-2024/"><u>A Curated Selection Best Stop-Motion Movies Ever Made for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-apple-iphone-xs-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone XS Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-tier-mobile-and-desktop-player-for-avis/"><u>In 2024, Top-Tier Mobile and Desktop Player for AVIs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-best-android-and-ios-apps-for-monitoring-big-day-timers/"><u>In 2024, Unveiling the Best Android & iOS Apps for Monitoring Big Day Timers</u></a></li>
+<li><a href="https://games-able.techidaily.com/inside-the-expensive-realm-of-cutting-edge-vr-headsets/"><u>Inside the Expensive Realm of Cutting-Edge VR Headsets</u></a></li>
+<li><a href="https://some-skills.techidaily.com/maximize-space-with-iphone-images-scaling-for-2024/"><u>Maximize Space with iPhone Images Scaling for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-stabilizing-armored-core-6-rubicons-flames-on-windows-pc-edition/"><u>Troubleshooting Steps for Stabilizing Armored Core 6: Rubicon's Flames on Windows - PC Edition</u></a></li>
 </ul></div>
 

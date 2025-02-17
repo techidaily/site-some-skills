@@ -1,7 +1,7 @@
 ---
 title: "Everyday Wonders: How NASA's 16 Pioneering Discoveries Benefit Us All"
-date: 2025-02-06T20:32:54.829Z
-updated: 2025-02-07T18:41:07.096Z
+date: 2025-02-09T23:03:09.787Z
+updated: 2025-02-17T02:15:00.391Z
 tags:
   - cutting-edge
 categories:
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/e1b05e2809c3856ff6c5f2c8afe934df9f995bbf6
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations5.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 NASA/Photobit
 
  It's tough to pick a particular thing to top a list of everyday things that NASA invented that have an ongoing impact on our lives, given the sheer breadth of things the agency has been involved in over the years.
@@ -55,10 +59,6 @@ NASA/Photobit
 
 ![A photo of a NASA Space Shuttle and a hand compressing some memory foam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations6.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 NASA/Dynamic Systems
 
  From [memory foam pillows](https://www.lifesavvy.com/28161/the-comfiest-pillows-for-a-good-nights-sleep/) to entire [memory foam beds](https://www.amazon.com/LUCID-Inch-Memory-Foam-Medium/dp/B08624TRBP/?tag=htg-v2-2q16d3n-20&ascsubtag=UUhtgUeUpU204545&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F831363%2Fthese-nasa-innovations-are-all-around-us-everyday%2F&asc%5Fcampaign=Short-Term) and even the premium memory foam seats in your car, you can thank NASA for all that cushy goodness.
@@ -67,13 +67,13 @@ NASA/Dynamic Systems
 
  It took a few years and a few revisions to the original foam formula---mostly to tweak it to be less insulative---but eventually, memory foam became ubiquitous. You'd be hard-pressed to find a household in America that doesn't have one (or a dozen) things with memory foam.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Wireless Headphones
 
 ![A photo of Neil Armstrong and a wireless headset used during the Apollo missions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations7.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 NASA/Poly
 
@@ -84,10 +84,6 @@ NASA/Poly
  ITT Labs built a model around one of Planctronics' aviation headsets, and NASA ended up [working directly with Plantronics](https://spinoff.nasa.gov/Spinoff2005/ch%5F9.html) to build a compact wireless version right into a helmet.
 
  This led to a long collaboration between Plantronics and NASA, resulting in a variety of innovations in miniaturization, improved wireless communication, noise canceling, and a variety of [wireless headphone benefits](https://ios-unlock.techidaily.com/locked-out-of-apple-iphone-xs-max-5-ways-to-get-into-a-locked-apple-iphone-xs-max-by-drfone-ios/) we all enjoy today.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Clamshell Laptops
 
@@ -102,7 +98,7 @@ The Smithsonian Insitute/NASA
  At NASA's request, various modifications were made over the years, including the introduction of laptop fans. The laptop was originally passively cooled, but in microgravity passive convention cooling didn't work well, requiring fans to push air over the components. The design choices in those early laptops [persist to the present](https://youtube-web.techidaily.com/ed-2024-approved-the-blueprint-for-designing-eye-catching-thumbnails-for-your-youtube-channel/), and in the decades since, we've never topped the clamshell.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Scratch-Resistant and UV Protective Lenses
@@ -139,10 +135,6 @@ iHealth/Apple/Invisalign
 
  The technology eventually made its way into everything from [the thermometers we use when we're sick](https://www.amazon.com/iHealth-Thermometer-Vibration-Notification-Thermopile/dp/B075QQ8VZW/?tag=htg-v2-2q16d3n-20&ascsubtag=UUhtgUeUpU204545&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F831363%2Fthese-nasa-innovations-are-all-around-us-everyday%2F&asc%5Fcampaign=Short-Term) to the handy temperature guns we use to [check pizza ovens](https://www.lifesavvy.com/131867/gozney-roccbox-pizza-oven-review/) and other surfaces.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Freeze Dried Foods
 
 ![Examples of freeze dried food.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations1.jpg) 
@@ -158,6 +150,10 @@ iHealth/Apple/Invisalign
  Want a freeze-dried fact for the road? NASA did fly freeze-dried ice cream in space during the Apollo 7 mission, but it wasn't particularly popular. In fact, by the 1970s, technology had advanced enough that Skylab astronauts could eat regular old ice cream
 
  You can thank NASA gift shops and curious kids for the enduring popularity of "astronaut" ice cream, as well as the folks at [Astronaut Foods](https://astronautfoods.com/) who keep the freeze-dried space food dream alive for gift shop goers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Better Baby Formula
 
@@ -185,13 +181,13 @@ NASA/Industrial Designers Society of America
 
  That wave of consumer battery-powered tools was powered by [research undertaken on behalf of NASA](https://www.space.com/10625-space-spinoff-technology-handheld-vacuum.html), however. Black in the late 1960s, NASA had contracted Black & Decker to make battery-powered versions of various tools, like drills for taking lunar samples. The research and computer modeling that went into making high-efficiency motors for the program became the bedrock of the motors that would power the DustBuster and other tools.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Improved Smoke Detectors
 
 ![A photograph showing Skylab and a smoke detector module.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 iHealth/Apple/Invisalign
 
@@ -208,7 +204,7 @@ iHealth/Apple/Invisalign
 ![Two types of clear ceramic braces.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 iHealth/Apple/Invisalign
@@ -248,7 +244,7 @@ iHealth/Apple/Invisalign
  The resulting product, [Lifeshears](https://www.nasa.gov/vision/earth/technologies/human%5Fspaceflight.html), has been in use since the 1990s and was even used during rescue efforts after the 9/11 attack.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Foil Blankets
@@ -256,7 +252,7 @@ iHealth/Apple/Invisalign
 ![Examples of foil blankets in use.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NASAInnovations4.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 NASA/AMC
@@ -270,7 +266,7 @@ NASA/AMC
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/Copy-of-2-Up-1080p-Header14.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 NASA/RadiaSource
@@ -280,6 +276,10 @@ NASA/RadiaSource
  By sandwiching a lightweight layer of thermal break insulation between two layers of aluminized polymer, this style of insulation can help stabilize the temperature of a home as a fraction of the size and mass of traditional insulation.
 
  Between the original space blankets and radiant barrier innovations, NASA's research has found its way into everything from our homes to our lunchboxes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More NASA-Funded Technology
 
@@ -304,24 +304,20 @@ NASA/RadiaSource
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/oncluding-your-channel-on-youtube-expert-guides-and-templates-for-2024/"><u>[New] Concluding Your Channel on YouTube - Expert Guides & Templates for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-periscope-streaming-made-simple/"><u>[New] Periscope Streaming Made Simple</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-free-individualized-music-for-engaging-video-conclusions/"><u>[Updated] Free, Individualized Music for Engaging Video Conclusions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-uncovering-superior-free-viewers-for-your-webm-media-files/"><u>[Updated] Uncovering Superior, Free Viewers for Your WebM Media Files</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-finding-the-best-free-subtitle-conversion-services/"><u>2024 Approved Finding the Best Free Subtitle Conversion Services</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-the-issue-nvidias-game-capture-and-screen-capture-tool-malfunction/"><u>Fixing the Issue: Nvidia's Game Capture and Screen Capture Tool Malfunction</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-superior-way-of-stitching-gopro-recordings-in-extended-spherical-videos/"><u>In 2024, Superior Way of Stitching GoPro Recordings in Extended Spherical Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-jaunt-vr-journey-explained/"><u>In 2024, The Jaunt VR Journey Explained</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-resource-powerdirector-users/"><u>In 2024, The Ultimate Resource PowerDirector Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-uavs-explained-the-basics-of-drone-systems-and-operations/"><u>In 2024, UAVs Explained The Basics of Drone Systems and Operations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/integrated-sound-and-vision-workspace-for-2024/"><u>Integrated Sound & Vision Workspace for 2024</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/online-gratuite-wmv-afbeelding-omzetten-naar-ogg-met-movavi-geavanceerd-codec-converter/"><u>Online Gratuite WMV-Afbeelding Omzetten Naar Ogg Met Movavi - Geavanceerd Codec-Converter</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-straight-line-issues-on-a-samsung-televisual-unit/"><u>Resolving Straight-Line Issues on a Samsung Televisual Unit</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/safeguarding-snapshots-techniques-for-instagram-watermarks-for-2024/"><u>Safeguarding Snapshots Techniques for Instagram Watermarks for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-vivo-x90s-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Vivo X90S | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-best-electronic-signature-way-to-sign-docx-documents-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>The best electronic signature way to sign .docx documents online</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ultimate-guide-to-android-photo-fixes/"><u>Ultimate Guide to Android Photo Fixes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-list-mac-video-editors-for-macos-big-sur-11-users-for-2024/"><u>Ultimate List Mac Video Editors for macOS Big Sur 11 Users for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-streaming-screens-using-netflixs-pip-mode-for-2024/"><u>Unveiling Streaming Screens Using Netflix's PIP Mode for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-vocal-ventures-merging-music-and-video-on-snapchat/"><u>[New] 2024 Approved Vocal Ventures Merging Music & Video on Snapchat</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-innovative-ways-to-log-ps3-competitive-sessions/"><u>[New] In 2024, Innovative Ways to Log PS3 Competitive Sessions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleashing-creativity-in-drone-video-post-production/"><u>[New] Unleashing Creativity in Drone Video Post-Production</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-kinemasters-secrets-to-smooth-transitions/"><u>2024 Approved Unlock Kinemaster's Secrets to Smooth Transitions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/adding-pictures-to-instagram-with-ease-for-2024/"><u>Adding Pictures to Instagram with Ease for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convert-hevc-files-to-mp4-for-free-step-by-step-tutorial-inside/"><u>Convert HEVC Files to MP4 for Free! Step-by-Step Tutorial Inside</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cutting-edge-vector-design-the-most-popular-apps-reviewed/"><u>Cutting-Edge Vector Design The Most Popular Apps Reviewed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlined-file-sharing-from-your-computer-to-iphone/"><u>In 2024, Streamlined File Sharing From Your Computer To iPhone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-evolved-2023-samsung-bd-j5900-a-deep-dive/"><u>In 2024, The Evolved 2023 Samsung BD-J5900 A Deep Dive</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-nokia-xr21-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Nokia XR21 Phone Pattern Lock</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-playlist-of-film-scores-and-tracks/"><u>In 2024, Ultimate Playlist of Film Scores & Tracks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/perfecting-your-youtube-videos-for-igtv-integration-for-2024/"><u>Perfecting Your Youtube Videos for IGTV Integration for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-samsungs-picture-editing-app-for-2024/"><u>The Ultimate Guide to Samsung's Picture Editing App for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-iphone-shot-potential-adopt-these-10-principles-for-2024/"><u>Unlocking iPhone Shot Potential Adopt These 10 Principles for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellar/"><u>スマートな画像修復ツールStellar インスタント購入</u></a></li>
 </ul></div>
 

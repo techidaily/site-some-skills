@@ -1,7 +1,7 @@
 ---
 title: "Evolving Screen Ratios: A Shift From Classic 4:3 Monitors to Modern 16:9 and Its Effects on Work Efficiency"
-date: 2025-02-10T21:02:53.076Z
-updated: 2025-02-16T18:06:00.110Z
+date: 2025-02-09T21:47:21.829Z
+updated: 2025-02-17T07:39:30.008Z
 tags:
   - web
 categories:
@@ -35,6 +35,10 @@ Santi S / Shutterstock.com
 
  However, computing habits started to change. People started to desire widescreen displays over square ones.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  The Move to 16:9 Monitors
 
  During the early 2000s, computers started to show significant advancements in their graphical capabilities. People began to want more from their PCs, primarily media consumption. [Windows Media Player](https://facebook-video-share.techidaily.com/updated-revolutionize-earning-with-youtube-short-tactics/) was already very popular. People used to watch movies and TV shows on their computers using attached [DVD drives](https://extra-support.techidaily.com/updated-premier-digital-discussion-director/).
@@ -50,6 +54,10 @@ Jerome Thomas / How-To Geek
  More powerful computers also meant you could run multiple apps together. A wider screen allowed for better multitasking, as you could now open and work with [multiple apps side by side](https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-magic-v2-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/).
 
  Granted, this shift didn't happen overnight—but by the 2010s, widescreens were the norm. You could (and still can) find a few manufacturers making 4:3 monitors for industrial and CCTV use. However, you'd be hard-pressed to find these in somebody's home or even in an office setup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  From 4:3 to 16:9 Monitors: How Did It Change Computing?
 
@@ -69,15 +77,15 @@ Jerome Thomas / How-To Geek
 
  So, as you can see, considering the same monitor size, a 4:3 monitor will give you more vertical screen real estate compared to a 16:9 alternative. This has had an effect on the placement of the taskbar, user interfaces in game design, and more.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Impact on the Placement of the Taskbar
 
  The taskbar is crucial in desktop computing. It shows all your running apps and lets you pin favorites for quick access. By default, it’s always placed at the bottom—the taskbar on Windows and the Dock on MacOS. But why?
 
 ![The default Windows 11 taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/52881834365_511de40661_o-3.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek  
   
@@ -90,10 +98,6 @@ Hannah Stryker / How-To Geek
 Hannah Stryker / How-To Geek  
   
  Ubuntu has done this. Their desktop experience puts the Ubuntu dock on the left side of the screen. I’d argue that this is the more logical UI choice, but because of familiarity and habit, we still have the bottom placement of the taskbar in popular operating systems.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Impact on Game Design
 
@@ -109,6 +113,10 @@ Hannah Stryker / How-To Geek
 
  This just goes to show some of the ways the UI of video games, and even the overall game design can be influenced by the output screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Ergonomic Considerations
 
  It might seem like I’m championing the boxy aspect ratios, but I do acknowledge their ergonomic shortcomings, especially when considering large-screen monitors. The human visual field is naturally wider than it is tall. We're built to [scan horizontally rather than vertically](https://www.researchgate.net/figure/The-FOV-of-human-eyes-is-approximately-135-vertically-and-200-horizontally%5Ffig3%5F263161973). This biological limitation makes widescreen monitors a natural and more ergonomic fit—we see more of what’s on-screen without moving our heads.
@@ -118,26 +126,18 @@ Hannah Stryker / How-To Geek
 ![Portrait Orientation of Samsung's Epic Odyssey Ark 55-inch Monitor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/76f86454.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _[Samsung](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fmonitors%2Fgaming%2F55-odyssey-ark-4k-uhd-165hz-1ms-quantum-mini-led-curved-gaming-screen-ls55bg970nnxgo%2F)_
 
  Of course, this doesn’t mean wider screens are automatically better ergonomically. The goal is to keep the screen in your field of view with limited neck movement. However, wider aspect ratios are better ergonomically with larger screens and the typically close viewing distance standard with PC monitors.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Future Monitors Are Getting Even Wider
 
  I already touched on how [ultrawide monitors](https://snapchat-videos.techidaily.com/in-2024-the-perfect-method-for-saving-camera-images-on-snapchat/) are becoming more common. I also have a 34-inch 21:9 ultrawide monitor. These monitors are great for three-window workflows, but things get a bit cramped when I open four windows. This is where [_super ultrawide monitors_](https://tech-savvy.techidaily.com/behind-the-scenes-operational-dynamics-of-predictive-ai/)with 32:9 aspect ratios come into the picture. While I personally switched to a [dual monitor workflow](https://extra-information.techidaily.com/selecting-superior-free-srt-translation-apps-today/), when I need four windows open side-by-side, I can see the charm of a super ultrawide monitor.
 
 ![HP E45c G5 Super Ultrawide monitor  against an orange background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/hp-e45c-g5.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 HP
 
@@ -160,20 +160,22 @@ HP
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-stream-control-showdown-is-obs-best-over-twitch-studio/"><u>[New] In 2024, Stream Control Showdown Is OBS Best over Twitch Studio?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-online-visionaries-subscriber-play-button-triumphs/"><u>[Updated] Online Visionaries Subscriber, Play Button Triumphs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-reducing-shakiness-on-your-gopro-movie/"><u>[Updated] The Ultimate Guide to Reducing Shakiness on Your GoPro Movie</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-roadmap-for-spotify-ad-mastery/"><u>[Updated] The Ultimate Roadmap for Spotify Ad Mastery</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-vlogging-battle-gopro-hero5-black-vs-sessions/"><u>[Updated] The Ultimate Vlogging Battle GoPro Hero5 Black VS Sessions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-secrets-buying-a-high-quality-360-camera-today/"><u>2024 Approved Unveiling the Secrets Buying a High-Quality 360 Camera Today</u></a></li>
-<li><a href="https://win-superb.techidaily.com/decoding-cryptocurrency-exchanges-with-yl-computing-and-yl-software-insights/"><u>Decoding Cryptocurrency Exchanges with YL Computing & YL Software Insights</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722979105503-founders-profiles-and-philosophies-driving-company-growth/"><u>Founders' Profiles and Philosophies Driving Company Growth.</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>How Do I Stop Someone From Tracking My Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-influence-of-immersive-technology/"><u>In 2024, The Influence of Immersive Technology</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-twitch-revival-tactics-for-forgotten-sessions/"><u>In 2024, Twitch Revival Tactics for Forgotten Sessions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-xiaomi-redmi-k70-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Xiaomi Redmi K70 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/superfast-windows-images-scaner-for-2024/"><u>Superfast Windows Images Scaner for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/viewing-the-dragons-discover-the-ideal-progression-of-how-to-train-your-dragon-films/"><u>Viewing the Dragons: Discover the Ideal Progression of How To Train Your Dragon Films</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-kinemaster-usage-and-top-alternative-platforms/"><u>[New] The Ultimate Guide to KineMaster Usage and Top Alternative Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-ios-tutorial-downloading-episodes-effortlessly/"><u>[New] Ultimate iOS Tutorial Downloading Episodes Effortlessly</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-essential-steps-in-logging-youtube-live-content-for-2024/"><u>[Updated] Essential Steps in Logging YouTube Live Content for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-examination-of-samsung-photo-editor-features/"><u>[Updated] The Ultimate Examination of Samsung Photo Editor Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-timelapse-with-iphone-a-step-by-step-guide/"><u>[Updated] Timelapse with iPhone A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-your-snaps-with-smart-zoom-usage-in-snapchat/"><u>[Updated] Transform Your Snaps with Smart Zoom Usage in Snapchat</u></a></li>
+<li><a href="https://techtrends.techidaily.com/demystifying-instagram-a-comprehensive-overview-for-beginners/"><u>Demystifying Instagram: A Comprehensive Overview for Beginners</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/effortless-creativity-syncing-photos-and-video-in-one-device/"><u>Effortless Creativity Syncing Photos & Video in One Device</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/cing-video-appeal-20-premium-thumbnail-fonts-for-2024/"><u>Enhancing Video Appeal 20 Premium Thumbnail Fonts for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-x9a-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor X9a Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-picsart-background-removal-tool-a-step-by-step-guide/"><u>In 2024, Picsart Background Removal Tool A Step-By-Step Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-fixing-rtmp-streams-in-premiere/"><u>In 2024, The Ultimate Guide to Fixing RTMP Streams in Premiere</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/master-the-art-of-livestreaming-tech-tips-for-iosandroid-users-for-2024/"><u>Master the Art of Livestreaming Tech Tips for iOS/Android Users for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/premier-zero-cost-facebook-videoimage-craftsman/"><u>Premier Zero-Cost Facebook Video/Image Craftsman</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/say-goodbye-to-germy-remotes-with-apple-airplay-now-available-in-premier-lodgings-master-your-hotel-stay-easily-zdnet/"><u>Say Goodbye to Germy Remotes with Apple AirPlay Now Available in Premier Lodgings - Master Your Hotel Stay Easily | ZDNET</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essence-of-color-in-photography-top-11-tutorials-for-2024/"><u>The Essence of Color in Photography (Top 11 Tutorials) for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unraveling-the-metaverse-an-analysis-of-6-complex-instances-for-2024/"><u>Unraveling the Metaverse An Analysis of 6 Complex Instances for 2024</u></a></li>
 </ul></div>
 

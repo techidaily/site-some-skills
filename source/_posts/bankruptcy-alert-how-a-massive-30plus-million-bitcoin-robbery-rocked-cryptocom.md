@@ -1,7 +1,7 @@
 ---
 title: "Bankruptcy Alert: How a Massive $30+ Million Bitcoin Robbery Rocked Crypto.com"
-date: 2025-02-15T02:26:52.887Z
-updated: 2025-02-16T16:02:48.078Z
+date: 2025-02-15T06:23:09.999Z
+updated: 2025-02-17T02:20:49.100Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 ## Bankruptcy Alert: How a Massive $30+ Million Bitcoin Robbery Rocked Crypto.com
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
  A considerable hack occurred on the popular [cryptocurrency exchange](https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-itel-p40plus-phones-by-drfone-android/) Crypto.com. The hack led to over $30 million in crypto being stolen in the form of 4,836.26 Ethereum and 443.93 bitcoin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Happened to Crypto.com?
@@ -43,7 +43,7 @@ Related: [What is Ethereum, and What Are Smart Contracts?](https://extra-informa
 > On Monday, 17 January 2022 at approximately 12:46 AM UTC Crypto.com's risk monitoring systems detected unauthorized activity on a small number of user accounts where transactions were being approved without the 2FA authentication control being inputted by the user. This triggered an immediate response from multiple teams to assess the impact. All withdrawals on the platform were suspended for the duration of the investigation. Any accounts found to be impacted were fully restored. Crypto.com revoked all customer 2FA tokens, and added additional security hardening measures, which required all customers to re-login and set up their 2FA token to ensure only authorized activity would occur. Downtime of the withdrawal infrastructure was approximately 14 hours, and withdrawals were resumed at 5:46 PM UTC, 18 January 2022.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Is Crypto.com Doing to Fix It?
@@ -75,22 +75,22 @@ Related: [Opera Just Launched a Crypto Browser for Some Reason](https://howto.te
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-apple-macbook-air-vs-macbook-pro-which-m1-laptop-is-better/"><u>[New] Apple MacBook Air Vs. MacBook Pro Which M1 Laptop Is Better?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-compilation-of-the-best-9-multi-platform-video-communication-devices-iosandroid-for-2024/"><u>[New] Compilation of The Best 9 Multi-Platform Video Communication Devices (iOS/Android) for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-essential-ps2-emulators-for-ios-devices/"><u>[New] In 2024, Essential PS2 Emulators for IOS Devices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-complete-guide-to-the-latest-in-lgs-ultra-clear-monitoring/"><u>[New] The Complete Guide to the Latest in LG’s Ultra-Clear Monitoring</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-d500-experience-achieving-excellence-with-4k-hd/"><u>[New] The D500 Experience Achieving Excellence with 4K HD</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-topline-numbers-pewdiepies-yearly-income/"><u>[New] Topline Numbers PewDiePie's Yearly Income</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-visual-narratives-that-speak-volumes-with-instagramcaptions/"><u>[New] Visual Narratives That Speak Volumes with #InstagramCaptions</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-sony-bdp-s6700-review-for-2024/"><u>[Updated] Sony BDP-S6700 Review for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tips-for-turning-off-automatic-podcast-adds-on-spotify/"><u>[Updated] Tips for Turning Off Automatic Podcast Adds on Spotify</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-potential-of-cds-a-wmp-masterclass/"><u>[Updated] Unlocking the Potential of Cds A WMP Masterclass</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-pop-7-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Pop 7 Pro Location Settings | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-tech-deals-at-temu-for-100-best-picks-and-reviews-compilation/"><u>Exploring Tech Deals at Temu for $100 – Best Picks & Reviews Compilation</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-quick-mac-mastering-screen-recording-via-shortcuts/"><u>In 2024, Quick Mac Mastering Screen Recording via Shortcuts</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-art-of-mixing-on-youtube-music/"><u>In 2024, The Art of Mixing on YouTube Music</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-straightening-correcting-fisheye-in-gopro-footage/"><u>In 2024, The Art of Straightening Correcting Fisheye in GoPro Footage</u></a></li>
-<li><a href="https://some-skills.techidaily.com/turn-popular-tiktok-tracks-into-practical-personalized-ringtones-for-2024/"><u>Turn Popular TikTok Tracks Into Practical, Personalized Ringtones for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unraveling-the-mystery-behind-apples-m1-chip-for-2024/"><u>Unraveling the Mystery Behind Apple's M1 Chip for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-speedy-viewing-manipulating-stories-frame-rate-on-instagram/"><u>[New] In 2024, Speedy Viewing Manipulating Stories' Frame Rate on Instagram</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-integrating-zoom-with-your-android-gadget/"><u>[New] Integrating Zoom with Your Android Gadget</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-online-seminar-creation-assistant/"><u>[New] Ultimate Online Seminar Creation Assistant</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-under-100-investments-in-action-cameras-top-selections/"><u>[New] Under $100 Investments in Action Cameras – Top Selections</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-full-degree-potential-editing-strategies-with-adobe-premiere/"><u>[New] Unlocking Full Degree Potential Editing Strategies with Adobe Premiere</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-whimsical-video-downloader-score-for-2024/"><u>[New] Whimsical Video Downloader Score for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-next-decades-digital-marketing-shifts-in-facebook-advertising/"><u>[Updated] 2024 Approved Next Decade's Digital Marketing Shifts in Facebook Advertising</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-strategy-for-organizing-a-zoom-event-on-your-phonetablet/"><u>2024 Approved The Ultimate Strategy for Organizing a Zoom Event on Your Phone/Tablet</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-hidden-potential-essential-edits-for-starters/"><u>2024 Approved Unlock Hidden Potential Essential Edits for Starters</u></a></li>
+<li><a href="https://article-helps.techidaily.com/arcane-acoustics-how-legit-is-the-vocal-transformation-application-look-elsewhere/"><u>Arcane Acoustics How Legit Is the Vocal Transformation Application? Look Elsewhere</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-iphone-hdr-photography-skills/"><u>In 2024, The Essential iPhone HDR Photography Skills</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/integrating-streamlabs-smoothly-with-obs-on-macbooks/"><u>Integrating Streamlabs Smoothly with OBS on MacBooks</u></a></li>
+<li><a href="https://facebook.techidaily.com/scrutinizing-your-social-media-supporters/"><u>Scrutinizing Your Social Media Supporters</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-acid-pro-effect-exploring-similar-tools/"><u>The ACID Pro Effect Exploring Similar Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/turbocharge-fb-video-speed-selective-extensions-and-apps-guidebook-for-2024/"><u>Turbocharge FB Video Speed Selective Extensions & Apps Guidebook for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unraveling-the-genius-behind-the-ring-video-doorbell-pros-innovative-design/"><u>Unraveling the Genius Behind the Ring Video Doorbell Pro's Innovative Design</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-frame-by-frame-top-10-tools-to-convert-videos-to-images-for-2024/"><u>Updated Frame by Frame Top 10 Tools to Convert Videos to Images for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Accessing Your Recent Copied Items in macOS"
-date: 2025-02-14T20:57:52.565Z
-updated: 2025-02-17T00:50:34.280Z
+date: 2025-02-12T02:39:51.724Z
+updated: 2025-02-17T05:55:06.770Z
 tags:
   - desktop
 categories:
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 
  If you do a lot of copying and pasting between documents on your Mac, you might find that only being able to work with one item at a time is a real limitation. Fortunately, there are apps you can use that let you access your entire clipboard history.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Access the Clipboard in Finder
 
  You can view the contents of your clipboard in macOS at any time. Just open the Finder using the icon in your Dock, or by clicking on your desktop, then go to Edit > Show Clipboard.
@@ -33,21 +29,29 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 
 ![The Finder clipboard view in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/the-finder-clipboard-view-in-macos.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The clipboard viewer is a [useful Finder feature](https://remote-screen-capture.techidaily.com/in-2024-low-cost-android-calls-highest-ranking-options/) that can be handy if you simply need to check what's on the clipboard right now, especially if you do a lot of [copying and pasting on your Mac](https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-itel-s23plus-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/). But it's pretty limited otherwise.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to See Your Mac Clipboard History
 
  If you want more control over the clipboard, and to be able to view and work with your clipboard history in particular, you need a third-party app. There are quite a few apps available that can do this, but we recommend two that offer different features depending on your needs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Maccy: A Lightweight, Free Clipboard Manager
 
  Maccy is a very simple and lightweight clipboard manager that's best used for copying and pasting text. You can get it for free from the app's [GitHub page](https://github.com/p0deje/Maccy), or if you want to support the developer, you can buy it through the [App Store](https://apps.apple.com/us/app/maccy/id1527619437) for $9.99 or choose your own price by downloading it from [maccy.app](https://maccy.app).
 
 ![The Maccy website homepage](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/the-maccy-home-page.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  By default, the app saves the last 200 items copied to your clipboard for easy access, and you adjust that up or down to suit your needs. It doesn't just handle text, but the minimalist interface means that that's what it's best suited for. You access the contents of your clipboard via a drop-down list on your menu bar.
 
@@ -59,11 +63,11 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 
 ![Selecting items from the clipboard history in Maccy.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/select-items-from-the-clipboard-history-in-maccy.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Maccy has a lot of extra options worth exploring in the Preferences, including some that are useful for privacy. For example, the "Ignore" tab lets you exclude certain apps from having their contents copied to the clipboard, and the "Advanced" tab has a "Clear history on quit" option that ensures nothing will remain on your clipboard for too long.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Pasty: A Premium Clipboard History Tool
 
@@ -72,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 ![Pasty interface visible at the top of a macOS desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/pasty-places-a-bar-across-the-top-of-your-screen-when-activated.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Pasty provides a straightforward onboarding process when you first launch it that helps to get the app set up as you need it.
@@ -88,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
  While everything you copy gets listed under History by default, you can create Spaces for projects you're working on, different types of content, and so on, to make them easier to find when you need them. You can create up to three Spaces in the free version (and an unlimited number if you pay), and then just drag and drop items from your clipboard into them.
 
 ![Assigning content from the clipboard into a Space on Pasty](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/drag-and-drop-into-spaces-in-pasty.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Pasty also has some useful privacy features, including the ability to pause the app for a set time, to exclude specific apps from having content copied to the clipboard, and to automatically clear the clipboard after anywhere from an hour to a year.
 
@@ -114,17 +114,19 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-transform-viewing-experience-adding-subtitles-on-windows-media-player/"><u>[New] Transform Viewing Experience Adding Subtitles on Windows Media Player</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-software-guide-for-video-game-shows/"><u>[New] Ultimate Software Guide for Video Game Shows</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-list-complimentary-3d-text-psds/"><u>[Updated] The Ultimate List Complimentary 3D Text PSDs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transforming-your-single-picture-into-video-magic-with-pixiz/"><u>[Updated] Transforming Your Single Picture Into Video Magic with Pixiz</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/webmogv-moveavey/"><u>無償でWebmへの変換が可能なオンラインOGVコンバータ: Moveaveyの使用ガイド</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/fix-apple-iphone-se-2022-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>Fix Apple iPhone SE (2022) Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-auditory-anchors-keeping-streamed-music-intact/"><u>In 2024, Auditory Anchors Keeping Streamed Music Intact</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Samsung Galaxy F04 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-photo-and-video-transfer-from-android/"><u>In 2024, Streamlining Photo & Video Transfer From Android</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-y100-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Y100 5G</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-tecno-spark-10-4g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Tecno Spark 10 4G Screen | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-enhancing-facebooks-instream-ad-reach-a-detailed-approach/"><u>[New] 2024 Approved Enhancing Facebook's Instream Ad Reach A Detailed Approach</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-ultimate-manual-for-minecraft-playbacks-on-mac/"><u>[New] In 2024, The Ultimate Manual for Minecraft Playbacks on Mac</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-10-strategies-for-captivating-close-up-cinematography/"><u>[New] Top 10 Strategies for Captivating Close-Up Cinematography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-iphone-shot-potential-adopt-these-10-principles/"><u>[New] Unlocking iPhone Shot Potential Adopt These 10 Principles</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-through-8-prime-free-srt-translation-options/"><u>[Updated] Navigating Through 8 Prime Free SRT Translation Options</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-psd-transparency-tricks/"><u>[Updated] Ultimate PSD Transparency Tricks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-checklist-for-selecting-prime-streaming-services-of-cricket/"><u>2024 Approved The Ultimate Checklist for Selecting Prime Streaming Services of Cricket</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-these-affordable-netflix-substitutes-all-free/"><u>Discover These Affordable Netflix Substitutes - All Free!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-altering-windows-lockscreen-timers/"><u>Guide to Altering Windows Lockscreen Timers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-huawei-nova-y71-by-drfone-android/"><u>How to Bypass FRP from Huawei Nova Y71?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-guide-to-ios-based-interview-and-journey-podcasts/"><u>In 2024, Ultimate Guide to iOS-Based Interview & Journey Podcasts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-address-pdhdll-absence-issues-on-windows/"><u>Step-by-Step Guide to Address pdh.dll Absence Issues on Windows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-subscriber-chatter-best-practices-for-comments-for-2024/"><u>The Art of Subscriber Chatter Best Practices for Comments for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/the-ultimate-guide-updating-and-optimizing-your-dell-webcams-driving-force/"><u>The Ultimate Guide: Updating and Optimizing Your Dell Webcam's Driving Force</u></a></li>
 </ul></div>
 

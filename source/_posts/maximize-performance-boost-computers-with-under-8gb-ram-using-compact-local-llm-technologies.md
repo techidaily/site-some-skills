@@ -1,7 +1,7 @@
 ---
 title: "Maximize Performance: Boost Computers with Under 8GB RAM Using Compact Local LLM Technologies"
-date: 2025-02-02T16:59:51.950Z
-updated: 2025-02-07T16:54:59.928Z
+date: 2025-02-10T23:01:46.090Z
+updated: 2025-02-17T00:26:05.121Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 ## Maximize Performance: Boost Computers with Under 8GB RAM Using Compact Local LLM Technologies
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
  Local AI chatbots, powered by large language models (LLMs), work only on your computer after correctly downloading and setting them up. They usually need a lot of computer memory (RAM) to work well. However, a few great models can perform on computers with as little as 4GB of RAM.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why Use Local LLM Chatbots?
@@ -54,12 +54,16 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 
 ![DistilBERT Homepage-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/distilbert-homepage-1.PNG) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [ALBERT](https://huggingface.co/docs/transformers/model%5Fdoc/albert)is designed differently than DistilBERT, as it works by sharing parts of the model in a way that helps it process data quickly without using much memory.
 
 ![Hugging Face ALBERT Homepage](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/hugging-face-albert-homepage.PNG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  I highly recommend starting as a beginner with DistilBERT and ALBERT, even if you have a high-memory PC. Beginning with these two models allowed me to learn the basics without being overwhelmed by the complexity of larger models.
@@ -77,11 +81,7 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 ![GPT-Neo 125 Model Repository](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/gpt-neo-125-source-code.PNG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Get Started with Local LLM Chatbots
@@ -115,22 +115,15 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-mastering-appearance-in-apples-audio-library-for-2024/"><u>[New] Mastering Appearance in Apple's Audio Library for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-perfecting-your-pics-with-facetune-a-full-guide/"><u>[New] Perfecting Your Pics with Facetune - A Full Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlock-creative-potential-with-xps-movie-creation-toolkit/"><u>[New] Unlock Creative Potential with XP’s Movie Creation Toolkit</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-fashion-filming-simplified-for-macos-users/"><u>[Updated] Fashion Filming Simplified for MacOS Users</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mirthmaker-join-and-start-your-humor-storytelling/"><u>[Updated] MirthMaker Join & Start Your Humor Storytelling</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-twitter-video-tools-effortless-video-uploading/"><u>[Updated] Top Twitter Video Tools Effortless Video Uploading</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleashing-potential-with-the-q500-drone/"><u>[Updated] Unleashing Potential with the Q500 Drone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-10-key-steps-for-optimal-stream-service-picks/"><u>2024 Approved The 10 Key Steps for Optimal Stream Service Picks</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-top-2-secrets-to-convert-instagram-videos-into-premium-mp4/"><u>2024 Approved Top 2 Secrets to Convert Instagram Videos Into Premium MP4</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-ranked-text-enhancers-for-after-effects/"><u>2024 Approved Top-Ranked Text Enhancers for After Effects</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-windows-10s-full-potential-with-zoom-services/"><u>2024 Approved Unveiling Windows 10'S Full Potential with Zoom Services</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/bringing-dimensions-to-life-the-1-list-of-pcs-top-vr-360-players/"><u>Bringing Dimensions to Life The #1 List of PC's Top VR 360 Players</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Realme GT 5 (240W)? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-sony-xperia-5-v-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Sony Xperia 5 V Phone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamlined-qanda-guide-for-attractive-podcasts/"><u>In 2024, Streamlined Q&A Guide for Attractive Podcasts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-cheat-sheet-for-identifying-and-fixing-all-blue-screen-errors/"><u>Ultimate Cheat Sheet for Identifying and Fixing All Blue Screen Errors</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-hidden-sights-in-google-meet-conferences-for-2024/"><u>Unveiling Hidden Sights in Google Meet Conferences for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-best-of-the-best-yts-premier-unboxing-sites/"><u>[New] The Best of the Best YT's Premier Unboxing Sites</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-unlocking-potential-the-best-non-vimeo-editors-listed-for-2024/"><u>[New] Unlocking Potential The Best Non-Vimeo Editors Listed for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-amp-up-your-audio-game-with-top-4-budget-convert-apps-for-2024/"><u>[Updated] Amp Up Your Audio Game with Top 4 Budget Convert Apps for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-4k-experience-deep-dive-into-samsungs-ue590/"><u>[Updated] The Ultimate 4K Experience - Deep Dive Into Samsung's UE590</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-scrutinizing-the-benefits-of-itops-screencasting/"><u>2024 Approved Scrutinizing the Benefits of ITop's Screencasting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-resource-compilation-for-media-imagery/"><u>2024 Approved Ultimate Resource Compilation for Media Imagery</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-future-of-marketing/"><u>2024 Approved Unveiling the Future of Marketing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-top-10-techniques-live-cricket-broadcasting/"><u>2024 Approved Unveiling Top 10 Techniques Live Cricket Broadcasting</u></a></li>
+<li><a href="https://apple-account.techidaily.com/conquering-empires-through-strategy-an-insightful-imperator-rome-review/"><u>Conquering Empires Through Strategy: An Insightful Imperator: Rome Review</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-auditory-illusions-video-meets-apple-music/"><u>In 2024, Auditory Illusions Video Meets Apple Music</u></a></li>
 </ul></div>
 

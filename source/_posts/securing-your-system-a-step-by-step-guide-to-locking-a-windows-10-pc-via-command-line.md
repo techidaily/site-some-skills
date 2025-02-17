@@ -1,7 +1,7 @@
 ---
 title: "Securing Your System: A Step-by-Step Guide to Locking a Windows 10 PC via Command Line"
-date: 2025-02-11T04:13:13.722Z
-updated: 2025-02-17T03:54:26.343Z
+date: 2025-02-13T21:20:14.632Z
+updated: 2025-02-17T00:47:18.487Z
 tags:
   - deals
 categories:
@@ -11,10 +11,18 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
 
 ## Securing Your System: A Step-by-Step Guide to Locking a Windows 10 PC via Command Line
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Lock Your Windows 10 PC Using Command Prompt](https://vp-tips.techidaily.com/new-audiovisual-adaptability-in-free-fire-for-2024/)
 * [Set the Lock Screen Timeout Setting Using Command Prompt](https://eaxpv-info.techidaily.com/new-finding-a-different-way-to-naming-your-channel-with-filmora-for-2024/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -25,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
  One of the first rules of cyber security is to always lock your PC before stepping away. While it may not be the quickest way to lock your Windows 10 PC, you can do it using the Command Prompt.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Lock Your Windows 10 PC Using Command Prompt
@@ -34,20 +42,20 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
 
 ![Click the Start button, search for 'cmd,' then open 'Command Prompt.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-cmd.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Command Prompt will now open. Here, run this command to lock your Windows 10 PC.
 
 Rundll32.exe user32.dll,LockWorkStation
 
 ![Locking your PC with Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-lock-pc-command-prompt.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once executed, your PC will be locked. You'll have to sign back in with your PIN, password, or whatever sign-in method you usually use.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Set the Lock Screen Timeout Setting Using Command Prompt
@@ -58,10 +66,6 @@ Rundll32.exe user32.dll,LockWorkStation
 
 ![Launching Command Prompt as admin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-launch-cmd.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  With Command Prompt open, run this command.
 
 powercfg.exe /SETACVALUEINDEX SCHEME_CURRENT SUB_VIDEO VIDEOCONLOCK <time>
@@ -71,10 +75,6 @@ powercfg.exe /SETACVALUEINDEX SCHEME_CURRENT SUB_VIDEO VIDEOCONLOCK <time>
 powercfg.exe /SETACVALUEINDEX SCHEME_CURRENT SUB_VIDEO VIDEOCONLOCK 120
 
 ![Change the timeout to 120.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-changing-timeout-to-120.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This command sets the lock screen timeout setting for your PC if it’s plugged in to a power source. To set the lock screen timeout setting for your PC if it’s running on battery, change`/SETACVALUEINDEX` to`/SETDCVALUEINDEX` and run the command as normal.
 
@@ -101,21 +101,22 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-screen-recorder-mac-with-audio/"><u>[New] 2024 Approved Screen Recorder Mac with Audio</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-cameraparticle-evaluation-for-2024/"><u>[New] CameraParticle Evaluation for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-heart-of-filmora-10-engaging-editing-capabilities/"><u>[New] The Heart of Filmora 10 Engaging Editing Capabilities</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-essential-tools-top-8-mirrorless-cams-for-professional-filmmakers-for-2024/"><u>[Updated] Essential Tools Top 8 Mirrorless Cams For Professional Filmmakers for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-advanced-screen-recording-techniques-for-enhanced-productivity-in-adobe-captive/"><u>[Updated] In 2024, Advanced Screen Recording Techniques for Enhanced Productivity in Adobe Captive</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-make-a-buzz-on-tiktok-thematic-templates-for-viral-video-creation/"><u>[Updated] Make a Buzz on TikTok Thematic Templates for Viral Video Creation</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-navigating-editor-options-filmora-or-democreator/"><u>[Updated] Navigating Editor Options Filmora or Democreator?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tailoring-humor-with-9gag-your-personal-meme-making-manual/"><u>2024 Approved Tailoring Humor with 9GAG Your Personal Meme Making Manual</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-techniques-for-ios-users-producing-and-transforming-tranquil-videos/"><u>2024 Approved Techniques for iOS Users Producing and Transforming Tranquil Videos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/globe-spin-technology-in-lenses-versus-depth-perception-tech/"><u>Globe-Spin Technology in Lenses versus Depth Perception Tech</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719580999287-heres-how-to-say-chocolate-in-34-different-languages/"><u>Here’s How to Say Chocolate in 34 Different Languages</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-superior-audio-modification-software-with-enchanting-features/"><u>In 2024, Superior Audio Modification Software with Enchanting Features</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-serenity-with-asmr-for-uninterrupted-slumber/"><u>In 2024, Unlock Serenity with ASMR for Uninterrupted Slumber</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tailoring-your-windows-photos-display-filters-and-audio-options-for-2024/"><u>Tailoring Your Windows Photos Display Filters & Audio Options for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-6-gopro-helmet-harnesses-tips-and-techniques-unveiled-for-2024/"><u>Top 6 GoPro Helmet Harnesses Tips and Techniques Unveiled for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transforme-dvd-em-formato-digital-com-facilidade-os-top-6-metodos-mais-eficientes-do-ano-2023/"><u>Transforme DVD Em Formato Digital Com Facilidade: Os Top 6 Métodos Mais Eficientes Do Ano 2023</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-pro-tips-to-amplify-your-canva-designs/"><u>[New] In 2024, Pro Tips to Amplify Your Canva Designs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-unlocking-user-preferences-with-instagrams-real-time-feedback/"><u>[Updated] 2024 Approved Unlocking User Preferences with Instagram's Real-Time Feedback</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-profit-strategies-for-beauty-streams/"><u>[Updated] In 2024, Profit Strategies for Beauty Streams</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-freedomframe-studios-the-future-of-free-game-snapshots/"><u>2024 Approved FreedomFrame Studios The Future of Free Game Snapshots</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-strategies-for-streaming-fb-live-on-zoom-platform/"><u>2024 Approved Strategies for Streaming FB Live on Zoom Platform</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-realme-c67-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-phenomenon-of-online-memes/"><u>Decoding the Phenomenon of Online Memes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-ultimate-intel-usb-30-driver-package-for-windows-10-systems/"><u>Free Download: Ultimate Intel USB 3.0 Driver Package for Windows 10 Systems</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-vivo-t2-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Vivo T2 5G Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Xiaomi Redmi 12? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-fresh-film-enthusiasts-primer-on-visual-quality/"><u>In 2024, The Fresh Film Enthusiast’s Primer on Visual Quality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-roadmap-to-instagram-star-status-9-must-do-tactics/"><u>In 2024, The Roadmap to Instagram Star Status 9 Must-Do Tactics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-full-potential-of-canvas-image-tools/"><u>In 2024, Unlocking the Full Potential of Canva's Image Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/strategies-and-techniques-in-documentary-scriptwriting-for-2024/"><u>Strategies and Techniques in Documentary Scriptwriting for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-compre-writters-manual-for-great-documentary-storytelling-for-2024/"><u>The Compre Writter's Manual for Great Documentary Storytelling for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-kinemaster-way-to-enthralling-transitions-for-2024/"><u>The Kinemaster Way to Enthralling Transitions for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-youtubes-hidden-gems-the-comment-space-for-2024/"><u>Unveiling YouTube's Hidden Gems The Comment Space for 2024</u></a></li>
 </ul></div>
 

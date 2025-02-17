@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Voice Capabilities: How Your iPhone Mirrors the Classic Macintosh"
-date: 2025-02-12T03:44:58.001Z
-updated: 2025-02-17T00:21:44.051Z
+date: 2025-02-13T19:45:20.451Z
+updated: 2025-02-16T22:44:24.312Z
 tags:
   - mobile
 categories:
@@ -24,7 +24,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
  The voices have also been used in some movies and TV shows over the years. Auto, the wheel-shaped automatic pilot from Pixar’s _WALL-E_, is [voiced by MacinTalk](https://www.youtube.com/watch?v=IJWc4PD317w) (either the Reed or Ralph voice, it’s hard to tell).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Try the Old Voices
@@ -34,7 +34,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 ![List of text-to-speech voices on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_8396.PNG) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The original Fred voice used in the Macintosh reveal event is still available, as well as Junior, Albert, Kathy, Bahh, Zarvox, Whisper, Jester, and others. A few are missing, including Rocko and Reed. Tap a voice to open its menu, where you can download the voice if it’s not already available.
@@ -44,7 +44,7 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 ![Typing a message for speech on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/img_deefe3a3587c-1.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Unfortunately, you can’t use any of the classic MacinTalk voices for Siri. You can also use them for the Spoken Content feature (also in the Accessibility settings), which adds a “Speak” button when you select text in most applications.
@@ -64,24 +64,22 @@ The original Macintosh computer from 1984 could speak text in several voices. Ma
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-elevate-your-visual-storytelling-with-top-montage-mobile-aids/"><u>[New] In 2024, Elevate Your Visual Storytelling with Top Montage Mobile Aids</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-laughlineart-memogallery/"><u>[New] LaughLineArt MemoGallery</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-summit-of-virtual-reality-resolution/"><u>[New] Summit of Virtual Reality Resolution</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-toolwiz-photos-app-complete-review/"><u>[New] Toolwiz Photos App – Complete Review</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-pro-video-setup-choose-from-our-list-of-best-5-webcams-and-mics/"><u>[Updated] Pro Video Setup Choose From Our List of Best 5 Webcams & Mics</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-superior-mkv-player-pcandroid-experience/"><u>[Updated] Superior MKV Player PC/Android Experience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-toontech-unveiled-2024-masterpiece/"><u>[Updated] ToonTech Unveiled 2024 Masterpiece</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tune-your-chat-status-tune-it-right/"><u>[Updated] Tune Your Chat Status, Tune It Right</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-optimal-frames-per-second-in-cinema-slow-mo/"><u>2024 Approved Understanding Optimal Frames Per Second in Cinema Slow-Mo</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/easy-customization-of-windows-eb-settings-tailoring-user-profiles-with-yl-computings-comprehensive-walkthrough/"><u>Easy Customization of Windows Eb Settings: Tailoring User Profiles with YL Computing's Comprehensive Walkthrough</u></a></li>
-<li><a href="https://extra-information.techidaily.com/free-red-eye-correction-for-iphone-users-tips-and-tricks/"><u>Free Red-Eye Correction for iPhone Users - Tips and Tricks</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-lava-blaze-curve-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Lava Blaze Curve 5G</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-guide-to-use-luts-in-premiere-pro/"><u>In 2024, Guide to Use LUTs in Premiere Pro</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-content-the-key-to-engaging-yt-shorts/"><u>In 2024, Mastering Content The Key to Engaging YT Shorts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-understanding-the-foundation-of-motion-visualization/"><u>In 2024, Understanding the Foundation of Motion Visualization</u></a></li>
-<li><a href="https://win11.techidaily.com/nearby-share-guide-for-dual-os-connectivity/"><u>Nearby Share Guide for Dual OS Connectivity</u></a></li>
-<li><a href="https://blog-min.techidaily.com/update-alert-meta-discontinues-support-for-oculus-quest-1-vr-device/"><u>Update Alert: Meta Discontinues Support for Oculus Quest 1 VR Device</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-the-ultimate-list-of-10-free-video-hosting-sites-for-online-success-for-2024/"><u>Updated The Ultimate List of 10 Free Video Hosting Sites for Online Success for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Realme 11X 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-imprint-entire-online-viewport/"><u>[New] 2024 Approved Imprint Entire Online Viewport</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-growth-medical-ad-tricks-on-social-media/"><u>[New] Unlocking Growth Medical Ad Tricks on Social Media</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-power-of-free-countdown-tools-for-time-management/"><u>[New] Unveiling the Power of Free Countdown Tools for Time Management</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-mastering-camera-balance-gimbals-for-drones-explained/"><u>[Updated] Mastering Camera Balance Gimbals for Drones Explained</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-impact-of-photoshops-stabilization-on-quality-control/"><u>[Updated] The Impact of Photoshop's Stabilization on Quality Control</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-insiders-handbook-to-crafting-shareable-meme-gifs/"><u>[Updated] The Insider's Handbook to Crafting Shareable Meme GIFs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-hdr-monitor-in-depth-samsung-ue590-analysis/"><u>[Updated] The Ultimate HDR Monitor - In-Depth Samsung UE590 Analysis</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-vegas-pro-2021-unpacked-game-changer-or-just-another-tool/"><u>[Updated] Vegas Pro 2021 Unpacked Game Changer or Just Another Tool?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-honor-90-lite-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Honor 90 Lite to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/deciphering-blizzards-battlenet-interruptions-network-downtime-vs-user-specific-problems/"><u>Deciphering Blizzard's Battle.net Interruptions: Network Downtime vs User-Specific Problems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/engaging-spectacle-top-6-video-strategies-that-work/"><u>Engaging Spectacle Top 6 Video Strategies That Work</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-analysis-is-the-google-pixel-4a-the-ideal-budget-friendly-phone/"><u>Expert Analysis: Is the Google Pixel 4a the Ideal Budget-Friendly Phone?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-how-to-stop-everscape-ii-from-crashing-on-your-windows-computer/"><u>Fixes & Solutions: How to Stop Everscape II From Crashing on Your Windows Computer</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-curating-striking-instagram-profile-photos/"><u>In 2024, Curating Striking Instagram Profile Photos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-simple-art-of-capturing-breathtaking-slow-motion-shots-with-android-for-2024/"><u>The Simple Art of Capturing Breathtaking Slow-Motion Shots with Android for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-5-android-photo-fixers-for-2024/"><u>Ultimate 5 Android Photo Fixers for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-enhanced-slideshow-mastery-with-youtube-for-2024/"><u>Video-Enhanced Slideshow Mastery with YouTube for 2024</u></a></li>
 </ul></div>
 

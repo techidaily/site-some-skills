@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Launching Google Chrome via Command Line in Windows 11"
-date: 2025-02-13T00:12:30.063Z
-updated: 2025-02-16T18:22:56.743Z
+date: 2025-02-15T23:22:33.006Z
+updated: 2025-02-17T00:24:27.460Z
 tags:
   - deals
 categories:
@@ -24,25 +24,21 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
 
  You can do almost anything from the Command Prompt on Windows 10—even open the [Google Chrome web browser](https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/). You can also open Chrome in incognito mode or jump straight to a website. Here's how it's done.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Open Chrome Using Command Prompt
 
  First, [open the Command Prompt](https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a78-frp-by-drfone-android/) by typing "command" in the Windows 10 search bar and then selecting "Command Prompt" from the search results.
 
 ![Launching the Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/0.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In Command Prompt, run the following command:
 
         `start chrome`
     
 ![The "start chrome" command in a Command Prompt window open in Terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-21.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Chrome will now open. You can also do the same thing from the "Run" window.
 
@@ -57,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
  The web browser will now open.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Open Chrome as Administrator
@@ -72,6 +68,10 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
  You'll now be running Chrome as an administrator.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Open Chrome in Incognito Mode
 
  To [open Chrome in incognito mode](https://visual-screen-recording.techidaily.com/new-pinnacle-5-frame-timelapse-recorder-for-2024/) from the Command Prompt, run the following command:
@@ -80,6 +80,10 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 ![Start Google Chrome with the /incognito flag.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-opening-chrome-in-incognito-mode.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To do this from the Run program, enter this command instead:
 
 `chrome /incognito` 
@@ -87,14 +91,10 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 ![Starting Chrome in incognito mode from a Run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-chrome-incognito-run-window.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Chrome will now open in incognito mode.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Open Chrome Straight to a Specific Website
 
@@ -114,15 +114,15 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 ![Combining incognito with a specific website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/8-incog-specific-site.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can achieve the same goal using Run by using this command:
 
 `chrome www.howtogeek.com` 
 
 ![Opening Chrome to a specific website using a Run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/9-run-howtogeek.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or, to open the site in incognito mode, use:
 
@@ -147,21 +147,24 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/hannel-visuals-hub-icon-and-banner-crafting-tips/"><u>[New] Channel Visuals Hub Icon & Banner Crafting Tips</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-optimized-titling-techniques-for-youtube-success/"><u>[New] Optimized Titling Techniques for YouTube Success</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/caling-youtube-influence-a-comprerancial-guide-to-creator-studios-potential/"><u>[New] Scaling YouTube Influence A Comprerancial Guide to Creator Studio's Potential</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-skyline-scenery-mastering-mobile-panoramas-for-2024/"><u>[New] Skyline Scenery Mastering Mobile Panoramas for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-slomo-recording-tool-assessment-guide/"><u>[New] The Ultimate SloMo Recording Tool Assessment Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tips-labeling-footage-with-text-via-photos-app-win-11/"><u>[Updated] Tips Labeling Footage with Text via Photos App (Win 11)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-guide-to-macro-videography-techniques/"><u>[Updated] Ultimate Guide to Macro Videography Techniques</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-preserve-your-legacy-transforming-older-images-into-modern-videos/"><u>2024 Approved Preserve Your Legacy Transforming Older Images Into Modern Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-the-power-of-design-in-audio-branding/"><u>2024 Approved Unlock the Power of Design in Audio Branding</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-x-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone X with a Broken Screen? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gopro-hero4-vs-drift-ghost-ultimate-performance-showdown-for-2024/"><u>GoPro Hero4 Vs. Drift Ghost - Ultimate Performance Showdown for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-30plus-list-of-expertly-curated-cost-free-vfx-tools-for-creatives/"><u>In 2024, The Ultimate 30+ List of Expertly Curated, Cost-Free VFX Tools for Creatives</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-strategies-for-adjusting-song-speed-on-spotify/"><u>In 2024, Top Strategies for Adjusting Song Speed on Spotify</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-downloading-films-with-einthusan/"><u>Step-by-Step Guide: Downloading Films with Einthusan</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-collection-top-free-ae-template-packs-for-2024/"><u>Ultimate Collection Top Free AE Template Packs for 2024</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/ultimate-guide-adding-subtitles-and-audio-tracks-to-your-dvds-with-ease/"><u>Ultimate Guide: Adding Subtitles & Audio Tracks to Your DVDs with Ease</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-beat-weavers-treasury-high-res-dj-visual-samples/"><u>[New] In 2024, The Beat Weaver's Treasury High-Res DJ Visual Samples</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-to-show-or-not-to-display-off-facebook-activities/"><u>[New] To Show or Not to Display Off-Facebook Activities</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-hd-cameras-for-elk-and-mule-deer/"><u>[Updated] Top HD Cameras for Elk and Mule Deer</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-navigating-the-maximum-duration-limit-for-instagram-videos/"><u>2024 Approved Navigating the Maximum Duration Limit for Instagram Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamlined-process-for-avi-transformations-into-web-friendly-gif-using-filmora/"><u>2024 Approved Streamlined Process for AVI Transformations Into Web-Friendly GIF Using Filmora</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-fresh-lg-bp550-update/"><u>2024 Approved Unveiling the Fresh LG BP550 Update</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-realme-12plus-5g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Realme 12+ 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-ipad-pro-mini-129-inch-m4-and-macbook-air-with-apple-silicon-m1-features-and-performance/"><u>Comparing iPad Pro Mini (12.9-Inch) M4 and MacBook Air with Apple Silicon M1: Features & Performance</u></a></li>
+<li><a href="https://win-special.techidaily.com/download-radio-bremen-content-audio-and-video-in-multiple-formats-including-mp4-mov-and-more/"><u>Download Radio Bremen Content - Audio & Video in Multiple Formats Including MP4, MOV and More</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-14-plus-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone 14 Plus to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-boost-your-search-rankings-expert-reviews-on-7-cost-effective-video-tags-extractors/"><u>In 2024, Boost Your Search Rankings Expert Reviews on 7 Cost-Effective Video Tags Extractors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-textual-tricks-for-tickling-funny-bones/"><u>In 2024, Textual Tricks for Tickling Funny Bones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-iphone-photography-top-10-visual-arrangement-tips/"><u>In 2024, The Art of iPhone Photography Top 10 Visual Arrangement Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-5-pro-drone-selections-for-professionals/"><u>In 2024, Top 5 Pro Drone Selections for Professionals</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-undetectable-volume-variations-in-garageband-artistry/"><u>In 2024, Undetectable Volume Variations in Garageband Artistry</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-hidden-facebook-data-and-protecting-yourself-online/"><u>In 2024, Unveiling Hidden Facebook Data & Protecting Yourself Online</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-tracking-down-and-fixing-critical-system-errors-in-windows-11/"><u>Resolved: Tracking Down and Fixing Critical System Errors in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016078711-solution-found-razor-kraken-headset-mic-wont-work-heres-why-and-how-to-fix-it/"><u>Solution Found: Razor Kraken Headset Mic Won't Work - Here's Why and How to Fix It!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-trailer-highlight-hodgepodge-for-2024/"><u>Ultimate Trailer Highlight Hodgepodge for 2024</u></a></li>
 </ul></div>
 

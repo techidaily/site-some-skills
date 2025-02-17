@@ -1,7 +1,7 @@
 ---
 title: 1. Crafting Steadfast Character Personalities in Your Story Using the MidJourney Method
-date: 2025-02-11T06:25:18.788Z
-updated: 2025-02-16T21:16:18.075Z
+date: 2025-02-09T19:52:52.954Z
+updated: 2025-02-16T18:56:58.266Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## 1. Crafting Steadfast Character Personalities in Your Story Using the MidJourney Method
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -24,6 +28,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  In [Midjourney](https://buynow-tips.techidaily.com/review-of-audews-portable-air-compressor-unmatched-portability-and-dependability/) terms, a consistent character is a humanoid subject in an existing image that the AI can extract and recreate in a new image. So, for example, if you've created a character, or there's a character in an image that you like, you can tell Midjourney to extract it and reuse it.
 
  It's important to understand that Midjourney is basically using AI image recognition methods on the image that you provide. So, in other words, it's not like it's cutting and pasting the character, but rather it's converting it to a sophisticated set of attributes that make up that character. This means that, in many cases, the extracted character won't look exactly like the source, but we'll get to how you can mitigate that in just a minute. First, let's look at "cref" or "character reference", the command that makes all of this possible.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Use the "cref" Command
 
@@ -40,22 +48,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Saving an image link from the Discord bot interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/saving-an-image-link-from-the-discord-bot-interface.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you're using the new [Midjourney Alpha web interface](https://vp-tips.techidaily.com/new-2024-approved-heaviest-lifting-uavs-the-definitive-top-10/), simply click the little picture icon to the left of the prompt bar. Then upload the image of your choice. Once you have it uploaded, right-click on it and copy the link. Then you can use the --cref command as you do in Discord.
 
 ![Saving an image link in the Midjourney web interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-30-at-14-10-50.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's really all there is to it, so next let's run through it step-by-step.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Let’s Make a Character Step-by-Step
@@ -67,10 +71,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 /imagine an anime style female elf character with blond hair and green eyes in a blue uniform
 
 ![Examples of an anime elf generated by Midjourney.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/examples-of-an-anime-elf-generated-by-midjourney.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Next, I pick the one I like the most using the upscale buttons. In this case, I clicked "U1" to upscale the upper-left image.
 
@@ -86,7 +86,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![New characters based on an existing character using the CREF command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-characters-based-on-an-existing-character-using-the-cref-command.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Tips and Tricks
@@ -114,24 +114,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-detailed-steps-to-record-hulu-on-every-os-and-device-type/"><u>[New] 2024 Approved Detailed Steps to Record Hulu on Every OS and Device Type</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ssential-techniques-for-designing-youtube-video-thumbnails/"><u>[New] Essential Techniques for Designing YouTube Video Thumbnails</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-the-best-10-elements-that-enthrall-filmora-users/"><u>[New] The Best 10 Elements That Enthrall Filmora Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-core-upgrades-of-windows-11/"><u>[New] The Core Upgrades of Windows 11</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-top-5-techniques-for-storing-lol-battles/"><u>[Updated] 2024 Approved Top 5 Techniques for Storing LOL Battles</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-a-guide-to-fine-tuning-your-google-meet-experience-for-2024/"><u>[Updated] A Guide to Fine-Tuning Your Google Meet Experience for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-from-archive-to-annotation-turning-zip-into-srt/"><u>[Updated] From Archive to Annotation Turning ZIP Into SRT</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-snap-your-next-podcast-pick-for-sharing/"><u>[Updated] Snap Your Next Podcast Pick for Sharing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ten-strategies-for-controlling-a-twitch-broadcast/"><u>[Updated] Ten Strategies for Controlling a Twitch Broadcast</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-freely-flowing-world-of-historical-works/"><u>[Updated] The Freely Flowing World of Historical Works</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-interface-interlink-bridging-ig-and-tiktok-worlds/"><u>[Updated] The Interface Interlink Bridging IG & TikTok Worlds</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-the-ultimate-insight-into-the-asus-proart-pa-329q-professional-monitor-for-2024/"><u>[Updated] The Ultimate Insight Into the Asus ProArt PA 329Q Professional Monitor for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-brainiac-challenge-gk-quizzes/"><u>[Updated] Ultimate Brainiac Challenge - GK Quizzes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tapping-into-creative-potential-with-luts-in-premiere-pro/"><u>2024 Approved Tapping Into Creative Potential with LUTs in Premiere Pro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-youtubes-hidden-gems-the-comment-space/"><u>2024 Approved Unveiling YouTube's Hidden Gems The Comment Space</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-samsung-galaxy-f54-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Samsung Galaxy F54 5G Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-sites-for-fetching-got-ringtone-downloads/"><u>In 2024, Top Sites for Fetching GoT Ringtone Downloads</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-process-of-selecting-the-right-smart-tv/"><u>The Process of Selecting the Right Smart TV</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-10-mobile-vr-headsets-for-2024/"><u>Top 10 Mobile VR Headsets for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-prime-ringtone-retailers-for-game-of-thrones-fans/"><u>[New] Prime Ringtone Retailers for Game of Thrones Fans</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-professional-gopro-filming/"><u>[New] The Ultimate Guide to Professional GoPro Filming</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unmatched-4k-hdtvs-for-intense-gaming/"><u>[New] Unmatched 4K HDTVs for Intense Gaming</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/outubes-profit-distribution-to-content-makers/"><u>[New] YouTube's Profit Distribution to Content Makers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-boosting-visual-clarity-comprehensive-strategies-for-zooming-photos-and-videos-for-2024/"><u>[Updated] Boosting Visual Clarity Comprehensive Strategies for Zooming Photos & Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-dynamic-image-backdrops-viewer/"><u>[Updated] Top 10 Dynamic Image Backdrops Viewer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-5-revelations-for-novice-advertisers-to-master-promotion/"><u>[Updated] Top 5 Revelations for Novice Advertisers to Master Promotion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-true-to-life-shade-tweaker/"><u>[Updated] True-to-Life Shade Tweaker</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-adding-soundtracks-to-your-inshot-projects/"><u>2024 Approved Adding Soundtracks to Your InShot Projects</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-upgrading-simplified-navigating-macos-11-big-surs-changes/"><u>2024 Approved Upgrading Simplified Navigating macOS 11 Big Sur's Changes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-glitches-and-sound-issues-in-windows-10-and-7-solutions-proven-effective/"><u>How to Fix Audio Glitches and Sound Issues in Windows 10 & 7 - Solutions Proven Effective</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210055112-9781952244933-i-will-not-be-silent/"><u>I Will Not Be Silent | Free Book</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/losung-fur-hp-laptop-bildschirmergluhen-unter-windows-11/"><u>Lösung Für HP Laptop Bildschirmerglühen Unter Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-freevista-landing-on-exquisite-costless-tiktok-screenshots-for-2024/"><u>The FREEvista Landing on Exquisite, Costless TikTok Screenshots for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-free-video-tools-cross-platform-os-support-for-2024/"><u>Top 10 Free Video Tools Cross-Platform OS Support for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/unmatched-choice-our-top-8-no-cost-high-quality-video-software/"><u>Unmatched Choice Our Top 8 No-Cost, High-Quality Video Software</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Transitioning to Augmented Reality: My Journey Swapping a Standard Monitor for AR Glasses"
-date: 2025-02-04T20:28:28.302Z
-updated: 2025-02-07T19:32:38.397Z
+date: 2025-02-13T04:08:21.052Z
+updated: 2025-02-16T23:16:42.642Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 ## Transitioning to Augmented Reality: My Journey Swapping a Standard Monitor for AR Glasses
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 * Boosts productivity with a spacious desk, encourages a better work environment.
 
  I have what could politely be called an unconventional work setup. Instead of a PC, I use Samsung DeX. I do much of my work from the inside screen on my Samsung Galaxy Z Fold 5, and I connect to a larger screen when I need more space. When I saw the XReal Air 2 Pro glasses work seamlessly with DeX, I figured I was the ideal candidate to give it a try. So I bought a pair, and here's what I've experienced.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  My Eyes Adjusted Quicker Than I Expected
 
@@ -37,15 +33,15 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
 Bertel King / How-To Geek
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  I Sit With Better Posture
 
  The biggest impact has been the benefit to my posture. I've spent most of my career hunched over a laptop. I ended my days feeling drained, not aware that the angle of my neck had as much to do with that as the strain on my eyes. I was making one of the [posture mistakes you want to avoid](https://fox-cloud.techidaily.com/new-composing-an-alluring-cinematic-teaser-track/) when sitting at a desk. If you work from home, it's worth getting a computer monitor with a height set at eye level.
 
  With AR glasses, my display is always at eye level. This means I can rest my neck in a natural position. I can also stretch or look side to side without actually turning away from whatever I'm reading. This allows me to move a bit more throughout the day without shifting my focus away from what I'm working on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  My Desk Has More Space
 
@@ -56,7 +52,7 @@ Bertel King / How-To Geek
 ![A desk without a monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/1000061003.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Bertel King / How-To Geek
@@ -71,13 +67,13 @@ Bertel King / How-To Geek
 
 ![A Samsung Galaxy Z Fold 5, XREAL Air 2 Pro AR Glasses, and glasses case.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/1000061021.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Bertel King / How-To Geek
 
  To play games, I also grab a controller. For work, I also pack a keyboard and mouse. None of these things are particularly big. The keyboard is the only one I don't bring with me when packing up a laptop.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Awkward Social Interactions
 
@@ -92,6 +88,10 @@ Bertel King / How-To Geek
  My kids are still learning that when I'm in the home office, I'm working, and that means they really shouldn't barge in and ask me questions. Often enough, they come through the door every few minutes, causing me to look away from what I'm doing. Someone's often crying and needs a hug.
 
  With the glasses on, I can look at my toddler while she rambles and give her a hug. I can keep my eyes focused on whatever Slack conversation I was in the middle of following or continue watching the clip that I was considering inserting into an article. It feels wrong, not giving them my undivided attention. At the same time, I need to work and they're not letting me. The fact that the glasses help me turn toward them more quickly probably makes them feel like I'm giving them more attention, even if my attention is split. Is that better or worse? I don't know, but at least they get the hug.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Your Own Portable, Private Home Theater
 
@@ -126,24 +126,16 @@ Bertel King / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-gently-reducing-volume-level-in-fl-beats-for-2024/"><u>[New] Gently Reducing Volume Level in FL Beats for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-first-step-in-vlogging-tools-you-need/"><u>[New] The First Step in Vlogging Tools You Need</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-instructors-blueprint-for-video-assisted-learning/"><u>[New] The Instructor's Blueprint for Video-Assisted Learning</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-crafting-compelling-video-narratives-using-captivate/"><u>[Updated] 2024 Approved Crafting Compelling Video Narratives Using Captivate</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-best-video-titling-solutions-online-now-for-2024/"><u>[Updated] Best Video Titling Solutions Online Now for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-ultimate-guide-undoing-your-yt-playback-sequence/"><u>[Updated] In 2024, The Ultimate Guide Undoing Your YT Playback Sequence</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-navigate-the-tiktok-twitter-connection-for-2024/"><u>[Updated] Navigate the TikTok-Twitter Connection for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-strategies-for-swiftly-locating-forgotten-reddit-threads/"><u>[Updated] Strategies for Swiftly Locating Forgotten Reddit Threads</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-magix-mixcrafts-features/"><u>[Updated] The Ultimate Guide to Magix Mixcraft's Features</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unearthing-the-best-free-mac-apps-for-speech-to-text/"><u>[Updated] Unearthing the Best Free Mac Apps for Speech to Text</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlock-the-power-of-montage-in-digital-media/"><u>[Updated] Unlock the Power of Montage in Digital Media</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-strategies-for-securing-youtubers-as-sponsors/"><u>2024 Approved Strategies for Securing YouTubers as Sponsors</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-gif-odyssey-navigating-the-most-effective-9-tools-of-memetic-crafting/"><u>2024 Approved The GIF Odyssey Navigating the Most Effective 9 Tools of Memetic Crafting</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-power-of-language-20-words-and-phrases-that-transform-your-marketing/"><u>2024 Approved The Power of Language 20 Words and Phrases That Transform Your Marketing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-top-4-new-ipados-18-updates-unveiled-at-apples-wwdc-2024-compatibility-breakdown-for-various-ipad-models/"><u>Discover the Top 4 New iPadOS 18 Updates Unveiled at Apple's WWDC 2024: Compatibility Breakdown for Various iPad Models</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/easy-guide-finding-and-installing-right-device-drivers-for-your-computer-expert-tips-from-yl-computing/"><u>Easy Guide: Finding & Installing Right Device Drivers for Your Computer - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-sony-xperia-1-v-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Sony Xperia 1 V</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ipad-pro-or-macbook-air-top-picks-compared-to-find-your-ideal-device-today/"><u>IPad Pro or MacBook Air – Top Picks Compared to Find Your Ideal Device Today</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-seamless-transitions-the-art-of-color-matching-in-powerdirector/"><u>Updated In 2024, Seamless Transitions The Art of Color Matching in PowerDirector</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/trategies-for-captivating-end-moments/"><u>[New] Strategies for Captivating End Moments</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-whatsapps-sound-conversations/"><u>[New] Understanding WhatsApp's Sound Conversations</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-boosting-earnings-in-the-quick-flicks-of-youtube-shorts-for-2024/"><u>[Updated] Boosting Earnings in the Quick Flicks of YouTube Shorts for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlining-audacity-for-superior-audio-capture/"><u>[Updated] Streamlining Audacity for Superior Audio Capture</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tactics-for-triumphing-in-virtual-marketplaces/"><u>[Updated] Tactics for Triumphing in Virtual Marketplaces</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-techniques-to-transform-text-into-a-3d-entity/"><u>2024 Approved Techniques to Transform Text Into a 3D Entity</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-realme-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Realme Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-androids-best-top-8-gratuitous-capture-tools/"><u>In 2024, Android's Best Top 8 Gratuitous Capture Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tag-with-your-favorite-show-podcast-on-ig-for-2024/"><u>Tag with Your Favorite Show Podcast on IG for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-windows-11-how-to-restore-your-search-functionality/"><u>Troubleshooting Windows 11: How to Restore Your Search Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlocking-fixes-for-livekernelevent-error-number-117-step-by-step-tutorial/"><u>Unlocking Fixes for LiveKernelEvent Error Number 117 – Step-by-Step Tutorial</u></a></li>
 </ul></div>
 

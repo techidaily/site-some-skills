@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting and Repairing Ethernet Issues in Windows 11: A Comprehensive Guide"
-date: 2025-02-16T00:24:53.291Z
-updated: 2025-02-16T20:43:24.237Z
+date: 2025-02-13T17:43:54.678Z
+updated: 2025-02-17T06:22:42.575Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/77e8784ddc309f16b18e178f4d3e63a6403d2aa17
 ---
 
 ## Troubleshooting and Repairing Ethernet Issues in Windows 11: A Comprehensive Guide
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -43,9 +39,17 @@ thumbnail: https://thmb.techidaily.com/77e8784ddc309f16b18e178f4d3e63a6403d2aa17
 
 ![Opening other troubleshooters settings on windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-opening-other-troubleshooters-settings-on-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, click the "Run" button next to Network and Internet. Follow the on-screen instructions in the Get Help app to identify and fix the problem.
 
 ![Running the network and internet troubleshooter in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/run-option.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Preliminary Checks
 
@@ -53,17 +57,9 @@ thumbnail: https://thmb.techidaily.com/77e8784ddc309f16b18e178f4d3e63a6403d2aa17
 
 ![Turning off the flight mode on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-turning-off-the-flight-mode-on-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Next, ensure your Ethernet cable is correctly plugged in. Also, confirm that the cable is connected to the correct port on your router. You can also try unplugging and re-plugging the Ethernet cable at both ends (router and PC) to see if it makes a difference. Also, if you have a VPN connection enabled on your device, turn it off.
 
  If these basic troubleshooting steps do not resolve the issue, you can apply the remaining solutions listed below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Check if the Internet Is Working
 
@@ -81,19 +77,23 @@ Hannah Stryker / How-To Geek
 
  If the connection works on the other device, it suggests that the problem may be with your device settings. In this case, you can proceed directly to the device-specific fixes outlined in the last three headings. However, if the connection does not work on the other device, ensure the problem isn't with the Ethernet cable, port, or router.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Ensure the Ethernet Cable or Port Isn't Faulty
 
  Start troubleshooting the Ethernet connection issue by carefully inspecting the Ethernet cable. Examine the cable thoroughly from end to end to ensure it's not damaged. Besides obvious breaks in the wire, you should keep an eye out for very sharp bends, subtle slices, or tears in the exterior sheathing—any of those could result in a nonfunctional Ethernet cable. Also, check both ends of the cable to ensure the connectors are in good condition and that their internal wires are properly seated and not falling out.
 
  If the Ethernet cable and its connectors are in good condition, check the ports where the cable is plugged into your router or PC for any obvious signs of damage. Connect the cable to a different port on your PC (if one is available) to confirm whether the PC port is working properly. Then, try plugging the cable to a different port on your router. If changing the ports does not resolve the issue, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Rule Out Issues With Your Router
 
 ![The back of a TP-Link Archer C6 router.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/img20240122150429.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ismar Hrnjicevic / How-To Geek
 
@@ -110,11 +110,11 @@ Ismar Hrnjicevic / How-To Geek
 ![Enabling the disabled ethernet connection adapter in device manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/enabling-the-disabled-ethernet-connection-adapter-in-device-manager.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Update or Reinstall Ethernet Adapter Drivers
@@ -126,7 +126,7 @@ Ismar Hrnjicevic / How-To Geek
 ![Updating the ethernet driver in Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/updating-the-ethernet-driver-in-device-manager.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Select "Browse My Computer for Drivers," then select the downloaded driver file from the Downloads folder and let Windows update it.
@@ -139,15 +139,15 @@ Ismar Hrnjicevic / How-To Geek
 
  Then, follow the previous instructions to reinstall it manually.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Disable Proxy Server Over LAN
 
  Using a proxy server over a LAN might be the cause of the issue at hand. If you're using a proxy server, you should turn it off. Type "Internet Options" in the Windows Search bar and open it.
 
 ![Opening the 'Internet Options' Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/1-opening-the-internet-options-settings.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then, move to the "Connections" tab and click the "LAN Settings" button. If the box beside"Use a Proxy Server for Your LAN" is checked, uncheck it to turn off the proxy server. Click "Apply" and hit "OK."
 
@@ -172,17 +172,14 @@ Ismar Hrnjicevic / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-secrets-of-seamless-zoom-communication-hacks-for-productive-remote-engagement/"><u>[New] 2024 Approved The Secrets of Seamless ZOOM Communication Hacks for Productive Remote Engagement</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-essential-guide-to-video-spinning-in-vlc-media-player/"><u>[New] In 2024, The Essential Guide to Video Spinning in VLC Media Player</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-venture-into-virtual-laughs-top-20plus-funny-metaverse-creations/"><u>2024 Approved Venture Into Virtual Laughs Top 20+ Funny Metaverse Creations</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-drives-type-recognition-for-your-pc/"><u>Decoding Drives: Type Recognition for Your PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/guide-to-erasing-ps5-user-credentials/"><u>Guide to Erasing PS5 User Credentials</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-global-giga-viewers-worlds-favorite-youtube-stars/"><u>In 2024, Global Giga-Viewers World's Favorite YouTube Stars</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-how-to-choose-the-background-music-for-the-trailer/"><u>In 2024, How to Choose the Background Music for the Trailer</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tips-and-tricks-for-iphone-audio-enthusiasts/"><u>In 2024, Tips and Tricks for iPhone Audio Enthusiasts</u></a></li>
-<li><a href="https://win-lab.techidaily.com/maximiza-tu-desempeno-con-las-herramientas-esenciales-de-windows-11/"><u>Maximiza Tu Desempeño Con Las Herramientas Esenciales De Windows 11</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/novice-nests-in-mc-the-essential-guide-to-housing-for-2024/"><u>Novice Nests in MC The Essential Guide to Housing for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-essential-techniques-for-fast-forwarding-in-spotify-for-2024/"><u>The Essential Techniques for Fast-Forwarding in Spotify for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlimited-picture-pools-the-best-10-resources-for-2024/"><u>Unlimited Picture Pools The Best 10 Resources for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/our-own-soundtrack-awaits-step-by-step-youtube-playlist-creation-guide-webmobile-for-2024/"><u>[New] Your Own Soundtrack Awaits Step-by-Step YouTube Playlist Creation Guide (Web/Mobile) for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-vr-buying-guide-mobile-liberty-or-tethered-unity/"><u>2024 Approved The Ultimate VR Buying Guide Mobile Liberty or Tethered Unity?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-tier-voice-to-text-applications/"><u>2024 Approved Top Tier Voice to Text Applications</u></a></li>
+<li><a href="https://blog-min.techidaily.com/eliminating-ineffective-applications-googles-new-policy-on-play-store-offerings/"><u>Eliminating Ineffective Applications: Google's New Policy on Play Store Offerings</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-enhance-your-browsing-efficiency-a-complete-guide-to-pip-on-edge/"><u>In 2024, Enhance Your Browsing Efficiency A Complete Guide to PIP on Edge</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transformative-tiktok-techniques-unveiled/"><u>In 2024, Transformative TikTok Techniques Unveiled</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pro-strategies-for-a-lag-free-playthrough-of-the-sims-4/"><u>Pro Strategies for a Lag-Free Playthrough of The Sims 4</u></a></li>
+<li><a href="https://win11.techidaily.com/struggling-with-game-installs-xbox-app-solutions/"><u>Struggling with Game Installs: Xbox App Solutions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/uncover-youtubes-preview-disabling-secret-for-2024/"><u>Uncover YouTube's Preview Disabling Secret for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Windows Migrants Beware: 7 Peculiar Mac Habits That Will Surprise You"
-date: 2025-02-12T17:34:07.767Z
-updated: 2025-02-16T23:36:34.118Z
+date: 2025-02-10T07:33:46.218Z
+updated: 2025-02-17T04:38:29.667Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 ## Windows Migrants Beware: 7 Peculiar Mac Habits That Will Surprise You
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -27,19 +27,11 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 
  If you've been a Windows user, transitioning to macOS can be pretty daunting. From navigating a new interface to getting used to the keyboard shortcuts, there are many elements that could leave you feeling puzzled. Here are some of the main differences that you need to know about.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The Dock Is Not Like the Taskbar
 
  The macOS Dock has evolved significantly over the years and offers functionality like mouse-over magnification and the ability to show suggested and recent apps, among other things. For people who are shifting from Windows to macOS, though, the biggest difference is based around the very idea of what the Dock and Taskbar actually do.
 
 ![The Dock on a Mac laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/screenshot-2024-03-20-at-3-52-28-am.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The Windows Taskbar is a comprehensive tool that displays everything from program icons to the time and date, and the search bar in one horizontal location. In comparison, the Dock simply focuses on displaying [app icons that you can pin,](https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-htc-u23-by-fonelab-android-recover-data/) as well as recently minimized windows and folders.
 
@@ -48,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
  You can access any apps that aren't in the Dock via the Launchpad, which is itself in the Dock by default.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Mac and Windows Keyboards Have Different Keys
@@ -60,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
  Some keys, like the Control button, are on both keyboards but have different uses. For instance, keyboard shortcuts that require you to press the Control key on a Windows keyboard often use the Command key instead on a Mac. So, [copy and paste](https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-itel-s23plus-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/) is Ctrl+C and Ctrl+V in Windows, but Command+C and Command+V in macOS.
 
  Newer Mac keyboards also feature a Globe key which brings up the emoji picker and can also be used to change your input language and keyboard layouts. Learn the relevant [macOS keyboard shortcuts](https://facebook-video-share.techidaily.com/updated-the-ultimate-youtube-editors-handbook-a-step-by-step-journey/) to speed up tasks for yourself.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Windows and Mac Use Different Names for the Same Things
 
@@ -94,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 ![Some of the Mac apps in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/some-of-the-mac-apps-in-macos.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Instead of the Task Manager on Windows, you can use Activity Monitor to view information about your laptop's hard drive utilization, memory usage, and other data.
@@ -117,13 +105,25 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 
 ![Spotlight search in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/spotlight-search-in-macos.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Spotlight is packed with features](https://screen-capture.techidaily.com/updated-shadowed-swords-and-honored-combatants-must-try-titles-inspired-by-ghost-of-tsushi/). You can use it to find apps, documents, or emails by keying in a few keywords related to what you're searching for, as well as searching for news, sports scores, or weather updates, performing calculations, and much more.
 
  Another key difference in the UI is the menu bar. In macOS, the menu bar is always located at the top of the screen rather than the top of the window and extends across its width. It gives you access to the Apple menu, Finder, the time and date, Wi-Fi and Bluetooth settings, and the battery status, as well as app-specific menu options.
 
 ![The menubar in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-menubar-in-macos.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In comparison, Windows laptops combine the Start menu, system tray, and taskbar into a single bar that's located at the bottom of the screen by default.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  You Open Apps With the Launchpad Instead of the Start Menu
 
@@ -152,20 +152,22 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-cross-platform-movie-recording-pc-mac-and-mobile/"><u>[New] Cross-Platform Movie Recording PC, Mac & Mobile</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transforming-traditional-markets-with-virtual-engineering/"><u>[New] Transforming Traditional Markets with Virtual Engineering</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-clearshot-vision-screen-recap/"><u>[Updated] ClearShot Vision Screen Recap</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-essential-tips-for-organizing-online-gatherings-google-meet-for-2024/"><u>[Updated] Essential Tips for Organizing Online Gatherings (Google Meet) for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-strategies-for-creating-hit-memes/"><u>[Updated] Strategies for Creating Hit Memes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-subtle-sound-shifts-in-garageband-productions/"><u>[Updated] Subtle Sound Shifts in Garageband Productions</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unveiling-the-art-of-video-crafting-on-pc-for-youtube-audiences/"><u>[Updated] Unveiling the Art of Video Crafting on PC for YouTube Audiences</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-from-studio-to-screen-uploading-melodies-online/"><u>In 2024, From Studio to Screen Uploading Melodies Online</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-redmi-12-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Redmi 12 5G to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-selecting-the-ideal-livestream-service/"><u>In 2024, The Art of Selecting the Ideal Livestream Service</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mastering-safe-mode-in-windows-8-graphics-cards-driver-uninstallation-methods/"><u>Mastering Safe Mode in Windows 8 - Graphics Cards Driver Uninstallation Methods</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/unleash-your-inner-tech-wizard-xbox-one-snapshot-secrets-revealed-for-2024/"><u>Unleash Your Inner Tech Wizard Xbox One Snapshot Secrets Revealed for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unleashing-the-power-of-social-proof-tips-to-amplify-brand-visibility-for-2024/"><u>Unleashing the Power of Social Proof Tips to Amplify Brand Visibility for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-the-potential-a-compreayers-guide-to-batched-video-downloads-from-tiktok-for-2024/"><u>Unlocking the Potential A Compreayer's Guide to Batched Video Downloads From TikTok for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-supercharge-your-video-edits-top-adobe-premiere-plugins-free-trial/"><u>Updated 2024 Approved Supercharge Your Video Edits Top Adobe Premiere Plugins (Free Trial)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-gamers-delight-switchs-best-fighters-top-10-edition-for-2024/"><u>[New] Gamer's Delight Switch's Best Fighters - Top 10 Edition for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-masterful-audio-selection-optimal-mics-for-intense-4k-shooting/"><u>[New] Masterful Audio Selection Optimal Mics for Intense 4K Shooting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-unseen-enthusiasts-blueprint-for-instagram-live-viewership/"><u>[Updated] The Unseen Enthusiast’s Blueprint for Instagram Live Viewership</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-lgs-monitor-magic-a-comprehensible-review-of-4k-tech/"><u>[Updated] Unveiling LG's Monitor Magic A Comprehensible Review of 4K Tech</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-avi-to-gif-transformation-using-filmora-for-both-oses/"><u>2024 Approved The Ultimate Guide to AVI-to-GIF Transformation Using Filmora for Both OSes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-uniting-skype-and-zoom-for-seamless-video-calls/"><u>2024 Approved Uniting Skype & Zoom for Seamless Video Calls</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-step-by-step-approach-to-identifying-excellent-discs/"><u>A Step-by-Step Approach to Identifying Excellent Discs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/addressing-dsounddll-absence-or-non-detection-errors-effectively/"><u>Addressing 'dsound.dll' Absence or Non-Detection Errors Effectively</u></a></li>
+<li><a href="https://win-data.techidaily.com/comprehensive-solutions-for-fixing-windows-update-error-code-0x80070422/"><u>Comprehensive Solutions for Fixing Windows Update Error Code 0X80070422</u></a></li>
+<li><a href="https://facebook.techidaily.com/dismissing-automated-public-post-alerts/"><u>Dismissing Automated Public Post Alerts</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-get-your-intel-usb-30-drivers-updated-for-windows-11/"><u>Easy Installation: Get Your Intel USB 3.0 Drivers Updated for Windows 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2022-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone SE (2022) Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-lighting-setup-tips-to-make-great-videos/"><u>In 2024, Lighting Setup Tips to Make Great Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-8-online-photo-montage-maker-for-2024/"><u>Top 8 Online Photo Montage Maker for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-zeoid-startups-revealed-in-panzoids-for-2024/"><u>Top Zeoid Startups Revealed in Panzoids for 2024</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/tout-sur-lintegration-de-la-gestion-numerisation-et-traitement-automatisee-de-documents-methodologie-en-5-etapes-par-abbyy/"><u>Tout Sur L'Intégration De La Gestion Numérisation Et Traitement Automatisée De Documents - Méthodologie en 5 Étapes Par ABBYY</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unique-voice-customization-for-chrome-os-5-top-cloud-audio-editors-reviewed-for-2024/"><u>Unique Voice Customization for Chrome OS 5 Top Cloud Audio Editors Reviewed for 2024</u></a></li>
 </ul></div>
 

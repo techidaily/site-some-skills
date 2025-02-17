@@ -1,7 +1,7 @@
 ---
 title: Uncover the Best-Kept Tricks of Windows 11 to Enhance Your Experience
-date: 2025-02-15T23:47:47.155Z
-updated: 2025-02-17T04:32:46.341Z
+date: 2025-02-11T00:02:50.743Z
+updated: 2025-02-16T16:27:34.076Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Uncover the Best-Kept Tricks of Windows 11 to Enhance Your Experience
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -32,15 +28,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Windows loves to hide many hidden gems under its familiar interface that can add magic to your regular Windows experience. From time-saving shortcuts to built-in tools that can rival third-party apps, today we unveil 11 functionalities on Windows 11 that you want to take advantage of.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Changing the Privacy Settings
 
  Among all the hype about [Microsoft's Recall feature on Windows](https://tech-hub.techidaily.com/leveraging-chatgpt-for-effective-meditation-routines-a-step-by-step-guide/) and new privacy concerns, it's time to limit the data Microsoft collects from you. Luckily, you can tweak some of the privacy options from Windows Settings. Go to Settings > Privacy & Security. Under "Windows Permissions", go to "General."
 
 ![An instance of different Windows privacy and security settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-privacy-settings.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  By default, everything is turned on. Use the toggle buttons to turn off the data you share with Windows.
 
@@ -49,10 +45,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Next, return to the "Privacy & Security" menu and go to "Activity History" under Windows Permissions.
 
 ![Activity history settings on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-activity-history.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This setting tracks the websites you browse and the apps you use on your system. Use the toggle button to turn it off. Then click the "Clear History" button to delete previously collected activity history.
 
@@ -69,7 +61,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  There are more [privacy settings on Windows 11](https://win-able.techidaily.com/reviving-game-playthroughs-solve-xbox-headset-problems-with-these-proven-steps/) that you can change for a [better Windows user experience](https://instagram-video-files.techidaily.com/new-in-2024-essential-app-picks-best-10-editors-to-transform-reels/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Live Captions Anywhere
@@ -95,7 +87,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Accessbility settings on Windows being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/accessbility-settings-on-windows.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Turn on "Voice Access." Then press "I Agree" when the popup appears.
@@ -103,6 +95,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Voice Access on Windows turned on](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/voice-access-on-windows.png) 
 
  You'll be guided through a tutorial on using Voice Access. You can say different commands to perform actions or type using your voice when the mouse cursor is active on a typing box. Try using it on the Notepad.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Focus Sessions
 
@@ -122,20 +118,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Various Windows system settigns being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-for-developers-settigns.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Turn on "End Task."
 
 ![End task from taskbar option on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/end-task-from-taskbar-option-on-windows.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After that, if you want to end a task, simply right-click on the icon of that task in the taskbar and click "End Task."
 
 ![Ending a task from the taskbar on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ending-task-from-the-taskbar-on-windows.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Minimize Windows by Shaking
@@ -148,6 +148,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Title bar windows shake option in the Windows settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/title-bar-windows-shake.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Be cautious though, because sometimes this can become a problem when you're just trying to move a window, but it's registered as a shake.
 
 ##  Scrolling Over the Volume Icon to Change the Volume
@@ -156,10 +160,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Scrolling to change volume on Windows-anim](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/scroll-to-change-volume-on-windows-anim.gif) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Instant Photo Transfer From Android
 
  A new Windows update now allows you to transfer photos and screenshots the moment you take them on your Android phone. But it's turned off by default. You first need to [connect your Android phone to your Windows PC](https://desktop-recording.techidaily.com/in-2024-zoom-savvy-key-techniques-for-clear-and-confident-remote-conversations/) via the Link to Windows app from Play Store. You may also need to log in using your Microsoft account on both.
@@ -167,10 +167,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  After you've connected the devices, go to Settings > Bluetooth Devices > Mobile Devices on your Windows computer. Make sure you've allowed your PC to access the mobile devices. Press "Manage Devices." Turn on the "Get New Photo Notifications" option.
 
 ![The option to turn on the Get new photo notifications setting being displyaed on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/7-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After that, take a photo or screenshot on your Android device while connected to the PC. You should see a notification on your Windows PC.
 
@@ -185,7 +181,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Windows Start button hidden shortcuts being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-start-button-hidden-shortcuts.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  One advantage of pressing Windows+X instead of right-clicking the Start button is that you'll notice all the options in the menu have an underlined letter. Pressing that underlined letter on your keyboard will open that option. For example, if you press Windows+X and then T, it will open the [Task Manager](https://some-skills.techidaily.com/new-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/). No need to touch the mouse.
@@ -206,6 +202,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  To get access to the editing options, open any image in the app and then press Ctrl+E. You can crop the image, make light and color adjustments, add filters, erase objects, and remove the background from the image.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  No More Hiding Behind the Windows
 
  With every new update coming to Windows, we're also getting many new cool features or upgrades to previous features. There are still so many [features we wish Windows brings](https://android-location-track.techidaily.com/2-ways-to-monitor-poco-c65-activity-drfone-by-drfone-virtual-android/) in the future. On that note, it's worth keeping an eye deep inside the Windows environment to find many of these hidden features to bring the true potential out of the operating system.
@@ -225,16 +225,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-enhance-your-online-presence-with-these-50-complimentary-banners/"><u>[Updated] 2024 Approved Enhance Your Online Presence with These 50 Complimentary Banners</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-zoom-companion-for-snapchat-enthusiasts/"><u>[Updated] The Ultimate Zoom Companion for Snapchat Enthusiasts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-premium-camcorders-enhancing-podcasting/"><u>2024 Approved Premium Camcorders Enhancing Podcasting</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-driven-content-creation-operational-companies-and-techniques/"><u>AI-Driven Content Creation: Operational Companies & Techniques</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-oppo-a18-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Oppo A18 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-motorola-razr-40-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Motorola Razr 40 to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tender-tracks-ideal-music-to-accompany-a-lifelayer-change/"><u>In 2024, Tender Tracks Ideal Music to Accompany a Lifelayer Change</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-handbook-to-zooms-online-presentation-features/"><u>In 2024, The Ultimate Handbook to Zoom's Online Presentation Features</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-youtubes-potential-with-expert-picture-posting-techniques/"><u>In 2024, Unlock YouTube's Potential with Expert Picture Posting Techniques</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/670814-9781846947421-your-quest-for-spiritual-knowledge-2012-and-beyond/"><u>Your Quest For Spiritual Knowledge: 2012 and Beyond | Free Book</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-unboxing-flight-comprehensive-guide-to-dji-phantom-4/"><u>[New] 2024 Approved Unboxing Flight Comprehensive Guide to DJI Phantom 4</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-rapid-diy-filming-tips-for-the-budding-director/"><u>[New] In 2024, Rapid DIY Filming Tips for the Budding Director</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamline-content-creation-leading-after-effects-plugins/"><u>[New] Streamline Content Creation Leading After Effects Plugins</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-calming-chorus-proven-voices-aid-sleep/"><u>[New] The Calming Chorus Proven Voices Aid Sleep</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-swift-guide-to-validate-your-tiktok-age/"><u>[New] The Swift Guide to Validate Your TikTok Age</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-insight-2024-video-showcase-guidebook/"><u>[New] Ultimate Insight 2024 Video Showcase Guidebook</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-digital-frontier-exploration-selecting-best-tools-for-turning-images-into-nfts-for-2024/"><u>[Updated] Digital Frontier Exploration Selecting Best Tools for Turning Images Into NFTs for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-science-of-sensor-based-hands-monitoring/"><u>[Updated] The Science of Sensor-Based Hands Monitoring</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-step-by-step-minecraft-video-editing-process/"><u>2024 Approved Step-by-Step Minecraft Video Editing Process</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-images-top-5-android-tools/"><u>2024 Approved Transform Images Top 5 Android Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-windows-generic-device-halt-a-guide/"><u>Bypassing Windows Generic Device Halt: A Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-review-non-apple-non-tile-brand-emerges-as-top-contender-in-wallet-airtag-market-insights-from-zdnet/"><u>Exclusive Review: Non-Apple, Non-Tile Brand Emerges as Top Contender in Wallet AirTag Market - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-streamlining-post-processing-with-effective-use-of-luts-in-pscc/"><u>In 2024, Streamlining Post-Processing with Effective Use of LUTs in PSCC</u></a></li>
+<li><a href="https://article-posts.techidaily.com/invent-iconic-images-through-giphy/"><u>Invent Iconic Images Through Giphy</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-new-potential-top-benefits-of-macos-15s-fresh-update-for-your-apple-macbook-revealed/"><u>Unlocking New Potential: Top Benefits of macOS 15'S Fresh Update for Your Apple MacBook Revealed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-magix-vpx-a-comprehensive-analysis-for-2024/"><u>Unveiling Magix VPX A Comprehensive Analysis for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top 6 Microsoft Edge Features Enhancing Productivity for Remote Workers on Windows 11
-date: 2025-02-14T19:04:33.659Z
-updated: 2025-02-16T17:40:30.465Z
+date: 2025-02-16T03:16:43.255Z
+updated: 2025-02-16T22:49:48.278Z
 tags:
   - deals
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  With so many of us working remotely, it's not a surprise that Windows 11 comes with a few built-in focus tools to help us get our jobs done. But what exactly does Windows 11 offer to us professionals who want to ensure we actually get work done? Let's take a look.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Focus Periods and Productivity
 
  Windows 11 eliminated the focus mode on the taskbar and replaced it with focus sessions. A focus session uses the [Windows 11 built-in Pomodoro Timer](https://screen-sharing-recording.techidaily.com/updated-navigating-noise-free-networks-secrets-for-silencing-disruptions-on-gomeet/) to ensure that you remain dedicated throughout the particular period. There are other Pomodoro Timers out there, and I even used one in Windows 10\. Having one built into Windows 11 is a plus, however.
@@ -29,7 +33,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Windows 11 Focus Assist Window showing time left on the session, how many sessions were completed, and other details](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-11-focus-assist.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jason Dookeran/How-To-Geek
@@ -37,6 +41,10 @@ Jason Dookeran/How-To-Geek
  What's more, the timer comes built-in with Spotify integration, allowing you to plug in a playlist that automatically plays focus music during your session. This addition is perfect for those who require music to help with their work focus, although, with [Spotify's recent changes to the free tier](https://facebook-video-recording.techidaily.com/new-navigate-your-way-to-the-best-idevice-apps-for-extracting-content-from-facebook/), users might be better off considering an alternative.
 
 [Focus Sessions](https://support.microsoft.com/en-us/windows/how-to-use-focus-in-windows-11-cbcc9ddb-8164-43fa-8919-b9a2af072382) include the "do not disturb" mode from Windows 10's focus assist mode. This helps to manage the notifications you're likely to get from any number of applications you already have running on your PC. I've found it extremely helpful to limit my distractions while I'm working on something.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Use Snap Layouts and Snap Groups
 
@@ -50,27 +58,27 @@ Jason Dookeran/How-To-Geek
 
  These features are designed to enhance multitasking and productivity, especially in a remote work setting. By keeping your tasks visually organized and easily accessible, Snap Layouts and Snap Groups help you maintain focus and efficiency. This seamless integration into the Windows 11 experience ensures that your tools are working just as hard as you are, enabling you to get more done with less effort.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You're Not Only Limited to One Desktop Either
 
  Windows 10 introduced the [idea of having different desktops](https://www.microsoft.com/en-us/windows/learning-center/stay-organized-using-multiple-desktops-windows-11), each dedicated to its own productivity or usage task. For example, if you've got games installed on your PC but don't want to be distracted by them, you can slide them over to a separate desktop and leave your work desktop with only your office and productivity software shortcuts. When work's done, you can switch to your "gaming" desktop and access the shortcuts there.
 
 ![Remote Desktop Setup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/remote-desktop-setup.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jason Dookeran/How-To-Geek
 
  To create a new virtual desktop, click on the Task View button located on the taskbar (or press Win+Tab). This will open the Task View interface, where you can see all your open windows and existing desktops. Click on the “+ New desktop” button at the top of the screen to create a new virtual desktop. To switch between desktops, you can either use the Task View interface by clicking on the desired desktop or use the keyboard shortcut Win+Ctrl+Left or Right arrow keys to move between them quickly. This feature allows you to keep different types of work, like meetings, research, and personal tasks, separate and organized, enhancing your productivity. This particular change is pretty new to Windows, but [Linux users have had multiple desktop setups for years](https://www.linux.com/training-tutorials/dont-forget-one-linuxs-best-features-how-use-multiple-workspaces/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You Can Even Access Your Desktop From Anywhere
 
  As someone who's [turned their car into a mobile office](https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-lava-yuva-3-pro-phones-by-drfone-android/), sometimes I need to access my desktop from somewhere else (usually a beach). Using the Remote Desktop feature in Windows 11, you can connect to your office PC from home or while traveling, ensuring you have access to all necessary files and applications. To set up Remote Desktop, go to Settings > System > Remote Desktop, and [enable the Remote Desktop option](https://fox-direct.techidaily.com/unleash-creativity-with-these-essential-vector-editors-for-2024/). Ensure your work computer is set up to allow remote connections and that you have the necessary permissions. Once configured, you can use the Remote Desktop Connection app to connect to your work machine securely.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Compartmentalize Your Work By Using Different Profiles
 
@@ -78,19 +86,11 @@ Jason Dookeran/How-To-Geek
 
 ![Adding a New User](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/adding-a-new-user.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Jason Dookeran/How-To-Geek
 
 [Making a new profile in Windows 11](https://some-guidance.techidaily.com/new-pun-picture-studio-chucklecrafts/) is pretty simple. Go to Settings > Accounts > Family & other users. Under the “Other users” section, click on “Add account.” You can create a new profile using either a Microsoft account or a local account.
 
  For a Microsoft account, enter the email address associated with the account. If you prefer a local account, click on “I don’t have this person’s sign-in information,” followed by “Add a user without a Microsoft account,” then follow the prompts to set up a username and password. Once the profile is created, you can switch between accounts by clicking on your profile picture in the Start menu and selecting the new user. This setup allows you to maintain distinct environments for different purposes, improving focus and security.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Being Productive Is Less of a Challenge
 
@@ -111,24 +111,21 @@ Jason Dookeran/How-To-Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-tender-tracks-ideal-music-to-accompany-a-lifelayer-change/"><u>[New] Tender Tracks Ideal Music to Accompany a Lifelayer Change</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-pinnacle-of-slow-motion-tech-slomos-full-review-2024/"><u>[New] The Pinnacle of Slow-Motion Tech SloMo's Full Review, 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-android-gaming-experience-kinemaster-reviewed/"><u>[New] The Ultimate Android Gaming Experience - KineMaster Reviewed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-iphone-burst-mode-shooting/"><u>[New] The Ultimate Guide to iPhone Burst Mode Shooting</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-seamlessly-transferring-youtube-videos-to-your-instagram-account/"><u>[Updated] 2024 Approved Seamlessly Transferring YouTube Videos to Your Instagram Account</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-cutting-edge-5-home-movie-maker-for-2024/"><u>[Updated] Cutting-Edge 5 Home Movie Maker for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-the-jaunt-vr-odyssey-revisited/"><u>[Updated] In 2024, The Jaunt VR Odyssey Revisited</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-superior-lineup-elite-webcam-holders/"><u>[Updated] Superior Lineup Elite Webcam Holders</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-7-best-mac-video-viewing-tools/"><u>[Updated] Top 7 Best Mac Video Viewing Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-picks-for-high-quality-live-tv-plus-regional-channels-2024/"><u>[Updated] Top Picks for High-Quality Live TV + Regional Channels, 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-infinix-smart-7-hd-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Infinix Smart 7 HD to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-communication-software-options-for-iphone-and-ipod-touch/"><u>Free Communication Software Options for iPhone & iPod Touch</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-vivo-y27s-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Vivo Y27s to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-mastering-creative-splitscreens-in-youtube-filmmaking/"><u>In 2024, Mastering Creative Splitscreens in YouTube Filmmaking</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-funimate-joy-comprehensive-tutorials/"><u>In 2024, Unleashing Funimate Joy - Comprehensive Tutorials</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/saving-screen-scenes-pcmac-and-mobile-devices-walkthrough/"><u>Saving Screen Scenes PC/Mac & Mobile Devices Walkthrough</u></a></li>
-<li><a href="https://win11.techidaily.com/skyrim-booster-issues-windows-repair-guide/"><u>Skyrim Booster Issues: Windows Repair Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-your-reddit-presence-with-these-tactics-for-2024/"><u>Transform Your Reddit Presence with These Tactics for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/visual-storytelling-made-easy-free-vfx-websites/"><u>Visual Storytelling Made Easy - Free VFX Websites</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-pricing-outline-the-cost-to-film-melodies-visually/"><u>[New] 2024 Approved Pricing Outline The Cost to Film Melodies Visually</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-techniques-for-unbiased-and-structured-interviews/"><u>[New] Techniques for Unbiased and Structured Interviews</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-bend-the-norm-innovative-text-transformation-techniques/"><u>[Updated] 2024 Approved Bend the Norm Innovative Text Transformation Techniques</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-engaging-viewers-on-youtube-gaming-livestreams/"><u>[Updated] 2024 Approved Engaging Viewers on YouTube Gaming Livestreams</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-truth-about-magix-video-pro-xs-performance/"><u>[Updated] The Truth About Magix Video Pro X's Performance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unattached-audio-puzzle-resolution-guide/"><u>[Updated] Unattached Audio Puzzle Resolution Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-5-speedy-shot-strategies-right-from-your-living-room/"><u>2024 Approved Ultimate 5 Speedy Shot Strategies Right From Your Living Room</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-full-potential-nikon-1j5-in-4k-videography/"><u>2024 Approved Unleashing Full Potential Nikon 1J5 in 4K Videography</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/aomei-windows-iphone/"><u>AOMEI 数据恢复软件 无限量下载 - 专为 Windows 与 iPhone 设计</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/download-installation-and-operation-simplified-guide-to-ez-grabber/"><u>Download, Installation, and Operation Simplified Guide to EZ Grabber</u></a></li>
+<li><a href="https://win-guides.techidaily.com/how-to-retrieve-accidentally-deleted-files-with-the-windows-recycle-bin-or-cmd/"><u>How to Retrieve Accidentally Deleted Files with the Windows Recycle Bin or CMD</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-swiftly-freeze-action-in-your-iphone-photography-journey/"><u>In 2024, Swiftly Freeze Action in Your iPhone Photography Journey</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209699346-9781547584901-meditacion-guia-de-principiantes-para-llegar-al-estado-zen-y-librarse-del-estres/"><u>Meditación : Guía De Principiantes Para Llegar Al Estado Zen Y Librarse Del Estrés | Free Book</u></a></li>
+<li><a href="https://video-capture.techidaily.com/pcgotomeeting/"><u>PC用のGotoMeeting自動録画設定ガイド</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ltimate-guide-to-youtubes-best-vr-video-sets-for-2024/"><u>The Ultimate Guide to YouTube's Best VR Video Sets for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-humor-kapwings-meme-crafting-app-for-2024/"><u>Unleash Humor Kapwing's Meme Crafting App for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Complete Tutorial on Utilizing the Gpasswd Command for Secure Password Changes on Your Linux System
-date: 2025-02-13T03:01:42.606Z
-updated: 2025-02-16T19:04:47.325Z
+date: 2025-02-13T17:13:27.534Z
+updated: 2025-02-17T06:43:04.362Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## The Complete Tutorial on Utilizing the Gpasswd Command for Secure Password Changes on Your Linux System
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -59,7 +63,7 @@ cat /etc/group
 ![The Linux terminal showing a list of all groups in the system](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-7.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can see the new group on the list. Now let's create a password for the group. To do that, use:
@@ -71,7 +75,7 @@ sudo gpasswd demogroup
 ![The Linux terminal displaying the process of setting a new password for a group using the gpasswd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-7.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now if I try to log into this group, the system will ask for a password. That's because I'm not a member of the group. To log into the group, run:
@@ -79,10 +83,6 @@ sudo gpasswd demogroup
 newgrp demogroup
 
 ![The Linux terminal showing the process of logging into a group in Linux using the newgrp command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-4.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Removing Password from Group
 
@@ -107,7 +107,7 @@ sudo gpasswd -a zunaid demogroup
 ![The Linux terminal showing how to use the gpasswd command to add a member to a group](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can confirm whether the member was added or not. For that, use the below command:
@@ -125,7 +125,7 @@ sudo gpasswd -a user1 group
                     
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Removing a User From a Group
@@ -140,6 +140,10 @@ sudo gpasswd -d zunaid demogroup
 
 ![The Linux terminal showing how to remove a user from a group using the gpasswd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/7-6.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Again, you can confirm if the user was removed successfully by [listing the group members](https://hardware-updates.techidaily.com/comprehensive-guide-downloading-and-installing-canon-ip1-10-drivers-on-windows-windows-111087/) with this command:
 
 getent group demogroup
@@ -151,10 +155,6 @@ sudo gpasswd -d user1 group
     
                     sudo gpasswd -d user2 group
                     
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Setting the List of Group Members
 
@@ -171,7 +171,7 @@ getent group demogroup
 ![The Linux terminal displaying the current the members of a group in Linux after setting the members list using gpasswd](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/12-2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Promoting a User as the Group Administrator
@@ -184,15 +184,15 @@ sudo gpasswd -A zunaid demogroup
 
 ![The Linux terminal showcasing how to make a user the administrator of a group using the gpasswd command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/8-4.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This doesn't give any output to the terminal. However, you can see the list of administrators of the group to confirm if the operation was successful. Do that with this command:
 
 sudo cat /etc/gshadow
 
 ![The Linux terminal displaying the the administrators of every group in Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/9-3.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  gpasswd Makes Group Management Easy
 
@@ -213,17 +213,17 @@ sudo cat /etc/gshadow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-the-experts-list-of-top-vector-stock-portals/"><u>[New] In 2024, The Expert's List of Top Vector Stock Portals</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-fast-forward-tools-mastering-video-controls/"><u>[New] Ultimate Fast-Forward Tools Mastering Video Controls</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-jumpstart-your-collaboration-zooms-screen-share-essentials/"><u>[Updated] Jumpstart Your Collaboration Zoom's Screen-Share Essentials</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-definitive-list-high-quality-costless-lut-options-explored/"><u>[Updated] The Definitive List High-Quality, Costless LUT Options Explored</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleash-humor-kapwings-meme-crafting-app/"><u>[Updated] Unleash Humor Kapwing's Meme Crafting App</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-the-acer-chromebook-spaceship-15s-capabilities-an-in-depth-review-of-its-large-display-and-stability/"><u>Exploring the Acer Chromebook Spaceship 15'S Capabilities: An In-Depth Review of Its Large Display and Stability</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/game-update-hitch-in-final-fantasy-xiv-how-to-fix/"><u>Game Update Hitch in Final Fantasy XIV – How To Fix</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-moto-g84-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Motorola Moto G84 5G Phone without Any Data Loss</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-connecting-tv-audiences-to-facebook-live-shows/"><u>In 2024, Connecting TV Audiences to Facebook Live Shows</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-experts-gopro-buyers-companion/"><u>In 2024, The Expert's Gopro Buyer’s Companion</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-toshiba-bluetooth-software-driver-free-download/"><u>Latest Toshiba Bluetooth Software Driver - Free Download</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-guide-entering-bios-setup-on-your-windows-machine-tips-from-yl-computing/"><u>Step-by-Step Guide: Entering BIOS Setup on Your Windows Machine - Tips From YL Computing</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-ultimate-collection-top-6-fb-lite-vids/"><u>[New] 2024 Approved Ultimate Collection #Top 6 FB Lite Vids</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-15-unboxing-clips-reviewed-youtubes-standout-channels-of-2024/"><u>[New] Top 15 Unboxing Clips Reviewed YouTube's Standout Channels of 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-a-guide-to-finding-hidden-youtube-treasures-for-2024/"><u>[Updated] A Guide to Finding Hidden YouTube Treasures for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-techniques-for-elongated-iphone-photography/"><u>[Updated] Techniques for Elongated iPhone Photography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-strategic-storytelling-for-solitary-sound-sensations/"><u>2024 Approved Strategic Storytelling for Solitary Sound Sensations</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/awaken-better-with-these-7-premium-alarm-clock-mobile-apps/"><u>Awaken Better with These 7 Premium Alarm Clock Mobile Apps</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/best-10-free-mp4-video-players-compatible-with-both-windows-and-macos/"><u>Best 10 Free MP4 Video Players Compatible with Both Windows and macOS</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-motorola-edgeplus-2023-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Motorola Edge+ (2023) Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-path-to-subtle-iphone-shots-4-essential-techniques-discovered/"><u>In 2024, The Path to Subtle iPhone Shots 4 Essential Techniques Discovered</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719366391353-keyboards-on-the-ropes-reclaim-your-arrows/"><u>Keyboards on the Ropes? Reclaim Your Arrows!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-slides-into-showstoppers-using-chatgpt-top-strategies-revealed/"><u>Transform Your Slides Into Showstoppers Using ChatGPT – Top Strategies Revealed</u></a></li>
 </ul></div>
 

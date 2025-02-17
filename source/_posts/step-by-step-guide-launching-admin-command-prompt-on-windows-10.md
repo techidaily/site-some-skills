@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Launching Admin Command Prompt on Windows 10"
-date: 2025-02-14T01:20:27.968Z
-updated: 2025-02-17T05:50:01.961Z
+date: 2025-02-15T07:04:13.636Z
+updated: 2025-02-16T23:00:49.302Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 ## Step-by-Step Guide: Launching Admin Command Prompt on Windows 10
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 * [Open Command Prompt as Admin with the Start Menu](https://instagram-video-files.techidaily.com/updated-in-2024-the-comprehensible-guide-to-capturing-instagram-media-via-computer-systems/)
 * [Run Command Prompt as Admin with the Run Box](https://bypass-frp.techidaily.com/a-quick-guide-to-vivo-x100-frp-bypass-instantly-by-drfone-android/)
 * [Open Command Prompt as Admin with the Power User Menu](https://facebook-video-footage.techidaily.com/updated-shegames-supreme-the-10-best-female-youtubers/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -37,13 +33,13 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 
 ![Search &quot;Command Prompt&quot; in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/05/Search-Command.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you launch the Command Prompt with admin privileges, you'll likely see a "[User Account Control](https://extra-support.techidaily.com/new-proven-techniques-for-amplifying-tiktok-unboxing-success/)" window asking for permission to continue. Go ahead and click "Yes."
 
 ![Click &quot;Yes&quot; when prompted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/05/cpa_2.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you've got the "Administrator: Command Prompt" window open, you can run any command, whether it requires administrative privileges or not.
 
@@ -52,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
  If you've set up Windows Terminal on Windows 10 the window may look a little different from our screenshot. It isn't a problem, and it won't affect any commands you try to run. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Run Command Prompt as Admin with the Run Box
@@ -61,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 
 ![Cmd in a run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-cmd-via-run.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Open Command Prompt as Admin with the Power User Menu
 
  Windows 10 offers a "power user" menu that you can access by pressing Windows+X or just right-clicking the Start button. In the power user menu, choose "Command Prompt (Admin)."
@@ -68,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 ![Right-click the Start Menu button or press Windows+X, then click &quot;Command Prompt.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/05/from-the-power-user-menu.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You'll probably see PowerShell instead of Command Prompt unless you're using a really old version of Windows 10\. The [Creators Update for Windows 10](https://hardware-help.techidaily.com/exploring-technology-with-tom-your-trusted-source-for-hardware-insights-and-reviews/) swapped PowerShell for Command Prompt in the Power User menu, but you can [switch back to Command Prompt](https://video-screen-grab.techidaily.com/updated-in-2024-gameboy-advance-mastered-android-emulator-selection/) if you want. Ideally, you should give [PowerShell](https://techno-recovery.techidaily.com/x-men-film-series-viewing-guide-the-ultimate-sequence/) a try — it can do most everything Command Prompt can, and a ton of additional useful things.
@@ -90,18 +90,24 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-winning-at-gaming-memory-capture-essentials-on-windows-10-for-2024/"><u>[New] Winning at Gaming Memory Capture Essentials on Windows 10 for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-blend-media-items-for-enhanced-youtube-organization/"><u>[Updated] 2024 Approved Blend Media Items for Enhanced YouTube Organization</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-dazzle-and-stand-out-50-free-youtube-branding-pieces/"><u>[Updated] In 2024, Dazzle and Stand Out 50 FREE YouTube Branding Pieces</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-textual-transformation-enrich-your-images-with-words-pcmac-style/"><u>2024 Approved Textual Transformation Enrich Your Images with Words, PC/Mac Style</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-hd-android-videos-ultimate-players-guide/"><u>2024 Approved Top 10 HD Android Videos Ultimate Players Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-visual-potential-a-step-by-step-guide-to-video-enhancer-22/"><u>2024 Approved Unlocking Visual Potential A Step-by-Step Guide to Video Enhancer 2.2</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209690048-9780691200620-change/"><u>Change | Free Book</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-asus-bluetooth-drivers-made-easy-step-by-step-guide/"><u>Download & Update ASUS Bluetooth Drivers Made Easy – Step by Step Guide</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/from-novice-to-pro-expert-tips-for-spotifys-advertisers-for-2024/"><u>From Novice to Pro Expert Tips for Spotify's Advertisers for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-picks-comprehensive-list-of-gopro-mounts-6-onwards/"><u>In 2024, The Ultimate Picks Comprehensive List of GoPro Mounts, #6 Onwards</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unraveling-the-sideway-video-phenomenon-on-ig/"><u>In 2024, Unraveling the Sideway Video Phenomenon on IG</u></a></li>
-<li><a href="https://some-skills.techidaily.com/superb-online-stores-where-to-find-and-purchase-youtube-ringtones-in-2024/"><u>Superb Online Stores Where to Find & Purchase YouTube Ringtones, In 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-new-potentials-iphone-x-secrets-unveiled-for-2024/"><u>Unlock New Potentials IPhone X Secrets Unveiled for 2024</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/reprendre-la-sauvegarde-individuelle-de-lhistorique-via-time-machine-sur-un-nouveau-mac-guide-complet-en-deux-methodes/"><u>« Reprendre La Sauvegarde Individuelle De L'historique via Time Machine Sur Un Nouveau Mac : Guide Complet en Deux Méthodes »</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-navigating-through-peak-fluid-gaming-titles-for-2024/"><u>[New] Navigating Through Peak Fluid Gaming Titles for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-8-selections-of-subtitle-editors-making-srt-on-windowsmac-a-breeze/"><u>[New] Top 8 Selections of Subtitle Editors Making SRT on Windows/Mac a Breeze</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-venture-into-virtuality-critical-reviews-of-tech/"><u>[New] Venture Into Virtuality - Critical Reviews of Tech</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-outstanding-10-screenshot-and-recording-titles-for-gamers/"><u>[Updated] 2024 Approved Outstanding 10 Screenshot and Recording Titles for Gamers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-snappy-zoom-calls-for-improved-engagement/"><u>[Updated] Snappy Zoom Calls for Improved Engagement</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-sunny-side-up-videography-for-android/"><u>[Updated] Sunny Side-Up Videography for Android</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-cinematic-revolution-exploring-the-best-shots-and-lighting-tips-24-edition/"><u>[Updated] The Cinematic Revolution Exploring the Best Shots & Lighting Tips - '24 Edition</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-share-wide-enhancing-instagram-stories-with-youtube-content/"><u>2024 Approved Share Wide Enhancing Instagram Stories With YouTube Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-dawn-of-distinctive-filmmaking-with-vr/"><u>2024 Approved The Dawn of Distinctive Filmmaking with VR</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-blueprint-for-obtaining-premium-visuals-for-free/"><u>2024 Approved The Essential Blueprint for Obtaining Premium Visuals for Free</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-simple-guide-making-your-windows-computer-speak-like-a-fish/"><u>2024 Approved The Simple Guide Making Your Window's Computer Speak Like a Fish</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oneplus-nord-n30-se-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-atandt-apple-iphone-14-pro-max-with-3-methods-by-drfone-ios/"><u>How to Unlock AT&T Apple iPhone 14 Pro Max with 3 Methods</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-exploring-online-collaboration-google-meet/"><u>In 2024, Exploring Online Collaboration Google Meet</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-360-live-streaming-cameras-for-youtube-and-facebook-you-should-know/"><u>In 2024, Top 360 Live Streaming Cameras for Youtube and Facebook You Should Know</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-screen-pip-tutorials-for-macos-enthusiasts/"><u>In 2024, Transform Your Screen PIP Tutorials for macOS Enthusiasts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-tecno-pop-7-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Tecno Pop 7 Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-visionarys-list-the-finest-26-video-to-text-converters-available-for-2024/"><u>The Visionary’s List The Finest 26 Video-to-Text Converters Available for 2024</u></a></li>
 </ul></div>
 

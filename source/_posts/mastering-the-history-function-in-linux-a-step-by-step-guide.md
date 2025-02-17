@@ -1,7 +1,7 @@
 ---
 title: "Mastering the 'History' Function in Linux: A Step-by-Step Guide"
-date: 2025-02-13T04:31:47.679Z
-updated: 2025-02-16T18:13:32.242Z
+date: 2025-02-10T02:52:47.684Z
+updated: 2025-02-16T21:58:03.949Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/61cd3f9de3e328bf4fd572ae53f8d259727451f01
 ---
 
 ## Mastering the 'History' Function in Linux: A Step-by-Step Guide
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/61cd3f9de3e328bf4fd572ae53f8d259727451f01
 
  The `history` command eliminates those issues. Like most Linux commands, [there's more to it than you might think](http://man7.org/linux/man-pages/man1/bash.1.html#HISTORY). However, if you learn how to use the `history` command, it can improve your use of the Linux command line, every single day. It's a good investment of your time. There are far better ways to use the `history` command than just [hitting the Up arrow repeatedly](https://video-capture.techidaily.com/the-leading-8-linux-programs-for-screenshots/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The history Command
 
  In its simplest form, you can use the `history` command by just typing its name:
@@ -42,16 +50,12 @@ history
 
 ![history in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/1-7.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The list of previously used commands is then written to the terminal window.
 
 ![Output from history in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/2-10.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The commands are numbered, with the most recently used (those with the highest numbers) at the end of the list.
@@ -62,15 +66,15 @@ history 10
 
 ![history 10 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/3-7.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can achieve the same result if you [pipe](https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-pro-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/) `history` through the [tail command](http://man7.org/linux/man-pages/man1/tail.1.html). To do so, type the following:
 
 history | tail -n 10
 
 ![history | tail -n 10 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/4-7.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Repeating Commands
 
@@ -87,10 +91,6 @@ history | tail -n 10
 !!
 
 ![!! in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/6-10.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This can be useful when you issue a command and forget to use `sudo` . Type `sudo`, one space, the double exclamation points, and then hit Enter.
 
@@ -111,14 +111,6 @@ sudo !!
 !-13
 
 ![!-13 ina terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/8-8.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Searching for Commands by String
 
@@ -171,7 +163,7 @@ sudo !!
 ![gedit launched by a Ctrl+r search command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/16-4.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To edit a command before you execute it, press either the Left or Right arrow key.
@@ -189,7 +181,7 @@ history | grep aliases
 ![history | grep aliases in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/19-3.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Modifying the Last Command
@@ -246,10 +238,6 @@ history -a
 
 ![history -a in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/22-3.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The commands are written silently to the history file.
 
  If you want to write all changes to the history list to the history file (if you deleted some old commands, for example), you can use the `-w` (write) option, like so:
@@ -257,6 +245,10 @@ history -a
 history -w
 
 ![history -w in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/23-3.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Clearing the History List
 
@@ -297,11 +289,11 @@ history 5
 
 ![special-app another-password in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/26-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The command with the password isn't added to the history list. The reason this trick works is contained within the `.bashrc` file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The .bashrc File
 
@@ -330,6 +322,10 @@ gedit .bashrc
  Also near the top of the file, you see an entry for the `HISTCONTROL` value.
 
 ![HISTCONTROL entry n the .bashrc file in gedit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/31b.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can set this value to do any of the following:
 
@@ -381,6 +377,10 @@ export HISTTIMEFORMAT="%d n%m %T "
 
 ![history list with timestamps in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/32-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If we remove the day and month, though, it will just show the time.
 
  Any changes you make to `HISTIMEFORMAT` apply themselves to the entire history list. This is possible because the time for each command is stored as the [number of seconds from the Unix epoch](https://en.wikipedia.org/wiki/Unix%5Ftime). The `HISTTIMEFORMAT `directive simply specifies the format used to render that number of seconds into a human-readable style, such as:
@@ -418,22 +418,19 @@ export HISTTIMEFORMAT="%T "
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-14-interesting-text-animation-examples-you-can-try/"><u>[New] 14 Interesting Text Animation Examples You Can Try</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-saving-smiles-the-ultimate-list-of-twitvid-tools/"><u>[New] Saving Smiles The Ultimate List of TwitVid Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-5-accessories-for-beneath-water-shooting/"><u>[New] Top 5 Accessories for Beneath Water Shooting</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-top-10-sketch-tools-ideal-for-chromebook-users/"><u>[Updated] In 2024, Top 10 Sketch Tools Ideal for Chromebook Users</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-peeling-back-sharex-critical-analysis-and-alternatives/"><u>[Updated] Peeling Back ShareX Critical Analysis & Alternatives</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleash-your-creativity-on-youtube-live-from-smartphone/"><u>[Updated] Unleash Your Creativity on YouTube Live From Smartphone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/a-detailed-walkthrough-embedding-online-video-into-ms-presentations/"><u>A Detailed Walkthrough Embedding Online Video Into MS Presentations</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/appreciate-with-us-open-source-and-subscription-outro-samples-for-2024/"><u>Appreciate with Us Open-Source & Subscription Outro Samples for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-s17-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo S17 Pro to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-highest-quality-capture-software-showdown/"><u>In 2024, Highest Quality Capture Software Showdown</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-evolved-examination-of-sony-bdp-s3700/"><u>In 2024, The Evolved Examination of Sony BDP-S3700</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-11-techniques-for-spectacular-color-enhancement/"><u>In 2024, Top 11 Techniques for Spectacular Color Enhancement</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unpack-the-basics-a-straightforward-roadmap-to-start-your-reviews-channel/"><u>In 2024, Unpack the Basics A Straightforward Roadmap to Start Your Reviews Channel</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/maximizing-engagement-in-post-facebook-algorithm-world-for-2024/"><u>Maximizing Engagement in Post-Facebook Algorithm World for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-perusing-past-facebook-pages-to-review-or-not-to-for-2024/"><u>The Art of Perusing Past Facebook Pages To Review or Not To for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-video-storytelling-integrating-audio-narration-for-2024/"><u>The Art of Video Storytelling Integrating Audio Narration for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-7-port-usb-30-hub-by-amazon-basics-features-and-performance/"><u>Top Rated 7-Port USB 3.0 Hub by Amazon Basics: Features and Performance</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-unleashing-musical-talent-with-magix-studio/"><u>[New] 2024 Approved Unleashing Musical Talent with Magix Studio</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-essential-webcam-methods-for-powerpoint-recordings/"><u>[New] Essential Webcam Methods for PowerPoint Recordings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-superior-5-iphones-for-podcasting-pleasure/"><u>[New] Superior 5 iPhones for Podcasting Pleasure</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-synchronized-success-audio-meets-visual-in-films/"><u>[New] Synchronized Success Audio Meets Visual in Films</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-premier-photography-frame-selection-24/"><u>[New] The Premier Photography Frame Selection '24</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-innovative-approaches-for-podcast-cover-art-mastery/"><u>[Updated] Innovative Approaches for Podcast Cover Art Mastery</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/movavimpegamv/"><u>「MovaviでスムーズなMPEGへの無料オンラインAMV変換」</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-clear-cut-strategy-for-image-border-management-on-canva/"><u>2024 Approved The Clear-Cut Strategy for Image Border Management on Canva</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tranquil-acoustic-settings-on-computers/"><u>2024 Approved Tranquil Acoustic Settings on Computers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-look-at-what-is-dts-virtual-x/"><u>A Comprehensive Look at What Is DTS Virtual: X?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-realme-c55-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Realme C55? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/post-with-a-podcast-highlight-moment-for-2024/"><u>Post with a Podcast Highlight Moment for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-10-great-substitutes-for-chatgpt-enhanced-ai-options/"><u>Top 10 Great Substitutes for ChatGPT: Enhanced AI Options</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-macos-11-big-sur-transition-tips-for-2024/"><u>Understanding macOS 11 Big Sur Transition Tips for 2024</u></a></li>
 </ul></div>
 

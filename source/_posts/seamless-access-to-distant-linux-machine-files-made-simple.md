@@ -1,7 +1,7 @@
 ---
 title: Seamless Access to Distant Linux Machine Files Made Simple
-date: 2025-02-11T03:27:48.052Z
-updated: 2025-02-17T01:47:21.635Z
+date: 2025-02-13T06:34:48.600Z
+updated: 2025-02-16T21:17:44.436Z
 tags:
   - desktop
 categories:
@@ -31,10 +31,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  SSHFS isn’t really suited to executing programs located on the remote computer. Launching an executable from the mounted file system probably won’t work well, as it will try to run on your local computer. That’s the sort of stuff best suited to a regular SSH connection. But, for working with remote files, SSHFS can't be beat.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Installing SSHFS
 
  To use SSHFS, SSH must already be working on the remote computer. We’ve covered how to set up SSH elsewhere. We recommend [using SSH keys instead of passwords](https://youtube-tips.techidaily.com/n-2024-laughter-labyr-writes-making-memorable-parodies/).
@@ -49,11 +45,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
     
 ![Installing SSHFS on Ubuntu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/1-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Fedora users need to type:
 
         `sudo dnf install sshfs`
     
 ![Installing SSHFS on Fedora.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/2-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On Manjaro, you’ll use pacman:
 
@@ -68,7 +72,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Using the --version option to discover the version of SSHFS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/4-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Making a Remote Connection
@@ -97,6 +101,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
     
 ![Mounting the remote file system on the local mount point.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/7-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The command consists of:
 
 * **sudo**: We’re using sudo because our mount point is owned by root.
@@ -121,6 +129,10 @@ ls`
     
 ![Listing the contents of the remote file system in a terminal window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/8-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We can see the home directory of the user account on the remote computer. Any changes you make here are made on the remote drive. Any edits or deletions will affect the remote computer.
 
  We ought to be able to create a new file.
@@ -131,7 +143,7 @@ ls -hl new-file.txt`
 ![Creating a file in the remote file system and checking its attributes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/9-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Our file is created, and we’re the owner of it. There was no need to use sudo.
@@ -145,14 +157,6 @@ ls /home/dave/Downloads/`
     
 ![Copying files from the remote file system to the local file system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/10-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Accessing Files in a File Browser
 
  Because the mounted file system looks and behaves like any other part of your file system’s directory tree, you can use your file browser to navigate it too.
@@ -161,15 +165,15 @@ ls /home/dave/Downloads/`
 
 ![Accessing the remote file system in a file browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/11-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Double-clicking a file opens the application associated with that file type. These actions are carried out by applications on your local computer.
 
 ![Editing a file in the remote file system with a local editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/12-1.png) 
 
  If you edit a document, for example, your default local editor is launched.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Breaking the Connection
 
@@ -178,10 +182,6 @@ ls /home/dave/Downloads/`
         `sudo umount /media/dave/netscan`
     
 ![Unmounting the remote file system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/13-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The Far Away, Up Close
 
@@ -204,18 +204,22 @@ ls /home/dave/Downloads/`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-the-spotlight-these-8-trending-video-clips-online/"><u>[New] In the Spotlight These 8 Trending Video Clips Online</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-your-virtual-adventure-with-kinemaster-tips-and-competitor-analysis/"><u>2024 Approved Streamline Your Virtual Adventure with KineMaster Tips & Competitor Analysis</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/driving-into-fun-an-in-depth-look-at-holy-stone-rc-cartoon-race-car-for-families/"><u>Driving Into Fun: An In-Depth Look at Holy Stone RC Cartoon Race Car for Families</u></a></li>
-<li><a href="https://win-news.techidaily.com/effortless-and-secure-methods-for-complete-data-erasure-from-windows-os-versions/"><u>Effortless and Secure Methods for Complete Data Erasure From Windows OS Versions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-note-30i-bootloader-easily-by-drfone-android/"><u>How to Unlock Infinix Note 30i Bootloader Easily</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-conquer-youtube-creator-studio-a-comprehensive-guide/"><u>In 2024, Conquer YouTube Creator Studio A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-infinix-smart-7-hd-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Infinix Smart 7 HD Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-zooming-elevate-your-tiktok-videos/"><u>In 2024, The Art of Zooming Elevate Your TikTok Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tips-for-efficiently-implementing-windows-11s-auto-hdr-mode/"><u>In 2024, Tips for Efficiently Implementing Windows 11'S Auto HDR Mode</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unraveling-the-discrepant-nature-of-vr-and-full-sphere-capture/"><u>In 2024, Unraveling the Discrepant Nature of VR and Full Sphere Capture</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/insight-on-identification-comprehending-the-process-and-purpose-of-tagging/"><u>Insight on Identification: Comprehending the Process and Purpose of Tagging</u></a></li>
-<li><a href="https://some-skills.techidaily.com/vegaspro-2019-a-comprehensive-analysis-for-2024/"><u>VegasPro 2019 A Comprehensive Analysis for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-you-should-avoid-chatgpt-apps-on-the-mac-app-store/"><u>Why You Should Avoid ChatGPT Apps on the Mac App Store</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-achieving-youtube-success-increasing-followers-quickly/"><u>[New] Achieving YouTube Success Increasing Followers Quickly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-techniques-for-smoothly-fading-audio-within-lumafusion/"><u>[New] Techniques for Smoothly Fading Audio Within Lumafusion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-basics-what-makes-a-vr-device-special/"><u>[New] The Basics What Makes a VR Device Special?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-step-by-step-screen-recording-snapshots-on-mobile/"><u>[Updated] In 2024, Step-by-Step Screen Recording Snapshots on Mobile</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-ranked-5-excellent-webcams-with-professional-microphones/"><u>[Updated] Ranked 5 Excellent Webcams With Professional Microphones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tale-constructing-the-basic-blueprint/"><u>[Updated] Tale Constructing The Basic Blueprint</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-in-depth-review-tunefabs-latest-in-screen-capture-tech/"><u>2024 Approved In-Depth Review Tunefab's Latest in Screen Capture Tech</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-rankings-top-budget-friendly-photo-editors-online/"><u>2024 Approved The Ultimate Rankings Top Budget-Friendly Photo Editors Online</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-13-mini-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 13 mini Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-essential-tips-for-capturing-your-skype-conversations/"><u>In 2024, Essential Tips for Capturing Your Skype Conversations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-kinemaster-app-for-android-complete-review-2023/"><u>In 2024, KineMaster App for Android - Complete Review 2023</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-action-cam-battle-max-360-vs-hero-11-review/"><u>In 2024, Top Action Cam Battle Max 360 vs Hero 11 Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-tunes-palette-for-video-storytelling/"><u>In 2024, Top Tunes Palette for Video Storytelling</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-depth-analysis-of-sharex-criticism-and-replacements/"><u>In-Depth Analysis of ShareX Criticism & Replacements</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ntly-professional-masterful-thumbnails-created-fast-in-2024/"><u>Instantly Professional Masterful Thumbnails Created Fast, In 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-it-time-to-upgrade-comparing-features-of-galaxy-s23-and-s21-ultra/"><u>Is It Time to Upgrade? Comparing Features of Galaxy S23 & S21 Ultra</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-insiders-guide-to-uploading-with-google-for-2024/"><u>The Insider’s Guide to Uploading with Google for 2024</u></a></li>
 </ul></div>
 

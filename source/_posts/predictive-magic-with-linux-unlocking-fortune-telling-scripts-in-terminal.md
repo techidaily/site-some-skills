@@ -1,7 +1,7 @@
 ---
 title: "Predictive Magic with Linux: Unlocking Fortune-Telling Scripts in Terminal"
-date: 2025-02-12T00:39:41.286Z
-updated: 2025-02-16T23:56:58.724Z
+date: 2025-02-11T22:14:47.374Z
+updated: 2025-02-17T06:21:10.451Z
 tags:
   - desktop
 categories:
@@ -48,11 +48,7 @@ fortune
 ![Running fortune command in Linux terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fortune-command.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  fortune Options
@@ -79,10 +75,6 @@ fortune literature
 
 fortune -s -o literature
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Create Your Own fortune File
 
  What if I told you that you could create your own fortunes? That's right, it's a straightforward process. All you need is to create your custom fortune file and make it compatible with the fortune command's requirements. In this way, you're not bound to the predefined messages.
@@ -95,10 +87,6 @@ nano funny
 
 ![Adding fortunes text to a plain text file using nano text editor in Linux terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/adding-fortunes-saying.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once your file is ready, you need to convert it to a format that fortune can use. You can do this with the strfile command, which generates the necessary "funny.dat" file for the fortune command:
 
 strfile -c % funny funny.dat
@@ -106,7 +94,7 @@ strfile -c % funny funny.dat
 ![Converting plain text file to fortune supported file using strfile command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/file-conversoin-strfile.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, [move both files to the directory](https://some-knowledge.techidaily.com/in-2024-immersive-innovations-the-distinct-worlds-of-mr-ar-and-vr/) where fortune looks for its data. This location can vary, but it often looks like "/usr/share/games/fortunes/" or "/usr/local/share/games/fortunes/".
@@ -120,7 +108,7 @@ fortune -f
 ![Listing all fortune source files using the -f option of fortune command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fortune-listing.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The percentage here gives you a rough idea of how much of the total database size is taken up by a particular file.
@@ -132,6 +120,10 @@ fortune funny
 ![Displaying random saying from your newly created fortune file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fotune-command-custom.png) 
 
  Every time you run the command, one of your hand-crafted fortunes will appear.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Combine fortune and cowsay for Extra Fun
 
@@ -147,6 +139,10 @@ fortune | cowsay
 
 ![Piping fortune output to cowsay command to display random saying along with ASCII art.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fortune-cowsay.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Check it out! You've got a cow dispensing wisdom right there in your terminal. Just what you always wanted!
 
  But wait—there's more! You can also change the character delivering your fortune. For example, use **\-f** followed by the character's name to pick any other ASCII creature:
@@ -154,6 +150,10 @@ fortune | cowsay
 fortune | cowsay -f tux
 
 ![Tux displays random statements using fortune and cowsay commands.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/fortune-cowsay-tux.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also make your tux [colorful by piping the lolcat command](https://youtube-tips.techidaily.com/n-2024-accelerate-yt-growth-strategies-for-1kplus-subscribers/).
 
@@ -185,13 +185,13 @@ source ~/.bashrc
 
 ![Random fortune appearing on a Linux terminal after being launched.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/terminal-fortune-begin.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you want to use different ASCII art creatures, such as tux, just replace the **cowsay** command in the \~/.bashrc file with the **cowsay -f tux** command.
 
 ![Adding new fortune command with tux ASCII art to the end of bashrc file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/terminal-fortune-tux.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use Fortune for Testing
 
@@ -240,20 +240,20 @@ fortune | wc -c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-12-innovative-online-platforms-to-elevate-your-facebook-cover-pics/"><u>[New] 12 Innovative Online Platforms to Elevate Your Facebook Cover Pics</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-a-step-by-step-review-of-using-showmore-for-video-capture/"><u>[New] A Step-by-Step Review of Using ShowMore for Video Capture</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unexplained-tilted-images-on-instagrams-video-section/"><u>[New] Unexplained Tilted Images on Instagram's Video Section</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-instantaneous-identification-in-the-social-media-jungle-for-2024/"><u>[Updated] Instantaneous Identification in the Social Media Jungle for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-transforming-patience-into-speed-with-apps/"><u>[Updated] Transforming Patience Into Speed with Apps</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-scout-platforms-securing-partnerships-with-youtube-content-creators/"><u>2024 Approved Scout Platforms Securing Partnerships with YouTube Content Creators</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-next-generation-of-social-video-periscopes-counterparts/"><u>2024 Approved The Next Generation of Social Video Periscope's Counterparts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-the-upside-exploring-asmrs-advantages/"><u>2024 Approved Unlocking the Upside Exploring ASMR's Advantages</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-swiftly-survey-your-windows-documentation/"><u>In 2024, Swiftly Survey Your Windows Documentation</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210425982-9781639614219-incessant-ramblings-of-a-wilderness-survivor/"><u>Incessant Ramblings of a Wilderness Survivor | Free Book</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/master-guide-successfully-configuring-msi-afterburner-for-gpu-recognition-in-new-windows-environments/"><u>Master Guide: Successfully Configuring MSI Afterburner for GPU Recognition in New Windows Environments</u></a></li>
-<li><a href="https://some-skills.techidaily.com/swift-solutions-shifting-ios-media-files-for-2024/"><u>Swift Solutions Shifting iOS Media Files for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-cinema-mastering-the-best-5-camera-tips-for-2024/"><u>The Art of Cinema Mastering the Best 5 Camera Tips for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-best-of-editing-filmoras-captivating-features-for-2024/"><u>The Best of Editing Filmora's Captivating Features for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-advanced-3d-text-techniques-in-ai/"><u>[New] 2024 Approved Advanced 3D Text Techniques in AI</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-essential-guide-to-using-zdsoft-vision/"><u>[New] In 2024, The Essential Guide to Using ZDSoft Vision</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-revolutionizing-home-cinema-latest-on-samsungs-ubd-k850u/"><u>[New] Revolutionizing Home Cinema Latest on Samsung’s UBD-K850U</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-top-gopro-models-max-vs-hero-11/"><u>[Updated] Unveiling the Top GoPro Models Max Vs. Hero 11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/boost-communication-how-to-use-google-hangouts-on-mobile/"><u>Boost Communication How to Use Google Hangouts on Mobile</u></a></li>
+<li><a href="https://facebook.techidaily.com/dismantling-digital-dominance-the-governments-challenge-to-big-tech/"><u>Dismantling Digital Dominance: The Government's Challenge to Big Tech</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-15-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essence-of-burst-in-gopro-filming-techniques/"><u>In 2024, The Essence of Burst in GoPro Filming Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-hidden-reasons-behind-imovies-cuts/"><u>In 2024, The Hidden Reasons Behind iMovie’s Cuts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-7-affordable-4k-mirrorless-cameras-(1000/"><u>In 2024, Top 7 Affordable 4K Mirrorless Cameras <$1,000</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-video-repair-tool-repair-corrupt-damaged-unplayable-video-files-of-xiaomi-redmi-k70e-by-stellar-video-repair-mobile-video-repair/"><u>MP4 Video Repair Tool - Repair corrupt, damaged, unplayable video files of Xiaomi Redmi K70E</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-honor-90-pro-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Honor 90 Pro Phone? Unlock It Now</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/pinnacle-of-proficiency-advanced-english-techniques-by-mondly/"><u>Pinnacle of Proficiency: Advanced English Techniques by Mondly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-vr-player-guide-unveiling-the-best-pc-streamers-for-2024/"><u>The Ultimate VR Player Guide Unveiling the Best PC Streamers for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-5-drone-friendly-vr-experiences-for-2024/"><u>Top 5 Drone-Friendly VR Experiences for 2024</u></a></li>
 </ul></div>
 

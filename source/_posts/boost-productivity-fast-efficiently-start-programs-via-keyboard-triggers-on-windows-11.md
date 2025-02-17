@@ -1,7 +1,7 @@
 ---
 title: "Boost Productivity Fast: Efficiently Start Programs via Keyboard Triggers on Windows 11"
-date: 2025-02-15T21:54:34.112Z
-updated: 2025-02-16T20:55:25.909Z
+date: 2025-02-16T00:39:26.361Z
+updated: 2025-02-17T06:35:58.025Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 ---
 
 ## Boost Productivity Fast: Efficiently Start Programs via Keyboard Triggers on Windows 11
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -24,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
  If you access particular Windows apps regularly, it can take time to launch them by rummaging through the Start menu. Handily, Windows 11 lets you create custom keyboard shortcuts to quickly open your favorite programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Use Taskbar Shortcuts to Open Apps
 
  One of the [awesome features of the Windows 11 taskbar](https://extra-hints.techidaily.com/brighten-your-iphones-nighttime-recordings/) is the ability to pin your frequently used applications to it. Once pinned, you can use the Windows+AppNumber shortcut to launch it. Here, "AppNumber" is the order in which the app appears on the taskbar.
@@ -35,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
  To pin an app to the taskbar, search for the program in the Start menu, right-click it, and select "Pin to Taskbar". Alternatively, find the program in File Explorer, then hold the Shift key and right-click it, and select "Pin to Taskbar."
 
 ![Pinning an app to the Taskbar on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pin-to-taskbar-2.jpeg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once pinned to the taskbar, click and drag the icons to move them to a different position.
 
@@ -50,7 +38,15 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
 ![Windows 11 with the Steam app pinned to the Taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/windows-steam-taskbar-1.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While this method is fairly simple, its biggest drawback is that you can only use the taskbar shortcuts for a maximum of ten applications, with Win+0 being the key combination to launch the tenth.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Use App Properties Shortcuts to Open Apps
 
@@ -64,9 +60,17 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
 ![A screenshot of Windows 11 depicting the Properties option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/windows-11-properties-1.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Within the "Shortcut Key" field, press a key. This creates a shortcut using the Ctrl and Alt keys. For example, in the screenshot below, I pressed "A" which created a shortcut of Ctrl + Alt + A. Once done, click "OK".
 
 ![Setting a shortcut key from the Properties window on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/properties-shortcut-key.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To remove a shortcut, press the Delete key within the "Shortcut Key" field.
 
@@ -88,15 +92,7 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
 ![Remapping a shortcut in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/remapping-a-shortcut-in-powertoys.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you ever want to delete a shortcut, return to this screen and click the trash can.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Use AutoHotkey to Open Apps
 
@@ -105,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
  Go to the [AutoHotkey website](https://www.autohotkey.com/), then download and install it. Once done, launch AutoHotkey and select "New Script."
 
 ![AutoHotkey with the 'New Script' option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/autohotkey-new-script.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next, give your script a name and select the "Edit" button.
 
@@ -154,19 +154,17 @@ Run "C:\Program Files (x86)\Steam\steam.exe"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-effective-ways-how-to-block-facebook-video-ads-for-2024/"><u>[New] Effective Ways | How to Block Facebook Video Ads for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-exquisite-selection-idle-games-with-infinite-play/"><u>[New] In 2024, Exquisite Selection Idle Games with Infinite Play</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-tale-of-htc-vive-and-total-immersion/"><u>[New] The Ultimate Tale of HTC Vive and Total Immersion</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-total-data-usage-24-hour-videography-in-gbs/"><u>[New] Total Data Usage 24-Hour Videography in GBs</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-chart-a-course-for-success-top-5-effective-video-marketing-strategies-on-youtube/"><u>[Updated] Chart a Course for Success Top 5 Effective Video Marketing Strategies on YouTube</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-peak-performance-sd-card-for-sony-a7s-series/"><u>[Updated] Peak Performance SD Card for Sony A7S Series</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-auteurs-toolkit-5-critical-cinematographic-insights/"><u>2024 Approved The Auteur's Toolkit 5 Critical Cinematographic Insights</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-compendium-for-professionals-in-vivacut-video-editing/"><u>2024 Approved The Ultimate Compendium for Professionals in VivaCut Video Editing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-15-timeless-classics-in-stop-motion-cinema-history/"><u>2024 Approved Top 15 Timeless Classics in Stop-Motion Cinema History</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-review-on-the-pioneer-bdr-xs06-assessing-blu-ray-burning-power-and-portability-features/"><u>Expert Review on the Pioneer BDR-XS06: Assessing Blu-Ray Burning Power & Portability Features</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-oppo-reno-11-pro-5g-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Oppo Reno 11 Pro 5G?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-insiders-blueprint-for-commanding-attention-with-posts/"><u>In 2024, The Insider's Blueprint for Commanding Attention with Posts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-reviews-and-news-at-toms-computer-and-electronics-hub/"><u>In-Depth Reviews and News at Tom's Computer & Electronics Hub</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-ultra-sophisticated-ipad-calculator-a-must-have-feature-worth-owning-an-apple-pencil-for/"><u>Unveiling the Ultra-Sophisticated iPad Calculator: A Must-Have Feature Worth Owning an Apple Pencil For!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-exclusive-list-best-mac-gif-recorders/"><u>[New] 2024 Approved Exclusive List Best Mac GIF Recorders</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-transform-your-screen-pip-tutorials-for-macos-enthusiasts/"><u>[New] In 2024, Transform Your Screen PIP Tutorials for macOS Enthusiasts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-ultimate-tutorial-looping-techniques-for-maximum-watcher-satisfaction/"><u>[Updated] In 2024, Ultimate Tutorial Looping Techniques for Maximum Watcher Satisfaction</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-instagram-stories-tempo-tactics-speeding-up-or-slowing-down-for-2024/"><u>[Updated] Instagram Stories Tempo Tactics – Speeding Up or Slowing Down for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-role-of-background-melody-in-a-cinematic-commercial/"><u>[Updated] The Role of Background Melody in a Cinematic Commercial</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-your-step-by-step-guide-to-building-a-profitable-channel/"><u>[Updated] Your Step-by-Step Guide to Building a Profitable Channel</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-free-hilarious-memetic-art/"><u>2024 Approved The Ultimate Guide to Free, Hilarious Memetic Art</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-vector-graphics-101-overview-of-varieties-and-tools/"><u>2024 Approved Vector Graphics 101 Overview of Varieties & Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-unique-methods-for-playing-on-your-ps5-console/"><u>6 Unique Methods for Playing on Your PS5 Console</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-realme-11-pro-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Realme 11 Pro FRP Locks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-watchful-eye-app-critique-and-rating/"><u>In 2024, The Watchful Eye App Critique and Rating</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reveal-missing-printer-on-your-windows-system/"><u>Reveal Missing Printer on Your Windows System</u></a></li>
 </ul></div>
 

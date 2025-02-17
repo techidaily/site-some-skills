@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Evaluating Secondhand Windows PCs – 8 Key Points
-date: 2025-02-11T23:12:33.143Z
-updated: 2025-02-16T18:56:18.409Z
+date: 2025-02-16T02:56:57.443Z
+updated: 2025-02-17T05:35:08.816Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## The Ultimate Guide to Evaluating Secondhand Windows PCs – 8 Key Points
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -38,6 +34,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  This will help you confirm whether the trackpad on your new laptop is equally or more responsive than the other one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Test the Speakers and Built-In Microphone
 
  Next, you should test the built-in microphone and speaker. While you can simply play and record something to check if the audio input and output devices are working fine, Windows also offers a way to test them in Settings. On Windows 11, right-click on the Start button and select "Settings." Then, navigate to System > Sound.
@@ -46,12 +46,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Testing the laptop speaker in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/1-testing-the-laptop-speaker-in-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To [test the built-in microphone](https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-y200e-5g-drfone-by-drfone-virtual-android/), return to the sound settings, click on "Microphone Array," and then click on the "Start Test" button next to Test Your Microphone. Speak for a few seconds, then stop the test. If you see a decent volume percentage recorded, the microphone is working as it should.
 
 ![Testing the laptop microphone in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-testing-the-laptop-microphone-in-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Test the Built-In Camera
@@ -61,7 +65,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If the camera app detects the webcam and the visuals are clear and of satisfactory quality, as the seller claimed, then the camera is working correctly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Check the Health of Your Laptop Battery
@@ -74,10 +78,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Generating the battery health report from Windows PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_2-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Navigate to this location and open the battery report. Then, go to the "Installed Batteries" section and compare the "Design Capacity" with the "Full Charge Capacity." The difference between these values indicates the extent to which the battery's capacity has diminished due to usage. If the full charge capacity is significantly low, you may have to replace the battery.
 
 ![Checking the laptop battery report.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_5.png) 
@@ -87,10 +87,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If you're thinking about buying a used laptop from an unknown seller, make sure that it hasn't been stolen. One way to check this is to request a purchase receipt from the seller. If they are unable to provide one, this could be a red flag. If the laptop hasn't been reset, is password-protected, or is locked, these signs indicate that it's likely a stolen device.
 
  You can also confirm your suspicions by getting the laptop's serial number and contacting the manufacturer to verify whether the device has been reported stolen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Perform the Physical Inspection
 
@@ -103,6 +99,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The worst scenario you could face is finding your [laptop unable to connect to the internet](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual/) (via Wi-Fi or Ethernet cable), USB ports failing to detect external devices, or Bluetooth malfunctioning—all after completing the purchase. Because of that, confirming there are no wired or wireless connectivity issues is important.
 
  Start by connecting your laptop to Wi-Fi. Then, [test its Ethernet port](https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/) by plugging it directly into the router. If the internet connection works well, test the audio jacks with headphones. Similarly, check the USB ports by connecting a wired device. Finally, make sure Bluetooth is working by pairing a Bluetooth-powered device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Check the Health of RAM and Storage Drive
 
@@ -133,20 +133,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-unified-imagery-the-ultimate-blend-strategy/"><u>[New] Unified Imagery The Ultimate Blend Strategy</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-affordable-mcb-theme-images-for-channels/"><u>[Updated] In 2024, Affordable MCB Theme Images for Channels</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-liberate-iphone-photos-from-red-eye-effects-at-no-cost/"><u>[Updated] Liberate iPhone Photos From Red Eye Effects at No Cost</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-synthesize-film-selections-on-platform-playlist/"><u>2024 Approved Synthesize Film Selections on Platform Playlist</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-wirecast-vs-obs-the-ultimate-guide-to-live-streamers/"><u>2024 Approved Wirecast Vs. OBS The Ultimate Guide to Live Streamers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/best-real-time-streaming-manycam-ultimate-live-video-and-digital-backgrounds/"><u>Best Real-Time Streaming: ManyCam, Ultimate Live Video and Digital Backgrounds</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-honor-magic5-ultimate-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Honor Magic5 Ultimate.</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-clipcraft-designer/"><u>In 2024, ClipCraft Designer</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tricks-to-perfect-time-lapses-using-samsung-cameras/"><u>In 2024, Tricks to Perfect Time-Lapses Using Samsung Cameras</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/magnify-memories-unaltered-resolution-for-2024/"><u>Magnify Memories Unaltered Resolution for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-bluestacks-crashing-in-5-quick-steps/"><u>Overcome BlueStacks Crashing in 5 Quick Steps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-steps-for-the-vcruntime140dll-could-not-be-located-error-message/"><u>Solution Steps for the 'vcruntime140.dll Could Not Be Located' Error Message</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-free-video-playback-vlc-or-mpc-for-2024/"><u>The Ultimate Guide to Free Video Playback VLC or MPC for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-9-live-game-streaming-platform-you-should-know-for-2024/"><u>Top 9 Live Game Streaming Platform You Should Know for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-phone-filters-and-camera-cases/"><u>[New] Ultimate Phone Filters & Camera Cases</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-workflow-for-embedding-subtitle-track-in-mp4s/"><u>[New] Ultimate Workflow for Embedding Subtitle Track in MP4s</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-easy-tweaks-changing-fishy-vocal-patterns-on-windows/"><u>[Updated] In 2024, Easy Tweaks Changing Fishy Vocal Patterns on Windows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-windows-11-audio-capture/"><u>[Updated] The Ultimate Guide to Windows 11 Audio Capture</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-creative-expressions-building-stories-from-photos-in-pixiz/"><u>[Updated] Unlock Creative Expressions Building Stories From Photos in Pixiz</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-creativity-a-deep-dive-into-metaverse-meme-culture/"><u>2024 Approved Unleash Creativity A Deep Dive Into Metaverse Meme Culture</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/exclusive-offer-save-30-on-winx-dvd-ripper-pro-premium-version-mac-download-2023-promo-codes/"><u>Exclusive Offer: Save 30% on WinX DVD Ripper Pro Premium Version Mac Download - 2023 Promo Codes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-opportunities-joining-openais-bug-bounty-initiative-a-comprehensive-guide/"><u>Exploring the Opportunities: Joining OpenAI's Bug Bounty Initiative - A Comprehensive Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-nubia-z50-ultra-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Nubia Z50 Ultra Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-vivo-t2-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Vivo T2 5G Phone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-iphone-7-plus-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From iPhone 7 Plus in the Best Ways</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-pathway-to-personalized-ios-ringtones/"><u>In 2024, The Complete Pathway to Personalized iOS Ringtones</u></a></li>
+<li><a href="https://facebook.techidaily.com/metas-pursuit-aiming-for-a-social-media-revolution-in-europe/"><u>Meta's Pursuit: Aiming for a Social Media Revolution in Europe</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-using-zoom-features-in-gmail-emails-for-2024/"><u>The Ultimate Guide to Using Zoom Features in Gmail Emails for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-overview-dji-inspire-1-reviewed-for-2024/"><u>The Ultimate Overview DJI Inspire 1 Reviewed for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-langchain-and-large-language-models/"><u>Understanding LangChain and Large Language Models</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-hulu-content-for-seamless-streaming-on-lg-smart-tvs/"><u>Unlocking Hulu Content for Seamless Streaming on LG Smart TVs</u></a></li>
 </ul></div>
 

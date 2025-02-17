@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Images Using Artificial Intelligence: Mastering the Technique of Super-Resolution with Stable Diffusion"
-date: 2025-02-06T19:21:32.674Z
-updated: 2025-02-07T16:18:35.318Z
+date: 2025-02-14T03:36:12.792Z
+updated: 2025-02-16T22:45:43.028Z
 tags:
   - cutting-edge
 categories:
@@ -29,12 +29,16 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
  In this guide we're assuming you have [automatic11111's Stable Diffusion WebUI installed and running](https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-tecno-spark-go-2023-phone-by-drfone-android/). It's the definitive edition of Stable Diffusion and makes upscaling (along with many other aspects of work with AI images) much more simple and intuitive compared to [a standard Stable Diffusion installation](https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-xiaomi-redmi-k70-phone-by-drfone-android/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Upscale Images in Stable Diffusion
 
  Whether you've got a [scan of an old photo](https://fox-cloud.techidaily.com/2024-approved-visualvision-studio-for-win8/), an old digital photo, or a low-res [AI-generated image](https://fox-info.techidaily.com/new-synthesize-stellar-titles-using-ai-insights/), start Stable Diffusion WebUI and follow the steps below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. Upload an Image
 
@@ -45,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
  Or, if you've just generated an image you want to upscale, click "Send to Extras" and you'll be taken to there with the image in place for upscaling. Otherwise, you can drag-and-drop your image into the Extras upload field.
 
 ![A photo placed in the Extras upload field in Stable Diffusion WebUI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/generate.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have several images you want to upscale at once, switch to the "Batch Process" tab and drop several at once. In my experience, though, this doesn't always work, and
 
@@ -57,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
  Alternatively, you can switch to the "Scale To" tab and enter a specific resolution you want. Pay close attention to the image's current aspect ratio, and uncheck the "Crop to Fit" option if you don't want edges cut off.
 
  If you're planning to make a wallpaper, keep in mind that most modern phones use a 9:16 [aspect ratio](https://youtube-lab.techidaily.com/e-stock-images-directly-from-trusted-4-youtube-vids/), tablets use 4:3, and computers 16:9 (though ultrawide monitors go up to 21:9).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Step 3: Choose an Upscaler
 
@@ -79,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 * **Anime:** R-ESRGAN 4x+ Anime6B
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Step 4: Upscale!
@@ -103,16 +107,12 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 Related: [How to Use Stable Diffusion to Make AI GIFs and Videos](https://youtube-help.techidaily.com/in-2024-sonic-gold-standard-10-ways-to-elevate-home-recordings/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Tips for Better Upscaling Results
 
  If images aren't looking quite how you expected, there are a few things you can do get better results from Stable Diffusion's upscaling tools.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Try an Upscaler Combo
 
@@ -123,7 +123,7 @@ Related: [How to Use Stable Diffusion to Make AI GIFs and Videos](https://youtub
 ![Secondary upscaler selected in Stable Diffusino WebUI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/second-upscaler.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Fix Bad Aspect Ratios With Outpainting
@@ -135,6 +135,10 @@ Related: [How to Use Stable Diffusion to Make AI GIFs and Videos](https://youtub
  As you'll quickly find out, outpainting well is difficult, and probably a subject for another guide, especially with complex image content like people and animals. That said, just messing around and not making too many changes I was able to generate this panoramic version of my image that, at first glance, looks half-believable.
 
 ![Upscaled photo of a walking path in autumn with the left and right side generated using Stable Diffusion.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/wallpaper_outpainting.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Postprocess upscale by: 4, Postprocess upscaler: ESRGAN\_4x, Postprocess upscaler 2: SwinIR\_4x
 
@@ -149,10 +153,6 @@ Postprocess upscale by: 4, Postprocess upscaler: ESRGAN\_4x, Postprocess upscale
  While both are capable tools, GPFGAN is generally better at restoring a face's structure (eyes in particular), but CodeFormer is better at fixing skin textures. GPFGAN has a tendency to give human skin a strange ultrasmooth look, so if you notice that happening, try CodeFormer instead. Alternatively, combine the two and try to get the best of both worlds. Again, experimentation is key.
 
 ![Use the GFPGAN and CodeFormer sliders to add facial correction to your upscaled images.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/facial-restoration.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In terms of speed, GPFGAN is slightly faster than CodeFormer. So if you're looking to make your upscaling happen as quickly possible, you'll probably want to lean on GPFGAN.
 
@@ -173,19 +173,21 @@ Related: [How to Make Awesome Wallpapers for Any Device With MidJourney](https:/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-discover-the-best-6-apps-to-supercharge-your-instagram-reels-for-2024/"><u>[New] Discover the Best 6 Apps to Supercharge Your Instagram Reels for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-the-art-of-selective-engagement-on-ig/"><u>[New] The Art of Selective Engagement on IG</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-fishermans-field-guide-to-prime-camers/"><u>[New] The Fisherman's Field Guide to Prime Camers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-step-by-step-guide-to-kinemasters-green-screen-mastery/"><u>[New] The Ultimate Step-by-Step Guide to Kinemaster's Green Screen Mastery</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unraveling-the-complexities-of-music-licensing-on-instagram/"><u>[New] Unraveling the Complexities of Music Licensing on Instagram</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-total-clarification-googles-podcast-application-simplified/"><u>2024 Approved Total Clarification Google's Podcast Application Simplified</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-on-preventing-evermore-odyssey-2-from-crashing-on-your-pc/"><u>Expert Advice on Preventing Evermore Odyssey 2 From Crashing on Your PC</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-motorola-g54-5g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Motorola G54 5G</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-will-artificial-intelligence-impact-mental-wellness-progress-or-regress/"><u>How Will Artificial Intelligence Impact Mental Wellness: Progress or Regress?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-vivo-s18e-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Vivo S18e to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/increase-your-videos-impact-essential-keyword-analysis-resources/"><u>Increase Your Video's Impact Essential Keyword Analysis Resources</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-typing-problems-on-your-pc-windows-11-7-and-8/"><u>Solving Typing Problems on Your PC (Windows 11, 7 & 8)</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-overcoming-steam-online-connectivity-errors/"><u>Step-by-Step Solutions for Overcoming Steam Online Connectivity Errors</u></a></li>
-<li><a href="https://some-skills.techidaily.com/subtitled-on-the-go-zip-to-srt-conversion-techniques-for-2024/"><u>Subtitled on the Go ZIP-to-SRT Conversion Techniques for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-elevating-earnings-the-essentials-of-vimeo-revenue-model/"><u>[New] 2024 Approved Elevating Earnings The Essentials of Vimeo Revenue Model</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-20-minutes-to-master-vrecorder-instalment/"><u>[New] In 2024, 20 Minutes To Master VRecorder Instalment</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-blueprint-to-acquire-clean-images/"><u>[New] The Blueprint to Acquire Clean Images</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-screenrec-made-simple-for-laptop-users/"><u>[Updated] 2024 Approved ScreenRec Made Simple for Laptop Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-dji-phantom-3-a-complete-technical-review/"><u>[Updated] Unveiling DJI Phantom 3 A Complete Technical Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-strategies-for-captivating-close-up-cinematography/"><u>2024 Approved Top 10 Strategies for Captivating Close-Up Cinematography</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-nokia-c210-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Nokia C210 Devices | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-infinix-hot-40i-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Infinix Hot 40i?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-7-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 7 to other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-crafting-co-branded-content-on-youtube-platforms/"><u>In 2024, Crafting Co-Branded Content on YouTube Platforms</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-elevate-your-channel-hit-the-10000-view-mark-fast/"><u>In 2024, Elevate Your Channel Hit the 10,000 View Mark Fast!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamsmart-beyond-the-dacast-shell/"><u>In 2024, StreamSmart Beyond the DaCast Shell</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-blueprint-creating-exceptional-podcast-content-on-idevices/"><u>In 2024, The Ultimate Blueprint Creating Exceptional Podcast Content on iDevices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-instagram-notifications-diy-sound-design-for-2024/"><u>Transform Instagram Notifications DIY Sound Design for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-microphone-selection-for-high-res-video-shooting-for-2024/"><u>Ultimate Microphone Selection for High-Res Video Shooting for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-potential-of-todays-drones-for-tomorrow-for-2024/"><u>Unveiling the Potential of Today's Drones for Tomorrow for 2024</u></a></li>
 </ul></div>
 

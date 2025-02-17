@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary 3D Ink Requires Just Saltwater: No Light or Heat Needed"
-date: 2025-02-03T19:52:55.511Z
-updated: 2025-02-07T20:15:31.028Z
+date: 2025-02-14T17:04:57.570Z
+updated: 2025-02-16T23:29:19.351Z
 tags:
   - cutting-edge
 categories:
@@ -40,26 +40,24 @@ A multinational team of researchers has developed a novel 3D printing ink that c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-silent-input-transcription-services/"><u>[New] Ultimate Silent Input Transcription Services</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unraveling-the-mystery-behind-apples-m1-chip/"><u>[New] Unraveling the Mystery Behind Apple's M1 Chip</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-transform-your-screen-pip-tutorials-for-macos-enthusiasts/"><u>[Updated] 2024 Approved Transform Your Screen PIP Tutorials for macOS Enthusiasts</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-9-essential-iphone-x-hacks-for-every-user-for-2024/"><u>[Updated] 9 Essential iPhone X Hacks for Every User for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-route-to-rejuvenate-and-refine-your-vhs-collection-online/"><u>[Updated] The Ultimate Route to Rejuvenate and Refine Your VHS Collection Online</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unmarked-stock-a-beginners-guide-to-clear-content/"><u>[Updated] Unmarked Stock A Beginner's Guide to Clear Content</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-superior-pc-experience-innovation-at-your-fingertips/"><u>2024 Approved Superior PC Experience Innovation at Your Fingertips</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-lava-storm-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-lenovo-x1-carbon-driver-updates-for-windows-710-quick-download-steps/"><u>Get Lenovo X1 Carbon Driver Updates for Windows 7/10: Quick Download Steps</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-new-era-of-racing-vr-bike-selection-guide/"><u>In 2024, New Era of Racing VR Bike Selection Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-instructions-for-prolonged-iphone-shots/"><u>In 2024, The Ultimate Instructions for Prolonged iPhone Shots</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-10-audio-playback-accelerators-for-phones/"><u>In 2024, Top 10 Audio Playback Accelerators for Phones</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-poco-c55-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Poco C55 to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondly-joins-huaweis-appecosystem/"><u>Mondly Joins Huawei's AppEcosystem</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/quick-guide-setting-up-chatgpt-on-android/"><u>Quick Guide: Setting Up ChatGPT on Android</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-facetune-review-transform-your-image-quality-for-2024/"><u>Ultimate Facetune Review Transform Your Image Quality for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/video-voyaging-navigating-twittersphere-and-tumbleverse/"><u>Video Voyaging Navigating Twittersphere & Tumbleverse</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-new-era-of-mobile-gaming-with-android-and-vr/"><u>[New] The New Era of Mobile Gaming with Android and VR</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-the-ultimate-snapchat-plus-twitter-duo-video-posting-guide-for-2024/"><u>[New] The Ultimate Snapchat + Twitter Duo (Video Posting Guide) for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-how-to-create-high-impact-educational-videotutorials/"><u>[Updated] How to Create High-Impact Educational Videotutorials</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-into-the-next-era-with-2023s-enhanced-samsung-k850u/"><u>[Updated] Into The Next Era with 2023'S Enhanced Samsung K850U</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-androids-new-frontier-the-impact-of-kinemaster-app/"><u>2024 Approved Android's New Frontier The Impact of KineMaster App</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apple-ios-15-mastering-the-art-of-innovation-with-its-improved-flashlight-feature/"><u>Apple iOS 15: Mastering the Art of Innovation with Its Improved Flashlight Feature</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-t2-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Vivo T2 5G Phone Without Password?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-social-media-influencers-secret-creating-captivating-facebook-biographies/"><u>In 2024, Social Media Influencers' Secret Creating Captivating Facebook Biographies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-superior-ai-photo-cutting-master/"><u>In 2024, Superior AI Photo Cutting Master</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-xiaomi-redmi-note-12r-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Xiaomi Redmi Note 12R Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essentials-for-seamless-system-evolutions-for-2024/"><u>The Essentials for Seamless System Evolutions for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-5-online-av-creation-leaders-for-2024/"><u>The Ultimate 5 Online AV Creation Leaders for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-color-theory-and-practical-application-techniques-for-2024/"><u>The Ultimate Guide to Color Theory and Practical Application Techniques for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-mobile-vpn-services-comprehensive-reviews-and-comparisons-zdnet/"><u>Top-Rated Mobile VPN Services : Comprehensive Reviews & Comparisons - ZDNet</u></a></li>
+<li><a href="https://fox-search.techidaily.com/wie-man-gmail-nachrichten-erfolgreich-wiederherstellt-ein-umfassender-backupschlussel/"><u>Wie Man Gmail-Nachrichten Erfolgreich Wiederherstellt: Ein Umfassender Backupschlüssel</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

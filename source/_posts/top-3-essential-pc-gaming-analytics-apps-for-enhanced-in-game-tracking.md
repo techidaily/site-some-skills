@@ -1,7 +1,7 @@
 ---
 title: Top 3 Essential PC Gaming Analytics Apps for Enhanced In-Game Tracking
-date: 2025-02-15T03:38:43.066Z
-updated: 2025-02-16T17:08:48.505Z
+date: 2025-02-14T17:53:22.270Z
+updated: 2025-02-17T06:14:33.559Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Top 3 Essential PC Gaming Analytics Apps for Enhanced In-Game Tracking
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -30,7 +30,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If you want to monitor your in-game performance stats but don’t know which tool to use, fret not. Here are three in-game performance monitoring apps I wholeheartedly recommend to every PC gamer, regardless of which hardware you're using.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  NVIDIA Statistics Overlay
@@ -45,21 +45,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![NVIDIA Overlay main menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-01.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once there, make sure to select the “Custom” statistics view, click on the "View All" button, and then simply enable the performance metrics you want to see on the statistics overlay.
 
 ![NVIDIA overlay in-game statistics options menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-03.png) 
 
  You can also configure the heads-up display by clicking the "Configure Heads Up Display" button in the "Statistics" options menu.
 
-## ![NVIDIA Overlay Statistics options menu](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-02.png) RivaTuner Statistics Server
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## ![NVIDIA Overlay Statistics options menu](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-02.png) RivaTuner Statistics Server
 
  The legendary [RivaTuner Statistics Server](https://www.guru3d.com/page/rivatuner-rtss-homepage/), also known as RTSS, is the oldest in-game performance monitoring tool on this list. I’ve been using RTSS for more than a decade, and in that time, I’ve had zero issues with it.
 
@@ -73,13 +69,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![RivaTuner Statistics Server main window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-004.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Don't forget that you can add game EXE files to RTSS and create custom RTSS profiles. For example, if a game uses anti-cheat that can block RTSS, I recommend creating a custom profile and disabling the on-screen display (OSD) only in that game. You can also tweak a couple more OSD-related options in RTSS, such as the OSD zoom level.
 
 ![RTSS Main Window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-04.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also use RTSS as an in-game frame limiter, which I recommend because I’ve found it works much better than frame limiters available in games or those available in NVIDIA and AMD apps.
 
@@ -87,15 +83,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![MSI Afterburner Main window and the On-Screen Display options menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-05.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, click the “Monitoring” tab. In this tab, you can pick any in-game performance metric you want to see on the OSD; to enable it, click the “Show in On-Screen Display” box. You can also rename every metric by clicking the "Override Graph Name" and "Override Group Name" buttons.
 
 ![MSI Afterburner main window and the Monitoring menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-06-2.png) 
 
  After you enable the performance stats you want to see on the OSD, click the “Apply” button, and try out the OSD by entering the game and pressing the button you’ve mapped to open the RTSS performance overlay.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Intel PresentMon
 
@@ -120,6 +116,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Once in the configuration menu, explore different options and create your perfect monitoring overlay.
 
 ![Intel PresentMon custom preset configuration menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-in-game-performance-monitoring-tools-i-recommend-to-every-pc-gamer-08.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can combine multiple metrics by pressing the “Plus” button. For example, you can combine GPU and CPU busy graphs with GPU and CPU wait graphs, average and 99% low FPS, CPU and GPU utilization, and more. The “Options” button next to the “Plus” button allows you to customize each graph.
 
@@ -146,18 +146,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-the-potential-of-iphone-photos-through-motion-blur/"><u>2024 Approved Unleashing the Potential of iPhone Photos Through Motion Blur</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unraveling-the-mystery-of-apples-new-ios-camera/"><u>2024 Approved Unraveling the Mystery of Apple's New iOS Camera</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-virtual-venue-vaults-users/"><u>2024 Approved Virtual Venue Vaults Users</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/comparatif-detaille-desinfection-et-nettoyage-securise-de-ssd-connaitre-les-differences/"><u>Comparatif Détaillé: Désinfection Et Nettoyage Sécurisé De SSD - Connaître Les Différences</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-videos-not-playing-10-ways-to-fix-it/"><u>Facebook Videos Not Playing? 10 Ways to Fix It</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-converter-transforming-m1v-files-into-mpg-movavi-guide/"><u>Free Online Converter: Transforming M1V Files Into MPG - Movavi Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-streamers-choice-should-you-opt-for-vlc-or-mpc/"><u>In 2024, Streamer's Choice Should You Opt for VLC or MPC?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-present-state-of-drones-and-their-future-expansion/"><u>In 2024, The Present State of Drones and Their Future Expansion</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-1-global-musical-views/"><u>In 2024, Top 1 Global Musical Views</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-list-leading-vr-biking-rides/"><u>In 2024, Ultimate List Leading VR Biking Rides</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/streamlining-screen-capture-minecraft-edition-tips-and-tricks-for-macs-for-2024/"><u>Streamlining Screen Capture Minecraft Edition - Tips & Tricks for Macs for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-vivo-y55s-5g-2023-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Vivo Y55s 5G (2023) Has Black Screen of Death? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-huawei-nova-y91-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Huawei Nova Y91 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-social-sharing-simplified-photos-from-your-device-now/"><u>[New] 2024 Approved Social Sharing Simplified Photos From Your Device Now</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-decoding-fb-lives-multiscreen-mastery-techniques/"><u>[New] Decoding FB Live's Multiscreen Mastery Techniques</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-top-5-methods-capturing-facebook-stories-on-devices/"><u>[New] In 2024, Top 5 Methods Capturing Facebook Stories on Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-secrets-of-video-filter-application-techniques/"><u>[New] Unveiling the Secrets of Video Filter Application Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-speed-instant-signature-background-cleanup/"><u>[Updated] Unlocking Speed Instant Signature Background Cleanup</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-brilliant-question-bank-to-entice-audio-enthusiasts/"><u>2024 Approved Brilliant Question Bank to Entice Audio Enthusiasts</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-5-video-marketing-effective-tagging-techniques/"><u>2024 Approved Top 5 Video Marketing Effective Tagging Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-latest-watchos-evolution-with-enhanced-apis-and-new-designs-for-revolutionary-watch-app-development-on-zdnet/"><u>Explore the Latest WatchOS Evolution with Enhanced APIs and New Designs for Revolutionary Watch App Development on ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-oppo-find-x6-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Oppo Find X6 Pro Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-companion-for-advanced-win10-users/"><u>In 2024, The Essential Companion for Advanced Win10 Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-next-level-in-monitor-technology-a-deep-dive-into-p2715qs-wonders/"><u>In 2024, The Next Level in Monitor Technology - A Deep Dive Into P2715Q's Wonders</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tint-tuning-toolkit/"><u>In 2024, Tint Tuning Toolkit</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-secrets-to-a-successful-fb-giveaway/"><u>In 2024, Unveiling the Secrets to a Successful FB Giveaway</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-reverse-rotation-riddle-on-social-media-platforms-for-2024/"><u>The Reverse Rotation Riddle on Social Media Platforms for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-5-ios-applications-bringing-your-podcast-to-life-for-2024/"><u>Top 5 iOS Applications Bringing Your Podcast to Life for 2024</u></a></li>
 </ul></div>
 

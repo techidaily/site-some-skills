@@ -1,7 +1,7 @@
 ---
 title: 9 Essential, Yet Underrated, Features in Evernote for Enhanced Organization and Workflow
-date: 2025-02-10T07:33:03.441Z
-updated: 2025-02-17T05:04:05.388Z
+date: 2025-02-14T18:40:38.906Z
+updated: 2025-02-16T21:18:05.577Z
 tags:
   - desktop
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## 9 Essential, Yet Underrated, Features in Evernote for Enhanced Organization and Workflow
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * You can scan handwritten notes directly into Evernote, leverage AI assistance to expedite note-taking, and record voice notes when typing isn’t an option.
@@ -22,10 +18,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * Additionally, you can track changes to notes over time and use the built-in task management features to create and manage to-do lists.
 
  Evernote has many useful features that many users aren't aware of. You can use it to scan documents, get AI assistance, set reminders for deadlines, and record voice notes, among other things. If you use Evernote for note-taking, utilizing these features can help you unlock the app's full potential.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Digitally Scan and Organize Your Handwritten Notes
 
@@ -45,9 +37,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Using the AI Edits Assistant in Evernote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-using-the-ai-edits-assistant-in-evernote.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The feature works differently on Evernote's smartphone app. Unlike the desktop app and the web client that allows refining individual sections and paragraphs, it refines your entire document at once. Additionally, it doesn't work on documents with fewer than 100 words or more than 6,000 words.
 
 ![Using AI assistance in the Evernote smartphone app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-1-using-ai-assistance-in-the-evernote-smartphone-app.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Record and Store Your Notes as Voice Memos
 
@@ -61,16 +61,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Recording a voice memo in Evernote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-recording-a-voice-memo-in-evernote.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The memo will be saved in the same note; you can transcribe it by clicking the "Transcribe" button.
 
 ![Transcribing a voice note in Evernote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-transcribing-a-voice-note-in-evernote.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Set Reminders to Keep Track of Deadlines
@@ -83,16 +79,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Adding a reminder for a task in Evernote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-adding-a-reminder-for-a-task-in-evernote.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On a smartphone, tap the three horizontal dots in the top-right corner, select "Add Reminder," set the time and date, and tap "Save."
 
 ![Adding a reminder for a task in the Evernote smartphone app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-4-adding-a-reminder-for-a-task-in-the-evernote-smartphone-app.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use Tags to Find Your Content Quickly
@@ -104,7 +96,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Creating a tag in Evernote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-creating-a-tag-in-evernote.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Save Frequently Used Notes as Shortcuts
@@ -115,7 +107,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Adding a task to Shortcuts in Evernote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/6-adding-a-task-to-shortcuts-in-evernote.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Open the note on the smartphone app, click on the three horizontal dots in the top-right corner, and select "Add to Shortcuts."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Manage Tasks Efficiently With To-Do Lists
 
@@ -126,7 +126,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Creating a to-do list in Evernote.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-creating-a-to-do-list-in-evernote.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Remember to delete your daily to-do list at the end of the day to keep your task management organized within the app.
@@ -158,19 +158,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-brand-storytelling-through-imagery-a-podcast-designers-guide/"><u>[New] Brand Storytelling Through Imagery A Podcast Designer's Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-high-fidelity-on-the-big-screen-the-4k-monitor-tale-of-lgs-31mu97-b/"><u>[New] High Fidelity on the Big Screen The 4K Monitor Tale of LG's 31MU97-B</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-download-and-translate-youtube-videos-for-free/"><u>[Updated] In 2024, Download and Translate YouTube Videos for Free</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-how-does-t-series-generate-revenue/"><u>[Updated] In 2024, How Does T-Series Generate Revenue?</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-leveraging-likeability-for-business-profits-on-fb/"><u>[Updated] Leveraging Likeability for Business Profits on FB</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-logitech-webcam-software-and-driver-download-for-pcs/"><u>Free Logitech Webcam Software & Driver Download for PCs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-easily-set-up-and-download-focusrite-scarlett-nano-usb-interface-with-windows-software/"><u>How to Easily Set Up and Download Focusrite Scarlett Nano USB Interface with Windows Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ghostly-gag-gallery/"><u>In 2024, Ghostly Gag Gallery</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-reestablishing-communication-with-a-non-responsive-obs-cam/"><u>In 2024, Reestablishing Communication with a Non-Responsive OBS Cam</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-turning-chaos-into-clarity-in-your-burdened-tiktok-archive/"><u>In 2024, Turning Chaos Into Clarity in Your Burdened TikTok Archive</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-editors-edge-adding-sleek-fades-to-your-work-for-2024/"><u>The Editor's Edge Adding Sleek Fades to Your Work for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-language-gurus-selection-of-top-30-tools-to-translate-videos-for-2024/"><u>The Language Guru’s Selection of Top 30 Tools to Translate Videos for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/time-lapse-tales-smartphone-storytelling-techniques-for-2024/"><u>Time-Lapse Tales Smartphone Storytelling Techniques for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unraveling-drone-technology-mechanisms-and-applications-demystified-for-2024/"><u>Unraveling Drone Technology Mechanisms and Applications Demystified for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-accompanying-imagery-with-audio/"><u>[New] The Art of Accompanying Imagery With Audio</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-dslrs-rivalry-with-mirrorless-for-video-artistry/"><u>[Updated] 2024 Approved DSLR's Rivalry with Mirrorless for Video Artistry</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-tackling-video-upload-snags-your-pathway-to-success-on-fb-for-2024/"><u>[Updated] Tackling Video Upload Snags Your Pathway to Success on Fb for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-ultimate-selection-of-ipad-enhancements-for-2econd-half-insights-from-zdnet/"><u>Exploring the Ultimate Selection of iPad Enhancements for 2Econd Half - Insights From ZDNET</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-nubia-red-magic-8s-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Nubia Red Magic 8S Pro Quickly? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/s-top-free-video-hosting-options-for-online-publishers-for-2024/"><u>S Top Free Video Hosting Options for Online Publishers for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-spectrum-of-immersive-tech-vr-vs-ar-and-more-for-2024/"><u>The Spectrum of Immersive Tech VR Vs. AR and More for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-cam-gear-mastering-low-speed-video-recording-for-2024/"><u>Ultimate Cam Gear Mastering Low-Speed Video Recording for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/uncharted-territory-latest-windows-10-apps-and-games-for-2024/"><u>Uncharted Territory Latest Windows 10 Apps & Games for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-itel-s23-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Itel S23 Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 
