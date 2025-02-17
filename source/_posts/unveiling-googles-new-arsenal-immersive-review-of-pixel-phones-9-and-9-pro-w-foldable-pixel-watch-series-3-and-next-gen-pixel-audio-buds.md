@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Google's New Arsenal: Immersive Review of Pixel Phones (9 & 9 Pro W/ Foldable), Pixel Watch Series 3, and Next-Gen Pixel Audio Buds"
-date: 2025-01-31T20:23:50.699Z
-updated: 2025-02-07T18:47:52.698Z
+date: 2025-02-14T23:39:19.616Z
+updated: 2025-02-16T20:23:51.573Z
 tags:
   - mobile
 categories:
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/e78eebe094750e644b67ba3878a187eacb185aa1a
  Instead of waiting for October, Google took to its Silicon Valley HQ to unveil its latest generation of products at today's Made By Google event. Instead of relying on AI and software features to be the star of the show, Google made serious improvements to its Pixel 9 lineup, with much-needed upgrades to the Watch 3 and Buds Pro 3.
 
  I got an early hands-on with everything announced, so here are my first impressions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Google Pixel 9: Polished and Premium
 
@@ -48,10 +52,6 @@ Close
 
 [![Google Gemini update for Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/0-blog-header.png)](https://some-guidance.techidaily.com/in-2024-unleashing-your-gopro-potential-must-have-additions/) Related 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### [Gemini on Android Gets Live Chat and Overlay Assistant Updates](https://tech-savvy.techidaily.com/sleuth-through-cyberspace-discover-4-immersive-ai-game-challenges/) 
 
 The Gemini app can now interact with other Android apps.
@@ -70,25 +70,25 @@ The Google Pixel 9 features a sleek design with a powerful Tensor G4 processor, 
 * ![Porcelain Google Pixel 9 Pro on a white background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/porcelain-google-pixel-9-pro-on-a-white-background.jpg)  
 #####  Google Pixel 9 Pro  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The Google Pixel 9 Pro features a sophisticated design, a powerful Tensor G4 processor, and 16 GB of RAM, making it ideal for advanced AI applications, stunning photos, and videos. It includes a pro triple rear camera system, a 42 MP front camera, and the brightest Super Actua display, offering an immersive experience in two sizes. Pricing starts at $999.  
 [See at Google Store](https://store.google.com/product/pixel%5F9%5Fpro) [$1099 at Amazon](https://www.amazon.com/dp/B0D7HXM4HW?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004810&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhands-on-made-by-google-2024%2F&asc%5Fcampaign=Authority) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fgoogle-pixel-9-pro-128gb-unlocked-hazel%2F6587889.p%3FskuId%3D6587889) [See at Verizon](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004810/https://www.verizon.com/smartphones/google-pixel-9-pro/?CMP=ini%5Fm%5Fx%5Fpr%5Foth%5Fpr1%5F24%5F08%5Fnr%5Fgtt%5Fp9p) [See at AT&T](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004810/https://www.att.com/buy/phones/google-pixel-9-pro.html) [See at T-Mobile](https://www.t-mobile.com/cell-phone/google-pixel-9-pro)
 * ![Rose Quartz Google Pixel 9 Pro XL on a white background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/rose-quartz-google-pixel-9-pro-xl-on-a-white-background.jpg)  
 #####  Google Pixel 9 Pro XL  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The Google Pixel 9 Pro XL offers an expansive 6.8-inch Super Actua display, combined with the powerful Tensor G4 processor and 16 GB of RAM for top-tier AI performance and advanced photography. It features Google's most advanced camera system, including a pro triple rear camera and a 42 MP front camera, all within a sleek design starting at $1,099.  
 [See at Google Store](https://store.google.com/product/pixel%5F9%5Fpro) [$1099 at Amazon](https://www.amazon.com/dp/B0D7HSJ7ZP?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004810&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhands-on-made-by-google-2024%2F&asc%5Fcampaign=Authority) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fgoogle-pixel-9-pro-xl-128gb-unlocked-obsidian%2F6587896.p%3FskuId%3D6587896) [See at Verizon](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004810/https://www.verizon.com/smartphones/google-pixel-9-pro-xl/?CMP=ini%5Fm%5Fx%5Fpr%5Foth%5Fpr1%5F24%5F08%5Fnr%5Fgtt%5Fp9l) [See at AT&T](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004810/https://www.att.com/buy/phones/google-pixel-9-pro-xl.html) [See at T-Mobile](https://www.t-mobile.com/cell-phone/google-pixel-9-pro-xl)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Google Pixel 9 Pro Fold: Night and Day Improvements
 
 ![Google Pixel 9 Pro Fold laying on a table slighly unfolded](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/google-pixel-9-pro-fold-laying-on-a-table-slighly-unfolded.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -108,10 +108,6 @@ Close
 
 ![Porcelain Google Pixel 9 Pro Fold on a white background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/porcelain-google-pixel-9-pro-fold-on-a-white-background.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #####  Google Pixel 9 Pro Fold
 
 The Google Pixel 9 Pro Fold is a cutting-edge foldable smartphone featuring an 8-inch Super Actua Flex inner display that supports multitasking and immersive entertainment. It is powered by the Tensor G4 processor, offers 16 GB of RAM, and comes with advanced AI capabilities, making it a powerful and efficient device for creativity and productivity.
@@ -121,6 +117,10 @@ The Google Pixel 9 Pro Fold is a cutting-edge foldable smartphone featuring an 8
 ##  Google Pixel Watch 3: There's Finally a Larger Size
 
 ![41mm and 45mm Google Pixel Watch 3 on display at Made By Google 2024](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/41mm-and-45mm-google-pixel-watch-3-on-display-at-made-by-google-2024-3.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -148,16 +148,12 @@ The Google Pixel Watch 3 is a performance-focused smartwatch featuring a larger,
 
 [See at Google Store](https://store.google.com/product/pixel%5Fwatch%5F3) [$400 at Amazon](https://www.amazon.com/dp/B0D91268TH?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004810&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhands-on-made-by-google-2024%2F&asc%5Fcampaign=Authority) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fgoogle-pixel-watch-3-45mm-smartwatch-with-hazel-band-wi-fi-matte-hazel%2F6588313.p%3FskuId%3D6588313) [See at Verizon](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004810/https://www.verizon.com/connected-smartwatches/google-pixel-watch-3/?CMP=ini%5Fm%5Fx%5Fpr%5Foth%5Fpr1%5F24%5F08%5Fnr%5Fgtt%5Fpw3) [See at AT&T](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004810/https://www.att.com/buy/wearables/google-pixel-watch-3-41mm.html) [See at T-Mobile](https://www.t-mobile.com/smart-watch/google-pixel-watch-3-41mm) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Google Pixel Buds Pro 2: Improved Design and Sound?
 
 ![Google Pixel Buds Pro 2 in Wintergreen sitting on display](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/google-pixel-buds-pro-2-in-wintergreen-sitting-on-display.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
@@ -177,6 +173,10 @@ Close
  The Google Pixel Buds Pro 2 cost $229 and begin shipping on September 26, 2024\. They're available in Porcelain, Hazel, Wintergreen, and Peony.
 
 ![Porcelain Google Pixel Buds Pro 2 on a white background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/porcelain-google-pixel-buds-pro-2-on-a-white-background.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Google Pixel Buds Pro 2
 
@@ -199,17 +199,17 @@ The Google Pixel Buds Pro 2 are designed for maximum comfort and a secure fit, f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-a-complete-guide-to-crafting-best-in-class-yt-thumbnails/"><u>[New] 2024 Approved A Complete Guide to Crafting Best-in-Class YT Thumbnails</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-tailored-ending-scenes-get-em-for-free/"><u>[New] Tailored Ending Scenes - Get 'Em for Free</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-checklist-for-your-xbox-one-zooming-journey/"><u>[New] The Ultimate Checklist for Your Xbox One Zooming Journey</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-decoding-the-jargon-what-mcns-mean-for-you/"><u>[Updated] 2024 Approved Decoding the Jargon What MCNs Mean for You</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-ideal-beginner-vlogging-gear-for-kids-in-wet-weather/"><u>[Updated] 2024 Approved Ideal Beginner Vlogging Gear for Kids in Wet Weather</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-roadmap-for-spotify-ad-mastery/"><u>2024 Approved The Ultimate Roadmap for Spotify Ad Mastery</u></a></li>
-<li><a href="https://fox-access.techidaily.com/elevate-video-visibility-with-expert-titles/"><u>Elevate Video Visibility with Expert Titles</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-your-room-for-oculus-vr/"><u>In 2024, Streamlining Your Room for Oculus VR</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transform-and-edit-videos-like-a-pro-with-these-iphonepc-tools/"><u>In 2024, Transform and Edit Videos Like a Pro With These iPhone/PC Tools</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/leading-portable-short-throw-projection-systems-the-2024-edition/"><u>Leading Portable Short Throw Projection Systems: The 2024 Edition</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-problem-why-your-snap-camera-wont-detect-a-source/"><u>Resolved Problem: Why Your Snap Camera Won't Detect a Source</u></a></li>
-<li><a href="https://win-premium.techidaily.com/1728499229252-windows-11-ssd/"><u>Windows 11 SSDへのインストール手順</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-through-the-viewfinder-top-10-must-have-lenses/"><u>[New] Through The Viewfinder Top 10 Must-Have Lenses</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-boosting-your-content-a-guide-to-instagram-video-fame-for-2024/"><u>[Updated] Boosting Your Content A Guide to Instagram Video Fame for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guide-the-ultimate-list-of-video-converters-for-2024/"><u>[Updated] Guide The Ultimate List of Video Converters for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-selecting-prime-meme-blueprints/"><u>[Updated] Selecting Prime Meme Blueprints</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlining-inshot-cuts-for-professional-edge/"><u>[Updated] Streamlining Inshot Cuts for Professional Edge</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leveraging-luminaries-for-greater-exposure/"><u>2024 Approved Leveraging Luminaries for Greater Exposure</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-unveils-new-media-player-apps-on-windows-as-itunes-bids-farewell-insights/"><u>Apple Unveils New Media Player Apps on Windows as iTunes Bids Farewell - Insights</u></a></li>
+<li><a href="https://network-issues.techidaily.com/blue-screen-bsod-issue-with-windows-dxgkrnlsys/"><u>Blue Screen (BSOD) Issue with Windows dxgkrnl.sys</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-apple-iphone-8-plus-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile Apple iPhone 8 Plus online without SIM Card?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-issue-when-rocket-league-fails-to-load/"><u>Resolving the Issue When Rocket League Fails to Load</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-blurring-iphone-images-four-steps-covered-for-2024/"><u>The Art of Blurring iPhone Images - Four Steps Covered for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-computer-review-in-depth-analysis-of-latest-tech/"><u>Tom's Computer Review: In-Depth Analysis of Latest Tech</u></a></li>
 </ul></div>
 

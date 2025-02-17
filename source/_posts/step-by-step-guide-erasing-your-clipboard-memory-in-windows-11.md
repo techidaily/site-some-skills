@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Erasing Your Clipboard Memory in Windows 11"
-date: 2025-02-03T17:14:26.193Z
-updated: 2025-02-07T16:13:18.082Z
+date: 2025-02-13T02:43:48.759Z
+updated: 2025-02-16T22:56:30.060Z
 tags:
   - desktop
 categories:
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 * [Another Way to Clear All Clipboard Data](https://extra-skills.techidaily.com/2024-approved-navigating-through-gopro-models-and-specifications/)
 * [How to Disable Clipboard History in Windows 10](https://android-frp.techidaily.com/top-5-meizu-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Clipboard history in Windows 10 stores the 25 most recent items you've copied, including text, HTML, and images.
@@ -29,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 * To disable Clipboard history, go to Windows Settings > System > Clipboard and toggle the switch to "Off."
 
  If you have Clipboard history enabled in Windows 10, the feature keeps a record of items you have recently copied to the Clipboard while using copy and paste. Here's how to clear your Clipboard history—or disable it if you prefer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Gets Stored in Clipboard History?
 
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 ![Click Delete in Clipboard history on Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/click_delete.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To clear the entire Clipboard history, click any set of three dots (ellipses) in the list and a menu will pop up. Select "Clear All."
@@ -68,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 
 ![Tap 'Clear' to clear your clipboard history.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/clear-clipboard-data.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This is equivalent to pushing the "Clear All" button in the Clipboard history window, but it also works with Clipboard history turned off.
 
 ##  How to Disable Clipboard History in Windows 10
@@ -83,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 ![Click 'Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/click-settings.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On the Settings sidebar, click on "Clipboard." In Clipboard settings, locate the section called "Clipboard history" and toggle the switch to "Off."
@@ -91,12 +87,16 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 ![Select 'Clipboard' to the left, then disable 'Clipboard History.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/clipboard.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once disabled, if you press Windows+V, you will see a small window alerting you that Windows 10 cannot show your Clipboard history because the feature is turned off.
 
 ![Can't show Clipboard history message in Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/cant_show_history.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you're free to copy and paste in privacy once again.
 
@@ -115,20 +115,22 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-unveiling-the-secrets-of-efficient-audio-recordings/"><u>[New] 2024 Approved Unveiling the Secrets of Efficient Audio Recordings</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-diy-techniques-transforming-smartphones-into-webcams/"><u>[New] In 2024, DIY Techniques Transforming Smartphones Into Webcams</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-premiering-popularity-amazon-prime-tweets-of-23/"><u>[New] Premiering Popularity Amazon Prime Tweets of '23</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-streamlining-your-streams-choosing-between-xsplit-and-obs/"><u>[New] Streamlining Your Streams Choosing Between XSplit and OBS</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-titanfall-2-fps-drops-quickly-and-easily/"><u>[SOLVED] Titanfall 2 FPS Drops | Quickly & Easily</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-obs-settings-for-smooth-skype-video-streaming/"><u>[Updated] In 2024, OBS Settings for Smooth Skype Video Streaming</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unbound-zen-audio-releases/"><u>[Updated] Unbound Zen Audio Releases</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1424562-9781780284408-celtic-wisdom/"><u>Celtic Wisdom | Free Book</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Vivo Y56 5G | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-resource-for-advanced-periscope-techniques/"><u>In 2024, The Ultimate Resource for Advanced Periscope Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-5-hd-cameras-for-big-game-capture/"><u>In 2024, Top 5 HD Cameras for Big Game Capture</u></a></li>
-<li><a href="https://some-skills.techidaily.com/thankful-views-complete-outro-template-library-for-2024/"><u>Thankful Views Complete Outro Template Library for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-aurora-hdr-experience-is-it-transformative-for-2024/"><u>The Aurora HDR Experience Is It Transformative for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-microsoft-azure-transcription-capabilities-for-2024/"><u>Unlocking Microsoft Azure Transcription Capabilities for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-beyond-pinnacle-the-best-video-editing-apps-for-mac-this-year/"><u>Updated 2024 Approved Beyond Pinnacle The Best Video Editing Apps for Mac This Year</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-essentials-facebooks-breakthrough-features-unveiled/"><u>[New] Essentials Facebook's Breakthrough Features Unveiled</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-why-are-status-emojis-blue-understanding-fbs-visual-language/"><u>[New] In 2024, Why Are Status Emojis Blue? Understanding FB's Visual Language</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-talecraft-triumphs-the-leading-academies-in-narrative-arts/"><u>[New] Talecraft Triumphs The Leading Academies in Narrative Arts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-intricate-yet-straightforward-guide-exploring-popular-youtube-reactions/"><u>[New] The Intricate Yet Straightforward Guide Exploring Popular YouTube Reactions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-winning-tools-the-top-five-windows-screen-cutters/"><u>[Updated] 2024 Approved Winning Tools The Top Five Windows Screen Cutters</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-revolutionize-slack-discussions-with-10-free-recorders-for-2024/"><u>[Updated] Revolutionize Slack Discussions with 10 Free Recorders for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-strategy-envelope-market-success-inside-out/"><u>[Updated] Strategy Envelope Market Success Inside Out</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-collection-8-amazing-3d-websites-with-gold/"><u>[Updated] The Ultimate Collection 8 Amazing 3D Websites with Gold</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-strategic-use-of-visual-media-in-classroom-teaching/"><u>2024 Approved Strategic Use of Visual Media in Classroom Teaching</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/face-fluidity-techniques-implementing-motion-blur-effects-for-2024/"><u>Face Fluidity Techniques Implementing Motion Blur Effects for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-oppo-a78-5g-by-drfone-android/"><u>Full Guide to Unlock Your Oppo A78 5G</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-definitive-list-of-premium-vector-sites/"><u>In 2024, The Definitive List of Premium Vector Sites</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-thorough-examination-straightforward-dynamic-range-methods/"><u>In 2024, Thorough Examination Straightforward Dynamic Range Methods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-tier-visual-data-vaults/"><u>In 2024, Top-Tier Visual Data Vaults</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/os-16-mais-excelentes-programas-de-conversao-de-iso-para-windows-and-mac-os-x-opcoes-comparadas/"><u>Os 16 Mais Excelentes Programas De Conversão De ISO Para Windows & Mac OS X - Opções Comparadas!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/professional-perspective-a-complete-guide-on-sj-cam-s6/"><u>Professional Perspective A Complete Guide on SJ-CAM S6</u></a></li>
 </ul></div>
 

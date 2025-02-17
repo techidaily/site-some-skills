@@ -1,7 +1,7 @@
 ---
 title: Mandatory Survey Prompt Launched by Microsoft When Exiting OneDrive
-date: 2025-02-04T18:02:44.971Z
-updated: 2025-02-07T20:35:46.688Z
+date: 2025-02-09T20:45:31.485Z
+updated: 2025-02-17T05:47:03.919Z
 tags:
   - deals
 categories:
@@ -18,7 +18,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Microsoft's clingy behavior continues to annoy Windows users. Last month, the company introduced an optional [pop-up survey](https://article-files.techidaily.com/2024-approved-the-ultimate-guide-for-implementing-look-up-tables-in-creative-suite/) that's triggered when installing Chrome from Edge. Now, Windows users are being hit with a _mandatory_ survey when they try to _close_ OneDrive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  UPDATE: 2023/11/10 10:11 EST BY ANDREW HEINZMAN
@@ -32,7 +32,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![The "quit OneDrive" popup prompting a user to complete a survey.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/11-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Neowin](https://www.neowin.net/news/microsoft-wont-let-you-close-onedrive-in-windows-without-you-explaining-it-first/)
@@ -68,22 +68,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-premier-livestream-networks-you-need-to-watch/"><u>[New] The Premier Livestream Networks You Need To Watch</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-list-10-best-date-counting-clocks-androidios/"><u>[New] The Ultimate List 10 Best Date-Counting Clocks Android/iOS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-manual-to-assembling-a-top-tier-4k-editing-pc/"><u>[New] The Ultimate Manual to Assembling a Top-Tier 4K Editing PC</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-picks-in-gimbals-to-elevate-your-drone-imagery/"><u>[New] Top Picks in Gimbals to Elevate Your Drone Imagery</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-cutting-edge-screencast-tech-obs-innovations-explained-for-2024/"><u>[Updated] Cutting-Edge Screencast Tech OBS Innovations Explained for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-unveiling-the-secrets-buying-a-high-quality-360-camera-today/"><u>[Updated] In 2024, Unveiling the Secrets Buying a High-Quality 360 Camera Today</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-techniques-to-transform-text-into-a-3d-entity/"><u>[Updated] Techniques to Transform Text Into a 3D Entity</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-transform-video-vendoring-into-virtual-ventures-and-valuables/"><u>[Updated] Transform Video Vendoring Into Virtual Ventures and Valuables</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-budget-friendly-alternatives-to-premium-vr-headsets/"><u>2024 Approved Budget-Friendly Alternatives to Premium VR Headsets</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-invent-comical-content/"><u>2024 Approved Invent Comical Content</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boost-your-excel-skills-using-chatgpt-for-a-hassle-free-experience/"><u>Boost Your Excel Skills Using ChatGPT for a Hassle-Free Experience</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-techniques-to-reduce-nausea-while-in-vr/"><u>In 2024, Techniques to Reduce Nausea While In VR</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-quick-setup-for-smartphones-as-personalized-vr-headsets/"><u>In 2024, The Quick Setup for Smartphones as Personalized VR Headsets</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-tricks-for-smooth-auditory-paths-for-2024/"><u>Top Tricks for Smooth Auditory Paths for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/unlocking-success-with-youtube-on-facebook-for-2024/"><u>Unlocking Success with YouTube on Facebook for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/why-you-should-celebrate-connectivity-9-blessings-of-being-social/"><u>Why You Should Celebrate Connectivity: 9 Blessings of Being Social</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-grateful-reels-exclusive-free-and-paid-otus/"><u>[New] Grateful Reels Exclusive Free & Paid OTUs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-mastering-film-capture-on-mac-pc-and-smartphones/"><u>[New] In 2024, Mastering Film Capture on Mac, PC & Smartphones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-complete-audio-editors-journey-through-garageband/"><u>[New] The Complete Audio Editor's Journey Through GarageBand</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-film-previews-unveiled/"><u>[New] Top Film Previews Unveiled</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-unrivaled-streaming-experience-ranking-the-leaders-for-2024/"><u>[Updated] Unrivaled Streaming Experience Ranking the Leaders for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-sites-for-high-end-vector-graphics/"><u>2024 Approved Top 10 Sites for High-End Vector Graphics</u></a></li>
+<li><a href="https://article-files.techidaily.com/from-ground-to-sky-the-lifting-elite-drone-list-for-2024/"><u>From Ground to Sky The Lifting Elite Drone List for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-motorola-moto-g24-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Motorola Moto G24 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-process-for-crafting-your-own-ringtone-from-tiktok-music/"><u>In 2024, The Complete Process for Crafting Your Own Ringtone From TikTok Music</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-video-construction-lab/"><u>In 2024, Video Construction Lab</u></a></li>
 </ul></div>
 

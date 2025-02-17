@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your iCloud Capacity: Effective Methods to Clear and Reclaim Storage"
-date: 2025-02-05T17:50:56.508Z
-updated: 2025-02-07T19:42:51.532Z
+date: 2025-02-09T20:51:03.474Z
+updated: 2025-02-16T17:39:04.023Z
 tags:
   - desktop
 categories:
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/6b26f43d7c441fdc486228c15693f43761df84b70
 
  Apple offers 5GB of free iCloud space to everyone, but you'll run up against that storage limit sooner than you'd think. If you have multiple devices, you'll run out even faster. That free 5GB is per Apple ID, not per device, so it's a good idea to free up wasted space before paying for more storage. Here's how to do it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Identify the Biggest Storage Hogs
 
  Before you start removing iCloud files, you can find out what's taking up the most space to determine what to delete. Open the Settings (iOS/iPadOS) or System Settings app (Mac), select your Apple ID at the top, and choose "iCloud."
@@ -44,7 +40,7 @@ Close
 ![A close-up of the storage bar chart in the iCloud settings on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-ios-17-5-settings-app-apple-id-icloud-section-storage-chart.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you're on a Mac, hover over sections like "Documents," "Photos and Videos," "Backups," "Messages," "Mail," and "Family" to reveal per-category storage usage.
@@ -58,6 +54,10 @@ Close
  iOS intelligence can recommend actions you can take when low on iCloud storage. Select "Recommended for You" in the iCloud settings and choose one of the listed options.
 
 ![The iPhone's Settings app with the Recommended For You option highlighted in the iCloud section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-ios-17-5-settings-app-icloud-recommended-for-you-selected.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Depending on how you use your iCloud storage, recommendations may include slimming down the Photos library by [identifying duplicate images](https://ai-topics.techidaily.com/updated-2024-approved-what-is-chatgpt/), deleting large files and old backups, among other things.
 
@@ -88,7 +88,7 @@ Close
 ![The iPhone Overview screen in the iMazing app for macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/imazing-app-iphone-overview.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Exclude Apps From Your iPhone Backups
@@ -99,10 +99,6 @@ Close
 
  You can safely disable iCloud for apps that sync data online anyway, like Pocket or Facebook.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Back Up Your Photos to a Different Cloud Service
 
  Photos can eat up a lot of space. With iCloud Photos enabled, your iPhone will back up full-resolution versions of any images and videos you take to your iCloud account. This can be convenient, but it also means your iCloud storage can quickly fill up.
@@ -112,6 +108,10 @@ Close
 Close 
 
  With iCloud Photos disabled, you're wholeheartedly recommended to try [Google Photos](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU220865/https://itunes.apple.com/us/app/google-photos-free-photo-video/id962194608?mt=8), [Dropbox](https://geo.itunes.apple.com/en/app/dropbox/id327630330?at=1010loXs&ct=191340), or [Flickr](https://apps.apple.com/gb/app/flickr/id328407587), which can automatically back up your photos to a separate pool of cloud storage that's often bigger than iCloud. That way, you'll have a backup copy of your photos and videos stored online and retain your precious iCloud storage for other functions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Delete App Documents and Data From iCloud
 
@@ -126,10 +126,6 @@ Close
 Close 
 
  Be careful when doing this, though, as you could delete essential documents and files you might want to keep.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Triage Your iCloud Mail Inbox
 
@@ -151,6 +147,10 @@ Close
 
  You don't need to delete your emails from Gmail, Outlook, or Yahoo as those services don't store inboxes in iCloud but rather within their own cloud space.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Delete Old Chats and Messages Attachments
 
  If you've set up the Messages in iCloud feature to sync your conversations across devices, storage usage can easily creep up to a couple of gigabytes. You can save some space by removing only message attachments clogging up your iCloud storage, especially photos and videos.
@@ -162,10 +162,6 @@ Close
  The selected attachments will be removed from all your Apple devices.
 
  You can also delete conversation threads with no attachments. But those are typically only a few kilobytes each, and you may want to keep them anyway.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Consider Upgrading Your iCloud Storage
 
@@ -186,6 +182,10 @@ Close
  iCloud+ storage is also included in the [Apple One bundle,](https://some-guidance.techidaily.com/new-the-editors-edge-secrets-to-professional-photo-refining/) which combines multiple services at a discounted price. The $20/month tier includes 50GB, the $26/month one offers 200GB, and the flagship $38/month tier offers 2TB.
 
 ![The Apple One bundle plans and pricing.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-one-bundle-individual-family-premier-plans-pricing.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If that wasn't enough, you can subscribe to Apple One and also buy one of the five iCloud+ storage plans to get a whopping 14TB of cloud-based storage.
 
@@ -210,22 +210,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-top-sandbox-games-for-aspiring-explorers/"><u>[New] In 2024, Top Sandbox Games for Aspiring Explorers</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-quicksnap-win10-recording-master/"><u>[New] QuickSnap Win10 Recording Master</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-vector-image-basics-unveiled-categories-types-and-tools-guide/"><u>[New] Vector Image Basics Unveiled Categories, Types & Tools Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-art-of-selecting-and-using-b-roll-in-productions/"><u>[Updated] The Art of Selecting and Using B-Roll in Productions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-essence-of-chuckles-in-single-photos/"><u>[Updated] The Essence of Chuckles in Single Photos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-15-youtube-originals-premium-unboxing-sessions/"><u>[Updated] Top 15 YouTube Originals Premium Unboxing Sessions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-companion-for-enhancing-tiktok-bios-with-linktree/"><u>2024 Approved The Ultimate Companion for Enhancing TikTok Bios with Linktree</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-and-mastering-google-chromes-pip-functionality/"><u>2024 Approved Understanding and Mastering Google Chrome’s PIP Functionality</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apples-latest-showdown-deciding-whether-to-upgrade-to-iphone-1n-pro-or-iphone-14-pro-max-expert-advice-from-zdnet/"><u>Apple's Latest Showdown: Deciding Whether to Upgrade to iPhone 1N-Pro or iPhone 14 Pro Max – Expert Advice From ZDNet</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/deciphering-the-variance-between-metaverse-and-multi-meva-environments-for-2024/"><u>Deciphering the Variance Between Metaverse and Multi-Meva Environments for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-honor-x50-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Honor X50 without App | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-smilesphere-endless-possibrancies-in-meme-land/"><u>In 2024, SmileSphere Endless Possibrancies in Meme Land</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/lightning-fast-windows-photo-inspector/"><u>Lightning-Fast Windows Photo Inspector</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/premier-collection-top-10-audio-capturers-on-spotify-for-2024/"><u>Premier Collection Top 10 Audio Capturers on Spotify for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/supreme-performance-mods-ranking-the-best-srt-converters-for-2024/"><u>Supreme Performance Mods Ranking the Best SRT Converters for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-15-most-effective-live-sports-streaming-methods-for-2024/"><u>The 15 Most Effective Live Sports Streaming Methods for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unlocking-windows-10-key-skills-you-need/"><u>Unlocking Windows 10 Key Skills You Need</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-smartphone-as-your-gateway-to-immersive-virtual-reality/"><u>[New] 2024 Approved Smartphone as Your Gateway to Immersive Virtual Reality</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-enhancing-audio-transition-smoothness-in-audacity/"><u>[New] Enhancing Audio Transition Smoothness in Audacity</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-understanding-telegram-advertising-for-new-marketing-entrants/"><u>[Updated] Understanding Telegram Advertising For New Marketing Entrants</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-luxury-lenovo-tab-m10-fhdplus-2020-a-comprehensive-review-of-the-stunning-hd-display/"><u>Affordable Luxury: Lenovo Tab M10 FHD+ (2020) - A Comprehensive Review of the Stunning HD Display</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-download-the-ultimate-guide-to-using-your-corsair-gaming-mouse/"><u>Free Download: The Ultimate Guide to Using Your Corsair Gaming Mouse</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Xiaomi 14? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/recording-your-live-feed-without-spending-a-dime-for-2024/"><u>Recording Your Live Feed without Spending a Dime for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722967862181-seamless-scansnap-driver-setup-and-update-tutorial-for-windows-users/"><u>Seamless ScanSnap Driver Setup and Update Tutorial for Windows Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-artists-guide-to-vivid-vsco-imagery-for-2024/"><u>The Artist's Guide to Vivid VSCO Imagery for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-elite-collection-top-10-sites-for-professional-icons-for-2024/"><u>The Elite Collection Top 10 Sites for Professional Icons for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-secret-sauce-for-a-viral-tiktok-unboxer-masterpiece-for-2024/"><u>The Secret Sauce for a Viral TikTok Unboxer Masterpiece for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-32-complimentary-data-safety-applications-a-detailed-rating-and-analysis/"><u>Top 32 Complimentary Data Safety Applications: A Detailed Rating & Analysis</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/windows-11-wallscape-change-made-simple/"><u>Window's 11 Wallscape Change Made Simple</u></a></li>
 </ul></div>
 

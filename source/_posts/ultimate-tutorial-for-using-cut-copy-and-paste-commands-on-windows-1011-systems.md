@@ -1,7 +1,7 @@
 ---
 title: Ultimate Tutorial for Using Cut, Copy & Paste Commands on Windows 10/11 Systems
-date: 2025-02-02T20:29:09.882Z
-updated: 2025-02-07T19:18:02.306Z
+date: 2025-02-11T03:30:39.363Z
+updated: 2025-02-17T03:29:27.129Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Ultimate Tutorial for Using Cut, Copy & Paste Commands on Windows 10/11 Systems
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -46,13 +42,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  That means you typically use copy to duplicate information, and cut to move the information from one location to another. These fundamental concepts apply across almost every application, so let's go over the various different ways to copy, cut, and paste in Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Copy, Cut, and Paste Using Keyboard Shortcuts
 
 ![Microsoft Cut, Paste, and Copy icons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/copy_paste_cut_icons.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Microsoft
 
@@ -65,16 +61,12 @@ Microsoft
 [These shortcuts now work in Windows 10's Command Prompt](https://tech-renaissance.techidaily.com/top-4-twitter-apps-for-easily-tracking-and-engaging-in-trending-topics/), too.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Alternative Copy, Cut, and Paste Keyboard Shortcuts
 
  If you need to copy in a program that interprets Ctrl+C as a break character (such as a terminal emulator), you can use Ctrl+Insert instead. To cut, use Shift+Delete. To paste, press Shift+Insert. These shortcuts aren't as commonly used today, but they are still almost universally recognized in Windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Copy, Cut, and Paste Using Right-Click
 
@@ -83,7 +75,7 @@ Microsoft
 ![Right-click and image and select "Copy Image."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-6.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can then right-click in a destination document and select Paste to put the contents of the Clipboard in that location.
@@ -93,7 +85,7 @@ Microsoft
 ![Select Cut or Copy on the Right-Click Menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/right_click_file_copy.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then navigate to the new location and right-click where you'd like to put the files. The destination right-click can be inside a folder window, on the desktop, a drive on your computer, or even directly on a folder icon itself.
@@ -104,11 +96,19 @@ Microsoft
 
  The files you just Cut or Copied will appear in the new location. Very handy!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Copy, Cut, and Paste Using Application Menus
 
  You can also Copy, Cut, and Paste by selecting menu items with a mouse or touch screen. In programs with a [Ribbon-style interface](https://en.wikipedia.org/wiki/Ribbon%5F%28computing%29), you'll typically see a Clipboard or Edit block that contains Copy, Cut, and Paste buttons.
 
 ![Copy, Cut, and Paste in a typical Windows Ribbon Interface](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/aribbon_copy.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In programs with compressed or hamburger-style menus (like Chrome and Firefox), you can often find the Copy/Cut/Paste functions in a section labeled Edit.
 
@@ -143,20 +143,22 @@ Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-tech-hack-for-free-swiftly-remove-red-eyes-from-iphone-photos/"><u>[New] Tech Hack for Free Swiftly Remove Red Eyes From iPhone Photos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-tech-driven-drones-the-rise-of-syma-x8c/"><u>[Updated] Tech-Driven Drones – The Rise of Syma X8C</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-impactful-power-of-customer-testimonials-on-sales/"><u>[Updated] The Impactful Power of Customer Testimonials on Sales</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-8-srt-translators-the-ultimate-budget-friendly-guide/"><u>[Updated] Top 8 SRT Translators – The Ultimate Budget-Friendly Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tactics-for-snagging-free-visual-frame-content/"><u>2024 Approved Tactics for Snagging Free Visual Frame Content</u></a></li>
-<li><a href="https://article-posts.techidaily.com/conquer-online-video-platforms-zooming-into-youtube-and-fb-lives-for-2024/"><u>Conquer Online Video Platforms Zooming Into YouTube & FB Lives for 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/how-to-upgrade-your-pcs-memory-a-step-by-step-guide-by-yl-computing/"><u>How to Upgrade Your PC's Memory: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-create-unique-audio-trailers-at-zero-expense/"><u>In 2024, Create Unique Audio Trailers at Zero Expense</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-list-of-premium-sound-recording-mics/"><u>In 2024, Exclusive List of Premium Sound Recording Mics</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-xiaomi-redmi-k70-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Xiaomi Redmi K70 Pro by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/strategies-efficaces-pour-trouver-votre-fichier-bureau-egare-dans-le-profil-de-lutilisateur-guide-complet/"><u>Stratégies Efficaces Pour Trouver Votre Fichier Bureau Égaré Dans Le Profil De L'Utilisateur : Guide Complet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-metaverse-awaits-gear-up-with-these-tools-for-2024/"><u>The Metaverse Awaits Gear Up with These Tools for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-6-pro-rated-gopro-head-straps-and-mastering-usage-for-2024/"><u>Top 6 Pro-Rated GoPro Head Straps & Mastering Usage for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-8-best-vr-controllers-to-check-out-for-2024/"><u>Top 8 Best VR Controllers to Check Out for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tunetrekker-venturing-past-dacast-for-2024/"><u>TuneTrekker Venturing Past DaCast for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-perfecting-drone-captured-imagery-a-gimbal-journey/"><u>[New] 2024 Approved Perfecting Drone-Captured Imagery A Gimbal Journey</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ow-to-loop-a-youtube-video-the-ultimate-guide-for-2024/"><u>[New] How to Loop a YouTube Video The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essential-manual-for-personalizing-android-ringtones-and-sounds/"><u>[New] The Essential Manual for Personalizing Android Ringtones and Sounds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-scripts-across-all-eight-film-categories/"><u>[New] Top Scripts Across All Eight Film Categories</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-how-luts-transform-visual-elements-in-photos/"><u>[New] Unveiling How LUTs Transform Visual Elements in Photos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-ultimate-mc-village-dwellings-guide/"><u>[Updated] 2024 Approved Ultimate MC Village Dwellings Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-syncing-soundscapes-to-pixelated-portraits/"><u>[Updated] Syncing Soundscapes to Pixelated Portraits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unbeatable-video-splitters-to-match-xplit/"><u>[Updated] Unbeatable Video Splitters to Match Xplit</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/20-most-popular-memes-on-reddit-and-twitter/"><u>20 Most Popular Memes on Reddit and Twitter</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-secure-shots-easy-methods-for-masking-facial-details/"><u>2024 Approved Secure Shots Easy Methods for Masking Facial Details</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-fundamentals-of-compelling-documentary-screenplay/"><u>2024 Approved The Fundamentals of Compelling Documentary Screenplay</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-comprehensive-look-at-gpt-3-in-openai-playspace/"><u>A Comprehensive Look at GPT-3 in OpenAI Playspace</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-summers-best-10-nostalgic-films-for-the-whole-family/"><u>In 2024, Summer's Best 10 Nostalgic Films for the Whole Family</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-uav-upgrade-path-key-parts-and-add-ons/"><u>In 2024, The Ultimate UAV Upgrade Path Key Parts and Add-Ons</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-error-0x80-groove-volume-unclean-notification/"><u>Troubleshooting Guide for Error 0X80 Groove: Volume Unclean Notification</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-choosing-the-perfect-ipads-of-2024-expert-insights-and-ratings/"><u>Ultimate Guide to Choosing the Perfect iPads of 2024 - Expert Insights and Ratings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/venture-into-virtuality-comprehensively-reviewing-top-10-vr-streamers-for-2024/"><u>Venture Into Virtuality Comprehensively Reviewing Top 10 VR Streamers for 2024</u></a></li>
 </ul></div>
 

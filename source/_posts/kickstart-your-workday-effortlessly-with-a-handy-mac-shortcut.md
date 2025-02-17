@@ -1,7 +1,7 @@
 ---
 title: Kickstart Your Workday Effortlessly with a Handy Mac Shortcut!
-date: 2025-02-04T19:08:35.534Z
-updated: 2025-02-07T19:52:29.623Z
+date: 2025-02-14T04:54:23.759Z
+updated: 2025-02-17T03:28:00.222Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Kickstart Your Workday Effortlessly with a Handy Mac Shortcut!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -24,7 +24,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  I’ve played around with [Apple’s Shortcuts app](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) to create all kinds of complicated processes. But my favorite shortcut, and the one I use the most by far, is actually ridiculously simple. All it does is open all my work apps, but I recommend it to everyone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Makes This Shortcut So Great
@@ -42,7 +42,7 @@ Your browser does not support the video tag.
  But enough waxing lyrical about why I love this shortcut, here’s how to try it for yourself. Honestly, it couldn’t be easier.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Create a Shortcut That Opens All Your Work Apps
@@ -62,7 +62,7 @@ Close
 ![Several actions to open apps in a Mac Shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/several-actions-to-open-apps-in-a-mac-shortcut.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  At the top of the Shortcuts window, type a name for your shortcut. I call mine “Start Working.” Then click the icon to edit the color and symbol if you want. Finally, click the Shortcut Details button in the top-right corner, shown by an “i” button, to choose how to launch this shortcut. I like to enable“Pin to Menu Bar” so I can run it from the menu bar with a couple of clicks, but you could create a keyboard shortcut if you prefer.
@@ -90,21 +90,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-connect-movie-files-in-youtv-catalog/"><u>[New] Connect Movie Files in YouTV Catalog</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-creating-dynamic-content-with-youtube-playlist-embedding-for-2024/"><u>[New] Creating Dynamic Content with YouTube Playlist Embedding for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-depth-look-at-12-techniques-for-storing-web-based-songs-for-2024/"><u>[New] In-Depth Look at 12 Techniques for Storing Web-Based Songs for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-synchronize-your-iphones-cinematic-moments/"><u>[New] Synchronize Your iPhone's Cinematic Moments</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ten-commandments-of-stream-undoing-on-twitch/"><u>[New] Ten Commandments of Stream Undoing on Twitch</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-backdrop-to-your-podcasts-success-story/"><u>[New] The Ultimate Backdrop to Your Podcast's Success Story</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlock-hidden-potential-snapchat-zooming-tips/"><u>[New] Unlock Hidden Potential Snapchat Zooming Tips</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-awaken-calm-top-copyright-free-legal-music-playlists/"><u>[Updated] Awaken Calm Top Copyright-Free, Legal Music Playlists</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-list-for-seeking-no-cost-high-quality-vector-imagery/"><u>[Updated] The Ultimate List for Seeking No-Cost High-Quality Vector Imagery</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-crossplatform-audiomagic-2023/"><u>2024 Approved CrossPlatform AudioMagic 2023</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/descomprime-y-convierte-mpeg-a-avi-de-forma-facil-y-sin-gastos-con-nuestro-herramienta-online/"><u>Descomprime Y Convierte Mpeg a Avi De Forma Fácil Y Sin Gastos Con Nuestro Herramienta Online</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-samsung-galaxy-a54-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Samsung Galaxy A54 5G</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ming-services-showdown-vimeo-versus-youtube/"><u>Streaming Services Showdown Vimeo Versus YouTube</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-tips-transforming-ordinary-into-extraordinary-in-canva-for-2024/"><u>Top Tips Transforming Ordinary Into Extraordinary in Canva for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tracking-the-shifts-a-look-at-how-programming-language-preferences-have-changed-from-2016-to-today-insights-included-zdnet/"><u>Tracking the Shifts: A Look at How Programming Language Preferences Have Changed From 2016 to Today, Insights Included | ZDNet</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-your-photos-into-dynamic-time-lapses-the-gopro-way-for-2024/"><u>Transform Your Photos Into Dynamic Time-Lapses The GoPro Way for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-step-by-step-guide-to-basic-ps-color-correction/"><u>[New] Step-by-Step Guide to Basic PS Color Correction</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-video-beats-into-ringtones-must-visit-sites-explored/"><u>[New] Transform Video Beats Into Ringtones Must-Visit Sites Explored</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-the-prime-picks-best-storytelling-channels-fans/"><u>[Updated] 2024 Approved The Prime Picks Best Storytelling Channels Fans</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-essential-guide-to-youtube-video-resolutions-and-aspects/"><u>[Updated] In 2024, Essential Guide to YouTube Video Resolutions & Aspects</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-experts-guide-to-instagrams-licensed-music-posting-policies-for-2024/"><u>[Updated] The Expert’s Guide to Instagram's Licensed Music Posting Policies for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-time-taken-to-watch-an-example-of-a-20mb-video/"><u>2024 Approved Time Taken to Watch An Example of a 20MB Video</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-high-end-visuals-a-practical-guide-for-sdr-to-hdr-transition/"><u>2024 Approved Unlock High-End Visuals A Practical Guide for SDR to HDR Transition</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-iphone-xs-max-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock iPhone XS Max to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/chronicles-of-charms-a-compreentic-toolkit-for-twitters-visual-treasures/"><u>Chronicles of Charms A Compreentic Toolkit for Twitter's Visual Treasures</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/controlar-contenido-av1-en-tu-biblioteca-de-plex-sin-problemas/"><u>Controlar Contenido AV1 en Tu Biblioteca De Plex Sin Problemas</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-motorola-g54-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Motorola G54 5G FRP Without Computer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolved-troubleshooting-windows-11s-bluetooth-connectivity-problems/"><u>Resolved: Troubleshooting Windows 11'S Bluetooth Connectivity Problems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/strategy-breakthroughs-in-packaging-for-2024/"><u>Strategy Breakthroughs in Packaging for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-full-spectrum-slomo-recording-app-evaluation-for-2024/"><u>The Full Spectrum SloMo Recording App Evaluation for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-photographic-face-off-legend-sj6-vs-xiaomis-yi-kickstarter-for-2024/"><u>Ultimate Photographic Face-Off Legend SJ6 Vs. Xiaomi's Yi Kickstarter for 2024</u></a></li>
 </ul></div>
 

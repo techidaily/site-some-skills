@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Linking Your Xbox Gamepad to Windows Computer"
-date: 2025-02-02T16:40:06.010Z
-updated: 2025-02-07T16:01:10.204Z
+date: 2025-02-09T18:26:54.928Z
+updated: 2025-02-17T05:02:39.343Z
 tags:
   - desktop
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/c8166e8b96eec7a32e2c5447a156a34a01b3ade6d
  You can connect any Xbox controller to your Windows PC, including the latest Xbox Wireless Controller and the premium Elite lineup. You can choose between a wireless connection and a wired connection using a USB cable, depending on your setup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Connect an Xbox Controller to a PC Using a USB Cable
@@ -37,10 +37,6 @@ Xbox
 
  Once you're done, go ahead and fire up [any game with controller support](https://extra-lessons.techidaily.com/step-by-step-to-mastering-adobes-cloud-storage-capabilities-and-options/) and have fun.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Connect an Xbox Wireless Controller to a PC Through Bluetooth
 
  If you'd rather avoid cable clutter, you can connect it to your PC using Bluetooth. If your PC doesn't have built-in Bluetooth, I strongly recommend purchasing a cheap [USB Bluetooth Dongle](https://www.amazon.com/TP-Link-Bluetooth-Receiver-Controller-UB500/dp/B09DMP6T22?tag=hotoge-20&ascsubtag=UUhtgUeUpU209809&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F729937%2Fhow-to-connect-an-xbox-wireless-controller-to-a-pc%2F&asc%5Fcampaign=Evergreen). This is how I connect my controller to my PC. It works just as well as onboard Bluetooth and doesn't introduce any noticeable input lag. 
@@ -53,9 +49,17 @@ Xbox
 
 ![Windows 10 Settings Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/devices-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In Devices, make sure that you're on the "Bluetooth & Other Devices" page, and then click "Add Bluetooth or other device."
 
 ![Windows 10 Bluetooth menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/add-bluetooth-device.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the "Add a Device" window that appears, select "Bluetooth."
 
@@ -64,6 +68,10 @@ Xbox
  Next, put your Xbox Wireless Controller in [pairing mode](https://facebook-video-content.techidaily.com/new-2024-approved-master-10-social-media-movies/). First, power up the controller by pressing and holding the Xbox button.
 
 ![The Xbox Wireless controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/xbox-controller.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Xbox](https://www.xbox.com/en-US/accessories/controllers/xbox-wireless-controller)
 
@@ -77,10 +85,6 @@ Xbox
 
 ![Xbox controller in the add a device menu in Bluetooth Windows settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/select-it.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Congratulations! Your Xbox Wireless Controller is now connected to your PC.
 
  Select "Done" to finish the process.
@@ -89,15 +93,15 @@ Xbox
 
  When you're done playing, it'll turn off automatically after a while, but you can also [turn the Xbox controller off](https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-google-pixel-fold-drfone-by-drfone-virtual/) manually to save battery life. To do this, press and hold the Xbox button or pop the batteries out.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Connect an Xbox Wireless Controller with an Xbox Wireless Adapter
 
  There's a third way to connect an Xbox controller to your PC, but it involves purchasing the separate [Xbox Wireless Adapter](https://www.amazon.com/Microsoft-Xbox-Wireless-Adapter-Windows-one/dp/B00ZB7W4QU?tag=hotoge-20&ascsubtag=UUhtgUeUpU209809&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F729937%2Fhow-to-connect-an-xbox-wireless-controller-to-a-pc%2F&asc%5Fcampaign=Evergreen) USB accessory. Thanks to the proprietary wireless protocol, the adapter boasts slightly lower latency and a better range. It also lets you connect up to eight Xbox controllers to your PC at the same time, and it lets you hook up a headset to your controller.
 
 ![The Xbox Wireless adapter next to a controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/wirelsss-adapter.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Xbox](https://www.xbox.com/en-US/accessories/controllers/xbox-wireless-controller-adapter-windows)
 
@@ -106,10 +110,6 @@ Xbox
  The controller will automatically connect to your computer through the Xbox Wireless Adapter. If that doesn't work, go over the same steps for connecting the controller via Bluetooth, but instead of selecting "Bluetooth" under "Add a Device," select "Everything Else" to connect the controller to your PC via the adapter.
 
 ![The Bluetooth settings showing the "Add a device" window in WIndows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/adapter-bluetooth-settings.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -130,15 +130,21 @@ Xbox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-uniting-visuals-the-desktop-and-web-way/"><u>[New] Uniting Visuals The Desktop & Web Way</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-harmonize-visuals-and-vibrations-3-affordable-ipad-methods-to-music-in-video-for-2024/"><u>[Updated] Harmonize Visuals and Vibrations 3 Affordable iPad Methods to Music in Video for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-discovering-latest-fb-watches-a-step-by-step-guide/"><u>2024 Approved Discovering Latest FB Watches A Step-by-Step Guide</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-irecorder-testing-a-comprehensive-review/"><u>2024 Approved IRecorder Testing A Comprehensive Review</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-narrative-on-film/"><u>2024 Approved The Art of Narrative on Film</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-seamless-techniques-easy-steps-to-preserve-your-google-gatherings/"><u>In 2024, Seamless Techniques Easy Steps to Preserve Your Google Gatherings</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-sony-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Sony Phone Now with These Tips</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/shortcuts-to-wealth-in-youtube-shorts-for-2024/"><u>Shortcuts to Wealth in YouTube Shorts for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-insiders-handbook-acquiring-high-quality-cost-free-images-for-2024/"><u>The Insider's Handbook Acquiring High-Quality, Cost-Free Images for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-cameraphone-trackers-precision-power-performance-for-2024/"><u>Top Camera/Phone Trackers Precision, Power, Performance for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ltering-who-can-access-your-youtube-videos/"><u>[New] Altering Who Can Access Your YouTube Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essential-windows-10-audio-handbook/"><u>[New] The Essential Windows 10 Audio Handbook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-the-meta-and-omni-spaces/"><u>[New] Understanding the Meta and Omni Spaces</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-harness-your-footage-potential-with-vimeo-record/"><u>[Updated] Harness Your Footage Potential with Vimeo Record</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-leveraging-descriptive-power-for-3-engaging-instagram-video-stories/"><u>[Updated] In 2024, Leveraging Descriptive Power for 3 Engaging Instagram Video Stories</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-creating-hdr-in-photoshop/"><u>[Updated] The Ultimate Guide to Creating HDR in Photoshop</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-conquer-broadcasting-unite-obs-and-streamlabs-for-mac/"><u>2024 Approved Conquer Broadcasting Unite OBS & Streamlabs for Mac</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-everything-you-need-to-know-before-upgrading/"><u>2024 Approved Everything You Need To Know Before Upgrading</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-harnessing-metaverse-promotion-power/"><u>2024 Approved Harnessing Metaverse Promotion Power</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-list-15-must-watch-unboxing-channels/"><u>2024 Approved Ultimate List 15 Must-Watch Unboxing Channels</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/e-viewers-beyond-individual-watches/"><u>Engage Viewers Beyond Individual Watches</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-quick-engagement-techniques-for-zooms-camera-shots/"><u>In 2024, Quick Engagement Techniques for Zoom’s Camera Shots</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamlining-image-purity-via-photopea-methods/"><u>In 2024, Streamlining Image Purity via Photopea Methods</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unifying-visual-experience-in-iphone-recording-for-2024/"><u>Unifying Visual Experience in iPhone Recording for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-enhanced-samsung-k850u-experience-for-2024/"><u>Unveiling the Enhanced Samsung K850U Experience for 2024</u></a></li>
 </ul></div>
 

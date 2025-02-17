@@ -1,7 +1,7 @@
 ---
 title: 1. Crafting Steadfast Character Personalities in Your Story Using the MidJourney Method
-date: 2025-02-03T16:16:39.660Z
-updated: 2025-02-07T17:10:06.257Z
+date: 2025-02-11T06:25:18.788Z
+updated: 2025-02-16T21:16:18.075Z
 tags:
   - cutting-edge
 categories:
@@ -25,10 +25,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  It's important to understand that Midjourney is basically using AI image recognition methods on the image that you provide. So, in other words, it's not like it's cutting and pasting the character, but rather it's converting it to a sophisticated set of attributes that make up that character. This means that, in many cases, the extracted character won't look exactly like the source, but we'll get to how you can mitigate that in just a minute. First, let's look at "cref" or "character reference", the command that makes all of this possible.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Use the "cref" Command
 
  Just like command for [aspect ratio](https://youtube-lab.techidaily.com/gateway-to-youtube-entrepreneurship-the-best-10-easy-to-create-channels/) (--ar X:Y) the cref command goes into your prompt, stacked at the end with any other commands. To use it, simply put "--cref" at the end of your prompt, followed by the URL of the reference image, separated by a space. For example:
@@ -45,7 +41,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Saving an image link from the Discord bot interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/saving-an-image-link-from-the-discord-bot-interface.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you're using the new [Midjourney Alpha web interface](https://vp-tips.techidaily.com/new-2024-approved-heaviest-lifting-uavs-the-definitive-top-10/), simply click the little picture icon to the left of the prompt bar. Then upload the image of your choice. Once you have it uploaded, right-click on it and copy the link. Then you can use the --cref command as you do in Discord.
@@ -53,13 +49,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Saving an image link in the Midjourney web interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-30-at-14-10-50.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's really all there is to it, so next let's run through it step-by-step.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Let’s Make a Character Step-by-Step
@@ -73,7 +69,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Examples of an anime elf generated by Midjourney.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/examples-of-an-anime-elf-generated-by-midjourney.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, I pick the one I like the most using the upscale buttons. In this case, I clicked "U1" to upscale the upper-left image.
@@ -88,6 +84,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Then, in the output, you can see the character has been reused, but in the new requested pose.
 
 ![New characters based on an existing character using the CREF command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-characters-based-on-an-existing-character-using-the-cref-command.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Tips and Tricks
 
@@ -114,18 +114,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-mastering-advertising-for-profit-the-ultimate-vimeo-guidebook/"><u>[New] In 2024, Mastering Advertising for Profit The Ultimate Vimeo Guidebook</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/1716069870659-new-inbuilt-screen-capture-huaweis-mate-series-and-p-lineup-phones-for-2024/"><u>[New] Inbuilt Screen Capture Huawei's Mate Series & P Lineup Phones. For 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-toolkit-for-elevating-your-podcast-through-seo/"><u>[New] The Ultimate Toolkit for Elevating Your Podcast Through SEO</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-charting-the-course-of-monetization-for-creator-economy-on-youtubeshorts/"><u>[Updated] 2024 Approved Charting the Course of Monetization for Creator Economy on YouTubeshorts</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-final-cut-pro-full-using-guide/"><u>[Updated] In 2024, Final Cut Pro Full Using Guide</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-snap-clean-top-10-apps-to-sharpen-your-digital-world/"><u>[Updated] In 2024, Snap Clean Top 10 Apps to Sharpen Your Digital World</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-perfect-blend-of-creativity-and-data-for-title-genius/"><u>[Updated] The Perfect Blend of Creativity & Data for Title Genius</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-efficient-techniques-to-record-and-edit-videos-using-adobe-connect/"><u>2024 Approved Efficient Techniques to Record & Edit Videos Using Adobe Connect</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-protecting-beats-on-instagram/"><u>2024 Approved Protecting Beats on Instagram</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-strategy-in-the-shopping-experience/"><u>In 2024, Strategy in the Shopping Experience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamline-conferencing-top-tactics-using-zoom-coder/"><u>In 2024, Streamline Conferencing Top Tactics Using Zoom Coder</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-picks-8-must-have-wallpapers-for-macos-users/"><u>In 2024, Top Picks 8 Must-Have Wallpapers for MacOS Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-audio-magic-the-gradual-introduction-with-audition/"><u>In 2024, Unveiling Audio Magic The Gradual Introduction with Audition</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-detailed-steps-to-record-hulu-on-every-os-and-device-type/"><u>[New] 2024 Approved Detailed Steps to Record Hulu on Every OS and Device Type</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ssential-techniques-for-designing-youtube-video-thumbnails/"><u>[New] Essential Techniques for Designing YouTube Video Thumbnails</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-the-best-10-elements-that-enthrall-filmora-users/"><u>[New] The Best 10 Elements That Enthrall Filmora Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-core-upgrades-of-windows-11/"><u>[New] The Core Upgrades of Windows 11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-top-5-techniques-for-storing-lol-battles/"><u>[Updated] 2024 Approved Top 5 Techniques for Storing LOL Battles</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-a-guide-to-fine-tuning-your-google-meet-experience-for-2024/"><u>[Updated] A Guide to Fine-Tuning Your Google Meet Experience for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-from-archive-to-annotation-turning-zip-into-srt/"><u>[Updated] From Archive to Annotation Turning ZIP Into SRT</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-snap-your-next-podcast-pick-for-sharing/"><u>[Updated] Snap Your Next Podcast Pick for Sharing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ten-strategies-for-controlling-a-twitch-broadcast/"><u>[Updated] Ten Strategies for Controlling a Twitch Broadcast</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-freely-flowing-world-of-historical-works/"><u>[Updated] The Freely Flowing World of Historical Works</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-interface-interlink-bridging-ig-and-tiktok-worlds/"><u>[Updated] The Interface Interlink Bridging IG & TikTok Worlds</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-ultimate-insight-into-the-asus-proart-pa-329q-professional-monitor-for-2024/"><u>[Updated] The Ultimate Insight Into the Asus ProArt PA 329Q Professional Monitor for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-brainiac-challenge-gk-quizzes/"><u>[Updated] Ultimate Brainiac Challenge - GK Quizzes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tapping-into-creative-potential-with-luts-in-premiere-pro/"><u>2024 Approved Tapping Into Creative Potential with LUTs in Premiere Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-youtubes-hidden-gems-the-comment-space/"><u>2024 Approved Unveiling YouTube's Hidden Gems The Comment Space</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-samsung-galaxy-f54-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Samsung Galaxy F54 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-sites-for-fetching-got-ringtone-downloads/"><u>In 2024, Top Sites for Fetching GoT Ringtone Downloads</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-process-of-selecting-the-right-smart-tv/"><u>The Process of Selecting the Right Smart TV</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-mobile-vr-headsets-for-2024/"><u>Top 10 Mobile VR Headsets for 2024</u></a></li>
 </ul></div>
 
