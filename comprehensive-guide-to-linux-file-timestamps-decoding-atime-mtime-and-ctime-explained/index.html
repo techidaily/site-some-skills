@@ -36,8 +36,8 @@
 <meta property="og:image" content="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/7-6.png">
 <meta property="og:image" content="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/8-5.png">
 <meta property="og:image" content="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/9-6.png">
-<meta property="article:published_time" content="2025-02-13T20:34:59.871Z">
-<meta property="article:modified_time" content="2025-02-16T22:27:12.634Z">
+<meta property="article:published_time" content="2025-03-01T12:51:53.534Z">
+<meta property="article:modified_time" content="2025-03-05T14:33:00.789Z">
 <meta property="article:author" content="Daniel">
 <meta property="article:tag" content="desktop">
 <meta name="twitter:card" content="summary">
@@ -722,15 +722,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2025-02-14 04:34:59</span>
-        <span class="mobile">2025-02-14 04:34:59</span>
+        <span class="desktop">2025-03-01 20:51:53</span>
+        <span class="mobile">2025-03-01 20:51:53</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2025-02-17 06:27:12</span>
-            <span class="mobile">2025-02-17 06:27:12</span>
+            <span class="desktop">2025-03-05 22:33</span>
+            <span class="mobile">2025-03-05 22:33</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -818,19 +818,11 @@
                      data-src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/2-7.png"
                       alt="stat dp.c in a terminal window"
                 > </p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p> The time zones are listed at the bottom of the display. As you can see, they have a very accurate, fractional seconds component. At the end of each timestamp, you also see a -0500 or -0400 .</p>
 <p> These are time zone offsets. The file system records the timestamps in UTC and converts them to the local time zone when displayed by stat. The computer we used to research this article is configured as if it were in the Eastern Standard Time (EST) zone of the U.S.</p>
 <p> That time zone is five hours behind UTC when EST is in force. However, it’s four hours behind UTC when Eastern Daylight Time (EDT) is in force. In April 2019, when the modified timestamp was changed, EDT was in effect. That’s why two of the timestamps have a five-hour offset, but the modified has a four-hour offset.</p>
 <p> The offsets and time zones aren’t stored anywhere. There’s neither <a class="link"   target="_blank" rel="noopener" href="https://fox-http.techidaily.com/enthralling-examination-and-replacement-ideas-for-2024/" >an inode <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> nor a file system space devoted to holding these values. You have to calculate these on the fly using the timestamp (which is always in UTC time), the local time zone of the computer displaying the file, and whether DST was in effect.</p>
 <p> You also see a “Birth” timestamp, which is reserved for the creation date of the file. This is not implemented, and you see a hyphen “-“ instead of a timestamp.</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="Changing-Timestamps"><a href="#Changing-Timestamps" class="headerlink" title="Changing Timestamps"></a>Changing Timestamps</h2><p> If you want, you can change the timestamps on a file. You can use <a class="link"   target="_blank" rel="noopener" href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-vivo-y55s-5g-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/" >the touch command <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> to change the access or modified timestamps, <a class="link"   target="_blank" rel="noopener" href="http://man7.org/linux/man-pages/man1/touch.1.html" >or both: <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> </p>
 <p>touch -a dp.c</p>
 <p> To set a new access timestamp, you would use the -a (access time) option. This command sets the access timestamp to the computer’s current time:</p>
@@ -841,10 +833,6 @@
                      data-src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/3-8.png"
                       alt="touch -a dp.c in a terminal window"
                 > </p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p> The access timestamp changed, as expected. However, the changed timestamp was updated as well; this is normal.</p>
 <p> To change the modified timestamp, you can use the -m (modified time) option:</p>
 <p>touch -m dp.c</p>
@@ -903,33 +891,13 @@
 <p> Here’s the content of the file without the wrap-around:</p>
 <pre><code>    `# /etc/fstab: static file system information.  
 </code></pre>
-<h2 id=""><a href="#" class="headerlink" title=""></a></h2><!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<h2 id="Use-‘blkid’-to-print-the-universally-unique-identifier-for-a"><a href="#Use-‘blkid’-to-print-the-universally-unique-identifier-for-a" class="headerlink" title="Use ‘blkid’ to print the universally unique identifier for a"></a>Use ‘blkid’ to print the universally unique identifier for a</h2><!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<h2 id="device-this-may-be-used-with-UUID-as-a-more-robust-way-to-name-devices"><a href="#device-this-may-be-used-with-UUID-as-a-more-robust-way-to-name-devices" class="headerlink" title="device; this may be used with UUID&#x3D; as a more robust way to name devices"></a>device; this may be used with UUID&#x3D; as a more robust way to name devices</h2><!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<h2 id="that-works-even-if-disks-are-added-and-removed-See-fstab-5"><a href="#that-works-even-if-disks-are-added-and-removed-See-fstab-5" class="headerlink" title="that works even if disks are added and removed. See fstab(5)."></a>that works even if disks are added and removed. See fstab(5).</h2><h2 id="-1"><a href="#-1" class="headerlink" title=""></a></h2><!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<h2 id="-2"><a href="#-2" class="headerlink" title="     "></a><file system> <mount point> <type> <options> <dump> <pass></h2><h2 id="was-on-dev-sda1-during-installation"><a href="#was-on-dev-sda1-during-installation" class="headerlink" title="&#x2F; was on &#x2F;dev&#x2F;sda1 during installation"></a>&#x2F; was on &#x2F;dev&#x2F;sda1 during installation</h2><p>UUID&#x3D;4a143d08-8695-475b-8243-b13b56050fc2 &#x2F; ext4 errors&#x3D;remount-ro 0 1<br>&#x2F;swapfile none swap sw 0 0&#96;</p>
+<h2 id=""><a href="#" class="headerlink" title=""></a></h2><h2 id="Use-‘blkid’-to-print-the-universally-unique-identifier-for-a"><a href="#Use-‘blkid’-to-print-the-universally-unique-identifier-for-a" class="headerlink" title="Use ‘blkid’ to print the universally unique identifier for a"></a>Use ‘blkid’ to print the universally unique identifier for a</h2><h2 id="device-this-may-be-used-with-UUID-as-a-more-robust-way-to-name-devices"><a href="#device-this-may-be-used-with-UUID-as-a-more-robust-way-to-name-devices" class="headerlink" title="device; this may be used with UUID&#x3D; as a more robust way to name devices"></a>device; this may be used with UUID&#x3D; as a more robust way to name devices</h2><h2 id="that-works-even-if-disks-are-added-and-removed-See-fstab-5"><a href="#that-works-even-if-disks-are-added-and-removed-See-fstab-5" class="headerlink" title="that works even if disks are added and removed. See fstab(5)."></a>that works even if disks are added and removed. See fstab(5).</h2><h2 id="-1"><a href="#-1" class="headerlink" title=""></a></h2><h2 id="-2"><a href="#-2" class="headerlink" title="     "></a><file system> <mount point> <type> <options> <dump> <pass></h2><h2 id="was-on-dev-sda1-during-installation"><a href="#was-on-dev-sda1-during-installation" class="headerlink" title="&#x2F; was on &#x2F;dev&#x2F;sda1 during installation"></a>&#x2F; was on &#x2F;dev&#x2F;sda1 during installation</h2><p>UUID&#x3D;4a143d08-8695-475b-8243-b13b56050fc2 &#x2F; ext4 errors&#x3D;remount-ro 0 1<br>&#x2F;swapfile none swap sw 0 0&#96;</p>
 <p> There are only two entries, and one of them is a swap file, which we can ignore. The other is being mounted at the root of the filesystem (&#x2F;) and was on device &#x2F;dev&#x2F;sda1 at the time of installation. That’s the first partition on the first hard drive, and it happens to contain an ext4 file system.</p>
 <p> The only option passed to it is errors&#x3D;remount-ro, which tells the operating system to remount this file system as read-only if there are errors when trying to mount it as a read and write file system.</p>
 <p> So, there’s no mention of how the access timestamp will be handled. Let’s dig deeper and check out what &#x2F;proc&#x2F;mounts can tell us. We’ll pipe the output from &#x2F;proc&#x2F;mounts through grep. <a class="link"   target="_blank" rel="noopener" href="http://man7.org/linux/man-pages/man1/grep.1.html" >Our search string will be “sda” <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, the hard drive identifier.</p>
 <p> We type the following:</p>
 <p>cat &#x2F;proc&#x2F;mounts | grep “sda”</p>
 <p><img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/9-6.png" alt="cat /proc/mounts | grep &quot;sda&quot; in a terminal window"> </p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p> Now we see the following options:</p>
 <ul>
 <li><strong>rw</strong>: The file system will be mounted as a read and write file system.</li>
@@ -959,18 +927,21 @@
      data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-unmask-subject-with-backdrop-blanket-removal/"><u>[New] Unmask Subject with Backdrop Blanket Removal</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-path-of-peacefulness-how-to-gently-dim-music-tracks/"><u>[Updated] The Path of Peacefulness How To Gently Dim Music Tracks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-podcast-outros-and-examples/"><u>[Updated] The Ultimate Guide to Podcast Outros & Examples</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tips-for-adding-youtube-music-to-video/"><u>2024 Approved Tips For Adding YouTube Music To Video</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://tech-haven.techidaily.com/easy-instructions-to-launch-chatgpt-on-windows-systems/"><u>Easy Instructions to Launch ChatGPT on Windows Systems</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-nokia-g22-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Nokia G22 | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Honor Play 40C? | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-help.techidaily.com/infusing-vitality-into-text-an-animated-adventure-for-2024/"><u>Infusing Vitality Into Text An Animated Adventure for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://win-bits.techidaily.com/los-mas-efectivos-programas-de-respaldo-y-restauracion-wd-gratis-para-su-pc/"><u>Los Más Efectivos Programas De Respaldo Y Restauración WD Gratis Para Su PC</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://win-amazing.techidaily.com/rapid-deployment-steps-for-the-newest-wacom-intuos-graphic-tool-driver/"><u>Rapid Deployment Steps for the Newest Wacom Intuos Graphic Tool Driver</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Oppo A78 | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://tech-haven.techidaily.com/unraveling-cyber-kidnapping-save-your-device-at-50-chatgpt-joins-forces-with-us-on-the-airwaves/"><u>Unraveling Cyber Kidnapping: Save Your Device at $50 - ChatGPT Joins Forces with Us on the Airwaves</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://facebook-video-content.techidaily.com/new-2024-approved-compre-written-guide-youtube-video-distribution-on-fb/"><u>[New] 2024 Approved Compre Written Guide YouTube Video Distribution on FB</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://facebook-video-footage.techidaily.com/new-in-2024-charting-new-heights-with-popular-youtube-content/"><u>[New] In 2024, Charting New Heights with Popular YouTube Content</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://remote-screen-capture.techidaily.com/new-in-2024-innovative-methods-for-mac-screenshot-format-change/"><u>[New] In 2024, Innovative Methods for Mac Screenshot Format Change</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-perfect-gaming-experience-kinemaster-on-android/"><u>[New] Unveiling the Perfect Gaming Experience KineMaster on Android</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://instagram-clips.techidaily.com/updated-2024-approved-exclusive-insight-into-the-6-most-advanced-instagram-reel-apps/"><u>[Updated] 2024 Approved Exclusive Insight Into the 6 Most Advanced Instagram Reel Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-meditative-tunes-compilation-top-10-legal-streams/"><u>[Updated] Meditative Tunes Compilation - Top 10 Legal Streams</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-untangling-aerial-vehicles-a-guide-to-drones-operation/"><u>[Updated] Untangling Aerial Vehicles A Guide to Drones' Operation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-choice-vr-game-engines-update-march-2023/"><u>2024 Approved Top Choice VR Game Engines Update - March 2023</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transformative-grading-3-simplified-photoshop-routines/"><u>2024 Approved Transformative Grading 3 Simplified Photoshop Routines</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://review-topics.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-soundtrack-of-stills-visual-audio-crafting/"><u>In 2024, The Soundtrack of Stills Visual-Audio Crafting</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-access.techidaily.com/perfecting-package-adventure-7-steps/"><u>Perfecting Package Adventure 7 Steps</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://win11-tips.techidaily.com/the-consequences-of-muting-windows-11-notification-tones/"><u>The Consequences of Muting Windows 11 Notification Tones</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Honor X8b? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unmissable-vr-immersive-storytelling-for-2024/"><u>Unmissable VR Immersive Storytelling for 2024</u></a></li>
 </ul></div>
 
 
@@ -983,11 +954,11 @@
         <li><strong>Title:</strong> Comprehensive Guide to Linux File Timestamps – Decoding Atime, Mtime, and Ctime Explained</li>
         <li><strong>Author:</strong> Daniel</li>
         <li><strong>Created at
-                :</strong> 2025-02-14 04:34:59</li>
+                :</strong> 2025-03-01 20:51:53</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2025-02-17 06:27:12
+                    :</strong> 2025-03-05 22:33:00
             </li>
         
         <li>
@@ -1027,13 +998,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/updated-the-ultimate-guide-to-utilizing-zero-cost-clocks/"
+                        href="/mastering-the-likebook-air-from-boyue-and-jdread-venus-insider-tips-for-ultimate-portability-and-performance/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">[Updated] The Ultimate Guide to Utilizing Zero-Cost Clocks</span>
+                                <span class="post-nav-title-item">Mastering the Likebook Air From Boyue &amp; JDRead Venus: Insider Tips for Ultimate Portability and Performance</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -1043,10 +1014,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/effective-web-exploration-strategies-with-chatgpt/"
+                        href="/boosted-brainpower-microsofts-latest-leap-with-copilot-and-bing-chat-utilizing-gpt-4-enhancements/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Effective Web Exploration Strategies with ChatGPT</span>
+                                <span class="post-nav-title-item">Boosted Brainpower: Microsoft&#39;s Latest Leap with Copilot &amp; Bing Chat Utilizing GPT-4 Enhancements</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
@@ -1082,15 +1053,6 @@
 
 		<!-- add seo affiliate products -->
 <div>
-  <div class="grid grid-cols-2 md:grid-cols-1 gap-2">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
-  </div>
-  <a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390"><img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="" width="1456" height="180"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-  <a href="https://arkmc.pxf.io/c/5597632/427527/5172" target="_top" id="427527"><img src="//a.impactradius-go.com/display-ad/5172-427527" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427527/5172" style="position:absolute;visibility:hidden;" border="0" />
-  <a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-  <a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040"><img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-  <a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2086402/21526" target="_top" id="2086402"><img src="//a.impactradius-go.com/display-ad/21526-2086402" border="0" alt="" width="830" height="312"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086402/21526" style="position:absolute;visibility:hidden;" border="0" />
 </div>
 
 
