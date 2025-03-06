@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Tutorial: Enabling Your Laptop's Hibernation Mode with the Lid Shut"
-date: 2025-02-16T03:29:11.018Z
-updated: 2025-02-16T23:02:29.031Z
+date: 2025-03-02T18:34:20.539Z
+updated: 2025-03-05T22:58:18.066Z
 tags:
   - deals
 categories:
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 * [Prevent Your Laptop from Shutting Down When You Close the Screen](https://vp-tips.techidaily.com/updated-2024-approved-unveiling-the-magic-of-films-mood-with-colors/)
 * [Does Keeping Your Laptop Running Hurt the Battery?](https://tech-haven.techidaily.com/innovative-plot-development-with-chatgpts-nine-insights/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Change your laptop's settings to prevent it from shutting down when you close the lid by accessing Windows Settings and selecting "Change what closing the lid does."
@@ -27,19 +23,11 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 
  If you'd like to use your Windows 11 laptop with an [external monitor](https://desktop-recording.techidaily.com/updated-in-2024-in-depth-guide-to-2023s-leading-web-capture-applications/), mouse, and keyboard, it's often nice to keep the lid closed. Here's how to close the lid [without](https://youtube-docs.techidaily.com/ring-the-art-of-youtube-closings-inclusive-guide-for-2024/) putting your PC to sleep.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Prevent Your Laptop from Shutting Down When You Close the Screen
 
  First, open Windows Settings by pressing Windows+i on your keyboard. Or you can right-click the Start button and select "Settings."
 
 ![In Windows 11, right-click the Start button and select "Settings."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/win11_right_click_start_settings.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In Settings, click the search bar and type "lid," then click the "Change what closing the lid does" result that appears beneath it.
 
@@ -53,17 +41,9 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 
 ![In the "When I close the lid" drop-down menu for the power setting you want, select "Do Nothing."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/select_do_nothing.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After that, click the "Save Changes" button at the bottom of the window.
 
 ![Click "Save Changes."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/click_save_changes.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  These changes will apply to all of your [power plans](https://apple-account.techidaily.com/how-to-unlink-your-iphone-11-pro-max-from-your-apple-id-by-drfone-ios/). When you're ready, close the "System Settings" and "Settings" windows. To test it out, plug your laptop into an external monitor and close the lid. If the video stays on, you'll know that you configured it properly. 
 
@@ -86,20 +66,20 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-first-moments-that-foster-interest-in-audios/"><u>[New] 2024 Approved First Moments that Foster Interest in Audios</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-revolutionizing-channel-management-through-tubebuddy/"><u>[New] In 2024, Revolutionizing Channel Management Through TubeBuddy</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-ultimate-online-seminar-creation-assistant/"><u>[New] Ultimate Online Seminar Creation Assistant</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-adjust-privacy-settings-for-secure-online-viewing/"><u>[Updated] Adjust Privacy Settings for Secure Online Viewing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-supercharged-productivity-while-flipping-audio-switches/"><u>[Updated] Supercharged Productivity While Flipping Audio Switches</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-gradual-volume-curve-of-audio-reduction-in-fl-studio/"><u>[Updated] The Gradual Volume Curve of Audio Reduction in FL Studio</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-photographers-route-to-perfectly-trimmed-web-pics/"><u>2024 Approved The Photographer's Route to Perfectly Trimmed Web Pics</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effortless-fixes-solving-the-rage-2-crashing-problems-instantly/"><u>Effortless Fixes: Solving the RAGE 2 Crashing Problems Instantly</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-the-leading-lawn-care-equipment-insights-from-zdnets-latest-rankings/"><u>Exploring the Leading Lawn Care Equipment - Insights From ZDNET's Latest Rankings</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-peoples-take-on-vllo/"><u>In 2024, The People's Take on VLLO</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mastering-deal-making-in-a-flourishing-cloud-market-smart-strategies-revealed/"><u>Mastering Deal-Making in a Flourishing Cloud Market - Smart Strategies Revealed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-shift-from-rgb-to-srgb-in-digital-imaging-for-2024/"><u>The Shift From Rgb to Srgb in Digital Imaging for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-windows-mobile-video-playback-guide-for-2024/"><u>The Ultimate Windows Mobile Video Playback Guide for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/top-methods-when-windows-security-is-off-limits/"><u>Top Methods When Windows Security Is Off-Limits</u></a></li>
-<li><a href="https://techidaily.com/vivo-data-retrieval-tool-restore-lost-data-from-vivo-by-fonelab-android-recover-data/"><u>Vivo Data Retrieval tool – restore lost data from Vivo</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-hdr-tutorial-for-exceptional-portraits/"><u>[New] The Ultimate HDR Tutorial for Exceptional Portraits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unraveling-the-art-of-iphone-vr-video-playback/"><u>[New] Unraveling the Art of iPhone VR Video Playback</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-artisans-nexus-reports-in-depth-studio-scrutiny-2023-edition-for-2024/"><u>[Updated] Artisan's Nexus Reports In-Depth Studio Scrutiny, 2023 Edition for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-30-online-music-venues/"><u>2024 Approved Top 30 Online Music Venues</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-f14-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Samsung Galaxy F14 5G</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/expert-advice-on-flawless-ipad-screen-captures/"><u>Expert Advice on Flawless iPad Screen Captures</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-motorola-edge-40-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-and-repair-the-voice-call-system-in-steam-games/"><u>How to Restore and Repair the Voice Call System in Steam Games</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-mastering-the-art-of-choosing-winning-video-thumbnails/"><u>In 2024, Mastering the Art of Choosing Winning Video Thumbnails</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-platform-debate-which-appliance-prevails-podcast-or-youtube/"><u>In 2024, The Platform Debate Which Appliance Prevails – Podcast or YouTube?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-list-of-best-4k-monitors/"><u>In 2024, The Ultimate List of Best 4K Monitors</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/mastering-googles-audio-to-text-translations-a-comprehensible-guide/"><u>Mastering Google's Audio to Text Translations A Comprehensible Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-8-video-transformation-tools-from-iphone-to-file-for-2024/"><u>Top #8 Video Transformation Tools From iPhone to File for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-5-budget-friendly-video-effect-tools-for-2024/"><u>Top 5 Budget-Friendly Video Effect Tools for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/unraveling-virtual-physical-coexistence-what-is-mixed-reality/"><u>Unraveling Virtual-Physical Coexistence What Is Mixed Reality?</u></a></li>
 </ul></div>
 

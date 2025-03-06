@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Erasing Your Clipboard Memory in Windows 11"
-date: 2025-02-13T23:48:01.952Z
-updated: 2025-02-17T06:21:17.046Z
+date: 2025-02-28T01:43:08.304Z
+updated: 2025-03-06T01:29:54.603Z
 tags:
   - desktop
 categories:
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 * [Another Way to Clear All Clipboard Data](https://extra-skills.techidaily.com/2024-approved-navigating-through-gopro-models-and-specifications/)
 * [How to Disable Clipboard History in Windows 10](https://android-frp.techidaily.com/top-5-meizu-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Clipboard history in Windows 10 stores the 25 most recent items you've copied, including text, HTML, and images.
@@ -29,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 * To disable Clipboard history, go to Windows Settings > System > Clipboard and toggle the switch to "Off."
 
  If you have Clipboard history enabled in Windows 10, the feature keeps a record of items you have recently copied to the Clipboard while using copy and paste. Here's how to clear your Clipboard history—or disable it if you prefer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What Gets Stored in Clipboard History?
 
@@ -62,19 +54,11 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 
  Note that with Clipboard history enabled, new items will continue to appear in the Clipboard history list every time you copy something to the Clipboard. If you would like to prevent Windows from storing your Clipboard history, you will need to disable the feature in Windows Settings.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Another Way to Clear All Clipboard Data
 
  You can also clear your clipboard data in Windows Settings. Navigate to Settings > System > Clipboard and locate the "Clear Clipboard Data" section. Click on the "Clear" button, and the clipboard will be erased.
 
 ![Tap 'Clear' to clear your clipboard history.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/clear-clipboard-data.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This is equivalent to pushing the "Clear All" button in the Clipboard history window, but it also works with Clipboard history turned off.
 
@@ -85,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
  In Windows Settings, click on "System."
 
 ![Click 'Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/click-settings.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  On the Settings sidebar, click on "Clipboard." In Clipboard settings, locate the section called "Clipboard history" and toggle the switch to "Off."
 
@@ -115,24 +95,18 @@ thumbnail: https://thmb.techidaily.com/39081c3602019e3931b90b2bf6ba65f285840198c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-from-sketches-to-screen-bringing-anime-filters-into-snaps/"><u>[New] 2024 Approved From Sketches to Screen Bringing Anime Filters Into Snaps</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-transformative-tools-for-uploading-videos-to-twitter-for-2024/"><u>[New] Transformative Tools for Uploading Videos to Twitter for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-turn-off-youtubes-quick-video-buffering-feature/"><u>[New] Turn Off YouTube's Quick Video Buffering Feature</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-razers-kiyo-webcam-complete-overview/"><u>[Updated] 2024 Approved Razer's Kiyo Webcam - Complete Overview</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-find-the-top-8-video-communication-apps-for-android-groups-for-2024/"><u>[Updated] Find the Top 8 Video Communication Apps for Android Groups for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-essence-of-mixed-reality-explored/"><u>[Updated] The Essence of Mixed Reality Explored</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-insiders-guide-to-snapchats-spotlight-feature/"><u>[Updated] The Insider's Guide to Snapchat's Spotlight Feature</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-superior-tracking-mounts-for-cameras-phone-sensitive/"><u>2024 Approved Superior Tracking Mounts for Cameras, Phone-Sensitive</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-creativity-with-these-14-exceptional-text-animations/"><u>2024 Approved Unleash Creativity with These 14 Exceptional Text Animations</u></a></li>
-<li><a href="https://change-location.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Samsung Galaxy S23 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-your-problem-solving-skills-with-these-3-techniques-using-chatgpts-wolfram-feature/"><u>Enhance Your Problem-Solving Skills with These 3 Techniques Using ChatGPT's Wolfram Feature</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Tecno Phantom V Fold? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-including-youtube-playlist-content-a-step-by-step-tutorial/"><u>In 2024, Including YouTube Playlist Content A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-for-virtual-reality-content-android-friendly/"><u>In 2024, The Ultimate Guide for Virtual Reality Content (Android-Friendly)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-top-7-best-voice-changer-recorder-apps/"><u>In 2024, Top 7 Best Voice Changer Recorder Apps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-tier-gopro-cases-unveiled-1-10-ranking/"><u>In 2024, Top-Tier GoPro Cases Unveiled - #1-10 Ranking</u></a></li>
-<li><a href="https://driver-install.techidaily.com/incorporate-ax19-controller-for-enhanced-connectivity-on-lenovo-thinkpad/"><u>Incorporate AX19 Controller for Enhanced Connectivity on Lenovo ThinkPad</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-most-advanced-virtual-reality-engines-of-2023-for-2024/"><u>The Most Advanced Virtual Reality Engines of 2023 for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-humor-pay-nothing-easymeme-tools-guide-for-2024/"><u>Unlock Humor, Pay Nothing EasyMeme Tools Guide for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-a-detailed-guide-youtubes-most-engaging-storytellers-in-23/"><u>[New] A Detailed Guide YouTube's Most Engaging Storytellers in '23</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-faster-adjustment-of-youtube-videos-for-mac-pixels/"><u>[New] In 2024, Faster Adjustment of YouTube Videos for Mac Pixels</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-swift-to-stillness-the-art-of-timelapse-with-a-galaxy/"><u>[New] Swift to Stillness The Art of Timelapse with a Galaxy</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unraveling-the-mystery-of-iphone-based-podcast-access/"><u>[New] Unraveling the Mystery of iPhone-Based Podcast Access</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-excellence-in-entertainment-the-finest-offline-ios-games/"><u>[Updated] In 2024, Excellence in Entertainment - The Finest Offline iOS Games</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-ultimate-path-to-link-integration-on-instagrams-social-stage/"><u>[Updated] In 2024, The Ultimate Path to Link Integration on Instagram's Social Stage</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-rise-and-fall-of-vegas-pro-a-critical-look/"><u>2024 Approved The Rise and Fall of Vegas Pro A Critical Look</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/demystifying-the-power-of-luts-in-visual-artistry-for-2024/"><u>Demystifying the Power of LUTs in Visual Artistry for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-the-experience-top-9-streams/"><u>In 2024, Unleash the Experience Top 9 Streams</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-the-full-potential-of-zoom-on-chrome-os/"><u>In 2024, Unleashing the Full Potential of Zoom on Chrome OS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/live-streaming-console-gaming-secrets-on-a-computer-for-2024/"><u>Live-Streaming Console Gaming Secrets on a Computer for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/steps-to-secure-unmarked-stock-photos-for-business/"><u>Steps to Secure Unmarked Stock Photos for Business</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamlined-approach-for-customizing-snapchat-video-rate-for-2024/"><u>Streamlined Approach for Customizing Snapchat Video Rate for 2024</u></a></li>
 </ul></div>
 

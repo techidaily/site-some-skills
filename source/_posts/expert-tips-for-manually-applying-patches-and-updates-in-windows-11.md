@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Manually Applying Patches and Updates in Windows 11
-date: 2025-02-12T22:27:46.815Z
-updated: 2025-02-17T02:49:44.537Z
+date: 2025-02-27T20:21:08.484Z
+updated: 2025-03-06T02:34:13.268Z
 tags:
   - desktop
 categories:
@@ -43,10 +43,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 !['Stop' selected for the Windows Update service.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/2-stop-windows-update-service.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Keep the Services window open, as you’ll return here shortly. Open the Run dialog box again by pressing Windows+R. Type the following path in the box and press Enter. If you’ve installed Windows on a drive other than C, replace the drive letter in the path.
 
         `C:\Windows\SoftwareDistribution\`
@@ -59,15 +55,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 !['Start' selected for the Windows Update service.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/4-start-windows-update-service.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You’re set.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  From Windows Settings
 
@@ -105,10 +93,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  After downloading the update, run the update file and follow the on-screen instructions. The file will extract the update files and install the update on your system.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Using Command Prompt
 
  Command Prompt offers a command that you can use to install an already-downloaded update on your PC. This is a great method to use when your update fails to install via the graphical user interface (GUI).
@@ -120,10 +104,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  After successfully downloading the update, [open Command Prompt](https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-14-ultra-drfone-by-drfone-android/). Do this by pressing the Windows key, typing **Command Prompt**, and selecting "Run as Administrator."
 
 !['Run as Administrator' highlighted for Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/11-launch-cmd-as-admin.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In the User Account Control prompt, select "Yes."
 
@@ -137,10 +117,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
     
 ![The command to install a Windows update typed in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/12-install-windows-update-cmd.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Run the following command to check if the update was successfully installed:
 
         `wmic qfe list brief /format:pagele`
@@ -152,10 +128,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
         `shutdown /r /t 00`
     
  And your Windows PC is now up-to-date.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Using Windows PowerShell
 
@@ -170,10 +142,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
         `Install-Module PSWindowsUpdate`
     
 ![The cmdlet to install the Windows Update module typed in PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/14-install-windows-update-module-powershell.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When PowerShell prompts, type **Y** and press Enter. Then, run the following cmdlet, type **Y**, and press Enter:
 
@@ -220,24 +188,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-hidden-narratives-unlocked-a-complete-snapguide/"><u>[New] 2024 Approved Hidden Narratives Unlocked A Complete Snapguide</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-strategies-to-escalate-your-instagram-presence/"><u>[New] 2024 Approved Strategies to Escalate Your Instagram Presence</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-beginners-guide-to-iphone-screen-capture/"><u>[Updated] 2024 Approved Beginner's Guide to iPhone Screen Capture</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-mac-users-guide-to-snapchat-integration/"><u>[Updated] Mac Users' Guide to Snapchat Integration</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-swift-to-stillness-the-art-of-timelapse-with-a-galaxy/"><u>[Updated] Swift to Stillness The Art of Timelapse with a Galaxy</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-indestructible-link-methodology-for-tiktok-bio-info/"><u>[Updated] The Indestructible Link Methodology for TikTok Bio Info</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-upload-wizardry-selecting-the-best-youtube-to-twitter-convertors/"><u>[Updated] Upload Wizardry Selecting the Best YouTube to Twitter Convertors</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-exclusive-windows-11s-media-importers/"><u>2024 Approved The Ultimate Exclusive Windows 11'S Media Importers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-5-slow-motion-capturers/"><u>2024 Approved Ultimate 5 Slow Motion Capturers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-windows-10-sound-capabilities/"><u>2024 Approved Unlocking Windows 10 Sound Capabilities</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unravel-the-secrets-of-saving-and-playing-gifs-on-your-ios-device/"><u>2024 Approved Unravel the Secrets of Saving & Playing GIFs on Your iOS Device</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unraveling-360-degree-vision-a-new-cinematic-experience/"><u>2024 Approved Unraveling 360-Degree Vision A New Cinematic Experience</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-fix-for-accidental-tiktok-reposts-undo-feature-walkthrough/"><u>Easy Fix for Accidental TikTok Reposts – Undo Feature Walkthrough</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-installation-of-fandango-streaming-service-for-amazon-firestick-users/"><u>Easy Installation of Fandango Streaming Service for Amazon Firestick Users</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-elite-selection-30plus-ultimate-free-templates-guide/"><u>In 2024, Elite Selection 30+ Ultimate Free Templates Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-iphone-photography-playbook/"><u>In 2024, The Ultimate iPhone Photography Playbook</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Oppo F23 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/mastering-youtube-live-imagery-a-comprehensive-overview-for-2024/"><u>Mastering YouTube Live Imagery A Comprehensive Overview for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/plating-perfection-30-unique-and-appealing-recipe-channels-for-2024/"><u>Plating Perfection 30 Unique and Appealing Recipe Channels for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/eciphering-the-world-of-youtube-media-conglomerates/"><u>[New] Deciphering the World of YouTube Media Conglomerates</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-artists-guide-to-vivid-vsco-imagery/"><u>[New] The Artist's Guide to Vivid VSCO Imagery</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pushing-boundaries-top-prime-lenses-for-industry-pros/"><u>[Updated] Pushing Boundaries Top Prime Lenses for Industry Pros</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-list-empowering-cinematic-experiences/"><u>[Updated] The Ultimate List Empowering Cinematic Experiences</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unbeatable-5-photo-backdrop-switchers-for-x8-series/"><u>[Updated] Unbeatable 5 Photo Backdrop Switchers for X/8 Series</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unraveling-the-secrets-to-effortlessly-record-seascapes/"><u>2024 Approved Unraveling the Secrets to Effortlessly Record Seascapes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-premium-behringer-audio-drives-at-no-cost-elevate-your-music-production-today/"><u>Download Premium Behringer Audio Drives at No Cost - Elevate Your Music Production Today</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/basic-to-exceptional-a-step-by-step-thumbnail-guide/"><u>From Basic to Exceptional A Step-by-Step Thumbnail Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protecting-privacy-understanding-how-neural-network-inversion-can-expose-chatbot-secrets/"><u>Protecting Privacy: Understanding How Neural Network Inversion Can Expose Chatbot Secrets</u></a></li>
+<li><a href="https://fox-access.techidaily.com/screen-capture-essentials-the-finest-zero-cost-apps-for-win-10-users/"><u>Screen Capture Essentials The Finest Zero-Cost Apps for Win 10 Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-iphones-silentvolume-buttons-correct-with-these-eb-optimized-solutions/"><u>Struggling with iPhone's Silent/Volume Buttons? Correct With These Eb-Optimized Solutions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discover Effortless iPhone Circle Searching with This Simple Shortcut
-date: 2025-02-14T01:08:22.050Z
-updated: 2025-02-17T04:00:30.159Z
+date: 2025-03-04T00:53:28.847Z
+updated: 2025-03-06T02:21:04.999Z
 tags:
   - mobile
 categories:
@@ -45,10 +45,6 @@ Justin Duino / How-To Geek
 
 ![Screenshot of the Add Action button in iPhone's Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-2.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On the following screen, type "take screenshot" in the search bar (at the top) and select the right option.
 
 ![Screenshot of the Take Screenshot button in Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-1.png) 
@@ -67,29 +63,13 @@ Justin Duino / How-To Geek
 
 ![Screenshot of the Back Tap option in iPhone's Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/8-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Choose whether you want to trigger the shortcut from a double or triple tap. I'm going with double tap.
 
 ![Screenshot of the Back Tap option in iPhone's Settings section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/9.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Scroll to the bottom and select "Search Image with Lens" in the Shortcuts menu.
 
 ![Search Image with Lens in iPhone's Back Tap menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/10.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Use Back Tap to Invoke Google Lens' Visual Search
 
@@ -120,22 +100,17 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/rom-newbie-to-pro-your-complete-guide-to-creator-studio/"><u>[New] From Newbie to Pro Your Complete Guide to Creator Studio</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-social-media-sphere-speaking-up-to-fans/"><u>[New] The Social Media Sphere Speaking Up to Fans</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-iphonedesktop-video-change-top-8-recommendations/"><u>[New] The Ultimate Guide to iPhone/Desktop Video Change Top 8 Recommendations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-chorus-conductor-android-edition/"><u>[New] Ultimate Chorus Conductor, Android Edition</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-seamless-transitions-the-art-of-editing-with-garagebands-power-tools/"><u>[Updated] Seamless Transitions The Art of Editing with GarageBand's Power Tools</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-flarex-media-player-pro-versatile-music-app/"><u>2024 Approved FlareX Media Player Pro Versatile Music App</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-audio-compilations-for-video-production/"><u>2024 Approved Ultimate Audio Compilations for Video Production</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-creative-expressions-building-stories-from-photos-in-pixiz/"><u>2024 Approved Unlock Creative Expressions Building Stories From Photos in Pixiz</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/enlarge-images-pixel-perfect-preservation/"><u>Enlarge Images Pixel-Perfect Preservation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-how-fast-and-responsive-ram-influences-system-efficiency/"><u>Exploring How Fast and Responsive RAM Influences System Efficiency</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/from-novice-to-pro-elevating-your-ps4-gameplay-screenshot-skills/"><u>From Novice to Pro Elevating Your PS4 Gameplay Screenshot Skills</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-13-pro-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro Passcode Screen? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-future-in-flight-hubsan-h501s-hovering-highlights/"><u>In 2024, The Future in Flight Hubsan H501S Hovering Highlights</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/smooth-process-incorporating-igtv-in-stories-for-2024/"><u>Smooth Process Incorporating IGTV in Stories for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-visual-communication-video-creation-techniques-in-windows-10-for-2024/"><u>The Art of Visual Communication Video Creation Techniques in Windows 10 for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-future-of-notes-is-obsidian-canvas-style/"><u>The Future of Notes Is Obsidian Canvas Style</u></a></li>
-<li><a href="https://some-skills.techidaily.com/toolwiz-evaluation-the-top-choice-in-mobile-editing-in-2024/"><u>Toolwiz Evaluation The Top Choice in Mobile Editing, In 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/levate-engagement-personalized-youtube-thumbnail-guide-for-2024/"><u>[New] Elevate Engagement Personalized YouTube Thumbnail Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-icicle-impressions-2022s-olympic-skaters/"><u>[New] Icicle Impressions 2022'S Olympic Skaters</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-turn-off-youtube-sneak-peek-embrace-uninterrupted-watching/"><u>[New] Turn Off YouTube Sneak Peek, Embrace Uninterrupted Watching</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-step-by-step-guide-adding-subs-to-igtv/"><u>[Updated] In 2024, Step-by-Step Guide Adding Subs to IGTV</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-turn-daily-life-into-a-comedy-meme/"><u>[Updated] Turn Daily Life Into a Comedy Meme</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-your-guide-to-streaming-success-on-discord-platform-for-2024/"><u>[Updated] Your Guide to Streaming Success on Discord Platform for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-uncover-top-11-effective-video-size-slashers-for-your-phone/"><u>2024 Approved Uncover Top 11 Effective Video Size Slashers for Your Phone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-canon-mf4500-all-in-one-printer-driver-step-by-step-downloads/"><u>Free Canon MF4500 All-in-One Printer Driver: Step by Step Downloads</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-gps-location-on-infinix-hot-30-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Infinix Hot 30 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-total-capture-trio-setup/"><u>In 2024, Total Capture Trio Setup</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210164612-9781644240878-the-sacred-and-mystic-i/"><u>The Sacred and Mystic I | Free Book</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/troubleshooting-guide-fixing-unrecognized-hardware-problems-with-network-cards-on-windows-os-by-yl-software-experts/"><u>Troubleshooting Guide: Fixing Unrecognized Hardware Problems with Network Cards on Windows OS by YL Software Experts</u></a></li>
 </ul></div>
 

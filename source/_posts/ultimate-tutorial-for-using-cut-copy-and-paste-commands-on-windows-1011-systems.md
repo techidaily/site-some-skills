@@ -1,7 +1,7 @@
 ---
 title: Ultimate Tutorial for Using Cut, Copy & Paste Commands on Windows 10/11 Systems
-date: 2025-02-11T00:58:03.160Z
-updated: 2025-02-17T06:45:40.679Z
+date: 2025-03-02T21:31:04.708Z
+updated: 2025-03-05T23:27:07.370Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Ultimate Tutorial for Using Cut, Copy & Paste Commands on Windows 10/11 Systems
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -24,10 +20,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [How to Copy, Cut, and Paste Using Application Menus](https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-g310-by-fonelab-android-recover-data/)
 * [How to Empty Your Clipboard](https://facebook-clips.techidaily.com/new-2024-approved-the-insiders-look-at-creating-viral-fb-cover-videos/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Copy, cut, and paste are fundamental operations in Windows 10 and Windows 11 that allow you to duplicate or move information between locations.
@@ -35,10 +27,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * Press Ctrl+C to Copy, Ctrl+X to Cut, and Ctrl+V to Paste.
 
  Copy, cut, and paste are three basic operations that every Windows 10 and 11 user should know by heart. The concepts behind them apply to nearly every application you'll ever use. Here's how they work.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How Does the Clipboard Work? 
 
@@ -58,10 +46,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Microsoft Cut, Paste, and Copy icons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/copy_paste_cut_icons.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Microsoft
 
  It's important to know the three fundamental keyboard shortcuts for Copy, Cut, and Paste included in Windows for decades. Microsoft borrowed these shortcuts from the Mac, which still uses them with the Mac's special Command key instead of Ctrl.
@@ -76,19 +60,11 @@ Microsoft
 
  If you need to copy in a program that interprets Ctrl+C as a break character (such as a terminal emulator), you can use Ctrl+Insert instead. To cut, use Shift+Delete. To paste, press Shift+Insert. These shortcuts aren't as commonly used today, but they are still almost universally recognized in Windows.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Copy, Cut, and Paste Using Right-Click
 
  In many programs, you can copy, cut, and paste using the right button on your mouse. First, select an element of a document (such as a web page), then right-click, and you'll likely see a context menu that includes Copy or Cut commands.
 
 ![Right-click and image and select "Copy Image."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-6.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can then right-click in a destination document and select Paste to put the contents of the Clipboard in that location.
 
@@ -143,24 +119,24 @@ Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-blueprint-for-lifelong-memories-storing-vintage-photos-digitally/"><u>[New] The Blueprint for Lifelong Memories Storing Vintage Photos Digitally</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-online-spaces-for-youtube-traffic-increase/"><u>[New] Top Online Spaces for YouTube Traffic Increase</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-professional-movie-making-on-youtube-and-similar-software/"><u>[Updated] Professional Movie Making on YouTube & Similar Software</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-resolving-iphone-shot-unfocus-issues-quickly/"><u>2024 Approved Resolving iPhone Shot Unfocus Issues Quickly</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-creativity-with-iphone-burst-photography/"><u>2024 Approved Unleash Creativity with iPhone Burst Photography</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-skypes-full-capacity-with-effective-zoom-methods/"><u>2024 Approved Unlocking Skype's Full Capacity with Effective Zoom Methods</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/apple-mulls-budget-friendly-macbook-lineup-in-bid-to-challenge-chromebook-dominance-zdnet/"><u>Apple Mulls Budget-Friendly MacBook Lineup in Bid to Challenge Chromebook Dominance - ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-tips-to-restore-functionality-of-broken-headset-microphones/"><u>DIY Tips to Restore Functionality of Broken Headset Microphones</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/explore-the-world-with-canons-retro-chic-g9x-mark-ii/"><u>Explore the World with Canon's Retro-Chic G9X Mark II</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-techniques-for-stronger-video-content-with-b-clips/"><u>In 2024, Techniques for Stronger Video Content with B-Clips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-quick-access-handbook-for-rapid-srt-to-text-change/"><u>In 2024, The Ultimate, Quick-Access Handbook for Rapid SRT to Text Change</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-full-photo-viewing-capabilities-win-11-edition/"><u>In 2024, Unlocking Full Photo Viewing Capabilities Win 11 Edition</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-discover-the-latest-movies-with-these-top-10-trailer-apps-for-ios/"><u>New 2024 Approved Discover the Latest Movies with These Top 10 Trailer Apps for iOS</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/new-release-brother-mfc-j480dw-drivers-fully-supported-by-windows-platform/"><u>New Release: Brother MFC-J480DW Drivers Fully Supported by Windows Platform</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tailor-made-tunes-for-chrome-companions-for-2024/"><u>Tailor-Made Tunes for Chrome Companions for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-future-of-advertising-in-the-metaverse-for-2024/"><u>The Future of Advertising in the Metaverse for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unmask-your-pcs-non-detecting-card-issue/"><u>Unmask Your PC's Non-Detecting Card Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/unsticking-your-shift-key-a-comprehensive-repair-tutorial/"><u>Unsticking Your Shift Key: A Comprehensive Repair Tutorial</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/3gpmkv/"><u>オンラインで自由に提供される3GPファイルをMKVに容易に変換: ムーバビの使い方</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-photo-keepers-companion-unlimited-free-options-and-elite-subscription-saviors/"><u>[New] The Photo Keeper’s Companion Unlimited Free Options & Elite Subscription Saviors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unparalleled-harmony-collector-android-based/"><u>[New] Unparalleled Harmony Collector, Android-Based</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-battle-of-av1-and-vp9-outcomes-revealed/"><u>[Updated] The Battle of AV1 and VP9 Outcomes Revealed</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twittrek-toolkit-a-comprehensive-approach-to-saving-tweets-visuals/"><u>[Updated] TwitTrek Toolkit A Comprehensive Approach to Saving Tweets' Visuals</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unraveling-visual-clarity-for-the-new-digital-age/"><u>[Updated] Unraveling Visual Clarity for the New Digital Age</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-secrets-of-gopro-chrono-photography/"><u>[Updated] Unveiling the Secrets of GoPro Chrono Photography</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-operational-handling-of-srt-in-oses/"><u>2024 Approved Operational Handling of SRT in OSes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-enhancements-in-vegaspro-with-its-2019-release/"><u>2024 Approved The Enhancements in VegasPro with Its 2019 Release</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-basics-an-approachable-hdr-review/"><u>2024 Approved Unveiling the Basics An Approachable HDR Review</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-advice-on-how-to-achieve-perfect-camera-placement-with-your-ps4/"><u>Expert Advice on How to Achieve Perfect Camera Placement with Your PS4</u></a></li>
+<li><a href="https://win-popular.techidaily.com/how-to-transfer-your-samsung-account-from-old-pcs-to-windows-11-a-comprehensive-guide/"><u>How to Transfer Your Samsung Account From Old PCs to Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-tecno-phantom-v-flip-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Tecno Phantom V Flip</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-understanding-the-price-tag-on-youtube-promo/"><u>In 2024, Understanding the Price Tag on Youtube Promo</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-potential-combining-zoom-and-google-mail/"><u>In 2024, Unleashing Potential Combining Zoom & Google Mail</u></a></li>
+<li><a href="https://techtrends.techidaily.com/nzxts-game-changing-monthly-offers-immerse-in-high-quality-gaming-with-core-i5-and-rtx-4060-pc-for-59-or-unleash-ultimate-power-wcore-i7-plus-rtx-4070-ti-pa92/"><u>NZXT's Game-Changing Monthly Offers: Immerse in High-Quality Gaming with Core I5 & RTX 4060 PC for $59 or Unleash Ultimate Power W/Core I7 + RTX 4070 Ti Package at an Extraordinary Price of $169!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-hp-chromebook-11-reviewed-a-versatile-powerhouse-tailored-to-enhance-education-work-efficiency-and-fun/"><u>The HP Chromebook 11 Reviewed: A Versatile Powerhouse Tailored to Enhance Education, Work Efficiency & Fun</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-12-mini-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From Apple iPhone 12 mini</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/understanding-monitor-error-messages-insights-from-yl-computing-and-their-software-solutions/"><u>Understanding Monitor Error Messages: Insights From YL Computing and Their Software Solutions</u></a></li>
 </ul></div>
 

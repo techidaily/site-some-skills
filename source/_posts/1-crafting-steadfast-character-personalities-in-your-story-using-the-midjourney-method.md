@@ -1,7 +1,7 @@
 ---
 title: 1. Crafting Steadfast Character Personalities in Your Story Using the MidJourney Method
-date: 2025-02-09T19:52:52.954Z
-updated: 2025-02-16T18:56:58.266Z
+date: 2025-02-28T21:58:55.331Z
+updated: 2025-03-05T16:15:56.283Z
 tags:
   - cutting-edge
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## 1. Crafting Steadfast Character Personalities in Your Story Using the MidJourney Method
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -28,10 +24,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  In [Midjourney](https://buynow-tips.techidaily.com/review-of-audews-portable-air-compressor-unmatched-portability-and-dependability/) terms, a consistent character is a humanoid subject in an existing image that the AI can extract and recreate in a new image. So, for example, if you've created a character, or there's a character in an image that you like, you can tell Midjourney to extract it and reuse it.
 
  It's important to understand that Midjourney is basically using AI image recognition methods on the image that you provide. So, in other words, it's not like it's cutting and pasting the character, but rather it's converting it to a sophisticated set of attributes that make up that character. This means that, in many cases, the extracted character won't look exactly like the source, but we'll get to how you can mitigate that in just a minute. First, let's look at "cref" or "character reference", the command that makes all of this possible.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Use the "cref" Command
 
@@ -52,15 +44,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Saving an image link in the Midjourney web interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-30-at-14-10-50.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  That's really all there is to it, so next let's run through it step-by-step.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Let’s Make a Character Step-by-Step
 
@@ -84,10 +68,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Then, in the output, you can see the character has been reused, but in the new requested pose.
 
 ![New characters based on an existing character using the CREF command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-characters-based-on-an-existing-character-using-the-cref-command.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Tips and Tricks
 
@@ -114,22 +94,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-prime-ringtone-retailers-for-game-of-thrones-fans/"><u>[New] Prime Ringtone Retailers for Game of Thrones Fans</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-professional-gopro-filming/"><u>[New] The Ultimate Guide to Professional GoPro Filming</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unmatched-4k-hdtvs-for-intense-gaming/"><u>[New] Unmatched 4K HDTVs for Intense Gaming</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/outubes-profit-distribution-to-content-makers/"><u>[New] YouTube's Profit Distribution to Content Makers</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-boosting-visual-clarity-comprehensive-strategies-for-zooming-photos-and-videos-for-2024/"><u>[Updated] Boosting Visual Clarity Comprehensive Strategies for Zooming Photos & Videos for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-10-dynamic-image-backdrops-viewer/"><u>[Updated] Top 10 Dynamic Image Backdrops Viewer</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-5-revelations-for-novice-advertisers-to-master-promotion/"><u>[Updated] Top 5 Revelations for Novice Advertisers to Master Promotion</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-true-to-life-shade-tweaker/"><u>[Updated] True-to-Life Shade Tweaker</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-adding-soundtracks-to-your-inshot-projects/"><u>2024 Approved Adding Soundtracks to Your InShot Projects</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-upgrading-simplified-navigating-macos-11-big-surs-changes/"><u>2024 Approved Upgrading Simplified Navigating macOS 11 Big Sur's Changes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-glitches-and-sound-issues-in-windows-10-and-7-solutions-proven-effective/"><u>How to Fix Audio Glitches and Sound Issues in Windows 10 & 7 - Solutions Proven Effective</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210055112-9781952244933-i-will-not-be-silent/"><u>I Will Not Be Silent | Free Book</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/losung-fur-hp-laptop-bildschirmergluhen-unter-windows-11/"><u>Lösung Für HP Laptop Bildschirmerglühen Unter Windows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-freevista-landing-on-exquisite-costless-tiktok-screenshots-for-2024/"><u>The FREEvista Landing on Exquisite, Costless TikTok Screenshots for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-10-free-video-tools-cross-platform-os-support-for-2024/"><u>Top 10 Free Video Tools Cross-Platform OS Support for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/unmatched-choice-our-top-8-no-cost-high-quality-video-software/"><u>Unmatched Choice Our Top 8 No-Cost, High-Quality Video Software</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-action-cam-faceoff-the-best-of-both-worlds-hero5-black-and-hero4-silver-for-2024/"><u>[New] Action Cam Faceoff The Best of Both Worlds – Hero5 Black & Hero4 Silver for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-optimizing-your-online-presence-zooming-into-tiktok-videos/"><u>[New] Optimizing Your Online Presence Zooming Into TikTok Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-superior-online-emporiums-where-boxes-reflect-your-style/"><u>[New] Superior Online Emporiums Where Boxes Reflect Your Style</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nlock-your-videographer-potential-with-youtube-studio-edition-expertise/"><u>[New] Unlock Your Videographer Potential with YouTube Studio Edition Expertise</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-synthesizing-sound-and-slides-incorporating-melodies-in-ppt/"><u>[Updated] Synthesizing Sound and Slides Incorporating Melodies in PPT</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-heart-of-video-editing-filmoras-favorites/"><u>[Updated] The Heart of Video Editing Filmora's Favorites</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiled-the-premier-places-to-obtain-snapchat-audio/"><u>[Updated] Unveiled The Premier Places to Obtain Snapchat Audio</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-dive-into-av1-a-simple-guide-for-neophytes/"><u>2024 Approved Dive Into AV1 A Simple Guide for Neophytes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-syncing-social-media-zoom-and-facebook-live-interactions/"><u>2024 Approved Syncing Social Media Zoom and Facebook Live Interactions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-7-steps-for-stellar-cooking-films/"><u>2024 Approved The Ultimate Guide 7 Steps for Stellar Cooking Films</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-premiere-pro-template-guide-no-cost/"><u>2024 Approved Ultimate Premiere Pro Template Guide - No Cost</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-ways-students-can-use-chatgpt-in-school/"><u>5 Ways Students Can Use ChatGPT in School</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-poco-c51-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Poco C51 Is Unlocked</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-dos-and-donts-of-interacting-with-youtube-viewers/"><u>In 2024, The Do's and Don'ts of Interacting with YouTube Viewers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-your-creativity-a-guide-to-crafting-custom-audio-on-android-phones-for-2024/"><u>Unleash Your Creativity A Guide to Crafting Custom Audio on Android Phones for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-potential-your-guide-to-effective-improvements-for-2024/"><u>Unlocking Potential Your Guide to Effective Improvements for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/zipped-scripts-into-speaking-texts-srt-file-conversion/"><u>Zipped Scripts Into Speaking Texts .Srt File Conversion</u></a></li>
 </ul></div>
 

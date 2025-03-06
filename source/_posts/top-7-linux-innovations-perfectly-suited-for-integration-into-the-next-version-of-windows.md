@@ -1,7 +1,7 @@
 ---
 title: Top 7 Linux Innovations Perfectly Suited for Integration Into the Next Version of Windows
-date: 2025-02-13T03:23:44.144Z
-updated: 2025-02-17T04:00:06.830Z
+date: 2025-03-02T22:55:54.606Z
+updated: 2025-03-06T00:56:10.055Z
 tags:
   - desktop
 categories:
@@ -33,19 +33,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The GNOME Software app showing tiles with green ticks on them](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/23.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Dave McKay / How-To Geek
 
  So the first thing Windows 12 should steal from Linux is a nonintrusive user experience. It'd be best if ads were completely removed, but opt-in ads would provide a better user experience than enabled by default, as it is now.
 
  On Windows 11, ads are enabled by default, but they can be disabled. Follow this [guide to know where all the options are](https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-x-flip-drfone-by-drfone-virtual-android/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Multiple Start Menu Variations
 
@@ -60,10 +52,6 @@ Close
  Whereas, on Ubuntu, you can install an extension called Arc Menu, which provides dozens of application menu variations with extensive customization options.
 
 ![Image of Arc Menu Extension and Menu Layout Variations on Ubuntu 22.04](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-image-of-arc-menu-extension-and-menu-layout-variations-on-ubuntu-22-04.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Widgets on the Desktop
 
@@ -84,14 +72,6 @@ Close
  So let’s make this perfect with Windows 12 with support for automatic window tiling or auto-tiling. Of course, it will be an optional feature that you can enable/disable. If enabled, every time you open a new window, it'll automatically arrange itself in a non-overlapping grid-like pattern. So, one app opens full screen, two apps split the screen 50/50, and more apps divide the screen proportionally (in a predefined manner) without overlap. Linux has had this feature for ages. Here’s how auto-tiling looks on Pop\_OS!
 
 ![Pop!_OS in-built Tiling Window functionality auto-tiling two windows side by side.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pop-_os-in-built-tiling-window-functionality.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Options to Customize the Taskbar
 
@@ -118,10 +98,6 @@ Close
  Additionally, the [Workspace Indicator](https://visual-screen-recording.techidaily.com/2024-approved-instantaneous-screen-logger-for-chrome/) extension adds a virtual desktop switcher to the panel, allowing you to switch and move apps between desktops directly from the panel without opening the Activities Overview.
 
 ![Ubuntu 22.04 Panel based Virtual Desktop switcher](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/10-ubuntu-22-04-panel-based-virtual-desktop-switcher.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  KDE Activities
 
@@ -152,22 +128,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-picsart-background-removal-tool-a-step-by-step-guide/"><u>[New] 2024 Approved Picsart Background Removal Tool A Step-By-Step Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-melody-to-video-quick-sound-import-tricks/"><u>[New] Melody to Video Quick Sound Import Tricks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-complete-inshot-editors-handbook-to-smoothness/"><u>[New] The Complete Inshot Editor's Handbook to Smoothness</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlock-the-secrets-to-lengthy-exposure-with-iphone/"><u>[New] Unlock the Secrets to Lengthy Exposure with iPhone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-blueprint-producing-purposeful-life-exploration-broadcasts/"><u>[Updated] 2024 Approved Blueprint Producing Purposeful Life Exploration Broadcasts</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-top-10-innovative-nano-drones-this-year/"><u>[Updated] 2024 Approved Top 10 Innovative Nano Drones This Year</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-fiscal-fortitude-the-story-of-mr-beast/"><u>[Updated] Fiscal Fortitude The Story of Mr. Beast</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-mirrorless-innovation-taking-over-dslr-in-videos/"><u>[Updated] Mirrorless Innovation Taking Over DSLR in Videos?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-anglers-companion-best-action-cams-for-fishing/"><u>[Updated] The Angler’s Companion Best Action Cams for Fishing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-rated-budget-friendly-asmr-gear-for-superior-sound-quality/"><u>[Updated] Top-Rated Budget-Friendly ASMR Gear for Superior Sound Quality</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-supercharge-videos-with-dynamic-titles/"><u>2024 Approved Supercharge Videos with Dynamic Titles</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-taking-stock-of-magix-project-management-app/"><u>2024 Approved Taking Stock of MAGIX Project Management App</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/an-in-depth-look-at-video-apps-for-iphone-and-android-users/"><u>An In-Depth Look at Video Apps for iPhone & Android Users</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-nokia-g310-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Nokia G310 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-trimming-the-bends-correcting-gopro-fish-eye-effect/"><u>In 2024, Trimming the Bends Correcting GoPro Fish Eye Effect</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-avi-files-into-gifs-with-filmora-on-windowsmacos-for-2024/"><u>Transform AVI Files Into GIFs with Filmora on Windows/MacOS for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transforming-twitter-video-links-to-audio-for-2024/"><u>Transforming Twitter Video Links to Audio for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-connect-and-conquer-tips-for-eternal-snapstreaks/"><u>[Updated] In 2024, Connect and Conquer Tips for Eternal Snapstreaks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-noise-free-videography-utilizing-free-tools-or-purchasing-for-2024/"><u>[Updated] Noise-Free Videography Utilizing Free Tools or Purchasing for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-beginners-guide-to-earning-on-reddit-top-13-simple-money-making-ideas/"><u>[Updated] The Beginner's Guide to Earning on Reddit Top 13 Simple Money-Making Ideas</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-realme-11-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-breaking-boundaries-top-6-artists-leading-nft-frontier/"><u>2024 Approved Breaking Boundaries Top 6 Artists Leading NFT Frontier</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-creative-utilization-of-b-footage-in-media/"><u>2024 Approved The Creative Utilization of B-Footage in Media</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-strategy-for-posting-srt-content-socially/"><u>2024 Approved The Ultimate Strategy for Posting SRT Content Socially</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/can-i-share-videos-on-facebook/"><u>Can I Share Videos on Facebook?</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-your-lenovo-laptops-video-camera-back-to-working-order-tips-and-tricks/"><u>Getting Your Lenovo Laptop's Video Camera Back to Working Order: Tips & Tricks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-text-temporal-tinkering-tools/"><u>In 2024, Text Temporal Tinkering Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-intricacies-of-crafting-a-virtual-experience/"><u>In 2024, The Intricacies of Crafting a Virtual Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-mp4-devices/"><u>In 2024, The Ultimate Guide to MP4 Devices</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-complete-guide-to-drone-racing-plus-high-speed-fpv-drones-for-2024/"><u>The Complete Guide to Drone Racing + High-Speed FPV Drones for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-insiders-guide-to-professional-video-production-in-gopro-studio/"><u>The Insider's Guide to Professional Video Production in GoPro Studio</u></a></li>
 </ul></div>
 

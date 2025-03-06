@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your iCloud Capacity: Effective Methods to Clear and Reclaim Storage"
-date: 2025-02-15T04:53:35.301Z
-updated: 2025-02-16T16:29:16.226Z
+date: 2025-03-03T16:19:11.016Z
+updated: 2025-03-05T20:52:51.112Z
 tags:
   - desktop
 categories:
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/6b26f43d7c441fdc486228c15693f43761df84b70
 
  Apple offers 5GB of free iCloud space to everyone, but you'll run up against that storage limit sooner than you'd think. If you have multiple devices, you'll run out even faster. That free 5GB is per Apple ID, not per device, so it's a good idea to free up wasted space before paying for more storage. Here's how to do it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Identify the Biggest Storage Hogs
 
  Before you start removing iCloud files, you can find out what's taking up the most space to determine what to delete. Open the Settings (iOS/iPadOS) or System Settings app (Mac), select your Apple ID at the top, and choose "iCloud."
@@ -46,10 +42,6 @@ Close
  If you're on a Mac, hover over sections like "Documents," "Photos and Videos," "Backups," "Messages," "Mail," and "Family" to reveal per-category storage usage.
 
 ![An iCloud storage graph closeup in System Settings on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sonoma-14-5-system-settings-icloud-storage-graph-backups-category-size-tooltip.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To manage iCloud storage access for the biggest storage hogs like iCloud Drive, Messages, Photos, Mail, or iCloud Backup and turn syncing on or off, select the feature under "Apps Using iCloud" in General > Storage in the Settings (iOS/iPadOS) or System Settings app (Mac)
 
@@ -82,10 +74,6 @@ Close
  With iCloud Backup disabled, be sure to [back up your iPhone manually via the Finder on macOS](https://extra-resources.techidaily.com/2024-approved-best-web-conversion-solutions-for-direct-hassle-free-gif-to-video/) or [with iTunes on Windows](https://instagram-video-recordings.techidaily.com/new-2024-approved-transform-your-igtv-backgrounds-with-style/) by plugging it into a computer. That way, multi-gigabyte device backups will take up storage space on your Mac or PC rather than your space-starved iCloud account.
 
 ![Syncing an iPhone in the Finder on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sonoma-14-5-finder-iphone-sync-in-progress.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Backing up to a computer will ensure you can quickly [restore your iPhone or iPad using a Mac](https://screen-mirroring-recording.techidaily.com/enhancing-presentations-the-captivate-way/) and get everything back to how it was should you ever lose it or need to reset it. If you're a power user, you may want to use a specialized app like [iMazing](https://imazing.com) to selectively back up and restore files from iPhones and iPads, create local backup snapshots, and transfer media.
 
@@ -123,10 +111,6 @@ Close
 
  Be careful when doing this, though, as you could delete essential documents and files you might want to keep.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Triage Your iCloud Mail Inbox
 
  If you're using Apple's iCloud Mail, your emails count toward your iCloud storage quota. You can free up space by deleting old iCloud emails, especially those with large file attachments.
@@ -159,10 +143,6 @@ Close
 
  You can also delete conversation threads with no attachments. But those are typically only a few kilobytes each, and you may want to keep them anyway.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Consider Upgrading Your iCloud Storage
 
  You can't free up iCloud space without deleting stuff, so if none of the above are options you're willing to consider, you'll need to buy more iCloud storage. In that case, you'll be able to share your purchased storage with up to five other people via the [Family Sharing feature](https://screen-mirroring-recording.techidaily.com/2024-approved-facetimes-role-in-modern-communication-best-practices-for-recording-calls/).
@@ -182,10 +162,6 @@ Close
  iCloud+ storage is also included in the [Apple One bundle,](https://some-guidance.techidaily.com/new-the-editors-edge-secrets-to-professional-photo-refining/) which combines multiple services at a discounted price. The $20/month tier includes 50GB, the $26/month one offers 200GB, and the flagship $38/month tier offers 2TB.
 
 ![The Apple One bundle plans and pricing.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-one-bundle-individual-family-premier-plans-pricing.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If that wasn't enough, you can subscribe to Apple One and also buy one of the five iCloud+ storage plans to get a whopping 14TB of cloud-based storage.
 
@@ -210,15 +186,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-transcoding-made-simple-from-xmlssattml-to-professional-srt/"><u>[New] Transcoding Made Simple From XML/SSA/TTML to Professional SRT</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-the-mystery-phantoms-temporal-expansion-capabilities/"><u>[New] Unlocking the Mystery Phantom’s Temporal Expansion Capabilities</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-thwarting-vr-discomfort-tips-for-a-smooth-experience/"><u>[Updated] Thwarting VR Discomfort Tips for a Smooth Experience</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-strategies-for-full-screen-edits-in-premiere/"><u>2024 Approved Expert Strategies for Full Screen Edits in Premiere</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-logo-journey-key-steps-in-crafting-iconic-covers/"><u>2024 Approved The Logo Journey Key Steps in Crafting Iconic Covers</u></a></li>
-<li><a href="https://fox-info.techidaily.com/cyberspace-screenplays-virtual-movie-journeys-for-2024/"><u>Cyberspace Screenplays Virtual Movie Journeys for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/decoding-the-technology-behind-dts-virtual-x-essential-information/"><u>Decoding the Technology Behind DTS Virtual: X – Essential Information</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-jriver-media-centre-non-microsoft-media-option/"><u>In 2024, JRiver Media Centre Non-Microsoft Media Option</u></a></li>
-<li><a href="https://fox-http.techidaily.com/streamlined-approaches-for-zoom-utility-on-chromebook-for-2024/"><u>Streamlined Approaches for Zoom Utility on Chromebook for 2024</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/1725289452927-winx-hd-video-converter-deluxe/"><u>WinX HD Video Converter Deluxe - 有料なし、機能限定もなし! 完全無料版ライセンスコード入手方法</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-experts-playbook-for-transforming-srt-into-diverse-formats/"><u>[New] The Expert's Playbook for Transforming SRT Into Diverse Formats</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlimited-chuckles-craftsmanship-no-monetary-requirement/"><u>[New] Unlimited Chuckles Craftsmanship No Monetary Requirement</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-big-should-a-good-thumbnail-be-youtubes-ultimate-guide/"><u>[Updated] 2024 Approved How Big Should a Good Thumbnail Be? YouTube's Ultimate Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-capturing-youtube-videos-subtitles-in-srt-format/"><u>[Updated] The Ultimate Guide to Capturing YouTube Videos' Subtitles in SRT Format</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-discord-broadcasting-the-essential-checklist-for-successful-streaming/"><u>2024 Approved Discord Broadcasting The Essential Checklist for Successful Streaming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-getting-acquainted-with-quantum-hdr-techniques/"><u>2024 Approved Getting Acquainted with Quantum HDR Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-secrets-to-smm-mastery-a-comprehensive-guide-in-10-stages/"><u>2024 Approved Unveiling the Secrets to SMM Mastery A Comprehensive Guide in 10 Stages</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/best-5-ways-to-enhance-your-videos-with-60fps-conversion-techniques/"><u>Best 5 Ways to Enhance Your Videos with 60Fps Conversion Techniques</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-magnetic-content-with-personalized-animated-gifs/"><u>Crafting Magnetic Content with Personalized Animated GIFs</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-dynamic-imagery-made-simple-with-our-top-10-image-switchers/"><u>In 2024, Dynamic Imagery Made Simple with Our Top 10 Image Switchers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-infinix-hot-30-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Infinix Hot 30 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-5-innovative-vr-drones-collaborations/"><u>In 2024, Top 5 Innovative VR Drones Collaborations</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-any-problem-with-your-iphone-discover-these-15-crucial-hacks/"><u>Resolving Any Problem with Your iPhone? Discover These 15 Crucial Hacks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-effortless-battery-driver-updates-for-windows-users/"><u>Step-by-Step Tutorial: Effortless Battery Driver Updates for Windows Users</u></a></li>
 </ul></div>
 

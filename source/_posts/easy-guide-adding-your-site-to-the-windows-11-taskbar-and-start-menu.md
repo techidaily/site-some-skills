@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Adding Your Site to the Windows 11 Taskbar and Start Menu"
-date: 2025-02-12T16:18:21.929Z
-updated: 2025-02-16T18:40:42.907Z
+date: 2025-02-28T16:40:49.438Z
+updated: 2025-03-05T22:42:15.293Z
 tags:
   - desktop
 categories:
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 
 ![Click the three-dot menu icon, click 'Save and Share,' then select 'Create Shortcut.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-three-dot-menu-click-save-and-share-click-create-shortcut.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the pop-up menu, change the name of the shortcut if desired, and click "Create." This will automatically create an icon on your Windows desktop and pin the link to your taskbar. 
 
  By default, Chrome will open the web page as a tab in a normal Chrome browser window. You can check the "Open as Window" option to have Chrome open the page in its own window with its own taskbar icon when you click the shortcut.
@@ -51,23 +47,11 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 
 ![Right-click the icon and select 'Pin to Start.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-pin-to-start.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Pin a Website from Firefox
 
  Create a shortcut to Firefox on your desktop. You can do this by typing "Firefox" into your Start menu, right-clicking on the icon, and clicking "Open File Location."
 
 ![Open Firefox File Location](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/ff1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In the new File Explorer window, right-click Firefox and click "Create Shortcut." A prompt will appear, saying, "Windows can't create a shortcut here. Do you want the shortcut to be placed on the desktop instead?" Click "Yes."
 
@@ -84,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
  From your desktop, right-click on the shortcut, and click either "Pin to Start" or "Pin to Taskbar." You can now delete the shortcut on your desktop.
 
 ![Right-click the Firefox icon and select 'Pin to Start' or 'Pin to Taskbar.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-pin-to-start-pin-to-taskbar.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Pin a Microsoft Edge Website
 
@@ -114,18 +94,16 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-editsuite-evaluation-detailed-article/"><u>[New] EditSuite Evaluation – Detailed Article</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-audiovisual-alchemy-formulating-your-youtube-playlist-for-2024/"><u>[Updated] Audiovisual Alchemy Formulating Your YouTube Playlist for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-razers-hd-webcam-thorough-review-guide/"><u>[Updated] In 2024, Razer's HD Webcam Thorough Review Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-thanks-for-curating-premium-and-free-outro-themes/"><u>[Updated] Thanks for Curating Premium & Free Outro Themes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-teachers-handbook-bridging-traditional-and-digital-media/"><u>2024 Approved Teacher's Handbook Bridging Traditional & Digital Media</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-pathway-to-seamless-system-enhancement-in-macos-11-big-sur/"><u>2024 Approved The Pathway to Seamless System Enhancement in macOS 11 Big Sur</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-full-potential-mac-plus-obs-plus-streamlabs/"><u>2024 Approved Unlock Full Potential Mac + OBS + Streamlabs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-for-taming-your-systems-roaring-fan-an-easy-fix/"><u>Guide for Taming Your System's Roaring Fan – An Easy Fix</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oppo-find-n3-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Oppo Find N3 Device</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/iphone-15-pro-max-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>iPhone 15 Pro Max Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/prompt-audio-device-driver-updates-logitech-style/"><u>Prompt Audio Device Driver Updates, Logitech Style</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/transforming-your-view-with-the-hp-envy-27-monitor-for-2024/"><u>Transforming Your View with the HP Envy 27 Monitor for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/windows-10-new-features-at-a-glance-for-2024/"><u>Windows 10 New Features at a Glance for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-enhancing-team-collaboration-with-regular-video-chats-for-2024/"><u>[New] Enhancing Team Collaboration with Regular Video Chats for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-starters-journey-mastering-video-quality-and-resolution/"><u>[Updated] In 2024, Starter's Journey Mastering Video Quality and Resolution</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-syncing-scenes-merging-pc-and-cloud-images/"><u>[Updated] Syncing Scenes Merging PC & Cloud Images</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-pathway-to-free-final-cut-pro/"><u>2024 Approved The Pathway to Free Final Cut Pro</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/best-10-tikfilters-for-viral-video-success/"><u>Best 10 TikFilters for Viral Video Success</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/easier-streaming-on-updated-windows-10/"><u>Easier Streaming on Updated Windows 10</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-bridging-the-gap-youtube-editing-mastered-in-imovie-workflows/"><u>In 2024, Bridging the Gap YouTube Editing Mastered in iMovie Workflows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-verdict-on-video-clips-a-deep-dive-into-inshots-performance/"><u>In 2024, The Verdict on Video Clips A Deep Dive Into InShot's Performance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-potential-with-best-free-text-psdfree/"><u>In 2024, Unlock Potential with Best Free Text PSDFree</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-list-premium-voice-modifiers-for-virtual-creators-for-2024/"><u>Ultimate List Premium Voice Modifiers for Virtual Creators for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-se-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone SE Without Passcode Easily</u></a></li>
 </ul></div>
 

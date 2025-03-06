@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Evaluating Secondhand Windows PCs – 8 Key Points
-date: 2025-02-16T02:56:57.443Z
-updated: 2025-02-17T05:35:08.816Z
+date: 2025-02-27T17:28:38.979Z
+updated: 2025-03-05T21:57:12.181Z
 tags:
   - desktop
 categories:
@@ -34,10 +34,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  This will help you confirm whether the trackpad on your new laptop is equally or more responsive than the other one.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Test the Speakers and Built-In Microphone
 
  Next, you should test the built-in microphone and speaker. While you can simply play and record something to check if the audio input and output devices are working fine, Windows also offers a way to test them in Settings. On Windows 11, right-click on the Start button and select "Settings." Then, navigate to System > Sound.
@@ -46,27 +42,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Testing the laptop speaker in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/1-testing-the-laptop-speaker-in-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To [test the built-in microphone](https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-y200e-5g-drfone-by-drfone-virtual-android/), return to the sound settings, click on "Microphone Array," and then click on the "Start Test" button next to Test Your Microphone. Speak for a few seconds, then stop the test. If you see a decent volume percentage recorded, the microphone is working as it should.
 
 ![Testing the laptop microphone in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-testing-the-laptop-microphone-in-settings.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Test the Built-In Camera
 
  If you intend to use the laptop for video communication, test its built-in camera. To do this, type **Camera** in the Windows Search bar and open the Camera app.
 
  If the camera app detects the webcam and the visuals are clear and of satisfactory quality, as the seller claimed, then the camera is working correctly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Check the Health of Your Laptop Battery
 
@@ -100,10 +84,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Start by connecting your laptop to Wi-Fi. Then, [test its Ethernet port](https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/) by plugging it directly into the router. If the internet connection works well, test the audio jacks with headphones. Similarly, check the USB ports by connecting a wired device. Finally, make sure Bluetooth is working by pairing a Bluetooth-powered device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Check the Health of RAM and Storage Drive
 
  Finally, [check the health of the RAM](https://hardware-help.techidaily.com/step-by-step-installation-amd-gpio-pin-driver-for-hexagon-devices/) and storage drive to ensure they're not faulty. To test the RAM, you can use the Windows Memory Diagnostic tool, which detects and displays potential issues with it. To run the test, open Command Prompt as an administrator, type **mdsched.exe**, and press Enter. Then, click "Restart Now and Check for Problems."
@@ -133,22 +113,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-phone-filters-and-camera-cases/"><u>[New] Ultimate Phone Filters & Camera Cases</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-workflow-for-embedding-subtitle-track-in-mp4s/"><u>[New] Ultimate Workflow for Embedding Subtitle Track in MP4s</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-easy-tweaks-changing-fishy-vocal-patterns-on-windows/"><u>[Updated] In 2024, Easy Tweaks Changing Fishy Vocal Patterns on Windows</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-windows-11-audio-capture/"><u>[Updated] The Ultimate Guide to Windows 11 Audio Capture</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlock-creative-expressions-building-stories-from-photos-in-pixiz/"><u>[Updated] Unlock Creative Expressions Building Stories From Photos in Pixiz</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-creativity-a-deep-dive-into-metaverse-meme-culture/"><u>2024 Approved Unleash Creativity A Deep Dive Into Metaverse Meme Culture</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/exclusive-offer-save-30-on-winx-dvd-ripper-pro-premium-version-mac-download-2023-promo-codes/"><u>Exclusive Offer: Save 30% on WinX DVD Ripper Pro Premium Version Mac Download - 2023 Promo Codes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-opportunities-joining-openais-bug-bounty-initiative-a-comprehensive-guide/"><u>Exploring the Opportunities: Joining OpenAI's Bug Bounty Initiative - A Comprehensive Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-nubia-z50-ultra-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Nubia Z50 Ultra Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-vivo-t2-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Vivo T2 5G Phone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-iphone-7-plus-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From iPhone 7 Plus in the Best Ways</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-pathway-to-personalized-ios-ringtones/"><u>In 2024, The Complete Pathway to Personalized iOS Ringtones</u></a></li>
-<li><a href="https://facebook.techidaily.com/metas-pursuit-aiming-for-a-social-media-revolution-in-europe/"><u>Meta's Pursuit: Aiming for a Social Media Revolution in Europe</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-using-zoom-features-in-gmail-emails-for-2024/"><u>The Ultimate Guide to Using Zoom Features in Gmail Emails for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-overview-dji-inspire-1-reviewed-for-2024/"><u>The Ultimate Overview DJI Inspire 1 Reviewed for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-langchain-and-large-language-models/"><u>Understanding LangChain and Large Language Models</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-hulu-content-for-seamless-streaming-on-lg-smart-tvs/"><u>Unlocking Hulu Content for Seamless Streaming on LG Smart TVs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-audio-amplification-for-online-photo-archiving/"><u>[New] Audio Amplification for Online Photo Archiving</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-professional-gopro-filming/"><u>[New] The Art of Professional GoPro Filming</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-one-step-guide-for-sharing-tiktok-videos-on-facebook/"><u>[Updated] One-Step Guide for Sharing TikTok Videos on Facebook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-quest-for-perfect-balance-top-gimbals-in-dronescapes/"><u>[Updated] The Quest for Perfect Balance Top Gimbals in Dronescapes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-converting-speech-to-text-with-google-docs/"><u>[Updated] The Ultimate Guide to Converting Speech to Text with Google Docs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-twists-that-tell-stories-crafting-captivating-visual-narratives-on-instagram-platforms/"><u>[Updated] Twists That Tell Stories Crafting Captivating Visual Narratives on Instagram Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-next-level-of-immersion-top-10-vr-gear/"><u>2024 Approved The Next Level of Immersion (Top 10 VR Gear)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-speed-solutions-for-sluggish-android-videos/"><u>2024 Approved Top Speed Solutions for Sluggish Android Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-tips-for-embedding-and-posting-correct-subtitles-on-twitter-instagram/"><u>2024 Approved Top Tips for Embedding and Posting Correct Subtitles on Twitter, Instagram</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-lava-yuva-3-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Lava Yuva 3 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-techniques-for-fixing-unreachable-remote-servers/"><u>Effective Techniques for Fixing Unreachable Remote Servers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-windows-update-error-0x8024800c/"><u>How to Fix Windows Update Error 0X8024800C</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-tecno-pova-6-pro-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Tecno Pova 6 Pro 5G to PC? | Dr.fone</u></a></li>
 </ul></div>
 

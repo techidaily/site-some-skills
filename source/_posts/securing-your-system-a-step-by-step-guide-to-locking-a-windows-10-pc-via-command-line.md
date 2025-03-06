@@ -1,7 +1,7 @@
 ---
 title: "Securing Your System: A Step-by-Step Guide to Locking a Windows 10 PC via Command Line"
-date: 2025-02-13T21:20:14.632Z
-updated: 2025-02-17T00:47:18.487Z
+date: 2025-03-02T22:30:59.106Z
+updated: 2025-03-06T02:47:21.006Z
 tags:
   - deals
 categories:
@@ -11,18 +11,10 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
 
 ## Securing Your System: A Step-by-Step Guide to Locking a Windows 10 PC via Command Line
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Lock Your Windows 10 PC Using Command Prompt](https://vp-tips.techidaily.com/new-audiovisual-adaptability-in-free-fire-for-2024/)
 * [Set the Lock Screen Timeout Setting Using Command Prompt](https://eaxpv-info.techidaily.com/new-finding-a-different-way-to-naming-your-channel-with-filmora-for-2024/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -32,19 +24,11 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
 
  One of the first rules of cyber security is to always lock your PC before stepping away. While it may not be the quickest way to lock your Windows 10 PC, you can do it using the Command Prompt.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Lock Your Windows 10 PC Using Command Prompt
 
  First, [open the Command Prompt](https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a78-frp-by-drfone-android/) on your PC by opening the Start menu, typing “cmd” in the Windows Search bar, and then selecting “Command Prompt” from the search results.
 
 ![Click the Start button, search for 'cmd,' then open 'Command Prompt.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-cmd.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Command Prompt will now open. Here, run this command to lock your Windows 10 PC.
 
@@ -53,10 +37,6 @@ Rundll32.exe user32.dll,LockWorkStation
 ![Locking your PC with Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-lock-pc-command-prompt.png) 
 
  Once executed, your PC will be locked. You'll have to sign back in with your PIN, password, or whatever sign-in method you usually use.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Set the Lock Screen Timeout Setting Using Command Prompt
 
@@ -101,22 +81,20 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-pro-tips-to-amplify-your-canva-designs/"><u>[New] In 2024, Pro Tips to Amplify Your Canva Designs</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-unlocking-user-preferences-with-instagrams-real-time-feedback/"><u>[Updated] 2024 Approved Unlocking User Preferences with Instagram's Real-Time Feedback</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-profit-strategies-for-beauty-streams/"><u>[Updated] In 2024, Profit Strategies for Beauty Streams</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-freedomframe-studios-the-future-of-free-game-snapshots/"><u>2024 Approved FreedomFrame Studios The Future of Free Game Snapshots</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-strategies-for-streaming-fb-live-on-zoom-platform/"><u>2024 Approved Strategies for Streaming FB Live on Zoom Platform</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-realme-c67-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-the-phenomenon-of-online-memes/"><u>Decoding the Phenomenon of Online Memes</u></a></li>
-<li><a href="https://win-dash.techidaily.com/free-download-ultimate-intel-usb-30-driver-package-for-windows-10-systems/"><u>Free Download: Ultimate Intel USB 3.0 Driver Package for Windows 10 Systems</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-vivo-t2-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Vivo T2 5G Devices</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Xiaomi Redmi 12? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-fresh-film-enthusiasts-primer-on-visual-quality/"><u>In 2024, The Fresh Film Enthusiast’s Primer on Visual Quality</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-roadmap-to-instagram-star-status-9-must-do-tactics/"><u>In 2024, The Roadmap to Instagram Star Status 9 Must-Do Tactics</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-full-potential-of-canvas-image-tools/"><u>In 2024, Unlocking the Full Potential of Canva's Image Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/strategies-and-techniques-in-documentary-scriptwriting-for-2024/"><u>Strategies and Techniques in Documentary Scriptwriting for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-compre-writters-manual-for-great-documentary-storytelling-for-2024/"><u>The Compre Writter's Manual for Great Documentary Storytelling for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-kinemaster-way-to-enthralling-transitions-for-2024/"><u>The Kinemaster Way to Enthralling Transitions for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-youtubes-hidden-gems-the-comment-space-for-2024/"><u>Unveiling YouTube's Hidden Gems The Comment Space for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tips-for-reducing-vr-induced-symptoms/"><u>[New] Tips for Reducing VR-Induced Symptoms</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitters-video-standards-focus-on-aspect-ratios/"><u>[New] Twitter's Video Standards Focus on Aspect Ratios</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-plugins-list-after-effects-edition/"><u>[New] Ultimate Plugins List After Effects Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-windows-11-a-compreayer-to-master-video-editing-techniques/"><u>[New] Unveiling Windows 11 A Compreayer to Master Video Editing Techniques</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-expertly-edit-your-imagery-with-top-androidios-montage-apps/"><u>2024 Approved Expertly Edit Your Imagery with Top Android/iOS Montage Apps</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-infusing-vitality-into-text-an-animated-adventure/"><u>2024 Approved Infusing Vitality Into Text An Animated Adventure</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-sound-guide-for-your-android-devices-customization/"><u>2024 Approved The Ultimate Sound Guide for Your Android Device's Customization</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/from-novice-to-scholar-top-language-examination-guides/"><u>From Novice to Scholar: Top Language Examination Guides</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/get-the-most-from-your-fitness-journey-with-effective-chatgpt-interaction-techniques-for-exercise-enthusiasts/"><u>Get the Most From Your Fitness Journey with Effective ChatGPT Interaction Techniques for Exercise Enthusiasts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-alienware-command-center-not-responding-error-messages/"><u>How to Resolve 'Alienware Command Center Not Responding' Error Messages</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-public-domain-paintings-insights-and-links/"><u>In 2024, Unveiling Public Domain Paintings Insights & Links</u></a></li>
+<li><a href="https://facebook.techidaily.com/insta-interruption-the-strategy-behind-urging-a-social-media-vacation/"><u>Insta-Interruption: The Strategy Behind Urging a Social Media Vacation</u></a></li>
+<li><a href="https://win-guides.techidaily.com/step-by-step-tutorial-on-saving-instagram-tv-shows-for-later-enjoyment-without-internet-access/"><u>Step-by-Step Tutorial on Saving Instagram TV Shows for Later Enjoyment Without Internet Access</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-authoritative-handbook-on-selecting-impactful-podcast-monikers-plus-examples-for-2024/"><u>The Authoritative Handbook on Selecting Impactful Podcast Monikers, Plus Examples for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
 </ul></div>
 

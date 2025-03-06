@@ -1,7 +1,7 @@
 ---
 title: "Unlock Secrets of WhatsApp: Essential Eight Underutilized Features Revealed!"
-date: 2025-02-13T01:50:35.821Z
-updated: 2025-02-17T06:49:53.122Z
+date: 2025-02-28T00:18:44.620Z
+updated: 2025-03-05T23:47:30.059Z
 tags:
   - web
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 ---
 
 ## Unlock Secrets of WhatsApp: Essential Eight Underutilized Features Revealed!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -27,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 * [Share Your Live Location with Others](https://ai-video-apps.techidaily.com/updated-experience-seamless-video-editing-on-windows-8-and-beyond-for-2024/)
 
  From setting a custom notification sound for contacts or group chats to hiding your status updates from specific contacts, WhatsApp offers many hidden features that many users don't fully utilize. Some features can enhance your privacy, while others can improve your chat experience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1  Pin or Star Messages to Easily Access Them 
 
@@ -51,14 +43,6 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
  To configure this, go to Settings > Privacy > Status. To block certain contacts from seeing your status, tap "My Contacts Except" and select the contacts you want to exclude. If you want to share your status with only specific contacts, tap "Only Share With" and select your desired contacts.
 
 ![Excluding some contacts from seeing my status on WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-excluding-some-contacts-from-seeing-my-status-on-whatsapp.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3  Prevent Others From Seeing You’ve Read Their Messages 
 
@@ -82,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 
 ![Selecting a custom call or text notification tone for a specific contact in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-selecting-a-new-tone-for-specific-contacts-in-whatsapp.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5  Send a Message to Multiple Contacts at Once 
 
  We all have times when we need to [send the same message to multiple contacts](https://some-knowledge.techidaily.com/in-2024-image-malleability-the-art-of-photographic-warping/), whether it’s an event invitation, a holiday greeting, or a life update. Instead of sending the same message individually, you can use WhatsApp's Broadcast Lists feature. This feature lets you create a list of contacts and send a message to all of them at once.
@@ -107,14 +87,6 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
  Once your avatar is ready, you'll see two options: "Browse Stickers," where you can see and [use custom stickers](https://youtube-clips.techidaily.com/shaping-viewers-attention-employing-jump-cuts-in-video-editing/), and "Create Profile Photo," where you can select an avatar image for your profile picture.
 
 ![Checking the custom avatar stickers and profile photo in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/6-checking-the-custom-avatar-stickers-and-profile-photo-in-whatsapp.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7  Set Custom Wallpapers for Individual Contacts 
 
@@ -140,10 +112,6 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 
 ![Selecting the duration of live location sharing in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/11-selecting-the-duration-or-live-location-sharing-in-whatsapp.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To stop sharing your location with a particular contact, tap "Stop Sharing."
 
 ![Stopping the location sharing in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/10-stopping-the-location-sharing-in-whatsapp.jpg) 
@@ -167,24 +135,18 @@ thumbnail: https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-maximizing-impact-the-20-key-principles-of-fb-video-marketing/"><u>[New] 2024 Approved Maximizing Impact The 20 Key Principles of FB Video Marketing</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-boost-your-visual-language-with-premium-affects-extensions/"><u>[New] Boost Your Visual Language with Premium Affects Extensions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-techniques-to-boost-pc-audio-recording-efficiency/"><u>[Updated] Techniques to Boost PC Audio Recording Efficiency</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-the-ultimate-guide-to-iphone-ringtone-alterations/"><u>[Updated] The Ultimate Guide to iPhone Ringtone Alterations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tricks-for-capturing-video-tweets-and-converting-to-audible-format/"><u>[Updated] Tricks for Capturing Video Tweets and Converting to Audible Format</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expertly-selected-best-5-free-online-convertors/"><u>2024 Approved Expertly Selected Best 5 Free Online Convertors</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-swift-sonic-speed-changer-tools-index/"><u>2024 Approved Swift Sonic Speed Changer Tools Index</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-elite-after-effects-plugins-compendium/"><u>2024 Approved Unveiling the Elite After Effects Plugins Compendium</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-7-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 7 to an Older iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-xiaomi-redmi-a2-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Xiaomi Redmi A2 Pictures An Easy Method Explained.</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/identifying-your-individual-song-collection-on-youtube-for-2024/"><u>Identifying Your Individual Song Collection on YouTube for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-thriving-in-stardew-insiders-guide-to-ginger-island/"><u>In 2024, Thriving in Stardew Insider's Guide to Ginger Island</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-two-titans-clash-in-the-vr-arena/"><u>In 2024, Two Titans Clash in the VR Arena</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-secrets-of-pubg-sound-personalization/"><u>In 2024, Unlocking the Secrets of PUBG Sound Personalization</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-nokia-c110-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Nokia C110? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/strategies-to-navigate-and-thrive-with-product-sponsors-on-youtube-for-2024/"><u>Strategies to Navigate and Thrive with Product Sponsors on YouTube for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/understanding-imovies-editing-edge-for-2024/"><u>Understanding iMovie's Editing Edge for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-magic-of-pause-time-creating-spectacularly-long-lasting-movies-with-photos-and-web-services-for-2024/"><u>Unveiling the Magic of Pause Time Creating Spectacularly Long Lasting Movies with Photos & Web Services for 2024</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/what-is-ai-voice-in-2024/"><u>What Is AI Voice, In 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-dell-p2715q-review-a-glimpse-into-ultra-hd-technology/"><u>[New] 2024 Approved Dell P2715Q Review A Glimpse Into Ultra HD Technology</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-delicate-visual-initiation/"><u>[Updated] 2024 Approved Delicate Visual Initiation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tips-to-improve-zooms-facebook-live-functionality/"><u>[Updated] Tips to Improve Zoom's Facebook Live Functionality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-setup-guide-for-effective-after-effects-texting/"><u>2024 Approved The Ultimate Setup Guide for Effective After Effects Texting</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-infinix-note-30i-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Infinix Note 30i? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/descargue-el-codec-hevc-h265-sin-coste-para-la-mejor-experiencia-de-video-en-4k8k/"><u>Descargue El CÓDEC HEVC (H.265) Sin Coste Para La Mejor Experiencia De Vídeo en 4K/8K</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exclusive-insider-written-by-an-experienced-video-editor/"><u>Exclusive Insider' Written by an Experienced Video Editor</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-tecno-pova-5-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Tecno Pova 5 Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Itel S23+? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-vivo-s17t-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Vivo S17t Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unmissable-vr-storytelling-masterpieces/"><u>In 2024, Unmissable VR Storytelling Masterpieces</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-clear-choice-between-projectors-and-televisions-for-4k-quality-for-2024/"><u>The Clear Choice Between Projectors and Televisions for 4K Quality for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-essentialists-approach-saving-your-screen-on-an-hp-notebook/"><u>The Essentialist's Approach Saving Your Screen on an HP Notebook</u></a></li>
 </ul></div>
 

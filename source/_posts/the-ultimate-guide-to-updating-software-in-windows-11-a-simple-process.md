@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Updating Software in Windows 11: A Simple Process"
-date: 2025-02-11T00:28:42.491Z
-updated: 2025-02-17T06:38:28.314Z
+date: 2025-03-03T17:44:03.602Z
+updated: 2025-03-05T19:49:58.285Z
 tags:
   - desktop
 categories:
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 
  Keeping your installed apps up to date is important, and Windows 11 makes it super easy to update both Microsoft Store and non-Microsoft Store apps. We’ll show you how to use graphical methods, as well as a command-line method to bring your apps up to date.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Update Microsoft Store Apps
 
  If your app or apps were downloaded from Microsoft Store, you can update them individually or all at once using the Store app.
@@ -36,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
  To do that, open the Start Menu, search for **Microsoft Store**, and launch it.
 
 ![Microsoft Store highlighted in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-open-microsoft-store.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In the Store’s left sidebar, select "Library."
 
@@ -63,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 
 !['App Updates' highlighted in Microsoft Store Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-microsoft-store-disable-app-updates.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the future, to prevent the Store from automatically updating apps, turn off the "App Updates" option. We recommend keeping the option turned on, but if you’re on a metered connection, you might not want the Store to use so much of your internet data.
 
 ##  How to Update Non-Microsoft Store Apps
@@ -83,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
 
 !['Download' options highlighted on the 7-Zip website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-update-7-zip.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Update Apps Using Command Prompt
 
  If you prefer command line methods over graphical ones, [use the winget (Windows Package Manager) command](https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-iphone-xs-by-drfone-ios/) in Command Prompt to update your apps. This command lets you update apps individually or all of them at once. 
@@ -94,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/c08cfb9fc52b90a12972e5ec144ec0c7f63bc215d
  To use it, open the Start Menu, search for **Command Prompt**, and select "Run as Administrator."
 
 !['Run as Administrator' highlighted for Command Prompt in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-run-cmd-as-admin.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In the "User Account Control" (UAC) prompt, select "Yes."
 
@@ -114,10 +94,6 @@ winget upgrade
 winget upgrade “AppName”
 
 !['winget upgrade 'Zoom' typed in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/11-update-specific-app-winget.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The command will begin updating the specified app. You’ll see the live progress on the CMD window. It’ll let you know when the app is updated.
 
@@ -146,17 +122,18 @@ winget upgrade -h -all
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-secure-smooth-videos-selecting-premium-tripods-for-youtubers-for-2024/"><u>[New] Secure Smooth Videos Selecting Premium Tripods for YouTubers for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-navigating-the-landscape-of-facebook-ad-effectiveness/"><u>[Updated] In 2024, Navigating the Landscape of Facebook Ad Effectiveness</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-learn-the-ins-and-outs-of-twitch-live-stream-archiving-for-2024/"><u>[Updated] Learn the Ins and Outs of Twitch Live Stream Archiving for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-elegant-sound-reduction-on-lumafusion/"><u>[Updated] The Ultimate Guide to Elegant Sound Reduction on Lumafusion</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-roadmap-to-crafting-memorable-tiktok-videos/"><u>[Updated] The Ultimate Roadmap to Crafting Memorable TikTok Videos</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-ultimate-tutorial-for-sharing-photos-from-phone-memory-for-2024/"><u>[Updated] The Ultimate Tutorial for Sharing Photos From Phone Memory for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlock-your-movies-gratis-player-for-windowsmacos/"><u>[Updated] Unlock Your Movies Gratis Player for Windows/MacOS</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-frequent-monetization-is-it-real-on-youtube/"><u>2024 Approved Frequent Monetization Is It Real on YouTube?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-definitive-guide-to-appending-srt-track-in-videos/"><u>2024 Approved The Definitive Guide to Appending SRT Track in Videos</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-translate-video-from-english-to-arabic-with-ease/"><u>In 2024, Translate Video From English to Arabic with Ease</u></a></li>
-<li><a href="https://some-skills.techidaily.com/through-the-lens-sage-advice-for-improving-your-edits-for-2024/"><u>Through the Lens Sage Advice for Improving Your Edits for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/ultimate-tips-on-how-to-get-your-favorite-iphone-m4r-ringtones-for-free/"><u>Ultimate Tips on How to Get Your Favorite iPhone M4R Ringtones for Free!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-strategies-for-replaying-group-conversations/"><u>[New] 2024 Approved Strategies for Replaying Group Conversations</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-initial-steps-to-master-the-art-of-pixel-mapping/"><u>[New] Initial Steps to Master the Art of Pixel Mapping</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-kinemaster-guide-to-green-screening/"><u>[New] The Ultimate KineMaster Guide to Green Screening</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-black-battery-compatibility-with-gopro-hero5/"><u>[New] Ultimate Black Battery Compatibility with GoPro Hero5</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-best-ps5-and-xbox-gaming-monitors/"><u>[New] Unveiling the Best PS5 & Xbox Gaming Monitors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-strategies-and-techniques-in-documentary-scriptwriting/"><u>2024 Approved Strategies and Techniques in Documentary Scriptwriting</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-oppo-a58-4g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Oppo A58 4G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-vivo-v30-lite-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Vivo V30 Lite 5G?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-simplify-curating-create-a-flawless-youtube-playlist-today/"><u>In 2024, Simplify Curating Create a Flawless YouTube Playlist Today</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-sony-xperia-5-vs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Sony Xperia 5 Vs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-superior-communication-optimal-use-of-zoom-in-skype-sessions/"><u>In 2024, Unlocking Superior Communication Optimal Use of ZOOM in Skype Sessions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-mac-interface-with-speech-recognition-software-review-for-2024/"><u>Transform Your Mac Interface with Speech Recognition Software Review for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-motorola-edge-40-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Motorola Edge 40? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

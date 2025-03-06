@@ -1,7 +1,7 @@
 ---
 title: Rekindling Interest in CDs and DVDs Through Innovative Disc Advancements
-date: 2025-02-11T18:43:23.312Z
-updated: 2025-02-17T04:29:14.866Z
+date: 2025-02-26T17:09:44.963Z
+updated: 2025-03-05T18:23:57.661Z
 tags:
   - cutting-edge
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Rekindling Interest in CDs and DVDs Through Innovative Disc Advancements
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Optical storage, once the future, is in decline due to slow speeds and solid-state storage rise.
@@ -23,19 +19,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  In the 90s, every sci-fi movie that featured data storage invariably had some far-future version of a CD in it. It may have been in a caddy, or have a weird holographic sheen, but everyone thought optical discs were the future. Today, that doesn't seem likely, but continuing research into optical storage might prove those movies right after all.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  What Is "Optical" Storage?
 
  It pains me to write this, but there are probably some of you reading this who only have vague contact with optical media. While you can still readily get Blu-ray, DVD, and CD media, many people have grown up in a digital download and streaming age, with little need to ever touch a disc. Which means, there's a good chance you don't actually know how it works. Everyone else can just skip to the next section, but here goes:
 
  Optical media use light to store and read data. An optical disc has microscopic pits and lands that either reflect or diffuse light. When you shine a laser beam at these discs and measure the light that comes back, you get a series of ones and zeros. All you need to store digital data. While optical discs are "pressed" in a factory, home-made discs use a laser to create these pits and lands by altering the chemistry in a special dye layer within the disc.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Why Is Optical Storage in Decline?
 
@@ -44,10 +32,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  While the largest current Blu-ray disc clocks in at around 100GB of storage space, even that's becoming a little tight, and with high-speed internet becoming more common and affordable, it's sometimes faster to download something from the internet than to copy if from a Blu-ray!
 
  Modern PCs and Macs don't come with optical drives anymore, and it seems that gaming consoles are moving in this direction as well, with disc drives becoming optional, and major stores [phasing out physical media](https://gamerant.com/big-retailer-stop-selling-physical-games/). As a [physical media collector](https://windows11.techidaily.com/how-to-customize-sound-levels-with-dedicated-win11-keys/) it almost hurts to write this, but it does look like the writing is on the wall for optical media. However, the technology is far from a dead end, and a breakthrough in optical storage might bring back the optical disc yet!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Say Hello to the Petabit Disc!
 
@@ -60,10 +44,6 @@ Miao Zhao, Jing Wen, Qiao Hu, Xunbin Wei, Yu-Wu Zhong, Hao Ruan & Min Gu
  You can read the [published paper](https://www.nature.com/articles/s41586-023-06980-y) in _Nature,_ but the gist of it is that the team managed to create a disc with a 3D structure and hundreds of layers. Consider that the best Blu-ray disc has but four layers, and you'll understand that this is a monumental improvement.
 
  These discs have been designed for use in data centers and requires expensive and complex femtosecond lasers. Multiple lasers are needed to activate and deactivate the recording layers, so it's hardly a disc drive that will fit in your laptop bag, but it does show how much potential there still is in optical storage. In data centers, these discs promise safe, long-term storage of data that doesn't need to be accessed constantly, but should be in an accessible archive. The paper suggests these nanoscale discs can be stacked to create "exabit-level storage" which could be a huge deal given [how fragile the internet can be](https://some-techniques.techidaily.com/new-high-quality-hd-videos-at-a-tap-top-10-android-choices/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What Does This Mean for Us?
 
@@ -88,19 +68,20 @@ Miao Zhao, Jing Wen, Qiao Hu, Xunbin Wei, Yu-Wu Zhong, Hao Ruan & Min Gu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-detailed-walkthrough-to-flawless-youtube-videos-using-imovie-software/"><u>[New] In 2024, Detailed Walkthrough to Flawless YouTube Videos Using iMovie Software</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-covert-guide-to-livestreaming-on-instagram-unseen/"><u>[New] The Covert Guide to Livestreaming on Instagram Unseen</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-realigning-your-personal-soundtracks-from-spotify-to-youtube-music/"><u>[Updated] Realigning Your Personal Soundtracks From Spotify to YouTube Music</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-mac-os-sierra-video-editing-apps/"><u>2024 Approved Top 5 Mac OS Sierra Video Editing Apps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-7-best-mac-video-viewing-tools/"><u>2024 Approved Top 7 Best Mac Video Viewing Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/bypassing-mobile-mastering-snapchat-on-desktop-with-easy-to-follow-steps/"><u>Bypassing Mobile: Mastering Snapchat on Desktop with Easy-to-Follow Steps</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-s23-ultra-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy S23 Ultra to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-on-your-iphone-8-plus-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID On your iPhone 8 Plus?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-photo-editing-mastery-with-polarr-a-comprehensive-guide/"><u>In 2024, Photo Editing Mastery with Polarr A Comprehensive Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-impact-of-weather-on-syma-x8c-performance/"><u>In 2024, The Impact of Weather on Syma X8C Performance</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unboxing-mastery-the-soundtrack-selection-guidebook/"><u>In 2024, Unboxing Mastery The Soundtrack Selection Guidebook</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-rotate-videos-on-iphone-for-free-top-5-apps/"><u>New 2024 Approved Rotate Videos on iPhone for Free Top 5 Apps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-11-hacks-for-new-windows-11-for-2024/"><u>Top 11 Hacks for New Windows 11 for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlining-srt-file-integration-on-digital-platforms/"><u>[New] Streamlining SRT File Integration on Digital Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-selecting-and-utilizing-top-6-gopro-attachments/"><u>[New] The Ultimate Guide to Selecting & Utilizing Top 6 GOPRO Attachments</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-become-a-social-butterfly-engage-in-fb-live-on-your-roku-box/"><u>[Updated] In 2024, Become a Social Butterfly Engage in FB Live on Your Roku Box</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-explore-the-leading-youtube-to-webm-video-conversion-tools/"><u>[Updated] In 2024, Explore the Leading YouTube-to-WebM Video Conversion Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-mastering-googles-audio-to-text-translations-a-comprehensible-guide/"><u>[Updated] In 2024, Mastering Google's Audio to Text Translations A Comprehensible Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-theta-s-unveiled-a-thorough-assessment/"><u>[Updated] Theta S Unveiled A Thorough Assessment</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-understanding-your-needs-for-a-precise-vimeo-subscription-level-for-2024/"><u>[Updated] Understanding Your Needs for a Precise Vimeo Subscription Level for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-paperclip-maximizer-understanding-its-role-in-artificial-intelligence-theory/"><u>Exploring the Paperclip Maximizer: Understanding Its Role in Artificial Intelligence Theory</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-connectivity-problems-with-aoc-displays-under-windows-11-environments/"><u>Fixing Connectivity Problems with AOC Displays Under Windows 11 Environments</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tailored-treasure-troves-the-ultimate-list-of-online-box-sellers/"><u>In 2024, Tailored Treasure Troves The Ultimate List of Online Box Sellers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-10-accessory-collection-for-sj4000/"><u>In 2024, The Ultimate 10 Accessory Collection for SJ4000</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-alternatives-to-sns-hdr-in-a-crowded-space/"><u>In 2024, Unveiling Alternatives to SNS HDR in a Crowded Space</u></a></li>
+<li><a href="https://some-skills.techidaily.com/meme-mastery-top-ten-template-treasures-for-2024/"><u>Meme Mastery Top Ten Template Treasures for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-kinemaster-made-memes-for-2024/"><u>The Art of KineMaster-Made Memes for 2024</u></a></li>
 </ul></div>
 

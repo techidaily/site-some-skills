@@ -1,7 +1,7 @@
 ---
 title: Simple Methods to Locate & Remove Outdated Data in Windows 11
-date: 2025-02-11T05:16:55.884Z
-updated: 2025-02-17T00:47:31.998Z
+date: 2025-03-02T17:45:57.915Z
+updated: 2025-03-05T16:17:45.253Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Simple Methods to Locate & Remove Outdated Data in Windows 11
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -37,17 +33,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 !['System' and 'Storage' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/1-storage-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the Storage Management section, turn on the toggle next to "Storage Sense," then click "Storage Sense."
 
 !['Storage Sense' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/2-enable-storage-sense.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You’ll now configure Storage Sense's behavior. At the top, enable the option in the "Cleanup of Temporary Files" section so that temporary files are automatically deleted.
 
@@ -85,10 +73,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Large files and 'Permanently Delete' highlighted in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/7-delete-large-files.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  And that’s it.
 
  Another useful option is "Duplicate Files." This option finds the duplicates on your storage and helps you remove them all at once. Use it by clicking the option, letting the feature find any duplicates, choosing the files you want to remove, and clicking "Permanently Delete."
@@ -104,10 +88,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To use it, open Windows Search, search for **Command Prompt**, and select "Run as Administrator."
 
 !['Run as Administrator' highlighted for Command Prompt in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/9-open-command-prompt.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In the User Account Control prompt, choose "Yes."
 
@@ -136,10 +116,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 !['Run as Administrator' highlighted for a batch file in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/11-run-batch-file.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can integrate this batch script with Task Manager, and Task Manager will run the script at your specified time. This basically automates the entire process of finding and removing old files from your specified folders.
 
 ---
@@ -161,20 +137,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-360-degree-cams-face-off-the-ultimate-test/"><u>[New] 2024 Approved 360 Degree Cams Face-Off The Ultimate Test</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-premium-sporting-cameras-for-adventure/"><u>[New] 2024 Approved Premium Sporting Cameras for Adventure</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-tech-tips-for-perfect-video-captures/"><u>[New] Tech Tips for Perfect Video Captures</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-educational-videography-mastery-in-cutting-and-pacing/"><u>[Updated] 2024 Approved Educational Videography Mastery in Cutting & Pacing</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-effortless-gif-to-video-conversion-best-5-top-online-services/"><u>[Updated] 2024 Approved Effortless GIF-to-Video Conversion Best 5 Top Online Services</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-from-gifs-to-stickers-full-guide-for-social-channels/"><u>[Updated] From GIFs to Stickers Full Guide for Social Channels</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-complete-guide-to-toolwiz-photography-software/"><u>[Updated] In 2024, Complete Guide to Toolwiz Photography Software</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-superior-text-styling-methods/"><u>[Updated] Superior Text Styling Methods</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-10-text-manipulators-boosting-affects-craft/"><u>[Updated] Top 10 Text Manipulators Boosting Affects Craft</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-tactics-for-flawless-solo-streaming-experiences/"><u>2024 Approved Top Tactics for Flawless Solo Streaming Experiences</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-windows-11s-core-enhancements/"><u>2024 Approved Unveiling Windows 11'S Core Enhancements</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-intersection-of-design-and-efficiency-in-professional-environments/"><u>In 2024, The Intersection of Design & Efficiency in Professional Environments</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-10-streaming-services-a-must-know/"><u>In 2024, Top 10 Streaming Services - A Must Know</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/strategies-for-creating-hit-memes/"><u>Strategies for Creating Hit Memes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-technicalities-of-podcast-rss-file-design/"><u>[New] The Technicalities of Podcast RSS File Design</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-twitch-replay-tricks-20-ways-to-retrace-your-stream-trail/"><u>[New] Twitch Replay Tricks 20 Ways to Retrace Your Stream Trail</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-exploring-the-mechanisms-of-noteworthy-youtube-discussions-for-2024/"><u>[Updated] Exploring the Mechanisms of Noteworthy YouTube Discussions for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-top-4k-capture-tools-for-ultimate-hd-recording/"><u>[Updated] Top 4K Capture Tools for Ultimate HD Recording</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-turn-the-last-scenes-first-with-android/"><u>[Updated] Turn the Last Scenes First with Android</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-eye-opening-journey-with-q500/"><u>2024 Approved The Eye-Opening Journey with Q500</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-turning-pinterest-video-into-downloadable-mp3-files/"><u>2024 Approved Turning Pinterest Video Into Downloadable MP3 Files</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-boot-bug-effective-ways-to-start-outriders-on-pcs-this-year/"><u>Beat the Boot Bug: Effective Ways to Start Outriders on PCs This Year</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/dealing-with-503-service-down-errors-expert-tips-for-immediate-recovery/"><u>Dealing with 503 Service Down Errors: Expert Tips for Immediate Recovery</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-device-drivers-manually-in-windows-10-by-drivereasy-guide/"><u>How to install and update device drivers manually in Windows 10</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-apple-iphone-13-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Music from Apple iPhone 13 to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-xml-to-srt-a-step-by-step-solution-approach/"><u>In 2024, From XML to SRT A Step-by-Step Solution Approach</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-scrutinizing-magix-video-composer/"><u>In 2024, Scrutinizing MAGIX Video Composer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-uniting-images-into-an-eye-catching-narrative-display/"><u>In 2024, Uniting Images Into an Eye-Catching Narrative Display</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-z50s-pro-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Z50S Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-savings-on-the-latest-apple-m3-macbook-pro-exclusive-200-off-offer-available-only-through-amazons-biggest-spring-deal-of-the-year-insights-from-zdnet.27/"><u>Score Savings on the Latest Apple M3 MacBook Pro: Exclusive $200 Off Offer Available Only Through Amazon's Biggest Spring Deal of the Year - Insights From ZDNET</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-real-time-webcast-applications-for-2024/"><u>Top Real-Time Webcast Applications for 2024</u></a></li>
 </ul></div>
 

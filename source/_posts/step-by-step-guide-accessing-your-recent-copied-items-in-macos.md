@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Accessing Your Recent Copied Items in macOS"
-date: 2025-02-12T02:39:51.724Z
-updated: 2025-02-17T05:55:06.770Z
+date: 2025-03-04T22:06:21.371Z
+updated: 2025-03-06T01:37:07.565Z
 tags:
   - desktop
 categories:
@@ -31,27 +31,15 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 
  The clipboard viewer is a [useful Finder feature](https://remote-screen-capture.techidaily.com/in-2024-low-cost-android-calls-highest-ranking-options/) that can be handy if you simply need to check what's on the clipboard right now, especially if you do a lot of [copying and pasting on your Mac](https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-itel-s23plus-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/). But it's pretty limited otherwise.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to See Your Mac Clipboard History
 
  If you want more control over the clipboard, and to be able to view and work with your clipboard history in particular, you need a third-party app. There are quite a few apps available that can do this, but we recommend two that offer different features depending on your needs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Maccy: A Lightweight, Free Clipboard Manager
 
  Maccy is a very simple and lightweight clipboard manager that's best used for copying and pasting text. You can get it for free from the app's [GitHub page](https://github.com/p0deje/Maccy), or if you want to support the developer, you can buy it through the [App Store](https://apps.apple.com/us/app/maccy/id1527619437) for $9.99 or choose your own price by downloading it from [maccy.app](https://maccy.app).
 
 ![The Maccy website homepage](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/the-maccy-home-page.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  By default, the app saves the last 200 items copied to your clipboard for easy access, and you adjust that up or down to suit your needs. It doesn't just handle text, but the minimalist interface means that that's what it's best suited for. You access the contents of your clipboard via a drop-down list on your menu bar.
 
@@ -65,19 +53,11 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 
  Maccy has a lot of extra options worth exploring in the Preferences, including some that are useful for privacy. For example, the "Ignore" tab lets you exclude certain apps from having their contents copied to the clipboard, and the "Advanced" tab has a "Clear history on quit" option that ensures nothing will remain on your clipboard for too long.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Pasty: A Premium Clipboard History Tool
 
  If you need a bit more power, there are a lot of paid options to choose from. [Pasty](https://getpasty.app) is a good choice, as it's functional enough to use for free. You can upgrade to the full version through the [App Store](https://apps.apple.com/us/app/clipboard-manager-pasty/id1544620654) for a one-off lifetime payment of $14.99, or take your pick from monthly or yearly subscriptions.
 
 ![Pasty interface visible at the top of a macOS desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/pasty-places-a-bar-across-the-top-of-your-screen-when-activated.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Pasty provides a straightforward onboarding process when you first launch it that helps to get the app set up as you need it.
 
@@ -114,19 +94,15 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-enhancing-facebooks-instream-ad-reach-a-detailed-approach/"><u>[New] 2024 Approved Enhancing Facebook's Instream Ad Reach A Detailed Approach</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-ultimate-manual-for-minecraft-playbacks-on-mac/"><u>[New] In 2024, The Ultimate Manual for Minecraft Playbacks on Mac</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-10-strategies-for-captivating-close-up-cinematography/"><u>[New] Top 10 Strategies for Captivating Close-Up Cinematography</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-iphone-shot-potential-adopt-these-10-principles/"><u>[New] Unlocking iPhone Shot Potential Adopt These 10 Principles</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-navigating-through-8-prime-free-srt-translation-options/"><u>[Updated] Navigating Through 8 Prime Free SRT Translation Options</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-psd-transparency-tricks/"><u>[Updated] Ultimate PSD Transparency Tricks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-checklist-for-selecting-prime-streaming-services-of-cricket/"><u>2024 Approved The Ultimate Checklist for Selecting Prime Streaming Services of Cricket</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-these-affordable-netflix-substitutes-all-free/"><u>Discover These Affordable Netflix Substitutes - All Free!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-altering-windows-lockscreen-timers/"><u>Guide to Altering Windows Lockscreen Timers</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-huawei-nova-y71-by-drfone-android/"><u>How to Bypass FRP from Huawei Nova Y71?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-guide-to-ios-based-interview-and-journey-podcasts/"><u>In 2024, Ultimate Guide to iOS-Based Interview & Journey Podcasts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-address-pdhdll-absence-issues-on-windows/"><u>Step-by-Step Guide to Address pdh.dll Absence Issues on Windows</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-subscriber-chatter-best-practices-for-comments-for-2024/"><u>The Art of Subscriber Chatter Best Practices for Comments for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/the-ultimate-guide-updating-and-optimizing-your-dell-webcams-driving-force/"><u>The Ultimate Guide: Updating and Optimizing Your Dell Webcam's Driving Force</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-tips-for-extending-instagram-videos-beyond-limits-for-2024/"><u>[New] Tips for Extending Instagram Videos Beyond Limits for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-elevate-visual-storytelling-with-windows-photos-and-story-remix-techniques-for-2024/"><u>[Updated] Elevate Visual Storytelling with Windows Photos & Story Remix Techniques for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-toolwiz-photosapp-overview-a-complete-analysis-and-future-prospects/"><u>2024 Approved Toolwiz PhotosApp Overview - A Complete Analysis and Future Prospects</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unravel-the-potential-of-multiple-screen-usage-in-netflix/"><u>2024 Approved Unravel The Potential of Multiple Screen Usage in Netflix</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discovering-affordable-luxury-in-tech-how-the-apple-ipad-air-4-stacks-up-to-ipad-pro/"><u>Discovering Affordable Luxury in Tech: How the Apple iPad Air 4 Stacks Up to iPad Pro</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-a-non-functional-corsair-void-mic-step-by-step-solution/"><u>Fixing a Non-Functional Corsair Void Mic: Step-by-Step Solution</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-your-apple-watch-series-9ultra-at-unbeatable-prices-before-sale-ends-a-buyers-guide/"><u>Get Your Apple Watch Series 9/Ultra at Unbeatable Prices Before Sale Ends: A Buyer's Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-altering-voices-for-a-competitive-edge-in-free-fire-for-2024/"><u>The Ultimate Guide Altering Voices for a Competitive Edge in Free Fire for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/vanguard-devices-frontline-computing-titans-for-2024/"><u>Vanguard Devices Frontline Computing Titans for 2024</u></a></li>
 </ul></div>
 

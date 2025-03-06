@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Images Using Artificial Intelligence: Mastering the Technique of Super-Resolution with Stable Diffusion"
-date: 2025-02-14T03:36:12.792Z
-updated: 2025-02-16T22:45:43.028Z
+date: 2025-03-01T23:32:34.115Z
+updated: 2025-03-06T01:44:45.078Z
 tags:
   - cutting-edge
 categories:
@@ -28,17 +28,9 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 
  In this guide we're assuming you have [automatic11111's Stable Diffusion WebUI installed and running](https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-tecno-spark-go-2023-phone-by-drfone-android/). It's the definitive edition of Stable Diffusion and makes upscaling (along with many other aspects of work with AI images) much more simple and intuitive compared to [a standard Stable Diffusion installation](https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-xiaomi-redmi-k70-phone-by-drfone-android/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Upscale Images in Stable Diffusion
 
  Whether you've got a [scan of an old photo](https://fox-cloud.techidaily.com/2024-approved-visualvision-studio-for-win8/), an old digital photo, or a low-res [AI-generated image](https://fox-info.techidaily.com/new-synthesize-stellar-titles-using-ai-insights/), start Stable Diffusion WebUI and follow the steps below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  1\. Upload an Image
 
@@ -49,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
  Or, if you've just generated an image you want to upscale, click "Send to Extras" and you'll be taken to there with the image in place for upscaling. Otherwise, you can drag-and-drop your image into the Extras upload field.
 
 ![A photo placed in the Extras upload field in Stable Diffusion WebUI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/generate.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you have several images you want to upscale at once, switch to the "Batch Process" tab and drop several at once. In my experience, though, this doesn't always work, and
 
@@ -82,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 * **Paintings:** R-ESRGAN 4x+
 * **Anime:** R-ESRGAN 4x+ Anime6B
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Step 4: Upscale!
 
  Once you've got your settings in place, it's time to upscale. Hit that big "Generate" button to begin the process.
@@ -106,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 
 Related: [How to Use Stable Diffusion to Make AI GIFs and Videos](https://youtube-help.techidaily.com/in-2024-sonic-gold-standard-10-ways-to-elevate-home-recordings/) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Tips for Better Upscaling Results
 
  If images aren't looking quite how you expected, there are a few things you can do get better results from Stable Diffusion's upscaling tools.
@@ -122,10 +102,6 @@ Related: [How to Use Stable Diffusion to Make AI GIFs and Videos](https://youtub
 
 ![Secondary upscaler selected in Stable Diffusino WebUI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/second-upscaler.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Fix Bad Aspect Ratios With Outpainting
 
  If you have an image you want to use at a specific aspect ratio but the upscaled image is too tall or two wide to use without cropping, you can potentially fix that problem using [Stable Diffusion's "outpainting" tool](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features#outpainting). It lets you generate "more" of the image, adding imagery to the sides or the top and bottom that weren't there before.
@@ -135,10 +111,6 @@ Related: [How to Use Stable Diffusion to Make AI GIFs and Videos](https://youtub
  As you'll quickly find out, outpainting well is difficult, and probably a subject for another guide, especially with complex image content like people and animals. That said, just messing around and not making too many changes I was able to generate this panoramic version of my image that, at first glance, looks half-believable.
 
 ![Upscaled photo of a walking path in autumn with the left and right side generated using Stable Diffusion.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/wallpaper_outpainting.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Postprocess upscale by: 4, Postprocess upscaler: ESRGAN\_4x, Postprocess upscaler 2: SwinIR\_4x
 
@@ -173,21 +145,18 @@ Related: [How to Make Awesome Wallpapers for Any Device With MidJourney](https:/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-elevating-earnings-the-essentials-of-vimeo-revenue-model/"><u>[New] 2024 Approved Elevating Earnings The Essentials of Vimeo Revenue Model</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-20-minutes-to-master-vrecorder-instalment/"><u>[New] In 2024, 20 Minutes To Master VRecorder Instalment</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-blueprint-to-acquire-clean-images/"><u>[New] The Blueprint to Acquire Clean Images</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-screenrec-made-simple-for-laptop-users/"><u>[Updated] 2024 Approved ScreenRec Made Simple for Laptop Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-dji-phantom-3-a-complete-technical-review/"><u>[Updated] Unveiling DJI Phantom 3 A Complete Technical Review</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-strategies-for-captivating-close-up-cinematography/"><u>2024 Approved Top 10 Strategies for Captivating Close-Up Cinematography</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-nokia-c210-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Nokia C210 Devices | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-infinix-hot-40i-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Infinix Hot 40i?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-7-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 7 to other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-crafting-co-branded-content-on-youtube-platforms/"><u>In 2024, Crafting Co-Branded Content on YouTube Platforms</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-elevate-your-channel-hit-the-10000-view-mark-fast/"><u>In 2024, Elevate Your Channel Hit the 10,000 View Mark Fast!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamsmart-beyond-the-dacast-shell/"><u>In 2024, StreamSmart Beyond the DaCast Shell</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-blueprint-creating-exceptional-podcast-content-on-idevices/"><u>In 2024, The Ultimate Blueprint Creating Exceptional Podcast Content on iDevices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-instagram-notifications-diy-sound-design-for-2024/"><u>Transform Instagram Notifications DIY Sound Design for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-microphone-selection-for-high-res-video-shooting-for-2024/"><u>Ultimate Microphone Selection for High-Res Video Shooting for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-potential-of-todays-drones-for-tomorrow-for-2024/"><u>Unveiling the Potential of Today's Drones for Tomorrow for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-revolutionizing-workouts-the-best-vr-treadmill-choices/"><u>[New] Revolutionizing Workouts The Best VR Treadmill Choices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-secrets-to-flawless-gopro-4k-edits/"><u>[New] Unveiling the Secrets to Flawless GoPro 4K Edits</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-solutions-for-balancing-iphone-hdr-footage-with-advanced-premiere-pro-tools/"><u>[Updated] Solutions for Balancing iPhone HDR Footage with Advanced Premiere Pro Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-swift-transformations-top-5-no-download-online-gif-to-video-tools/"><u>2024 Approved Swift Transformations Top 5 No-Download, Online GIF to Video Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-samsung-galaxy-s23-fe-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-airpods-pro-2-vs-original-are-upgrades-justifiable/"><u>Comparing AirPods Pro 2 vs Original: Are Upgrades Justifiable?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723013129294-easy-fixes-for-common-fortnite-login-problems-get-back-in-action-now/"><u>Easy Fixes for Common Fortnite Login Problems – Get Back In Action Now</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209781790-9781439667989-ghosts-and-legends-of-northern-ohio/"><u>Ghosts and Legends of Northern Ohio | Free Book</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-time-lapse-techniques-for-samsung-enthusiasts/"><u>In 2024, Unveiling Time Lapse Techniques for Samsung Enthusiasts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-stability-solving-recurrent-downtime-in-world-of-tanks-blitz-gaming/"><u>Mastering Stability: Solving Recurrent Downtime in World of Tanks Blitz Gaming</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-8-free-sites-for-accessing-3d-text-psd-images-for-2024/"><u>Top 8 Free Sites for Accessing 3D Text PSD Images for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-reducing-latency-in-bless-unleashed-gameplay/"><u>Troubleshooting Steps: Reducing Latency in Bless Unleashed Gameplay</u></a></li>
 </ul></div>
 

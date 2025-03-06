@@ -1,7 +1,7 @@
 ---
 title: "Lenovo Yoga Slim 지갑쇼드라그래픅 7X 리뷰: Windows에서 Snapdragon은 완전히 안타깝게 신속하지 않음"
-date: 2025-02-15T00:07:32.370Z
-updated: 2025-02-16T22:21:06.034Z
+date: 2025-02-27T18:24:33.066Z
+updated: 2025-03-05T23:15:53.689Z
 tags:
   - desktop
 categories:
@@ -38,10 +38,6 @@ The Lenovo Yoga Slim 7x is one of the first Copilot+ PC laptops, with all-day ba
 * No Thunderbolt support
 
 [$1199 at Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fyoga%2Fyoga-slim-series%2Fyoga-slim-7x-gen-9-%2814-inch-snapdragon%29%2Flen101y0049) [$1199.99 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-yoga-slim-7x-copilot-pc-14-5-3k-oled-touch-screen-laptop-snapdragon-x-elite-16gb-memory-512gb-ssd-cosmic-blue%2F6582538.p%3FskuId%3D6582538) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Price and Availability
 
@@ -127,10 +123,6 @@ Jerome Thomas / How-To Geek
 
 ![The ports on the left side of the Lenovo Yoga Slim 7x.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-ports-on-the-left-side-of-the-lenovo-yoga-slim-7x_53815828838_o.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Jerome Thomas / How-To Geek
 
  The Yoga Slim 7x has three USB Type-C ports, all of which support USB4 Gen 3, USB Power Delivery (USB-PD) 3.1, and DisplayPort 1.4\. Those are the only physical ports on this computer. You don’t get a headphone jack, an SD card reader, USB Type-A ports, or anything else. It’s great that all three ports work the same, so you can use any of them for power input or a [USB hub](https://extra-approaches.techidaily.com/2024-approved-joint-venture-campaigns-for-brands-on-video-platforms/), but I wish there were better built-in options for connectivity. There’s also no support for Thunderbolt, so some types of external drives, monitors, and hubs won’t work.
@@ -138,10 +130,6 @@ Jerome Thomas / How-To Geek
  There’s also a 1080p webcam above the display, with a switch on the side of the bottom lid for turning it on or off. There isn’t a physical cover for the webcam, though.
 
  Finally, even though this laptop is sold under the Yoga brand, this is _not_ a convertible laptop. The screen can be pushed back to nearly flat with the keyboard, but it cannot bend all the way around for tent mode or functioning as a tablet.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Display: A Fantastic OLED
 
@@ -156,10 +144,6 @@ Jerome Thomas / How-To Geek
  The 90Hz refresh rate gives you more fluid animations and more responsive games than a typical 60Hz screen while using less power than the 120Hz screens that are more common on smartphones and gaming hardware. However, Windows still isn’t consistent with supporting high refresh rates. Moving around windows and scrolling through the Microsoft Store might be silky smooth, but opening the Start menu or performing other actions seem to be stuck at 60Hz.
 
  The display also supports HDR content, either through VESA DisplayHDR True Black 600 or Dolby Vision. However, there are still not many applications and games on Windows that support HDR, including most streaming services.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Software: Hello, ARM Windows
 
@@ -189,10 +173,6 @@ Jerome Thomas / How-To Geek
 
 ![The Snapdragon processor on the Lenovo Yoga Slim 7x.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-snapdragon-processor-on-the-lenovo-yoga-slim-7x-2_53814663467_o.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Jerome Thomas / How-To Geek
 
  You can also play some games on the Yoga Slim 7x, with performance close to most other high-end ultrabooks. You won’t get a great experience with more demanding titles, like "Cyberpunk 2077" or "Baldur's Gate 3," but less demanding games might work. The x86 emulation layer is more of an issue with games than the Snapdragon’s raw performance, but hopefully, that will become better over time.
@@ -206,10 +186,6 @@ Jerome Thomas / How-To Geek
  I was able to easily get all-day battery life on the Yoga Slim 7x, with my usual mix of managing emails, talking in Slack, juggling five to 20 tabs in Firefox, and checking Discord. The Snapdragon X Elite chipset also didn't generate much heat, so when I wasn’t gaming or running benchmarks, the laptop fans were quiet or not running at all.
 
  The battery life here is much closer to a tablet or MacBook than most other Windows laptops. It's great to see Microsoft and Qualcomm make actual progress in this department, even if there are other limitations with this hardware that need to be improved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The Competition: It's Tough
 
@@ -254,16 +230,20 @@ The Lenovo Yoga Slim 7x is one of the first Copilot+ PC laptops, with all-day ba
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-iconic-video-titles-youtubes-most-watched-lore/"><u>[New] 2024 Approved Iconic Video Titles YouTube's Most-Watched Lore</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-easy-ways-to-merge-igtv-and-instagram-stories/"><u>[New] Easy Ways to Merge IGTV & Instagram Stories</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-financials-of-boosting-your-youtube-videos/"><u>[New] The Financials of Boosting Your YouTube Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-sound-savants-playbook-for-efficient-audible-records/"><u>[New] The Sound Savant's Playbook for Efficient Audible Records</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unbound-zen-audio-releases/"><u>2024 Approved Unbound Zen Audio Releases</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/essential-first-steps-for-mastering-insta-chat-rooms-for-2024/"><u>Essential First Steps for Mastering Insta Chat Rooms for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-unable-to-switch-to-desired-screen-size-error-easily/"><u>How to Fix 'Unable to Switch to Desired Screen Size' Error Easily</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/online-free-conversion-transforming-mp4m4a-files-into-aac-format-with-ease-using-movavi/"><u>Online Free Conversion: Transforming MP4/M4A Files Into AAC Format with Ease Using Movavi</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/perfect-your-skills-applying-radial-blur-in-photoshop-easily/"><u>Perfect Your Skills Applying Radial Blur in Photoshop Easily</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-editors-echo-chamber-for-2024/"><u>The Editor's Echo Chamber for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-proving-the-top-5-mac-clipping-software-for-2024/"><u>[New] Proving the Top 5 Mac Clipping Software for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-places-to-find-background-music-for-videos/"><u>[New] Top Places to Find Background Music for Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transition-smoothly-with-chromes-picture-in-picture/"><u>[New] Transition Smoothly with Chrome’s Picture In Picture</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-micro-influencer-approach-to-live-youtube-streams-from-mobile/"><u>[Updated] In 2024, Micro-Influencer Approach to Live Youtube Streams From Mobile</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-the-artistry-of-impressive-gopro-timelapse-videos/"><u>[Updated] Unleash the Artistry of Impressive GoPro Timelapse Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-the-age-update-process-on-tiktok/"><u>2024 Approved Streamline the Age Update Process on TikTok</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-supreme-writing-talents-through-genre-lenses/"><u>2024 Approved Supreme Writing Talents Through Genre Lenses</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essence-of-the-apple-m1-a-technological-marvel/"><u>2024 Approved The Essence of the Apple M1 A Technological Marvel</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-window-communication-apps-5-1-top-8-list/"><u>2024 Approved Window Communication Apps #5-#1 Top 8 List</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-apple-iphone-6s-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>Best Apple iPhone 6s & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/bite-sized-script-producer-for-2024/"><u>Bite-Sized Script Producer for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/blood-oximetry-tracking-eliminated-from-select-apple-watch-series-devices/"><u>Blood Oximetry Tracking Eliminated From Select Apple Watch Series Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/evolving-narratives-in-the-age-of-vr-movies-for-2024/"><u>Evolving Narratives in the Age of VR Movies for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-supreme-five-optimal-dvd-software-for-sierra-os/"><u>In 2024, Supreme Five Optimal Dvd Software for Sierra OS</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/unleash-the-magic-of-time-lapse-photography-on-samsung-gear/"><u>Unleash the Magic of Time-Lapse Photography on Samsung Gear</u></a></li>
 </ul></div>
 

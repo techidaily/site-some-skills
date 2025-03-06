@@ -1,7 +1,7 @@
 ---
 title: "The Impact of AI on Next-Gen Computing Power: Expect Higher Specs in Future PCs"
-date: 2025-02-04T16:21:29.655Z
-updated: 2025-02-07T17:58:01.726Z
+date: 2025-02-28T23:50:13.928Z
+updated: 2025-03-06T02:58:17.622Z
 tags:
   - cutting-edge
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://thmb.techidaily.com/0cc5faa4648feed06dc36c6c4e0b5955761ab929b
 
 ## The Impact of AI on Next-Gen Computing Power: Expect Higher Specs in Future PCs
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * AI PCs require significant memory and storage for local processing.
@@ -22,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/0cc5faa4648feed06dc36c6c4e0b5955761ab929b
 * 16GB RAM is the minimum for AI PCs, with 32GB recommended for those who care about AI features.
 
  The age of the "AI PC" is upon us, and you'll soon have the option to run some AI features locally without an internet connection even on relatively modest systems. However, what you may not realize is that despite having AI accelerators, these computers will still need a heap of memory and storage just to offer local AI features.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  AI PCs Have the Power for Local Processing
 
@@ -37,19 +29,11 @@ Microsoft
 
  There are many reasons to want local AI features. It's fast, you're not competing for resources with other users, and you don't have to pay beyond the cost of the hardware. Giving your laptop the smarts of something on the same continuum as ChatGPT and its contemporaries is definitely exciting!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Even “Small” LLMs Are Huge
 
  The thing is, these AI "models" are pretty large. The smallest and most efficient LLMs (Large Language Models) might need 1-3GB of memory, while not being all that smart. As the model gains parameters and becomes more capable, it needs more room. The super-smart LLMs that you access via the web might range in the hundreds of Gigabytes of RAM when it comes to their model sizes. With hundreds of billions, or even more than a trillion parameters in some cases, these AI models are not for scrappy little laptops to run!
 
  Then we have LLMs small enough to run on a smartphone, such as [phi-3-mini](https://techmonitor.ai/technology/ai-and-automation/microsoft-phi-3-mini) which clocks in at 2.4GB. That's more in line with what's actually going to be running on these AI laptops, though probably not quite as anemic!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Models Have to Live in RAM
 
@@ -77,10 +61,6 @@ AI chip hologram with circuits around
 
  Some time ago, I looked at whether [32GB of RAM](https://extra-hints.techidaily.com/elevate-your-craft-canvas-hidden-design-secrets/) was not the amount to aim for, and my conclusion was that this amount of memory was still overkill for average users. However, with future AI model sizes in mind, I think 32GB should be what anyone who cares about these AI features must aim for.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  If You Care About AI, Get More Memory
 
  Whether you care about local AI features is, of course, what actually matters here. If you don't, then it's great that these Copilot PCs are pushing the RAM minimum to 16GB. Just disable or ignore the AI part of the equation and you'll be just fine. In fact, unless you have some compelling alternative reason, skip these AI PCs completely and stick with more mainstream option.
@@ -102,24 +82,19 @@ AI chip hologram with circuits around
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-perfect-your-intro-practical-tips-and-example-scripts/"><u>[New] In 2024, Perfect Your Intro Practical Tips & Example Scripts</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-skyrocket-views-on-youtube-in-minutes-2-strategies/"><u>[New] Skyrocket Views on YouTube in Minutes (2 Strategies)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-strategies-for-skipping-virtual-learning-videos/"><u>[New] Strategies for Skipping Virtual Learning Videos</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-sdr-to-super-hd-a-practical-guide-for-quality-improvement/"><u>[Updated] 2024 Approved SDR to Super HD A Practical Guide for Quality Improvement</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-unlocking-the-secrets-of-periscope-mastery/"><u>[Updated] 2024 Approved Unlocking the Secrets of Periscope Mastery</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-supreme-conversion-software-top-4k-downloads-for-youtubers/"><u>[Updated] Supreme Conversion Software Top 4K Downloads for YouTubers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-time-saving-tips-making-rapid-google-collage-photo-artwork/"><u>[Updated] Time-Saving Tips Making Rapid Google Collage Photo Artwork</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-steps-to-compress-youtube-video-spaces/"><u>2024 Approved The Essential Steps to Compress YouTube Video Spaces</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-drive-must-have-accessories-for-sj4000-owners/"><u>2024 Approved Transform Your Drive Must-Have Accessories for SJ4000 Owners</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tune-treasure-hunt-finding-the-perfect-audio/"><u>2024 Approved Tune Treasure Hunt Finding the Perfect Audio</u></a></li>
-<li><a href="https://fox-that.techidaily.com/diy-solutions-for-overcoming-the-iphone-black-display-problem/"><u>DIY Solutions for Overcoming the iPhone Black Display Problem</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/how-to-spot-defective-ram-in-your-windows-system-with-tips-from-yl-software-experts/"><u>How to Spot Defective RAM in Your Windows System with Tips From YL Software Experts</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-no-more-latency-choose-av1-for-youtube-playback/"><u>In 2024, No More Latency Choose AV1 for YouTube Playback</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-8-enhanced-peripherals-for-a-richer-metaverse-experience/"><u>In 2024, Top 8 Enhanced Peripherals for a Richer Metaverse Experience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transforming-images-the-art-of-applying-luts-in-pro/"><u>In 2024, Transforming Images The Art of Applying LUTs in Pro</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/seamless-transfer-of-iphone-images-directly-to-exfat-storage-device-by-bypassing-the-desktop-system/"><u>Seamless Transfer of iPhone Images Directly to ExFAT Storage Device by Bypassing the Desktop System</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/the-essential-guide-to-creating-stunning-boomerangs-for-2024/"><u>The Essential Guide to Creating Stunning Boomerangs for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-value-panoramic-recording-equipment-for-savvy-shoppers-for-2024/"><u>Top Value Panoramic Recording Equipment for Savvy Shoppers for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-sectionalviewpoint-investigation/"><u>[New] In 2024, SectionalViewpoint Investigation</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-essential-guide-to-earning-money-on-youtube-shorts-quickly/"><u>[New] In 2024, The Essential Guide to Earning Money on YouTube Shorts Quickly</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-navigating-through-instagrams-new-features-reels-and-stories/"><u>[New] Navigating Through Instagram's New Features Reels & Stories</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-path-to-podcast-success-through-seo-excellence/"><u>[New] The Ultimate Path to Podcast Success Through SEO Excellence</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-bottom-line-how-much-do-podcasters-take-home/"><u>[Updated] The Bottom Line How Much Do Podcasters Take Home?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-photographers-list-of-top-10-lenses/"><u>2024 Approved The Photographer's List of Top 10 Lenses</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-action-plan-from-ttml-and-xml-to-srt-translation/"><u>2024 Approved The Ultimate Action Plan From TTML & XML to SRT Translation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-fast-forward-tools-mastering-video-controls/"><u>2024 Approved Ultimate Fast-Forward Tools Mastering Video Controls</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/advanced-tech-advice-for-savvy-users-by-toms-hardware/"><u>Advanced Tech Advice for Savvy Users by Tom's Hardware</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-oppo-a78-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Oppo A78</u></a></li>
+<li><a href="https://extra-support.techidaily.com/launching-a-vlog-essential-equipmentapps-for-2024/"><u>Launching a Vlog Essential Equipment/Apps for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/maintain-a-healthy-eating-schedule-for-pets-with-petsafes-automatic-food-dispenser/"><u>Maintain a Healthy Eating Schedule for Pets with PetSafe's Automatic Food Dispenser</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-essentials-of-video-format-transformation-using-vlc/"><u>The Essentials of Video Format Transformation Using VLC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-vr-headsets-an-overview-for-2024/"><u>Understanding VR Headsets An Overview for 2024</u></a></li>
 </ul></div>
 

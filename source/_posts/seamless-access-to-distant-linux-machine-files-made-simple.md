@@ -1,7 +1,7 @@
 ---
 title: Seamless Access to Distant Linux Machine Files Made Simple
-date: 2025-02-13T06:34:48.600Z
-updated: 2025-02-16T21:17:44.436Z
+date: 2025-03-01T21:15:56.345Z
+updated: 2025-03-06T00:00:29.840Z
 tags:
   - desktop
 categories:
@@ -45,19 +45,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
     
 ![Installing SSHFS on Ubuntu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/1-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Fedora users need to type:
 
         `sudo dnf install sshfs`
     
 ![Installing SSHFS on Fedora.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/2-2.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  On Manjaro, you’ll use pacman:
 
@@ -70,10 +62,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
         `sshfs --version`
     
 ![Using the --version option to discover the version of SSHFS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/4-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Making a Remote Connection
 
@@ -101,10 +89,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
     
 ![Mounting the remote file system on the local mount point.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/7-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The command consists of:
 
 * **sudo**: We’re using sudo because our mount point is owned by root.
@@ -129,10 +113,6 @@ ls`
     
 ![Listing the contents of the remote file system in a terminal window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/8-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  We can see the home directory of the user account on the remote computer. Any changes you make here are made on the remote drive. Any edits or deletions will affect the remote computer.
 
  We ought to be able to create a new file.
@@ -141,10 +121,6 @@ ls`
 ls -hl new-file.txt`
     
 ![Creating a file in the remote file system and checking its attributes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/9-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Our file is created, and we’re the owner of it. There was no need to use sudo.
 
@@ -170,10 +146,6 @@ ls /home/dave/Downloads/`
 ![Editing a file in the remote file system with a local editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/12-1.png) 
 
  If you edit a document, for example, your default local editor is launched.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Breaking the Connection
 
@@ -204,22 +176,24 @@ ls /home/dave/Downloads/`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-achieving-youtube-success-increasing-followers-quickly/"><u>[New] Achieving YouTube Success Increasing Followers Quickly</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-techniques-for-smoothly-fading-audio-within-lumafusion/"><u>[New] Techniques for Smoothly Fading Audio Within Lumafusion</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-basics-what-makes-a-vr-device-special/"><u>[New] The Basics What Makes a VR Device Special?</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-step-by-step-screen-recording-snapshots-on-mobile/"><u>[Updated] In 2024, Step-by-Step Screen Recording Snapshots on Mobile</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-ranked-5-excellent-webcams-with-professional-microphones/"><u>[Updated] Ranked 5 Excellent Webcams With Professional Microphones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tale-constructing-the-basic-blueprint/"><u>[Updated] Tale Constructing The Basic Blueprint</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-in-depth-review-tunefabs-latest-in-screen-capture-tech/"><u>2024 Approved In-Depth Review Tunefab's Latest in Screen Capture Tech</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-rankings-top-budget-friendly-photo-editors-online/"><u>2024 Approved The Ultimate Rankings Top Budget-Friendly Photo Editors Online</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-13-mini-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 13 mini Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-essential-tips-for-capturing-your-skype-conversations/"><u>In 2024, Essential Tips for Capturing Your Skype Conversations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-kinemaster-app-for-android-complete-review-2023/"><u>In 2024, KineMaster App for Android - Complete Review 2023</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-action-cam-battle-max-360-vs-hero-11-review/"><u>In 2024, Top Action Cam Battle Max 360 vs Hero 11 Review</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-tunes-palette-for-video-storytelling/"><u>In 2024, Top Tunes Palette for Video Storytelling</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-depth-analysis-of-sharex-criticism-and-replacements/"><u>In-Depth Analysis of ShareX Criticism & Replacements</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ntly-professional-masterful-thumbnails-created-fast-in-2024/"><u>Instantly Professional Masterful Thumbnails Created Fast, In 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/is-it-time-to-upgrade-comparing-features-of-galaxy-s23-and-s21-ultra/"><u>Is It Time to Upgrade? Comparing Features of Galaxy S23 & S21 Ultra</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-insiders-guide-to-uploading-with-google-for-2024/"><u>The Insider’s Guide to Uploading with Google for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-top-10-game-changing-apps-for-live-sports-and-premier-league-watching/"><u>[New] 2024 Approved Top 10 Game-Changing Apps for Live Sports & Premier League Watching</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-strategies-for-zoom-use-with-a-chrome-os-device-for-2024/"><u>[Updated] Top Strategies for Zoom Use with a Chrome OS Device for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleashing-the-full-power-of-apple-podcasts-downloads/"><u>[Updated] Unleashing the Full Power of Apple Podcasts Downloads</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-premium-video-capturing-for-digital-screens/"><u>2024 Approved Premium Video Capturing for Digital Screens</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-step-by-step-guide-to-mastering-kinemaster-plus-10-best-video-editors-online/"><u>2024 Approved Step-by-Step Guide to Mastering KineMaster + 10 Best Video Editors Online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-backchannel-bridge-engaging-with-your-audience/"><u>2024 Approved The Backchannel Bridge Engaging with Your Audience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-screen-selections-for-immersive-xbox-series-x-gaming/"><u>2024 Approved Ultimate Screen Selections for Immersive Xbox Series X Gaming</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-samsung-galaxy-f34-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/7-esplorati/"><u>7 Esplorati</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-driven-meal-planning-creating-healthy-menus-using-chatgpt/"><u>AI-Driven Meal Planning: Creating Healthy Menus Using ChatGPT</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-xiaomi-redmi-a2-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Xiaomi Redmi A2 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-iphone-se-2020-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from iPhone SE (2020) without Password?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-off-facebook-insights-what-they-reveal-and-when-to-turn-them-off/"><u>In 2024, Off-Facebook Insights What They Reveal & When to Turn Them Off</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-future-of-virtual-showrooms/"><u>In 2024, The Future of Virtual Showrooms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-therapeutic-effects-of-asmr-for-everyone/"><u>In 2024, The Therapeutic Effects of ASMR for Everyone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-set-of-free-photo-screen-shifts/"><u>In 2024, Ultimate Set of Free Photo Screen Shifts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/srt-fundamentals-explored-in-detail-and-clarity-for-2024/"><u>SRT Fundamentals Explored in Detail and Clarity for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unraveling-the-new-dimensions-of-vegaspro-19-for-2024/"><u>Unraveling the New Dimensions of VegasPro '19 for 2024</u></a></li>
 </ul></div>
 

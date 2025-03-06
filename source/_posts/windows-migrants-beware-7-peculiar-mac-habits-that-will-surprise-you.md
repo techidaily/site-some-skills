@@ -1,7 +1,7 @@
 ---
 title: "Windows Migrants Beware: 7 Peculiar Mac Habits That Will Surprise You"
-date: 2025-02-10T07:33:46.218Z
-updated: 2025-02-17T04:38:29.667Z
+date: 2025-03-01T19:54:44.948Z
+updated: 2025-03-05T19:41:21.225Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 ---
 
 ## Windows Migrants Beware: 7 Peculiar Mac Habits That Will Surprise You
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -38,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
  You'll notice that some app icons in the Dock have a dot beneath them. These are the apps that you've got running—and in macOS, apps remain in the background even after you've closed the last window. You have to hit Command+Q to shut them down.
 
  You can access any apps that aren't in the Dock via the Launchpad, which is itself in the Dock by default.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Mac and Windows Keyboards Have Different Keys
 
@@ -81,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 
 ![Some of the Mac apps in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/some-of-the-mac-apps-in-macos.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Instead of the Task Manager on Windows, you can use Activity Monitor to view information about your laptop's hard drive utilization, memory usage, and other data.
 
  In place of the Microsoft Outlook app, you have the Mail app, which provides the same functionality. For media, and in place of Windows Media Player, macOS has Apple Music, Apple TV, Apple Podcasts, and Apple Books. The Notepad app on Windows is replaced by TextEdit on macOS. And Siri is in place of Cortana.
@@ -105,25 +93,13 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 
 ![Spotlight search in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/spotlight-search-in-macos.jpeg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Spotlight is packed with features](https://screen-capture.techidaily.com/updated-shadowed-swords-and-honored-combatants-must-try-titles-inspired-by-ghost-of-tsushi/). You can use it to find apps, documents, or emails by keying in a few keywords related to what you're searching for, as well as searching for news, sports scores, or weather updates, performing calculations, and much more.
 
  Another key difference in the UI is the menu bar. In macOS, the menu bar is always located at the top of the screen rather than the top of the window and extends across its width. It gives you access to the Apple menu, Finder, the time and date, Wi-Fi and Bluetooth settings, and the battery status, as well as app-specific menu options.
 
 ![The menubar in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-menubar-in-macos.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In comparison, Windows laptops combine the Start menu, system tray, and taskbar into a single bar that's located at the bottom of the screen by default.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  You Open Apps With the Launchpad Instead of the Start Menu
 
@@ -152,22 +128,19 @@ thumbnail: https://thmb.techidaily.com/9768937f48cf302572d982e26e42ee65fe0cea8c3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-gamers-delight-switchs-best-fighters-top-10-edition-for-2024/"><u>[New] Gamer's Delight Switch's Best Fighters - Top 10 Edition for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-masterful-audio-selection-optimal-mics-for-intense-4k-shooting/"><u>[New] Masterful Audio Selection Optimal Mics for Intense 4K Shooting</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-unseen-enthusiasts-blueprint-for-instagram-live-viewership/"><u>[Updated] The Unseen Enthusiast’s Blueprint for Instagram Live Viewership</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-lgs-monitor-magic-a-comprehensible-review-of-4k-tech/"><u>[Updated] Unveiling LG's Monitor Magic A Comprehensible Review of 4K Tech</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-avi-to-gif-transformation-using-filmora-for-both-oses/"><u>2024 Approved The Ultimate Guide to AVI-to-GIF Transformation Using Filmora for Both OSes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-uniting-skype-and-zoom-for-seamless-video-calls/"><u>2024 Approved Uniting Skype & Zoom for Seamless Video Calls</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-step-by-step-approach-to-identifying-excellent-discs/"><u>A Step-by-Step Approach to Identifying Excellent Discs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/addressing-dsounddll-absence-or-non-detection-errors-effectively/"><u>Addressing 'dsound.dll' Absence or Non-Detection Errors Effectively</u></a></li>
-<li><a href="https://win-data.techidaily.com/comprehensive-solutions-for-fixing-windows-update-error-code-0x80070422/"><u>Comprehensive Solutions for Fixing Windows Update Error Code 0X80070422</u></a></li>
-<li><a href="https://facebook.techidaily.com/dismissing-automated-public-post-alerts/"><u>Dismissing Automated Public Post Alerts</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-installation-get-your-intel-usb-30-drivers-updated-for-windows-11/"><u>Easy Installation: Get Your Intel USB 3.0 Drivers Updated for Windows 11</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2022-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone SE (2022) Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-lighting-setup-tips-to-make-great-videos/"><u>In 2024, Lighting Setup Tips to Make Great Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-8-online-photo-montage-maker-for-2024/"><u>Top 8 Online Photo Montage Maker for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-zeoid-startups-revealed-in-panzoids-for-2024/"><u>Top Zeoid Startups Revealed in Panzoids for 2024</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/tout-sur-lintegration-de-la-gestion-numerisation-et-traitement-automatisee-de-documents-methodologie-en-5-etapes-par-abbyy/"><u>Tout Sur L'Intégration De La Gestion Numérisation Et Traitement Automatisée De Documents - Méthodologie en 5 Étapes Par ABBYY</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unique-voice-customization-for-chrome-os-5-top-cloud-audio-editors-reviewed-for-2024/"><u>Unique Voice Customization for Chrome OS 5 Top Cloud Audio Editors Reviewed for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-hue-harmonizer-software/"><u>[New] Ultimate Hue Harmonizer Software</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-enhancing-tv-experience-with-fb-live-streams/"><u>[Updated] In 2024, Enhancing TV Experience with FB Live Streams</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-insiders-guide-to-instagram-video-success/"><u>[Updated] The Insider’s Guide to Instagram Video Success</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-straightforward-guide-to-photo-uploads-on-instagram/"><u>2024 Approved The Straightforward Guide to Photo Uploads on Instagram</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-innovators-defining-next-gen-vr-experiences/"><u>In 2024, Top Innovators Defining Next-Gen VR Experiences</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-your-imagery-a-thorough-analysis-of-the-background-erase-tool-in-photoshop/"><u>In 2024, Transforming Your Imagery A Thorough Analysis of the Background Erase Tool in Photoshop</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/maximizing-engagement-integrating-youtube-music-into-videos/"><u>Maximizing Engagement Integrating YouTube Music Into Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/seamless-movie-capture-free-mp4-download-tool-for-youku-videos-speedy-and-user-friendly-techniques/"><u>Seamless Movie Capture: Free MP4 Download Tool for YouKu Videos – Speedy & User-Friendly Techniques</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/step-by-step-guide-to-making-a-hit-youtuber-short/"><u>Step-by-Step Guide to Making a Hit Youtuber Short</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-for-swift-installation-of-wacom-intuos-creative-pads-software/"><u>Step-by-Step Tutorial for Swift Installation of Wacom Intuos Creative Pad's Software</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-7-phone-number-locators-to-track-apple-iphone-14-location-drfone-by-drfone-virtual-ios/"><u>Top 7 Phone Number Locators To Track Apple iPhone 14 Location | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-peaceful-slumber-top-notch-asmr-artists-for-rest-for-2024/"><u>Unlocking Peaceful Slumber Top-Notch ASMR Artists for Rest for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/unveiling-the-secrets-of-xiaomis-screen-capture-functionality/"><u>Unveiling the Secrets of Xiaomi's Screen Capture Functionality</u></a></li>
 </ul></div>
 

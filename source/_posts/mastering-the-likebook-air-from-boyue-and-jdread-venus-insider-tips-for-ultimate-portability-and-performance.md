@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Likebook Air From Boyue & JDRead Venus: Insider Tips for Ultimate Portability and Performance"
-date: 2024-12-31T21:52:05.586Z
-updated: 2025-01-06T18:36:32.662Z
+date: 2025-03-01T20:53:51.208Z
+updated: 2025-03-05T17:57:21.458Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/ad251382f0a7d8c655d1ecfe442682eca929097f4c42dbd9921ea0eb3f9c12b0.jpg
@@ -39,10 +39,6 @@ Sometimes partial refresh may results in image retention of previous page to be 
 
 ![no-image-retention](http://www.epubor.com/images/uppic/2-no-image-retention.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 3\. Toggle between page-turning keys
 
 Sometimes you want to switch a hand to hold your eReader after you maintain a pose to read for a long time. JDRead Venus is among the very few eReaders to take that into account. You can set page up with left key, page down with right key, or set page up with right key, page down with left key.
@@ -53,19 +49,11 @@ Open a book, click the first icon on the ribbon to disable the touchscreen. Once
 
 ![disable-touchscreen](http://www.epubor.com/images/uppic/3-disable-touchscreen.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 5\. PDF Cropping
 
 Likebook Air supports PDF cropping and gray level upgrade. You can enjoy reading manga on the eReader with better user experience after cropped PDF edges. 
 
 ![before cropping](http://www.epubor.com/images/uppic/4-before cropping.png) ![after cropping](http://www.epubor.com/images/uppic/5-after cropping.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Other tips and tricks
 
@@ -85,10 +73,6 @@ Tap Wallpaper setup, select custom wallpaper.
 
 ![change-wallpaper-1](http://www.epubor.com/images/uppic/6-change-wallpaper-1.jpg) ![change-wallpaper-2](http://www.epubor.com/images/uppic/7-change-wallpaper-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Import books into Likebook Air
 
 #### 1\. Import books via USB cable
@@ -106,10 +90,6 @@ Likebook Air can access data in your micro TF card. So you can place some books 
 Likebook Air also supports book transfer from PC/mobile phone to the eReader via wifi. Make sure the wifi hotspot connected to the eReader is the same as the PC or mobile terminal network. Open the wifi transfer interface on your Likebook Air, scan the QR code in the main panel with your mobile phone, or input the given in the browser address bar on a computer. When landing to the wifi transfer webpage, select the books you want to transfer, wait for processing, then the books are uploaded successfully to your Likebook Air. Go to Bookshelf section and you can check the newly transferred books on your eReader.
 
 ![transfer-books-via-wif](http://www.epubor.com/images/uppic/9-transfer-books-via-wifi.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The above are part of tips and tricks for Likebook Air that we present to you. Of course there’re a few hidden knacks need to be dug up. Leave your comments below the article to share your unique tips and tricks on this eReader!
 
@@ -250,21 +230,18 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-top-notch-photo-cloud-storages-both-gratis-and-premium-options/"><u>[New] Ultimate Top-Notch Photo Cloud Storages Both Gratis & Premium Options</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-video-cataloging-mastery-perfecting-playlists-on-youtube-platform/"><u>[Updated] 2024 Approved Video Cataloging Mastery Perfecting Playlists on YouTube Platform</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-quick-catch-resurrecting-archived-reddit-content/"><u>[Updated] In 2024, Quick Catch Resurrecting Archived Reddit Content</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-reveal-the-rare-5-effortless-ways-to-enhance-views/"><u>[Updated] In 2024, Reveal the Rare 5 Effortless Ways to Enhance Views</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-navigating-audacity-for-top-notch-audio-recording/"><u>[Updated] Navigating Audacity for Top-Notch Audio Recording</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-iphone-landscape-photography-excellence/"><u>[Updated] The Ultimate Guide to iPhone Landscape Photography Excellence</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-quick-fix-tweeting-vids-pause-in-chrome/"><u>2024 Approved Quick Fix Tweeting Vids Pause in Chrome</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-metaverse-versus-multi-meva-unraveling-their-differences/"><u>2024 Approved The Metaverse Versus Multi-Meva Unraveling Their Differences</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-vegas-pros-latest-features-in-21/"><u>2024 Approved The Ultimate Guide to Vegas Pro's Latest Features in '21</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-turn-your-tactical-talks-into-a-thriving-youtube-trade/"><u>2024 Approved Turn Your Tactical Talks Into a Thriving YouTube Trade</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-selections-top-rated-webcam-platforms/"><u>2024 Approved Ultimate Selections Top-Rated Webcam Platforms</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-the-full-potential-of-youtube-video-interactions/"><u>2024 Approved Unlocking the Full Potential of YouTube Video Interactions</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/echo-video-storyteller-for-2024/"><u>Echo Video Storyteller for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-xiaomi-14-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Xiaomi 14 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://facebook.techidaily.com/leveraging-likes-and-shares-without-overstepping-boundaries/"><u>Leveraging Likes & Shares Without Overstepping Boundaries</u></a></li>
-<li><a href="https://some-skills.techidaily.com/understanding-film-a-beginners-guide-to-essential-shots-for-2024/"><u>Understanding Film A Beginner's Guide to Essential Shots for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-secrets-of-kinemaster-usage-and-ranking-alternatives-1-10/"><u>[New] Unveiling the Secrets of KineMaster Usage & Ranking Alternatives 1-10</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-dynamic-visual-storytelling-integrating-luts-into-spark-ar-projects/"><u>[Updated] 2024 Approved Dynamic Visual Storytelling Integrating LUTs Into Spark AR Projects</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-guide-to-free-multimedia-content-creation/"><u>[Updated] The Ultimate Guide to Free Multimedia Content Creation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-choices-full-sweep-video-recording-systems/"><u>[Updated] Top Choices Full Sweep Video Recording Systems</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-affiliate-advancements-how-small-channels-thrive-financially/"><u>2024 Approved Affiliate Advancements How Small Channels Thrive Financially</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unmatched-story-design-arena/"><u>2024 Approved Unmatched Story Design Arena</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-critical-look-at-upgrading-to-the-latest-windows-os/"><u>A Critical Look at Upgrading to the Latest Windows OS</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/apple-ipad-mini-5-exposed-a-tiny-tablet-with-impressive-capabilities/"><u>Apple iPad Mini 5 Exposed: A Tiny Tablet With Impressive Capabilities</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-on-mobile-unveiling-six-superiorities-of-the-ios-app-compared-to-its-web-counterpart/"><u>ChatGPT on Mobile: Unveiling Six Superiorities of the iOS App Compared to Its Web Counterpart</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/erweiterte-funktionen-der-ediscovery-losung-von-deloitte-erhohen-effizienz-und-leistung/"><u>Erweiterte Funktionen Der eDiscovery-Lösung Von Deloitte Erhöhen Effizienz Und Leistung</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-precision-practices-for-perfecting-figmas-background-removal/"><u>In 2024, Precision Practices for Perfecting Figma's Background Removal</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-the-potential-of-ps5-with-these-9-features/"><u>Unleashing the Potential of PS5 with These 9 Features</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-s-best-video-editors-for-4k-proxy-footage-expert-recommendations/"><u>Updated In 2024, S Best Video Editors for 4K Proxy Footage Expert Recommendations</u></a></li>
 </ul></div>
 

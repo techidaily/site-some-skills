@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Scrolling Through Engaging YouTube Remarks for 2024"
-date: 2024-08-21T01:14:05.681Z
-updated: 2024-08-22T01:14:05.681Z
+date: 2025-03-01T00:29:14.455Z
+updated: 2025-03-05T16:51:07.041Z
 tags: 
   - screen-recording
   - ai video
@@ -63,14 +63,8 @@ Given how many students have smartphones, video is an excellent medium for conne
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to See Liked Comments on YouTube?
 
 YouTube is a service that is available for free, and it may be a terrific place for teenagers to find interest. Many young people use YouTube to watch comedy shows, how-to videos, recipes, hacks, and music videos. Teenagers also use the video-sharing platform to subscribe to other YouTubers and famous personalities and to follow their favorite vloggers (video bloggers).
@@ -87,24 +81,14 @@ But, if you want to retrace the videos you commented on and the videos/comments 
 
 Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![find your data in youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-your-data-in-youtube.jpg)
 
 Step2 Scroll down a little bit and click the **More** button.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![your youtube dashboard more](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-dashboard-more.jpg)
 
 Step3 Click the **Comments** section.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![click comments your youtube dashboard](https://images.wondershare.com/filmora/article-images/2022/11/click-comments-your-youtube-dashboard.jpg)
 
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
@@ -131,9 +115,6 @@ This article tells you that you can't see who liked or disliked a comment, but y
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Respond to Comments
 
 Don't ignore someone who has questioned you or written you a heartfelt note. Keep the conversation (and engagement) going by responding to comments.
@@ -166,9 +147,6 @@ Because understanding how to comment is only one aspect of the issue; very impor
 
 Try making a joke, pointing out something amusing, providing helpful information, or expressing sympathy or concern for a fan. Additionally, a simple thumbs-up or heart can go a long way to demonstrate that you are paying attention even if you aren't feeling very friendly (we all have bad days, it's OK!).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Did you know what a Highlighted comment is?
 
 A highlighted comment on YouTube aims to draw the content creator's attention with an automated feature.
@@ -182,7 +160,6 @@ Additionally, video creators can manually highlight commenters to mark them for 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -206,8 +183,24 @@ Additionally, video creators can manually highlight commenters to mark them for 
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-regular-are-youtube-monetization-payments-for-2024/"><u>[New] How Regular Are YouTube Monetization Payments for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-how-to-do-screen-recording-on-iphone-easily-in-2024/"><u>[New] How to Do Screen Recording on Iphone Easily, In 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-syma-x8c-feature-analysis/"><u>[New] Syma X8C Feature Analysis</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-syncing-images-and-footage-on-iphone/"><u>[New] Syncing Images and Footage on iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-complete-guide-transforming-movie-visuals-using-standardized-luts-from-cg-central/"><u>[New] The Complete Guide Transforming Movie Visuals Using Standardized Luts From CG Central</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-srt-in-depth-with-this-guidebook/"><u>[New] Understanding SRT in Depth with This Guidebook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleash-your-inner-comedy-with-gif-mastery/"><u>[New] Unleash Your Inner Comedy with GIF Mastery</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-uncovering-old-footage-iphone-video-reversal-guide/"><u>[Updated] 2024 Approved Uncovering Old Footage IPhone Video Reversal Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-beginners-ultimate-gear-list-for-film-shooting-for-2024/"><u>[Updated] Beginner's Ultimate Gear List for Film Shooting for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-splitstream-analysis-top-video-camera-champion-for-2024/"><u>[Updated] SplitStream Analysis Top Video Camera Champion for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-complete-manual-on-deleting-a-defunct-linkedin-profile/"><u>[Updated] The Complete Manual on Deleting a Defunct LinkedIn Profile</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-using-zoom-features-in-gmail-emails/"><u>[Updated] The Ultimate Guide to Using Zoom Features in Gmail Emails</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-photomontage-artisans-blueprint/"><u>2024 Approved The PhotoMontage Artisan's Blueprint</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-tecno-spark-20-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Tecno Spark 20 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-color-transformation-an-expert-written-by-dr-jane-smith/"><u>In 2024, The Art of Color Transformation An Expert' Written by Dr. Jane Smith</u></a></li>
+<li><a href="https://win-special.techidaily.com/step-by-step-guide-identifying-and-fixing-hard-drive-problems-with-yl-software-yl-computing/"><u>Step-by-Step Guide: Identifying & Fixing Hard Drive Problems with YL Software - YL Computing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Realme 11 Pro? | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Identify Your Windows 11 Edition & Anniversary Updates with Ease
-date: 2025-02-15T21:52:05.166Z
-updated: 2025-02-17T06:23:23.968Z
+date: 2025-03-04T02:34:04.271Z
+updated: 2025-03-05T20:59:20.641Z
 tags:
   - desktop
 categories:
@@ -17,19 +17,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [How to Check Windows Version with the Settings App](https://vimeo-videos.techidaily.com/elevating-your-work-with-impeccable-thumbnails/)
 * [Find Your Windows Edition and Build Number with the Winver Dialog](https://digital-screen-recording.techidaily.com/updated-troubleshooting-common-obs-issues/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
  Open the Settings app, then navigate to System > About to display all of the information about your Windows version. Alternatively, open the Start Menu, then enter "winver" in the search bar to quickly display basic information about your Windows installation.
 
  You may not have really thought about Windows build numbers in the past unless it was part of your job to do so. Here's how to find out what build—and edition and version—of Windows 10 you're running.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What Do Build Versions Mean?
 
@@ -39,19 +31,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  In addition to builds, there also are still different editions of Windows 10—Home, Professional, Enterprise, and so on—with different features.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Check Windows Version with the Settings App
 
  The new Settings app also offers build, edition, and version information in a user-friendly form. Hit Windows+i to open Settings. In the Settings window, navigate to System > About. Scroll down a bit and you'll see the information you're after.
 
 ![Open the Settings app, then go to System; About to display information about your Windows version.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-7.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Navigate to System > About and scroll down. You'll see the "Version" and "Build" numbers here.
 
@@ -65,10 +49,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  You can also use the old standby Windows Version (winver) tool to find some of this information. Hit Start, type "winver," and then press Enter. You could also press Windows Key + R, type **winver** into the Run dialog, and press Enter.
 
 ![Search for 'winver' in the Start Menu search, then click the result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-winver.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The second line in the "About Windows" box tells you which version and build of Windows 10 you have. Remember, the version number is in the form YYMM—so 1607 means the 7th month of 2016\. A couple of lines down, you'll see the edition of Windows 10 you're using—Windows 10 Pro in our example.
 
@@ -93,18 +73,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-subtle-sonic-reduction-in-the-world-of-audio-editing/"><u>[Updated] Subtle Sonic Reduction in the World of Audio Editing</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-10-christian-church-streaming-platforms-essential-discoveries/"><u>[Updated] Top 10 Christian Church Streaming Platforms Essential Discoveries</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-vivas-multimedia-potential/"><u>[Updated] Unlocking Viva's Multimedia Potential</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-secrets-to-a-successful-fb-giveaway/"><u>[Updated] Unveiling the Secrets to a Successful FB Giveaway</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-step-by-step-guide-importing-audio-for-inshot-edits/"><u>2024 Approved Step-by-Step Guide Importing Audio for InShot Edits</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-traveling-lens-quieter-assistant-360/"><u>2024 Approved Traveling Lens Quieter Assistant 360°</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/efficient-dvd-and-video-transformation-tools-by-digiarty-software/"><u>Efficient DVD & Video Transformation Tools by Digiarty Software</u></a></li>
-<li><a href="https://games-able.techidaily.com/expert-tactics-for-playing-pokemon-games-on-iphoneipad/"><u>Expert Tactics for Playing Pokémon Games on iPhone/iPad</u></a></li>
-<li><a href="https://program-issues.techidaily.com/halo-infinite-pc-instability-solutions-no-more-disruptions/"><u>Halo Infinite PC Instability Solutions - No More Disruptions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-adding-effects-in-tiktok-videos/"><u>In 2024, The Ultimate Guide to Adding Effects in TikTok Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-vanguard-20-top-anime-song-starters/"><u>In 2024, Vanguard 20 Top Anime Song Starters</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/yt-microphone-match-wallet-friendly-finds-and-favorites-for-2024/"><u>YT Microphone Match Wallet-Friendly Finds & Favorites for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/harting-a-course-to-riches-youtubes-monetary-milestones/"><u>[New] Charting a Course to Riches YouTube's Monetary Milestones</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-understanding-ip-instagram-melody-rights/"><u>[New] In 2024, Understanding IP Instagram Melody Rights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-the-underrated-downsides-of-vr/"><u>[New] Understanding the Underrated Downsides of VR</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-the-potential-a-comprehensively-curated-list-of-nft-creating-engines/"><u>[Updated] Unleash the Potential A Comprehensively Curated List of NFT-Creating Engines</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-the-full-potential-of-zoom-with-youtube-live/"><u>[Updated] Unlocking the Full Potential of Zoom with YouTube Live</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-mystery-phantoms-temporal-expansion-capabilities/"><u>[Updated] Unlocking the Mystery Phantom’s Temporal Expansion Capabilities</u></a></li>
+<li><a href="https://win11.techidaily.com/building-a-win-11-usb-fastest-and-simplest-methods-for-3-ways/"><u>Building a Win 11 USB: Fastest and Simplest Methods for 3 Ways</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-issues-how-to-prevent-genshin-impact-from-continuously-crashing-on-your-pc/"><u>Fixing Issues: How to Prevent Genshin Impact From Continuously Crashing on Your PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transformative-visual-experiences-with-tiktok-enhancements/"><u>In 2024, Transformative Visual Experiences with TikTok Enhancements</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-the-potential-effective-pip-use-on-microsoft-edge-browser/"><u>In 2024, Unleash the Potential Effective PIP Use on Microsoft Edge Browser</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-photos-efficiency-through-shortcuts/"><u>Unlocking Windows Photos Efficiency Through Shortcuts</u></a></li>
 </ul></div>
 

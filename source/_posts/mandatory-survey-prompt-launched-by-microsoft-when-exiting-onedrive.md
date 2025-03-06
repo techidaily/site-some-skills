@@ -1,7 +1,7 @@
 ---
 title: Mandatory Survey Prompt Launched by Microsoft When Exiting OneDrive
-date: 2025-02-12T05:21:16.587Z
-updated: 2025-02-17T05:34:18.804Z
+date: 2025-03-01T21:44:08.685Z
+updated: 2025-03-06T00:20:28.379Z
 tags:
   - deals
 categories:
@@ -17,10 +17,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Microsoft's clingy behavior continues to annoy Windows users. Last month, the company introduced an optional [pop-up survey](https://article-files.techidaily.com/2024-approved-the-ultimate-guide-for-implementing-look-up-tables-in-creative-suite/) that's triggered when installing Chrome from Edge. Now, Windows users are being hit with a _mandatory_ survey when they try to _close_ OneDrive.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  UPDATE: 2023/11/10 10:11 EST BY ANDREW HEINZMAN
 
 **_Statement from Microsoft_** 
@@ -30,10 +26,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  The survey pop-up, which was first noticed by [Neowin](https://www.neowin.net/news/microsoft-wont-let-you-close-onedrive-in-windows-without-you-explaining-it-first/), warns that data cannot be synced to the cloud when OneDrive is closed. On its own, this warning may be useful to some people, as Microsoft doesn't provide a clear-cut "quit" button for the OneDrive application. To close OneDrive, you need to right-click the OneDrive icon in your system tray, click the settings cog that shows up in the OneDrive panel, and select "pause syncing." You can also kill OneDrive in the Task Manager, but in any case, it's hard to tell when you're actually quitting the application.
 
 ![The "quit OneDrive" popup prompting a user to complete a survey.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/11-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Neowin](https://www.neowin.net/news/microsoft-wont-let-you-close-onedrive-in-windows-without-you-explaining-it-first/)
 
@@ -68,16 +60,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-inside-a-virtual-reality-device-a-basic-overview/"><u>[New] Inside a Virtual Reality Device A Basic Overview</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-value-for-vendors-and-viewers-through-youtuber-sponsorship/"><u>[Updated] Unlocking Value for Vendors and Viewers Through YouTuber Sponsorship</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-efficiency-in-video-editing-with-these-top-10-apps/"><u>2024 Approved Unlocking Efficiency in Video Editing with These Top 10 Apps</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/1728465045590-windows/"><u>迷失在 Windows 系統中？重建被移除的下載文件方法</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-it-honor-magic-6-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Honor Magic 6 Pro Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-realme-11-proplus-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-through-virtual-realms-with-headgear/"><u>In 2024, Navigating Through Virtual Realms with Headgear</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-pivotal-8-image-packs-for-elevated-mac-aesthetics/"><u>In 2024, Pivotal 8 Image Packs for Elevated Mac Aesthetics</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-quick-tips-how-to-record-and-keep-a-transcript-of-your-google-voice-calls/"><u>In 2024, Quick Tips How to Record and Keep a Transcript of Your Google Voice Calls</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-step-by-step-placing-titles-on-video-clips-with-windows-photos/"><u>In 2024, Step-by-Step Placing Titles on Video Clips with Windows Photos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/synchronizing-airwaves-for-audience-gain-for-2024/"><u>Synchronizing Airwaves for Audience Gain for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-unleash-gaming-potential-using-obs-recording-features/"><u>[New] In 2024, Unleash Gaming Potential - Using OBS Recording Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-terracore-pros-fusion-of-touch-and-high-definition/"><u>[New] TerraCore Pros Fusion of Touch & High Definition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tomorrows-critique-varied-solutions/"><u>[New] Tomorrow’s Critique Varied Solutions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-mastering-the-art-of-acquiring-facebooks-prestigious-blue-badge/"><u>[Updated] In 2024, Mastering the Art of Acquiring Facebook's Prestigious Blue Badge</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-innovative-igtv-editor-apps-for-creative-vertical-content-for-2024/"><u>[Updated] Innovative IGTV Editor Apps for Creative Vertical Content for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-compilation-of-samsungs-picture-editing-capabilities/"><u>[Updated] The Ultimate Compilation of Samsung's Picture Editing Capabilities</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-power-of-magix-clip-studio/"><u>[Updated] Unveiling the Power of MAGIX Clip Studio</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-the-secrets-essential-tiktok-video-editing-techniques/"><u>2024 Approved Unlock the Secrets Essential TikTok Video Editing Techniques</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-messages-from-apple-iphone-11-pro-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Messages From Apple iPhone 11 Pro to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-hot-40-pro-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Infinix Hot 40 Pro Phone without Any Data Loss</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-ios-video-editing-made-easy-the-top-5-apps/"><u>In 2024, IOS Video Editing Made Easy The Top 5 Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-iphone-hdr-mastery/"><u>In 2024, The Ultimate Guide to iPhone HDR Mastery</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-the-setup-a-guide-to-downloading-and-installing-arduino-nano-drivers-on-your-windows-computer/"><u>Mastering the Setup: A Guide to Downloading and Installing Arduino Nano Drivers on Your Windows Computer</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/take-control-with-kinemaster-a-compreayer-guide-to-android-gameplay/"><u>Take Control with KineMaster A Compreayer Guide to Android Gameplay</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Launching Admin Command Prompt on Windows 10"
-date: 2025-02-15T07:04:13.636Z
-updated: 2025-02-16T23:00:49.302Z
+date: 2025-02-27T01:56:32.419Z
+updated: 2025-03-05T19:38:03.087Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 ---
 
 ## Step-by-Step Guide: Launching Admin Command Prompt on Windows 10
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -33,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 
 ![Search &quot;Command Prompt&quot; in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/05/Search-Command.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When you launch the Command Prompt with admin privileges, you'll likely see a "[User Account Control](https://extra-support.techidaily.com/new-proven-techniques-for-amplifying-tiktok-unboxing-success/)" window asking for permission to continue. Go ahead and click "Yes."
 
 ![Click &quot;Yes&quot; when prompted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/05/cpa_2.png) 
@@ -47,29 +39,17 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 
  If you've set up Windows Terminal on Windows 10 the window may look a little different from our screenshot. It isn't a problem, and it won't affect any commands you try to run. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Run Command Prompt as Admin with the Run Box
 
  If you're used to using the "Run" box to open apps, you can use that to launch Command Prompt with admin privileges. Press Windows+R to open the "Run" box. Type "cmd" into the box and then press Ctrl+Shift+Enter to run the command as an administrator.
 
 ![Cmd in a run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-cmd-via-run.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Open Command Prompt as Admin with the Power User Menu
 
  Windows 10 offers a "power user" menu that you can access by pressing Windows+X or just right-clicking the Start button. In the power user menu, choose "Command Prompt (Admin)."
 
 ![Right-click the Start Menu button or press Windows+X, then click &quot;Command Prompt.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/05/from-the-power-user-menu.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You'll probably see PowerShell instead of Command Prompt unless you're using a really old version of Windows 10\. The [Creators Update for Windows 10](https://hardware-help.techidaily.com/exploring-technology-with-tom-your-trusted-source-for-hardware-insights-and-reviews/) swapped PowerShell for Command Prompt in the Power User menu, but you can [switch back to Command Prompt](https://video-screen-grab.techidaily.com/updated-in-2024-gameboy-advance-mastered-android-emulator-selection/) if you want. Ideally, you should give [PowerShell](https://techno-recovery.techidaily.com/x-men-film-series-viewing-guide-the-ultimate-sequence/) a try — it can do most everything Command Prompt can, and a ton of additional useful things.
 
@@ -90,24 +70,19 @@ thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d251
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-ratings.techidaily.com/reprendre-la-sauvegarde-individuelle-de-lhistorique-via-time-machine-sur-un-nouveau-mac-guide-complet-en-deux-methodes/"><u>« Reprendre La Sauvegarde Individuelle De L'historique via Time Machine Sur Un Nouveau Mac : Guide Complet en Deux Méthodes »</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-navigating-through-peak-fluid-gaming-titles-for-2024/"><u>[New] Navigating Through Peak Fluid Gaming Titles for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-8-selections-of-subtitle-editors-making-srt-on-windowsmac-a-breeze/"><u>[New] Top 8 Selections of Subtitle Editors Making SRT on Windows/Mac a Breeze</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-venture-into-virtuality-critical-reviews-of-tech/"><u>[New] Venture Into Virtuality - Critical Reviews of Tech</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-outstanding-10-screenshot-and-recording-titles-for-gamers/"><u>[Updated] 2024 Approved Outstanding 10 Screenshot and Recording Titles for Gamers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-snappy-zoom-calls-for-improved-engagement/"><u>[Updated] Snappy Zoom Calls for Improved Engagement</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-sunny-side-up-videography-for-android/"><u>[Updated] Sunny Side-Up Videography for Android</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-cinematic-revolution-exploring-the-best-shots-and-lighting-tips-24-edition/"><u>[Updated] The Cinematic Revolution Exploring the Best Shots & Lighting Tips - '24 Edition</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-share-wide-enhancing-instagram-stories-with-youtube-content/"><u>2024 Approved Share Wide Enhancing Instagram Stories With YouTube Content</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-dawn-of-distinctive-filmmaking-with-vr/"><u>2024 Approved The Dawn of Distinctive Filmmaking with VR</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-blueprint-for-obtaining-premium-visuals-for-free/"><u>2024 Approved The Essential Blueprint for Obtaining Premium Visuals for Free</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-simple-guide-making-your-windows-computer-speak-like-a-fish/"><u>2024 Approved The Simple Guide Making Your Window's Computer Speak Like a Fish</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oneplus-nord-n30-se-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-atandt-apple-iphone-14-pro-max-with-3-methods-by-drfone-ios/"><u>How to Unlock AT&T Apple iPhone 14 Pro Max with 3 Methods</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-exploring-online-collaboration-google-meet/"><u>In 2024, Exploring Online Collaboration Google Meet</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-360-live-streaming-cameras-for-youtube-and-facebook-you-should-know/"><u>In 2024, Top 360 Live Streaming Cameras for Youtube and Facebook You Should Know</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-screen-pip-tutorials-for-macos-enthusiasts/"><u>In 2024, Transform Your Screen PIP Tutorials for macOS Enthusiasts</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-tecno-pop-7-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Tecno Pop 7 Pro? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-visionarys-list-the-finest-26-video-to-text-converters-available-for-2024/"><u>The Visionary’s List The Finest 26 Video-to-Text Converters Available for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-socialsoundify-twitter-videos-to-audio/"><u>[New] SocialSoundify Twitter Videos to Audio</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-next-step-after-vlc-top-media-players-reviewed/"><u>[New] The Next Step After VLC - Top Media Players Reviewed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-network-transmission-power-with-vlc/"><u>[New] Unlocking Network Transmission Power with VLC</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-from-camera-to-feed-instagram-video-upload-on-desktop-for-2024/"><u>[Updated] From Camera to Feed Instagram Video Upload on Desktop for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-superior-selection-ultimate-cloud-storage-picks/"><u>2024 Approved Superior Selection Ultimate Cloud Storage Picks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-your-gpt-experience-with-a-well-chosen-vpn/"><u>Enhance Your GPT Experience with a Well-Chosen VPN?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-vivo-y55s-5g-2023-by-drfone-android/"><u>How to Show Wi-Fi Password on Vivo Y55s 5G (2023)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/hues-and-highlights-editing-techniques-for-impact/"><u>Hues & Highlights Editing Techniques for Impact</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-reviving-brands-through-customer-video-appeals/"><u>In 2024, Reviving Brands Through Customer Video Appeals</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sparkle-with-style-animating-text-in-your-insta-stories/"><u>In 2024, Sparkle with Style Animating Text in Your Insta Stories</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-new-firmware-netgear-a6100-driver-update-instructions-for-windows-users/"><u>Installing New Firmware: Netgear A6100 Driver Update Instructions for Windows Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-zlibdll-not-found-troubles-essential-tips-and-techniques/"><u>Overcoming zlib.dll Not Found Troubles: Essential Tips and Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-breakdown-xstudio-video-production-mastery-for-2024/"><u>The Ultimate Breakdown XStudio Video Production Mastery for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/be-studio-audit-earnings-review-for-2024/"><u>YouTube Studio Audit Earnings Review for 2024</u></a></li>
 </ul></div>
 

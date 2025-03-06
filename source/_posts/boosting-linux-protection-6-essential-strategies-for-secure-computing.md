@@ -1,7 +1,7 @@
 ---
 title: "Boosting Linux Protection: 6 Essential Strategies for Secure Computing"
-date: 2025-02-14T21:19:32.373Z
-updated: 2025-02-16T21:02:18.966Z
+date: 2025-02-28T01:20:32.074Z
+updated: 2025-03-05T23:33:53.519Z
 tags:
   - desktop
 categories:
@@ -21,10 +21,6 @@ Cybersecurity can be confusing. Here are six easy things you can do, and habits 
 
  Some of these are settings you can apply, but some of them are habits you need to adopt, or actions that need to be repeated periodically. As you’ve likely heard, cybersecurity isn’t a destination, it’s an ongoing journey.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1  Keep Your System Updated 
 
  All non-trivial software has bugs. Some bugs can lead to vulnerabilities. Vulnerabilities are weak spots in your armor. These vulnerabilities are exploited by cybercriminals. A common attack type uses malicious software, known as malware.
@@ -38,10 +34,6 @@ Cybersecurity can be confusing. Here are six easy things you can do, and habits 
  Don’t forget to apply patches to your applications too, not just the operating system. Pay special attention to internet browser patches. If you can, also apply updates and patches to _devices_ such as your broadband router, Internet of Things devices, and your tablets and smartphones.
 
  Some of these devices will get automatic updates. For example, Amazon Echo and Google Nest smart speakers receive automatic updates for four and five years from purchase, respectively.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2  Secure User Accounts 
 
@@ -57,29 +49,17 @@ Hannah Stryker / How-To Geek
 
  You can add two-factor authentication to your own computers too. this is especially valuable if you connect to them remotely, using SSH.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3  Control User Access 
 
  We’ve already mentioned that each user should have their own unique log in and user account. The other golden rule is to use a regular user account for normal user tasks. Only use the root account for system administration.
 
  Most Linux systems disable the root account by default. To access root-level functionality you need to use sudo or run0\. This gives you short-term superuser status then demotes you to a normal user when you’ve completed that specific task.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4  Improve Your Network Security 
 
 [Turn on the firewall](https://extra-support.techidaily.com/new-mastering-video-playback-rate-adjustments-in-snapchat/) in your Linux distribution, and turn on the one in your broadband router too. Use WPA2 or WPA3 encryption for your wireless network, and change the Wi-Fi password from the default, if you can.
 
  Many modern Wi-Fi routers allow you to configure a [guest Wi-Fi network](https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-itel-p55-by-drfone-android/). This allows them to get to the internet, but isolates them from your main network.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5  Check Your Software Management 
 
@@ -118,17 +98,18 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-strategies-for-eye-catching-podcast-previews/"><u>[New] Strategies for Eye-Catching Podcast Previews</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-churn-memetic-content-for-gif-hub/"><u>[Updated] 2024 Approved Churn Memetic Content for GIF Hub</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-first-moments-that-foster-interest-in-audios/"><u>[Updated] First Moments that Foster Interest in Audios</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-comprehensible-guide-to-dji-inspire-2/"><u>[Updated] The Comprehensible Guide to DJI Inspire 2</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-power-of-video-enhancer-22-for-professionals/"><u>[Updated] Unveiling the Power of Video Enhancer 2.2 for Professionals</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-versatile-tips-for-avoiding-vr-motion-sickness/"><u>2024 Approved Versatile Tips for Avoiding VR Motion Sickness</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/1724313688388-cookiebot-driven-marketing-automation-solutions/"><u>Cookiebot-Driven Marketing Automation Solutions</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/professionals-choice-an-in-depth-look-at-the-dji-mavic-2-pro-dominating-the-drone-industry/"><u>Professional's Choice: An In-Depth Look at the DJI Mavic 2 Pro Dominating the Drone Industry</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-photo-customization-exclusive-list-of-stickers-for-ios-and-android-devices-for-2024/"><u>Top Photo Customization Exclusive List of Stickers for iOS & Android Devices for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/topview-assessment-report-for-2024/"><u>TopView Assessment Report for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-how-to-get-resident-evil-5-running-again-on-pc/"><u>Troubleshooting Tips: How to Get Resident Evil 5 Running Again on PC</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/uncomplicated-steps-for-archiving-gotomeeting-dialogues-for-2024/"><u>Uncomplicated Steps for Archiving GoToMeeting Dialogues for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-dawn-of-a-new-era-key-fb-ad-trends-arriving-for-2024/"><u>[New] The Dawn of a New Era Key FB Ad Trends Arriving for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-science-behind-sharing-memes-unveiled/"><u>[New] The Science Behind Sharing Memes Unveiled</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-8-top-collaborative-video-collage-tools-on-android-affordable/"><u>[New] The Ultimate 8 Top Collaborative Video Collage Tools on Android (Affordable)</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-into-the-humor-hub-of-the-world-wide-web-metaverse-memes-101/"><u>2024 Approved Into the Humor Hub of the World Wide Web - Metaverse Memes 101</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-lifeline-for-gaming-ensuring-persistent-connection-of-your-ps4-controller-in-windows/"><u>A Lifeline for Gaming: Ensuring Persistent Connection of Your PS4 Controller in Windows</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/animate-on-the-go-top-free-mobile-apps-for-3d-animation-enthusiasts-for-2024/"><u>Animate On-the-Go Top Free Mobile Apps for 3D Animation Enthusiasts for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Vivo S17t? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-toshiba-drivers-complete-guide-for-windows/"><u>Download & Install Toshiba Drivers: Complete Guide for Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-samsung-galaxy-a54-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Samsung Galaxy A54 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-save-your-android-and-mac-snapchat-footage-effectively/"><u>In 2024, Save Your Android & Mac Snapchat Footage Effectively</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-the-power-of-voice-ms-words-speech-recognition-features/"><u>In 2024, Unleashing the Power of Voice MS Word's Speech Recognition Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mac-display-multiplication-instructions-for-setting-up-connected-secondary-screen/"><u>Mac Display Multiplication: Instructions for Setting Up Connected Secondary Screen</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-picks-in-affordable-home-cinema-setups-with-4k-for-2024/"><u>Top Picks in Affordable Home Cinema Setups with 4K for 2024</u></a></li>
 </ul></div>
 

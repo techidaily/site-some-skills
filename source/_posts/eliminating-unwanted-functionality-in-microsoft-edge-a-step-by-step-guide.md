@@ -1,7 +1,7 @@
 ---
 title: "Eliminating Unwanted Functionality in Microsoft Edge: A Step-by-Step Guide"
-date: 2025-02-11T16:08:08.935Z
-updated: 2025-02-16T16:53:46.655Z
+date: 2025-03-05T00:41:21.177Z
+updated: 2025-03-05T18:11:26.770Z
 tags:
   - deals
 categories:
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 * Additionally, you should customize the appearance of the Edge browser and disable all unnecessary web services.
 
  Despite being the market leader, Google Chrome still can't beat Microsoft Edge for me. However, the abundance of unnecessary features often clutters the simple browsing experience I'm looking for. If you're like me, here's how to remove all the clutter from Edge.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Remove Clutter From Edge Home Page
 
@@ -60,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 
 ![Startup Boost option in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/startup-boost-option-in-edge.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Change the Look Of Your Edge Browser
 
  Microsoft Edge has plenty of settings that allow you to change the overall look of the browser. While these settings can beautify the browser, enabling each one puts some extra load on your computer and takes it one step away from being a normal, simple-looking browser. Therefore, you should disable all those settings to get a better browsing experience on Edge.
@@ -76,17 +68,9 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 
 ![Tab Action menu in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/tab-action-menu-in-edge.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To do that, open the Edge Settings menu, select "Appearance," and disable the "Show Tab Actions Menu" toggle on the right. You should also disable the "Show Tab Preview on Hover" toggle, as it shows a [preview of the tabs](https://remote-screen-capture.techidaily.com/the-evolution-of-video-capturing-insights-into-the-latest-apeaksoft-software/) when you hover over them. I really can't find any use case for this feature and I don't think anyone ever actually hovers over a tab to view its content, as the content will be too small to see.
 
 ![Show tab action menu option in Edge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/show-tab-action-menu-option-in-edge.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The next section you should edit in the Edge browser is its toolbar. By default, the Edge toolbar contains a lot of unnecessary options like [Collections](https://twitter-videos.techidaily.com/updated-in-2024-how-to-deafen-silent-tweets-impact/) that you're rarely going to use. It's better to get rid of those options and only keep the necessary ones. I would recommend disabling the toggle for all these options:
 
@@ -101,17 +85,9 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 
 ![Favorites button in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/favorites-button-in-edge.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Furthermore, you should also disable [Workspaces](https://extra-approaches.techidaily.com/2024-approved-smooth-sailing-with-kinemaster-in-film-edits/). It lets you organize open tabs into different categories. This feature is primarily for advanced users like project leaders or those who need to demonstrate Edge features to a large team. If you use Edge for general browsing, you should disable the "Show Workspaces" toggle.
 
 ![Show Workspaces toggle in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/show-workspaces-toggle-in-edge.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Adjust Edge Web Services
 
@@ -142,20 +118,16 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-essential-guide-to-mixing-linktree-and-tiktok-bios/"><u>[New] The Essential Guide to Mixing Linktree and TikTok Bios</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-expertise-in-virtual-assessment-vll-of-apps/"><u>[Updated] Expertise in Virtual Assessment VLL of Apps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-skys-the-limit-with-husqvarnas-x4-drone/"><u>2024 Approved The Sky's the Limit with Husqvarna's X4 Drone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-kinemaster-guide-to-green-screening/"><u>2024 Approved The Ultimate KineMaster Guide to Green Screening</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/about-realme-narzo-n53-frp-bypass-by-drfone-android/"><u>About Realme Narzo N53 FRP Bypass</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Nokia C300 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-apple-iphone-15-pro-online-without-jailbreak-by-drfone-ios/"><u>In 2024, How to Unlock SIM Card on Apple iPhone 15 Pro online without jailbreak</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-cinematic-revolution-exploring-the-best-shots-and-lighting-tips-24-edition/"><u>In 2024, The Cinematic Revolution Exploring the Best Shots & Lighting Tips - '24 Edition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-potential-of-gopro-for-time-lapse-artistry/"><u>In 2024, Unlocking the Potential of GoPro for Time Lapse Artistry</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-metro-exodus-pc-gameplay-interruptions-avoidance-of-frequent-crashes-and-freezes/"><u>Overcoming Metro Exodus PC Gameplay Interruptions: Avoidance of Frequent Crashes and Freezes</u></a></li>
-<li><a href="https://extra-information.techidaily.com/renewal-of-windows-photo-viewer-two-efficient-methods-in-windows-10/"><u>Renewal of Windows Photo Viewer Two Efficient Methods in Windows 10</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-on-hooking-up-the-nintendo-switch-to-a-tv-set/"><u>Step-by-Step Tutorial on Hooking Up the Nintendo Switch to a TV Set</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-windows-10s-video-creation-capabilities-for-2024/"><u>The Ultimate Guide to Windows 10'S Video Creation Capabilities for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/unstuck-your-windows-11-touchscreen-discover-these-5-fixes-to-get-it-working-again/"><u>Unstuck Your Windows 11 Touchscreen: Discover These 5 Fixes to Get It Working Again</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/your-gateway-to-classic-games-best-in-class-5gb-advance-emulators-compatible-with-pcs/"><u>Your Gateway to Classic Games Best-in-Class 5GB Advance Emulators Compatible with PCs</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-interlace-snaps-a-guide-to-crafting-picture-panoramas-for-2024/"><u>[New] Interlace Snaps A Guide to Crafting Picture Panoramas for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-exploring-soft-cessation-of-audio-tracks-with-audacity/"><u>[Updated] 2024 Approved Exploring Soft Cessation of Audio Tracks with Audacity</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-motorola-moto-g73-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-get-the-latest-intel-me-driver-for-windows-users-on-version-11-81-or-7/"><u>How to Get the Latest Intel ME Driver for Windows Users on Version 11, 8.1, or 7</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-strategic-utilization-of-azure-voice-to-text-capabilities/"><u>In 2024, Strategic Utilization of Azure Voice-to-Text Capabilities</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-title-transformations-beyond-standard-styles/"><u>In 2024, Title Transformations Beyond Standard Styles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-images-with-ease-learn-snapseed-today/"><u>In 2024, Transforming Images with Ease Learn Snapseed Today</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/quicktweet-clip-swiftly-gather-social-media-vids-for-2024/"><u>QuickTweet Clip Swiftly Gather Social Media Vids for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/synopsis-of-vllo-consumer-voices-for-2024/"><u>Synopsis of VLLO Consumer Voices for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199748711-unresolved-tackle-the-unexpected-store-exception-error-on-your-windows-10-machine-today/"><u>Unresolved? Tackle the Unexpected Store Exception Error on Your Windows 10 Machine Today!</u></a></li>
 </ul></div>
 

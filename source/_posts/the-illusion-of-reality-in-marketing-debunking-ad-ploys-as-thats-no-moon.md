@@ -1,7 +1,7 @@
 ---
 title: "The Illusion of Reality in Marketing: Debunking Ad Ploys as 'That’s No Moon'"
-date: 2025-01-31T19:31:01.099Z
-updated: 2025-02-07T16:32:31.291Z
+date: 2025-03-02T00:48:11.699Z
+updated: 2025-03-05T17:43:02.538Z
 tags:
   - cutting-edge
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/3371d97eae392c322e9b82d456ad7eef262a0a211
 ---
 
 ## The Illusion of Reality in Marketing: Debunking Ad Ploys as 'That’s No Moon'
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -32,10 +28,6 @@ Related: [The 5-Foot-long Keyboard from Google Japan is Almost a Sword](https://
 
  "In this case, an advertisement appears as a constellation of bright artificial stars formed into an image that can be observed in clear night sky for several minutes."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How it Works
 
  The paper entitled ["Satellite Formation Flying for Space Advertising: From Technically Feasible to Economically Viable"](https://www.mdpi.com/2226-4310/9/8/419/htm#B6-aerospace-09-00419) contains equations and charts I can't begin to understand, but the general idea is this: The satellite formation would involve placing CubeSats equipped with solar reflectors in a low orbit in unison with the sun's light.
@@ -45,10 +37,6 @@ Related: [The 5-Foot-long Keyboard from Google Japan is Almost a Sword](https://
  As a result, they would be visible from the ground as bright stars, and could be programmed into any formation as quasi space billboards, so "the group of satellites brought into a specific orbital configuration can be seen as a pixel image."
 
  Where you'd normally see something totally not profitable like the beautiful night sky, you may instead see "Taste the Rainbow" or "Drink Coke" or a really rich guy proposing to his girlfriend and getting a "No" via skywriter.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Not the First Plan of this Sort
 
@@ -79,20 +67,21 @@ Related: [We Wanted a Star Trek Replicator and All We Got Was Keurig Machines](h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-composing-a-catchy-tiktok-epilogue/"><u>[New] 2024 Approved Composing a Catchy TikTok Epilogue</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-master-iphone-selfies-naturally-10-best-no-cost-enhancing-apps/"><u>[New] Master iPhone Selfies Naturally 10 Best No-Cost Enhancing Apps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-superior-corporate-space-for-storage/"><u>[New] Superior Corporate Space for Storage</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-5-cloud-voice-editors-for-chrome-os-transforming-your-tone-and-pitch/"><u>[New] Top 5 Cloud Voice Editors for Chrome OS Transforming Your Tone and Pitch</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-vr-films-that-you-should-never-miss/"><u>[New] Top VR Films That You Should Never Miss</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-sculptors-of-immersive-digital-universes/"><u>[Updated] Sculptors of Immersive Digital Universes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-prime-picks-best-storytelling-channels-fans/"><u>[Updated] The Prime Picks Best Storytelling Channels Fans</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-science-of-quantum-hdr-enhancement/"><u>2024 Approved Unveiling the Science of Quantum HDR Enhancement</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boosting-your-career-hunt-with-6-effective-strategies-for-using-chatgpt/"><u>Boosting Your Career Hunt with 6 Effective Strategies for Using ChatGPT</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/descubra-os-melhores-12-aplicativos-de-chat-pela-web-para-pc-e-mac/"><u>Descubra Os Melhores 12 Aplicativos De Chat Pela Web Para PC E Mac</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-flight-with-top-5-hmds-for-drone-racing/"><u>In 2024, Mastering Flight with Top 5 HMDs for Drone Racing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-the-full-potential-with-these-top-6-music-videos-on-android/"><u>In 2024, Unlock the Full Potential with These Top 6 Music Videos on Android</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-fix-hp-officejet-pro-6978-printer-driver-malfunctions/"><u>Step-by-Step Guide to Fix HP OfficeJet Pro 6978 Printer Driver Malfunctions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/titan-p27a2r-180hz-gaming-monitor-evaluation-ultimate-budget-friendly-gear/"><u>Titan P27A2R 180Hz Gaming Monitor Evaluation: Ultimate Budget-Friendly Gear</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-top-rated-online-webm-video-minifiers/"><u>Updated In 2024, Top-Rated Online WebM Video Minifiers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamline-video-management-with-easy-to-follow-time-stamp-tutorials/"><u>[New] Streamline Video Management with Easy-to-Follow Time Stamp Tutorials</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlined-qanda-guide-for-attractive-podcasts/"><u>[New] Streamlined Q&A Guide for Attractive Podcasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tranquil-sleep-soundtrack-expertly-selected-voices/"><u>[New] Tranquil Sleep Soundtrack Expertly Selected Voices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-achieve-financial-success-with-youtube-ad-profit-techniques/"><u>[Updated] In 2024, Achieve Financial Success with YouTube Ad Profit Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harness-the-power-of-playback-speed-control-in-youtube/"><u>[Updated] In 2024, Harness the Power of Playback Speed Control in YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-threefold-way-to-extract-and-save-youtubes-subtitles-srt/"><u>[Updated] The Threefold Way to Extract and Save YouTube's Subtitles (SRT)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ustream-examination-other-options-compared/"><u>[Updated] Ustream Examination Other Options Compared</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-evaluating-wirecast-other-options-to-consider/"><u>2024 Approved Evaluating WireCast Other Options To Consider</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-parrots-next-gen-ar-drone-evaluation/"><u>2024 Approved Parrot's Next-Gen AR Drone Evaluation</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-your-tp-link-wireless-adapter-software-no-price/"><u>Get Your TP Link Wireless Adapter Software, No Price</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-motorola-moto-g34-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Motorola Moto G34 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-trailblazers-in-virtual-reality-content-crafting/"><u>In 2024, Trailblazers in Virtual Reality Content Crafting</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-vr-travel-a-step-by-step-guide-for-2024/"><u>Mastering VR Travel A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/mitigating-isdonedll-isarcextract-crashes-on-w10w11/"><u>Mitigating ISDone.dll (ISArcExtract) Crashes on W10/W11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/next-level-gaming-premium-vr-players-reviewed/"><u>Next-Level Gaming Premium VR Players Reviewed</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-15-plus-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking iPhone 15 Plus Passcode without a Computer | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Kickstart Your Workday Effortlessly with a Handy Mac Shortcut!
-date: 2025-02-15T07:56:46.168Z
-updated: 2025-02-16T22:14:57.113Z
+date: 2025-02-28T00:30:24.586Z
+updated: 2025-03-05T20:49:38.829Z
 tags:
   - desktop
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Kickstart Your Workday Effortlessly with a Handy Mac Shortcut!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * This shortcut opens every app and file I use for work, letting me sit back and get ready for the day while it runs.
@@ -22,10 +18,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * To make it easy to find and run, select the option to “Pin in Menu Bar” from the Shortcut Details panel.
 
  I’ve played around with [Apple’s Shortcuts app](https://win-solutions.techidaily.com/expert-tips-for-when-you-cant-get-far-cry-6-running-on-your-desktop/) to create all kinds of complicated processes. But my favorite shortcut, and the one I use the most by far, is actually ridiculously simple. All it does is open all my work apps, but I recommend it to everyone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What Makes This Shortcut So Great
 
@@ -40,10 +32,6 @@ Your browser does not support the video tag.
  And when the day is over, I get to cathartically smash Command+Q, [closing everything on my Mac](https://some-approaches.techidaily.com/2024-approved-top-10-budget-friendly-jpeg-to-gif-conversion-tools-online/) and clearing my head of work at the same time. These little rituals keep me focused and help separate my work and home life.
 
  But enough waxing lyrical about why I love this shortcut, here’s how to try it for yourself. Honestly, it couldn’t be easier.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Create a Shortcut That Opens All Your Work Apps
 
@@ -60,10 +48,6 @@ Close
  Repeat these steps to add a new action for every app or file you use throughout a typical workday. Make sure whatever app or file you want to use first is at the bottom of the list, so it opens after everything else. Just drag and drop the actions if you need to rearrange them.
 
 ![Several actions to open apps in a Mac Shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/several-actions-to-open-apps-in-a-mac-shortcut.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  At the top of the Shortcuts window, type a name for your shortcut. I call mine “Start Working.” Then click the icon to edit the color and symbol if you want. Finally, click the Shortcut Details button in the top-right corner, shown by an “i” button, to choose how to launch this shortcut. I like to enable“Pin to Menu Bar” so I can run it from the menu bar with a couple of clicks, but you could create a keyboard shortcut if you prefer.
 
@@ -90,19 +74,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-visual-virtuoso-enhancing-photos-with-text-os-based-techniques/"><u>[New] The Visual Virtuoso Enhancing Photos with Text, OS-Based Techniques</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-best-youtube-video-reaction-ideas/"><u>[Updated] 2024 Approved Best YouTube Video Reaction Ideas</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-safely-escalate-your-presence-on-the-tiktok-platform/"><u>[Updated] 2024 Approved Safely Escalate Your Presence on the TikTok Platform</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-photos-removing-backdrops-with-ease/"><u>2024 Approved Transform Your Photos Removing Backdrops with Ease</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-images-with-dynamic-mosaic-designs/"><u>2024 Approved Transforming Images with Dynamic Mosaic Designs</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-samsung-galaxy-xcover-7-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-10-mac-exclusive-free-drawing-platforms/"><u>In 2024, Top 10 Mac-Exclusive Free Drawing Platforms</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/protecting-your-videos-easy-steps-for-encoding-mp4-mov-hevc-and-mkv-on-ios-devices-and-desktops/"><u>Protecting Your Videos: Easy Steps for Encoding MP4, MOV, HEVC & MKV on iOS Devices and Desktops</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/proven-best-automobile-jump-starters-of-the-year-2024-comprehensive-ratings-from-industry-veterans-zdnet/"><u>Proven Best Automobile Jump Starters of the Year 2024: Comprehensive Ratings From Industry Veterans | ZDNET</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-samsung-galaxy-a15-4g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Samsung Galaxy A15 4G</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tapping-into-community-spirit-a-guide-to-thriving-fb-gifting-campaigns-for-2024/"><u>Tapping Into Community Spirit A Guide to Thriving FB Gifting Campaigns for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-5-display-choices-to-enhance-ps5xbox-playtime-for-2024/"><u>Top 5 Display Choices to Enhance PS5/Xbox Playtime for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshoot-hardware-hitches-making-windows-recognize-your-last-connected-usb-device/"><u>Troubleshoot Hardware Hitches: Making Windows Recognize Your Last Connected USB Device</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-put-headsphones-on-and-record-new-auditory-elements-through-windows-video-editor-platform/"><u>Updated In 2024, Put Headsphones On & Record New Auditory Elements Through Windows Video Editor Platform</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-secrets-to-more-likes-on-your-tiktok-unpacks-for-2024/"><u>[New] Secrets to More Likes on Your TikTok Unpacks for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-final-cut-professionals-guide-to-top-10-plug-ins/"><u>[New] The Final Cut Professional's Guide to Top 10 Plug-Ins</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-financial-lifeline-of-podcasting/"><u>[New] The Financial Lifeline of Podcasting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-innovations-in-podcast-titling-with-ai-assistants/"><u>[New] Top Innovations in Podcast Titling with AI Assistants</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-zooid-design-starter-packs/"><u>[New] Ultimate Zooid Design Starter Packs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-complete-guide-to-record-desktop-screen-on-windows-for-free-3-ways-for-2024/"><u>[Updated] Complete Guide to Record Desktop Screen on Windows for Free [3 Ways] for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-videotwit-hatcher-harvest-tweets-visuals-for-ios-devices/"><u>[Updated] In 2024, VideoTwit Hatcher Harvest Tweets' Visuals for iOS Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-power-of-prolonged-shutter-iphone-burst-mode/"><u>2024 Approved The Power of Prolonged Shutter IPhone Burst Mode</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-best-free-video-player-vlc-versus-mpc/"><u>2024 Approved Unveiling the Best Free Video Player VLC versus MPC</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-oppo-a78-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/decoding-dynamic-range-sdr-vs-hdr-in-cinematic-workflows-for-2024/"><u>Decoding Dynamic Range SDR Vs. HDR in Cinematic Workflows for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/fusionslideshow-crafting-video-plus-image-narratives/"><u>FusionSlideshow Crafting Video + Image Narratives</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/mastering-file-transfer-in-windows-11-a-comprehensive-guide-to-using-xcopy/"><u>Mastering File Transfer in Windows 11: A Comprehensive Guide to Using Xcopy</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-edit-suite-apps-and-devices-tools-listed-for-2024/"><u>Top Edit Suite (Apps & Devices) Tools Listed for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/icks-8-mirrorless-cameras-that-shine-in-vlogs-for-2024/"><u>Top Picks 8 Mirrorless Cameras That Shine in Vlogs for 2024</u></a></li>
 </ul></div>
 

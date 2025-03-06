@@ -1,7 +1,7 @@
 ---
 title: "Mastering the 'History' Function in Linux: A Step-by-Step Guide"
-date: 2025-02-10T02:52:47.684Z
-updated: 2025-02-16T21:58:03.949Z
+date: 2025-03-05T01:54:24.620Z
+updated: 2025-03-05T23:23:31.245Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/61cd3f9de3e328bf4fd572ae53f8d259727451f01
 ---
 
 ## Mastering the 'History' Function in Linux: A Step-by-Step Guide
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -38,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/61cd3f9de3e328bf4fd572ae53f8d259727451f01
 
  The `history` command eliminates those issues. Like most Linux commands, [there's more to it than you might think](http://man7.org/linux/man-pages/man1/bash.1.html#HISTORY). However, if you learn how to use the `history` command, it can improve your use of the Linux command line, every single day. It's a good investment of your time. There are far better ways to use the `history` command than just [hitting the Up arrow repeatedly](https://video-capture.techidaily.com/the-leading-8-linux-programs-for-screenshots/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The history Command
 
  In its simplest form, you can use the `history` command by just typing its name:
@@ -54,10 +46,6 @@ history
 
 ![Output from history in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/2-10.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The commands are numbered, with the most recently used (those with the highest numbers) at the end of the list.
 
  To see a certain number of commands, you can pass a number to `history` on the command line. For example, to see the last 10 commands you've used, type the following:
@@ -65,10 +53,6 @@ history
 history 10
 
 ![history 10 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/3-7.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can achieve the same result if you [pipe](https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-pro-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/) `history` through the [tail command](http://man7.org/linux/man-pages/man1/tail.1.html). To do so, type the following:
 
@@ -162,10 +146,6 @@ sudo !!
 
 ![gedit launched by a Ctrl+r search command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/16-4.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To edit a command before you execute it, press either the Left or Right arrow key.
 
 ![Ctrl+r search in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/17-2.png) 
@@ -179,10 +159,6 @@ sudo !!
 history | grep aliases
 
 ![history | grep aliases in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/19-3.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Modifying the Last Command
 
@@ -246,10 +222,6 @@ history -w
 
 ![history -w in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/23-3.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Clearing the History List
 
  To clear all commands from the history list, you can use the `-c` (clear) option, as follows:
@@ -291,10 +263,6 @@ history 5
 
  The command with the password isn't added to the history list. The reason this trick works is contained within the `.bashrc` file.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The .bashrc File
 
  The `.bashrc` file executes each time you log in or open a terminal window. It also contains some values that control the behavior of the `history` command. Let's [edit this file with gedit](https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-passcode-without-computer-drfone-by-drfone-ios/).
@@ -322,10 +290,6 @@ gedit .bashrc
  Also near the top of the file, you see an entry for the `HISTCONTROL` value.
 
 ![HISTCONTROL entry n the .bashrc file in gedit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/31b.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can set this value to do any of the following:
 
@@ -377,10 +341,6 @@ export HISTTIMEFORMAT="%d n%m %T "
 
 ![history list with timestamps in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/32-2.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If we remove the day and month, though, it will just show the time.
 
  Any changes you make to `HISTIMEFORMAT` apply themselves to the entire history list. This is possible because the time for each command is stored as the [number of seconds from the Unix epoch](https://en.wikipedia.org/wiki/Unix%5Ftime). The `HISTTIMEFORMAT `directive simply specifies the format used to render that number of seconds into a human-readable style, such as:
@@ -418,19 +378,21 @@ export HISTTIMEFORMAT="%T "
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-unleashing-musical-talent-with-magix-studio/"><u>[New] 2024 Approved Unleashing Musical Talent with Magix Studio</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-essential-webcam-methods-for-powerpoint-recordings/"><u>[New] Essential Webcam Methods for PowerPoint Recordings</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-superior-5-iphones-for-podcasting-pleasure/"><u>[New] Superior 5 iPhones for Podcasting Pleasure</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-synchronized-success-audio-meets-visual-in-films/"><u>[New] Synchronized Success Audio Meets Visual in Films</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-premier-photography-frame-selection-24/"><u>[New] The Premier Photography Frame Selection '24</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-innovative-approaches-for-podcast-cover-art-mastery/"><u>[Updated] Innovative Approaches for Podcast Cover Art Mastery</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/movavimpegamv/"><u>「MovaviでスムーズなMPEGへの無料オンラインAMV変換」</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-clear-cut-strategy-for-image-border-management-on-canva/"><u>2024 Approved The Clear-Cut Strategy for Image Border Management on Canva</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tranquil-acoustic-settings-on-computers/"><u>2024 Approved Tranquil Acoustic Settings on Computers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-look-at-what-is-dts-virtual-x/"><u>A Comprehensive Look at What Is DTS Virtual: X?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-realme-c55-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Realme C55? | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/post-with-a-podcast-highlight-moment-for-2024/"><u>Post with a Podcast Highlight Moment for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-10-great-substitutes-for-chatgpt-enhanced-ai-options/"><u>Top 10 Great Substitutes for ChatGPT: Enhanced AI Options</u></a></li>
-<li><a href="https://some-skills.techidaily.com/understanding-macos-11-big-sur-transition-tips-for-2024/"><u>Understanding macOS 11 Big Sur Transition Tips for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-planning-a-dynamic-tiktok-outro-experience-for-2024/"><u>[New] Planning a Dynamic TikTok Outro Experience for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-strategic-approach-to-crafting-youtube-content-headlines/"><u>[New] Strategic Approach to Crafting YouTube Content Headlines</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-techniques-to-weave-narrative-into-visual-content/"><u>[New] Techniques to Weave Narrative Into Visual Content</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-2023-how-to-download-facebook-status-videos/"><u>[Updated] In 2024, 2023 | How to Download Facebook Status Videos?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlining-speech-to-text-processing-in-powerpoint/"><u>[Updated] Streamlining Speech-To-Text Processing in Powerpoint</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-beginners-pathway-to-custom-vocalization-expert-tips-on-modifying-sounds-free/"><u>[Updated] The Beginner's Pathway to Custom Vocalization Expert Tips on Modifying Sounds (Free)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-perfect-process-iphones-podcast-downloading-technique/"><u>[Updated] Unveiling the Perfect Process IPhone's Podcast Downloading Technique</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-youtube-snippets-guide-essential-insights-unveiled/"><u>[Updated] YouTube Snippets Guide Essential Insights Unveiled</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-usb-c-revolution-in-monitors-hp-envy-27s-journey/"><u>2024 Approved USB-C Revolution in Monitors HP Envy 27'S Journey</u></a></li>
+<li><a href="https://win-answers.techidaily.com/crash-no-more-effective-strategies-to-stabilize-your-rust-applications/"><u>Crash No More: Effective Strategies to Stabilize Your Rust Applications</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-12-mini-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 12 mini Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-15-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 15 without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-how-to-time-your-instagram-content-for-max-engagement/"><u>In 2024, How to Time Your Instagram Content For Max Engagement</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-creativity-harnessing-the-full-potential-of-movie-maker-windows-8/"><u>In 2024, Unleashing Creativity Harnessing the Full Potential of Movie Maker (Windows 8)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-amazon-fire-hd-10-kids-edition-exceptional-kid-friendly-safeguards/"><u>In-Depth Analysis of Amazon Fire HD 10 Kids Edition: Exceptional Kid-Friendly Safeguards</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamlined-social-integration-linktree-and-tiktok-profiles-united-for-2024/"><u>Streamlined Social Integration Linktree and TikTok Profiles United for 2024</u></a></li>
 </ul></div>
 

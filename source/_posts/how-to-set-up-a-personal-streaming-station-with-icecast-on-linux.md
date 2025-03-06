@@ -1,7 +1,7 @@
 ---
 title: How to Set Up a Personal Streaming Station with Icecast on Linux
-date: 2025-02-13T02:22:13.968Z
-updated: 2025-02-17T06:48:12.900Z
+date: 2025-03-01T00:55:01.008Z
+updated: 2025-03-05T22:05:53.450Z
 tags:
   - desktop
 categories:
@@ -70,10 +70,6 @@ sudo dnf install icecast
 
 ![Terminal window showing the vim command to edit icecast.xml on Fedora](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-install-2.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The default configuration is well-thought-out for most simple installations like ours. Icecast developers recommend the best practice of changing as little as possible, and fine-tune afterwards to suit your needs.
 
  First, change passwords from their defaults:
@@ -84,27 +80,15 @@ sudo dnf install icecast
 
 ![Editor with icecast icecast.xml open, showing bind-address to edit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-install-2.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Save the configuration file, then restart Icecast for our changes to take effect:
 
 ![Terminal window showing the command to restart Icecast, applying new configuration](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/9-install.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Let's verify that we're up and running:
 
 sudo systemctl status icecast.service
 
 ![Terminal window using systemctl command to verify Icecast daemon is running](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/11-install-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Great! Now that Icecast is up, let's get started on our source client.
 
@@ -145,17 +129,9 @@ ePirat / Xiph.org Foundation
 
 ![BUTT dialog window showing main settings and to save configuration](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/butt-3.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  From here you can close the "Settings" window. When you're ready, click on the "Play" button, which will start your stream. If you've configured everything correctly, you'll currently be making your server's radio stream debut!
 
 ![BUTT main window actively streaming to Icecast](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/butt-4.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Cool! Now let's log into the Icecast web UI at "http://LAN\_IP:8000/admin/" and enter "admin" for the username along with your configured Icecast admin password:
 
@@ -164,10 +140,6 @@ ePirat / Xiph.org Foundation
  Select "Mountpoint List" from the main Admin page:
 
 ![Browser window showing Icecast administration section](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ff-2.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Copy the "M3U" hyperlink:
 
@@ -185,10 +157,6 @@ ePirat / Xiph.org Foundation
 
  Do you hear your stream? That's Icecast at work.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Additional Configuration
 
  Icecast has many advanced features. Some of them are:
@@ -204,10 +172,6 @@ ePirat / Xiph.org Foundation
  These features and more are very well explained in the [official Icecast documentation](https://www.icecast.org/docs/).
 
  You can also use [port forwarding](https://facebook-videos.techidaily.com/new-in-2024-converting-stored-content-into-real-time-livestreams-on-social-media/) to access your stream from outside your local network.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Promoting Your Station
 
@@ -230,20 +194,16 @@ ePirat / Xiph.org Foundation
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-transformative-file-conversion-your-quick-srt-to-text-txt-guide/"><u>[Updated] 2024 Approved Transformative File Conversion Your Quick SRT to Text (TXT) Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transform-imaging-expertise-in-adobes-high-dynamic-range/"><u>[Updated] Transform Imaging Expertise in Adobe's High Dynamic Range</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-venturing-into-new-realities-best-metaverse-headsets-guide/"><u>[Updated] Venturing Into New Realities Best Metaverse Headsets Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-make-brands-see-you-as-a-valuable-youtube-sponsorship-candidate/"><u>2024 Approved How to Make Brands See You as a Valuable Youtube Sponsorship Candidate</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cost-free-treasure-hunts-finding-gorgeous-tiktok-backdrops-for-2024/"><u>Cost-Free Treasure Hunts Finding Gorgeous TikTok Backdrops for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Realme C55? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-playbook-to-conquer-spotify-advertising/"><u>In 2024, The Complete Playbook to Conquer Spotify Advertising</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-playbook-for-attracting-hundred-thousand-on-youtube/"><u>In 2024, The Ultimate Playbook for Attracting Hundred Thousand on YouTube</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-new-dimensions-in-physical-interaction-tech/"><u>In 2024, Unlocking New Dimensions in Physical Interaction Tech</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-14-dynamic-text-animation-samples/"><u>In 2024, Unveiling 14 Dynamic Text Animation Samples</u></a></li>
-<li><a href="https://article-helps.techidaily.com/mastering-live-streaming-for-peak-engagement/"><u>Mastering Live Streaming for Peak Engagement</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/review-value-packed-caixun-75-4k-android-television-experience/"><u>Review: Value Packed Caixun 75 4K Android Television Experience</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/today-in-virtual-reality-hardware/"><u>Today in Virtual Reality Hardware</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-honor-x50-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Honor X50 Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-the-full-potential-of-speech-recognition-in-ms-word-for-efficient-documentation-for-2024/"><u>Unlocking the Full Potential of Speech Recognition in MS Word for Efficient Documentation for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-allure-vs-warnings-of-virtual-reality-worlds/"><u>[New] The Allure vs Warnings of Virtual Reality Worlds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-role-of-workspace-dynamics-in-employee-output/"><u>[New] The Role of Workspace Dynamics in Employee Output</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-list-best-7-camcorders-for-waterproof-use/"><u>[New] The Ultimate List Best 7 Camcorders for Waterproof Use</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-expert-techniques-in-game-recording-via-obs/"><u>[Updated] Expert Techniques in Game Recording via OBS</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-navigating-the-nuances-of-simplified-live-streaming/"><u>[Updated] In 2024, Navigating the Nuances of Simplified Live Streaming</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ing-the-course-to-trending-youtubers/"><u>Charting the Course to Trending YouTubers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-airwaves-to-your-iphone-mastery-of-podcast-downloads/"><u>From Airwaves to Your iPhone Mastery of Podcast Downloads</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-vivo-y77t-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Vivo Y77t Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-the-power-of-spotifys-ad-platform-for-marketers/"><u>In 2024, Unleashing the Power of Spotify's Ad Platform for Marketers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-vantage-point-critique/"><u>In 2024, Vantage Point Critique</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-make-your-pictures-speak-online-with-the-best-tools-recommended/"><u>New Make Your Pictures Speak Online With the Best Tools Recommended</u></a></li>
 </ul></div>
 

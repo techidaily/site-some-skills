@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Substituting Characters with Line Breaks Using Notepad++
-date: 2025-02-13T16:01:10.455Z
-updated: 2025-02-16T23:04:22.104Z
+date: 2025-02-27T18:24:23.036Z
+updated: 2025-03-06T01:05:02.071Z
 tags:
   - deals
 categories:
@@ -22,10 +22,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  If you have a list of values in a text file separated by a character (such as a comma or pipe) but would rather have each item on its own line, you can do the newline conversion automatically in Notepad++. Here's how.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Convert Any Character into a Newline with Notepad++
 
  Notepad++ includes a feature to replace any separator in your text files with a [newline character](https://en.wikipedia.org/wiki/Newline), which is a special invisible character that signifies the end of a line and the beginning of a new one. So if you have, say, a list of comma-separated values (for example: "Windows, iPhone, Mac, Android"), you can put each item in the list on a new line.
@@ -39,10 +35,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  In the Notepad++ window, open the text file that includes the list that you want to convert. Alternately, you can paste your item list on a line.
 
 ![A Notepad++ window showing a comma-separated list](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/paste-items-list.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Next, click the "Search" menu and select "Replace." Alternately, you can press Ctrl+H on your keyboard.
 
@@ -58,23 +50,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Replace window in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/convert-comma-new-line.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  And just like magic, each item in your list will now be on its own line.
 
 ![New-line separated list in Notepad++](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/comma-new-line.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you want to reverse the process, just open Search > Replace in the menu again. In the "Find What" box, enter "\\n". In the Replace with box, type the character that you want to replace it with. Make sure "Extended" is selected and click "Replace All," and your list will go back to being separated by a standard character, such as a comma or pipe.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Convert a Newline Character into Any Other Separator
 
@@ -125,24 +105,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-blueprint-for-an-intriguing-videography-script/"><u>[New] Blueprint for an Intriguing Videography Script</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-how-to-make-instagram-slow-motion-video/"><u>[New] In 2024, How to Make Instagram Slow Motion Video</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-syncing-scenes-merging-pc-and-cloud-images/"><u>[New] Syncing Scenes Merging PC & Cloud Images</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-checklist-for-using-firefoxs-popup-window/"><u>[New] The Ultimate Checklist for Using Firefox's Popup Window</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-chromes-picture-in-picture-feature/"><u>[New] The Ultimate Guide to Chrome's Picture In Picture Feature</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-screenplay-crafting-site/"><u>[New] Ultimate Screenplay Crafting Site</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-satirize-a-guide-to-parody-production-for-2024/"><u>[Updated] How to Satirize A Guide to Parody Production for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-lg-360-camera-update-revolutionary-tech-and-features-reviewed-for-2024/"><u>[Updated] LG 360 Camera Update Revolutionary Tech and Features Reviewed for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-proactive-zoom-meeting-strategies-for-improved-skype-interactions/"><u>[Updated] Proactive Zoom Meeting Strategies for Improved Skype Interactions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-power-of-free-enhancing-your-obs-studio-projects-using-luts/"><u>[Updated] The Power of Free Enhancing Your OBS Studio Projects Using LUTs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-fastest-way-to-scan-windows-files/"><u>2024 Approved The Fastest Way to Scan Windows Files</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unmatched-mobileweb-image-magnification-toolkit/"><u>2024 Approved Unmatched Mobile/Web Image Magnification Toolkit</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-infinix-note-30-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Infinix Note 30 5G? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-insiders-guide-to-professional-grade-editing-in-windows-10/"><u>In 2024, The Insider's Guide to Professional-Grade Editing in Windows 10</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlicensed-zen-audio-streaming/"><u>In 2024, Unlicensed Zen Audio Streaming</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-power-of-photos-a-comprehensive-polarr-guide-for-2024/"><u>Unveiling the Power of Photos A Comprehensive Polarr Guide for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/windows-11-audio-recording-techniques/"><u>Windows 11 Audio Recording Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-perfect-pals-and-plotlines-the-10-best-family-flicks/"><u>[New] Perfect Pals and Plotlines The 10 Best Family Flicks</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nderstanding-youtubes-user-interaction-options/"><u>[New] Understanding YouTube's User Interaction Options</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-thriving-onscreen-financial-growth-in-the-youtube-arena/"><u>[Updated] 2024 Approved Thriving Onscreen Financial Growth in the YouTube Arena</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-from-static-to-sprightly-bouncing-text-animations-for-2024/"><u>[Updated] From Static to Sprightly Bouncing Text Animations for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-cinematographers-codex-top-shot-tips-for-the-year-2024-filmography/"><u>[Updated] The Cinematographer’s Codex Top Shot Tips for the Year 2024 Filmography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-spotify-marketing-manual-strategies-and-tactics/"><u>[Updated] The Ultimate Spotify Marketing Manual Strategies and Tactics</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-seamless-capture-and-share-iphone-to-snapchat-backup-guide/"><u>2024 Approved Seamless Capture & Share IPhone to Snapchat Backup Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/airpods-isolated-cure-strategies/"><u>Airpods Isolated? Cure Strategies</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-noobs-manual-to-saving-streaming-radio-lines/"><u>In 2024, The Noob's Manual to Saving Streaming Radio Lines</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-venture-into-the-future-the-lg-360-vr-headset-explored/"><u>In 2024, Venture Into the Future The LG 360 VR Headset Explored</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-safe-the-potential-pitfalls-of-downloading-chatgpt-on-macos/"><u>Is It Safe? The Potential Pitfalls of Downloading ChatGPT on macOS</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-h265-hevc-video-on-motorola-moto-g84-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Motorola Moto G84 5G</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-apple-m1-breakdown-a-glimpse-into-the-future-for-2024/"><u>The Apple M1 Breakdown A Glimpse Into the Future for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-blueprint-for-incorporating-dynamic-narrations-in-media-for-2024/"><u>The Blueprint for Incorporating Dynamic Narrations in Media for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-photographers-path-to-perfected-colors-for-2024/"><u>The Photographer's Path to Perfected Colors for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Easily Setting Up & Controlling Fonts on macOS"
-date: 2025-02-16T04:16:02.356Z
-updated: 2025-02-17T04:03:25.117Z
+date: 2025-02-26T19:12:11.045Z
+updated: 2025-03-06T00:58:18.179Z
 tags:
   - desktop
 categories:
@@ -23,27 +23,15 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
  We'll guide you through Font Book on Mac, your go-to tool for managing and organizing your font collection. You’ll learn how to install, tweak, and deactivate fonts.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  What Fonts Does macOS Support?
 
  macOS Sonoma can handle many font types, like OpenType, Mac TrueType, Windows TrueType, bitmap, and dfont. As of macOS Catalina, Mac doesn't support PostScript fonts.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to View Your Fonts in Font Book
 
  The Font Book app is your go-to tool for checking out the fonts you have, adding new ones, organizing them into collections, and turning them on or off. Open it through your Applications folder, or select the Launchpad icon in your Dock and find the Font Book icon there.
 
 ![Selecting Font Book from Launchpad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-6.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Font Book can show your fonts in different views:
 
@@ -75,19 +63,11 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
  Avoid going overboard with font installations. Installing more fonts than you actually use can lead to sluggish performance in certain apps and create an overwhelming font menu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  How to Install Fonts for All Users
 
  By default, Font Book installs new fonts just for your account. They reside in the invisible Library folder "/Users/Home/Library/Fonts". But, if you want all users on your Mac to have access to the fonts, go to Font Book > Settings > Installation. Select the "Default Install Location" menu and choose "All Users." This setting shares your fonts in the main folder "/Library/Fonts".
 
 ![Selecting All Users from Font Book's Installation menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-12-at-2-55-14-pm.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Deactivate or Remove a Font
 
@@ -106,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
  To create a font collection in Font Book, go to File > New Collection or right-click on the sidebar and choose "New Collection." If the sidebar is not visible, go to View > Show Sidebar.
 
 ![Creating a new font collection.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-24-at-1-07-32-am.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Select the fonts you want to include in your collection (you can choose them from an existing collection, if needed.) To do that, click and drag to highlight multiple fonts, or use the Command key to select non-contiguous fonts. Then, drag the fonts to the collection, or right-click and use the "Add to" menu.
 
@@ -140,22 +116,16 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-from-video-views-to-vault-closure-income-insights-for-youtubers/"><u>[New] In 2024, From Video Views to Vault Closure Income Insights for Youtubers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-essential-guide-for-perfecting-crossfade-artistry-with-audacity/"><u>[New] The Essential Guide for Perfecting Crossfade Artistry with Audacity</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-twitch-time-warp-strategies/"><u>[New] Twitch Time Warp Strategies</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-the-truth-apples-face-id-against-samsung-writers-face-matching/"><u>[New] Unveiling the Truth Apple's Face ID Against Samsung’ Writers' Face-Matching</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-innovative-10-solutions-for-seamless-video-background-swapping-for-2024/"><u>[Updated] Innovative 10 Solutions for Seamless Video Background Swapping for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-economics-of-successful-podcasting/"><u>[Updated] The Economics of Successful Podcasting</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-ultimate-list-of-accessibility-8-premium-free-mp3-grabber-apps-android/"><u>[Updated] Ultimate List of Accessibility 8 Premium Free MP3 Grabber Apps (Android)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-understanding-seconds-for-a-20mb-movie/"><u>[Updated] Understanding Seconds for a 20MB Movie</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-spectrum-of-present-use-to-future-drones-potential/"><u>2024 Approved The Spectrum of Present Use to Future Drones' Potential</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-ultimate-slow-motion-showcase-on-instagrams-trendy-reels/"><u>2024 Approved The Ultimate Slow Motion Showcase on Instagram's Trendy Reels</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-8-hubs-for-3d-graffiti-typefaces/"><u>2024 Approved Top 8 Hubs for 3D Graffiti Typefaces</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/entendendo-o-formato-divx-tudo-sobre-arquivos-e-como-abrange-los/"><u>Entendendo O Formato DivX: Tudo Sobre Arquivos E Como Abrangê-Los</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-cameras-for-circular-coverage/"><u>In 2024, Innovative Cameras for Circular Coverage</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tailoring-your-podcast-content-with-seo-in-mind/"><u>In 2024, Tailoring Your Podcast Content with SEO in Mind</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-poco-x5-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Poco X5 Device</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-change-from-pin-based-logon-to-password-logon-in-windows-11/"><u>Navigating the Change From PIN-Based Logon to Password Logon in Windows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-iphone-xs-advanced-photography-tools-for-2024/"><u>Unveiling iPhone X's Advanced Photography Tools for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-perfecting-the-art-of-capturing-spoken-words-digitally/"><u>[New] 2024 Approved Perfecting the Art of Capturing Spoken Words Digitally</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-path-of-peacefulness-how-to-gently-dim-music-tracks/"><u>[New] The Path of Peacefulness How To Gently Dim Music Tracks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-10-accessory-hits-for-sj-series-drivers/"><u>[New] Top 10 Accessory Hits for SJ-Series Drivers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-innovative-cloud-storage-options-in-2s024/"><u>2024 Approved Unveiling Innovative Cloud Storage Options in 2S024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fastest-on-ice-olympic-highlights-in-short-track-events/"><u>In 2024, Fastest on Ice Olympic Highlights in Short Track Events</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-maiden-shoot-revelations-and-critique/"><u>In 2024, Maiden Shoot Revelations and Critique</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/melodic-moments-to-augment-your-status/"><u>Melodic Moments to Augment Your Status</u></a></li>
+<li><a href="https://extra-support.techidaily.com/shattering-limits-of-visuals-standard-definition-to-hdr-revolution-for-2024/"><u>Shattering Limits of Visuals Standard Definition to HDR Revolution for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-notch-tricks-to-nail-every-green-screen-shot-for-2024/"><u>Top-Notch Tricks to Nail Every Green Screen Shot for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/ultimate-tutorial-from-webp-to-jpeg/"><u>Ultimate Tutorial From WebP to JPEG</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-and-utilizing-phantoms-time-dilation-for-2024/"><u>Understanding and Utilizing Phantom’s Time-Dilation for 2024</u></a></li>
 </ul></div>
 

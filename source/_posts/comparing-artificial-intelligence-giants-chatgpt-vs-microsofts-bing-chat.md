@@ -1,7 +1,7 @@
 ---
 title: "Comparing Artificial Intelligence Giants: ChatGPT Vs. Microsoft's Bing Chat"
-date: 2025-02-09T23:26:09.838Z
-updated: 2025-02-16T22:44:10.323Z
+date: 2025-03-03T23:56:22.371Z
+updated: 2025-03-05T21:12:47.663Z
 tags:
   - cutting-edge
 categories:
@@ -24,19 +24,11 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
 
  ChatGPT and Bing Chat are both changing at a rapid rate, and neither chatbot provides the same exact answer for a given prompt on each attempt. Your results may vary with the prompts used here.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Usability and Access
 
  Bing Chat and ChatGPT are both available for anyone who signs up with an account, though Bing makes you join a "waitlist" first, which immediately grants acess. Both chatbots have web versions available, except Bing's site blocks every browser except Microsoft Edge without workarounds. You can use Bing Chat with a Microsoft account at [bing.com/new](https://www.bing.com/new), and we have an explainer for [how to use ChatGPT](https://extra-resources.techidaily.com/new-capture-clarity-editing-insights-for-professional-results/).
 
 ![Asking Bing for its favorite color](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-31-at-4.37.08-PM.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Bing Chat on the web
 
@@ -48,10 +40,6 @@ Bing Chat on the web
 
  The web interface for ChatGPT and Bing Chat are similar, but with minor differences that change their usefulness. ChatGPT is designed to take in more data, such as longer blocks of code or large code samples. As of April 2023, Bing limits prompts to 2,000 characters, while ChatGPT's limit is much higher (and not officially stated).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Factual Accuracy
 
  ChatGPT does not have the ability to index the web in real-time for information -- though that will eventually be possible with [the use of plugins](https://fox-glue.techidaily.com/new-in-2024-begin-your-editing-journey-adopting-movie-maker-for-w11/). It's limited to the training data in its model, which dates back to September 2021\. OpenAI also doesn't like to share how its data was collected, or how it is tested for accuracy, and so on. Bing is also based on the same GPT technology, but it usually prefers results from the web over training data.
@@ -60,19 +48,11 @@ Bing Chat on the web
 
 ![ChatGPT answering the UK capital and how many stars are on the US flag](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-3.52.48-PM.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  For example, I tried asking both bots, **"Which state capitals in the United States start with the letter A?"** That seems simple, but is still a multi-step process -- first you need a list of all the capitals, then you need to filter it down to ones that start with the letter A. Wikipedia [counts](https://en.wikipedia.org/wiki/List%5Fof%5Fcapitals%5Fin%5Fthe%5FUnited%5FStates#State%5Fcapitals) five in total: [Albany](https://en.wikipedia.org/wiki/Albany,%5FNew%5FYork), [Annapolis](https://en.wikipedia.org/wiki/Annapolis,%5FMaryland), [Atlanta](https://en.wikipedia.org/wiki/Atlanta), [Augusta](https://en.wikipedia.org/wiki/Augusta,%5FMaine), and [Austin](https://en.wikipedia.org/wiki/Austin,%5FTexas). Bing Chat answered the question correctly, citing several web pages that list capitals in the United States. ChatGPT... had some problems.
 
  First, ChatGPT gave me a list of four capitals: Albany, Annapolis, Atlanta, and Augusta. After that, it said, "There is also Austin, which is the capital of Texas, but it does not start with the letter A." Asking the same question multiple times sometimes left out the mention of Austin entirely. Asking why Austin is missing caused ChatGPT to remember Austin exists and apologize for the error, but it's unclear why it broke with the initial answer.
 
 ![The state capitals in the United States that start with the letter A are Albany (New York), Annapolis (Maryland), Atlanta (Georgia), Augusta (Maine) and Austin (Texas)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-4.03.20-PM.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _Bing Chat_
 
@@ -85,10 +65,6 @@ _Bing Chat_
  ChatGPT gets this question right, including the order of countries and the dates. Bing does [correctly mention](https://sl.bing.net/biFM9KrRAzs) that Croatia was the most recent member states, but it lists Slovenia and Malta as the other two countries. Both Slovenia and Malta both joined on May 1, 2004, [at the same time as eight other nations](https://en.wikipedia.org/wiki/2004%5Fenlargement%5Fof%5Fthe%5FEuropean%5FUnion), but that was well before Bulgaria and Romania in 2007.
 
 ![The state capitals in the United States that start with the letter A are Albany (New York), Annapolis (Maryland), Atlanta (Georgia), Augusta (Maine) and Austin (Texas)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-4.03.20-PM.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _Bing Chat_
 
@@ -151,24 +127,20 @@ Bing Chat on the web
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-microsofts-glimpse-into-augmented-reality-the-hololens-journey/"><u>[New] Microsoft’s Glimpse Into Augmented Reality – The HoloLens Journey</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-leveraging-snapchat-for-professional-networking-and-sales/"><u>[Updated] In 2024, Leveraging Snapchat for Professional Networking & Sales</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-profound-overview-a-full-look-at-bublcam-360-technology/"><u>[Updated] In 2024, Profound Overview A Full Look at Bublcam 360 Technology</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-invisible-broadcasts-anonymous-instagram-live-tips/"><u>[Updated] Invisible Broadcasts Anonymous Instagram Live Tips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-mi-drone-4k-experience/"><u>[Updated] The Ultimate Guide to Mi Drone 4K Experience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-top-tiktok-edit-techniques-for-max-impact/"><u>[Updated] Unveiling Top TikTok Edit Techniques for Max Impact</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-updated-interview-playbook-for-audience-allure/"><u>[Updated] Updated Interview Playbook for Audience Allure</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unbeatable-5-photo-backdrop-switchers-for-x8-series/"><u>2024 Approved Unbeatable 5 Photo Backdrop Switchers for X/8 Series</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-xiaomi-13t-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Xiaomi 13T to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-list-premier-iphone-tone-producers/"><u>In 2024, Ultimate List Premier iPhone Tone Producers</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-video-cataloging-mastery-perfecting-playlists-on-youtube-platform/"><u>In 2024, Video Cataloging Mastery Perfecting Playlists on YouTube Platform</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/nhl-19-gaming-experience-evaluation-exceptional-virtual-matches/"><u>NHL '19 Gaming Experience Evaluation: Exceptional Virtual Matches</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-gaming-made-easy-effective-solutions-for-common-fifa-19-stability-problems/"><u>PC Gaming Made Easy: Effective Solutions for Common FIFA 19 Stability Problems</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/streamline-sound-integration-into-premiere-pro-edits-for-2024/"><u>Streamline Sound Integration Into Premiere Pro Edits for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tailored-techniques-for-dynamic-gifs-for-2024/"><u>Tailored Techniques for Dynamic GIFs for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/techniques-for-accelerating-playback-on-spotify-for-2024/"><u>Techniques for Accelerating Playback on Spotify for 2024</u></a></li>
-<li><a href="https://win-community.techidaily.com/1728500057222-win11/"><u>Win11的自動系統復原方法 - 詳盡設置流程與操作手冊</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/dding-value-instructional-design-of-youtube-alerts-and-annotations/"><u>[New] Adding Value Instructional Design of YouTube Alerts & Annotations</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-android-gaming-delight-with-kinemaster-app-explored/"><u>[New] Android Gaming Delight with KineMaster App Explored</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-unlocking-the-power-of-voice-notes-masterclass/"><u>[New] In 2024, Unlocking the Power of Voice Notes Masterclass</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essential-guide-to-using-supplementary-film-scenes/"><u>[New] The Essential Guide to Using Supplementary Film Scenes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-8-video-transformation-tools-from-iphone-to-file/"><u>[New] Top #8 Video Transformation Tools From iPhone to File</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-photo-your-display-windows-781011-style-for-2024/"><u>[Updated] Photo Your Display Windows 7/8/10/11 Style for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-best-meme-templates/"><u>[Updated] Top 10 Best Meme Templates</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-magic-behind-shooting-images-with-iphones-hdr/"><u>[Updated] Unveiling the Magic Behind Shooting Images with iPhone’s HDR</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-mystery-of-free-graphic-imagery/"><u>[Updated] Unveiling the Mystery of Free Graphic Imagery</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-film-grading-with-cg-centrals-look-up-tables/"><u>2024 Approved Streamlining Film Grading with CG Central's Look-Up Tables</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/chromatic-shift-strategies-for-skilled-alteration/"><u>Chromatic Shift Strategies for Skilled Alteration</u></a></li>
+<li><a href="https://win-latest.techidaily.com/expert-tips-best-strategies-for-resolving-iphone-update-issues-ranked-1-7/"><u>Expert Tips: Best Strategies for Resolving iPhone Update Issues, Ranked #1-#7</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-checklist-for-compelling-audio-intros/"><u>In 2024, The Ultimate Checklist for Compelling Audio Intros</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-ios-emulators-reviving-classic-psp-game-experiences-2023-guide-for-2024/"><u>Top iOS Emulators Reviving Classic PSP Game Experiences - 2023 Guide for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-samsung-galaxy-a14-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Samsung Galaxy A14 5G FRP Bypass</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up a Swap Space in Linux"
-date: 2025-02-11T00:28:12.491Z
-updated: 2025-02-17T05:21:50.831Z
+date: 2025-03-01T01:14:12.346Z
+updated: 2025-03-05T17:14:00.712Z
 tags:
   - desktop
 categories:
@@ -68,10 +68,6 @@ free -h
 
 ![fre -h  in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/1-5.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The output from `free` shows that there is no swap space configured on this machine.
 
  Swap is never discussed without RAM and free RAM cropping up. So it's worth noting that the free RAM is given as 237 MB. Don't mistake that for the total of RAM available for use. That value is provided by the "available" figure, which is 881 MB.
@@ -84,17 +80,9 @@ swapon --show
 
 ![swapon --show in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/2-8.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If there is no output from this command, there's no swap configured.
 
  If these commands had revealed some swap space is already configured, the size of the existing swap space should be factored into decisions regarding the size of the swap file you're going to create.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How Much Swap Space Do I Need?
 
@@ -137,10 +125,6 @@ sudo dd if=/dev/zero of=/swapfile bs=1024 count=1048576
 
 ![output from sudo dd if=/dev/zero of=/swapfile bs=1024 count=1048576 in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/6-8.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  We can see the number of blocks (records) that were written to the file, the size of the file, the time taken to create the file, and the effective data transfer rate.
 
  Use the `ls` command to see the file in the root directory:
@@ -149,14 +133,6 @@ ls /
 
 ![ls / in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/7-7.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Preparing the Swap File
 
  We need to [prepare the swap file](http://man7.org/linux/man-pages/man8/mkswap.8.html) with the `mkswap` command before it can be used. We don't need to provide any parameters to `mkswap` other than the path and name of the file:
@@ -164,10 +140,6 @@ ls /
 sudo mkswap /swapfile
 
 ![sudo mkswap /swapfile in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/8-7.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The file is prepared for use as a swap file. Note the warning about file permissions. We'll need to change those so that the root user is the only one who can read and write to the swap file.
 
@@ -222,10 +194,6 @@ swapon --show
 
 ![swapon --show in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/13-3.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The columns are:
 
 * **Name**: The name of the swap partition or swap file.
@@ -251,10 +219,6 @@ swapon -- show
 ![swapon -- show in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/15-2.png) 
 
  The priority of this swap space has been elevated to 10\. Which is proof positive that the options field in the `/etc/fstab` entry is not ignored.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Swap Space Made Easy
 
@@ -299,19 +263,19 @@ swapon --show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-amazing.techidaily.com/free-download-stable-intel-iris-xe-graphics-drivers-for-windows-11-systems/"><u>[Free Download] Stable Intel Iris Xe Graphics Drivers for Windows 11 Systems</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-crafting-a-perfect-power-pair-lipo-and-drones-for-2024/"><u>[New] Crafting a Perfect Power Pair LiPo and Drones for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/iscover-websites-your-gateway-to-youtube-branded-content/"><u>[New] Discover Websites Your Gateway to YouTube Branded Content</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-pro-quality-footage-selecting-the-ultimate-7-cameras-for-2024/"><u>[New] Pro Quality Footage Selecting the Ultimate 7 Cameras for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-step-by-step-approach-to-finding-youtube-collaborators/"><u>[New] Step-by-Step Approach to Finding YouTube Collaborators</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-supreme-reconciliation-of-vr-realms/"><u>[New] Supreme Reconciliation of VR Realms</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-tripod-triumphs-unbeatable-stability-for-phones/"><u>[New] Tripod Triumphs Unbeatable Stability for Phones</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-illuminating-images-techniques-in-color-science-for-2024/"><u>[Updated] Illuminating Images Techniques in Color Science for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-encyclopedia-of-hand-centered-interaction-systems/"><u>[Updated] The Encyclopedia of Hand-Centered Interaction Systems</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-your-day-multitask-mastery-for-the-podcast-aficionado/"><u>2024 Approved Streamline Your Day Multitask Mastery for the Podcast Aficionado</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-comprehending-filmora-edits/"><u>2024 Approved The Ultimate Guide to Comprehending Filmora Edits</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-master-the-craft-of-mega-viewership-growth-5-strategies-for-success/"><u>In 2024, Master the Craft of Mega Viewership Growth 5 Strategies for Success</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-top-8-multi-subtitles-translators-you-can-use/"><u>In 2024, Top 8 Multi-Subtitles Translators You Can Use</u></a></li>
-<li><a href="https://win-lab.techidaily.com/1726227435766-flv-mp4/"><u>제공자가 아닌 FLV 파일을 MP4로 변환 - 오픈소스 앱</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-avatar-design-in-the-metaverse-explained-simply/"><u>[Updated] The Art of Avatar Design in the Metaverse Explained Simply</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlimited-chuckles-craftsmanship-no-monetary-requirement/"><u>[Updated] Unlimited Chuckles Craftsmanship No Monetary Requirement</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-user-insights-on-vllo/"><u>[Updated] User Insights on VLLO</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-realme-12-proplus-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Realme 12 Pro+ 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-oppo-find-n3-flip-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Oppo Find N3 Flip Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-on-iphone-se-2020-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account On iPhone SE (2020)?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-love-in-full-view-discovering-youtube-and-vimeos-top-7-wedding-movies/"><u>In 2024, Love in Full View Discovering Youtube & Vimeo's Top 7 Wedding Movies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-tricks-for-optimizing-windows-11/"><u>In 2024, Top Tricks for Optimizing Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/logo-fault-correction-amd-motherboard-allies-launch-new-bios-updates/"><u>Logo FAULT Correction: AMD Motherboard Allies Launch New BIOS Updates</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-steam-freezing-problems-a-comprehensive-guide/"><u>Overcoming Steam Freezing Problems - A Comprehensive Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tap-into-asmrs-potential-for-emotional-balance-for-2024/"><u>Tap Into ASMR’s Potential for Emotional Balance for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-editing-hacks-for-flawless-image-edits-on-canva-for-2024/"><u>Ultimate Editing Hacks for Flawless Image Edits on Canva for 2024</u></a></li>
+<li><a href="https://win-bits.techidaily.com/will-microsoft-begin-fees-for-windows-10-update-downloads-in-the-following-year-find-out-projected-prices-zdnet/"><u>Will Microsoft Begin Fees for Windows 10 Update Downloads in the Following Year? Find Out Projected Prices - ZDNet</u></a></li>
+<li><a href="https://win-guides.techidaily.com/yl-softwares-collection-of-handcrafted-pastel-indie-designs-for-your-space/"><u>YL Software's Collection of Handcrafted Pastel Indie Designs for Your Space</u></a></li>
 </ul></div>
 

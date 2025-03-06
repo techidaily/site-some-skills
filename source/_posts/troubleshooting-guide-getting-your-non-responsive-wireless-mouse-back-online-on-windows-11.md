@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Getting Your Non-Responsive Wireless Mouse Back Online on Windows 11"
-date: 2025-02-11T06:22:52.131Z
-updated: 2025-02-17T07:48:04.453Z
+date: 2025-02-27T00:04:34.400Z
+updated: 2025-03-05T21:30:31.509Z
 tags:
   - deals
 categories:
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 * [Perform a System Restore](https://win11.techidaily.com/clearing-the-path-for-team-success-resolving-80080300-errors-on-w11/)
 
  Has your wireless Windows mouse suddenly stopped responding? It's a frustrating issue that's tricky to diagnose; the fault could lie with the hardware itself (like the mouse or the USB receiver) or with your computer software. But don't worry—follow our advice to get your mouse working again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  1\. Undertake Basic Device Diagnosis
 
@@ -61,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
  Alternatively, if everything works on another device, it means the issue is with your computer rather than the mouse or receiver.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  2\. Disable USB Power Management
 
  A USB receiver requires an adequate amount of power from the computer to work properly. Windows has a setting which disables USB devices to save power, and this can cause issues.
@@ -72,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
  To change this, press Windows+X and select "Device Manager" from the pop-up menu.
 
 ![Windows 11 right-click Start Menu highlighting Device Manager option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-start-menu-options.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In Device Manager, scroll down and double-click the "Universal Serial Bus Controllers" section to expand it. Right-click "USB Root Hub" and select "Properties."
 
@@ -95,17 +83,9 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
 ![Windows 11 Power Options window highlighting 'Choose what the power button do' option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-control-panel-power-options-window-1.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click "Change Settings That Are Currently Unavailable."
 
 ![Windows 11 System Settings window highlighting 'Change settings that are currently unavailable' option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-power-options-system-settings-window.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now, uncheck "Turn On Fast Start-up" and click "Save Changes."
 
@@ -123,25 +103,13 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
 ![Optional Updates in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/install_optional_updates.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If Windows Update doesn't detect any available driver updates, manually install them. To do this, go directly to the mouse manufacturer's website. They should have a driver section, or they might have dedicated software—in either case, download and run the executable, then follow the prompts.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  How to Roll Back the Mouse Drivers
 
  To [roll back the drivers](https://youtube-tips.techidaily.com/24-crafting-your-youtube-legacy-a-deep-dive-into-creator-studio-mastery/), press Windows+X and select "Device Manager." Double-click the "Mice and Other Pointing Devices" section to expand it. Right-click the wireless mouse and select "Properties."
 
 ![Windows 11 Device Manager window highlighting 'Mice and other pointing devices' right-click menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-device-manager-window-2.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In the Properties window, select the "Driver" tab and click "Roll Back Driver."
 
@@ -165,19 +133,11 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
  Restart your computer, and it will automatically scan and reinstall the USB controllers. If it doesn't, go back to Device Manager and select Action > Scan for Hardware Changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  6\. Update Windows 11
 
 [Install all available Windows 11 updates](https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-realme-v30-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/) (Windows+i > Windows Update > Check for Updates) and restart your computer. Keeping Windows up-to-date can resolve many issues.
 
 ![Click "Check for updates."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/win11_click_check_for_updates.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  On the other hand, sometimes Windows updates can be buggy and be the root of the problem. If you recently updated Windows and your mouse stopped working afterward, [uninstall the recent Windows update](https://hardware-help.techidaily.com/download-updated-wireless-network-adapter-driver-for-windows-versions-win11-win10-win8-win7/) (Windows+i > Windows Update > Update History > Uninstall Updates).
 
@@ -230,18 +190,22 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/2024-approved-subtly-lowering-volume-alives-guide/"><u>2024 Approved Subtly Lowering Volume Alive’s Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-subtle-soundplayback/"><u>2024 Approved The Art of Subtle Soundplayback</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-picks-for-cutting-edge-websites-of-text-styling-tools/"><u>2024 Approved Top Picks for Cutting-Edge Websites of Text Styling Tools</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-unveiling-the-top-text-styling-portals-for-creatives/"><u>2024 Approved Unveiling the Top Text Styling Portals for Creatives</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/boosting-engagement-interactive-features-of-zoom-on-win11-pcs/"><u>Boosting Engagement Interactive Features of Zoom on Win11 PCs</u></a></li>
-<li><a href="https://driver-error.techidaily.com/cease-perpetual-bluetooth-signal-in-win10/"><u>Cease Perpetual Bluetooth Signal in Win10</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-itel-a60s-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Itel A60s.</u></a></li>
-<li><a href="https://article-helps.techidaily.com/how-to-take-landscape-photos-on-iphone-killer-tips-for-2024/"><u>How to Take Landscape Photos on iPhone [Killer Tips] for 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-understanding-whatsapps-telephony-services/"><u>In 2024, Understanding WhatsApp’s Telephony Services</u></a></li>
-<li><a href="https://some-skills.techidaily.com/perfect-pan-and-tilt-for-clearer-captures-for-2024/"><u>Perfect Pan & Tilt for Clearer Captures for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-your-devices-find-and-install-the-best-usb-c-drivers-for-windows-10-here/"><u>Secure Your Devices: Find & Install the Best USB-C Drivers for Windows 10 Here!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-slow-motion-spectrum-top-cams-reviewed-by-experts-for-2024/"><u>The Slow-Motion Spectrum Top Cams Reviewed by Experts for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-redefining-digital-space-alternative-video-hosting-sites/"><u>[New] In 2024, Redefining Digital Space Alternative Video Hosting Sites</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-best-10-online-subtitle-editors/"><u>[New] The Best 10 Online Subtitle Editors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-pathway-to-perfect-pitches-insights-from-magix-maker/"><u>[New] The Pathway to Perfect Pitches Insights From Magix Maker</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-digital-dissection-the-vll-review-process-for-2024/"><u>[Updated] Digital Dissection The VLL Review Process for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-real-time-skype-monitoring-with-live-obs-integration/"><u>[Updated] Real-Time Skype Monitoring with Live OBS Integration</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-innovations-a-comparison-between-iphones-face-id-and-galaxy-recognition/"><u>[Updated] Unlocking Innovations A Comparison Between iPhone's Face ID & Galaxy Recognition</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-dive-into-youtubes-best-practices-for-playlist-design/"><u>2024 Approved Dive Into Youtube's Best Practices for Playlist Design</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-list-all-rounder-camcorders/"><u>2024 Approved Ultimate List All-Rounder Camcorders</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/efficiently-allocating-more-memory-to-minecraft-for-2024/"><u>Efficiently Allocating More Memory to Minecraft for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-7-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 7 to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamline-document-creation-with-microsoft-word-speech-recognition/"><u>In 2024, Streamline Document Creation with Microsoft Word Speech Recognition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-techniques-to-combat-unsteady-shot-dynamics/"><u>In 2024, Techniques to Combat Unsteady Shot Dynamics</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-using-gifs-in-your-instagram-comments/"><u>Mastering the Art of Using GIFs in Your Instagram Comments</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-to-immaculate-file-registration-with-imsm/"><u>Step-by-Step Guide to Immaculate File Registration with IMSM</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-avi-to-gif-conversion-with-filmora-platform-for-2024/"><u>The Ultimate Guide to AVI-to-GIF Conversion with Filmora Platform for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-tier-mobile-cloud-space-hacks-for-android-for-2024/"><u>Top-Tier Mobile Cloud Space Hacks for Android for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-oneplus-nord-n30-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On OnePlus Nord N30 5G? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

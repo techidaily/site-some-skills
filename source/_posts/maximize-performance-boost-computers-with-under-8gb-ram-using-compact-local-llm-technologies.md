@@ -1,7 +1,7 @@
 ---
 title: "Maximize Performance: Boost Computers with Under 8GB RAM Using Compact Local LLM Technologies"
-date: 2025-02-10T23:01:46.090Z
-updated: 2025-02-17T00:26:05.121Z
+date: 2025-03-02T22:27:06.519Z
+updated: 2025-03-05T17:17:16.138Z
 tags:
   - cutting-edge
 categories:
@@ -11,20 +11,12 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 
 ## Maximize Performance: Boost Computers with Under 8GB RAM Using Compact Local LLM Technologies
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Using local LLM-powered chatbots strengthens data privacy, increases chatbot availability, and helps minimize the cost of monthly online AI subscriptions.
 * Local LLM-powered chatbots DistilBERT, ALBERT, GPT-2 124M, and GPT-Neo 125M can work well on PCs with 4 to 8GBs of RAM.
 
  Local AI chatbots, powered by large language models (LLMs), work only on your computer after correctly downloading and setting them up. They usually need a lot of computer memory (RAM) to work well. However, a few great models can perform on computers with as little as 4GB of RAM.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Why Use Local LLM Chatbots?
 
@@ -54,17 +46,9 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 
 ![DistilBERT Homepage-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/distilbert-homepage-1.PNG) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [ALBERT](https://huggingface.co/docs/transformers/model%5Fdoc/albert)is designed differently than DistilBERT, as it works by sharing parts of the model in a way that helps it process data quickly without using much memory.
 
 ![Hugging Face ALBERT Homepage](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/hugging-face-albert-homepage.PNG) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  I highly recommend starting as a beginner with DistilBERT and ALBERT, even if you have a high-memory PC. Beginning with these two models allowed me to learn the basics without being overwhelmed by the complexity of larger models.
 
@@ -79,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
  The Neo 125M is designed to balance performance and resource requirements. This model’s performance is on par with GPT-2, but it's adjusted to use memory more efficiently. It’s powerful enough for many tasks yet light enough to run on only 8GBs, although it struggles with anything less than that.
 
 ![GPT-Neo 125 Model Repository](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/gpt-neo-125-source-code.PNG) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Get Started with Local LLM Chatbots
 
@@ -115,15 +95,24 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-best-of-the-best-yts-premier-unboxing-sites/"><u>[New] The Best of the Best YT's Premier Unboxing Sites</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-unlocking-potential-the-best-non-vimeo-editors-listed-for-2024/"><u>[New] Unlocking Potential The Best Non-Vimeo Editors Listed for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-amp-up-your-audio-game-with-top-4-budget-convert-apps-for-2024/"><u>[Updated] Amp Up Your Audio Game with Top 4 Budget Convert Apps for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-4k-experience-deep-dive-into-samsungs-ue590/"><u>[Updated] The Ultimate 4K Experience - Deep Dive Into Samsung's UE590</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-scrutinizing-the-benefits-of-itops-screencasting/"><u>2024 Approved Scrutinizing the Benefits of ITop's Screencasting</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-resource-compilation-for-media-imagery/"><u>2024 Approved Ultimate Resource Compilation for Media Imagery</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-future-of-marketing/"><u>2024 Approved Unveiling the Future of Marketing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-top-10-techniques-live-cricket-broadcasting/"><u>2024 Approved Unveiling Top 10 Techniques Live Cricket Broadcasting</u></a></li>
-<li><a href="https://apple-account.techidaily.com/conquering-empires-through-strategy-an-insightful-imperator-rome-review/"><u>Conquering Empires Through Strategy: An Insightful Imperator: Rome Review</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-auditory-illusions-video-meets-apple-music/"><u>In 2024, Auditory Illusions Video Meets Apple Music</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essential-guide-to-enhancing-ar-with-lut-knowledge/"><u>[New] The Essential Guide to Enhancing AR with LUT Knowledge</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-toontech-complete-insight-2024-edition/"><u>[New] ToonTech Complete Insight - 2024 Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-calm-tales-on-screen-analyzing-parent-child-bedtime-videos/"><u>2024 Approved Calm Tales on Screen Analyzing Parent-Child Bedtime Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-images-with-the-best-color-adjustment-guides/"><u>2024 Approved Transforming Images with the Best Color Adjustment Guides</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-visualize-your-movies-with-best-grabbers/"><u>2024 Approved Visualize Your Movies with Best Grabbers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-anker-superspeed-usb-3/"><u>Comprehensive Anker SuperSpeed USB 3</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/discovering-power-in-sleekness-detailed-examination-of-the-microsoft-surface-laptop-4-experience/"><u>Discovering Power in Sleekness: Detailed Examination of the Microsoft Surface Laptop 4 Experience</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Xiaomi Civi 3? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-in-depth-analysis-top-15-youtube-channels-for-epic-product-reviews/"><u>In 2024, In-Depth Analysis Top 15 YouTube Channels for Epic Product Reviews</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-mastery-of-screen-recording-top-6-on-mac-systems/"><u>In 2024, Mastery of Screen Recording Top 6 on Mac Systems</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-secrets-of-finding-exclusive-youtube-design-archives/"><u>In 2024, Secrets of Finding Exclusive YouTube Design Archives</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-stunning-images-with-the-latest-iphone-camera-features/"><u>In 2024, Stunning Images with the Latest iPhone Camera Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-calming-chorus-proven-voices-aid-sleep/"><u>In 2024, The Calming Chorus Proven Voices Aid Sleep</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-popular-virtual-reality-peripherals/"><u>In 2024, Top 10 Popular Virtual Reality Peripherals</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-most-effective-internet-tools-for-caption-perfection/"><u>In 2024, Unveiling the Most Effective Internet Tools for Caption Perfection</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/rectify-windows-11-booting-issue-with-inaccessible-disk-error-bsod-detailed-photo-tutorial/"><u>Rectify Windows 11 Booting Issue with Inaccessible Disk Error (BSOD): Detailed Photo Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/superior-portable-sonic-performance-unveiled-in-latest-speaker-testing-high-fidelity-sound-across-genres-zdnet-insight/"><u>Superior Portable Sonic Performance Unveiled in Latest Speaker Testing | High Fidelity Sound Across Genres - ZDNet Insight</u></a></li>
+<li><a href="https://some-skills.techidaily.com/superior-settings-visuals-that-stick-with-viewers-for-2024/"><u>Superior Settings Visuals that Stick With Viewers for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-game-screens-for-ps5-and-xbox-series-x-revealed-for-2024/"><u>Top Game Screens for PS5 and Xbox Series X Revealed for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Playback and Conversion of Music Tracks From Your CDs in the Windows Operating System"
-date: 2025-02-16T05:02:14.070Z
-updated: 2025-02-17T03:48:37.064Z
+date: 2025-02-27T23:28:38.404Z
+updated: 2025-03-05T17:20:04.110Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/50f9025d1cd24e51aee5d683c09c648b774d15c54
 ---
 
 ## Step-by-Step Guide: Playback and Conversion of Music Tracks From Your CDs in the Windows Operating System
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -50,10 +46,6 @@ The ASUS ZenDrive Silver is a basic and affordable external optical drive, with 
 
  The disc drive can be useful for more than just ripping CDs, too. You can play DVDs and some Blu-ray movies with applications like [VLC Media Player](https://www.videolan.org/vlc/), or read data discs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Rip a CD With Media Player
 
  You can use the modern Media Player application to manage your local music library and rip audio CDs. It's installed by default on most Windows 11 computers, just search for "Media Player" in the Start Menu.
@@ -76,17 +68,9 @@ The ASUS ZenDrive Silver is a basic and affordable external optical drive, with 
 
 ![Screenshot of Rip CD button in Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/untitled.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can access the your newly-ripped music from the Music tab in the Media Player app. It's easier to find if you switch to the Albums tab and sort by Date added.
 
 ![Screenshot of Music page in Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/clipboard-jun-7-2024-at-4-38-pm.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Ripped audio doesn't include album art or other metadata, but you can fix that with a few clicks. Open the album you just ripped, click the "Edit info" button, then click "Update album info online."
 
@@ -118,27 +102,15 @@ wmplayer
 
 ![Rip CD button in Windows Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/rip.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After the rip is complete, your music will be accessible from the "Music" tab in the left sidebar.
 
 ![Screenshot of Music tab in Windows Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/music.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Ripped audio doesn't include album art or other metadata, but you can fix that with a few clicks. Right-click the album you just ripped, then select "Find album info."
 
 ![Find album info menu in Windows Media Player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/music-1.png) 
 
  Windows Media Player will check for metadata online, and if it finds more data, it will ask you for confirmation before writing changes to the files.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Backing up Your Music
 
@@ -169,22 +141,18 @@ shell:My Music
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-accelerating-windows-document-analysis/"><u>[New] Accelerating Windows Document Analysis</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-revolutionizing-video-recording-insights-on-camstudios-latest-release/"><u>[New] In 2024, Revolutionizing Video Recording - Insights on CamStudio's Latest Release</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-scaling-movies-on-a-mac-for-impeccable-instagram-shares/"><u>[New] Scaling Movies on a Mac for Impeccable Instagram Shares</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-collection-8-amazing-3d-websites-with-gold/"><u>[New] The Ultimate Collection 8 Amazing 3D Websites with Gold</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-offline-transcription-programs-for-speech/"><u>[New] Top Offline Transcription Programs for Speech</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-five-best-racing-games-on-the-market-today/"><u>[Updated] The Five Best Racing Games on the Market Today</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-8-speed-upters-accelerate-your-android-media/"><u>[Updated] Top 8 Speed Upters - Accelerate Your Android Media</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleashing-creativity-in-hd-windows-powered-visionary-editing-and-viewing/"><u>[Updated] Unleashing Creativity in HD Windows-Powered Visionary Editing & Viewing</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cartooncast-comprehensive-24-guidebook-for-2024/"><u>CartoonCast Comprehensive '24 Guidebook for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatxt-powered-content-development-techniques/"><u>ChaTxt-Powered Content Development Techniques</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crafting-engaging-dialogues-for-your-vlog-showcase/"><u>Crafting Engaging Dialogues for Your Vlog Showcase</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deciding-the-winner-an-in-depth-comparison-of-huggingchat-and-chatgpt-capabilities/"><u>Deciding the Winner: An In-Depth Comparison of HuggingChat and ChatGPT Capabilities</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-to-use-periscope-the-complete-guide/"><u>How to Use Periscope The Complete Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-future-adopting-macos-11-big-sur-for-growth/"><u>In 2024, Unveiling The Future Adopting macOS 11 Big Sur for Growth</u></a></li>
-<li><a href="https://some-skills.techidaily.com/sync-music-and-visuals-the-art-of-canva-editing-for-2024/"><u>Sync Music & Visuals The Art of Canva Editing for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-essential-checklist-for-creating-stellar-titles-for-2024/"><u>The Essential Checklist for Creating Stellar Titles for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-flashy-game-collection-quick-and-lightweight-for-2024/"><u>Ultimate Flashy Game Collection - Quick and Lightweight for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-mastering-instagram-video-downloads-pcmac-guide/"><u>[New] In 2024, Mastering Instagram Video Downloads PC/Mac Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-slug-lines-essentials-and-application-guide/"><u>[New] Understanding Slug Lines Essentials & Application Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-webcam-setup-for-quick-recordings-on-chromebooks-for-2024/"><u>[New] Webcam Setup for Quick Recordings on Chromebooks for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-instagram-mastery-for-phones-choose-from-the-top-8-timers/"><u>[Updated] In 2024, Instagram Mastery for Phones - Choose From The Top 8 Timers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-maximizing-viewership-techniques-for-selecting-featured-channels-for-2024/"><u>[Updated] Maximizing Viewership Techniques for Selecting Featured Channels for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-universal-vmix-adapter/"><u>[Updated] Universal VMix Adapter</u></a></li>
+<li><a href="https://win-dash.techidaily.com/detailed-walkthrough-to-successfully-update-asus-pce-ac56-drivers-in-recent-windows-versions-winsolved/"><u>Detailed Walkthrough to Successfully Update ASUS PCE-AC56 Drivers in Recent Windows Versions [WINSOLVED]</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-aurora-high-dynamic-range-review-pros-and-cons/"><u>In 2024, Aurora High-Dynamic Range Review – Pros & Cons</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-inside-the-world-of-digital-performer-reviews/"><u>In 2024, Inside the World of Digital Performer Reviews</u></a></li>
+<li><a href="https://facebook.techidaily.com/post-deletion-reality-check-on-fb/"><u>Post-Deletion Reality Check on FB</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-new-tech-horizon-with-microsofts-hololens-review-for-2024/"><u>The New Tech Horizon with Microsoft's HoloLens Review for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-whatsapps-telephony-services-for-2024/"><u>Understanding WhatsApp’s Telephony Services for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/unlock-creative-expressions-building-stories-from-photos-in-pixiz-for-2024/"><u>Unlock Creative Expressions Building Stories From Photos in Pixiz for 2024</u></a></li>
 </ul></div>
 

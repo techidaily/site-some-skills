@@ -1,7 +1,7 @@
 ---
 title: Mastering Printer Configuration & Control in Windows 11 – A Comprehensive How-To
-date: 2025-02-10T16:16:52.352Z
-updated: 2025-02-16T22:30:42.677Z
+date: 2025-03-03T00:08:34.674Z
+updated: 2025-03-05T21:22:46.677Z
 tags:
   - desktop
 categories:
@@ -41,27 +41,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  You can remove a printer from here, too, if you like. In the Settings window, click a printer and click "Remove Device." In the Control Panel, right-click a printer and select "Remove Device."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Change Printing Preferences
 
  To change your printer's settings, head to either Settings > Devices > Printers & Scanners or Control Panel > Hardware and Sound > Devices and Printers. In the Settings interface, click a printer and then click "Manage" to see more options.
 
 ![img_5b760d784359d](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760d784359d.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the Control Panel, right-click a printer to find various options.
 
 ![img_5b760dc514f59](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760dc514f59.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To change how the printer prints, click the "Printing Preferences" option in the Settings window or context menu. You'll see a variety of options for controlling your prints here, and the settings you see will depend on the ones your printer supports.
 
@@ -69,17 +57,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![img_5b760ec197ec6](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760ec197ec6.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also access these settings while printing. Just select a printer in the Print window and then click the "Preferences" button. Note that some applications have their own print dialogs, so this option might not always be present or the window might look different
 
 ![img_5b760ef96454b](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760ef96454b.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Change Printer Device Settings
 
@@ -94,10 +74,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  On the "Advanced" pane, you'll even see an option that lets you choose when the printer is available. For example, if you only want to use your printer during business hours, you could select 9 am to 5 pm here. People wouldn't be able to print to the printer outside of your selected hours, which is especially useful if you've configured it as a network printer and don't want people printing to it during off hours.
 
 ## ![](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760f9652249.png)How to Print a Test Page
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can quickly check whether your printer is working and configured properly by printing a test page. Locate the printer in Settings > Devices > Printers & Scanners, click it, click the "Manage" button, and click the "Print a test page" link.
 
@@ -119,10 +95,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![img_5b7613d4cbff2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b7613d4cbff2.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also right-click a printer in the Control Panel's Devices and Printers window and select "Set as Default Printer" to set it as your default.
 
 ![img_5b7612fc559b2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b7612fc559b2.png) 
@@ -136,10 +108,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To open this, head to Settings > Devices > Printers & Scanners, click the printer for which you want to view the queue, and then click "Open Print Queue." In the Control Panel interface, you can right-click a printer and select "See What's Printing." You might also see a printer icon in the notification area while printing; clicking the icon also opens the print queue.
 
 ![img_5b76179d0fa59](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b76179d0fa59.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Each pending print job appears in the queue. If no documents are printing, the list will be empty. You can right-click a job to cancel, pause, or restart it. Sometimes print jobs can get "stuck," and you may need to [delete them and try again](https://facebook-record-videos.techidaily.com/new-in-2024-cooking-crusaders-youtube-stars-serving-up-deliciousness/).
 
@@ -179,17 +147,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![img_5b7616f600c24](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b7616f600c24.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The printer troubleshooter checks for a variety of issues that could cause printing problems on your PC and tried to fix any it finds.
 
 ![img_5b7617390a489](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b7617390a489.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the printer has a built-in display, check the display to see if it's reporting an error message. If you're not sure what the error messages mean, try plugging them into a web search engine or looking them up in your printer's manual.
 
@@ -210,22 +170,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-selecting-audio-for-your-movie-trailer/"><u>[New] Selecting Audio for Your Movie Trailer</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-8-best-fbx-game-recorder-alternatives-for-2024/"><u>[New] Top 8 Best FBX Game Recorder Alternatives for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unleash-potential-precision-zooming-for-professional-videoleap-footage/"><u>[New] Unleash Potential Precision Zooming for Professional VideoLeap Footage</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-a-comparative-analysis-of-top-10-budget-friendly-video-calls-for-2024/"><u>[Updated] A Comparative Analysis of Top 10 Budget-Friendly Video Calls for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-art-of-dialogue-in-writing-scripts/"><u>[Updated] The Art of Dialogue in Writing Scripts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-essential-8-in-virtual-reality-gaming/"><u>[Updated] The Essential 8 in Virtual Reality Gaming</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-integrity-of-format-with-ffmpegs-audio-recapture-methods/"><u>[Updated] The Integrity of Format with FFmpeg's Audio Recapture Methods</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-epic-video-with-gopro-time-lapse-strategies/"><u>2024 Approved Unlock Epic Video with GoPro Time Lapse Strategies</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/diagnosing-and-fixing-deathloops-initialization-problem/"><u>Diagnosing and Fixing Deathloop's Initialization Problem</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-how-to-delete-discord-server/"><u>In 2024, How to Delete Discord Server?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/openai-rebuttal-debunking-the-myth-of-chatgpts-diminished-smarts/"><u>OpenAI Rebuttal: Debunking the Myth of ChatGPT's Diminished Smarts</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96370918-9780876046791-planetary-influences-sojourns/"><u>Planetary Influences & Sojourns | Free Book</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/securing-chatgpt-does-it-need-improvement/"><u>Securing ChatGPT: Does It Need Improvement?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/snooze-sequences-for-kids-critical-look-at-bedtime-storytelling-vids-for-2024/"><u>Snooze Sequences for Kids Critical Look at Bedtime Storytelling Vids for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-finest-5-android-image-boosters-for-2024/"><u>The Finest 5 Android Image Boosters for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transforming-patient-reach-top-fb-med-ad-tactics-for-2024/"><u>Transforming Patient Reach Top FB Med Ad Tactics for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-how-to-sync-with-your-bose-soundlink-wirelessly/"><u>Ultimate Guide: How to Sync with Your Bose SoundLink Wirelessly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essential-blueprint-to-utilizing-google-docs-voice-recognition/"><u>[New] The Essential Blueprint to Utilizing Google Docs Voice Recognition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-smooth-slide-advanced-techniques-for-inshot-transitions/"><u>[New] The Smooth Slide Advanced Techniques for Inshot Transitions</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-the-art-of-virality-on-tiktok-techniques-for-more-interactions/"><u>[Updated] 2024 Approved The Art of Virality on TikTok Techniques for More Interactions</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-ig-upgrade-starts-here-top-tools-for-follower-growth/"><u>[Updated] In 2024, IG Upgrade Starts Here Top Tools for Follower Growth</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-navigating-googles-augmented-reality-adornments/"><u>[Updated] Navigating Google's Augmented Reality Adornments</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-ar-a-modern-illusionists-toolkit/"><u>[Updated] Unveiling AR A Modern Illusionist's Toolkit</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-phone-with-funimate-the-ultimate-apk-guide/"><u>2024 Approved Transform Your Phone with Funimate - The Ultimate APK Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/decoding-cloud-cost-the-hunt-for-affordability-continues/"><u>Decoding Cloud Cost The Hunt for Affordability Continues</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-vivo-s18-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-successfully-setting-up-your-smartaudio-device-after-initial-hiccups/"><u>Guide: Successfully Setting Up Your SmartAudio Device After Initial Hiccups</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-sunshine-strategies-enhancing-indoor-luminary-quality/"><u>In 2024, Sunshine Strategies Enhancing Indoor Luminary Quality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-checklist-for-selecting-the-best-hdr-cameras/"><u>In 2024, The Essential Checklist for Selecting the Best HDR Cameras</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-youtubes-financial-frontier-strategies-for-maximum-gains/"><u>In 2024, Youtube's Financial Frontier Strategies for Maximum Gains</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-repair-corrupt-pdf-v16-file-stellar-by-stellar-guide/"><u>Solutions to Repair Corrupt PDF v1.6 File | Stellar</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-non-functional-keys-on-windows-1011/"><u>Troubleshooting Non-Functional Keys on Windows 10/11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/twitter-vids-to-mp3-easy-extraction-techniques-for-2024/"><u>Twitter Vids to MP3 Easy Extraction Techniques for 2024</u></a></li>
 </ul></div>
 

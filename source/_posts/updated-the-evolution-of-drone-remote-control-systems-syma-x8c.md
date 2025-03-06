@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Evolution of Drone Remote Control Systems – Syma X8C"
-date: 2025-01-01T00:23:37.586Z
-updated: 2025-01-06T23:01:58.586Z
+date: 2025-03-02T21:09:09.754Z
+updated: 2025-03-05T23:05:39.791Z
 tags: 
   - screen-recording
   - ai video
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/633e4476d735dff824b3250c253c09c234e7613f8
 ![syma x8c](https://images.wondershare.com/filmora/article-images/syma-x8c.jpg)
 
 **You may also like:** [Full review for Syma X5C >>](HTTPS://filmora.wondershare.com/drones/syma-x5c-drone-review.html)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Pros and Cons of Syma X8C
 
@@ -93,35 +89,19 @@ thumbnail: https://thmb.techidaily.com/633e4476d735dff824b3250c253c09c234e7613f8
 
 ![syma x8c controller](https://images.wondershare.com/filmora/article-images/syma-x8c-controller.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Controller or the transmitter of X8C device is small enough that fits perfectly in user’s hands. Construction is completed with ABS plastic material that leads to light weight structure and this controller makes use of 2.4GHz frequency band to send control signals towards drone in air. The best thing to know about Syma X8C is that it can cover the 100 meter range impressively.
 
 #### 6\.  Camera
 
 ![syma x8c camera](https://images.wondershare.com/filmora/article-images/syma-x8c-camera.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  A drone cannot be complete without a camera mounted on its top; hence Syma has taken care of users need and they developed Syma X8C with a camera that can record everything in air. Although, it is not able to collect video information with HD quality but you will be glad to know that it is detachable and one can also make additional adjustments over its angles to adjust focus. All the recorded videos are stored inside a 4GB MicroSD card. Further, the attached gimbal assists in much stable footage.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
  By considering all above factors, we must say that Syma X8C is a well designed drone unit that can serve with much better results as an entry level aerial shoot recorder. As the price tag keeps it below $100 range so beginners find it most affordable for their learning needs and the gimbal protection leads to highly stable footage that can be shared on social media sites to impress friends. The control mechanisms is rated as highly responsive so will all these satisfactory features it becomes a must buy product for your air flight adventures.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -138,20 +118,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-blueprint-crafting-compelling-audio-visuals/"><u>[New] The Blueprint Crafting Compelling Audio Visuals</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-how-to-convert-avi-to-gif-on-windows-and-mac-with-filmora/"><u>[Updated] How to Convert AVI to GIF on Windows & Mac with Filmora</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-troubleshooting-steps-for-windows-10-photos-freeze/"><u>[Updated] Troubleshooting Steps for Windows 10 Photos Freeze</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unraveling-adobes-storage-system-guide-and-comparison-chart/"><u>[Updated] Unraveling Adobe's Storage System Guide & Comparison Chart</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-multimedia-slides-with-speech-recordings-powerpoint/"><u>2024 Approved Mastering Multimedia Slides with Speech Recordings (PowerPoint)</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-reinvent-storytelling-the-path-to-better-narratives-starts-here/"><u>2024 Approved Reinvent Storytelling – The Path to Better Narratives Starts Here</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/9-masterclass-in-live-gaming-streams/"><u>9 Masterclass in Live Gaming Streams</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-magic-6-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor Magic 6 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-web.techidaily.com/guide-facilite-reprenez-le-controle-des-fichiers-sketchup-manquants-sous-windows/"><u>Guide Facilité : Reprenez Le Contrôle Des Fichiers SketchUp Manquants Sous Windows</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-on-apple-iphone-11-pro-max-smoothly-by-drfone-ios/"><u>How To Remove iCloud On Apple iPhone 11 Pro Max Smoothly</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-best-storytelling-youtube-channels-to-follow-this-year/"><u>In 2024, The Best Storytelling YouTube Channels to Follow This Year</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-apple-iphone-8-fixed-drfone-by-drfone-virtual-ios/"><u>iSpoofer is not working On Apple iPhone 8? Fixed | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-haul-video-guide-from-camera-to-final-cut-for-2024/"><u>The Ultimate Haul Video Guide From Camera to Final Cut for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-creative-potential-the-artful-application-of-luts-in-premiere-pro-for-2024/"><u>Unlocking Creative Potential The Artful Application of LUTs in Premiere Pro for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-srts-potential-in-subtitle-format-sub-for-2024/"><u>Unveiling SRT's Potential in Subtitle Format (SUB) for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-fabricate-viral-gifs-via-giphy-portal/"><u>[New] Fabricate Viral Gifs via Giphy Portal</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-package-revelation/"><u>[New] The Art of Package Revelation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-turning-voice-into-text-mastering-microsoft-words-speech-toolkit/"><u>[New] Turning Voice Into Text Mastering Microsoft Word's Speech Toolkit</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-elevated-cinematography-mastering-drone-use/"><u>[Updated] Elevated Cinematography Mastering Drone Use</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-immortalizing-sportsmanship-techniques-for-gameplay-videos/"><u>[Updated] In 2024, Immortalizing Sportsmanship Techniques for Gameplay Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlining-your-creative-process-with-vsco-app/"><u>[Updated] Streamlining Your Creative Process with VSCO App</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-step-by-step-guide-to-saving-google-meet-interactions/"><u>2024 Approved Step-by-Step Guide to Saving Google Meet Interactions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-freelancers-companion-easy-and-affordable-audio-effect-additions/"><u>In 2024, The Freelancer's Companion Easy and Affordable Audio Effect Additions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-motorola-moto-g84-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Motorola Moto G84 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-androids-best-face-to-face-apps-the-ultimate-list/"><u>New 2024 Approved Androids Best Face-to-Face Apps The Ultimate List</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-how-to-clean-up-your-friend-list-by-removing-multiples-on-snapchat/"><u>Step-by-Step Tutorial: How to Clean Up Your Friend List by Removing Multiples on Snapchat</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-selection-of-no-cost-image-transformers-for-ios-and-android-for-2024/"><u>The Ultimate Selection of No-Cost Image Transformers for iOS and Android for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-media-projects-uploading-images-to-youtube-for-2024/"><u>Transform Your Media Projects Uploading Images to YouTube for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-advanced-augmented-reality-in-apple-vision-pro-using-spatial-personas-step-by-step-guide/"><u>Unlock Advanced Augmented Reality in Apple Vision Pro Using Spatial Personas - Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-against-windows-update-error-code-0x80070652-a-user-friendly-guide/"><u>Winning Against Windows Update Error Code 0X80070652: A User-Friendly Guide</u></a></li>
 </ul></div>
 

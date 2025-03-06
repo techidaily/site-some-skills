@@ -1,7 +1,7 @@
 ---
 title: NY Times Crossword Puzzle Solutions - Today's Clues & Answers Revealed, May 31St Edition
-date: 2025-02-16T05:14:36.095Z
-updated: 2025-02-16T23:36:20.008Z
+date: 2025-03-04T18:43:09.260Z
+updated: 2025-03-05T21:35:23.279Z
 tags:
   - web
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## NY Times Crossword Puzzle Solutions - Today's Clues & Answers Revealed, May 31St Edition
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -42,10 +38,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![May 29th's Connections words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-29th-connections.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you still need help, the actual group names are:
 
 * **Yellow:** Corpus.
@@ -56,10 +48,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ##  Today's NYT Connections Answers
 
 ![May 31st's Connections groups and word.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-31stconnections-filled.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Corpus (Yellow):** 
 
@@ -77,10 +65,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Hands, Maraca, Polaroid, Snowglobe
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How Did We Solve This Connections Game?
 
  May 31st wasn't too bad, but it had one major red herring that threw me off immediately.
@@ -94,10 +78,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Body and canon can refer to "a body of literary works." That brought in works. Of the remaining words, I don't recognize the word oeuvre at all, so I threw that one in for good measure. Together, body, canon, oeuvre, and works were in the Yellow group, "Corpus." 
 
  That left hands, maraca, polaroid, and snowglobe. I wasn't able to figure out the connection between them, but luckily I didn't need to. Purple was "Things People Shake." 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How Do You Guess Connections Groups?
 
@@ -127,22 +107,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-beginners-blueprint-for-youtube-income-growth/"><u>[New] 2024 Approved Beginner's Blueprint for YouTube Income Growth</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-elite-mac-compatible-4k-screens-ranked-1-for-2024/"><u>[New] Elite Mac-Compatible 4K Screens Ranked #1 for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-social-stunt-planters-handbook-meme-mastery-at-9gag/"><u>[New] The Social Stunt Planters' Handbook Meme Mastery at 9GAG</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-tips-for-gaining-attention-via-snapchat-star/"><u>[New] Tips for Gaining Attention via Snapchat Star</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-10-subtitle-converters-no-cost-for-srt-files/"><u>[New] Top 10 Subtitle Converters, No Cost for SRT Files</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-convincing-viewers-discovering-effective-video-styles/"><u>[Updated] 2024 Approved Convincing Viewers Discovering Effective Video Styles</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/1716118409092-updated-facebook-videos-vertical-or-horizontal-for-2024/"><u>[Updated] Facebook Videos Vertical or Horizontal for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transform-your-images-basic-tips-with-lunapic/"><u>[Updated] Transform Your Images Basic Tips with LunaPic</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-perfecting-your-pics-with-facetune-a-full-guide/"><u>2024 Approved Perfecting Your Pics with Facetune - A Full Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-volume-of-videos-on-a-64128gb-memory-bank/"><u>2024 Approved The Volume of Videos on a 64/128GB Memory Bank</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-11-techniques-for-perfecting-color-in-post-production/"><u>2024 Approved Top 11 Techniques for Perfecting Color in Post-Production</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-oppo-a79-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Oppo A79 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-oppo-find-n3-flip-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Oppo Find N3 Flip FRP Bypass Instantly</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-shots-and-their-tales-the-most-shared-stock-memes/"><u>In 2024, Top Shots and Their Tales The Most Shared Stock Memes</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-oppo-f23-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Oppo F23 5G? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tailoring-humor-with-9gag-your-personal-meme-making-manual-for-2024/"><u>Tailoring Humor with 9GAG Your Personal Meme Making Manual for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-best-choices-for-switchs-hd-gaming/"><u>[New] In 2024, Best Choices for Switch's HD Gaming</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-becoming-an-active-participant-in-tiktok-lives/"><u>2024 Approved Becoming an Active Participant in TikTok Lives</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-leading-corporate-cloud-vault-selection/"><u>2024 Approved Leading Corporate Cloud Vault Selection</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-learn-to-switch-up-your-instagram-vocal-branding/"><u>2024 Approved Learn to Switch Up Your Instagram Vocal Branding</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-outshine-others-expert-tips-on-making-youtube-shorts-pop/"><u>2024 Approved Outshine Others Expert Tips on Making YouTube Shorts Pop</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-fast-framing-homemade-tips-for-pros/"><u>2024 Approved Top 5 Fast-Framing Homemade Tips for Pros</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-motorola-moto-g24-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Motorola Moto G24 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-bridging-video-and-gif-a-practical-path-from-vimeo-to-animation/"><u>In 2024, Bridging Video and GIF A Practical Path From Vimeo to Animation</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-harnessing-tech-acquiring-fb-status-video-content/"><u>In 2024, Harnessing Tech Acquiring FB Status Video Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-teleportation-and-time-warp-techniques-for-visual-effects/"><u>In 2024, Teleportation and Time Warp Techniques for Visual Effects</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-best-gopro-for-action-compare-max-and-hero-11/"><u>In 2024, The Best GoPro for Action Compare Max and Hero 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-perfect-perspective-optimal-cropping-with-iphone-apps/"><u>In 2024, The Perfect Perspective Optimal Cropping with iPhone Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-essentials-for-enhanced-uav-functionality/"><u>In 2024, Top Essentials for Enhanced UAV Functionality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-android-toolset-for-3d-video-players/"><u>In 2024, Ultimate Android Toolset for 3D Video Players</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/leaders-in-next-gen-sensory-devices/"><u>Leaders in Next-Gen Sensory Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-pantheon-of-praise-celebrating-ten-superstar-posts-for-2024/"><u>The Pantheon of Praise Celebrating Ten Superstar Posts for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-revolutionary-impact-future-of-vr-cinematic-experience-for-2024/"><u>The Revolutionary Impact Future of VR Cinematic Experience for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/the-syncopated-science-of-video-and-music-on-vimeo/"><u>The Syncopated Science of Video and Music on Vimeo</u></a></li>
+<li><a href="https://driver-download.techidaily.com/windows-users-guide-fresh-downloads-of-amd-radeon-hd-graphics-drivers/"><u>Windows Users Guide: Fresh Downloads of AMD Radeon HD Graphics Drivers</u></a></li>
 </ul></div>
 

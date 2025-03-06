@@ -1,7 +1,7 @@
 ---
 title: "Bankruptcy Alert: How a Massive $30+ Million Bitcoin Robbery Rocked Crypto.com"
-date: 2025-02-15T06:23:09.999Z
-updated: 2025-02-17T02:20:49.100Z
+date: 2025-03-04T19:13:12.316Z
+updated: 2025-03-05T21:39:50.551Z
 tags:
   - cutting-edge
 categories:
@@ -11,20 +11,12 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
 ## Bankruptcy Alert: How a Massive $30+ Million Bitcoin Robbery Rocked Crypto.com
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Happened to Crypto.com?](https://youtube-video-recordings.techidaily.com/uncover-the-best-youtubes-top-10-vr-videos/)
 * [What Is Crypto.com Doing to Fix It?](https://remote-screen-capture.techidaily.com/new-2024-approved-efficiently-archiving-mov-movies-on-windows-10-pcs/)
 
  A considerable hack occurred on the popular [cryptocurrency exchange](https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-itel-p40plus-phones-by-drfone-android/) Crypto.com. The hack led to over $30 million in crypto being stolen in the form of 4,836.26 Ethereum and 443.93 bitcoin.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What Happened to Crypto.com?
 
@@ -41,10 +33,6 @@ Related: [What is Ethereum, and What Are Smart Contracts?](https://extra-informa
  From the blog post, here's what Crypto.com said happened:
 
 > On Monday, 17 January 2022 at approximately 12:46 AM UTC Crypto.com's risk monitoring systems detected unauthorized activity on a small number of user accounts where transactions were being approved without the 2FA authentication control being inputted by the user. This triggered an immediate response from multiple teams to assess the impact. All withdrawals on the platform were suspended for the duration of the investigation. Any accounts found to be impacted were fully restored. Crypto.com revoked all customer 2FA tokens, and added additional security hardening measures, which required all customers to re-login and set up their 2FA token to ensure only authorized activity would occur. Downtime of the withdrawal infrastructure was approximately 14 hours, and withdrawals were resumed at 5:46 PM UTC, 18 January 2022.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What Is Crypto.com Doing to Fix It?
 
@@ -75,22 +63,20 @@ Related: [Opera Just Launched a Crypto Browser for Some Reason](https://howto.te
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-speedy-viewing-manipulating-stories-frame-rate-on-instagram/"><u>[New] In 2024, Speedy Viewing Manipulating Stories' Frame Rate on Instagram</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-integrating-zoom-with-your-android-gadget/"><u>[New] Integrating Zoom with Your Android Gadget</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-online-seminar-creation-assistant/"><u>[New] Ultimate Online Seminar Creation Assistant</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-under-100-investments-in-action-cameras-top-selections/"><u>[New] Under $100 Investments in Action Cameras – Top Selections</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-full-degree-potential-editing-strategies-with-adobe-premiere/"><u>[New] Unlocking Full Degree Potential Editing Strategies with Adobe Premiere</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-whimsical-video-downloader-score-for-2024/"><u>[New] Whimsical Video Downloader Score for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-next-decades-digital-marketing-shifts-in-facebook-advertising/"><u>[Updated] 2024 Approved Next Decade's Digital Marketing Shifts in Facebook Advertising</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-strategy-for-organizing-a-zoom-event-on-your-phonetablet/"><u>2024 Approved The Ultimate Strategy for Organizing a Zoom Event on Your Phone/Tablet</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-hidden-potential-essential-edits-for-starters/"><u>2024 Approved Unlock Hidden Potential Essential Edits for Starters</u></a></li>
-<li><a href="https://article-helps.techidaily.com/arcane-acoustics-how-legit-is-the-vocal-transformation-application-look-elsewhere/"><u>Arcane Acoustics How Legit Is the Vocal Transformation Application? Look Elsewhere</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-iphone-hdr-photography-skills/"><u>In 2024, The Essential iPhone HDR Photography Skills</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/integrating-streamlabs-smoothly-with-obs-on-macbooks/"><u>Integrating Streamlabs Smoothly with OBS on MacBooks</u></a></li>
-<li><a href="https://facebook.techidaily.com/scrutinizing-your-social-media-supporters/"><u>Scrutinizing Your Social Media Supporters</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-acid-pro-effect-exploring-similar-tools/"><u>The ACID Pro Effect Exploring Similar Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/turbocharge-fb-video-speed-selective-extensions-and-apps-guidebook-for-2024/"><u>Turbocharge FB Video Speed Selective Extensions & Apps Guidebook for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unraveling-the-genius-behind-the-ring-video-doorbell-pros-innovative-design/"><u>Unraveling the Genius Behind the Ring Video Doorbell Pro's Innovative Design</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-frame-by-frame-top-10-tools-to-convert-videos-to-images-for-2024/"><u>Updated Frame by Frame Top 10 Tools to Convert Videos to Images for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-how-to-delete-facebook-story/"><u>[New] In 2024, How to Delete Facebook Story?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tapered-music-transitions-an-intuitive-premiere-pro-tutorial/"><u>[New] Tapered Music Transitions An Intuitive Premiere Pro Tutorial</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-twenty-techniques-for-rewinding-livestreams-online/"><u>[New] Top Twenty Techniques for Rewinding Livestreams Online</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-vimeo-demystified-for-passionate-creators-and-viewers-for-2024/"><u>[New] Vimeo Demystified For Passionate Creators & Viewers for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-craft-professional-edits-with-story-remix-in-windows-photos-app/"><u>[Updated] Craft Professional Edits with Story Remix in Windows Photos App</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-complete-guide-to-creating-a-vr-ready-environment/"><u>[Updated] The Complete Guide to Creating a VR-Ready Environment</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-updated-query-catalog-to-connect-with-podcast-loyalists/"><u>[Updated] Updated Query Catalog to Connect with Podcast Loyalists</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-perfection-in-depth-tutorial-on-utilizing-photoshops-background-eraser-tool/"><u>2024 Approved The Art of Perfection In-Depth Tutorial on Utilizing Photoshop's Background Eraser Tool</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-audio-respeeders-fast-fix-for-pace-modification/"><u>2024 Approved Top Audio Respeeders Fast-Fix for Pace Modification</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/analisi-di-sicurezza-per-siti-web-and-software-e-sicuro-con-movavi/"><u>Analisi Di Sicurezza per Siti Web & Software: È Sicuro Con Movavi?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-mini-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 mini to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-what-is-periscope-is-it-free-and-how-to-sign-up-it/"><u>In 2024, What Is Periscope? Is It Free and How to Sign up It?</u></a></li>
+<li><a href="https://win-web3.techidaily.com/next-level-backup-solutions-win32-disk-imager-alternatives-unveiled/"><u>Next-Level Backup Solutions: Win32 Disk Imager Alternatives Unveiled</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-subtlety-garagebands-audio-softening-for-2024/"><u>The Art of Subtlety Garageband's Audio Softening for 2024</u></a></li>
 </ul></div>
 

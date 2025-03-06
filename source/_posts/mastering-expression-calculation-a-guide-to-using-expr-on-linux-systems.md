@@ -1,7 +1,7 @@
 ---
 title: "Mastering Expression Calculation: A Guide to Using 'Expr' On Linux Systems"
-date: 2025-02-10T23:00:42.284Z
-updated: 2025-02-17T05:03:57.542Z
+date: 2025-02-28T00:57:54.384Z
+updated: 2025-03-05T16:49:04.060Z
 tags:
   - desktop
 categories:
@@ -68,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 
  This option displays the version number, source code, license, and author of expr.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Performing Arithmetic Operations With expr
 
  To use the expr command for basic arithmetic operations, write the command expr followed by a space. Then, write the expression that you want to evaluate. This expression is a combination of integers and operators such as +, -, \*, and /. Make sure to separate each token (integer or operator) in the expression by a space character.
@@ -93,10 +89,6 @@ expr 10 / 2`
  You need to escape the multiplication (\*) operator with a backslash (\\) to avoid shell expansion. Otherwise, the shell will try to match the operator (\*) with the filenames in the current directory and pass them to the expr command, which will cause an error.
 
 ![Linux terminal with syntax error](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-1-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also prevent the shell from interpreting the characters by quoting the arguments and operators properly:
 
@@ -126,19 +118,11 @@ expr 10 / 2`
     
 ![Linux terminal showing the comparison of two values using the expr command with not equal to operator](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-8.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Here, the output 1 indicates that 45 is not equal to 55.
 
  This way, the expr command provides a simple and effective method to compare numerical values.
 
  Like the multiplication (\*) operator, the <, >, and != operators also need to be escaped with a backslash (\\). Otherwise, they may be interpreted as special characters by the shell.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Finding a String's Length With expr
 
@@ -157,10 +141,6 @@ expr 10 / 2`
 ![Linux terminal displaying the string length without the including the white spaces](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-1-1.png) 
 
  The output will be nine because the tr command deletes all the spaces in the string before passing it to the expr length command.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Matching Two Strings With expr
 
@@ -192,14 +172,6 @@ expr 10 / 2`
     
 ![The Linux terminal displays how to match different string variables using the expr command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/12-5.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Incrementing and Decrementing a Variable With expr
 
  The expr command can also evaluate an expression that increments and decrements a variable's value. Further, you can assign the result to a new variable.
@@ -211,10 +183,6 @@ a=`expr $a + 1`
 echo $a ``
     
 ![The Linux terminal displays usage of expr command to increment the variable value by 1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/13-2.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Similarly, to decrement the variable value, use the same syntax but replace the addition sign with subtraction:
 
@@ -235,14 +203,6 @@ b=`expr substr $a 2 5`
 echo $b ``
     
 ![The Linux terminal displays the usage of the expr command with substr option to extract a substring](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/15-2.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Performing expr Operations Using a Shell Script
 
@@ -293,22 +253,24 @@ echo "Sum of two numbers is= $sum" ``
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-listen-and-write-the-gratis-method/"><u>[New] Listen and Write – The Gratis Method</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-10-budget-friendly-digital-photography-workspaces-online/"><u>[New] Top 10 Budget-Friendly Digital Photography Workspaces Online</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-10-best-mobile-writing-tools-for-iosandroid-images-for-2024/"><u>[Updated] 10 Best Mobile Writing Tools for iOS/Android Images for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-advanced-techniques-for-azure-speech-to-text-use/"><u>[Updated] Advanced Techniques for Azure Speech to Text Use</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-premier-6-modern-architecture-in-mc-world/"><u>[Updated] Premier 6 Modern Architecture in MC World</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-ultimate-guide-to-screenflow-pros-mac-edition/"><u>[Updated] The Ultimate Guide to ScreenFlow Pro's Mac Edition</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-budget-blueprint-for-creating-musical-cinematic-pieces/"><u>2024 Approved Budget Blueprint for Creating Musical Cinematic Pieces</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/emeditor-text-editor-seeking-assistance-with-command-line-usage/"><u>EmEditor Text Editor: Seeking Assistance with Command Line Usage</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ideal-laptop-solutions-for-todays-on-the-go-workers-expert-tips-on-selecting-a-non-new-thinkpad/"><u>Ideal Laptop Solutions for Today’s On-the-Go Workers - Expert Tips on Selecting a Non-New ThinkPad</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-motorola-moto-g23-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Motorola Moto G23 to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-new-horizons-in-media-grasping-the-fundamentals-of-screen-resolution/"><u>In 2024, New Horizons in Media Grasping the Fundamentals of Screen Resolution</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamline-your-study-avoiding-edgenuity-videos-efficiently/"><u>In 2024, Streamline Your Study Avoiding Edgenuity Videos Efficiently</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-encyclopedia-of-touch-based-gesture-analytics/"><u>In 2024, The Encyclopedia of Touch-Based Gesture Analytics</u></a></li>
-<li><a href="https://techidaily.com/sign-xlsx-documents-online-for-free-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Sign .xlsx Documents Online for Free</u></a></li>
-<li><a href="https://some-skills.techidaily.com/technological-trendsetters-exclusive-picks-for-2024/"><u>Technological Trendsetters - Exclusive Picks for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-personalizing-whatsapp-ringtone-on-all-devices-for-2024/"><u>The Ultimate Guide to Personalizing WhatsApp Ringtone on All Devices for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-writings-distinguished-by-genre-based-categories-for-2024/"><u>Ultimate Writings Distinguished by Genre-Based Categories for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-digital-dominance-10-screen-capture-software-ranked-for-2024/"><u>[New] Digital Dominance #10 Screen Capture Software Ranked for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-4-sites-for-free-skype-tones/"><u>[New] Top 4 Sites for Free Skype Tones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unparalleled-video-gear-top-5-slow-cams/"><u>[New] Unparalleled Video Gear Top 5 Slow Cams</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-best-of-zoom-and-tiktok-video-sync/"><u>[New] Unveiling the Best of ZOOM & TikTok Video Sync</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-flight-horizon-masters-ranking-the-high-endurance-drones/"><u>[Updated] 2024 Approved Flight Horizon Masters Ranking the High-Endurance Drones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-supreme-boundless-data-depot/"><u>2024 Approved Supreme Boundless Data Depot</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-moments-with-these-premium-screenshot-and-video-editing-apps/"><u>2024 Approved Transform Moments with These Premium Screenshot & Video Editing Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlicensed-legal-tracks-downloads-for-gaming/"><u>2024 Approved Unlicensed Legal Tracks Downloads for Gaming</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/enhance-client-satisfaction-by-maintaining-stringent-kyc-and-aml-protocols/"><u>Enhance Client Satisfaction by Maintaining Stringent KYC & AML Protocols</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-gionee-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Gionee?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-innovative-strategies-for-image-collections-procurement/"><u>In 2024, Innovative Strategies for Image Collections Procurement</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-beginners-path-to-professional-windows-10-video-production/"><u>In 2024, The Beginner's Path to Professional Windows 10 Video Production</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unboxing-unveiled-enhancing-customer-experiences/"><u>In 2024, Unboxing Unveiled Enhancing Customer Experiences</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/no-more-black-fringe-in-youtube-videos/"><u>No More Black Fringe in YouTube Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-windows-11-create-stunningly-artificially-inspired-images-using-paint-tool-sai/"><u>Transforming Windows 11: Create Stunningly Artificially-Inspired Images Using Paint Tool SAI</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722989609998-trouble-with-among-us-unstick-your-game-with-these-proven-fixes/"><u>Trouble with 'Among US'? Unstick Your Game With These Proven Fixes</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unraveling-the-mystery-understanding-and-using-slug-lines-for-2024/"><u>Unraveling the Mystery Understanding & Using Slug Lines for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/upgrade-your-gaming-experience-with-a-speedy-gtx-1660-graphics-driver-overhaul/"><u>Upgrade Your Gaming Experience with a Speedy GTX 1660 Graphics Driver Overhaul</u></a></li>
 </ul></div>
 

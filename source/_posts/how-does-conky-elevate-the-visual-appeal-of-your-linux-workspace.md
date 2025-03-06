@@ -1,7 +1,7 @@
 ---
 title: How Does Conky Elevate the Visual Appeal of Your Linux Workspace?
-date: 2025-02-15T06:40:14.143Z
-updated: 2025-02-16T16:11:48.323Z
+date: 2025-03-04T18:48:39.829Z
+updated: 2025-03-05T17:39:26.439Z
 tags:
   - desktop
 categories:
@@ -27,10 +27,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **Display custom information:** Set up calendar view, to-do list, weather, etc.
 * **Choose information source:** Embed information from any third-party sources and show it on your desktop.
 * **Tweak appearance:** Complete control over the fonts, colors, and layouts of each widget.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Installation and Set Up
 
@@ -60,10 +56,6 @@ sudo apt install conky-manager2
 
 ![Installing Conky and Conky Manager in a Linux terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/installing-conky-and-conky-manager.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You’ve successfully installed Conky and Conky Manager on your system. Now, you can technically run the Conky app directly, and you’ll get the following widget on your desktop. It’s a barebone experience where you’ll have to write scripts to tweak the appearance, behavior, and functionality of this widget.
 
 ![Conky and Conky Manager in Application Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/conky-and-conky-manager-in-application-menu.png) 
@@ -92,10 +84,6 @@ Close
 
 ![Extract the victorConky zip file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/extract-the-victorconky-zip-file.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close 
 
  For the Conky widget to work, you’ll first need to install the provided fonts. Simply enter the “fonts” folders, open each of the five fonts one by one and click on the “Install” button.
@@ -108,17 +96,9 @@ mv victorConky ~/.conky
 
 ![Move the victorConky file to your home directory conky folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/move-victoconky-file-to-home-directory-conky-folder.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, the victorConky widgets should be accessible from the Conky Manager. Open it, and you should see a list of new widgets added. I personally liked the LinuxLarge widget and use it on my system. You can enable it by clicking the checkbox beside it.
 
 ![The victorConky widget enabled and visible on an Ubuntu desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/victorconky-widget-showcase.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Useful Resources
 
@@ -158,24 +138,19 @@ mv victorConky ~/.conky
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-pathway-to-seamless-integration-of-voice-inputs-in-powerpoint-presentations/"><u>[New] The Pathway to Seamless Integration of Voice Inputs in PowerPoint Presentations</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-engaging-audiences-with-captivating-podcast-logos-for-2024/"><u>[Updated] Engaging Audiences with Captivating Podcast Logos for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-sunset-to-silhouette-adobe-guide/"><u>[Updated] Sunset to Silhouette Adobe Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-uncover-the-health-perks-of-asmr-sounds-for-2024/"><u>[Updated] Uncover the Health Perks of ASMR Sounds for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-quantum-megadesk-pure-4k-multi-touch/"><u>2024 Approved Quantum MegaDesk Pure 4K Multi-Touch</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-checklist-for-internet-broadcast-preservation/"><u>2024 Approved The Complete Checklist for Internet Broadcast Preservation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-editors-dream-becomes-reality-a-close-look-at-vida/"><u>2024 Approved The Editor's Dream Becomes Reality A Close Look at Vida</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-skills-editing-blurring-and-background-removal/"><u>2024 Approved The Essential Skills Editing, Blurring, and Background Removal</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/blur-out-not-into-discovering-photo-clarity-web-tools-for-2024/"><u>Blur Out, Not Into! Discovering Photo Clarity Web Tools for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhanced-online-engagement-through-smart-cookiebot-strategies/"><u>Enhanced Online Engagement Through Smart Cookiebot Strategies</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-competitive-edge-superior-sound-devices-reviewed/"><u>Enhancing Competitive Edge: Superior Sound Devices Reviewed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-windows-xpvistas-user-experience-for-seniors/"><u>Enhancing Windows XP/Vista's User Experience for Seniors</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/extend-your-smart-viewing-samsung-commits-to-7-years-of-free-software-updates-for-its-intelligent-tv-lineup-details-inside-techsavvy/"><u>Extend Your Smart Viewing: Samsung Commits to 7 Years of FREE Software Updates for Its Intelligent TV Lineup - Details Inside | TechSavvy</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-itel-a60-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Itel A60? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-enhancing-learning-one-talk-show-at-a-time-for-2024/"><u>The Ultimate Guide to Enhancing Learning, One Talk Show at a Time for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tips-for-kickstarting-a-social-philanthropy-blitz-for-2024/"><u>Tips for Kickstarting a Social Philanthropy Blitz for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/todays-drone-usage-tomorrows-revolutionary-pathways-for-2024/"><u>Today's Drone Usage, Tomorrow's Revolutionary Pathways for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-choosing-a-compact-tablet-industry-pros-weigh-in-cnet/"><u>Ultimate Guide to Choosing a Compact Tablet - Industry Pros Weigh In | CNET</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-effortlessly-add-youtube-videos-to-google-slate-decks/"><u>[New] 2024 Approved Effortlessly Add YouTube Videos to Google Slate Decks</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-best-box-customization-havens-on-the-internet-for-2024/"><u>[New] Best Box-Customization Havens on the Internet for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-6-networks-transforming-how-firms-connect-and-engage/"><u>[New] Top 6 Networks Transforming How Firms Connect and Engage</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-best-affordable-video-editors-in-the-market-2023-edition/"><u>[Updated] 2024 Approved Best Affordable Video Editors in the Market - 2023 Edition</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-deciding-the-best-live-streamer-vmix-against-wirecast/"><u>[Updated] In 2024, Deciding the Best Live Streamer VMix Against Wirecast</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-turn-a-flood-of-fails-into-success-with-precision-in-tiktok-editing/"><u>[Updated] Turn a Flood of Fails Into Success with Precision in TikTok Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-windows-10-key-skills-you-need/"><u>[Updated] Unlocking Windows 10 Key Skills You Need</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-taming-soundscapes-mastering-gradual-volume-increase-with-audition/"><u>2024 Approved Taming Soundscapes Mastering Gradual Volume Increase with Audition</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-logitechs-c615-model-where-savings-meet-superior-performance/"><u>Comprehensive Review of Logitech's C615 Model – Where Savings Meet Superior Performance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/highlighted-20-anime-melodies-at-start-for-2024/"><u>Highlighted 20 Anime Melodies at Start for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-elevate-your-story-game-with-multiple-image-strategies/"><u>In 2024, Elevate Your Story Game with Multiple Image Strategies</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/minecraft-skins-reimagined-an-expert-review-of-the-enchanting-campfire-tales-collection/"><u>Minecraft Skins Reimagined: An Expert Review of the Enchanting Campfire Tales Collection</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-storytelling-through-scenery-for-2024/"><u>Unveiling Storytelling Through Scenery for 2024</u></a></li>
 </ul></div>
 
